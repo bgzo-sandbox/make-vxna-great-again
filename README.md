@@ -33,6 +33,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-13 | [Ubuntu22下安装DM数据库](https://blog.wo0ow.com/22899.html) | 部分参考博客： DM8在Ubuntu上的安装部署 系统环境 Ubuntu 22 |
 | 2026-05-13 | [《随兴旅》圣地巡礼之高松玉藻城](https://www.wikimoe.com/post/b-teto449f) | 2026年5月4日天气阴，今天去高松进行《随兴旅》的圣地巡礼。 开局小插曲 此次行程的线路是从东京乘坐新干线到冈山，然后在冈山乘坐快速电车到高松。 结果那一天濑户大桥的风特别大，导致电车停运。一直到了下午才通车，属于是有惊无险了。 不过毕竟是大风天，在大风天乘坐电车驶过濑户大桥的时候，摇晃伴随大风呼… |
 | 2026-05-13 | [Memos #2026-05-12](https://www.taober.blog/memos) | 23:52 那些无法改变的事是真让人痛苦啊，更痛苦的是没有勇气去做更多，往心底里要的那块去靠。 时间在流逝。 |
+| 2026-05-12 | [试驳友谊之传递链](https://www.xiaozonglin.cn/challenge-the-chain-of-friendship-transmission/) | 传递链找不来真朋友，圈子也不解放人。 试驳友谊之传递链 最先出现在 林林杂语 。 |
 | 2026-05-12 | [拔牙-提车](https://yovey.me/hurt-and-heal/) | 王小波说过生活就是个缓慢受锤的过程。 躺在牙科椅上的三小时，切实地体会到了。 被迫扩张的下颌骨，毫无知觉的半张 … Continue reading "拔牙-提车" |
 | 2026-05-12 | [Album#39 - 海马森林 (SEAHORSE FOREST)](https://taxodium.ink/album-39.html) | Album#39 海马森林 (SEAHORSE FOREST) 图1 《海马森林》専輯封面 专辑信息 专辑名称： 海马森林 (SEAHORSE FOREST) 歌手： 表情银行 MimikBanka 年份： 2024-04-23 风格： 流行、搖滾 时长： 約 36 分鍾 最近又聴到《海马森林》這張… |
 | 2026-05-12 | [「诚实」的机器](https://www.geedea.pro/article/honest-machine/) | 四月底收到了一位读者的约稿请求（姑且称作约稿吧），起因是他在某个 Elon Musk 收购前后都没好过的 社交媒体上看到了一条 帖子 1 ，并希望听听我的看法。来回几封邮件交流过后，我觉得值得一写，于是把这篇文章列入了待办清单。 然后我就后悔了。 我不是在责备这位投稿的读者，我只是很久没有这么赤裸裸… |
