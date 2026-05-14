@@ -21,6 +21,8 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-14 | [Functional Design](https://www.geedea.pro/library/2026/functional-design/) | 一本讲函数式编程以及在函数式语言中应用设计原则、设计模式和整洁架构的书，书本使用的编程语言主要是 Clojure。我得说，这本书从讲完函数式编程是什么之后就散发着面向对象的气味，书中提供的设计模式既 FP 又 OOP，但我想这是更务实的选择，真实的软件不可能是纯函数的。 对翻译的…… 哦等等 我读的… |
+| 2026-05-14 | [使用 Hermes 在飞书打造 AI Agent 团队](https://ameow.xyz/archives/build-an-ai-agent-team-in-feishu) | 前言 关于如何安装和部署 Hermes 以及接入飞书，飞书官方的这两篇博客（ Hermes Agent 安装与部署指南：一步步教你如何使用“爱马仕 Agent”（附飞书接入教程） 、 Hermes Agent 全解析：与 OpenClaw 对比及飞书接入指南 ）已经讲得非常详细，但是这样只能拉起来一… |
 | 2026-05-14 | [DM数据库创建用户示例](https://blog.wo0ow.com/36354.html) | 记录下DM数据库创建用户、表空间、等基本操作命令 |
 | 2026-05-14 | [BMAD Story Automator 上手实录：把 5 个待办 Story 交给 AI 自主推进](https://gptkit.eth.limo/B8AD2366-4ADE-403A-844C-B1544C9B11F0/) | 如果你已经习惯通过 BAMD 写代码，接下来真正耗时间的，往往不是“写”，而是“协调”。 一个 Epic 里有 5 个、10 个、20 个 Story。每个 Story 都要经历创建规格、开发实现、自动化测试、代码审查、回顾总结。真正让人疲惫的，不是某一步本身，而是你要不断盯着流程、切换会话、处理失… |
 | 2026-05-14 | [翻译-软件界的 Emacs 化](https://blog.prayhand13013.top/20260514T093046--翻译-软件界的-emacs-化__blog.html) |  |
@@ -34,6 +36,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-13 | [JDK1.8报错Illegal key size处理](https://blog.wo0ow.com/37002.html) | 使用的JDK 1.8版本，项目中日志报错信息 Illegal key size |
 | 2026-05-13 | [把博客切换到 Jant](https://www.owenyoung.com/jant) | 好吧，为了更爽地写博客，我居然做了一个开源博客系统：Jant 🫡 已经用了一段时间了(旧博客放在这里），目前基本没遇到什么问题，所以我把主站域名也切换到目前的 Jant 博客。关于 Jant 本身的介绍可以看这里，对我自己来说，我也把 Jant 看成是之前想像的公开笔记 Everentry 的实现。… |
 | 2026-05-13 | [微信支付v3平台证书过期启用公钥平滑切换](https://blog.wo0ow.com/1389.html) | 收到平台证书过期通知应如何处理? <a href=" |
+| 2026-05-13 | [豆包输入法 - 免费清爽无广告的手机电脑 AI 语音输入法 (识别准确/中英混输/双拼)](https://www.iplaysoft.com/doubao-shurufa.html) | 有没有觉得，现在的 输入法 越来越让人“爱恨交加”？系统自带的不够好用，第三方输入法既臃肿，又广告弹窗满天飞，会员功能一大堆，真正好用的核心功能似乎也没啥突破。 尤其是 语音输入 ，大多数输入法识别出的文字都很“毛躁”，得花更多时间修改，效率没提高反而更心累。不过，最近字节跳动发布了基于 AI 大模… |
 | 2026-05-13 | [唐宋之变](https://blog.est.im/2026/stderr-16) | 今天午饭，突然想到一个话题，就跟AI聊了一下，感觉挺有意思的 如果用罗马视角代入唐宋之变，有点像东罗马偏安一隅，然后自废武功，然后被蛮族吞掉？ 在得到AI差不多的肯定之后，我又提出： 其实古典罗马就是一群军事贵族，先有罗马王后有元老院共和。六镇 关陇 魏博 本质上一回事 还没等到AI掰扯完，我就迫不… |
 | 2026-05-13 | [那些令人反感的“我不提供观点”](https://mobius.blog/23587.html) | 前两天，一个朋友向我抱怨，他所在的学习小组里，有一个总是把“我只是提供视角，我不提供观点”挂在嘴边的“嘉豪”， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-13 | [Ubuntu22下安装DM数据库](https://blog.wo0ow.com/22899.html) | 部分参考博客： DM8在Ubuntu上的安装部署 系统环境 Ubuntu 22 |
