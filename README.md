@@ -1,8 +1,8 @@
-[![Contributors](https://img.shields.io/github/contributors/bGZo/playground.svg?style=for-the-badge)](https://github.com/bGZo/playground/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/bGZo/playground.svg?style=for-the-badge)](https://github.com/bGZo/playground/network/members)
-[![Stargazers](https://img.shields.io/github/stars/bGZo/playground.svg?style=for-the-badge)](https://github.com/bGZo/playground/stargazers)
-[![Issues](https://img.shields.io/github/issues/bGZo/playground.svg?style=for-the-badge)](https://github.com/bGZo/playground/issues)
-[![Licence](https://img.shields.io/github/license/bGZo/playground.svg?style=for-the-badge)](https://github.com/bGZo/playground/blob/template/LICENCE)
+[![Contributors](https://img.shields.io/github/contributors/bgzo-sandbox/make-vxna-great-again.svg?style=for-the-badge)](https://github.com/bgzo-sandbox/make-vxna-great-again/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/bgzo-sandbox/make-vxna-great-again.svg?style=for-the-badge)](https://github.com/bgzo-sandbox/make-vxna-great-again/network/members)
+[![Stargazers](https://img.shields.io/github/stars/bgzo-sandbox/make-vxna-great-again.svg?style=for-the-badge)](https://github.com/bgzo-sandbox/make-vxna-great-again/stargazers)
+[![Issues](https://img.shields.io/github/issues/bgzo-sandbox/make-vxna-great-again.svg?style=for-the-badge)](https://github.com/bgzo-sandbox/make-vxna-great-again/issues)
+[![Licence](https://img.shields.io/github/license/bgzo-sandbox/make-vxna-great-again.svg?style=for-the-badge)](https://github.com/bgzo-sandbox/make-vxna-great-again/blob/template/LICENCE)
 [![Telegram](https://img.shields.io/badge/-telegram-black.svg?style=for-the-badge&logo=telegram&colorB=555)](https://t.me/imbGZo)
 
 
@@ -157,7 +157,7 @@ I use obdisian to manage roadmap of this project, and I will update it here when
 
 [^vibe-coding-inspired]: https://github.com/tukuaiai/vibe-coding-cn
 
-See the [open issues](https://github.com/bGZo/playground/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/bgzo-sandbox/make-vxna-great-again/issues) for a full list of proposed features (and known issues).
 -->
 
 ## Contributing
@@ -175,8 +175,8 @@ Don't forget to give the project a star! Thanks again!
 
 Top contributors:
 
-<a href="https://github.com/bGZo/playground/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=bGZo/playground" alt="contrib.rocks image" />
+<a href="https://github.com/bgzo-sandbox/make-vxna-great-again/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=bgzo-sandbox/make-vxna-great-again" alt="contrib.rocks image" />
 </a>
 
 ## License
