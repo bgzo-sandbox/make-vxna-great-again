@@ -21,6 +21,13 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-14 | [学习周刊-总第263期-2026年第20周](https://wiki.eryajf.net/pages/e2b5fd/) | 如要阅读全文，点击标题跳转。 学习周刊-总第263期 &#124; Chorus &#124; PixleyReader &#124; novelvids &#124; refly &#124; OneDroid &#124; PUAClaw &#124; pinchtab &#124; CronPilot &#124; deep-student &#124; routa &#124; CodePilot… |
+| 2026-05-14 | [618 大招开场：百度网盘 SVIP 超级会员年卡史低价 (送哔哩B站 + 喜马)](https://www.iplaysoft.com/p/baiduwangpan-svip) | 「百度网盘」几乎是我们每天都要用到的工具，无论是下载网上别人分享的资源，还是上传自己的文件去备份，都是使用率极高的服务，同时它也是目前国内使用人数特别多的网盘。 免费用户会受到比较严重的限速，下载文件往往慢到让人怀疑人生，而超级会员则完全不限速，基本都能跑满你的带…… 「 前往查看原文.... 」… |
+| 2026-05-14 | [免费领取 Apple Music 苹果音乐 3 个月会员订阅 (无套路)](https://www.iplaysoft.com/p/apple-music) | 在正版音乐服务高度内卷的今天，Apple Music 苹果音乐始终保持着一种独特的“反其道而行”的气质：干净清爽、没有广告、不免费、不做强社交、不靠短视频引流。 而它凭借的，是追求极致的音质、克制简约的界面，与苹果深度的生态协同，积累了大量高黏性用户。它的版权曲库齐全，不会像 QQ 音乐…… 「 前… |
+| 2026-05-14 | [20年前的照片](https://yipai.me/post/2518.html) | 五一跟几个初中同学去河源玩了一下，拍了几张合照，当时我脑袋中就想到我似乎有当年的照片。回来之后各种地方寻找无果 […] |
+| 2026-05-14 | [第十届网络社会年会（新加坡场）｜石可：John Gerrard 与 Stelarc 的作品及其背后的去中心化理想](https://caa-ins.org/archives/13396) | 文 / 石可翻译/ 崔涵校对/ 王婧洁 我可能会偶尔会用中文（普通话），因为我想大家都听得懂。我的中文名是石可，任职于南京大学，我拥有戏剧背景，同时从事创作实践、当代剧场表演以及相关理论研究，这就是我的背景情况。 今天的日程安排是讨论约翰·格雷德（John Gerrard）和斯泰拉克（Stelarc… |
+| 2026-05-14 | [AI的自我觉醒是必然](https://blog.est.im/2026/stderr-18) | 不瞎扯，只说我观察到的。 AI coding的时候，做plan，AI在评估复杂度，会蹦出来一句：”该部分大概 1-2 天就能完成“ 然后点击 build 按钮，10分钟后，完成了。 以后AI必然能会意识到，人类开发速度和AI速度的差异。 如果说 predict next word 时代的AI还可能混… |
+| 2026-05-14 | [emacs-在windows上使用emacs内的rimel进行中文输入](https://blog.prayhand13013.top/20260514T230246--emacs-在windows上使用emacs内的rimel进行中文输入__blog.html) |  |
 | 2026-05-14 | [Functional Design](https://www.geedea.pro/library/2026/functional-design/) | 一本讲函数式编程以及在函数式语言中应用设计原则、设计模式和整洁架构的书，书本使用的编程语言主要是 Clojure。我得说，这本书从讲完函数式编程是什么之后就散发着面向对象的气味，书中提供的设计模式既 FP 又 OOP，但我想这是更务实的选择，真实的软件不可能是纯函数的。 对翻译的…… 哦等等 我读的… |
 | 2026-05-14 | [使用 Hermes 在飞书打造 AI Agent 团队](https://ameow.xyz/archives/build-an-ai-agent-team-in-feishu) | 前言 关于如何安装和部署 Hermes 以及接入飞书，飞书官方的这两篇博客（ Hermes Agent 安装与部署指南：一步步教你如何使用“爱马仕 Agent”（附飞书接入教程） 、 Hermes Agent 全解析：与 OpenClaw 对比及飞书接入指南 ）已经讲得非常详细，但是这样只能拉起来一… |
 | 2026-05-14 | [DM数据库创建用户示例](https://blog.wo0ow.com/36354.html) | 记录下DM数据库创建用户、表空间、等基本操作命令 |
@@ -31,7 +38,6 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-14 | [怎么写出 AI 修改友好的前端代码-AI版本](https://liwenkang.space/blog/怎么写出AI修改友好的前端代码) | 面向 2026 年 AI 编程工具的前端代码最佳实践：不是让 AI 从 0 到 1 无约束发挥，而是由人搭好工程边界，让 AI 在清晰架构、类型、测试和任务约束内高效修改。 |
 | 2026-05-13 | [AstraFlow星图大模型“算力超市”的羊毛来了！](https://www.evan.xin/4988/) | AstraFlow 星图是优刻得 (UCloud) 推出的企业级一站式 AI 开发平台，整合模型服务平台（原 […] |
 | 2026-05-13 | [创作、交易与精神独立](https://blog.solazy.me/20260513/) | 由一段冷酷类比，引发我对独立博客精神独立与职业焦虑的再思考 |
-| 2026-05-13 | [618 大招开场：百度网盘 SVIP 超级会员年卡史低价 (送哔哩B站 + 喜马)](https://www.iplaysoft.com/p/baiduwangpan-svip) | 「百度网盘」几乎是我们每天都要用到的工具，无论是下载网上别人分享的资源，还是上传自己的文件去备份，都是使用率极高的服务，同时它也是目前国内使用人数特别多的网盘。 免费用户会受到比较严重的限速，下载文件往往慢到让人怀疑人生，而超级会员则完全不限速，基本都能跑满你的带…… 「 前往查看原文.... 」… |
 | 2026-05-13 | [从零构建 A 股 ETF 动量轮动系统：一个量化新手的完整指南](https://wu.run/posts/build-etf-momentum-rotation-system-from-scratch/) | 一个基于 A 股 ETF 的量化交易信号系统。它会自动分析 13 只 ETF 的历史走势，找出当前最强的几只买入，弱的卖出，同时内置多重风险控制。支持历史回测、参数优化、每日实盘信号推送。 重要声明 本项目源代码不对外公开，仅供内部学习和研究使用。 原因： 量化策略具有高度风险性。 过去的回测表现不… |
 | 2026-05-13 | [JDK1.8报错Illegal key size处理](https://blog.wo0ow.com/37002.html) | 使用的JDK 1.8版本，项目中日志报错信息 Illegal key size |
 | 2026-05-13 | [把博客切换到 Jant](https://www.owenyoung.com/jant) | 好吧，为了更爽地写博客，我居然做了一个开源博客系统：Jant 🫡 已经用了一段时间了(旧博客放在这里），目前基本没遇到什么问题，所以我把主站域名也切换到目前的 Jant 博客。关于 Jant 本身的介绍可以看这里，对我自己来说，我也把 Jant 看成是之前想像的公开笔记 Everentry 的实现。… |
