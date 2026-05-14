@@ -21,6 +21,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-14 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.0 of the project |
 | 2026-05-14 | [学习周刊-总第263期-2026年第20周](https://wiki.eryajf.net/pages/e2b5fd/) | 如要阅读全文，点击标题跳转。 学习周刊-总第263期 &#124; Chorus &#124; PixleyReader &#124; novelvids &#124; refly &#124; OneDroid &#124; PUAClaw &#124; pinchtab &#124; CronPilot &#124; deep-student &#124; routa &#124; CodePilot… |
 | 2026-05-14 | [618 大招开场：百度网盘 SVIP 超级会员年卡史低价 (送哔哩B站 + 喜马)](https://www.iplaysoft.com/p/baiduwangpan-svip) | 「百度网盘」几乎是我们每天都要用到的工具，无论是下载网上别人分享的资源，还是上传自己的文件去备份，都是使用率极高的服务，同时它也是目前国内使用人数特别多的网盘。 免费用户会受到比较严重的限速，下载文件往往慢到让人怀疑人生，而超级会员则完全不限速，基本都能跑满你的带…… 「 前往查看原文.... 」… |
 | 2026-05-14 | [免费领取 Apple Music 苹果音乐 3 个月会员订阅 (无套路)](https://www.iplaysoft.com/p/apple-music) | 在正版音乐服务高度内卷的今天，Apple Music 苹果音乐始终保持着一种独特的“反其道而行”的气质：干净清爽、没有广告、不免费、不做强社交、不靠短视频引流。 而它凭借的，是追求极致的音质、克制简约的界面，与苹果深度的生态协同，积累了大量高黏性用户。它的版权曲库齐全，不会像 QQ 音乐…… 「 前… |
