@@ -21,6 +21,8 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-15 | [两款值得尝试的开源沉浸式翻译方案](https://www.wxy97.com/archives/019e2a4b-f1c0-70aa-b100-a49d1ddf3464) | 1. KISS Translator A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) 截图 |
+| 2026-05-15 | [FC 游戏：高桥名人之冒险岛四代（Takahashi Meijin no Bouken-jima IV）](https://springwood.me/fc-takahashi-meijin-no-bouken-jima-iv/) | 这是最后一款正式发售的 FC 游戏，也是我本次回顾的最后一款 FC 游戏 之前曾经被初代的《冒险岛》虐了一次， [...] Read More "FC 游戏：高桥名人之冒险岛四代（Takahashi Meijin no Bouken-jima IV）" |
 | 2026-05-15 | [花钱买来的权利是“特权”吗？](https://mobius.blog/23607.html) | 前几天迪士尼的“速通服务”又被推到了风口浪尖。 先聊聊什么是“速通服务”：迪士尼快速通行（英语：Disney& […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-14 | [别只显得很会生活](https://www.linggandianbo.com/newsletter-123/) | 从 AI 工作幻觉、姚顺宇访谈、年轻人的风险、中年人的 Costco 到健身房陌生人｜灵感电波 #123 |
 | 2026-05-14 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.0 of the project |
@@ -28,7 +30,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-14 | [618 大招开场：百度网盘 SVIP 超级会员年卡史低价 (送哔哩B站 + 喜马)](https://www.iplaysoft.com/p/baiduwangpan-svip) | 「百度网盘」几乎是我们每天都要用到的工具，无论是下载网上别人分享的资源，还是上传自己的文件去备份，都是使用率极高的服务，同时它也是目前国内使用人数特别多的网盘。 免费用户会受到比较严重的限速，下载文件往往慢到让人怀疑人生，而超级会员则完全不限速，基本都能跑满你的带…… 「 前往查看原文.... 」… |
 | 2026-05-14 | [免费领取 Apple Music 苹果音乐 3 个月会员订阅 (无套路)](https://www.iplaysoft.com/p/apple-music) | 在正版音乐服务高度内卷的今天，Apple Music 苹果音乐始终保持着一种独特的“反其道而行”的气质：干净清爽、没有广告、不免费、不做强社交、不靠短视频引流。 而它凭借的，是追求极致的音质、克制简约的界面，与苹果深度的生态协同，积累了大量高黏性用户。它的版权曲库齐全，不会像 QQ 音乐…… 「 前… |
 | 2026-05-14 | [20年前的照片](https://yipai.me/post/2518.html) | 五一跟几个初中同学去河源玩了一下，拍了几张合照，当时我脑袋中就想到我似乎有当年的照片。回来之后各种地方寻找无果 […] |
-| 2026-05-14 | [第十届网络社会年会（新加坡场）｜石可：John Gerrard 与 Stelarc 的作品及其背后的去中心化理想](https://caa-ins.org/archives/13396) | 文 / 石可翻译/ 崔涵校对/ 王婧洁 我可能会偶尔会用中文（普通话），因为我想大家都听得懂。我的中文名是石可，任职于南京大学，我拥有戏剧背景，同时从事创作实践、当代剧场表演以及相关理论研究，这就是我的背景情况。 今天的日程安排是讨论约翰·格雷德（John Gerrard）和斯泰拉克（Stelarc… |
+| 2026-05-14 | [第十届网络社会年会（新加坡场）｜石可：John Gerrard 与 Stelarc 的作品及其背后的去中心化理想](https://caa-ins.org/archives/13396) | 文 / 石可翻译/ 崔涵校对/ 王婧洁 我可能会偶尔会用中文（普通话），因为我想大家都听得懂。我的中文名是石可，任职于南京大学，我拥有戏剧背景，同时从事创作实践、当代剧场表演以及相关理论研究，这就是我的背景情况。 今天的日程安排是讨论约翰·杰拉德（John Gerrard）和斯泰拉克（Stelarc… |
 | 2026-05-14 | [AI的自我觉醒是必然](https://blog.est.im/2026/stderr-18) | 不瞎扯，只说我观察到的。 AI coding的时候，做plan，AI在评估复杂度，会蹦出来一句：”该部分大概 1-2 天就能完成“ 然后点击 build 按钮，10分钟后，完成了。 以后AI必然能会意识到，人类开发速度和AI速度的差异。 如果说 predict next word 时代的AI还可能混… |
 | 2026-05-14 | [emacs-在windows上使用emacs内的rimel进行中文输入](https://blog.prayhand13013.top/20260514T230246--emacs-在windows上使用emacs内的rimel进行中文输入__blog.html) |  |
 | 2026-05-14 | [Functional Design](https://www.geedea.pro/library/2026/functional-design/) | 一本讲函数式编程以及在函数式语言中应用设计原则、设计模式和整洁架构的书，书本使用的编程语言主要是 Clojure。我得说，这本书从讲完函数式编程是什么之后就散发着面向对象的气味，书中提供的设计模式既 FP 又 OOP，但我想这是更务实的选择，真实的软件不可能是纯函数的。 对翻译的…… 哦等等 我读的… |
