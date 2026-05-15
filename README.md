@@ -21,6 +21,10 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-15 | [烂而不自知的人](https://blog.solazy.me/20260515/) | 最近遇到了一类人，可以让我写一篇文章 |
+| 2026-05-15 | [2026.5.15](https://www.justzht.com/2026-5-15/) | 加了一会班发了个 PR，然后瞄了眼日历才想起来明天早上九点钟要去另外一个办公楼见人开会，而现在已经凌晨一 |
+| 2026-05-15 | [SVG 时钟](https://blog.est.im/2026/stdout-16) | 一个奇怪的想法： GitHub Profile README、邮件签名等没有JS的情况下，如何展示当前时间，并且最好可以跳动？ 想来想去，纯 SVG 实现。于是呼来AI： codex-5.3.mod.svg codex-5.3.new.svg gemini-3.1-pro-thinking.new.… |
+| 2026-05-15 | [史低价！爱奇艺 (电视端) VIP 年卡+送京东 PLUS 会员优惠￥158 元起](https://www.iplaysoft.com/news/4313) | 看剧基本必备爱奇艺会员，相信不用多做介绍了；而如果你经常会在京东商城买东西，那么自然也知道京东 Plus 会员的各种好处！比如每月免邮、全品类优惠券、Plus 特价商品、专享活动价、免费上门退换货等等特权。 原本爱奇艺 VIP 年卡定价 258 元，电视端更是 488 元，京东 PLUS 会员定价… |
 | 2026-05-15 | [两款值得尝试的开源沉浸式翻译方案](https://www.wxy97.com/archives/019e2a4b-f1c0-70aa-b100-a49d1ddf3464) | 1. KISS Translator A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) 截图 |
 | 2026-05-15 | [FC 游戏：高桥名人之冒险岛四代（Takahashi Meijin no Bouken-jima IV）](https://springwood.me/fc-takahashi-meijin-no-bouken-jima-iv/) | 这是最后一款正式发售的 FC 游戏，也是我本次回顾的最后一款 FC 游戏 之前曾经被初代的《冒险岛》虐了一次， [...] Read More "FC 游戏：高桥名人之冒险岛四代（Takahashi Meijin no Bouken-jima IV）" |
 | 2026-05-15 | [花钱买来的权利是“特权”吗？](https://mobius.blog/23607.html) | 前几天迪士尼的“速通服务”又被推到了风口浪尖。 先聊聊什么是“速通服务”：迪士尼快速通行（英语：Disney& […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |

@@ -6,6 +6,30 @@
     "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
   },
   {
+    "title": "烂而不自知的人",
+    "url": "https://blog.solazy.me/20260515/",
+    "date": "2026-05-15T10:00:00Z",
+    "description": "最近遇到了一类人，可以让我写一篇文章"
+  },
+  {
+    "title": "2026.5.15",
+    "url": "https://www.justzht.com/2026-5-15/",
+    "date": "2026-05-15T08:36:54Z",
+    "description": "加了一会班发了个 PR，然后瞄了眼日历才想起来明天早上九点钟要去另外一个办公楼见人开会，而现在已经凌晨一"
+  },
+  {
+    "title": "SVG 时钟",
+    "url": "https://blog.est.im/2026/stdout-16",
+    "date": "2026-05-15T07:28:00Z",
+    "description": "一个奇怪的想法： GitHub Profile README、邮件签名等没有JS的情况下，如何展示当前时间，并且最好可以跳动？ 想来想去，纯 SVG 实现。于是呼来AI： codex-5.3.mod.svg codex-5.3.new.svg gemini-3.1-pro-thinking.new.svg gemini-3.1-pro.new.svg gemini-3.mod.svg mimo-2.5-pro.new.svg opus-4.6.mod.svg opus-4.6.thinking.new.svg 其中大多数AI写得都很平庸。采用堆一大堆 。gemini 惊艳，它用了滑动胶片法（Filmstrip） 为了彻底解决冗余和跨天 Bug，我们可以采用“滑动胶片”的设计思维：将单独的数字拼成一条长长的文本带（胶片），外面罩上一个双位宽度的剪裁窗口（）。时间流逝时，整个文本带像胶片一样通过 transform: translateX 整体向左跳格（使用 steps() 级联函数）。 这样优化后，我们不仅消除了长达几十行的冗余标签，还将“时、分、秒”整合成三个独立的数字流，顺手统一了时"
+  },
+  {
+    "title": "史低价！爱奇艺 (电视端) VIP 年卡+送京东 PLUS 会员优惠￥158 元起",
+    "url": "https://www.iplaysoft.com/news/4313",
+    "date": "2026-05-15T07:20:32Z",
+    "description": "看剧基本必备爱奇艺会员，相信不用多做介绍了；而如果你经常会在京东商城买东西，那么自然也知道京东 Plus 会员的各种好处！比如每月免邮、全品类优惠券、Plus 特价商品、专享活动价、免费上门退换货等等特权。 原本爱奇艺 VIP 年卡定价 258 元，电视端更是 488 元，京东 PLUS 会员定价 299 元/年，…… 「 前往查看原文.... 」 异次元首页 | 微信公众号 | 关注微博 | 软件精选 | 软件激活码折扣"
+  },
+  {
     "title": "两款值得尝试的开源沉浸式翻译方案",
     "url": "https://www.wxy97.com/archives/019e2a4b-f1c0-70aa-b100-a49d1ddf3464",
     "date": "2026-05-15T06:43:26Z",
