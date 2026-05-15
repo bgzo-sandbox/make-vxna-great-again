@@ -21,6 +21,8 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-15 | [花钱买来的权利是“特权”吗？](https://mobius.blog/23607.html) | 前几天迪士尼的“速通服务”又被推到了风口浪尖。 先聊聊什么是“速通服务”：迪士尼快速通行（英语：Disney& […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-05-14 | [别只显得很会生活](https://www.linggandianbo.com/newsletter-123/) | 从 AI 工作幻觉、姚顺宇访谈、年轻人的风险、中年人的 Costco 到健身房陌生人｜灵感电波 #123 |
 | 2026-05-14 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.0 of the project |
 | 2026-05-14 | [学习周刊-总第263期-2026年第20周](https://wiki.eryajf.net/pages/e2b5fd/) | 如要阅读全文，点击标题跳转。 学习周刊-总第263期 &#124; Chorus &#124; PixleyReader &#124; novelvids &#124; refly &#124; OneDroid &#124; PUAClaw &#124; pinchtab &#124; CronPilot &#124; deep-student &#124; routa &#124; CodePilot… |
 | 2026-05-14 | [618 大招开场：百度网盘 SVIP 超级会员年卡史低价 (送哔哩B站 + 喜马)](https://www.iplaysoft.com/p/baiduwangpan-svip) | 「百度网盘」几乎是我们每天都要用到的工具，无论是下载网上别人分享的资源，还是上传自己的文件去备份，都是使用率极高的服务，同时它也是目前国内使用人数特别多的网盘。 免费用户会受到比较严重的限速，下载文件往往慢到让人怀疑人生，而超级会员则完全不限速，基本都能跑满你的带…… 「 前往查看原文.... 」… |
@@ -121,15 +123,6 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-08 | [如何篡改集体记忆？](https://mobius.blog/23484.html) | 在我的灵感记事本里，有一条一直没有写，但也没有被我删掉的灵感： 楼下有人排队做核酸，已经排了 2 小时的队了， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-08 | [new-api Docker Compose 部署](https://199604.com/3566) | new-api Docker Compose 部署 说明：本文件用于指导在本机或服务器上通过 Docker C […] |
 | 2026-05-08 | [埃隆·马斯克的 SpaceX 计划投资 550 亿美元制造人工智能芯片](https://blog.rustfisher.com/news/spacex-20260508/) | 这家火箭公司新建的半导体工厂名为 Terafab，是这位亿万富翁不断加大力度主导人工智能领域的一部分 |
-| 2026-05-07 | [当一切都开始循环，人在哪里按下暂停？](https://www.linggandianbo.com/newsletter-122/) | 从 AI agent、持续学习、生物计算到炼油厂和盯墙术，理解技术真正改变的不是速度，而是人和系统之间的边界｜灵感电波 #122 |
-| 2026-05-07 | [2026年五一长假小记](https://www.quji.org/archives/8761?pk_campaign=feed&pk_kwd=2026%25e5%25b9%25b4%25e4%25ba%2594%25e4%25b8%2580%25e9%2595%25bf%25e5%2581%2587%25e5%25b0%258f%25e8%25ae%25b0) | 这个五一长假，对其他人来说是轰轰烈烈，对我来讲却是跌宕起伏。参加同学婚礼、相亲失败、见到了奶奶大伯哥哥、见到了同事。1号上午依旧是在工地值班，和往常一样，工地的苦逼干过的都知道。 |
-| 2026-05-07 | [误会是表达者的宿命](https://blog.solazy.me/20260507/) | 今天想聊聊表达这件事 |
-| 2026-05-07 | [我买基金从不亏钱](https://blog.ops-coffee.com/r/fund-5-year-from-50-percent-loss-to-profit.html) | 这是一篇酝酿了超过5年的复盘 |
-| 2026-05-07 | [代码](https://mobius.blog/23473.html) | “AI 写的程序不进行审查就随便上线，是不负责任的，而且是没办法用的。” “你意思是，我们这些没学过编程的文科 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-07 | [善于发现生活中的冲突](https://mobius.blog/23469.html) | 在剧本写作里，有一句经典的关于“什么是故事”的描述： 猫坐在自己的垫子上，故事是不能这样开始的。猫坐在狗垫子上 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-07 | [GPT‑5.5 Instant 发布](https://blog.rustfisher.com/news/gpt-5-5-instant-20260507/) | 正在更新 ChatGPT 的默认模型（所有人都可以使用），使其更智能、更准确，提供更清晰、更简洁的答案，让您感觉更贴合自身需求。 |
-| 2026-05-07 | [Study English Plan - Beginner Level](https://www.jtxyh.com/58318/) | Claude Give Me A Plan to Study English - For Beginner Learners — Shadowing Method |
-| 2026-05-07 | [Claude Code 对接 DeepSeek 使用教程](https://blog.oofo.cc/posts/claude-code-deepseek) | ## 概述 Claude Code 是一个运行在终端里的 AI 编程助手。正常情况下，它会连接 Anthropic 官方服务；如果你想使用 DeepSeek 的模型，可以通过 DeepSeek 提供的 Anthropic 兼容接口，把 Claude Code 的请求转发到 DeepSeek。 这篇文… |
 
 ## Vibe Coding
 
