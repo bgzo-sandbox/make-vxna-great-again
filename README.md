@@ -21,6 +21,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-15 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.23 of the project |
 | 2026-05-15 | [烂而不自知的人](https://blog.solazy.me/20260515/) | 最近遇到了一类人，可以让我写一篇文章 |
 | 2026-05-15 | [2026.5.15](https://www.justzht.com/2026-5-15/) | 加了一会班发了个 PR，然后瞄了眼日历才想起来明天早上九点钟要去另外一个办公楼见人开会，而现在已经凌晨一 |
 | 2026-05-15 | [SVG 时钟](https://blog.est.im/2026/stdout-16) | 一个奇怪的想法： GitHub Profile README、邮件签名等没有JS的情况下，如何展示当前时间，并且最好可以跳动？ 想来想去，纯 SVG 实现。于是呼来AI： codex-5.3.mod.svg codex-5.3.new.svg gemini-3.1-pro-thinking.new.… |
