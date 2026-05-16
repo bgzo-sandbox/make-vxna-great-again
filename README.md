@@ -21,8 +21,10 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-16 | [为什么买的加密货币一定要去中心化](https://smallyu.net/2026/05/16/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B9%B0%E7%9A%84%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%B8%80%E5%AE%9A%E8%A6%81%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96/) | 中心化的加密货币价格能不能涨呢？能涨，而且拉盘、控盘、砸盘更狠。大一点的像 ETH，SOL、BNB，随意一点的就是 TRUMP、DOGE |
 | 2026-05-16 | [翻译-旧科技世界正在消亡，而新世界却难以诞生](https://blog.prayhand13013.top/20260516T113505--翻译-旧科技世界正在消亡，而新世界却难以诞生__blog.html) |  |
 | 2026-05-16 | [Quake II updated](https://macsourceports.com/game/quake2) | The build of Yamagi Quake II for Quake II has been updated to version 8.70 of the project |
+| 2026-05-16 | [微信读书Skill + IMA Copilot教程](https://www.nodealpha.me/Essay-WeReaderSkill.html) | 1 微信读书升级到 10.1.1版本 。重要，这个版本才有Skill，不是这个版本就手动检查更新下。 2 打开 […] |
 | 2026-05-16 | [2026年第19、20周](https://blog.sakoamc.com/posts/261920/) | 题记：昨天已经过去，明天尚未到來，今天仍是未知。 |
 | 2026-05-15 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.23 of the project |
 | 2026-05-15 | [烂而不自知的人](https://blog.solazy.me/20260515/) | 最近遇到了一类人，可以让我写一篇文章 |
