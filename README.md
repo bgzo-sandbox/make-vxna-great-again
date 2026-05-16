@@ -25,6 +25,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-16 | [翻译-旧科技世界正在消亡，而新世界却难以诞生](https://blog.prayhand13013.top/20260516T113505--翻译-旧科技世界正在消亡，而新世界却难以诞生__blog.html) |  |
 | 2026-05-16 | [Quake II updated](https://macsourceports.com/game/quake2) | The build of Yamagi Quake II for Quake II has been updated to version 8.70 of the project |
 | 2026-05-16 | [微信读书Skill + IMA Copilot教程](https://www.nodealpha.me/Essay-WeReaderSkill.html) | 1 微信读书升级到 10.1.1版本 。重要，这个版本才有Skill，不是这个版本就手动检查更新下。 2 打开 […] |
+| 2026-05-16 | [博客折腾记：手搓一个Astro NeoDB 书影音卡片](https://blog.sakoamc.com/posts/26zt01/) | 题记：博客也得伤筋动骨地简单折腾一番。 |
 | 2026-05-16 | [2026年第19、20周](https://blog.sakoamc.com/posts/261920/) | 题记：昨天已经过去，明天尚未到來，今天仍是未知。 |
 | 2026-05-15 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.23 of the project |
 | 2026-05-15 | [烂而不自知的人](https://blog.solazy.me/20260515/) | 最近遇到了一类人，可以让我写一篇文章 |
