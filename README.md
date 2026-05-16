@@ -21,6 +21,9 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-16 | [翻译-旧科技世界正在消亡，而新世界却难以诞生](https://blog.prayhand13013.top/20260516T113505--翻译-旧科技世界正在消亡，而新世界却难以诞生__blog.html) |  |
+| 2026-05-16 | [Quake II updated](https://macsourceports.com/game/quake2) | The build of Yamagi Quake II for Quake II has been updated to version 8.70 of the project |
+| 2026-05-16 | [2026年第19、20周](https://blog.sakoamc.com/posts/261920/) | 题记：昨天已经过去，明天尚未到來，今天仍是未知。 |
 | 2026-05-15 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.23 of the project |
 | 2026-05-15 | [烂而不自知的人](https://blog.solazy.me/20260515/) | 最近遇到了一类人，可以让我写一篇文章 |
 | 2026-05-15 | [2026.5.15](https://www.justzht.com/2026-5-15/) | 加了一会班发了个 PR，然后瞄了眼日历才想起来明天早上九点钟要去另外一个办公楼见人开会，而现在已经凌晨一 |
