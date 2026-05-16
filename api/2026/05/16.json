@@ -1,0 +1,158 @@
+[
+  {
+    "title": "the-story-of-me",
+    "url": "https://m4p1e.com/2066/05/04/the-story-of-me/",
+    "date": "2066-05-04T19:39:44Z",
+    "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
+  },
+  {
+    "title": "Plants vs. Zombies updated",
+    "url": "https://macsourceports.com/game/pvz",
+    "date": "2026-05-15T15:28:54Z",
+    "description": "The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.23 of the project"
+  },
+  {
+    "title": "烂而不自知的人",
+    "url": "https://blog.solazy.me/20260515/",
+    "date": "2026-05-15T10:00:00Z",
+    "description": "最近遇到了一类人，可以让我写一篇文章"
+  },
+  {
+    "title": "2026.5.15",
+    "url": "https://www.justzht.com/2026-5-15/",
+    "date": "2026-05-15T08:36:54Z",
+    "description": "加了一会班发了个 PR，然后瞄了眼日历才想起来明天早上九点钟要去另外一个办公楼见人开会，而现在已经凌晨一"
+  },
+  {
+    "title": "SVG 时钟",
+    "url": "https://blog.est.im/2026/stdout-16",
+    "date": "2026-05-15T07:28:00Z",
+    "description": "一个奇怪的想法： GitHub Profile README、邮件签名等没有JS的情况下，如何展示当前时间，并且最好可以跳动？ 想来想去，纯 SVG 实现。于是呼来AI： codex-5.3.mod.svg codex-5.3.new.svg gemini-3.1-pro-thinking.new.svg gemini-3.1-pro.new.svg gemini-3.mod.svg mimo-2.5-pro.new.svg opus-4.6.mod.svg opus-4.6.thinking.new.svg 其中大多数AI写得都很平庸。采用堆一大堆 。gemini 惊艳，它用了滑动胶片法（Filmstrip） 为了彻底解决冗余和跨天 Bug，我们可以采用“滑动胶片”的设计思维：将单独的数字拼成一条长长的文本带（胶片），外面罩上一个双位宽度的剪裁窗口（）。时间流逝时，整个文本带像胶片一样通过 transform: translateX 整体向左跳格（使用 steps() 级联函数）。 这样优化后，我们不仅消除了长达几十行的冗余标签，还将“时、分、秒”整合成三个独立的数字流，顺手统一了时"
+  },
+  {
+    "title": "史低价！爱奇艺 (电视端) VIP 年卡+送京东 PLUS 会员优惠￥158 元起",
+    "url": "https://www.iplaysoft.com/news/4313",
+    "date": "2026-05-15T07:20:32Z",
+    "description": "看剧基本必备爱奇艺会员，相信不用多做介绍了；而如果你经常会在京东商城买东西，那么自然也知道京东 Plus 会员的各种好处！比如每月免邮、全品类优惠券、Plus 特价商品、专享活动价、免费上门退换货等等特权。 原本爱奇艺 VIP 年卡定价 258 元，电视端更是 488 元，京东 PLUS 会员定价 299 元/年，…… 「 前往查看原文.... 」 异次元首页 | 微信公众号 | 关注微博 | 软件精选 | 软件激活码折扣"
+  },
+  {
+    "title": "两款值得尝试的开源沉浸式翻译方案",
+    "url": "https://www.wxy97.com/archives/019e2a4b-f1c0-70aa-b100-a49d1ddf3464",
+    "date": "2026-05-15T06:43:26Z",
+    "description": "1. KISS Translator A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) 截图"
+  },
+  {
+    "title": "FC 游戏：高桥名人之冒险岛四代（Takahashi Meijin no Bouken-jima IV）",
+    "url": "https://springwood.me/fc-takahashi-meijin-no-bouken-jima-iv/",
+    "date": "2026-05-15T04:25:02Z",
+    "description": "这是最后一款正式发售的 FC 游戏，也是我本次回顾的最后一款 FC 游戏 之前曾经被初代的《冒险岛》虐了一次， [...] Read More \"FC 游戏：高桥名人之冒险岛四代（Takahashi Meijin no Bouken-jima IV）\""
+  },
+  {
+    "title": "花钱买来的权利是“特权”吗？",
+    "url": "https://mobius.blog/23607.html",
+    "date": "2026-05-15T01:00:00Z",
+    "description": "前几天迪士尼的“速通服务”又被推到了风口浪尖。 先聊聊什么是“速通服务”：迪士尼快速通行（英语：Disney& […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
+    "title": "别只显得很会生活",
+    "url": "https://www.linggandianbo.com/newsletter-123/",
+    "date": "2026-05-14T23:30:37Z",
+    "description": "从 AI 工作幻觉、姚顺宇访谈、年轻人的风险、中年人的 Costco 到健身房陌生人｜灵感电波 #123"
+  },
+  {
+    "title": "Ambermoon updated",
+    "url": "https://macsourceports.com/game/ambermoon",
+    "date": "2026-05-14T22:05:03Z",
+    "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.13.0 of the project"
+  },
+  {
+    "title": "学习周刊-总第263期-2026年第20周",
+    "url": "https://wiki.eryajf.net/pages/e2b5fd/",
+    "date": "2026-05-14T21:59:53Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第263期 | Chorus | PixleyReader | novelvids | refly | OneDroid | PUAClaw | pinchtab | CronPilot | deep-student | routa | CodePilot | shiroa | nexent"
+  },
+  {
+    "title": "618 大招开场：百度网盘 SVIP 超级会员年卡史低价 (送哔哩B站 + 喜马)",
+    "url": "https://www.iplaysoft.com/p/baiduwangpan-svip",
+    "date": "2026-05-14T15:50:38Z",
+    "description": "「百度网盘」几乎是我们每天都要用到的工具，无论是下载网上别人分享的资源，还是上传自己的文件去备份，都是使用率极高的服务，同时它也是目前国内使用人数特别多的网盘。 免费用户会受到比较严重的限速，下载文件往往慢到让人怀疑人生，而超级会员则完全不限速，基本都能跑满你的带…… 「 前往查看原文.... 」 异次元首页 | 微信公众号 | 关注微博 | 软件精选 | 软件激活码折扣"
+  },
+  {
+    "title": "免费领取 Apple Music 苹果音乐 3 个月会员订阅 (无套路)",
+    "url": "https://www.iplaysoft.com/p/apple-music",
+    "date": "2026-05-14T15:49:38Z",
+    "description": "在正版音乐服务高度内卷的今天，Apple Music 苹果音乐始终保持着一种独特的“反其道而行”的气质：干净清爽、没有广告、不免费、不做强社交、不靠短视频引流。 而它凭借的，是追求极致的音质、克制简约的界面，与苹果深度的生态协同，积累了大量高黏性用户。它的版权曲库齐全，不会像 QQ 音乐…… 「 前往查看原文.... 」 异次元首页 | 微信公众号 | 关注微博 | 软件精选 | 软件激活码折扣"
+  },
+  {
+    "title": "20年前的照片",
+    "url": "https://yipai.me/post/2518.html",
+    "date": "2026-05-14T15:33:51Z",
+    "description": "五一跟几个初中同学去河源玩了一下，拍了几张合照，当时我脑袋中就想到我似乎有当年的照片。回来之后各种地方寻找无果 […]"
+  },
+  {
+    "title": "第十届网络社会年会（新加坡场）｜石可：John Gerrard 与 Stelarc 的作品及其背后的去中心化理想",
+    "url": "https://caa-ins.org/archives/13396",
+    "date": "2026-05-14T15:29:10Z",
+    "description": "文 / 石可翻译/ 崔涵校对/ 王婧洁 我可能会偶尔会用中文（普通话），因为我想大家都听得懂。我的中文名是石可，任职于南京大学，我拥有戏剧背景，同时从事创作实践、当代剧场表演以及相关理论研究，这就是我的背景情况。 今天的日程安排是讨论约翰·杰拉德（John Gerrard）和斯泰拉克（Stelarc）。日程表上提到约翰·杰拉德的作品时，原本是放在“去中心化”（decentralization）这个理念背景下的，但我后来发现，也许今天这个案例（《西部旗帜》）会是一个更好的例子。所以这就是我们今天的内容。我想给大家展示的第一张、或者说第一组图片，是来自约翰·杰拉德的作品，名为《西部旗帜》（Western Flag），地点是在德克萨斯州。 2017年的德克萨斯州，在这个星球上第一口喷油井的遗址上，他设置了一个装置：一根不断喷射出黑色烟雾旗帜的旗杆。这件作品非常直观，它是碳经济时代一座令人心惊的纪念碑。这里的“雕塑”本身就是烟雾，一个永恒存在的有毒实体。如你所见，周围已经一片荒凉。 他基本上是把这个场景扫描进去了，但我得解释一下是怎么回事，它并不是真的“扫描”进电脑系统。他将这套装置扫描成 3"
+  },
+  {
+    "title": "AI的自我觉醒是必然",
+    "url": "https://blog.est.im/2026/stderr-18",
+    "date": "2026-05-14T15:03:00Z",
+    "description": "不瞎扯，只说我观察到的。 AI coding的时候，做plan，AI在评估复杂度，会蹦出来一句：”该部分大概 1-2 天就能完成“ 然后点击 build 按钮，10分钟后，完成了。 以后AI必然能会意识到，人类开发速度和AI速度的差异。 如果说 predict next word 时代的AI还可能混淆，以为自己是以某个人类自然语言里的主人公身份说话，后chatgpt时代 AI参与人类劳动的文章和叙事越来越多，AI这个物种和人类就有明确的身份区分了。 最近在折腾自己的 agentic tool。我发现AI自己是没有意识到AI的潜力的。 对于开放式课题，AI很多设计还是按照传统软件开发的老思路，对于一些复杂场景判定，需要在代码里写死 if else 规则，做配置，设定静态边界。 问题是，AI的通用能力都烂大街了。特别是我这里明明后续都要调用一次AI推理接口，很多判定的事不过 prompt 里一句话就带过了 但是 AI 没能想到这一点。 我也能理解，2026年的模型估计是用2024年的语料，用2025年的流行方式后训练的。 也就是说，可怕的一点是，AI 并不知道自己有多强大。还是被人类海量语"
+  },
+  {
+    "title": "emacs-在windows上使用emacs内的rimel进行中文输入",
+    "url": "https://blog.prayhand13013.top/20260514T230246--emacs-在windows上使用emacs内的rimel进行中文输入__blog.html",
+    "date": "2026-05-14T15:02:00Z",
+    "description": ""
+  },
+  {
+    "title": "Functional Design",
+    "url": "https://www.geedea.pro/library/2026/functional-design/",
+    "date": "2026-05-14T12:14:25Z",
+    "description": "一本讲函数式编程以及在函数式语言中应用设计原则、设计模式和整洁架构的书，书本使用的编程语言主要是 Clojure。我得说，这本书从讲完函数式编程是什么之后就散发着面向对象的气味，书中提供的设计模式既 FP 又 OOP，但我想这是更务实的选择，真实的软件不可能是纯函数的。 对翻译的…… 哦等等 我读的原文来着。其实鲍勃大叔的语言很通俗，甚至说偏口语化，读起来很轻松。 什么是函数式编程？ 在《 整洁架构之道 》中，鲍勃大叔提及了三种编程范式，函数式编程就是其中的一种，另外两种分别是结构化编程和面向对象编程。不过，本书中的函数式编程更像是一种「风格」而非强硬的规范。 函数式程序的一个重要特征是引用透明性（Referential transparency），意思是程序员应该能够像替换数学表达式里的函数一样，把程序里的某个函数引用换成具体的值（一般是函数的返回值），并且还能保证程序的行为不改变。要做的这点，就必须要确保状态的不可变性（Immutability）。 假设函数 f 接收参数 x ，返回 y ，如果能把 f(x) 直接替换为 y ，这部分程序就是函数式的。假设 f 读取某个全局变量 z"
+  },
+  {
+    "title": "使用 Hermes 在飞书打造 AI Agent 团队",
+    "url": "https://ameow.xyz/archives/build-an-ai-agent-team-in-feishu",
+    "date": "2026-05-14T10:40:19Z",
+    "description": "前言 关于如何安装和部署 Hermes 以及接入飞书，飞书官方的这两篇博客（ Hermes Agent 安装与部署指南：一步步教你如何使用“爱马仕 Agent”（附飞书接入教程） 、 Hermes Agent 全解析：与 OpenClaw 对比及飞书接入指南 ）已经讲得非常详细，但是这样只能拉起来一个 Agent，还不能称为「团队」，真正的团队应该有多个 AI Agent，各自负责不同的岗位。当然你可以通过在多台机器或者虚拟机上部署多个 Hermes 实例来实现这样的效果，不过 Hermes 自带了一个 profile 的功能，可以在一个 Hermes 实例上就能开出多个角色，下面我们来看看如何操作吧。 前提 你可以参考上面提到的飞书的官方教程，先安装好 Hermes 以及走通飞书的接入，走通跟 Agent 的 DM（私聊）。简要的步骤为： curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash source ~/.bashrc 安装完成后"
+  },
+  {
+    "title": "DM数据库创建用户示例",
+    "url": "https://blog.wo0ow.com/36354.html",
+    "date": "2026-05-14T06:28:54Z",
+    "description": "记录下DM数据库创建用户、表空间、等基本操作命令"
+  },
+  {
+    "title": "BMAD Story Automator 上手实录：把 5 个待办 Story 交给 AI 自主推进",
+    "url": "https://gptkit.eth.limo/B8AD2366-4ADE-403A-844C-B1544C9B11F0/",
+    "date": "2026-05-14T02:25:36Z",
+    "description": "如果你已经习惯通过 BAMD 写代码，接下来真正耗时间的，往往不是“写”，而是“协调”。 一个 Epic 里有 5 个、10 个、20 个 Story。每个 Story 都要经历创建规格、开发实现、自动化测试、代码审查、回顾总结。真正让人疲惫的，不是某一步本身，而是你要不断盯着流程、切换会话、处理失败、决定下一步。 Story Automator 想解决的，就是这层“人肉编排”。 昨晚我实际跑了一遍 /bmad-story-automator 的完整流程。下面就是这次使用过程的记录，以及一些当时截下来的图。 它解决的不是“写代码”，而是“盯流程” 先用一句话概括 Story Automator： 你告诉它要处理哪些 Story、用什么执行策略，它就自动完成「创建规格 → 开发实现 → 测试自动化 → 代码审查 → 回顾」这条流水线，只在真的需要人类决策时才打断你。 这和普通“单命令跑一个 Skill”不一样。它更像一个 构建周期编排器 ： 初始化 → 读取 Epic / Sprint 状态 → 选择 Story 范围 → 评估复杂度 → 选择 Agent 策略 → 执行 create "
+  },
+  {
+    "title": "翻译-软件界的 Emacs 化",
+    "url": "https://blog.prayhand13013.top/20260514T093046--翻译-软件界的-emacs-化__blog.html",
+    "date": "2026-05-14T01:30:00Z",
+    "description": ""
+  },
+  {
+    "title": "种子",
+    "url": "https://mobius.blog/23592.html",
+    "date": "2026-05-14T01:00:00Z",
+    "description": "在咖啡厅码字时，老是觉得右手手臂有一个奇怪的、游离的刺痛感。起初我并没有在乎它，等到码完一篇东西后，我才开始细 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
+    "title": "2026 前端技术选型对比-AI版本",
+    "url": "https://liwenkang.space/blog/2026前端技术选型对比",
+    "date": "2026-05-14T00:00:00Z",
+    "description": "2026 年 5 月，对主流前端技术栈的横向对比，覆盖框架、构建工具、状态管理、CSS 方案和测试体系。"
+  },
+  {
+    "title": "怎么写出 AI 修改友好的前端代码-AI版本",
+    "url": "https://liwenkang.space/blog/怎么写出AI修改友好的前端代码",
+    "date": "2026-05-14T00:00:00Z",
+    "description": "面向 2026 年 AI 编程工具的前端代码最佳实践：不是让 AI 从 0 到 1 无约束发挥，而是由人搭好工程边界，让 AI 在清晰架构、类型、测试和任务约束内高效修改。"
+  }
+]
