@@ -21,7 +21,11 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-16 | [修复 Venera 点击导出无反应，章节显示问题](https://blog.bgzo.cc/20260516-fix-venera-export-name.html) | 上次修复 Venera 无法在 iOS/iPad OS 上保存图片 的问题，很可能是 iOS 的一个 BUG，因为这周升级 iOS 26.5 之后，这个奇怪的问题就消失了。 除了这个问题，上次修复还有一个遗留问题是 iOS 会自动处理超长文件名，导致如： 最终会被 iOS 系统直接截断为： 很奇怪啊… |
+| 2026-05-16 | [周末流水账 0516](https://blog.solazy.me/20260516/) | 终于到周六了 |
 | 2026-05-16 | [节奏坦克 进行曲 M3 2025](https://blog.cxplay.org/works/tempotec-march-m3/) | 当背景噪声被明显感知到的时候, 音频接口就会像长了大王花一样臭不可「闻」, 任何音乐在它的衬托下都仿佛变成了下品. 为了解决这件事, 我选择了节奏坦克进行曲. |
+| 2026-05-16 | [Scrcpy 4 - 开源免费在电脑显示手机画面并控制安卓手机工具 (投屏/录屏/镜像/免Root)](https://www.iplaysoft.com/scrcpy.html) | 如果想在电脑上使用 Android 应用/玩游戏，除了用 安卓模拟器 、 MuMu 、 BlueStack 等模拟器跑安卓系统外，也可借助类似 Anlink 或品牌提供的工具将手机画面投屏到电脑上显示和控制。 并非所有品牌都提供投屏功能， Scrcpy 正是一款 开源 免费“通用”且功能却更强大的安… |
+| 2026-05-16 | [金山 WPS 大会员 (含AI + 超级会员) VIP 必入低价优惠 - 送京东 PLUS / 腾讯视频](https://www.iplaysoft.com/p/wps-vip) | 如果你办公时经常有处理文字、表格、PPT 等文档的需求，那么金山 WPS 软件一定是你不可或缺的工具。作为国产软件的骄傲，相较于微软的 Office 套件，WPS 不仅正版更加便宜实惠，而且自带的各种模板和细节小功能也更贴近国内的场景，更加适合国人使用。 但我们平常使用「免费版」的 WPS 广告实在… |
 | 2026-05-16 | [为什么买的加密货币一定要去中心化](https://smallyu.net/2026/05/16/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B9%B0%E7%9A%84%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%B8%80%E5%AE%9A%E8%A6%81%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96/) | 中心化的加密货币价格能不能涨呢？能涨，而且拉盘、控盘、砸盘更狠。大一点的像 ETH，SOL、BNB，随意一点的就是 TRUMP、DOGE |
 | 2026-05-16 | [翻译-旧科技世界正在消亡，而新世界却难以诞生](https://blog.prayhand13013.top/20260516T113505--翻译-旧科技世界正在消亡，而新世界却难以诞生__blog.html) |  |
 | 2026-05-16 | [Quake II updated](https://macsourceports.com/game/quake2) | The build of Yamagi Quake II for Quake II has been updated to version 8.70 of the project |
