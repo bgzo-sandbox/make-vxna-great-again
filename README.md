@@ -21,8 +21,10 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-18 | [MCP Dock：统一管理 14 个 AI 客户端的 MCP 配置](https://folay.top/blog/mcp-dock) | 一站式 MCP Server 和 AI Skills 管理工具，解决多客户端配置同步的问题。 |
 | 2026-05-17 | [Your New Tab：把常用的 AI 搜索放进新标签页](https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/) | 指挥 Claude 和 Codex 折腾了一个开源浏览器扩展 Your New Tab，把新标签页改成 AI 搜索入口，一次输入后可以发给 Google AI Search、Grok Search、Metaso、X Search 等服务。 |
 | 2026-05-17 | [系统升级变味了](https://blog.bgzo.cc/20260413-update-system-is-not-always-good.html) | 不知道从什么时候开始，升级系统变得听起来不那么美好了，十多年前，我还在用红米 1s 的时候，就一直期待系统升级，那么时候我还以为这个手机可以一直得到升级维护。 直到几年后的某天，我发现自己再也安装不了新的应用，安装的时候提醒一句：安卓版本过低的时候，我才发现，原来红米早就终止了这台手机的维护。 后来… |
+| 2026-05-17 | [Toots 419 2026 May.10 - May.16](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260516/) | 「低能耗、高准确率。」 |
 | 2026-05-17 | [AI Infra：Convex Backend数据库，AI Agent 时代的状态同步方案](https://luweiqing.com/resources/Convex-Backend.html) | 以前做实时应用，得自己拼数据库、API、Redis、WebSocket，再加上缓存和乐观更新。每一层都独立，状态同步的麻烦事最后全堆给开发者。Convex 试图把这些琐事都包了。它不单是个数据库... |
 | 2026-05-17 | [AI Infra：NVIDIA “Data In Place” 范式展示了AI 数据基础设施的未来](https://luweiqing.com/gossip/NVIDIA-Data-In-Place.html) | NVIDIA 的 “Data In Place” 概念核心，可用一句话概括：数据尽量留在原地完成 AI 处理，从而减少 ETL、复制、搬运、复制、搬运、重建索引和冷热迁移。这是 NVIDIA 在... |
 | 2026-05-17 | [遂昌｜躲避人潮的五一自驾Day1 - 盲盒](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-01.html) |  |
@@ -35,6 +37,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-16 | [618 王炸开局！第一波会员打折直接“巅峰”好价！闭眼入就对了……](https://www.iplaysoft.com/618.html) | 又来到 618 大促 的季节了！每年无论 京东 、 淘宝 ，还是「 腾讯云 、 阿里云 」、一些 正版软件 、 VPS 服务器 等都会出现各种打折，买买党肯定特别幸福。不过咱会更关注软件或会员促销！ 异次元特意收集最近 618 低价的影音网盘会员、正版软件激活码、数码产品等优惠活动， 包括 数码荔枝… |
 | 2026-05-16 | [修复 Venera 点击导出无反应，章节显示问题](https://blog.bgzo.cc/20260516-fix-venera-export-name.html) | 上次修复 Venera 无法在 iOS/iPad OS 上保存图片 的问题，很可能是 iOS 的一个 BUG，因为这周升级 iOS 26.5 之后，这个奇怪的问题就消失了。 除了这个问题，上次修复还有一个遗留问题是 iOS 会自动处理超长文件名，导致如： 最终会被 iOS 系统直接截断为： 很奇怪啊… |
 | 2026-05-16 | [绝对值！夸克网盘 SVIP 会员优惠年卡打折！6TB 大空间 / 不限速 / 离线下载](https://www.iplaysoft.com/p/quark-svip) | 如今，网盘正在逐渐成为我们日常工作和娱乐 (转存 + 在线看电影看视频) 的重要工具。无论是办公文件、手机电脑的备份，还是图片和视频，都可以通过云端进行存储和转移。 超级会员 SVIP 年卡限时打折优惠： 除了百度网盘、阿里云盘、迅雷云盘之外，最近还有一款网盘“异军突起”——夸克网盘…… 「 前往查… |
+| 2026-05-16 | [问Gemini的问题备份 20260516](https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260516/) | 「时间戳。」 |
 | 2026-05-16 | [周末流水账 0516](https://blog.solazy.me/20260516/) | 终于到周六了 |
 | 2026-05-16 | [节奏坦克 进行曲 M3 2025](https://blog.cxplay.org/works/tempotec-march-m3/) | 当背景噪声被明显感知到的时候, 音频接口就会像长了大王花一样臭不可「闻」, 任何音乐在它的衬托下都仿佛变成了下品. 为了解决这件事, 我选择了节奏坦克进行曲. |
 | 2026-05-16 | [Scrcpy 4 - 开源免费在电脑显示手机画面并控制安卓手机工具 (投屏/录屏/镜像/免Root)](https://www.iplaysoft.com/scrcpy.html) | 如果想在电脑上使用 Android 应用/玩游戏，除了用 安卓模拟器 、 MuMu 、 BlueStack 等模拟器跑安卓系统外，也可借助类似 Anlink 或品牌提供的工具将手机画面投屏到电脑上显示和控制。 并非所有品牌都提供投屏功能， Scrcpy 正是一款 开源 免费“通用”且功能却更强大的安… |

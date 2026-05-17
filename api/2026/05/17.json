@@ -6,6 +6,12 @@
     "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
   },
   {
+    "title": "MCP Dock：统一管理 14 个 AI 客户端的 MCP 配置",
+    "url": "https://folay.top/blog/mcp-dock",
+    "date": "2026-05-18T00:00:00Z",
+    "description": "一站式 MCP Server 和 AI Skills 管理工具，解决多客户端配置同步的问题。"
+  },
+  {
     "title": "Your New Tab：把常用的 AI 搜索放进新标签页",
     "url": "https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/",
     "date": "2026-05-17T17:13:00Z",
@@ -16,6 +22,12 @@
     "url": "https://blog.bgzo.cc/20260413-update-system-is-not-always-good.html",
     "date": "2026-05-17T13:44:09Z",
     "description": "不知道从什么时候开始，升级系统变得听起来不那么美好了，十多年前，我还在用红米 1s 的时候，就一直期待系统升级，那么时候我还以为这个手机可以一直得到升级维护。 直到几年后的某天，我发现自己再也安装不了新的应用，安装的时候提醒一句：安卓版本过低的时候，我才发现，原来红米早就终止了这台手机的维护。 后来，我慢慢发现这其实是机海战术的必然，没有哪家手机公司还想再为一台三年前的手机做适配，因为这其实是某种..."
+  },
+  {
+    "title": "Toots 419 2026 May.10 - May.16",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260516/",
+    "date": "2026-05-17T13:05:27Z",
+    "description": "「低能耗、高准确率。」"
   },
   {
     "title": "AI Infra：Convex Backend数据库，AI Agent 时代的状态同步方案",
@@ -88,6 +100,12 @@
     "url": "https://www.iplaysoft.com/p/quark-svip",
     "date": "2026-05-16T15:01:37Z",
     "description": "如今，网盘正在逐渐成为我们日常工作和娱乐 (转存 + 在线看电影看视频) 的重要工具。无论是办公文件、手机电脑的备份，还是图片和视频，都可以通过云端进行存储和转移。 超级会员 SVIP 年卡限时打折优惠： 除了百度网盘、阿里云盘、迅雷云盘之外，最近还有一款网盘“异军突起”——夸克网盘…… 「 前往查看原文.... 」 异次元首页 | 微信公众号 | 关注微博 | 软件精选 | 软件激活码折扣"
+  },
+  {
+    "title": "问Gemini的问题备份 20260516",
+    "url": "https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260516/",
+    "date": "2026-05-16T14:16:46Z",
+    "description": "「时间戳。」"
   },
   {
     "title": "周末流水账 0516",
