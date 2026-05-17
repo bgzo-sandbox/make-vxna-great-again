@@ -21,11 +21,14 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-17 | [Your New Tab：把常用的 AI 搜索放进新标签页](https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/) | 指挥 Claude 和 Codex 折腾了一个开源浏览器扩展 Your New Tab，把新标签页改成 AI 搜索入口，一次输入后可以发给 Google AI Search、Grok Search、Metaso、X Search 等服务。 |
 | 2026-05-17 | [系统升级变味了](https://blog.bgzo.cc/20260413-update-system-is-not-always-good.html) | 不知道从什么时候开始，升级系统变得听起来不那么美好了，十多年前，我还在用红米 1s 的时候，就一直期待系统升级，那么时候我还以为这个手机可以一直得到升级维护。 直到几年后的某天，我发现自己再也安装不了新的应用，安装的时候提醒一句：安卓版本过低的时候，我才发现，原来红米早就终止了这台手机的维护。 后来… |
 | 2026-05-17 | [遂昌｜躲避人潮的五一自驾Day1 - 盲盒](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-01.html) |  |
 | 2026-05-17 | [影视飓风的生意](https://blog.solazy.me/20260517/) | 昨晚看到有人吐槽影视飓风的发布会视频，索性聊聊我的看法 |
 | 2026-05-17 | [「进行中」XDSec SSO开发小记](https://www.xiaozonglin.cn/xdsec-sso-dev-notes/) | 因为信安协会原本的SSO改用户信息比较麻烦，协会的周报系统和论坛两个系统打通的任务从很早以前咕到现在，重新开发 […] 「进行中」XDSec SSO开发小记 最先出现在 林林杂语 。 |
 | 2026-05-17 | [FSRS核心字段](https://blog.est.im/2026/stdout-17) | 无聊看了下 FSRS (Free Spaced Repetition Scheduler) ，想看它怎么存数据的 Card — 卡片当前状态 表结构： 字段 类型 说明 due Date 下次复习时间 stability float 记忆稳定性（R=90% 时的间隔天数） difficulty fl… |
+| 2026-05-17 | [把微信读书接入 ChatGPT](https://www.nodealpha.me/Software-weread-mcp.html) | 微信读书最近开放了 Skill ，实际上也就是开放了 API 。 而 ChatGPT 本身是可以接入自定义 M […] |
+| 2026-05-17 | [一个 WebRTC 聊天室的三次演进](https://www.bmpi.dev/dev/free4chat/) | 从 Go/Pion 到 Elixir/Membrane，再到 Cloudflare 全栈，记录 free4chat 三次技术演进的完整历程：WebRTC 协议栈解析、三种技术路线的边界对比，以及 AI 融入实时通信的未来方向。 |
 | 2026-05-17 | [Memos #2026-05-16](https://www.taober.blog/memos) | 18:33 如果我在某个时刻的某件事情上临场表现还不错，我是指事后我也会认为的不错，那么我就会有些焦虑，这是不是只是临场环境激发出来的潜力，而不是我已经拥有的熟练的可复制的能力。 这两者哪个更重要？timing 过了就是过了，要是我每次都能有这种潜力就好了，似乎训练出能力在应对时的风险更小一些。 胡… |
 | 2026-05-16 | [618 王炸开局！第一波会员打折直接“巅峰”好价！闭眼入就对了……](https://www.iplaysoft.com/618.html) | 又来到 618 大促 的季节了！每年无论 京东 、 淘宝 ，还是「 腾讯云 、 阿里云 」、一些 正版软件 、 VPS 服务器 等都会出现各种打折，买买党肯定特别幸福。不过咱会更关注软件或会员促销！ 异次元特意收集最近 618 低价的影音网盘会员、正版软件激活码、数码产品等优惠活动， 包括 数码荔枝… |
 | 2026-05-16 | [修复 Venera 点击导出无反应，章节显示问题](https://blog.bgzo.cc/20260516-fix-venera-export-name.html) | 上次修复 Venera 无法在 iOS/iPad OS 上保存图片 的问题，很可能是 iOS 的一个 BUG，因为这周升级 iOS 26.5 之后，这个奇怪的问题就消失了。 除了这个问题，上次修复还有一个遗留问题是 iOS 会自动处理超长文件名，导致如： 最终会被 iOS 系统直接截断为： 很奇怪啊… |

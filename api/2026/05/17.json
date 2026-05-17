@@ -6,6 +6,12 @@
     "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
   },
   {
+    "title": "Your New Tab：把常用的 AI 搜索放进新标签页",
+    "url": "https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/",
+    "date": "2026-05-17T17:13:00Z",
+    "description": "指挥 Claude 和 Codex 折腾了一个开源浏览器扩展 Your New Tab，把新标签页改成 AI 搜索入口，一次输入后可以发给 Google AI Search、Grok Search、Metaso、X Search 等服务。"
+  },
+  {
     "title": "系统升级变味了",
     "url": "https://blog.bgzo.cc/20260413-update-system-is-not-always-good.html",
     "date": "2026-05-17T13:44:09Z",
@@ -34,6 +40,18 @@
     "url": "https://blog.est.im/2026/stdout-17",
     "date": "2026-05-17T01:53:00Z",
     "description": "无聊看了下 FSRS (Free Spaced Repetition Scheduler) ，想看它怎么存数据的 Card — 卡片当前状态 表结构： 字段 类型 说明 due Date 下次复习时间 stability float 记忆稳定性（R=90% 时的间隔天数） difficulty float 难度，范围 [1, 10] state int 状态机：New=0, Learning=1, Review=2, Relearning=3 learningsteps int 当前学习步骤 index scheduleddays int 本次调度天数 reps int 总复习次数 lapses int 遗忘次数 lastreview Date? 上次复习时间 核心字段详解 1. state 状态机，取值 New=0 Learning=1 Review=2 Relearning=3 Again Good/Hard/Easy New ──────────→ Learning ──────────────→ Review ↑ │ │ │ │ Again (learning步内) │ │ └"
+  },
+  {
+    "title": "把微信读书接入 ChatGPT",
+    "url": "https://www.nodealpha.me/Software-weread-mcp.html",
+    "date": "2026-05-17T01:18:15Z",
+    "description": "微信读书最近开放了 Skill ，实际上也就是开放了 API 。 而 ChatGPT 本身是可以接入自定义 M […]"
+  },
+  {
+    "title": "一个 WebRTC 聊天室的三次演进",
+    "url": "https://www.bmpi.dev/dev/free4chat/",
+    "date": "2026-05-17T00:00:00Z",
+    "description": "从 Go/Pion 到 Elixir/Membrane，再到 Cloudflare 全栈，记录 free4chat 三次技术演进的完整历程：WebRTC 协议栈解析、三种技术路线的边界对比，以及 AI 融入实时通信的未来方向。"
   },
   {
     "title": "Memos #2026-05-16",
