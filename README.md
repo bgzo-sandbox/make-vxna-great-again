@@ -23,6 +23,8 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
 | 2026-05-17 | [Your New Tab：把常用的 AI 搜索放进新标签页](https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/) | 指挥 Claude 和 Codex 折腾了一个开源浏览器扩展 Your New Tab，把新标签页改成 AI 搜索入口，一次输入后可以发给 Google AI Search、Grok Search、Metaso、X Search 等服务。 |
 | 2026-05-17 | [系统升级变味了](https://blog.bgzo.cc/20260413-update-system-is-not-always-good.html) | 不知道从什么时候开始，升级系统变得听起来不那么美好了，十多年前，我还在用红米 1s 的时候，就一直期待系统升级，那么时候我还以为这个手机可以一直得到升级维护。 直到几年后的某天，我发现自己再也安装不了新的应用，安装的时候提醒一句：安卓版本过低的时候，我才发现，原来红米早就终止了这台手机的维护。 后来… |
+| 2026-05-17 | [AI Infra：Convex Backend数据库，AI Agent 时代的状态同步方案](https://luweiqing.com/resources/Convex-Backend.html) | 以前做实时应用，得自己拼数据库、API、Redis、WebSocket，再加上缓存和乐观更新。每一层都独立，状态同步的麻烦事最后全堆给开发者。Convex 试图把这些琐事都包了。它不单是个数据库... |
+| 2026-05-17 | [AI Infra：NVIDIA “Data In Place” 范式展示了AI 数据基础设施的未来](https://luweiqing.com/gossip/NVIDIA-Data-In-Place.html) | NVIDIA 的 “Data In Place” 概念核心，可用一句话概括：数据尽量留在原地完成 AI 处理，从而减少 ETL、复制、搬运、复制、搬运、重建索引和冷热迁移。这是 NVIDIA 在... |
 | 2026-05-17 | [遂昌｜躲避人潮的五一自驾Day1 - 盲盒](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-01.html) |  |
 | 2026-05-17 | [影视飓风的生意](https://blog.solazy.me/20260517/) | 昨晚看到有人吐槽影视飓风的发布会视频，索性聊聊我的看法 |
 | 2026-05-17 | [「进行中」XDSec SSO开发小记](https://www.xiaozonglin.cn/xdsec-sso-dev-notes/) | 因为信安协会原本的SSO改用户信息比较麻烦，协会的周报系统和论坛两个系统打通的任务从很早以前咕到现在，重新开发 […] 「进行中」XDSec SSO开发小记 最先出现在 林林杂语 。 |
