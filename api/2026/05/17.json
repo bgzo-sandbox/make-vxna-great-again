@@ -6,10 +6,10 @@
     "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
   },
   {
-    "title": "MCP Dock：统一管理 14 个 AI 客户端的 MCP 配置",
+    "title": "MCP Dock：给 14 个 AI 客户端统一管配置",
     "url": "https://folay.top/blog/mcp-dock",
     "date": "2026-05-18T00:00:00Z",
-    "description": "一站式 MCP Server 和 AI Skills 管理工具，解决多客户端配置同步的问题。"
+    "description": "做了个桌面端工具，统一管理 Cursor、VS Code、Claude Code 等客户端的 MCP 配置。"
   },
   {
     "title": "Your New Tab：把常用的 AI 搜索放进新标签页",
@@ -22,6 +22,12 @@
     "url": "https://blog.bgzo.cc/20260413-update-system-is-not-always-good.html",
     "date": "2026-05-17T13:44:09Z",
     "description": "不知道从什么时候开始，升级系统变得听起来不那么美好了，十多年前，我还在用红米 1s 的时候，就一直期待系统升级，那么时候我还以为这个手机可以一直得到升级维护。 直到几年后的某天，我发现自己再也安装不了新的应用，安装的时候提醒一句：安卓版本过低的时候，我才发现，原来红米早就终止了这台手机的维护。 后来，我慢慢发现这其实是机海战术的必然，没有哪家手机公司还想再为一台三年前的手机做适配，因为这其实是某种..."
+  },
+  {
+    "title": "拍摄一次彗星",
+    "url": "https://zhangke.space/%e6%8b%8d%e6%91%84%e4%b8%80%e6%ac%a1%e5%bd%97%e6%98%9f/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%258b%258d%25e6%2591%2584%25e4%25b8%2580%25e6%25ac%25a1%25e5%25bd%2597%25e6%2598%259f",
+    "date": "2026-05-17T13:27:43Z",
+    "description": "最近 2025 R3 彗星逐渐进入可以观测的范围，四月中下旬星等甚至可以达到 4 左右，环境好的话甚至可以肉眼 […] The post 拍摄一次彗星 first appeared on 张可的博客 ."
   },
   {
     "title": "Toots 419 2026 May.10 - May.16",
@@ -40,6 +46,12 @@
     "url": "https://luweiqing.com/gossip/NVIDIA-Data-In-Place.html",
     "date": "2026-05-17T11:51:00Z",
     "description": "NVIDIA 的 “Data In Place” 概念核心，可用一句话概括：数据尽量留在原地完成 AI 处理，从而减少 ETL、复制、搬运、复制、搬运、重建索引和冷热迁移。这是 NVIDIA 在..."
+  },
+  {
+    "title": "Vol.103 Agent工程化落地周：工具走出IDE，组织面临重构",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-103",
+    "date": "2026-05-17T08:00:00Z",
+    "description": "本期内容围绕AI Agent工程化全面落地，涵盖Claude Code与Codex在大型代码库的实践、Computer Use最佳实践、Agent Skill开放标准、Multi-Agent Harness部署及AI Native组织变革等关键议题。"
   },
   {
     "title": "遂昌｜躲避人潮的五一自驾Day1 - 盲盒",
@@ -76,6 +88,12 @@
     "url": "https://www.bmpi.dev/dev/free4chat/",
     "date": "2026-05-17T00:00:00Z",
     "description": "从 Go/Pion 到 Elixir/Membrane，再到 Cloudflare 全栈，记录 free4chat 三次技术演进的完整历程：WebRTC 协议栈解析、三种技术路线的边界对比，以及 AI 融入实时通信的未来方向。"
+  },
+  {
+    "title": "年轻不是健康的免死金牌",
+    "url": "https://www.mengke.me/blog/202605/Youth_Is_Not_A_Health_Pass",
+    "date": "2026-05-17T00:00:00Z",
+    "description": "29 岁、平时爱跑步的我，因上消化道出血从公司工位被送进急诊抢救室。记录黑便就医、急诊胃镜止血、禁食住院的经过，以及「年轻不是健康的免死金牌」这件事教会我的事 …"
   },
   {
     "title": "Memos #2026-05-16",

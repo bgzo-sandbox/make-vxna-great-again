@@ -21,18 +21,21 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
-| 2026-05-18 | [MCP Dock：统一管理 14 个 AI 客户端的 MCP 配置](https://folay.top/blog/mcp-dock) | 一站式 MCP Server 和 AI Skills 管理工具，解决多客户端配置同步的问题。 |
+| 2026-05-18 | [MCP Dock：给 14 个 AI 客户端统一管配置](https://folay.top/blog/mcp-dock) | 做了个桌面端工具，统一管理 Cursor、VS Code、Claude Code 等客户端的 MCP 配置。 |
 | 2026-05-17 | [Your New Tab：把常用的 AI 搜索放进新标签页](https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/) | 指挥 Claude 和 Codex 折腾了一个开源浏览器扩展 Your New Tab，把新标签页改成 AI 搜索入口，一次输入后可以发给 Google AI Search、Grok Search、Metaso、X Search 等服务。 |
 | 2026-05-17 | [系统升级变味了](https://blog.bgzo.cc/20260413-update-system-is-not-always-good.html) | 不知道从什么时候开始，升级系统变得听起来不那么美好了，十多年前，我还在用红米 1s 的时候，就一直期待系统升级，那么时候我还以为这个手机可以一直得到升级维护。 直到几年后的某天，我发现自己再也安装不了新的应用，安装的时候提醒一句：安卓版本过低的时候，我才发现，原来红米早就终止了这台手机的维护。 后来… |
+| 2026-05-17 | [拍摄一次彗星](https://zhangke.space/%e6%8b%8d%e6%91%84%e4%b8%80%e6%ac%a1%e5%bd%97%e6%98%9f/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%258b%258d%25e6%2591%2584%25e4%25b8%2580%25e6%25ac%25a1%25e5%25bd%2597%25e6%2598%259f) | 最近 2025 R3 彗星逐渐进入可以观测的范围，四月中下旬星等甚至可以达到 4 左右，环境好的话甚至可以肉眼 […] The post 拍摄一次彗星 first appeared on 张可的博客 . |
 | 2026-05-17 | [Toots 419 2026 May.10 - May.16](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260516/) | 「低能耗、高准确率。」 |
 | 2026-05-17 | [AI Infra：Convex Backend数据库，AI Agent 时代的状态同步方案](https://luweiqing.com/resources/Convex-Backend.html) | 以前做实时应用，得自己拼数据库、API、Redis、WebSocket，再加上缓存和乐观更新。每一层都独立，状态同步的麻烦事最后全堆给开发者。Convex 试图把这些琐事都包了。它不单是个数据库... |
 | 2026-05-17 | [AI Infra：NVIDIA “Data In Place” 范式展示了AI 数据基础设施的未来](https://luweiqing.com/gossip/NVIDIA-Data-In-Place.html) | NVIDIA 的 “Data In Place” 概念核心，可用一句话概括：数据尽量留在原地完成 AI 处理，从而减少 ETL、复制、搬运、复制、搬运、重建索引和冷热迁移。这是 NVIDIA 在... |
+| 2026-05-17 | [Vol.103 Agent工程化落地周：工具走出IDE，组织面临重构](https://liduos.com/weekly/the-weekly-gradient-103) | 本期内容围绕AI Agent工程化全面落地，涵盖Claude Code与Codex在大型代码库的实践、Computer Use最佳实践、Agent Skill开放标准、Multi-Agent Harness部署及AI Native组织变革等关键议题。 |
 | 2026-05-17 | [遂昌｜躲避人潮的五一自驾Day1 - 盲盒](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-01.html) |  |
 | 2026-05-17 | [影视飓风的生意](https://blog.solazy.me/20260517/) | 昨晚看到有人吐槽影视飓风的发布会视频，索性聊聊我的看法 |
 | 2026-05-17 | [「进行中」XDSec SSO开发小记](https://www.xiaozonglin.cn/xdsec-sso-dev-notes/) | 因为信安协会原本的SSO改用户信息比较麻烦，协会的周报系统和论坛两个系统打通的任务从很早以前咕到现在，重新开发 […] 「进行中」XDSec SSO开发小记 最先出现在 林林杂语 。 |
 | 2026-05-17 | [FSRS核心字段](https://blog.est.im/2026/stdout-17) | 无聊看了下 FSRS (Free Spaced Repetition Scheduler) ，想看它怎么存数据的 Card — 卡片当前状态 表结构： 字段 类型 说明 due Date 下次复习时间 stability float 记忆稳定性（R=90% 时的间隔天数） difficulty fl… |
 | 2026-05-17 | [把微信读书接入 ChatGPT](https://www.nodealpha.me/Software-weread-mcp.html) | 微信读书最近开放了 Skill ，实际上也就是开放了 API 。 而 ChatGPT 本身是可以接入自定义 M […] |
 | 2026-05-17 | [一个 WebRTC 聊天室的三次演进](https://www.bmpi.dev/dev/free4chat/) | 从 Go/Pion 到 Elixir/Membrane，再到 Cloudflare 全栈，记录 free4chat 三次技术演进的完整历程：WebRTC 协议栈解析、三种技术路线的边界对比，以及 AI 融入实时通信的未来方向。 |
+| 2026-05-17 | [年轻不是健康的免死金牌](https://www.mengke.me/blog/202605/Youth_Is_Not_A_Health_Pass) | 29 岁、平时爱跑步的我，因上消化道出血从公司工位被送进急诊抢救室。记录黑便就医、急诊胃镜止血、禁食住院的经过，以及「年轻不是健康的免死金牌」这件事教会我的事 … |
 | 2026-05-17 | [Memos #2026-05-16](https://www.taober.blog/memos) | 18:33 如果我在某个时刻的某件事情上临场表现还不错，我是指事后我也会认为的不错，那么我就会有些焦虑，这是不是只是临场环境激发出来的潜力，而不是我已经拥有的熟练的可复制的能力。 这两者哪个更重要？timing 过了就是过了，要是我每次都能有这种潜力就好了，似乎训练出能力在应对时的风险更小一些。 胡… |
 | 2026-05-16 | [618 王炸开局！第一波会员打折直接“巅峰”好价！闭眼入就对了……](https://www.iplaysoft.com/618.html) | 又来到 618 大促 的季节了！每年无论 京东 、 淘宝 ，还是「 腾讯云 、 阿里云 」、一些 正版软件 、 VPS 服务器 等都会出现各种打折，买买党肯定特别幸福。不过咱会更关注软件或会员促销！ 异次元特意收集最近 618 低价的影音网盘会员、正版软件激活码、数码产品等优惠活动， 包括 数码荔枝… |
 | 2026-05-16 | [修复 Venera 点击导出无反应，章节显示问题](https://blog.bgzo.cc/20260516-fix-venera-export-name.html) | 上次修复 Venera 无法在 iOS/iPad OS 上保存图片 的问题，很可能是 iOS 的一个 BUG，因为这周升级 iOS 26.5 之后，这个奇怪的问题就消失了。 除了这个问题，上次修复还有一个遗留问题是 iOS 会自动处理超长文件名，导致如： 最终会被 iOS 系统直接截断为： 很奇怪啊… |
