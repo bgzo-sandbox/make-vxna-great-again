@@ -22,6 +22,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
 | 2026-05-17 | [系统升级变味了](https://blog.bgzo.cc/20260413-update-system-is-not-always-good.html) | 不知道从什么时候开始，升级系统变得听起来不那么美好了，十多年前，我还在用红米 1s 的时候，就一直期待系统升级，那么时候我还以为这个手机可以一直得到升级维护。 直到几年后的某天，我发现自己再也安装不了新的应用，安装的时候提醒一句：安卓版本过低的时候，我才发现，原来红米早就终止了这台手机的维护。 后来… |
+| 2026-05-17 | [遂昌｜躲避人潮的五一自驾Day1 - 盲盒](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-01.html) |  |
 | 2026-05-17 | [影视飓风的生意](https://blog.solazy.me/20260517/) | 昨晚看到有人吐槽影视飓风的发布会视频，索性聊聊我的看法 |
 | 2026-05-17 | [「进行中」XDSec SSO开发小记](https://www.xiaozonglin.cn/xdsec-sso-dev-notes/) | 因为信安协会原本的SSO改用户信息比较麻烦，协会的周报系统和论坛两个系统打通的任务从很早以前咕到现在，重新开发 […] 「进行中」XDSec SSO开发小记 最先出现在 林林杂语 。 |
 | 2026-05-17 | [FSRS核心字段](https://blog.est.im/2026/stdout-17) | 无聊看了下 FSRS (Free Spaced Repetition Scheduler) ，想看它怎么存数据的 Card — 卡片当前状态 表结构： 字段 类型 说明 due Date 下次复习时间 stability float 记忆稳定性（R=90% 时的间隔天数） difficulty fl… |
