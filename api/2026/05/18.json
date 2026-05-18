@@ -6,10 +6,34 @@
     "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
   },
   {
+    "title": "车祸 XII",
+    "url": "https://mobius.blog/23665.html",
+    "date": "2026-05-18T13:33:04Z",
+    "description": "（2026-全国卷）下列哪些是提升电动车品牌效应的方法： A、通过分析起火/爆炸事故数据，改进电池安全； B、 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
+    "title": "Zine#49",
+    "url": "https://taxodium.ink/49.html",
+    "date": "2026-05-18T13:30:00Z",
+    "description": "Zine#49 🎶 嘿！岛 (Black Island) - 表情银行 MimikBanka 启明星 一定很孤独吧 孤独中 搁浅的你我啊 黑暗里 望眼欲穿向白昼 漫漫长夜 教我如何不泪流 浑浊的 黑夜赐予我疼痛 这疼痛 像雪一样正消融 睡魔啊 他唱着遗忘的歌谣 破晓时 就带走我的噩梦 哎呀呀 漫漫长夜 教我如何不泪流 闪电划破阴天 晨光驱散黑夜 在这世界的普通角落 我满不在乎地活下去 和你一起 和你一起 浑浊渐渐沉淀 一切清晰可见 在超越绝望的远方 比希望更远的地方 我等着你 拥抱你 等着你 拥抱你 ⸺ 启明星 (Phospherus) News | Article 目录 A Tale of Two Bridges by pieterh Against Interpretation by Susan Sontag Going back to the morning newspaper model by Chandru The Mystery in the Medicine Cabinet Dynomight by Asterisk On Taste by Matthias Endler"
+  },
+  {
     "title": "R#102 移动端 Vibe Coding！",
     "url": "https://blog.sakanano.moe/journals/random_102",
     "date": "2026-05-18T12:00:00Z",
     "description": "2026.5.12 ~ 2026.5.18"
+  },
+  {
+    "title": "遂昌｜躲避人潮的五一自驾Day2 - 桃源",
+    "url": "https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-02.html",
+    "date": "2026-05-18T10:56:20Z",
+    "description": ""
+  },
+  {
+    "title": "2026 音色克隆方案对比：IndexTTS-2、CosyVoice、GPT-SoVITS、Fish Speech 部署与实测",
+    "url": "https://liudon.com/posts/voice-cloning-solution-comparison/",
+    "date": "2026-05-18T07:19:23Z",
+    "description": "系统对比 IndexTTS-2、CosyVoice、GPT-SoVITS、Fish Speech 四大音色克隆方案，详解部署步骤、测试方法、硬件要求、CPU 支持、优缺点与选型建议。"
   },
   {
     "title": "AI Infra：跳出数据库，看到更大的Agent Data Runtime",

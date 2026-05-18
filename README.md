@@ -21,7 +21,11 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-18 | [车祸 XII](https://mobius.blog/23665.html) | （2026-全国卷）下列哪些是提升电动车品牌效应的方法： A、通过分析起火/爆炸事故数据，改进电池安全； B、 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-05-18 | [Zine#49](https://taxodium.ink/49.html) | Zine#49 🎶 嘿！岛 (Black Island) - 表情银行 MimikBanka 启明星 一定很孤独吧 孤独中 搁浅的你我啊 黑暗里 望眼欲穿向白昼 漫漫长夜 教我如何不泪流 浑浊的 黑夜赐予我疼痛 这疼痛 像雪一样正消融 睡魔啊 他唱着遗忘的歌谣 破晓时 就带走我的噩梦 哎呀呀 漫漫长… |
 | 2026-05-18 | [R#102 移动端 Vibe Coding！](https://blog.sakanano.moe/journals/random_102) | 2026.5.12 ~ 2026.5.18 |
+| 2026-05-18 | [遂昌｜躲避人潮的五一自驾Day2 - 桃源](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-02.html) |  |
+| 2026-05-18 | [2026 音色克隆方案对比：IndexTTS-2、CosyVoice、GPT-SoVITS、Fish Speech 部署与实测](https://liudon.com/posts/voice-cloning-solution-comparison/) | 系统对比 IndexTTS-2、CosyVoice、GPT-SoVITS、Fish Speech 四大音色克隆方案，详解部署步骤、测试方法、硬件要求、CPU 支持、优缺点与选型建议。 |
 | 2026-05-18 | [AI Infra：跳出数据库，看到更大的Agent Data Runtime](https://luweiqing.com/gossip/no-database-Agent-Data-Runtime.html) | 让数据直接成为 Agent 认知状态的一部分一、定义 Agent Data RuntimeAgent Data Runtime：一个面向 AI Agent 的状态化认知运行系统（Stateful... |
 | 2026-05-18 | [老板的在与不在](https://blog.solazy.me/20260518/) | 昨天去公司加班，老板和我说他接下来的一整周都不在公司 |
 | 2026-05-18 | [emacs-使用use-package的:vc像melpa一样安装package快照](https://blog.prayhand13013.top/20260518T120920--emacs-使用use-package的vc像melpa一样安装package快照__blog.html) |  |
