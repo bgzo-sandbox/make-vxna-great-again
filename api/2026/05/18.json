@@ -6,6 +6,30 @@
     "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
   },
   {
+    "title": "AI Infra：跳出数据库，看到更大的Agent Data Runtime",
+    "url": "https://luweiqing.com/gossip/no-database-Agent-Data-Runtime.html",
+    "date": "2026-05-18T06:45:21Z",
+    "description": "让数据直接成为 Agent 认知状态的一部分一、定义 Agent Data RuntimeAgent Data Runtime：一个面向 AI Agent 的状态化认知运行系统（Stateful..."
+  },
+  {
+    "title": "老板的在与不在",
+    "url": "https://blog.solazy.me/20260518/",
+    "date": "2026-05-18T05:00:00Z",
+    "description": "昨天去公司加班，老板和我说他接下来的一整周都不在公司"
+  },
+  {
+    "title": "emacs-使用use-package的:vc像melpa一样安装package快照",
+    "url": "https://blog.prayhand13013.top/20260518T120920--emacs-使用use-package的vc像melpa一样安装package快照__blog.html",
+    "date": "2026-05-18T04:09:00Z",
+    "description": ""
+  },
+  {
+    "title": "RollerCoaster Tycoon 2 updated",
+    "url": "https://macsourceports.com/game/rct2",
+    "date": "2026-05-18T03:55:13Z",
+    "description": "The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.1 of the project"
+  },
+  {
     "title": "我就是想证明一下自己",
     "url": "https://mobius.blog/23645.html",
     "date": "2026-05-18T00:56:49Z",
@@ -16,6 +40,12 @@
     "url": "https://www.geedea.pro/weekly/81/",
     "date": "2026-05-18T00:10:27Z",
     "description": "这周没读什么文章，大部分时间都花在赶项目、焦虑、把头埋在被子里哀嚎、在心里咒骂同室、焦虑、出门乱逛、路过某个场景于是触发几年前的回忆然后陷入情绪波动、做健身计划但不执行、焦虑、幻想养一只萨摩耶、在小红书上看别人养的萨摩耶、幻想开一家咖啡馆并把萨摩耶带到店里让客人陪玩、幻想早上七点半被狗狗叫醒、焦虑等一系列活动上了，所以没读什么文章。 无论如何，还是要显得有诚意一点，所以我会讨论我最近正在读的一本书，以及相关的零碎思考。 止语 The Sound of Music: 40th Anniversary Special Edition Original Soundtrack NeoDB 和朋友玩《饥荒》的时候连着麦，玩着玩着两个人就开始莫名其妙地唱起《Hamilton》和《The Phantom of The Opera》。后来我唱了一句《The Lonely Goatherd》，他没有听出来， 于是我罚他去看一百遍《The Sound of Music》 。 Anyway…… 于是我这周就把电影原声带找出来听了。不过那首《Sixteen Going On Seventeen》可真是不能拿给"
+  },
+  {
+    "title": "5.18 随想：发发牢骚",
+    "url": "https://blog.sakoamc.com/posts/26sx001/",
+    "date": "2026-05-18T00:00:00Z",
+    "description": "题记：当无聊反映为感知力的迟顿时，或许我更需要关心的是今晚的睡眠。"
   },
   {
     "title": "MCP Dock：给 14 个 AI 客户端统一管配置",

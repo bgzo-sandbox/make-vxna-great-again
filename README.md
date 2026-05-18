@@ -21,8 +21,13 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-18 | [AI Infra：跳出数据库，看到更大的Agent Data Runtime](https://luweiqing.com/gossip/no-database-Agent-Data-Runtime.html) | 让数据直接成为 Agent 认知状态的一部分一、定义 Agent Data RuntimeAgent Data Runtime：一个面向 AI Agent 的状态化认知运行系统（Stateful... |
+| 2026-05-18 | [老板的在与不在](https://blog.solazy.me/20260518/) | 昨天去公司加班，老板和我说他接下来的一整周都不在公司 |
+| 2026-05-18 | [emacs-使用use-package的:vc像melpa一样安装package快照](https://blog.prayhand13013.top/20260518T120920--emacs-使用use-package的vc像melpa一样安装package快照__blog.html) |  |
+| 2026-05-18 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.1 of the project |
 | 2026-05-18 | [我就是想证明一下自己](https://mobius.blog/23645.html) | 简中社交媒体之中，我最佩服三个人：三礼、煮夫亮哥和勇哥说餐饮。我虽然不用抖音，但偶尔会在别处看到这三个人在和基 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-18 | [稻草人周刊 Vol.81](https://www.geedea.pro/weekly/81/) | 这周没读什么文章，大部分时间都花在赶项目、焦虑、把头埋在被子里哀嚎、在心里咒骂同室、焦虑、出门乱逛、路过某个场景于是触发几年前的回忆然后陷入情绪波动、做健身计划但不执行、焦虑、幻想养一只萨摩耶、在小红书上看别人养的萨摩耶、幻想开一家咖啡馆并把萨摩耶带到店里让客人陪玩、幻想早上七点半被狗狗叫醒、焦虑等… |
+| 2026-05-18 | [5.18 随想：发发牢骚](https://blog.sakoamc.com/posts/26sx001/) | 题记：当无聊反映为感知力的迟顿时，或许我更需要关心的是今晚的睡眠。 |
 | 2026-05-18 | [MCP Dock：给 14 个 AI 客户端统一管配置](https://folay.top/blog/mcp-dock) | 做了个桌面端工具，统一管理 Cursor、VS Code、Claude Code 等客户端的 MCP 配置。 |
 | 2026-05-18 | [Memos #2026-05-17](https://www.taober.blog/memos) | 11:44 codex goal 给力！ 13:04 牛肉荷包蛋 19:27 《钱专》太好听了，共情到落泪 22:33 偷偷更新了一版博客编辑能力，下周要开始写点东西了。 |
 | 2026-05-17 | [探访日本的"鬼岛" 《Summer Pockets REFLECTION BLUE》 圣地巡礼之女木岛](https://www.wikimoe.com/post/b-tf4ohxj8) | 2026年5月5日，天气晴，今天启程出发巡礼 《Summer Pockets REFLECTION BLUE》的女木岛和男木岛。 本篇为女木岛篇。 如何前往女木岛/男木岛 前往女木岛 / 男木岛，最常用方式是从高松港搭乘雌雄岛海运渡轮「めおん」。 路线 高松港 → 女木岛 → 男木岛 回程为男木岛… |
