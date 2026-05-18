@@ -21,7 +21,11 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-18 | [我就是想证明一下自己](https://mobius.blog/23645.html) | 简中社交媒体之中，我最佩服三个人：三礼、煮夫亮哥和勇哥说餐饮。我虽然不用抖音，但偶尔会在别处看到这三个人在和基 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-05-18 | [稻草人周刊 Vol.81](https://www.geedea.pro/weekly/81/) | 这周没读什么文章，大部分时间都花在赶项目、焦虑、把头埋在被子里哀嚎、在心里咒骂同室、焦虑、出门乱逛、路过某个场景于是触发几年前的回忆然后陷入情绪波动、做健身计划但不执行、焦虑、幻想养一只萨摩耶、在小红书上看别人养的萨摩耶、幻想开一家咖啡馆并把萨摩耶带到店里让客人陪玩、幻想早上七点半被狗狗叫醒、焦虑等… |
 | 2026-05-18 | [MCP Dock：给 14 个 AI 客户端统一管配置](https://folay.top/blog/mcp-dock) | 做了个桌面端工具，统一管理 Cursor、VS Code、Claude Code 等客户端的 MCP 配置。 |
+| 2026-05-18 | [Memos #2026-05-17](https://www.taober.blog/memos) | 11:44 codex goal 给力！ 13:04 牛肉荷包蛋 19:27 《钱专》太好听了，共情到落泪 22:33 偷偷更新了一版博客编辑能力，下周要开始写点东西了。 |
+| 2026-05-17 | [探访日本的"鬼岛" 《Summer Pockets REFLECTION BLUE》 圣地巡礼之女木岛](https://www.wikimoe.com/post/b-tf4ohxj8) | 2026年5月5日，天气晴，今天启程出发巡礼 《Summer Pockets REFLECTION BLUE》的女木岛和男木岛。 本篇为女木岛篇。 如何前往女木岛/男木岛 前往女木岛 / 男木岛，最常用方式是从高松港搭乘雌雄岛海运渡轮「めおん」。 路线 高松港 → 女木岛 → 男木岛 回程为男木岛… |
 | 2026-05-17 | [Your New Tab：把常用的 AI 搜索放进新标签页](https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/) | 指挥 Claude 和 Codex 折腾了一个开源浏览器扩展 Your New Tab，把新标签页改成 AI 搜索入口，一次输入后可以发给 Google AI Search、Grok Search、Metaso、X Search 等服务。 |
 | 2026-05-17 | [系统升级变味了](https://blog.bgzo.cc/20260413-update-system-is-not-always-good.html) | 不知道从什么时候开始，升级系统变得听起来不那么美好了，十多年前，我还在用红米 1s 的时候，就一直期待系统升级，那么时候我还以为这个手机可以一直得到升级维护。 直到几年后的某天，我发现自己再也安装不了新的应用，安装的时候提醒一句：安卓版本过低的时候，我才发现，原来红米早就终止了这台手机的维护。 后来… |
 | 2026-05-17 | [拍摄一次彗星](https://zhangke.space/%e6%8b%8d%e6%91%84%e4%b8%80%e6%ac%a1%e5%bd%97%e6%98%9f/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%258b%258d%25e6%2591%2584%25e4%25b8%2580%25e6%25ac%25a1%25e5%25bd%2597%25e6%2598%259f) | 最近 2025 R3 彗星逐渐进入可以观测的范围，四月中下旬星等甚至可以达到 4 左右，环境好的话甚至可以肉眼 […] The post 拍摄一次彗星 first appeared on 张可的博客 . |
@@ -36,7 +40,6 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-17 | [把微信读书接入 ChatGPT](https://www.nodealpha.me/Software-weread-mcp.html) | 微信读书最近开放了 Skill ，实际上也就是开放了 API 。 而 ChatGPT 本身是可以接入自定义 M […] |
 | 2026-05-17 | [一个 WebRTC 聊天室的三次演进](https://www.bmpi.dev/dev/free4chat/) | 从 Go/Pion 到 Elixir/Membrane，再到 Cloudflare 全栈，记录 free4chat 三次技术演进的完整历程：WebRTC 协议栈解析、三种技术路线的边界对比，以及 AI 融入实时通信的未来方向。 |
 | 2026-05-17 | [年轻不是健康的免死金牌](https://www.mengke.me/blog/202605/Youth_Is_Not_A_Health_Pass) | 29 岁、平时爱跑步的我，因上消化道出血从公司工位被送进急诊抢救室。记录黑便就医、急诊胃镜止血、禁食住院的经过，以及「年轻不是健康的免死金牌」这件事教会我的事 … |
-| 2026-05-17 | [Memos #2026-05-16](https://www.taober.blog/memos) | 18:33 如果我在某个时刻的某件事情上临场表现还不错，我是指事后我也会认为的不错，那么我就会有些焦虑，这是不是只是临场环境激发出来的潜力，而不是我已经拥有的熟练的可复制的能力。 这两者哪个更重要？timing 过了就是过了，要是我每次都能有这种潜力就好了，似乎训练出能力在应对时的风险更小一些。 胡… |
 | 2026-05-16 | [618 王炸开局！第一波会员打折直接“巅峰”好价！闭眼入就对了……](https://www.iplaysoft.com/618.html) | 又来到 618 大促 的季节了！每年无论 京东 、 淘宝 ，还是「 腾讯云 、 阿里云 」、一些 正版软件 、 VPS 服务器 等都会出现各种打折，买买党肯定特别幸福。不过咱会更关注软件或会员促销！ 异次元特意收集最近 618 低价的影音网盘会员、正版软件激活码、数码产品等优惠活动， 包括 数码荔枝… |
 | 2026-05-16 | [修复 Venera 点击导出无反应，章节显示问题](https://blog.bgzo.cc/20260516-fix-venera-export-name.html) | 上次修复 Venera 无法在 iOS/iPad OS 上保存图片 的问题，很可能是 iOS 的一个 BUG，因为这周升级 iOS 26.5 之后，这个奇怪的问题就消失了。 除了这个问题，上次修复还有一个遗留问题是 iOS 会自动处理超长文件名，导致如： 最终会被 iOS 系统直接截断为： 很奇怪啊… |
 | 2026-05-16 | [绝对值！夸克网盘 SVIP 会员优惠年卡打折！6TB 大空间 / 不限速 / 离线下载](https://www.iplaysoft.com/p/quark-svip) | 如今，网盘正在逐渐成为我们日常工作和娱乐 (转存 + 在线看电影看视频) 的重要工具。无论是办公文件、手机电脑的备份，还是图片和视频，都可以通过云端进行存储和转移。 超级会员 SVIP 年卡限时打折优惠： 除了百度网盘、阿里云盘、迅雷云盘之外，最近还有一款网盘“异军突起”——夸克网盘…… 「 前往查… |
@@ -119,23 +122,6 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-11 | [由于 Linux 桌面环境下没有一个好用的语音输入法，做了一个 web 浏览器版本的](https://hellodk.cn/post/1218) | 功能比较简单，基于百度实时语音识别 wss API 实现的 web 浏览器“语音输入法”，支持简体中文（普通话和部分方言）和英语，将语音实时转成文字。GitHub地址： https://gith... |
 | 2026-05-11 | [FC 游戏：星之卡比 梦之泉之物语（Kirby’s Adventure）](https://springwood.me/fc-kirbys-adventure/) | 小霸王时代又一个无缘的经典系列之一，比马里奥简单很多，现在千万不要错过。 |
 | 2026-05-11 | [真的存在过保就坏的“定时自毁功能”吗？](https://mobius.blog/23517.html) | 虽然我家上一台小米电视，确实在过保前一周突然坏了，还被拖回厂商免费维修过。 但至今并没有一项明确的证据，证明某 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-10 | [Ubuntu 26.04 Desktop使用体验](https://blog.keepchen.com/a/Ubuntu-26.04-Desktop-User-Experience.html) | 在Ubuntu 26.04正式版发布前，我已经使用Ubuntu 24.04又快一年的时间了。为什么说又呢，那是因为在此之前也是在工作电脑上长期使用Ubuntu Desktop版本。趁着26.04版本刚发布不久，赶紧安装尝鲜试试体验如何。 |
-| 2026-05-10 | [百合盛典 Prism Garden ― 光庭花开，一瓣情思](https://www.wikimoe.com/post/b-tet73zn0) | 2026年5月3日，天气多云，今天去大宫看Prism Garden ― 光庭花开，一瓣情思。 关于活动 「Prism Garden ― 光庭花开，一瓣情思」（Prism Garden ― 光の庭に咲く、ひとひらの想い）是由 Melonbooks 主办的百合作品主题展示活动，于 2026 年 5 月… |
-| 2026-05-10 | [学习周刊-总第262期-2026年第19周](https://wiki.eryajf.net/pages/7c16d3/) | 如要阅读全文，点击标题跳转。 学习周刊-总第262期 &#124; easyshell &#124; RapidRAW &#124; hiclaw &#124; Proma &#124; xiaoyaoprivatebill &#124; djump &#124; openclaw-kasmvnc &#124; hive &#124; moraya &#124; memsearch &#124; full-… |
-| 2026-05-10 | [学习周刊-总第261期-2026年第18周](https://wiki.eryajf.net/pages/71aed3/) | 如要阅读全文，点击标题跳转。 学习周刊-总第261期 &#124; paperclip &#124; openocta &#124; neo &#124; video-helper &#124; agent-browser &#124; defuddle &#124; bounty-hunter-skill &#124; Scrapling &#124; agency-agents &#124;… |
-| 2026-05-10 | [邮件人周报 Vol.53](https://www.mailer.su/article/weekly-vol-53/) | Wino Mail 发布 2.0 Beta; 当占位符邮件地址的域名被抢注; Apple 账户通知邮件滥用; 通过 Android 凭据管理器支持验证 Gmail 地址; Temu 面临垃圾邮件诉讼; Microsoft 发布 2026 年第一季度电子邮件威胁报告; Proton Mail 推进后量… |
-| 2026-05-10 | [稻草人周刊 Vol.80](https://www.geedea.pro/weekly/80/) | 在开始之前我需要警告读者，这期周刊的大多数内容都在批评（甚至攻击），带有不少负面情绪，请谨慎阅读，或者你也可以跳过「连接」这个栏目。不过该说不说，带着一点攻击性写文让我找回了几个月前写博客的感觉。 止语 Whole World As Vigil Lauren Auder Bandcamp 又是一张在… |
-| 2026-05-10 | [成为我](https://blog.zopiya.com/becoming-me-7f780627/) | 记忆从一张被撕掉的试卷开始 # 如果真要说我是谁，从哪里来，也许要从很早很早以前说起，早到我还没有能力问出这个问题的时候。 |
-| 2026-05-10 | [北京自驾游](https://elmagnifico.tech/2026/05/11/Beijing-Self-driving-Travel/) | Foreword 车在北京，顺便周边自驾转转，看看北方发展成什么样了。从北京去了保定，打算从西南边逛起，再回北京见同学，接着往西北边逛了一圈，然后直奔秦皇岛。 保定 保定虽然就在北京旁边，自古以来也是守卫京畿的重地，主要景点基本都在中心城区。但保定给我的感觉和去粤西、揭阳那会儿差不多：有点破，有点穷… |
-| 2026-05-10 | [周末流水账 0510](https://blog.solazy.me/20260510/) | 这是个单休的周末 |
-| 2026-05-10 | [如何拥有铁一样的肠胃？](https://www.geedea.pro/article/hacking-digestive-system/) | 应该是在读过《控糖革命》之后，我开始有意识地增加膳食纤维摄入，因为提前食用富含膳食纤维的食物可以减缓血糖上升速度，而控糖的好处就不多言了。由于我不总是能严格控制饮食，精力稳定和体脂率下降的好处我倒是没怎么体验到，但我身体的另一个系统却因此变得异常强大，这是我始料未及的。 这个系统就是（ 因为标题已经… |
-| 2026-05-10 | [Predict Next Word](https://blog.est.im/2026/stdin-13) | 一个流传很广的视频 小朋友识字，笑死我了。其实他一个不认识，只是记性好 1 2 摘录一些评论 妈妈：NOR FLASH；姐姐：NAND FLASH；小孩：磁带 链式存储，不支持随机查找 随机提问，你手机号的第五位是什么 正常，元素周期表中铝上个是什么 上辈子是个磁带 别笑，现在立刻问你周期表21号元… |
-| 2026-05-10 | [Vol.102 语音AI迈向核心交互界面，模型与工程实践深度解析](https://liduos.com/weekly/the-weekly-gradient-102) | 本期内容聚焦语音AI成为人类与机器交互的进化方向，涵盖OpenAI实时音频模型、Anthropic自然语言自编码器、AI编码与工程实践、智能体对GitHub负载影响等前沿议题。 |
-| 2026-05-10 | [最近惦念 20260425](https://z.arlmy.me/posts/TILs/thoughts/20260425_Recently/) | 「完美的对面是：生命力。」 |
-| 2026-05-10 | [Toots 418 2026 May.3 - May.9](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260509/) | 「能单盘了！」 |
-| 2026-05-10 | [小东西：用FreshRSS实现带AI摘要的订阅推送](https://www.xiaozonglin.cn/xdsec-push-bot/) | 用FreshRSS + Python + Napcat实现带AI摘要的订阅QQ群推送 小东西：用FreshRSS实现带AI摘要的订阅推送 最先出现在 林林杂语 。 |
-| 2026-05-10 | [2026 欧洲之旅：坐高铁](https://www.ixiqin.com/2026/05/10/2026-european-tour-riding-high-speed-rail/) | 忙了一段时间，终于有空把之前挖的坑给填了。。。 如果你在欧洲旅行，除了租车自驾/坐大巴以外，坐公共交通中的高铁 […] |
-| 2026-05-10 | [玩游戏玩出的结论](https://mobius.blog/23506.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
