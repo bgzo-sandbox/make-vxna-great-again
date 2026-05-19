@@ -12,10 +12,34 @@
     "description": "简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn"
   },
   {
+    "title": "AI 流式接口的pattern",
+    "url": "https://blog.est.im/2026/stdout-18",
+    "date": "2026-05-19T08:13:00Z",
+    "description": "AI 现在调用都走 OpenAI-like 接口，遇到长任务多半会走 stream=true 然后AI能力也多半会接力返回给下游，比如浏览器 那么问题来了。下游如果连接断开，是不是就意味着服务器得把AI的输出接住，然后下一次请求接着吐？ 如果下一次请求不路由到这个节点和进程，意味着接住要设计一套缓存 更麻烦的是，现代web框架一般都是请求 - 响应模式的，如果浏览器断开连接，按正常流程，后端也会抛出异常之类的中断 所以“接AI的话”这玩意实际上设计还要考虑挺多东西，很麻烦？？？ 这个问题丢给 ChatGPT它这么回答： 断了就断了，不续传。用户重新发起请求，后端重新生成，最多靠 prompt cache / KV cache / 上下文缓存降低重复成本。很多产品其实就是这么干的，因为实现成本最低。 尼玛。又学到一招。人脑还是想复杂了。 btw 吐槽一下现在 vibe coding 开发者估计很少有人会去在意这些细节了。"
+  },
+  {
+    "title": "TIL: 移除图片下方多余的空白",
+    "url": "https://taxodium.ink/til-remove-extra-empty-area-from-img.html",
+    "date": "2026-05-19T08:00:00Z",
+    "description": "TIL: 移除图片下方多余的空白 問題和原因 div style = \"border: 2px solid;\" > img src = \"/images/album/20251226T172918--梦想家-the-dreamer20241018khalilfongalbumwallimage方大同.webp\" /> div > 留意上面的图片， div 里只有一个 img 元素，但 img 没有占滿 div ，在 img 下面还空了些許高度。 這是因為 img 是行內元素 ，行內元素的特性是： 行内元素按行布局 每行都有一个基线 ( baseline ) 基线由字体决定 默认情况下，所有行内元素都与基线对齐 图1 行內元素布局示例。文字拆成了兩行。 文字本身也是行內元素，默认情况下，与基线对齐（文字底部蓝色的线就是当前的基线）。 从上面的图可以看到，行内元素默认与基线对齐，而基线和行的底部还留有一些空間，這个空間是留给像是 g、j、p、y 等笔划会延展到基线下的字符的。 图片也是行內元素， 自身没有基线，默认与文字的基线對齐 ，也就同樣在基线下保留一些空間。 解决方案 在当前场景下我"
+  },
+  {
+    "title": "推荐一个网页打印项目cups-web，告别\"远程开 Windows 发文件再打印”",
+    "url": "https://11010.net/p/docker-tools-cups-web/",
+    "date": "2026-05-19T07:40:00Z",
+    "description": "最近也没有偷懒，一直没有整理笔记，主要是没找到更惊艳的工具或话题，生产互联网垃圾伤人伤己。（ Claude Code 4.7 opus还在继续蹬 ，这篇内容是关于 NAS 打印相关的工具） 前提准备 外地 PC/手机、家庭 PVE 虚拟机已通过 WireGuard 组内网，可以正常互相访问；HP 打印机已正常联网。原来给孩子打作业都是通过 PVE 远程控制开机 Windows 虚拟机，把文件发过去再打印。 只有适合自己的方案才是最好的！！！ 家里 NAS，PVE+Ubuntu（docker 服务）+Windows(平时不开机，打印或者调试家里网络用)+NAS 服务 打印机 HP LaserJet Pro MFP m26nw 那个让我有操作的瞬间 双职工家庭，工作日白天家里只有奶奶帮忙带娃。 每周总有那么 2-4 次，剧本几乎一模一样：低年级的孩子，老师会把每天的作业发到群里，一般口算题、写字之类的是需要打印的。 然后开始我的\"远程打印仪式\"： 电脑连家里 WireGuard 进 PVE 上那台 为打印开着 的 Windows 虚拟机 Windows 上登微信，下载这张图片（顺便忍受微信"
+  },
+  {
     "title": "倒装句是自由的产物吗？",
     "url": "https://blog.solazy.me/20260519/",
     "date": "2026-05-19T07:00:00Z",
     "description": "今天聊聊作为山东人避不开的「倒装句」"
+  },
+  {
+    "title": "Ubuntu 24.04 Noble 升级 Ubuntu 26.04 Resolute",
+    "url": "https://u.sb/ubuntu-upgrade-2604/",
+    "date": "2026-05-19T05:55:00Z",
+    "description": "本文将指导如何升级 Ubuntu 24.04 Noble Numbat 到 Ubuntu 26.04 Resolute Raccoon。"
   },
   {
     "title": "2026.5.18",
@@ -63,13 +87,19 @@
     "title": "VMware Workstation Pro 26H1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活)",
     "url": "https://www.iplaysoft.com/vmware-workstation.html",
     "date": "2026-05-18T21:40:14Z",
-    "description": "虚拟机软件 可让你在不重启电脑的情况下，在一个操作系统上同时运行多个不同的系统，譬如在 Win10 上同时运行 Ubuntu 与 Win7 ，用户可用于各种 开发 、测试或运行不同平台的软件。 VMware Workstation Pro 26H1 中文专业版功能相对免费的 VMWare Player 要丰富强大得多！新版本支持 Windows 11 ，支持 USB 3.1、TPM 2.0、蓝牙、 4K ，支持容器、兼容 Hyper-V，支持 DirectX 11 和 OpenGL 4.3 加速，3D 游戏 性能大幅提高！另还可共享或 远程 控制虚拟机等…… 「 前往查看原文.... 」 异次元还有这些值得一看： VirtualBox 7.2 最新虚拟机软件下载 - 免费开源跨平台 (支持 Win/Mac/Linux 安装多系统) VMWare Fusion Pro 13.6.3 苹果 Mac 免费虚拟机 (网盘下载) - 支持 M 芯片 / Win11 ARM VMWare Player 17.5.1 中文版 - 官方免费版虚拟机软件 (支持3D游戏与Win11系统) PVE 9.1"
+    "description": "虚拟机软件 可让你在不重启电脑的情况下，在一个操作系统上同时运行多个不同的系统，譬如在 Win10 上同时运行 Ubuntu 与 Win7 ，用户可用于各种 开发 、测试或运行不同平台的软件。 VMware Workstation Pro 26H1 中文专业版功能相对免费的 VMWare Player 要丰富强大得多！新版本支持 Windows 11 ，支持 USB 3.1、TPM 2.0、蓝牙、 4K ，支持容器、兼容 Hyper-V，支持 DirectX 11 和 OpenGL 4.3 加速，3D 游戏 性能大幅提高！另还可共享或 远程 控制虚拟机等…… 「 前往查看原文.... 」 异次元还有这些值得一看： VirtualBox 7.2 最新虚拟机软件下载 - 免费开源跨平台 (支持 Win/Mac/Linux 安装多系统) VMWare Fusion Pro 26H1 - 最新苹果 Mac 免费虚拟机 (支持 M 芯片 / Win11 ARM) VMWare Player 17.5.1 中文版 - 官方免费版虚拟机软件 (支持3D游戏与Win11系统) PVE 9.1 (Pro"
   },
   {
     "title": "2026年四月 读医疗卫生 小说 3本",
     "url": "https://conge.livingwithfcs.org/2026/05/18/reading_summary/",
     "date": "2026-05-18T20:01:00Z",
     "description": "引子 引子 公共卫生问题关系国计民生，特指是政府所负责的医疗卫生相关的政策、法规和措施。医疗卫生事业并非天然的政府职能，而是来自私人的生存和健康需求。但随着人们的聚居，这些需求很快就不是个人能控制。比如饮用水的安全和污水处理，一家一户的时候很容易处理，但人多了就必须有合乎大众利益的安排。 《 公共卫生史 》是一本挖掘西方文明发展过程中，各个时代所面临的公共健康问题和政府的应对的书。在社区，城市，国家和国际等各个水平上，公共医疗在政府中的的职能发展、机构形成，政策变化，合作建立，是此书的主题，按照历史时间的脉络展开论述。在地缘上，此书着眼欧美，并不包含中国。为题提到中国的，是20世纪初国际医疗合作初现端倪的时候，欧洲曾对中国有些援助项目。 新中国成立之后，由于其制度性质，摒弃了私人医疗，而开展了集体化和公有化。可以说新中国的医疗问题，就是公共卫生问题。《 赤脚医生与中国乡村的现代医学 》的作者集中调查记录了1968到1985年在杭州蒋村的赤脚医生们的经历，借此描述了中国乡村存在的医疗服务的建立过程和发展变化，以及在这个过程中，西医的乡村的普及和中医的大范围退出的现象。"
+  },
+  {
+    "title": "VMWare Fusion Pro 26H1 - 最新苹果 Mac 免费虚拟机 (支持 M 芯片 / Win11 ARM)",
+    "url": "https://www.iplaysoft.com/vmware-fusion.html",
+    "date": "2026-05-18T20:00:13Z",
+    "description": "使用苹果 Mac 电脑不可避免都会遇到一些软件、硬件只能在 Windows 下使用 (如网银/行业软件/仅能兼容 IE 的网站、无 Mac 驱动的 硬件 等)，因此在 Mac 上安装 Win 是很有必要的。 曾经我们可用 BootCamp 安装双系统，但如今只能使用 虚拟机 安装。 VMWare Fusion Pro 26H1 是 Mac 下优秀高性能的虚拟机软件 (同类有 Parallels Desktop )，完美兼容最新的 macOS 和苹果 M 系列芯片，能无需重启，直接在 Mac 下同时运行 Windows 11 、 Linux 等多款系统…… 「 前往查看原文.... 」 异次元还有这些值得一看： Parallels Desktop 26 激活码 - 苹果 Mac 最新 PD 虚拟机下载 (支持Win11/macOS Tahoe) VirtualBox 7.2 最新虚拟机软件下载 - 免费开源跨平台 (支持 Win/Mac/Linux 安装多系统) VMware Workstation Pro 26H1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活) VMWare"
   },
   {
     "title": "第一次做游戏插件-激战2国际服中文转换 #Guild wars 2",

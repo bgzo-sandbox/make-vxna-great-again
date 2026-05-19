@@ -22,7 +22,11 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
 | 2026-05-19 | [20260519的胡言乱语](https://www.bboy.app/2026/05/19/20260519%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
+| 2026-05-19 | [AI 流式接口的pattern](https://blog.est.im/2026/stdout-18) | AI 现在调用都走 OpenAI-like 接口，遇到长任务多半会走 stream=true 然后AI能力也多半会接力返回给下游，比如浏览器 那么问题来了。下游如果连接断开，是不是就意味着服务器得把AI的输出接住，然后下一次请求接着吐？ 如果下一次请求不路由到这个节点和进程，意味着接住要设计一套缓存… |
+| 2026-05-19 | [TIL: 移除图片下方多余的空白](https://taxodium.ink/til-remove-extra-empty-area-from-img.html) | TIL: 移除图片下方多余的空白 問題和原因 div style = "border: 2px solid;" > img src = "/images/album/20251226T172918--梦想家-the-dreamer20241018khalilfongalbumwallimage方大同… |
+| 2026-05-19 | [推荐一个网页打印项目cups-web，告别"远程开 Windows 发文件再打印”](https://11010.net/p/docker-tools-cups-web/) | 最近也没有偷懒，一直没有整理笔记，主要是没找到更惊艳的工具或话题，生产互联网垃圾伤人伤己。（ Claude Code 4.7 opus还在继续蹬 ，这篇内容是关于 NAS 打印相关的工具） 前提准备 外地 PC/手机、家庭 PVE 虚拟机已通过 WireGuard 组内网，可以正常互相访问；HP 打… |
 | 2026-05-19 | [倒装句是自由的产物吗？](https://blog.solazy.me/20260519/) | 今天聊聊作为山东人避不开的「倒装句」 |
+| 2026-05-19 | [Ubuntu 24.04 Noble 升级 Ubuntu 26.04 Resolute](https://u.sb/ubuntu-upgrade-2604/) | 本文将指导如何升级 Ubuntu 24.04 Noble Numbat 到 Ubuntu 26.04 Resolute Raccoon。 |
 | 2026-05-19 | [2026.5.18](https://www.justzht.com/2026-5-18/) | 周日和朋友们去 Pacifica 吃了一家海边的 Taco Bell，景色不错，可以坐在外面的露台面朝大海吃东西。然后带着 Q3 43 拍了一些 |
 | 2026-05-19 | [品牌设计发展历史至今，最重要的十个人，和他们的故事](https://www.iyeslogo.com/10-designers/) | 品牌设计远不止Logo创作，而是建立信任的完整体验。 |
 | 2026-05-19 | [Heroes of Might and Magic II updated](https://macsourceports.com/game/homm2) | The build of fheroes2 for Heroes of Might and Magic II has been updated to version 1.1.16 of the project |
@@ -32,6 +36,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-18 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.1 of the project |
 | 2026-05-18 | [VMware Workstation Pro 26H1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活)](https://www.iplaysoft.com/vmware-workstation.html) | 虚拟机软件 可让你在不重启电脑的情况下，在一个操作系统上同时运行多个不同的系统，譬如在 Win10 上同时运行 Ubuntu 与 Win7 ，用户可用于各种 开发 、测试或运行不同平台的软件。 VMware Workstation Pro 26H1 中文专业版功能相对免费的 VMWare Playe… |
 | 2026-05-18 | [2026年四月 读医疗卫生 小说 3本](https://conge.livingwithfcs.org/2026/05/18/reading_summary/) | 引子 引子 公共卫生问题关系国计民生，特指是政府所负责的医疗卫生相关的政策、法规和措施。医疗卫生事业并非天然的政府职能，而是来自私人的生存和健康需求。但随着人们的聚居，这些需求很快就不是个人能控制。比如饮用水的安全和污水处理，一家一户的时候很容易处理，但人多了就必须有合乎大众利益的安排。 《 公共卫… |
+| 2026-05-18 | [VMWare Fusion Pro 26H1 - 最新苹果 Mac 免费虚拟机 (支持 M 芯片 / Win11 ARM)](https://www.iplaysoft.com/vmware-fusion.html) | 使用苹果 Mac 电脑不可避免都会遇到一些软件、硬件只能在 Windows 下使用 (如网银/行业软件/仅能兼容 IE 的网站、无 Mac 驱动的 硬件 等)，因此在 Mac 上安装 Win 是很有必要的。 曾经我们可用 BootCamp 安装双系统，但如今只能使用 虚拟机 安装。 VMWare F… |
 | 2026-05-18 | [第一次做游戏插件-激战2国际服中文转换 #Guild wars 2](https://anotherdayu.com/guildwars2-chinese/) | 因为对《激战2》的长期喜欢，我把一次回归国际服的体验，延伸成了一个基于 Nexus 的中文转换插件尝试，也重新确认了这款游戏为什么依然值得长期停留。 |
 | 2026-05-18 | [天津自驾游](https://elmagnifico.tech/2026/05/19/Tianjin-Self-driving-Travel/) | Foreword 周末小米举办了天津V1国际赛车场的活动，五一前就已经报名了1节练习+1天竞速，然而天公不作美，很多安排也不如预期，就改做自驾了。 天津 V1国际赛车场 V1赛车场这次开放的是最长路段，4.2km，接近街道的赛道也给开放了，但是本质上挺危险的，V1赛车场虽然是F2级别，但是这个缓冲区… |
 | 2026-05-18 | [车祸 XII](https://mobius.blog/23665.html) | （2026-全国卷）下列哪些是提升电动车品牌效应的方法： A、通过分析起火/爆炸事故数据，改进电池安全； B、 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
