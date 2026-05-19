@@ -21,6 +21,8 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-19 | [Gothic II updated](https://macsourceports.com/game/gothic2) | The build of OpenGothic for Gothic II has been updated to version 0.92 of the project |
+| 2026-05-19 | [Ubuntu 24.04 Noble 升级 Ubuntu 26.04 Resolute](https://u.sb/ubuntu-upgrade-2604/) | 本文将指导如何升级 Ubuntu 24.04 Noble Numbat 到 Ubuntu 26.04 Resolute Raccoon。 |
 | 2026-05-19 | [【工具】Telegraph图片下载快捷指令](https://7gugu.com/index.php/2026/05/20/%e3%80%90%e5%b7%a5%e5%85%b7%e3%80%91telegraph%e5%9b%be%e7%89%87%e4%b8%8b%e8%bd%bd%e5%bf%ab%e6%8d%b7%e6%8c%87%e4%bb%a4/) | 关键词: Telegram 电报 图片下载 快捷指令 shortcut 最近在用Telegram冲浪，发现电报 … 继续阅读 “【工具】Telegraph图片下载快捷指令” |
 | 2026-05-19 | [20260519的胡言乱语](https://www.bboy.app/2026/05/19/20260519%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-05-19 | [永久 1TB 空间！Koofr - 支持 WebDAV 的终身免费 10G 网盘 (Rclone / 挂载 OneDrive)](https://www.iplaysoft.com/p/koofr) | 最近一直在为几台 VPS 服务器数据备份在烦恼，还有考虑到 NAS、电脑文件的异地备份，想找一台大硬盘的 VPS 或用 S3 云存储，但找了一圈，大空间的 VPS 年费实在都太贵了。 最近挖到了一款“冷门”的宝藏云网盘 Koofr，它不仅有永久免费不限速 10G 空间，最关键是完美支持 WebDAV… |
@@ -30,7 +32,6 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-19 | [TIL: 移除图片下方多余的空白](https://taxodium.ink/til-remove-extra-empty-area-from-img.html) | TIL: 移除图片下方多余的空白 問題和原因 div style = "border: 2px solid;" > img src = "/images/album/20251226T172918--梦想家-the-dreamer20241018khalilfongalbumwallimage方大同… |
 | 2026-05-19 | [推荐一个网页打印项目cups-web，告别"远程开 Windows 发文件再打印”](https://11010.net/p/docker-tools-cups-web/) | 最近也没有偷懒，一直没有整理笔记，主要是没找到更惊艳的工具或话题，生产互联网垃圾伤人伤己。（ Claude Code 4.7 opus还在继续蹬 ，这篇内容是关于 NAS 打印相关的工具） 前提准备 外地 PC/手机、家庭 PVE 虚拟机已通过 WireGuard 组内网，可以正常互相访问；HP 打… |
 | 2026-05-19 | [倒装句是自由的产物吗？](https://blog.solazy.me/20260519/) | 今天聊聊作为山东人避不开的「倒装句」 |
-| 2026-05-19 | [Ubuntu 24.04 Noble 升级 Ubuntu 26.04 Resolute](https://u.sb/ubuntu-upgrade-2604/) | 本文将指导如何升级 Ubuntu 24.04 Noble Numbat 到 Ubuntu 26.04 Resolute Raccoon。 |
 | 2026-05-19 | [2026.5.18](https://www.justzht.com/2026-5-18/) | 周日和朋友们去 Pacifica 吃了一家海边的 Taco Bell，景色不错，可以坐在外面的露台面朝大海吃东西。然后带着 Q3 43 拍了一些 |
 | 2026-05-19 | [品牌设计发展历史至今，最重要的十个人，和他们的故事](https://www.iyeslogo.com/10-designers/) | 品牌设计远不止Logo创作，而是建立信任的完整体验。 |
 | 2026-05-19 | [Heroes of Might and Magic II updated](https://macsourceports.com/game/homm2) | The build of fheroes2 for Heroes of Might and Magic II has been updated to version 1.1.16 of the project |
