@@ -21,6 +21,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-19 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to version 0.1 of the project |
 | 2026-05-19 | [Gothic II updated](https://macsourceports.com/game/gothic2) | The build of OpenGothic for Gothic II has been updated to version 0.92 of the project |
 | 2026-05-19 | [Ubuntu 24.04 Noble 升级 Ubuntu 26.04 Resolute](https://u.sb/ubuntu-upgrade-2604/) | 本文将指导如何升级 Ubuntu 24.04 Noble Numbat 到 Ubuntu 26.04 Resolute Raccoon。 |
 | 2026-05-19 | [【工具】Telegraph图片下载快捷指令](https://7gugu.com/index.php/2026/05/20/%e3%80%90%e5%b7%a5%e5%85%b7%e3%80%91telegraph%e5%9b%be%e7%89%87%e4%b8%8b%e8%bd%bd%e5%bf%ab%e6%8d%b7%e6%8c%87%e4%bb%a4/) | 关键词: Telegram 电报 图片下载 快捷指令 shortcut 最近在用Telegram冲浪，发现电报 … 继续阅读 “【工具】Telegraph图片下载快捷指令” |
