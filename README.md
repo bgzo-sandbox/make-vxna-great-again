@@ -21,6 +21,8 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-19 | [我就是想证明一下自己 II](https://mobius.blog/23660.html) | 说完别人，也得嘲笑一下自己。 昨天提到的那些“我就是想证明一下自己”的人，并不是在聊他们“蠢”，而是在聊人性里 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-05-18 | [周报 #109 - Be a whole person](https://www.pseudoyu.com/posts/weekly_review_109) | 前言 本篇是对 2026-05-04 到 2026-05-19 这两周生活的记录与思考。 Be a whole person 不知不觉间，和 AI 对话/相伴似乎已经成为了生活的一种常态，今天粗略统计了下，每天在电脑前写代码超过 12h，过去一个月单单 Claude Code 的用量就快百亿 Tok… |
 | 2026-05-18 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.1 of the project |
 | 2026-05-18 | [VMware Workstation Pro 26H1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活)](https://www.iplaysoft.com/vmware-workstation.html) | 虚拟机软件 可让你在不重启电脑的情况下，在一个操作系统上同时运行多个不同的系统，譬如在 Win10 上同时运行 Ubuntu 与 Win7 ，用户可用于各种 开发 、测试或运行不同平台的软件。 VMware Workstation Pro 26H1 中文专业版功能相对免费的 VMWare Playe… |
 | 2026-05-18 | [2026年四月 读医疗卫生 小说 3本](https://conge.livingwithfcs.org/2026/05/18/reading_summary/) | 引子 引子 公共卫生问题关系国计民生，特指是政府所负责的医疗卫生相关的政策、法规和措施。医疗卫生事业并非天然的政府职能，而是来自私人的生存和健康需求。但随着人们的聚居，这些需求很快就不是个人能控制。比如饮用水的安全和污水处理，一家一户的时候很容易处理，但人多了就必须有合乎大众利益的安排。 《 公共卫… |
@@ -115,26 +117,6 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-12 | [推漫：塔之迷宫](https://www.nodealpha.me/Manga-TowerDungeon.html) | 二叔最新力作，喜欢Blame或者希德尼娅的骑士的请不要错过。 |
 | 2026-05-12 | [如何给 Notion AI 接入第三方 API?](https://1q43.blog/post/12346/) | 我之前讲过将「哈勃半径」作为一种私人信息宇宙，并将它接入 Notion AI。 但问题是，Notion AI […] |
 | 2026-05-12 | [每个人都有想要逃往的星露谷](https://mobius.blog/23542.html) | 前几天我在我的创作者频道聊到了这件事： 我突然很想玩《星露谷物语》，我意识到“情况不对”了。最近一定有什么比较 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-11 | [摘：《生而为熊》](https://z.arlmy.me/posts/Note/Note_R%C3%A9myMarion_LoursLautreDelhomme/) | 「。」 |
-| 2026-05-11 | [修复 Joplin on KDE 菜单栏显示问题](https://frytea.com/archives/1666/) | 在 KDE 桌面下默认使用全局菜单显示应用程序的菜单栏，但是唯独 Joplin 无法显示。 最后在这里找到了解决方案，下面简单记录： sudo vim /usr/share/applications/joplin-desktop.desktop --Exec=/usr/bin/joplin-desk… |
-| 2026-05-11 | [AI 加持的「有道翻译」，已经进化到这么厉害了吗？！ (免费 / 划词 / 文档视频翻译)](https://www.iplaysoft.com/youdao-fanyi.html) | 网易 出品的 有道翻译 / 有道词典 一直都是 翻译工具 软件类产品中的佼佼者了。随着 AI 的大规模爆发，有道翻译也从传统的机器翻译，进化到全面 融合 AI 能力，实现了超级无敌大蜕变！ 相比过去生硬的机器翻译， 有道翻译 在质量上获得了显著的突破！除最常见的 文本翻译 、 查单词 外，现在有道翻… |
-| 2026-05-11 | [罗马-佛罗伦萨-梵蒂冈之旅（二）](https://eduardoqian.com/archives/luo-ma-fo-luo-lun-sa-fan-di-gang-zhi-lu-er) | 在罗马暴走了一天之后，我第二天上午，我吃完酒店的自助餐，因为只有一上午的时间，我去了威尼托街附近闲逛，目的主要是在那附近的嘉布遣兄弟会博物馆和人骨教堂。早上去的时间早，就在威尼托街附近逛了逛。这里的感觉和火车站附近完全不一样，更有“欧洲街道”的感觉，附近是美国大使馆，外交区。相比于火车站，两边是林荫 |
-| 2026-05-11 | [摘：《猫在故纸堆》](https://z.arlmy.me/posts/Note/Note_LiuChaoFei_MaoZaiGuZhiDui/) | 「以猫之名。」 |
-| 2026-05-11 | [摘：《波兰诗选》](https://z.arlmy.me/posts/Note/Note_BoLanShiXuan/) | 「诗人不应是人，应是春天。。」 |
-| 2026-05-11 | [已经「失效」一个多月的「人像模式」](https://blog.solazy.me/20260511/) | 更新了 iOS 26.4 之后，貌似人像模式出片有点问题（很难成功） — 午睡的Sol (@somkanel) April 4, 2026 最近将系统更新到 iOS 26.4 之后，我在日常使用中发现了一个比较明显的 Bug，主要集中在相机的人像模式上。 原本在切换到人像模式时，系统应该会自动识别画… |
-| 2026-05-11 | [Louis Alexander 谈英语学习](https://blog.est.im/2026/stdin-14) | 外语的课堂教学 基本原理 学习外语的传统方法根深蒂固。早在 1921 年，Harold E. Palmer就指出，理解一种语言是如何运作的与学会如何使用这种语言之间存在着巨大的差别。从那时以来，人们已经找到了许多卓有成效的方法教授学生外语。根据当代所作的深入细微的研究，没有人会对自Palmer以来发… |
-| 2026-05-11 | [狐蒂云破产清算，你还能用什么主机？](https://www.evan.xin/4983/) | 狐蒂云（www.szhdy.com）这事儿最近沸沸扬扬，5月7号凌晨官方群里甩出一张"死亡公告"，创始人一句" […] |
-| 2026-05-11 | [R#101 重整财务](https://blog.sakanano.moe/journals/random_101) | 2026.5.5 ~ 2026.5.11 |
-| 2026-05-11 | [使用 AI 的兴奋、上瘾与焦虑](https://lomus.cc/archives/773) | 最近几个月我一直在一个状态里，就是沉迷 AI。仔细想想，进入这个状态大概是从 Claude code，skil […] 使用 AI 的兴奋、上瘾与焦虑 最先出现在 Lumos's Blog 。 |
-| 2026-05-11 | [车祸 XI](https://mobius.blog/23556.html) | （2026-全国卷）下列哪些是提升电动车品牌效应的方法： A、通过分析起火/爆炸事故数据，改进电池安全； B、 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-11 | [「小代码」搜狗输入法自定义短语分片管理「Python」](https://www.wdssmq.com/post/20221009482.html) | · 简介 —— 搜狗输入法有个「自定义短语」功能 —— 「通过英文字符作为缩写，来输入自定义的特殊符号、短语、短文等」； ; 键入 vsc 就能输入 VSCode，数字序号用于指定目标短语在候选列表中的位置 vsc,3=VSCode 这个东西有表单管理界面，也可以直接编辑 .ini 文件，登录账号后… |
-| 2026-05-11 | [Album#38 - Gospel According to Don Shirley](https://taxodium.ink/album-38.html) | Album#38 Gospel According to Don Shirley 图1 《Gospel According to Don Shirley》専輯封面 专辑信息 专辑名称： Gospel According to Don Shirley 歌手： Don Shirley 年份： 1968-… |
-| 2026-05-11 | [Design.md 资源导航](https://www.evan.xin/4976/) | Design.md 规范、示例库、提取工具与插件都在这一张表里面了。如有补充可以留言谢谢🙏 分类 项目/资源 […] |
-| 2026-05-11 | [Memos: 用 npx 做了一个终端里的 About Me](https://blog.yasking.org/a/1778468059.html) | 上周做了个小工具： $ npx @donxdone/aboutme-cli 在终端打印我的个人介绍。 起因是逛到这个博客： $ curl -N https://jt26wzz.com/aboutme 感觉这种 “终端名片” 很有意思。但 … |
-| 2026-05-11 | [Design.md + Refero：让 AI 设计网站告别“AI 味”，输出更像专业作品](https://www.evan.xin/4974/) | 当你用 AI（Cursor / Claude Code / 各类 Agent）做网站时，最尴尬的不是“写不出代 […] |
-| 2026-05-11 | [由于 Linux 桌面环境下没有一个好用的语音输入法，做了一个 web 浏览器版本的](https://hellodk.cn/post/1218) | 功能比较简单，基于百度实时语音识别 wss API 实现的 web 浏览器“语音输入法”，支持简体中文（普通话和部分方言）和英语，将语音实时转成文字。GitHub地址： https://gith... |
-| 2026-05-11 | [FC 游戏：星之卡比 梦之泉之物语（Kirby’s Adventure）](https://springwood.me/fc-kirbys-adventure/) | 小霸王时代又一个无缘的经典系列之一，比马里奥简单很多，现在千万不要错过。 |
-| 2026-05-11 | [真的存在过保就坏的“定时自毁功能”吗？](https://mobius.blog/23517.html) | 虽然我家上一台小米电视，确实在过保前一周突然坏了，还被拖回厂商免费维修过。 但至今并没有一项明确的证据，证明某 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
