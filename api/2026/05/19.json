@@ -12,6 +12,24 @@
     "description": "简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn"
   },
   {
+    "title": "永久 1TB 空间！Koofr - 支持 WebDAV 的终身免费 10G 网盘 (Rclone / 挂载 OneDrive)",
+    "url": "https://www.iplaysoft.com/p/koofr",
+    "date": "2026-05-19T12:30:05Z",
+    "description": "最近一直在为几台 VPS 服务器数据备份在烦恼，还有考虑到 NAS、电脑文件的异地备份，想找一台大硬盘的 VPS 或用 S3 云存储，但找了一圈，大空间的 VPS 年费实在都太贵了。 最近挖到了一款“冷门”的宝藏云网盘 Koofr，它不仅有永久免费不限速 10G 空间，最关键是完美支持 WebDAV 连接以及 rclone 数据同…… 「 前往查看原文.... 」 异次元首页 | 微信公众号 | 关注微博 | 软件精选 | 软件激活码折扣"
+  },
+  {
+    "title": "FE Bits Vol.34 | @antv npm 包供应链攻击，Tailwind v4.3 发布",
+    "url": "https://ysx.cosine.ren/weekly-34/",
+    "date": "2026-05-19T12:23:11Z",
+    "description": "关于本周刊 本期网址 https://blog.cosine.ren/post/weekly-34 本周刊更新时间期望是在每周天。 推荐订阅本周刊的 RSS 。 公众号 前端周周谈 FE Bits，点击阅读原文链接可查看原文。 QQ 讨论小群 598022684 / Discord 群 本周刊文章内容同时也开源在 fe-bits-weekly ，欢迎关注。 今天是 2026 年 5 月 19 日，星期二。 # 个人动态 五一给我玩爽了！还面基了砍砍和智子大佬呜呜呜，一大坨五一去日本游玩的照片，就不放在这里了，等有心情了再单独发博客吧，这期依旧短短的。 闲逛发现的正佳广场啤酒交易站 ：我什么世面没见过 ：我去，这个我是真没见过，怎么啤酒交易站什么的还有涨跌的 x 周末 和 bug 姐面基了 ！超开心！，bug 姐送的水晶超好看 ww 一些感慨 得知前司产研设计全都 n+1 了，有点唏嘘，有些感慨，有点遗憾。 唏嘘在我走在 2 月底，没有为了年终奖而再待几个月，因为我想做更有意思的事儿，走得毅然决然，无缝入职新公司了。 但是当时我完全没想象到居然会直接解散了，我走的时候还很真情实感的伤心了"
+  },
+  {
+    "title": "遂昌｜躲避人潮的五一自驾Day3 - 杜鹃",
+    "url": "https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-03.html",
+    "date": "2026-05-19T12:00:04Z",
+    "description": ""
+  },
+  {
     "title": "AI 流式接口的pattern",
     "url": "https://blog.est.im/2026/stdout-18",
     "date": "2026-05-19T08:13:00Z",
@@ -106,6 +124,12 @@
     "url": "https://anotherdayu.com/guildwars2-chinese/",
     "date": "2026-05-18T16:54:00Z",
     "description": "因为对《激战2》的长期喜欢，我把一次回归国际服的体验，延伸成了一个基于 Nexus 的中文转换插件尝试，也重新确认了这款游戏为什么依然值得长期停留。"
+  },
+  {
+    "title": "SugarLite 的 KMP 渐进式迁移实践",
+    "url": "https://youngxhui.top/2026/05/sugarlite-kmp-migration/",
+    "date": "2026-05-18T16:00:00Z",
+    "description": "SugarLite 最初是一个纯 iOS 应用，技术栈是 SwiftUI + MVVM + Supabase Swift SDK。随着 Android 版本的需求提上日程，如果简单地把业务逻辑复制一份到 Kotlin，后续的维护成本会成倍增长——网络层、数据模型、业务规则都要双端维护。所以我们选择了 Kotlin Multiplatform ，让 shared/ 模块承载所有跨平台业务逻辑，iOS 侧只保留 SwiftUI 和系统框架调用。 这篇文章记录整个迁移过程，从架构重构到 CI/CD 适配，踩过的坑和学到的经验。 🏗️ 迁移前的 MVVM Clean Architecture 重构 在引入 KMP 之前，我们先做了一次架构重构。核心目标很简单：让 ViewModel 不依赖任何外部框架，这样底层将来换成 Kotlin 也不会波及上层。 重构后的依赖方向： text View → ViewModel → Protocol ← Repository → External Frameworks 各层职责： 层级 目录 允许导入 约束 View Views/ SwiftUI 禁止直接访"
   },
   {
     "title": "天津自驾游",
