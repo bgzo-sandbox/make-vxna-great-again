@@ -21,12 +21,19 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-19 | [20260519的胡言乱语](https://www.bboy.app/2026/05/19/20260519%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
+| 2026-05-19 | [倒装句是自由的产物吗？](https://blog.solazy.me/20260519/) | 今天聊聊作为山东人避不开的「倒装句」 |
+| 2026-05-19 | [2026.5.18](https://www.justzht.com/2026-5-18/) | 周日和朋友们去 Pacifica 吃了一家海边的 Taco Bell，景色不错，可以坐在外面的露台面朝大海吃东西。然后带着 Q3 43 拍了一些 |
+| 2026-05-19 | [品牌设计发展历史至今，最重要的十个人，和他们的故事](https://www.iyeslogo.com/10-designers/) | 品牌设计远不止Logo创作，而是建立信任的完整体验。 |
+| 2026-05-19 | [Heroes of Might and Magic II updated](https://macsourceports.com/game/homm2) | The build of fheroes2 for Heroes of Might and Magic II has been updated to version 1.1.16 of the project |
+| 2026-05-19 | [监控 IT 之家 RSS 新闻，匹配关键词后通过 ntfy.sh 推送到手机手表手环](https://hellodk.cn/post/1219) | 代码开源，部署简单 GitHub满足自用，如有新需求可以 fork 自己开发，比如推送到飞书机器人等。手环设置一下，也能收到推送，效果图如下。 |
 | 2026-05-19 | [我就是想证明一下自己 II](https://mobius.blog/23660.html) | 说完别人，也得嘲笑一下自己。 昨天提到的那些“我就是想证明一下自己”的人，并不是在聊他们“蠢”，而是在聊人性里 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-18 | [周报 #109 - Be a whole person](https://www.pseudoyu.com/posts/weekly_review_109) | 前言 本篇是对 2026-05-04 到 2026-05-19 这两周生活的记录与思考。 Be a whole person 不知不觉间，和 AI 对话/相伴似乎已经成为了生活的一种常态，今天粗略统计了下，每天在电脑前写代码超过 12h，过去一个月单单 Claude Code 的用量就快百亿 Tok… |
 | 2026-05-18 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.1 of the project |
 | 2026-05-18 | [VMware Workstation Pro 26H1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活)](https://www.iplaysoft.com/vmware-workstation.html) | 虚拟机软件 可让你在不重启电脑的情况下，在一个操作系统上同时运行多个不同的系统，譬如在 Win10 上同时运行 Ubuntu 与 Win7 ，用户可用于各种 开发 、测试或运行不同平台的软件。 VMware Workstation Pro 26H1 中文专业版功能相对免费的 VMWare Playe… |
 | 2026-05-18 | [2026年四月 读医疗卫生 小说 3本](https://conge.livingwithfcs.org/2026/05/18/reading_summary/) | 引子 引子 公共卫生问题关系国计民生，特指是政府所负责的医疗卫生相关的政策、法规和措施。医疗卫生事业并非天然的政府职能，而是来自私人的生存和健康需求。但随着人们的聚居，这些需求很快就不是个人能控制。比如饮用水的安全和污水处理，一家一户的时候很容易处理，但人多了就必须有合乎大众利益的安排。 《 公共卫… |
 | 2026-05-18 | [第一次做游戏插件-激战2国际服中文转换 #Guild wars 2](https://anotherdayu.com/guildwars2-chinese/) | 因为对《激战2》的长期喜欢，我把一次回归国际服的体验，延伸成了一个基于 Nexus 的中文转换插件尝试，也重新确认了这款游戏为什么依然值得长期停留。 |
+| 2026-05-18 | [天津自驾游](https://elmagnifico.tech/2026/05/19/Tianjin-Self-driving-Travel/) | Foreword 周末小米举办了天津V1国际赛车场的活动，五一前就已经报名了1节练习+1天竞速，然而天公不作美，很多安排也不如预期，就改做自驾了。 天津 V1国际赛车场 V1赛车场这次开放的是最长路段，4.2km，接近街道的赛道也给开放了，但是本质上挺危险的，V1赛车场虽然是F2级别，但是这个缓冲区… |
 | 2026-05-18 | [车祸 XII](https://mobius.blog/23665.html) | （2026-全国卷）下列哪些是提升电动车品牌效应的方法： A、通过分析起火/爆炸事故数据，改进电池安全； B、 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-18 | [Zine#49](https://taxodium.ink/49.html) | Zine#49 🎶 嘿！岛 (Black Island) - 表情银行 MimikBanka 启明星 一定很孤独吧 孤独中 搁浅的你我啊 黑暗里 望眼欲穿向白昼 漫漫长夜 教我如何不泪流 浑浊的 黑夜赐予我疼痛 这疼痛 像雪一样正消融 睡魔啊 他唱着遗忘的歌谣 破晓时 就带走我的噩梦 哎呀呀 漫漫长… |
 | 2026-05-18 | [R#102 移动端 Vibe Coding！](https://blog.sakanano.moe/journals/random_102) | 2026.5.12 ~ 2026.5.18 |
@@ -36,6 +43,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-18 | [老板的在与不在](https://blog.solazy.me/20260518/) | 昨天去公司加班，老板和我说他接下来的一整周都不在公司 |
 | 2026-05-18 | [emacs-使用use-package的:vc像melpa一样安装package快照](https://blog.prayhand13013.top/20260518T120920--emacs-使用use-package的vc像melpa一样安装package快照__blog.html) |  |
 | 2026-05-18 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.1 of the project |
+| 2026-05-18 | [在 CC Switch 中配置 Claude Desktop](https://youngxhui.top/2026/05/cc-switch-desktop/) | 前面聊过 cc switch 的基础用法 ，今天单独说一下 CC Switch 里 Claude Desktop 面板的配置。在 3.15.0 中加入的功能，专门用来给 Claude Desktop 这个官方桌面客户端接入第三方供应商。 CC Switch 中的「Claude」和「Claude De… |
 | 2026-05-18 | [我就是想证明一下自己](https://mobius.blog/23645.html) | 简中社交媒体之中，我最佩服三个人：三礼、煮夫亮哥和勇哥说餐饮。我虽然不用抖音，但偶尔会在别处看到这三个人在和基 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-18 | [稻草人周刊 Vol.81](https://www.geedea.pro/weekly/81/) | 这周没读什么文章，大部分时间都花在赶项目、焦虑、把头埋在被子里哀嚎、在心里咒骂同室、焦虑、出门乱逛、路过某个场景于是触发几年前的回忆然后陷入情绪波动、做健身计划但不执行、焦虑、幻想养一只萨摩耶、在小红书上看别人养的萨摩耶、幻想开一家咖啡馆并把萨摩耶带到店里让客人陪玩、幻想早上七点半被狗狗叫醒、焦虑等… |
 | 2026-05-18 | [5.18 随想：发发牢骚](https://blog.sakoamc.com/posts/26sx001/) | 题记：当无聊反映为感知力的迟顿时，或许我更需要关心的是今晚的睡眠。 |

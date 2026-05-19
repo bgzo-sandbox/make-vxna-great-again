@@ -6,6 +6,42 @@
     "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
   },
   {
+    "title": "20260519的胡言乱语",
+    "url": "https://www.bboy.app/2026/05/19/20260519%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
+    "date": "2026-05-19T14:55:00Z",
+    "description": "简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn"
+  },
+  {
+    "title": "倒装句是自由的产物吗？",
+    "url": "https://blog.solazy.me/20260519/",
+    "date": "2026-05-19T07:00:00Z",
+    "description": "今天聊聊作为山东人避不开的「倒装句」"
+  },
+  {
+    "title": "2026.5.18",
+    "url": "https://www.justzht.com/2026-5-18/",
+    "date": "2026-05-19T04:52:46Z",
+    "description": "周日和朋友们去 Pacifica 吃了一家海边的 Taco Bell，景色不错，可以坐在外面的露台面朝大海吃东西。然后带着 Q3 43 拍了一些"
+  },
+  {
+    "title": "品牌设计发展历史至今，最重要的十个人，和他们的故事",
+    "url": "https://www.iyeslogo.com/10-designers/",
+    "date": "2026-05-19T04:27:24Z",
+    "description": "品牌设计远不止Logo创作，而是建立信任的完整体验。"
+  },
+  {
+    "title": "Heroes of Might and Magic II updated",
+    "url": "https://macsourceports.com/game/homm2",
+    "date": "2026-05-19T04:01:18Z",
+    "description": "The build of fheroes2 for Heroes of Might and Magic II has been updated to version 1.1.16 of the project"
+  },
+  {
+    "title": "监控 IT 之家 RSS 新闻，匹配关键词后通过 ntfy.sh 推送到手机手表手环",
+    "url": "https://hellodk.cn/post/1219",
+    "date": "2026-05-19T03:24:36Z",
+    "description": "代码开源，部署简单 GitHub满足自用，如有新需求可以 fork 自己开发，比如推送到飞书机器人等。手环设置一下，也能收到推送，效果图如下。"
+  },
+  {
     "title": "我就是想证明一下自己 II",
     "url": "https://mobius.blog/23660.html",
     "date": "2026-05-19T00:55:00Z",
@@ -40,6 +76,12 @@
     "url": "https://anotherdayu.com/guildwars2-chinese/",
     "date": "2026-05-18T16:54:00Z",
     "description": "因为对《激战2》的长期喜欢，我把一次回归国际服的体验，延伸成了一个基于 Nexus 的中文转换插件尝试，也重新确认了这款游戏为什么依然值得长期停留。"
+  },
+  {
+    "title": "天津自驾游",
+    "url": "https://elmagnifico.tech/2026/05/19/Tianjin-Self-driving-Travel/",
+    "date": "2026-05-18T16:00:00Z",
+    "description": "Foreword 周末小米举办了天津V1国际赛车场的活动，五一前就已经报名了1节练习+1天竞速，然而天公不作美，很多安排也不如预期，就改做自驾了。 天津 V1国际赛车场 V1赛车场这次开放的是最长路段，4.2km，接近街道的赛道也给开放了，但是本质上挺危险的，V1赛车场虽然是F2级别，但是这个缓冲区的级别和凯泽差不多，没有波波池的缓冲，都是类似水泥地或者马路的缓冲区，减速可能不理想 先在模拟器连了一周，不四轮出白只能开到2分01，更快可能就有点作弊了，之前以为只是模拟器没有建模波波池，实际去了真场地，真的没有波波池，可以走偷鸡线路。 去天津之前已经基本确定了，练习日可以玩，竞速日会下雨，打算把竞速日退掉，没想到说了半天，不给退。最蠢的是官方举办的活动，竟然赛道地图没上线，要玩家现场自己画，真尼玛离谱。你练习日不行就算了，怎么竞速日也不行呢，包场2天，一个地图画不出来，这还是提前了半个多月预告的活动，真不知道在玩啥。 练习日 只报了最后一节练习，没想到那么多人，先是教练带着走线走了2圈，然后上去以后画赛道，画3圈，然后才能正式跑，这会已经掉了一些电了，人又多，根本跑不开 跑到2分10秒以"
   },
   {
     "title": "车祸 XII",
@@ -94,6 +136,12 @@
     "url": "https://macsourceports.com/game/rct2",
     "date": "2026-05-18T03:55:13Z",
     "description": "The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.1 of the project"
+  },
+  {
+    "title": "在 CC Switch 中配置 Claude Desktop",
+    "url": "https://youngxhui.top/2026/05/cc-switch-desktop/",
+    "date": "2026-05-18T01:00:00Z",
+    "description": "前面聊过 cc switch 的基础用法 ，今天单独说一下 CC Switch 里 Claude Desktop 面板的配置。在 3.15.0 中加入的功能，专门用来给 Claude Desktop 这个官方桌面客户端接入第三方供应商。 CC Switch 中的「Claude」和「Claude Desktop」是两个不同的面板，分别对应 Claude Code（CLI）和 Claude Desktop（桌面客户端）。区别在于 Claude Desktop 用的是自己的 3P profile 配置，而不是 ~/.claude/settings.json ，两个面板在图标右下角会有小标记区分。 功能说明 Claude Desktop 面板能做的事情很简单： 给 Claude Desktop 接入 Anthropic 兼容的第三方供应商 为 DeepSeek、Kimi、DouBao、OpenAI、Gemini 等非 Claude 模型配置模型映射 在 Claude Desktop 官方模式和第三方供应商之间一键切换 支持 macOS 和 Windows。Linux 暂时不能写入 Claude"
   },
   {
     "title": "我就是想证明一下自己",
