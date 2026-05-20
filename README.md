@@ -21,9 +21,11 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-20 | [翻译-Bitwarden的静默革新](https://blog.prayhand13013.top/20260521T014604--翻译-bitwarden的静默革新__blog.html) |  |
 | 2026-05-20 | [Bought a Quote/0](https://www.bboy.app/2026/05/20/bought-a-quote/0/) | Introduction I recently got a Quote/0. It now lives on my desk collecting dust. |
 | 2026-05-20 | [买了Quote/0](https://www.bboy.app/2026/05/20/%E4%B9%B0%E4%BA%86quote/0/) | 简介 最近折腾了一台 Quote/0。现在常驻桌面吃灰。 |
 | 2026-05-20 | [20260520的胡言乱语](https://www.bboy.app/2026/05/20/20260520%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
+| 2026-05-20 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.2 of the project |
 | 2026-05-20 | [遂昌｜躲避人潮的五一自驾Day4 - 焦滩](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-04.html) |  |
 | 2026-05-20 | [正版软件 5 月惠：Fences / Groupy / Start11 / GoodSync / Office 等…](https://www.iplaysoft.com/news/6533) | 电脑越用越乱，大概是很多人的共同问题。桌面文件堆成山、截图随手乱放、下载目录简直一团乱麻；想找一个文档，结果翻了半天才发现藏在不知道哪个文件夹里。 更崩溃的是 —— 很多时候不是电脑硬件配置不够用，而是文件和界面缺乏系统性整理，注意力每天都在被各种杂乱界面和重复操作偷…… 「 前往查看原文....… |
 | 2026-05-20 | [犯错的时候不该说什么](https://blog.solazy.me/20260520/) | 上周日的一起小的刮擦事故，引发了一个我对于发错这不该说什么的想法 |
@@ -38,6 +40,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-19 | [Gothic II updated](https://macsourceports.com/game/gothic2) | The build of OpenGothic for Gothic II has been updated to version 0.92 of the project |
 | 2026-05-19 | [Ubuntu 24.04 Noble 升级 Ubuntu 26.04 Resolute](https://u.sb/ubuntu-upgrade-2604/) | 本文将指导如何升级 Ubuntu 24.04 Noble Numbat 到 Ubuntu 26.04 Resolute Raccoon。 |
 | 2026-05-19 | [【工具】Telegraph图片下载快捷指令](https://7gugu.com/index.php/2026/05/20/%e3%80%90%e5%b7%a5%e5%85%b7%e3%80%91telegraph%e5%9b%be%e7%89%87%e4%b8%8b%e8%bd%bd%e5%bf%ab%e6%8d%b7%e6%8c%87%e4%bb%a4/) | 关键词: Telegram 电报 图片下载 快捷指令 shortcut 最近在用Telegram冲浪，发现电报 … 继续阅读 “【工具】Telegraph图片下载快捷指令” |
+| 2026-05-19 | [How to deploy Hermes Agent on Ubuntu](https://tianheg.co/posts/how-to-deploy-hermes-agent-on-ubuntu/) | Phase 1: Server Initialization & Base Setup Purchase a VPS, deploy Ubuntu 24.04 LTS Create system user tianhe , add to sudo group Go to https://hermes… |
 | 2026-05-19 | [Gitlab制品库实践记录](https://elmagnifico.tech/2026/05/20/Gitlab-Artifacts/) | Foreword 之前理解的制品库就是把CI的中间过程进行存储，虽然也包含了最终发布的部分，但是总觉得没啥大用，就没在意。后续发现其实从工程到生产环节有很多东西都需要进行交付，之前只关注了最核心的产品内容，周边一些零碎的东西，其实也需要被统一管理。而这个时候如果有很多个仓库需要一起进行打包、管理，这… |
 | 2026-05-19 | [20260519的胡言乱语](https://www.bboy.app/2026/05/19/20260519%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-05-19 | [永久 1TB 空间！Koofr - 支持 WebDAV 的终身免费 10G 网盘 (Rclone / 挂载 OneDrive)](https://www.iplaysoft.com/p/koofr) | 最近一直在为几台 VPS 服务器数据备份在烦恼，还有考虑到 NAS、电脑文件的异地备份，想找一台大硬盘的 VPS 或用 S3 云存储，但找了一圈，大空间的 VPS 年费实在都太贵了。 最近挖到了一款“冷门”的宝藏云网盘 Koofr，它不仅有永久免费不限速 10G 空间，最关键是完美支持 WebDAV… |
@@ -55,14 +58,13 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-19 | [监控 IT 之家 RSS 新闻，匹配关键词后通过 ntfy.sh 推送到手机手表手环](https://hellodk.cn/post/1219) | 代码开源，部署简单 GitHub满足自用，如有新需求可以 fork 自己开发，比如推送到飞书机器人等。手环设置一下，也能收到推送，效果图如下。 |
 | 2026-05-19 | [我就是想证明一下自己 II](https://mobius.blog/23660.html) | 说完别人，也得嘲笑一下自己。 昨天提到的那些“我就是想证明一下自己”的人，并不是在聊他们“蠢”，而是在聊人性里 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-18 | [周报 #109 - Be a whole person](https://www.pseudoyu.com/posts/weekly_review_109) | 前言 本篇是对 2026-05-04 到 2026-05-19 这两周生活的记录与思考。 Be a whole person 不知不觉间，和 AI 对话/相伴似乎已经成为了生活的一种常态，今天粗略统计了下，每天在电脑前写代码超过 12h，过去一个月单单 Claude Code 的用量就快百亿 Tok… |
-| 2026-05-18 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.1 of the project |
 | 2026-05-18 | [VMware Workstation Pro 26H1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活)](https://www.iplaysoft.com/vmware-workstation.html) | 虚拟机软件 可让你在不重启电脑的情况下，在一个操作系统上同时运行多个不同的系统，譬如在 Win10 上同时运行 Ubuntu 与 Win7 ，用户可用于各种 开发 、测试或运行不同平台的软件。 VMware Workstation Pro 26H1 中文专业版功能相对免费的 VMWare Playe… |
 | 2026-05-18 | [2026年四月 读医疗卫生 小说 3本](https://conge.livingwithfcs.org/2026/05/18/reading_summary/) | 引子 引子 公共卫生问题关系国计民生，特指是政府所负责的医疗卫生相关的政策、法规和措施。医疗卫生事业并非天然的政府职能，而是来自私人的生存和健康需求。但随着人们的聚居，这些需求很快就不是个人能控制。比如饮用水的安全和污水处理，一家一户的时候很容易处理，但人多了就必须有合乎大众利益的安排。 《 公共卫… |
 | 2026-05-18 | [VMWare Fusion Pro 26H1 - 最新苹果 Mac 免费虚拟机 (支持 M 芯片 / Win11 ARM)](https://www.iplaysoft.com/vmware-fusion.html) | 使用苹果 Mac 电脑不可避免都会遇到一些软件、硬件只能在 Windows 下使用 (如网银/行业软件/仅能兼容 IE 的网站、无 Mac 驱动的 硬件 等)，因此在 Mac 上安装 Win 是很有必要的。 曾经我们可用 BootCamp 安装双系统，但如今只能使用 虚拟机 安装。 VMWare F… |
 | 2026-05-18 | [第一次做游戏插件-激战2国际服中文转换 #Guild wars 2](https://anotherdayu.com/guildwars2-chinese/) | 因为对《激战2》的长期喜欢，我把一次回归国际服的体验，延伸成了一个基于 Nexus 的中文转换插件尝试，也重新确认了这款游戏为什么依然值得长期停留。 |
 | 2026-05-18 | [SugarLite 的 KMP 渐进式迁移实践](https://youngxhui.top/2026/05/sugarlite-kmp-migration/) | SugarLite 最初是一个纯 iOS 应用，技术栈是 SwiftUI + MVVM + Supabase Swift SDK。随着 Android 版本的需求提上日程，如果简单地把业务逻辑复制一份到 Kotlin，后续的维护成本会成倍增长——网络层、数据模型、业务规则都要双端维护。所以我们选择了… |
-| 2026-05-18 | [后来](https://blog.zopiya.com/hou-lai-c56701e6/) | 再喝是狗。又一次从宿醉中迷瞪过来的我，又说出了这句话。最近半年真的没少喝酒，更夸张的是，有一天中午喝，晚上喝，凌晨喝，甚至相约早上去吃胡辣汤喝早酒——不过因为没起来，遂罢，哈哈哈。 |
 | 2026-05-18 | [天津自驾游](https://elmagnifico.tech/2026/05/19/Tianjin-Self-driving-Travel/) | Foreword 周末小米举办了天津V1国际赛车场的活动，五一前就已经报名了1节练习+1天竞速，然而天公不作美，很多安排也不如预期，就改做自驾了。 天津 V1国际赛车场 V1赛车场这次开放的是最长路段，4.2km，接近街道的赛道也给开放了，但是本质上挺危险的，V1赛车场虽然是F2级别，但是这个缓冲区… |
+| 2026-05-18 | [后来](https://blog.zopiya.com/hou-lai-c56701e6/) | 再喝是狗。又一次从宿醉中迷瞪过来的我，又说出了这句话。最近半年真的没少喝酒，更夸张的是，有一天中午喝，晚上喝，凌晨喝，甚至相约早上去吃胡辣汤喝早酒——不过因为没起来，遂罢，哈哈哈。 |
 | 2026-05-18 | [车祸 XII](https://mobius.blog/23665.html) | （2026-全国卷）下列哪些是提升电动车品牌效应的方法： A、通过分析起火/爆炸事故数据，改进电池安全； B、 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-18 | [Zine#49](https://taxodium.ink/49.html) | Zine#49 🎶 嘿！岛 (Black Island) - 表情银行 MimikBanka 启明星 一定很孤独吧 孤独中 搁浅的你我啊 黑暗里 望眼欲穿向白昼 漫漫长夜 教我如何不泪流 浑浊的 黑夜赐予我疼痛 这疼痛 像雪一样正消融 睡魔啊 他唱着遗忘的歌谣 破晓时 就带走我的噩梦 哎呀呀 漫漫长… |
 | 2026-05-18 | [R#102 移动端 Vibe Coding！](https://blog.sakanano.moe/journals/random_102) | 2026.5.12 ~ 2026.5.18 |

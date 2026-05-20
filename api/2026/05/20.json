@@ -6,6 +6,12 @@
     "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
   },
   {
+    "title": "翻译-Bitwarden的静默革新",
+    "url": "https://blog.prayhand13013.top/20260521T014604--翻译-bitwarden的静默革新__blog.html",
+    "date": "2026-05-20T17:46:00Z",
+    "description": ""
+  },
+  {
     "title": "Bought a Quote/0",
     "url": "https://www.bboy.app/2026/05/20/bought-a-quote/0/",
     "date": "2026-05-20T16:13:00Z",
@@ -22,6 +28,12 @@
     "url": "https://www.bboy.app/2026/05/20/20260520%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
     "date": "2026-05-20T15:50:00Z",
     "description": "简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn"
+  },
+  {
+    "title": "Ambermoon updated",
+    "url": "https://macsourceports.com/game/ambermoon",
+    "date": "2026-05-20T15:01:59Z",
+    "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.13.2 of the project"
   },
   {
     "title": "遂昌｜躲避人潮的五一自驾Day4 - 焦滩",
@@ -106,6 +118,12 @@
     "url": "https://7gugu.com/index.php/2026/05/20/%e3%80%90%e5%b7%a5%e5%85%b7%e3%80%91telegraph%e5%9b%be%e7%89%87%e4%b8%8b%e8%bd%bd%e5%bf%ab%e6%8d%b7%e6%8c%87%e4%bb%a4/",
     "date": "2026-05-19T16:26:22Z",
     "description": "关键词: Telegram 电报 图片下载 快捷指令 shortcut 最近在用Telegram冲浪，发现电报 … 继续阅读 “【工具】Telegraph图片下载快捷指令”"
+  },
+  {
+    "title": "How to deploy Hermes Agent on Ubuntu",
+    "url": "https://tianheg.co/posts/how-to-deploy-hermes-agent-on-ubuntu/",
+    "date": "2026-05-19T16:00:00Z",
+    "description": "Phase 1: Server Initialization & Base Setup Purchase a VPS, deploy Ubuntu 24.04 LTS Create system user tianhe , add to sudo group Go to https://hermes-agent.nousresearch.com/ , run the install script to complete setup Phase 2: Data Migration (from old Railway deployment) Download backup from Cloudflare R2 via AWS CLI Restore .hermes directory from backup tarball Rebuild corrupted state.db — reimport from sessions/*.json files Honcho was originally on Railway; later migrated to local Docker Compo"
   },
   {
     "title": "Gitlab制品库实践记录",
@@ -210,12 +228,6 @@
     "description": "前言 本篇是对 2026-05-04 到 2026-05-19 这两周生活的记录与思考。 Be a whole person 不知不觉间，和 AI 对话/相伴似乎已经成为了生活的一种常态，今天粗略统计了下，每天在电脑前写代码超过 12h，过去一个月单单 Claude Code 的用量就快百亿 Token，等值接近 7000 刀，还没算 Codex 和其他消耗，远远超过了和人对话的频率和时长，有种黑镜里描述的未来发生现实生活中的既视感。 感慨于不论是模型还是应用形态飞速迭代的同时，也有了一些隐隐的焦虑与恍惚，倒不只是对个体出路的未雨绸缪，而更多是对人未来价值的迷茫。曾经的工作生活似乎充满很多人与人之间的交流、Brainstorming 甚至是碰撞，而现在常常是同事提一个问题，我问我的 Agent，几分钟后，对方的 Agent 又回答了，我们在其中似乎更像是一个中转站，但也不得不无奈地承认，即使自己花上一两个小时详细推敲设计，也不见得能有更好的方案，而效率却已然低了数倍。 那随着模型再发展几年呢，还需要我们作为中转么？我很怀疑。 也常常有人说 Agent 没有人味，并不一定真正知道我们要什"
   },
   {
-    "title": "Ambermoon updated",
-    "url": "https://macsourceports.com/game/ambermoon",
-    "date": "2026-05-18T22:37:43Z",
-    "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.13.1 of the project"
-  },
-  {
     "title": "VMware Workstation Pro 26H1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活)",
     "url": "https://www.iplaysoft.com/vmware-workstation.html",
     "date": "2026-05-18T21:40:14Z",
@@ -246,16 +258,16 @@
     "description": "SugarLite 最初是一个纯 iOS 应用，技术栈是 SwiftUI + MVVM + Supabase Swift SDK。随着 Android 版本的需求提上日程，如果简单地把业务逻辑复制一份到 Kotlin，后续的维护成本会成倍增长——网络层、数据模型、业务规则都要双端维护。所以我们选择了 Kotlin Multiplatform ，让 shared/ 模块承载所有跨平台业务逻辑，iOS 侧只保留 SwiftUI 和系统框架调用。 这篇文章记录整个迁移过程，从架构重构到 CI/CD 适配，踩过的坑和学到的经验。 🏗️ 迁移前的 MVVM Clean Architecture 重构 在引入 KMP 之前，我们先做了一次架构重构。核心目标很简单：让 ViewModel 不依赖任何外部框架，这样底层将来换成 Kotlin 也不会波及上层。 重构后的依赖方向： text View → ViewModel → Protocol ← Repository → External Frameworks 各层职责： 层级 目录 允许导入 约束 View Views/ SwiftUI 禁止直接访"
   },
   {
-    "title": "后来",
-    "url": "https://blog.zopiya.com/hou-lai-c56701e6/",
-    "date": "2026-05-18T16:00:00Z",
-    "description": "再喝是狗。又一次从宿醉中迷瞪过来的我，又说出了这句话。最近半年真的没少喝酒，更夸张的是，有一天中午喝，晚上喝，凌晨喝，甚至相约早上去吃胡辣汤喝早酒——不过因为没起来，遂罢，哈哈哈。"
-  },
-  {
     "title": "天津自驾游",
     "url": "https://elmagnifico.tech/2026/05/19/Tianjin-Self-driving-Travel/",
     "date": "2026-05-18T16:00:00Z",
     "description": "Foreword 周末小米举办了天津V1国际赛车场的活动，五一前就已经报名了1节练习+1天竞速，然而天公不作美，很多安排也不如预期，就改做自驾了。 天津 V1国际赛车场 V1赛车场这次开放的是最长路段，4.2km，接近街道的赛道也给开放了，但是本质上挺危险的，V1赛车场虽然是F2级别，但是这个缓冲区的级别和凯泽差不多，没有波波池的缓冲，都是类似水泥地或者马路的缓冲区，减速可能不理想 先在模拟器连了一周，不四轮出白只能开到2分01，更快可能就有点作弊了，之前以为只是模拟器没有建模波波池，实际去了真场地，真的没有波波池，可以走偷鸡线路。 去天津之前已经基本确定了，练习日可以玩，竞速日会下雨，打算把竞速日退掉，没想到说了半天，不给退。最蠢的是官方举办的活动，竟然赛道地图没上线，要玩家现场自己画，真尼玛离谱。你练习日不行就算了，怎么竞速日也不行呢，包场2天，一个地图画不出来，这还是提前了半个多月预告的活动，真不知道在玩啥。 练习日 只报了最后一节练习，没想到那么多人，先是教练带着走线走了2圈，然后上去以后画赛道，画3圈，然后才能正式跑，这会已经掉了一些电了，人又多，根本跑不开 跑到2分10秒以"
+  },
+  {
+    "title": "后来",
+    "url": "https://blog.zopiya.com/hou-lai-c56701e6/",
+    "date": "2026-05-18T16:00:00Z",
+    "description": "再喝是狗。又一次从宿醉中迷瞪过来的我，又说出了这句话。最近半年真的没少喝酒，更夸张的是，有一天中午喝，晚上喝，凌晨喝，甚至相约早上去吃胡辣汤喝早酒——不过因为没起来，遂罢，哈哈哈。"
   },
   {
     "title": "车祸 XII",
