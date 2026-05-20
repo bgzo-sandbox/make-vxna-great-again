@@ -21,6 +21,10 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-20 | [Heroes Chronicles updated](https://macsourceports.com/game/hchronicles) | The build of VCMI for Heroes Chronicles has been updated to version 1.7.4 of the project |
+| 2026-05-20 | [Heroes of Might and Magic III updated](https://macsourceports.com/game/homm3) | The build of VCMI for Heroes of Might and Magic III has been updated to version 1.7.4 of the project |
+| 2026-05-20 | [年度低价！哔哩 B 站年度大会员 + 京东 PLUS 年卡优惠 (还有电视端)](https://www.iplaysoft.com/p/bilibili-vip) | 哔哩哔哩从创立至今，逐渐已成为了年轻人超喜爱的动画视频网站了。现在无论是二次元番剧、电视剧、电影、各种有趣视频、知名UP主、学习资料等都能在 B 站找到。 丰富的番剧影视资源 + UP 主自制视频资源，没有片头广告，再加上极高人气的“弹幕”的存在，使得 B 站成为能与 爱奇艺、腾讯视频 …… 「 前… |
+| 2026-05-20 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.84.0 of the project |
 | 2026-05-20 | [翻译-Bitwarden的静默革新](https://blog.prayhand13013.top/20260521T014604--翻译-bitwarden的静默革新__blog.html) |  |
 | 2026-05-20 | [Bought a Quote/0](https://www.bboy.app/2026/05/20/bought-a-quote/0/) | Introduction I recently got a Quote/0. It now lives on my desk collecting dust. |
 | 2026-05-20 | [买了Quote/0](https://www.bboy.app/2026/05/20/%E4%B9%B0%E4%BA%86quote/0/) | 简介 最近折腾了一台 Quote/0。现在常驻桌面吃灰。 |
@@ -30,7 +34,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-20 | [正版软件 5 月惠：Fences / Groupy / Start11 / GoodSync / Office 等…](https://www.iplaysoft.com/news/6533) | 电脑越用越乱，大概是很多人的共同问题。桌面文件堆成山、截图随手乱放、下载目录简直一团乱麻；想找一个文档，结果翻了半天才发现藏在不知道哪个文件夹里。 更崩溃的是 —— 很多时候不是电脑硬件配置不够用，而是文件和界面缺乏系统性整理，注意力每天都在被各种杂乱界面和重复操作偷…… 「 前往查看原文....… |
 | 2026-05-20 | [犯错的时候不该说什么](https://blog.solazy.me/20260520/) | 上周日的一起小的刮擦事故，引发了一个我对于发错这不该说什么的想法 |
 | 2026-05-20 | [OPC创业范式的真相，及AI时代域名需求的隐性爆发](https://www.evan.xin/4992/) | 从"十五五"规划纲要的密集落笔，到二十余座城市的专项政策扎堆出台，OPC（One Person Company […] |
-| 2026-05-20 | [618 大招开场：百度网盘 SVIP 超级会员年卡史低价 (送哔哩B站 + 喜马)](https://www.iplaysoft.com/p/baiduwangpan-svip) | 「百度网盘」几乎是我们每天都要用到的工具，无论是下载网上别人分享的资源，还是上传自己的文件去备份，都是使用率极高的服务，同时它也是目前国内使用人数特别多的网盘。 免费用户会受到比较严重的限速，下载文件往往慢到让人怀疑人生，而超级会员则完全不限速，基本都能跑满你的带…… 「 前往查看原文.... 」… |
+| 2026-05-20 | [618 放大招：百度网盘 SVIP 超级会员年卡史低价 (送哔哩B站 + 喜马)](https://www.iplaysoft.com/p/baiduwangpan-svip) | 「百度网盘」几乎是我们每天都要用到的工具，无论是下载网上别人分享的资源，还是上传自己的文件去备份，都是使用率极高的服务，同时它也是目前国内使用人数特别多的网盘。 免费用户会受到比较严重的限速，下载文件往往慢到让人怀疑人生，而超级会员则完全不限速，基本都能跑满你的带…… 「 前往查看原文.... 」… |
 | 2026-05-20 | [少即是多](https://mobius.blog/23860.html) | 要不是因为这次准备小说大纲，我才意识到我已经过了“差生文具多”的状态了。 当然必须先叠甲，差生文具多并不是一个 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-20 | [使用树莓派 4 和 Moonlight 串流游戏的实践](https://blog.vvzero.com/2026/05/20/The-best-practice-for-game-streaming-via-moonlight-raspberry-pi/) | 家庭内网，串流打游戏是真需求，电脑放书房，在客厅电视玩，真的爽。 设备清单</h |
 | 2026-05-20 | [绝对值！夸克网盘 SVIP 会员优惠年卡打折！6TB 大空间 / 不限速 / 离线下载](https://www.iplaysoft.com/p/quark-svip) | 如今，网盘正在逐渐成为我们日常工作和娱乐 (转存 + 在线看电影看视频) 的重要工具。无论是办公文件、手机电脑的备份，还是图片和视频，都可以通过云端进行存储和转移。 超级会员 SVIP 年卡限时打折优惠： 除了百度网盘、阿里云盘、迅雷云盘之外，最近还有一款网盘“异军突起”——夸克网盘…… 「 前往查… |
@@ -63,8 +67,8 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-18 | [VMWare Fusion Pro 26H1 - 最新苹果 Mac 免费虚拟机 (支持 M 芯片 / Win11 ARM)](https://www.iplaysoft.com/vmware-fusion.html) | 使用苹果 Mac 电脑不可避免都会遇到一些软件、硬件只能在 Windows 下使用 (如网银/行业软件/仅能兼容 IE 的网站、无 Mac 驱动的 硬件 等)，因此在 Mac 上安装 Win 是很有必要的。 曾经我们可用 BootCamp 安装双系统，但如今只能使用 虚拟机 安装。 VMWare F… |
 | 2026-05-18 | [第一次做游戏插件-激战2国际服中文转换 #Guild wars 2](https://anotherdayu.com/guildwars2-chinese/) | 因为对《激战2》的长期喜欢，我把一次回归国际服的体验，延伸成了一个基于 Nexus 的中文转换插件尝试，也重新确认了这款游戏为什么依然值得长期停留。 |
 | 2026-05-18 | [SugarLite 的 KMP 渐进式迁移实践](https://youngxhui.top/2026/05/sugarlite-kmp-migration/) | SugarLite 最初是一个纯 iOS 应用，技术栈是 SwiftUI + MVVM + Supabase Swift SDK。随着 Android 版本的需求提上日程，如果简单地把业务逻辑复制一份到 Kotlin，后续的维护成本会成倍增长——网络层、数据模型、业务规则都要双端维护。所以我们选择了… |
-| 2026-05-18 | [天津自驾游](https://elmagnifico.tech/2026/05/19/Tianjin-Self-driving-Travel/) | Foreword 周末小米举办了天津V1国际赛车场的活动，五一前就已经报名了1节练习+1天竞速，然而天公不作美，很多安排也不如预期，就改做自驾了。 天津 V1国际赛车场 V1赛车场这次开放的是最长路段，4.2km，接近街道的赛道也给开放了，但是本质上挺危险的，V1赛车场虽然是F2级别，但是这个缓冲区… |
 | 2026-05-18 | [后来](https://blog.zopiya.com/hou-lai-c56701e6/) | 再喝是狗。又一次从宿醉中迷瞪过来的我，又说出了这句话。最近半年真的没少喝酒，更夸张的是，有一天中午喝，晚上喝，凌晨喝，甚至相约早上去吃胡辣汤喝早酒——不过因为没起来，遂罢，哈哈哈。 |
+| 2026-05-18 | [天津自驾游](https://elmagnifico.tech/2026/05/19/Tianjin-Self-driving-Travel/) | Foreword 周末小米举办了天津V1国际赛车场的活动，五一前就已经报名了1节练习+1天竞速，然而天公不作美，很多安排也不如预期，就改做自驾了。 天津 V1国际赛车场 V1赛车场这次开放的是最长路段，4.2km，接近街道的赛道也给开放了，但是本质上挺危险的，V1赛车场虽然是F2级别，但是这个缓冲区… |
 | 2026-05-18 | [车祸 XII](https://mobius.blog/23665.html) | （2026-全国卷）下列哪些是提升电动车品牌效应的方法： A、通过分析起火/爆炸事故数据，改进电池安全； B、 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-18 | [Zine#49](https://taxodium.ink/49.html) | Zine#49 🎶 嘿！岛 (Black Island) - 表情银行 MimikBanka 启明星 一定很孤独吧 孤独中 搁浅的你我啊 黑暗里 望眼欲穿向白昼 漫漫长夜 教我如何不泪流 浑浊的 黑夜赐予我疼痛 这疼痛 像雪一样正消融 睡魔啊 他唱着遗忘的歌谣 破晓时 就带走我的噩梦 哎呀呀 漫漫长… |
 | 2026-05-18 | [R#102 移动端 Vibe Coding！](https://blog.sakanano.moe/journals/random_102) | 2026.5.12 ~ 2026.5.18 |

@@ -6,6 +6,30 @@
     "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
   },
   {
+    "title": "Heroes Chronicles updated",
+    "url": "https://macsourceports.com/game/hchronicles",
+    "date": "2026-05-20T20:57:18Z",
+    "description": "The build of VCMI for Heroes Chronicles has been updated to version 1.7.4 of the project"
+  },
+  {
+    "title": "Heroes of Might and Magic III updated",
+    "url": "https://macsourceports.com/game/homm3",
+    "date": "2026-05-20T20:57:18Z",
+    "description": "The build of VCMI for Heroes of Might and Magic III has been updated to version 1.7.4 of the project"
+  },
+  {
+    "title": "年度低价！哔哩 B 站年度大会员 + 京东 PLUS 年卡优惠 (还有电视端)",
+    "url": "https://www.iplaysoft.com/p/bilibili-vip",
+    "date": "2026-05-20T20:11:50Z",
+    "description": "哔哩哔哩从创立至今，逐渐已成为了年轻人超喜爱的动画视频网站了。现在无论是二次元番剧、电视剧、电影、各种有趣视频、知名UP主、学习资料等都能在 B 站找到。 丰富的番剧影视资源 + UP 主自制视频资源，没有片头广告，再加上极高人气的“弹幕”的存在，使得 B 站成为能与 爱奇艺、腾讯视频 …… 「 前往查看原文.... 」 异次元首页 | 微信公众号 | 关注微博 | 软件精选 | 软件激活码折扣"
+  },
+  {
+    "title": "Wolfenstein: Enemy Territory updated",
+    "url": "https://macsourceports.com/game/wolfet",
+    "date": "2026-05-20T18:34:58Z",
+    "description": "The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.84.0 of the project"
+  },
+  {
     "title": "翻译-Bitwarden的静默革新",
     "url": "https://blog.prayhand13013.top/20260521T014604--翻译-bitwarden的静默革新__blog.html",
     "date": "2026-05-20T17:46:00Z",
@@ -60,7 +84,7 @@
     "description": "从\"十五五\"规划纲要的密集落笔，到二十余座城市的专项政策扎堆出台，OPC（One Person Company […]"
   },
   {
-    "title": "618 大招开场：百度网盘 SVIP 超级会员年卡史低价 (送哔哩B站 + 喜马)",
+    "title": "618 放大招：百度网盘 SVIP 超级会员年卡史低价 (送哔哩B站 + 喜马)",
     "url": "https://www.iplaysoft.com/p/baiduwangpan-svip",
     "date": "2026-05-20T02:50:38Z",
     "description": "「百度网盘」几乎是我们每天都要用到的工具，无论是下载网上别人分享的资源，还是上传自己的文件去备份，都是使用率极高的服务，同时它也是目前国内使用人数特别多的网盘。 免费用户会受到比较严重的限速，下载文件往往慢到让人怀疑人生，而超级会员则完全不限速，基本都能跑满你的带…… 「 前往查看原文.... 」 异次元首页 | 微信公众号 | 关注微博 | 软件精选 | 软件激活码折扣"
@@ -258,16 +282,16 @@
     "description": "SugarLite 最初是一个纯 iOS 应用，技术栈是 SwiftUI + MVVM + Supabase Swift SDK。随着 Android 版本的需求提上日程，如果简单地把业务逻辑复制一份到 Kotlin，后续的维护成本会成倍增长——网络层、数据模型、业务规则都要双端维护。所以我们选择了 Kotlin Multiplatform ，让 shared/ 模块承载所有跨平台业务逻辑，iOS 侧只保留 SwiftUI 和系统框架调用。 这篇文章记录整个迁移过程，从架构重构到 CI/CD 适配，踩过的坑和学到的经验。 🏗️ 迁移前的 MVVM Clean Architecture 重构 在引入 KMP 之前，我们先做了一次架构重构。核心目标很简单：让 ViewModel 不依赖任何外部框架，这样底层将来换成 Kotlin 也不会波及上层。 重构后的依赖方向： text View → ViewModel → Protocol ← Repository → External Frameworks 各层职责： 层级 目录 允许导入 约束 View Views/ SwiftUI 禁止直接访"
   },
   {
-    "title": "天津自驾游",
-    "url": "https://elmagnifico.tech/2026/05/19/Tianjin-Self-driving-Travel/",
-    "date": "2026-05-18T16:00:00Z",
-    "description": "Foreword 周末小米举办了天津V1国际赛车场的活动，五一前就已经报名了1节练习+1天竞速，然而天公不作美，很多安排也不如预期，就改做自驾了。 天津 V1国际赛车场 V1赛车场这次开放的是最长路段，4.2km，接近街道的赛道也给开放了，但是本质上挺危险的，V1赛车场虽然是F2级别，但是这个缓冲区的级别和凯泽差不多，没有波波池的缓冲，都是类似水泥地或者马路的缓冲区，减速可能不理想 先在模拟器连了一周，不四轮出白只能开到2分01，更快可能就有点作弊了，之前以为只是模拟器没有建模波波池，实际去了真场地，真的没有波波池，可以走偷鸡线路。 去天津之前已经基本确定了，练习日可以玩，竞速日会下雨，打算把竞速日退掉，没想到说了半天，不给退。最蠢的是官方举办的活动，竟然赛道地图没上线，要玩家现场自己画，真尼玛离谱。你练习日不行就算了，怎么竞速日也不行呢，包场2天，一个地图画不出来，这还是提前了半个多月预告的活动，真不知道在玩啥。 练习日 只报了最后一节练习，没想到那么多人，先是教练带着走线走了2圈，然后上去以后画赛道，画3圈，然后才能正式跑，这会已经掉了一些电了，人又多，根本跑不开 跑到2分10秒以"
-  },
-  {
     "title": "后来",
     "url": "https://blog.zopiya.com/hou-lai-c56701e6/",
     "date": "2026-05-18T16:00:00Z",
     "description": "再喝是狗。又一次从宿醉中迷瞪过来的我，又说出了这句话。最近半年真的没少喝酒，更夸张的是，有一天中午喝，晚上喝，凌晨喝，甚至相约早上去吃胡辣汤喝早酒——不过因为没起来，遂罢，哈哈哈。"
+  },
+  {
+    "title": "天津自驾游",
+    "url": "https://elmagnifico.tech/2026/05/19/Tianjin-Self-driving-Travel/",
+    "date": "2026-05-18T16:00:00Z",
+    "description": "Foreword 周末小米举办了天津V1国际赛车场的活动，五一前就已经报名了1节练习+1天竞速，然而天公不作美，很多安排也不如预期，就改做自驾了。 天津 V1国际赛车场 V1赛车场这次开放的是最长路段，4.2km，接近街道的赛道也给开放了，但是本质上挺危险的，V1赛车场虽然是F2级别，但是这个缓冲区的级别和凯泽差不多，没有波波池的缓冲，都是类似水泥地或者马路的缓冲区，减速可能不理想 先在模拟器连了一周，不四轮出白只能开到2分01，更快可能就有点作弊了，之前以为只是模拟器没有建模波波池，实际去了真场地，真的没有波波池，可以走偷鸡线路。 去天津之前已经基本确定了，练习日可以玩，竞速日会下雨，打算把竞速日退掉，没想到说了半天，不给退。最蠢的是官方举办的活动，竟然赛道地图没上线，要玩家现场自己画，真尼玛离谱。你练习日不行就算了，怎么竞速日也不行呢，包场2天，一个地图画不出来，这还是提前了半个多月预告的活动，真不知道在玩啥。 练习日 只报了最后一节练习，没想到那么多人，先是教练带着走线走了2圈，然后上去以后画赛道，画3圈，然后才能正式跑，这会已经掉了一些电了，人又多，根本跑不开 跑到2分10秒以"
   },
   {
     "title": "车祸 XII",
