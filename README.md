@@ -21,8 +21,14 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-20 | [犯错的时候不该说什么](https://blog.solazy.me/20260520/) | 上周日的一起小的刮擦事故，引发了一个我对于发错这不该说什么的想法 |
+| 2026-05-20 | [OPC创业范式的真相，及AI时代域名需求的隐性爆发](https://www.evan.xin/4992/) | 从"十五五"规划纲要的密集落笔，到二十余座城市的专项政策扎堆出台，OPC（One Person Company […] |
+| 2026-05-20 | [618 大招开场：百度网盘 SVIP 超级会员年卡史低价 (送哔哩B站 + 喜马)](https://www.iplaysoft.com/p/baiduwangpan-svip) | 「百度网盘」几乎是我们每天都要用到的工具，无论是下载网上别人分享的资源，还是上传自己的文件去备份，都是使用率极高的服务，同时它也是目前国内使用人数特别多的网盘。 免费用户会受到比较严重的限速，下载文件往往慢到让人怀疑人生，而超级会员则完全不限速，基本都能跑满你的带…… 「 前往查看原文.... 」… |
 | 2026-05-20 | [少即是多](https://mobius.blog/23860.html) | 要不是因为这次准备小说大纲，我才意识到我已经过了“差生文具多”的状态了。 当然必须先叠甲，差生文具多并不是一个 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-05-20 | [使用树莓派 4 和 Moonlight 串流游戏的实践](https://blog.vvzero.com/2026/05/20/The-best-practice-for-game-streaming-via-moonlight-raspberry-pi/) | 家庭内网，串流打游戏是真需求，电脑放书房，在客厅电视玩，真的爽。 设备清单</h |
+| 2026-05-20 | [绝对值！夸克网盘 SVIP 会员优惠年卡打折！6TB 大空间 / 不限速 / 离线下载](https://www.iplaysoft.com/p/quark-svip) | 如今，网盘正在逐渐成为我们日常工作和娱乐 (转存 + 在线看电影看视频) 的重要工具。无论是办公文件、手机电脑的备份，还是图片和视频，都可以通过云端进行存储和转移。 超级会员 SVIP 年卡限时打折优惠： 除了百度网盘、阿里云盘、迅雷云盘之外，最近还有一款网盘“异军突起”——夸克网盘…… 「 前往查… |
 | 2026-05-20 | [当炒饭与海风相遇《Summer Pockets REFLECTION BLUE》 圣地巡礼之男木岛](https://www.wikimoe.com/post/b-tf6k6qhp) | 2026年5月5日，在结束了女木岛的行程之后，来到了男木岛。 关于男木岛 男木岛是位于日本香川县高松市北方濑户内海中的一座小岛，与女木岛相邻，属于备赞濑户航道附近的岛屿。岛上地形多坡，村落沿山坡层层展开，白墙民居、石阶小路和港口景观构成了独特的海岛风貌。男木岛以宁静的渔村氛围、男木岛灯塔、猫与岛民共… |
+| 2026-05-20 | [史低价！爱奇艺 (电视端) VIP 年卡+送京东 PLUS 会员优惠￥158 元起](https://www.iplaysoft.com/news/4313) | 看剧基本必备爱奇艺会员，相信不用多做介绍了；而如果你经常会在京东商城买东西，那么自然也知道京东 Plus 会员的各种好处！比如每月免邮、全品类优惠券、Plus 特价商品、专享活动价、免费上门退换货等等特权。 原本爱奇艺 VIP 年卡定价 258 元，电视端更是 488 元，京东 PLUS 会员定价… |
 | 2026-05-19 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to version 0.1 of the project |
 | 2026-05-19 | [Gothic II updated](https://macsourceports.com/game/gothic2) | The build of OpenGothic for Gothic II has been updated to version 0.92 of the project |
 | 2026-05-19 | [Ubuntu 24.04 Noble 升级 Ubuntu 26.04 Resolute](https://u.sb/ubuntu-upgrade-2604/) | 本文将指导如何升级 Ubuntu 24.04 Noble Numbat 到 Ubuntu 26.04 Resolute Raccoon。 |
@@ -81,7 +87,6 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-17 | [年轻不是健康的免死金牌](https://www.mengke.me/blog/202605/Youth_Is_Not_A_Health_Pass) | 29 岁、平时爱跑步的我，因上消化道出血从公司工位被送进急诊抢救室。记录黑便就医、急诊胃镜止血、禁食住院的经过，以及「年轻不是健康的免死金牌」这件事教会我的事 … |
 | 2026-05-16 | [618 王炸开局！第一波会员打折直接“巅峰”好价！闭眼入就对了……](https://www.iplaysoft.com/618.html) | 又来到 618 大促 的季节了！每年无论 京东 、 淘宝 ，还是「 腾讯云 、 阿里云 」、一些 正版软件 、 VPS 服务器 等都会出现各种打折，买买党肯定特别幸福。不过咱会更关注软件或会员促销！ 异次元特意收集最近 618 低价的影音网盘会员、正版软件激活码、数码产品等优惠活动， 包括 数码荔枝… |
 | 2026-05-16 | [修复 Venera 点击导出无反应，章节显示问题](https://blog.bgzo.cc/20260516-fix-venera-export-name.html) | 上次修复 Venera 无法在 iOS/iPad OS 上保存图片 的问题，很可能是 iOS 的一个 BUG，因为这周升级 iOS 26.5 之后，这个奇怪的问题就消失了。 除了这个问题，上次修复还有一个遗留问题是 iOS 会自动处理超长文件名，导致如： 最终会被 iOS 系统直接截断为： 很奇怪啊… |
-| 2026-05-16 | [绝对值！夸克网盘 SVIP 会员优惠年卡打折！6TB 大空间 / 不限速 / 离线下载](https://www.iplaysoft.com/p/quark-svip) | 如今，网盘正在逐渐成为我们日常工作和娱乐 (转存 + 在线看电影看视频) 的重要工具。无论是办公文件、手机电脑的备份，还是图片和视频，都可以通过云端进行存储和转移。 超级会员 SVIP 年卡限时打折优惠： 除了百度网盘、阿里云盘、迅雷云盘之外，最近还有一款网盘“异军突起”——夸克网盘…… 「 前往查… |
 | 2026-05-16 | [问Gemini的问题备份 20260516](https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260516/) | 「时间戳。」 |
 | 2026-05-16 | [周末流水账 0516](https://blog.solazy.me/20260516/) | 终于到周六了 |
 | 2026-05-16 | [节奏坦克 进行曲 M3 2025](https://blog.cxplay.org/works/tempotec-march-m3/) | 当背景噪声被明显感知到的时候, 音频接口就会像长了大王花一样臭不可「闻」, 任何音乐在它的衬托下都仿佛变成了下品. 为了解决这件事, 我选择了节奏坦克进行曲. |
@@ -97,13 +102,11 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-15 | [烂而不自知的人](https://blog.solazy.me/20260515/) | 最近遇到了一类人，可以让我写一篇文章 |
 | 2026-05-15 | [2026.5.15](https://www.justzht.com/2026-5-15/) | 加了一会班发了个 PR，然后瞄了眼日历才想起来明天早上九点钟要去另外一个办公楼见人开会，而现在已经凌晨一 |
 | 2026-05-15 | [SVG 时钟](https://blog.est.im/2026/stdout-16) | 一个奇怪的想法： GitHub Profile README、邮件签名等没有JS的情况下，如何展示当前时间，并且最好可以跳动？ 想来想去，纯 SVG 实现。于是呼来AI： codex-5.3.mod.svg codex-5.3.new.svg gemini-3.1-pro-thinking.new.… |
-| 2026-05-15 | [史低价！爱奇艺 (电视端) VIP 年卡+送京东 PLUS 会员优惠￥158 元起](https://www.iplaysoft.com/news/4313) | 看剧基本必备爱奇艺会员，相信不用多做介绍了；而如果你经常会在京东商城买东西，那么自然也知道京东 Plus 会员的各种好处！比如每月免邮、全品类优惠券、Plus 特价商品、专享活动价、免费上门退换货等等特权。 原本爱奇艺 VIP 年卡定价 258 元，电视端更是 488 元，京东 PLUS 会员定价… |
 | 2026-05-15 | [两款值得尝试的开源沉浸式翻译方案](https://www.wxy97.com/archives/019e2a4b-f1c0-70aa-b100-a49d1ddf3464) | 1. KISS Translator A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) 截图 |
 | 2026-05-15 | [FC 游戏：高桥名人之冒险岛四代（Takahashi Meijin no Bouken-jima IV）](https://springwood.me/fc-takahashi-meijin-no-bouken-jima-iv/) | 这是最后一款正式发售的 FC 游戏，也是我本次回顾的最后一款 FC 游戏 之前曾经被初代的《冒险岛》虐了一次， [...] Read More "FC 游戏：高桥名人之冒险岛四代（Takahashi Meijin no Bouken-jima IV）" |
 | 2026-05-15 | [花钱买来的权利是“特权”吗？](https://mobius.blog/23607.html) | 前几天迪士尼的“速通服务”又被推到了风口浪尖。 先聊聊什么是“速通服务”：迪士尼快速通行（英语：Disney& […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-14 | [别只显得很会生活](https://www.linggandianbo.com/newsletter-123/) | 从 AI 工作幻觉、姚顺宇访谈、年轻人的风险、中年人的 Costco 到健身房陌生人｜灵感电波 #123 |
 | 2026-05-14 | [学习周刊-总第263期-2026年第20周](https://wiki.eryajf.net/pages/e2b5fd/) | 如要阅读全文，点击标题跳转。 学习周刊-总第263期 &#124; Chorus &#124; PixleyReader &#124; novelvids &#124; refly &#124; OneDroid &#124; PUAClaw &#124; pinchtab &#124; CronPilot &#124; deep-student &#124; routa &#124; CodePilot… |
-| 2026-05-14 | [618 大招开场：百度网盘 SVIP 超级会员年卡史低价 (送哔哩B站 + 喜马)](https://www.iplaysoft.com/p/baiduwangpan-svip) | 「百度网盘」几乎是我们每天都要用到的工具，无论是下载网上别人分享的资源，还是上传自己的文件去备份，都是使用率极高的服务，同时它也是目前国内使用人数特别多的网盘。 免费用户会受到比较严重的限速，下载文件往往慢到让人怀疑人生，而超级会员则完全不限速，基本都能跑满你的带…… 「 前往查看原文.... 」… |
 | 2026-05-14 | [免费领取 Apple Music 苹果音乐 3 个月会员订阅 (无套路)](https://www.iplaysoft.com/p/apple-music) | 在正版音乐服务高度内卷的今天，Apple Music 苹果音乐始终保持着一种独特的“反其道而行”的气质：干净清爽、没有广告、不免费、不做强社交、不靠短视频引流。 而它凭借的，是追求极致的音质、克制简约的界面，与苹果深度的生态协同，积累了大量高黏性用户。它的版权曲库齐全，不会像 QQ 音乐…… 「 前… |
 | 2026-05-14 | [20年前的照片](https://yipai.me/post/2518.html) | 五一跟几个初中同学去河源玩了一下，拍了几张合照，当时我脑袋中就想到我似乎有当年的照片。回来之后各种地方寻找无果 […] |
 | 2026-05-14 | [第十届网络社会年会（新加坡场）｜石可：John Gerrard 与 Stelarc 的作品及其背后的去中心化理想](https://caa-ins.org/archives/13396) | 文 / 石可翻译/ 崔涵校对/ 王婧洁 我可能会偶尔会用中文（普通话），因为我想大家都听得懂。我的中文名是石可，任职于南京大学，我拥有戏剧背景，同时从事创作实践、当代剧场表演以及相关理论研究，这就是我的背景情况。 今天的日程安排是讨论约翰·杰拉德（John Gerrard）和斯泰拉克（Stelarc… |
