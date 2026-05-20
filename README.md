@@ -21,10 +21,13 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-20 | [少即是多](https://mobius.blog/23860.html) | 要不是因为这次准备小说大纲，我才意识到我已经过了“差生文具多”的状态了。 当然必须先叠甲，差生文具多并不是一个 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-05-20 | [当炒饭与海风相遇《Summer Pockets REFLECTION BLUE》 圣地巡礼之男木岛](https://www.wikimoe.com/post/b-tf6k6qhp) | 2026年5月5日，在结束了女木岛的行程之后，来到了男木岛。 关于男木岛 男木岛是位于日本香川县高松市北方濑户内海中的一座小岛，与女木岛相邻，属于备赞濑户航道附近的岛屿。岛上地形多坡，村落沿山坡层层展开，白墙民居、石阶小路和港口景观构成了独特的海岛风貌。男木岛以宁静的渔村氛围、男木岛灯塔、猫与岛民共… |
 | 2026-05-19 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to version 0.1 of the project |
 | 2026-05-19 | [Gothic II updated](https://macsourceports.com/game/gothic2) | The build of OpenGothic for Gothic II has been updated to version 0.92 of the project |
 | 2026-05-19 | [Ubuntu 24.04 Noble 升级 Ubuntu 26.04 Resolute](https://u.sb/ubuntu-upgrade-2604/) | 本文将指导如何升级 Ubuntu 24.04 Noble Numbat 到 Ubuntu 26.04 Resolute Raccoon。 |
 | 2026-05-19 | [【工具】Telegraph图片下载快捷指令](https://7gugu.com/index.php/2026/05/20/%e3%80%90%e5%b7%a5%e5%85%b7%e3%80%91telegraph%e5%9b%be%e7%89%87%e4%b8%8b%e8%bd%bd%e5%bf%ab%e6%8d%b7%e6%8c%87%e4%bb%a4/) | 关键词: Telegram 电报 图片下载 快捷指令 shortcut 最近在用Telegram冲浪，发现电报 … 继续阅读 “【工具】Telegraph图片下载快捷指令” |
+| 2026-05-19 | [Gitlab制品库实践记录](https://elmagnifico.tech/2026/05/20/Gitlab-Artifacts/) | Foreword 之前理解的制品库就是把CI的中间过程进行存储，虽然也包含了最终发布的部分，但是总觉得没啥大用，就没在意。后续发现其实从工程到生产环节有很多东西都需要进行交付，之前只关注了最核心的产品内容，周边一些零碎的东西，其实也需要被统一管理。而这个时候如果有很多个仓库需要一起进行打包、管理，这… |
 | 2026-05-19 | [20260519的胡言乱语](https://www.bboy.app/2026/05/19/20260519%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-05-19 | [永久 1TB 空间！Koofr - 支持 WebDAV 的终身免费 10G 网盘 (Rclone / 挂载 OneDrive)](https://www.iplaysoft.com/p/koofr) | 最近一直在为几台 VPS 服务器数据备份在烦恼，还有考虑到 NAS、电脑文件的异地备份，想找一台大硬盘的 VPS 或用 S3 云存储，但找了一圈，大空间的 VPS 年费实在都太贵了。 最近挖到了一款“冷门”的宝藏云网盘 Koofr，它不仅有永久免费不限速 10G 空间，最关键是完美支持 WebDAV… |
 | 2026-05-19 | [FE Bits Vol.34 &#124; @antv npm 包供应链攻击，Tailwind v4.3 发布](https://ysx.cosine.ren/weekly-34/) | 关于本周刊 本期网址 https://blog.cosine.ren/post/weekly-34 本周刊更新时间期望是在每周天。 推荐订阅本周刊的 RSS 。 公众号 前端周周谈 FE Bits，点击阅读原文链接可查看原文。 QQ 讨论小群 598022684 / Discord 群 本周刊文章内… |
@@ -125,18 +128,6 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-13 | [那些令人反感的“我不提供观点”](https://mobius.blog/23587.html) | 前两天，一个朋友向我抱怨，他所在的学习小组里，有一个总是把“我只是提供视角，我不提供观点”挂在嘴边的“嘉豪”， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-13 | [Ubuntu22下安装DM数据库](https://blog.wo0ow.com/22899.html) | 部分参考博客： DM8在Ubuntu上的安装部署 系统环境 Ubuntu 22 |
 | 2026-05-13 | [《随兴旅》圣地巡礼之高松玉藻城](https://www.wikimoe.com/post/b-teto449f) | 2026年5月4日天气阴，今天去高松进行《随兴旅》的圣地巡礼。 开局小插曲 此次行程的线路是从东京乘坐新干线到冈山，然后在冈山乘坐快速电车到高松。 结果那一天濑户大桥的风特别大，导致电车停运。一直到了下午才通车，属于是有惊无险了。 不过毕竟是大风天，在大风天乘坐电车驶过濑户大桥的时候，摇晃伴随大风呼… |
-| 2026-05-12 | [试驳友谊之传递链](https://www.xiaozonglin.cn/challenge-the-chain-of-friendship-transmission/) | 传递链找不来真朋友，圈子也不解放人。 试驳友谊之传递链 最先出现在 林林杂语 。 |
-| 2026-05-12 | [拔牙-提车](https://yovey.me/hurt-and-heal/) | 王小波说过生活就是个缓慢受锤的过程。 躺在牙科椅上的三小时，切实地体会到了。 被迫扩张的下颌骨，毫无知觉的半张 … Continue reading "拔牙-提车" |
-| 2026-05-12 | [Album#39 - 海马森林 (SEAHORSE FOREST)](https://taxodium.ink/album-39.html) | Album#39 海马森林 (SEAHORSE FOREST) 图1 《海马森林》専輯封面 专辑信息 专辑名称： 海马森林 (SEAHORSE FOREST) 歌手： 表情银行 MimikBanka 年份： 2024-04-23 风格： 流行、搖滾 时长： 約 36 分鍾 最近又聴到《海马森林》這張… |
-| 2026-05-12 | [「诚实」的机器](https://www.geedea.pro/article/honest-machine/) | 四月底收到了一位读者的约稿请求（姑且称作约稿吧），起因是他在某个 Elon Musk 收购前后都没好过的 社交媒体上看到了一条 帖子 1 ，并希望听听我的看法。来回几封邮件交流过后，我觉得值得一写，于是把这篇文章列入了待办清单。 然后我就后悔了。 我不是在责备这位投稿的读者，我只是很久没有这么赤裸裸… |
-| 2026-05-12 | [我对你无能的细节没兴趣](https://blog.solazy.me/20260512/) | 今天讲讲职场上遇到的一类人 |
-| 2026-05-12 | [左翼不左翼，进步又退步](https://eduardoqian.com/archives/zuo-yi-bu-zuo-yi-jin-bu-you-tui-bu) | 这篇文章主要是想吐槽一下，一些持有左翼进步阵营理念的人，却又在一些理念议题上持有保守甚至极右的思想。 在之前，女权主义在绝大多数情况下无疑是进步的，甚至可以说比共产主义仍然进步一些，比如就点出了一些工人回家之后对妻子的打骂压迫行为，还有一些早年工人运动者嘲笑妇女应该回家做好饭，洗好衣服，而不是跟着他 |
-| 2026-05-12 | [1517 Fund：Thiel Fellowship操盘手打造的另类VC](https://wenfeixiang.com/2026/05/1517-fund-by-thiel-fellowship/) | 最近看到了一些国外的特色 VC 深度报道，此前没怎么听说、基金规模也不大，但业绩能在 TOP 前列、基金也打出 […] |
-| 2026-05-12 | [摘：《永不再来：对医学屠杀的生命伦理学反思》](https://z.arlmy.me/posts/Note/Note_TessaCheloucheAndGeoffreyBrahmer_NeverAgainBioethicalReflectionsOnMedicalAtrocities/) | 「脊背发凉。」 |
-| 2026-05-12 | [git commit自动切换Name、Email](https://www.lazydaily.cn/2026/05/12/SARL8lMpw1G39hrp/) | 前言 在公司使用 GitLab，平时个人使用 Github，git 提交时候附带 user.name，user.email 不同。git 可以通过 |
-| 2026-05-12 | [推漫：塔之迷宫](https://www.nodealpha.me/Manga-TowerDungeon.html) | 二叔最新力作，喜欢Blame或者希德尼娅的骑士的请不要错过。 |
-| 2026-05-12 | [如何给 Notion AI 接入第三方 API?](https://1q43.blog/post/12346/) | 我之前讲过将「哈勃半径」作为一种私人信息宇宙，并将它接入 Notion AI。 但问题是，Notion AI […] |
-| 2026-05-12 | [每个人都有想要逃往的星露谷](https://mobius.blog/23542.html) | 前几天我在我的创作者频道聊到了这件事： 我突然很想玩《星露谷物语》，我意识到“情况不对”了。最近一定有什么比较 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 

@@ -1,0 +1,266 @@
+[
+  {
+    "title": "the-story-of-me",
+    "url": "https://m4p1e.com/2066/05/04/the-story-of-me/",
+    "date": "2066-05-04T19:39:44Z",
+    "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
+  },
+  {
+    "title": "少即是多",
+    "url": "https://mobius.blog/23860.html",
+    "date": "2026-05-20T01:32:10Z",
+    "description": "要不是因为这次准备小说大纲，我才意识到我已经过了“差生文具多”的状态了。 当然必须先叠甲，差生文具多并不是一个 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
+    "title": "当炒饭与海风相遇《Summer Pockets REFLECTION BLUE》 圣地巡礼之男木岛",
+    "url": "https://www.wikimoe.com/post/b-tf6k6qhp",
+    "date": "2026-05-20T00:48:20Z",
+    "description": "2026年5月5日，在结束了女木岛的行程之后，来到了男木岛。 关于男木岛 男木岛是位于日本香川县高松市北方濑户内海中的一座小岛，与女木岛相邻，属于备赞濑户航道附近的岛屿。岛上地形多坡，村落沿山坡层层展开，白墙民居、石阶小路和港口景观构成了独特的海岛风貌。男木岛以宁静的渔村氛围、男木岛灯塔、猫与岛民共处的日常景象，以及濑户内国际艺术祭中的艺术作品而闻名，是一处兼具自然景观、生活气息与现代艺术魅力的濑户内海小岛。 前往男木岛 随着轮船接近男木岛，会遇到作品同款的鸟白岛远景。 此时我的眼前浮现出了选项： 大家在一周目的时候选择了哪一项呢？ 男木港 岛之卓（島テーブル） 当地的土特产店，常年展示作品相关的看板。 但是只有周六和周日才会开放，似乎即便是节假日也不开放样子呢。 海征食堂 一下岛就会看到的食堂。 墙面装饰了不少关于作品的海报。 这样挂满海报的店，在岛内有挺多的。 美希的铁塔 食堂旁边就是美希的铁塔。 我也好想爬上去打水枪！ 那么塔的周围是什么样的？请看全景照片！ 游戏原版OP/主视觉图 鸟白岛役场 作品还是很还原现实的。 来一张全景。 男木岛猫口袋基地 原名：男木島ねこポケの会，是原"
+  },
+  {
+    "title": "Might and Magic VII: For Blood and Honor updated",
+    "url": "https://macsourceports.com/game/mightandmagic7",
+    "date": "2026-05-19T22:56:31Z",
+    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to version 0.1 of the project"
+  },
+  {
+    "title": "Gothic II updated",
+    "url": "https://macsourceports.com/game/gothic2",
+    "date": "2026-05-19T20:21:06Z",
+    "description": "The build of OpenGothic for Gothic II has been updated to version 0.92 of the project"
+  },
+  {
+    "title": "Ubuntu 24.04 Noble 升级 Ubuntu 26.04 Resolute",
+    "url": "https://u.sb/ubuntu-upgrade-2604/",
+    "date": "2026-05-19T19:12:04Z",
+    "description": "本文将指导如何升级 Ubuntu 24.04 Noble Numbat 到 Ubuntu 26.04 Resolute Raccoon。"
+  },
+  {
+    "title": "【工具】Telegraph图片下载快捷指令",
+    "url": "https://7gugu.com/index.php/2026/05/20/%e3%80%90%e5%b7%a5%e5%85%b7%e3%80%91telegraph%e5%9b%be%e7%89%87%e4%b8%8b%e8%bd%bd%e5%bf%ab%e6%8d%b7%e6%8c%87%e4%bb%a4/",
+    "date": "2026-05-19T16:26:22Z",
+    "description": "关键词: Telegram 电报 图片下载 快捷指令 shortcut 最近在用Telegram冲浪，发现电报 … 继续阅读 “【工具】Telegraph图片下载快捷指令”"
+  },
+  {
+    "title": "Gitlab制品库实践记录",
+    "url": "https://elmagnifico.tech/2026/05/20/Gitlab-Artifacts/",
+    "date": "2026-05-19T16:00:00Z",
+    "description": "Foreword 之前理解的制品库就是把CI的中间过程进行存储，虽然也包含了最终发布的部分，但是总觉得没啥大用，就没在意。后续发现其实从工程到生产环节有很多东西都需要进行交付，之前只关注了最核心的产品内容，周边一些零碎的东西，其实也需要被统一管理。而这个时候如果有很多个仓库需要一起进行打包、管理，这个就非常复杂了，而借助CI和制品库就可以通过规则把这部分内容统一管理起来，发布时进行大包发布即可 背景 生产时需要管理的不只是单个 .bin 或者 .exe ，而是一套 已验证可一起上线 的产品组合： 硬件烧录固件（SOC、MCU、FPGA等） 测试治具固件 其它治具与工具（RFID、MAC、IP、参数等配置工具） 各组件由不同负责人维护、版本节奏不同，因此适合 GitLab 多仓库独立开发 ，再通过 manufacturing-kits + manifest 在发布时打成单一制造包，并自动生成与发布说明。 目标：组件独立迭代方式 sequenceDiagram participant Dev as 组件负责人 participant Repo as 组件 GitLab 仓库 partici"
+  },
+  {
+    "title": "20260519的胡言乱语",
+    "url": "https://www.bboy.app/2026/05/19/20260519%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
+    "date": "2026-05-19T14:55:00Z",
+    "description": "简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn"
+  },
+  {
+    "title": "永久 1TB 空间！Koofr - 支持 WebDAV 的终身免费 10G 网盘 (Rclone / 挂载 OneDrive)",
+    "url": "https://www.iplaysoft.com/p/koofr",
+    "date": "2026-05-19T12:30:05Z",
+    "description": "最近一直在为几台 VPS 服务器数据备份在烦恼，还有考虑到 NAS、电脑文件的异地备份，想找一台大硬盘的 VPS 或用 S3 云存储，但找了一圈，大空间的 VPS 年费实在都太贵了。 最近挖到了一款“冷门”的宝藏云网盘 Koofr，它不仅有永久免费不限速 10G 空间，最关键是完美支持 WebDAV 连接以及 rclone 数据同…… 「 前往查看原文.... 」 异次元首页 | 微信公众号 | 关注微博 | 软件精选 | 软件激活码折扣"
+  },
+  {
+    "title": "FE Bits Vol.34 | @antv npm 包供应链攻击，Tailwind v4.3 发布",
+    "url": "https://ysx.cosine.ren/weekly-34/",
+    "date": "2026-05-19T12:23:11Z",
+    "description": "关于本周刊 本期网址 https://blog.cosine.ren/post/weekly-34 本周刊更新时间期望是在每周天。 推荐订阅本周刊的 RSS 。 公众号 前端周周谈 FE Bits，点击阅读原文链接可查看原文。 QQ 讨论小群 598022684 / Discord 群 本周刊文章内容同时也开源在 fe-bits-weekly ，欢迎关注。 今天是 2026 年 5 月 19 日，星期二。 # 个人动态 五一给我玩爽了！还面基了砍砍和智子大佬呜呜呜，一大坨五一去日本游玩的照片，就不放在这里了，等有心情了再单独发博客吧，这期依旧短短的。 闲逛发现的正佳广场啤酒交易站 ：我什么世面没见过 ：我去，这个我是真没见过，怎么啤酒交易站什么的还有涨跌的 x 周末 和 bug 姐面基了 ！超开心！，bug 姐送的水晶超好看 ww 一些感慨 得知前司产研设计全都 n+1 了，有点唏嘘，有些感慨，有点遗憾。 唏嘘在我走在 2 月底，没有为了年终奖而再待几个月，因为我想做更有意思的事儿，走得毅然决然，无缝入职新公司了。 但是当时我完全没想象到居然会直接解散了，我走的时候还很真情实感的伤心了"
+  },
+  {
+    "title": "遂昌｜躲避人潮的五一自驾Day3 - 杜鹃",
+    "url": "https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-03.html",
+    "date": "2026-05-19T12:00:04Z",
+    "description": ""
+  },
+  {
+    "title": "AI 流式接口的pattern",
+    "url": "https://blog.est.im/2026/stdout-18",
+    "date": "2026-05-19T08:13:00Z",
+    "description": "AI 现在调用都走 OpenAI-like 接口，遇到长任务多半会走 stream=true 然后AI能力也多半会接力返回给下游，比如浏览器 那么问题来了。下游如果连接断开，是不是就意味着服务器得把AI的输出接住，然后下一次请求接着吐？ 如果下一次请求不路由到这个节点和进程，意味着接住要设计一套缓存 更麻烦的是，现代web框架一般都是请求 - 响应模式的，如果浏览器断开连接，按正常流程，后端也会抛出异常之类的中断 所以“接AI的话”这玩意实际上设计还要考虑挺多东西，很麻烦？？？ 这个问题丢给 ChatGPT它这么回答： 断了就断了，不续传。用户重新发起请求，后端重新生成，最多靠 prompt cache / KV cache / 上下文缓存降低重复成本。很多产品其实就是这么干的，因为实现成本最低。 尼玛。又学到一招。人脑还是想复杂了。 btw 吐槽一下现在 vibe coding 开发者估计很少有人会去在意这些细节了。"
+  },
+  {
+    "title": "TIL: 移除图片下方多余的空白",
+    "url": "https://taxodium.ink/til-remove-extra-empty-area-from-img.html",
+    "date": "2026-05-19T08:00:00Z",
+    "description": "TIL: 移除图片下方多余的空白 問題和原因 div style = \"border: 2px solid;\" > img src = \"/images/album/20251226T172918--梦想家-the-dreamer20241018khalilfongalbumwallimage方大同.webp\" /> div > 留意上面的图片， div 里只有一个 img 元素，但 img 没有占滿 div ，在 img 下面还空了些許高度。 這是因為 img 是行內元素 ，行內元素的特性是： 行内元素按行布局 每行都有一个基线 ( baseline ) 基线由字体决定 默认情况下，所有行内元素都与基线对齐 图1 行內元素布局示例。文字拆成了兩行。 文字本身也是行內元素，默认情况下，与基线对齐（文字底部蓝色的线就是当前的基线）。 从上面的图可以看到，行内元素默认与基线对齐，而基线和行的底部还留有一些空間，這个空間是留给像是 g、j、p、y 等笔划会延展到基线下的字符的。 图片也是行內元素， 自身没有基线，默认与文字的基线對齐 ，也就同樣在基线下保留一些空間。 解决方案 在当前场景下我"
+  },
+  {
+    "title": "推荐一个网页打印项目cups-web，告别\"远程开 Windows 发文件再打印”",
+    "url": "https://11010.net/p/docker-tools-cups-web/",
+    "date": "2026-05-19T07:40:00Z",
+    "description": "最近也没有偷懒，一直没有整理笔记，主要是没找到更惊艳的工具或话题，生产互联网垃圾伤人伤己。（ Claude Code 4.7 opus还在继续蹬 ，这篇内容是关于 NAS 打印相关的工具） 前提准备 外地 PC/手机、家庭 PVE 虚拟机已通过 WireGuard 组内网，可以正常互相访问；HP 打印机已正常联网。原来给孩子打作业都是通过 PVE 远程控制开机 Windows 虚拟机，把文件发过去再打印。 只有适合自己的方案才是最好的！！！ 家里 NAS，PVE+Ubuntu（docker 服务）+Windows(平时不开机，打印或者调试家里网络用)+NAS 服务 打印机 HP LaserJet Pro MFP m26nw 那个让我有操作的瞬间 双职工家庭，工作日白天家里只有奶奶帮忙带娃。 每周总有那么 2-4 次，剧本几乎一模一样：低年级的孩子，老师会把每天的作业发到群里，一般口算题、写字之类的是需要打印的。 然后开始我的\"远程打印仪式\"： 电脑连家里 WireGuard 进 PVE 上那台 为打印开着 的 Windows 虚拟机 Windows 上登微信，下载这张图片（顺便忍受微信"
+  },
+  {
+    "title": "倒装句是自由的产物吗？",
+    "url": "https://blog.solazy.me/20260519/",
+    "date": "2026-05-19T07:00:00Z",
+    "description": "今天聊聊作为山东人避不开的「倒装句」"
+  },
+  {
+    "title": "2026.5.18",
+    "url": "https://www.justzht.com/2026-5-18/",
+    "date": "2026-05-19T04:52:46Z",
+    "description": "周日和朋友们去 Pacifica 吃了一家海边的 Taco Bell，景色不错，可以坐在外面的露台面朝大海吃东西。然后带着 Q3 43 拍了一些"
+  },
+  {
+    "title": "品牌设计发展历史至今，最重要的十个人，和他们的故事",
+    "url": "https://www.iyeslogo.com/10-designers/",
+    "date": "2026-05-19T04:27:24Z",
+    "description": "品牌设计远不止Logo创作，而是建立信任的完整体验。"
+  },
+  {
+    "title": "Heroes of Might and Magic II updated",
+    "url": "https://macsourceports.com/game/homm2",
+    "date": "2026-05-19T04:01:18Z",
+    "description": "The build of fheroes2 for Heroes of Might and Magic II has been updated to version 1.1.16 of the project"
+  },
+  {
+    "title": "监控 IT 之家 RSS 新闻，匹配关键词后通过 ntfy.sh 推送到手机手表手环",
+    "url": "https://hellodk.cn/post/1219",
+    "date": "2026-05-19T03:24:36Z",
+    "description": "代码开源，部署简单 GitHub满足自用，如有新需求可以 fork 自己开发，比如推送到飞书机器人等。手环设置一下，也能收到推送，效果图如下。"
+  },
+  {
+    "title": "我就是想证明一下自己 II",
+    "url": "https://mobius.blog/23660.html",
+    "date": "2026-05-19T00:55:00Z",
+    "description": "说完别人，也得嘲笑一下自己。 昨天提到的那些“我就是想证明一下自己”的人，并不是在聊他们“蠢”，而是在聊人性里 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
+    "title": "周报 #109 - Be a whole person",
+    "url": "https://www.pseudoyu.com/posts/weekly_review_109",
+    "date": "2026-05-18T23:23:00Z",
+    "description": "前言 本篇是对 2026-05-04 到 2026-05-19 这两周生活的记录与思考。 Be a whole person 不知不觉间，和 AI 对话/相伴似乎已经成为了生活的一种常态，今天粗略统计了下，每天在电脑前写代码超过 12h，过去一个月单单 Claude Code 的用量就快百亿 Token，等值接近 7000 刀，还没算 Codex 和其他消耗，远远超过了和人对话的频率和时长，有种黑镜里描述的未来发生现实生活中的既视感。 感慨于不论是模型还是应用形态飞速迭代的同时，也有了一些隐隐的焦虑与恍惚，倒不只是对个体出路的未雨绸缪，而更多是对人未来价值的迷茫。曾经的工作生活似乎充满很多人与人之间的交流、Brainstorming 甚至是碰撞，而现在常常是同事提一个问题，我问我的 Agent，几分钟后，对方的 Agent 又回答了，我们在其中似乎更像是一个中转站，但也不得不无奈地承认，即使自己花上一两个小时详细推敲设计，也不见得能有更好的方案，而效率却已然低了数倍。 那随着模型再发展几年呢，还需要我们作为中转么？我很怀疑。 也常常有人说 Agent 没有人味，并不一定真正知道我们要什"
+  },
+  {
+    "title": "Ambermoon updated",
+    "url": "https://macsourceports.com/game/ambermoon",
+    "date": "2026-05-18T22:37:43Z",
+    "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.13.1 of the project"
+  },
+  {
+    "title": "VMware Workstation Pro 26H1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活)",
+    "url": "https://www.iplaysoft.com/vmware-workstation.html",
+    "date": "2026-05-18T21:40:14Z",
+    "description": "虚拟机软件 可让你在不重启电脑的情况下，在一个操作系统上同时运行多个不同的系统，譬如在 Win10 上同时运行 Ubuntu 与 Win7 ，用户可用于各种 开发 、测试或运行不同平台的软件。 VMware Workstation Pro 26H1 中文专业版功能相对免费的 VMWare Player 要丰富强大得多！新版本支持 Windows 11 ，支持 USB 3.1、TPM 2.0、蓝牙、 4K ，支持容器、兼容 Hyper-V，支持 DirectX 11 和 OpenGL 4.3 加速，3D 游戏 性能大幅提高！另还可共享或 远程 控制虚拟机等…… 「 前往查看原文.... 」 异次元还有这些值得一看： VirtualBox 7.2 最新虚拟机软件下载 - 免费开源跨平台 (支持 Win/Mac/Linux 安装多系统) VMWare Fusion Pro 26H1 - 最新苹果 Mac 免费虚拟机 (支持 M 芯片 / Win11 ARM) VMWare Player 17.5.1 中文版 - 官方免费版虚拟机软件 (支持3D游戏与Win11系统) PVE 9.1 (Pro"
+  },
+  {
+    "title": "2026年四月 读医疗卫生 小说 3本",
+    "url": "https://conge.livingwithfcs.org/2026/05/18/reading_summary/",
+    "date": "2026-05-18T20:01:00Z",
+    "description": "引子 引子 公共卫生问题关系国计民生，特指是政府所负责的医疗卫生相关的政策、法规和措施。医疗卫生事业并非天然的政府职能，而是来自私人的生存和健康需求。但随着人们的聚居，这些需求很快就不是个人能控制。比如饮用水的安全和污水处理，一家一户的时候很容易处理，但人多了就必须有合乎大众利益的安排。 《 公共卫生史 》是一本挖掘西方文明发展过程中，各个时代所面临的公共健康问题和政府的应对的书。在社区，城市，国家和国际等各个水平上，公共医疗在政府中的的职能发展、机构形成，政策变化，合作建立，是此书的主题，按照历史时间的脉络展开论述。在地缘上，此书着眼欧美，并不包含中国。为题提到中国的，是20世纪初国际医疗合作初现端倪的时候，欧洲曾对中国有些援助项目。 新中国成立之后，由于其制度性质，摒弃了私人医疗，而开展了集体化和公有化。可以说新中国的医疗问题，就是公共卫生问题。《 赤脚医生与中国乡村的现代医学 》的作者集中调查记录了1968到1985年在杭州蒋村的赤脚医生们的经历，借此描述了中国乡村存在的医疗服务的建立过程和发展变化，以及在这个过程中，西医的乡村的普及和中医的大范围退出的现象。"
+  },
+  {
+    "title": "VMWare Fusion Pro 26H1 - 最新苹果 Mac 免费虚拟机 (支持 M 芯片 / Win11 ARM)",
+    "url": "https://www.iplaysoft.com/vmware-fusion.html",
+    "date": "2026-05-18T20:00:13Z",
+    "description": "使用苹果 Mac 电脑不可避免都会遇到一些软件、硬件只能在 Windows 下使用 (如网银/行业软件/仅能兼容 IE 的网站、无 Mac 驱动的 硬件 等)，因此在 Mac 上安装 Win 是很有必要的。 曾经我们可用 BootCamp 安装双系统，但如今只能使用 虚拟机 安装。 VMWare Fusion Pro 26H1 是 Mac 下优秀高性能的虚拟机软件 (同类有 Parallels Desktop )，完美兼容最新的 macOS 和苹果 M 系列芯片，能无需重启，直接在 Mac 下同时运行 Windows 11 、 Linux 等多款系统…… 「 前往查看原文.... 」 异次元还有这些值得一看： Parallels Desktop 26 激活码 - 苹果 Mac 最新 PD 虚拟机下载 (支持Win11/macOS Tahoe) VirtualBox 7.2 最新虚拟机软件下载 - 免费开源跨平台 (支持 Win/Mac/Linux 安装多系统) VMware Workstation Pro 26H1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活) VMWare"
+  },
+  {
+    "title": "第一次做游戏插件-激战2国际服中文转换 #Guild wars 2",
+    "url": "https://anotherdayu.com/guildwars2-chinese/",
+    "date": "2026-05-18T16:54:00Z",
+    "description": "因为对《激战2》的长期喜欢，我把一次回归国际服的体验，延伸成了一个基于 Nexus 的中文转换插件尝试，也重新确认了这款游戏为什么依然值得长期停留。"
+  },
+  {
+    "title": "SugarLite 的 KMP 渐进式迁移实践",
+    "url": "https://youngxhui.top/2026/05/sugarlite-kmp-migration/",
+    "date": "2026-05-18T16:00:00Z",
+    "description": "SugarLite 最初是一个纯 iOS 应用，技术栈是 SwiftUI + MVVM + Supabase Swift SDK。随着 Android 版本的需求提上日程，如果简单地把业务逻辑复制一份到 Kotlin，后续的维护成本会成倍增长——网络层、数据模型、业务规则都要双端维护。所以我们选择了 Kotlin Multiplatform ，让 shared/ 模块承载所有跨平台业务逻辑，iOS 侧只保留 SwiftUI 和系统框架调用。 这篇文章记录整个迁移过程，从架构重构到 CI/CD 适配，踩过的坑和学到的经验。 🏗️ 迁移前的 MVVM Clean Architecture 重构 在引入 KMP 之前，我们先做了一次架构重构。核心目标很简单：让 ViewModel 不依赖任何外部框架，这样底层将来换成 Kotlin 也不会波及上层。 重构后的依赖方向： text View → ViewModel → Protocol ← Repository → External Frameworks 各层职责： 层级 目录 允许导入 约束 View Views/ SwiftUI 禁止直接访"
+  },
+  {
+    "title": "天津自驾游",
+    "url": "https://elmagnifico.tech/2026/05/19/Tianjin-Self-driving-Travel/",
+    "date": "2026-05-18T16:00:00Z",
+    "description": "Foreword 周末小米举办了天津V1国际赛车场的活动，五一前就已经报名了1节练习+1天竞速，然而天公不作美，很多安排也不如预期，就改做自驾了。 天津 V1国际赛车场 V1赛车场这次开放的是最长路段，4.2km，接近街道的赛道也给开放了，但是本质上挺危险的，V1赛车场虽然是F2级别，但是这个缓冲区的级别和凯泽差不多，没有波波池的缓冲，都是类似水泥地或者马路的缓冲区，减速可能不理想 先在模拟器连了一周，不四轮出白只能开到2分01，更快可能就有点作弊了，之前以为只是模拟器没有建模波波池，实际去了真场地，真的没有波波池，可以走偷鸡线路。 去天津之前已经基本确定了，练习日可以玩，竞速日会下雨，打算把竞速日退掉，没想到说了半天，不给退。最蠢的是官方举办的活动，竟然赛道地图没上线，要玩家现场自己画，真尼玛离谱。你练习日不行就算了，怎么竞速日也不行呢，包场2天，一个地图画不出来，这还是提前了半个多月预告的活动，真不知道在玩啥。 练习日 只报了最后一节练习，没想到那么多人，先是教练带着走线走了2圈，然后上去以后画赛道，画3圈，然后才能正式跑，这会已经掉了一些电了，人又多，根本跑不开 跑到2分10秒以"
+  },
+  {
+    "title": "车祸 XII",
+    "url": "https://mobius.blog/23665.html",
+    "date": "2026-05-18T13:33:04Z",
+    "description": "（2026-全国卷）下列哪些是提升电动车品牌效应的方法： A、通过分析起火/爆炸事故数据，改进电池安全； B、 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
+    "title": "Zine#49",
+    "url": "https://taxodium.ink/49.html",
+    "date": "2026-05-18T13:30:00Z",
+    "description": "Zine#49 🎶 嘿！岛 (Black Island) - 表情银行 MimikBanka 启明星 一定很孤独吧 孤独中 搁浅的你我啊 黑暗里 望眼欲穿向白昼 漫漫长夜 教我如何不泪流 浑浊的 黑夜赐予我疼痛 这疼痛 像雪一样正消融 睡魔啊 他唱着遗忘的歌谣 破晓时 就带走我的噩梦 哎呀呀 漫漫长夜 教我如何不泪流 闪电划破阴天 晨光驱散黑夜 在这世界的普通角落 我满不在乎地活下去 和你一起 和你一起 浑浊渐渐沉淀 一切清晰可见 在超越绝望的远方 比希望更远的地方 我等着你 拥抱你 等着你 拥抱你 ⸺ 启明星 (Phospherus) News | Article 目录 A Tale of Two Bridges by pieterh Against Interpretation by Susan Sontag Going back to the morning newspaper model by Chandru The Mystery in the Medicine Cabinet Dynomight by Asterisk On Taste by Matthias Endler"
+  },
+  {
+    "title": "R#102 移动端 Vibe Coding！",
+    "url": "https://blog.sakanano.moe/journals/random_102",
+    "date": "2026-05-18T12:00:00Z",
+    "description": "2026.5.12 ~ 2026.5.18"
+  },
+  {
+    "title": "遂昌｜躲避人潮的五一自驾Day2 - 桃源",
+    "url": "https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-02.html",
+    "date": "2026-05-18T10:56:20Z",
+    "description": ""
+  },
+  {
+    "title": "2026 音色克隆方案对比：IndexTTS-2、CosyVoice、GPT-SoVITS、Fish Speech 部署与实测",
+    "url": "https://liudon.com/posts/voice-cloning-solution-comparison/",
+    "date": "2026-05-18T07:19:23Z",
+    "description": "系统对比 IndexTTS-2、CosyVoice、GPT-SoVITS、Fish Speech 四大音色克隆方案，详解部署步骤、测试方法、硬件要求、CPU 支持、优缺点与选型建议。"
+  },
+  {
+    "title": "AI Infra：跳出数据库，看到更大的Agent Data Runtime",
+    "url": "https://luweiqing.com/gossip/no-database-Agent-Data-Runtime.html",
+    "date": "2026-05-18T06:45:21Z",
+    "description": "让数据直接成为 Agent 认知状态的一部分一、定义 Agent Data RuntimeAgent Data Runtime：一个面向 AI Agent 的状态化认知运行系统（Stateful..."
+  },
+  {
+    "title": "老板的在与不在",
+    "url": "https://blog.solazy.me/20260518/",
+    "date": "2026-05-18T05:00:00Z",
+    "description": "昨天去公司加班，老板和我说他接下来的一整周都不在公司"
+  },
+  {
+    "title": "emacs-使用use-package的:vc像melpa一样安装package快照",
+    "url": "https://blog.prayhand13013.top/20260518T120920--emacs-使用use-package的vc像melpa一样安装package快照__blog.html",
+    "date": "2026-05-18T04:09:00Z",
+    "description": ""
+  },
+  {
+    "title": "RollerCoaster Tycoon 2 updated",
+    "url": "https://macsourceports.com/game/rct2",
+    "date": "2026-05-18T03:55:13Z",
+    "description": "The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.1 of the project"
+  },
+  {
+    "title": "在 CC Switch 中配置 Claude Desktop",
+    "url": "https://youngxhui.top/2026/05/cc-switch-desktop/",
+    "date": "2026-05-18T01:00:00Z",
+    "description": "前面聊过 cc switch 的基础用法 ，今天单独说一下 CC Switch 里 Claude Desktop 面板的配置。在 3.15.0 中加入的功能，专门用来给 Claude Desktop 这个官方桌面客户端接入第三方供应商。 CC Switch 中的「Claude」和「Claude Desktop」是两个不同的面板，分别对应 Claude Code（CLI）和 Claude Desktop（桌面客户端）。区别在于 Claude Desktop 用的是自己的 3P profile 配置，而不是 ~/.claude/settings.json ，两个面板在图标右下角会有小标记区分。 功能说明 Claude Desktop 面板能做的事情很简单： 给 Claude Desktop 接入 Anthropic 兼容的第三方供应商 为 DeepSeek、Kimi、DouBao、OpenAI、Gemini 等非 Claude 模型配置模型映射 在 Claude Desktop 官方模式和第三方供应商之间一键切换 支持 macOS 和 Windows。Linux 暂时不能写入 Claude"
+  },
+  {
+    "title": "我就是想证明一下自己",
+    "url": "https://mobius.blog/23645.html",
+    "date": "2026-05-18T00:56:49Z",
+    "description": "简中社交媒体之中，我最佩服三个人：三礼、煮夫亮哥和勇哥说餐饮。我虽然不用抖音，但偶尔会在别处看到这三个人在和基 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
+    "title": "稻草人周刊 Vol.81",
+    "url": "https://www.geedea.pro/weekly/81/",
+    "date": "2026-05-18T00:10:27Z",
+    "description": "这周没读什么文章，大部分时间都花在赶项目、焦虑、把头埋在被子里哀嚎、在心里咒骂同室、焦虑、出门乱逛、路过某个场景于是触发几年前的回忆然后陷入情绪波动、做健身计划但不执行、焦虑、幻想养一只萨摩耶、在小红书上看别人养的萨摩耶、幻想开一家咖啡馆并把萨摩耶带到店里让客人陪玩、幻想早上七点半被狗狗叫醒、焦虑等一系列活动上了，所以没读什么文章。 无论如何，还是要显得有诚意一点，所以我会讨论我最近正在读的一本书，以及相关的零碎思考。 止语 The Sound of Music: 40th Anniversary Special Edition Original Soundtrack NeoDB 和朋友玩《饥荒》的时候连着麦，玩着玩着两个人就开始莫名其妙地唱起《Hamilton》和《The Phantom of The Opera》。后来我唱了一句《The Lonely Goatherd》，他没有听出来， 于是我罚他去看一百遍《The Sound of Music》 。 Anyway…… 于是我这周就把电影原声带找出来听了。不过那首《Sixteen Going On Seventeen》可真是不能拿给"
+  },
+  {
+    "title": "5.18 随想：发发牢骚",
+    "url": "https://blog.sakoamc.com/posts/26sx001/",
+    "date": "2026-05-18T00:00:00Z",
+    "description": "题记：当无聊反映为感知力的迟顿时，或许我更需要关心的是今晚的睡眠。"
+  },
+  {
+    "title": "MCP Dock：给 14 个 AI 客户端统一管配置",
+    "url": "https://folay.top/blog/mcp-dock",
+    "date": "2026-05-18T00:00:00Z",
+    "description": "做了个桌面端工具，统一管理 Cursor、VS Code、Claude Code 等客户端的 MCP 配置。"
+  },
+  {
+    "title": "Memos #2026-05-17",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-05-18T00:00:00Z",
+    "description": "11:44 codex goal 给力！ 13:04 牛肉荷包蛋 19:27 《钱专》太好听了，共情到落泪 22:33 偷偷更新了一版博客编辑能力，下周要开始写点东西了。"
+  }
+]
