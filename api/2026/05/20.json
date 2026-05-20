@@ -6,6 +6,24 @@
     "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
   },
   {
+    "title": "Bought a Quote/0",
+    "url": "https://www.bboy.app/2026/05/20/bought-a-quote/0/",
+    "date": "2026-05-20T16:13:00Z",
+    "description": "Introduction I recently got a Quote/0. It now lives on my desk collecting dust."
+  },
+  {
+    "title": "买了Quote/0",
+    "url": "https://www.bboy.app/2026/05/20/%E4%B9%B0%E4%BA%86quote/0/",
+    "date": "2026-05-20T16:13:00Z",
+    "description": "简介 最近折腾了一台 Quote/0。现在常驻桌面吃灰。"
+  },
+  {
+    "title": "20260520的胡言乱语",
+    "url": "https://www.bboy.app/2026/05/20/20260520%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
+    "date": "2026-05-20T15:50:00Z",
+    "description": "简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn"
+  },
+  {
     "title": "犯错的时候不该说什么",
     "url": "https://blog.solazy.me/20260520/",
     "date": "2026-05-20T04:00:00Z",
@@ -81,7 +99,7 @@
     "title": "Gitlab制品库实践记录",
     "url": "https://elmagnifico.tech/2026/05/20/Gitlab-Artifacts/",
     "date": "2026-05-19T16:00:00Z",
-    "description": "Foreword 之前理解的制品库就是把CI的中间过程进行存储，虽然也包含了最终发布的部分，但是总觉得没啥大用，就没在意。后续发现其实从工程到生产环节有很多东西都需要进行交付，之前只关注了最核心的产品内容，周边一些零碎的东西，其实也需要被统一管理。而这个时候如果有很多个仓库需要一起进行打包、管理，这个就非常复杂了，而借助CI和制品库就可以通过规则把这部分内容统一管理起来，发布时进行大包发布即可 背景 生产时需要管理的不只是单个 .bin 或者 .exe ，而是一套 已验证可一起上线 的产品组合： 硬件烧录固件（SOC、MCU、FPGA等） 测试治具固件 其它治具与工具（RFID、MAC、IP、参数等配置工具） 各组件由不同负责人维护、版本节奏不同，因此适合 GitLab 多仓库独立开发 ，再通过 manufacturing-kits + manifest 在发布时打成单一制造包，并自动生成与发布说明。 目标：组件独立迭代方式 sequenceDiagram participant Dev as 组件负责人 participant Repo as 组件 GitLab 仓库 partici"
+    "description": "Foreword 之前理解的制品库就是把CI的中间过程进行存储，虽然也包含了最终发布的部分，但是总觉得没啥大用，就没在意。后续发现其实从工程到生产环节有很多东西都需要进行交付，之前只关注了最核心的产品内容，周边一些零碎的东西，其实也需要被统一管理。而这个时候如果有很多个仓库需要一起进行打包、管理，这个就非常复杂了，而借助CI和制品库就可以通过规则把这部分内容统一管理起来，发布时进行大包发布即可，这些零碎的小工程也没有强耦合，可以随意发挥 背景 生产时需要管理的不只是单个 .bin 或者 .exe ，而是一套 已验证可一起上线 的产品组合： 硬件烧录固件（SOC、MCU、FPGA等） 测试治具固件 其它治具与工具（RFID、MAC、IP、参数等配置工具） 各组件由不同负责人维护、版本节奏不同，因此适合 GitLab 多仓库独立开发 ，再通过 manufacturing-kits + manifest 在发布时打成单一制造包，并自动生成与发布说明。 目标：组件独立迭代方式 sequenceDiagram participant Dev as 组件负责人 participant Repo a"
   },
   {
     "title": "20260519的胡言乱语",

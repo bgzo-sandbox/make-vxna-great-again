@@ -21,6 +21,9 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-20 | [Bought a Quote/0](https://www.bboy.app/2026/05/20/bought-a-quote/0/) | Introduction I recently got a Quote/0. It now lives on my desk collecting dust. |
+| 2026-05-20 | [买了Quote/0](https://www.bboy.app/2026/05/20/%E4%B9%B0%E4%BA%86quote/0/) | 简介 最近折腾了一台 Quote/0。现在常驻桌面吃灰。 |
+| 2026-05-20 | [20260520的胡言乱语](https://www.bboy.app/2026/05/20/20260520%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-05-20 | [犯错的时候不该说什么](https://blog.solazy.me/20260520/) | 上周日的一起小的刮擦事故，引发了一个我对于发错这不该说什么的想法 |
 | 2026-05-20 | [OPC创业范式的真相，及AI时代域名需求的隐性爆发](https://www.evan.xin/4992/) | 从"十五五"规划纲要的密集落笔，到二十余座城市的专项政策扎堆出台，OPC（One Person Company […] |
 | 2026-05-20 | [618 大招开场：百度网盘 SVIP 超级会员年卡史低价 (送哔哩B站 + 喜马)](https://www.iplaysoft.com/p/baiduwangpan-svip) | 「百度网盘」几乎是我们每天都要用到的工具，无论是下载网上别人分享的资源，还是上传自己的文件去备份，都是使用率极高的服务，同时它也是目前国内使用人数特别多的网盘。 免费用户会受到比较严重的限速，下载文件往往慢到让人怀疑人生，而超级会员则完全不限速，基本都能跑满你的带…… 「 前往查看原文.... 」… |
