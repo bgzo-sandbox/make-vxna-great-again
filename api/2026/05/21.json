@@ -15,7 +15,7 @@
     "title": "导出 Elfeed 选中条目到 GitHub Page 作为 Reading List",
     "url": "https://taxodium.ink/export-elfeed-selected-entries-to-github-page-as-reading-list.html",
     "date": "2026-05-21T15:50:00Z",
-    "description": "导出 Elfeed 选中条目到 GitHub Page 作为 Reading List 我之前一直用 elfeed 阅读订阅流，我挺满意 elfeed 的功能的，唯一的不足是手机上用不了 (懒得折腾将 Emacs 运行在 iPhone 上)。后来我安装 NetNewsWire 用一段时间，NetNewsWire 用着不错，但也存在一些问题： 我的订阅流是用一个 elfeed.org 文件维护的，纯文本编辑非常方便，比各种 UI 点击方便得多。但每次更新后，我都需要重新导入到 NetNewsWire 中，但只能新增缺少的，不会移除 elfeed.org 中没有的。如果我想完全替换成 elfeed.org 中的内容，我就得新建一个 NetNewsWire 用户分组，但这样又会造成已读标记重置。 NetNewsWire 中过滤搜索不如 elfeed 来得方便。 NetNewsWire 中星标多个文章后，不方便一次性导出。 容易陷入「流」的陷阱中，总是没事打开看看有没有更新。手机更容易访问，也更容易沉迷。习惯用 NetNewsWire 后也减少了我使用 elfeed 的频率，导致 elfeed"
+    "description": "导出 Elfeed 选中条目到 GitHub Page 作为 Reading List 我之前一直用 elfeed 阅读订阅流，我挺满意 elfeed 的功能的，唯一的不足是手机上用不了 (懒得折腾将 Emacs 运行在 iPhone 上)。后来我安装 NetNewsWire 用了一段时间，还不错，但也存在一些问题： 我的订阅流是用一个 elfeed.org 文件维护的，纯文本编辑非常方便，比各种 UI 点击方便得多。但每次更新后，我都需要重新导入到 NetNewsWire 中，但只能新增缺少的，不会移除 elfeed.org 中没有的。如果我想完全替换成 elfeed.org 中的内容，我就得新建一个 NetNewsWire 用户分组，但这样又会造成已读标记重置。 NetNewsWire 中过滤搜索不如 elfeed 来得方便。 NetNewsWire 中星标多个文章后，不方便一次性导出。 容易陷入「流」的陷阱中，总是没事打开看看有没有更新。手机更容易访问，也更容易沉迷。习惯用 NetNewsWire 后也减少了我使用 elfeed 的频率，导致 elfeed 中留着很多看过了但未标"
   },
   {
     "title": "遂昌｜躲避人潮的五一自驾Day5 - 独山",
