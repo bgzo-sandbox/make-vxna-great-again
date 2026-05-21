@@ -21,8 +21,11 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-21 | [给 caesium-image-compressor 图片压缩程序构建了 Linux AppImage v2.8.5 最新版](https://hellodk.cn/post/1220) | 欢迎使用 linux 桌面的朋友们使用，构建脚本都开源了，开源在 https://github.com/hellodk34/caesium-image-compressor原来有一个维护者 ht... |
+| 2026-05-21 | [IT桔子13周年：用 AI 和热爱，穿越周期](https://wenfeixiang.com/2026/05/happy-13-years-to-itjuzi/) | 今天是2026年5月21日，IT桔子 13 岁了，祝福我们生日快乐！ 13 这个数字，在西方文化里带着不寻常的 […] |
 | 2026-05-21 | [能不能好好说话？](https://mobius.blog/24125.html) | 昨天去楼下的理发店理发，是一个只有老板一个人开的社区小店。因为第一次来，所以也很担心跟他的沟通问题，但想着我就 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-21 | [英伟达凭借强劲的芯片销售业绩，再创季度新高](https://blog.rustfisher.com/news/nvidia-nvda-1st-quarter-earnings-report-2026-stock-20260521/) | 人工智能代理数量的爆炸式增长和数据中心计算需求的激增，推动芯片制造商第一季度营收达到 820 亿美元 |
+| 2026-05-21 | [隐私政策](https://11010.net/privacy/) | 本页说明「逍遥客」博客（https://11010.net，以下简称"本站"）如何收集、使用与保护访问者的信息。继续访问本站即表示您已阅读并同意本政策。 一、信息收集 本站本身不主动收集您的任何个人身份信息（姓名、邮箱、电话等）。但通过下列第三方服务，可能会收集到匿名的访问行为数据： Google… |
 | 2026-05-20 | [Heroes Chronicles updated](https://macsourceports.com/game/hchronicles) | The build of VCMI for Heroes Chronicles has been updated to version 1.7.4 of the project |
 | 2026-05-20 | [Heroes of Might and Magic III updated](https://macsourceports.com/game/homm3) | The build of VCMI for Heroes of Might and Magic III has been updated to version 1.7.4 of the project |
 | 2026-05-20 | [年度低价！哔哩 B 站年度大会员 + 京东 PLUS 年卡优惠 (还有电视端)](https://www.iplaysoft.com/p/bilibili-vip) | 哔哩哔哩从创立至今，逐渐已成为了年轻人超喜爱的动画视频网站了。现在无论是二次元番剧、电视剧、电影、各种有趣视频、知名UP主、学习资料等都能在 B 站找到。 丰富的番剧影视资源 + UP 主自制视频资源，没有片头广告，再加上极高人气的“弹幕”的存在，使得 B 站成为能与 爱奇艺、腾讯视频 …… 「 前… |

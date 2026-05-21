@@ -6,6 +6,18 @@
     "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
   },
   {
+    "title": "给 caesium-image-compressor 图片压缩程序构建了 Linux AppImage v2.8.5 最新版",
+    "url": "https://hellodk.cn/post/1220",
+    "date": "2026-05-21T05:36:00Z",
+    "description": "欢迎使用 linux 桌面的朋友们使用，构建脚本都开源了，开源在 https://github.com/hellodk34/caesium-image-compressor原来有一个维护者 ht..."
+  },
+  {
+    "title": "IT桔子13周年：用 AI 和热爱，穿越周期",
+    "url": "https://wenfeixiang.com/2026/05/happy-13-years-to-itjuzi/",
+    "date": "2026-05-21T04:20:06Z",
+    "description": "今天是2026年5月21日，IT桔子 13 岁了，祝福我们生日快乐！ 13 这个数字，在西方文化里带着不寻常的 […]"
+  },
+  {
     "title": "能不能好好说话？",
     "url": "https://mobius.blog/24125.html",
     "date": "2026-05-21T03:00:02Z",
@@ -16,6 +28,12 @@
     "url": "https://blog.rustfisher.com/news/nvidia-nvda-1st-quarter-earnings-report-2026-stock-20260521/",
     "date": "2026-05-21T00:29:59Z",
     "description": "人工智能代理数量的爆炸式增长和数据中心计算需求的激增，推动芯片制造商第一季度营收达到 820 亿美元"
+  },
+  {
+    "title": "隐私政策",
+    "url": "https://11010.net/privacy/",
+    "date": "2026-05-21T00:00:00Z",
+    "description": "本页说明「逍遥客」博客（https://11010.net，以下简称\"本站\"）如何收集、使用与保护访问者的信息。继续访问本站即表示您已阅读并同意本政策。 一、信息收集 本站本身不主动收集您的任何个人身份信息（姓名、邮箱、电话等）。但通过下列第三方服务，可能会收集到匿名的访问行为数据： Google Analytics ：用于统计访问量、来源、停留时长等匿名数据。 不蒜子（Busuanzi） ：用于统计页面访问次数。 Google AdSense ：用于在页面投放广告。 Twikoo 评论系统 （https://twikoo.11010.net）：当您发表评论时，会收集您主动填写的昵称、邮箱（用于 Gravatar 头像，不会公开）及评论内容。 二、Cookie 与广告 本站及上述第三方服务可能会在您的设备上写入 Cookie，用于： 记住您的偏好（如主题色、深色模式）。 统计访问行为。 由 Google 等第三方广告供应商根据您过去对本站及其他网站的访问情况投放广告。 Google 使用 Cookie 投放广告的相关说明可参阅： Google 广告与隐私政策 您可以访问 Google "
   },
   {
     "title": "Heroes Chronicles updated",
