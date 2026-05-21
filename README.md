@@ -21,6 +21,8 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-21 | [能不能好好说话？](https://mobius.blog/24125.html) | 昨天去楼下的理发店理发，是一个只有老板一个人开的社区小店。因为第一次来，所以也很担心跟他的沟通问题，但想着我就 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-05-21 | [英伟达凭借强劲的芯片销售业绩，再创季度新高](https://blog.rustfisher.com/news/nvidia-nvda-1st-quarter-earnings-report-2026-stock-20260521/) | 人工智能代理数量的爆炸式增长和数据中心计算需求的激增，推动芯片制造商第一季度营收达到 820 亿美元 |
 | 2026-05-20 | [Heroes Chronicles updated](https://macsourceports.com/game/hchronicles) | The build of VCMI for Heroes Chronicles has been updated to version 1.7.4 of the project |
 | 2026-05-20 | [Heroes of Might and Magic III updated](https://macsourceports.com/game/homm3) | The build of VCMI for Heroes of Might and Magic III has been updated to version 1.7.4 of the project |
 | 2026-05-20 | [年度低价！哔哩 B 站年度大会员 + 京东 PLUS 年卡优惠 (还有电视端)](https://www.iplaysoft.com/p/bilibili-vip) | 哔哩哔哩从创立至今，逐渐已成为了年轻人超喜爱的动画视频网站了。现在无论是二次元番剧、电视剧、电影、各种有趣视频、知名UP主、学习资料等都能在 B 站找到。 丰富的番剧影视资源 + UP 主自制视频资源，没有片头广告，再加上极高人气的“弹幕”的存在，使得 B 站成为能与 爱奇艺、腾讯视频 …… 「 前… |
@@ -134,17 +136,6 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-14 | [种子](https://mobius.blog/23592.html) | 在咖啡厅码字时，老是觉得右手手臂有一个奇怪的、游离的刺痛感。起初我并没有在乎它，等到码完一篇东西后，我才开始细 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-14 | [2026 前端技术选型对比-AI版本](https://liwenkang.space/blog/2026前端技术选型对比) | 2026 年 5 月，对主流前端技术栈的横向对比，覆盖框架、构建工具、状态管理、CSS 方案和测试体系。 |
 | 2026-05-14 | [怎么写出 AI 修改友好的前端代码-AI版本](https://liwenkang.space/blog/怎么写出AI修改友好的前端代码) | 面向 2026 年 AI 编程工具的前端代码最佳实践：不是让 AI 从 0 到 1 无约束发挥，而是由人搭好工程边界，让 AI 在清晰架构、类型、测试和任务约束内高效修改。 |
-| 2026-05-13 | [AstraFlow星图大模型“算力超市”的羊毛来了！](https://www.evan.xin/4988/) | AstraFlow 星图是优刻得 (UCloud) 推出的企业级一站式 AI 开发平台，整合模型服务平台（原 […] |
-| 2026-05-13 | [创作、交易与精神独立](https://blog.solazy.me/20260513/) | 由一段冷酷类比，引发我对独立博客精神独立与职业焦虑的再思考 |
-| 2026-05-13 | [从零构建 A 股 ETF 动量轮动系统：一个量化新手的完整指南](https://wu.run/posts/build-etf-momentum-rotation-system-from-scratch/) | 一个基于 A 股 ETF 的量化交易信号系统。它会自动分析 13 只 ETF 的历史走势，找出当前最强的几只买入，弱的卖出，同时内置多重风险控制。支持历史回测、参数优化、每日实盘信号推送。 重要声明 本项目源代码不对外公开，仅供内部学习和研究使用。 原因： 量化策略具有高度风险性。 过去的回测表现不… |
-| 2026-05-13 | [JDK1.8报错Illegal key size处理](https://blog.wo0ow.com/37002.html) | 使用的JDK 1.8版本，项目中日志报错信息 Illegal key size |
-| 2026-05-13 | [把博客切换到 Jant](https://www.owenyoung.com/jant) | 好吧，为了更爽地写博客，我居然做了一个开源博客系统：Jant 🫡 已经用了一段时间了(旧博客放在这里），目前基本没遇到什么问题，所以我把主站域名也切换到目前的 Jant 博客。关于 Jant 本身的介绍可以看这里，对我自己来说，我也把 Jant 看成是之前想像的公开笔记 Everentry 的实现。… |
-| 2026-05-13 | [微信支付v3平台证书过期启用公钥平滑切换](https://blog.wo0ow.com/1389.html) | 收到平台证书过期通知应如何处理? <a href=" |
-| 2026-05-13 | [豆包输入法 - 免费清爽无广告的手机电脑 AI 语音输入法 (识别准确/中英混输/双拼)](https://www.iplaysoft.com/doubao-shurufa.html) | 有没有觉得，现在的 输入法 越来越让人“爱恨交加”？系统自带的不够好用，第三方输入法既臃肿，又广告弹窗满天飞，会员功能一大堆，真正好用的核心功能似乎也没啥突破。 尤其是 语音输入 ，大多数输入法识别出的文字都很“毛躁”，得花更多时间修改，效率没提高反而更心累。不过，最近字节跳动发布了基于 AI 大模… |
-| 2026-05-13 | [唐宋之变](https://blog.est.im/2026/stderr-16) | 今天午饭，突然想到一个话题，就跟AI聊了一下，感觉挺有意思的 如果用罗马视角代入唐宋之变，有点像东罗马偏安一隅，然后自废武功，然后被蛮族吞掉？ 在得到AI差不多的肯定之后，我又提出： 其实古典罗马就是一群军事贵族，先有罗马王后有元老院共和。六镇 关陇 魏博 本质上一回事 还没等到AI掰扯完，我就迫不… |
-| 2026-05-13 | [那些令人反感的“我不提供观点”](https://mobius.blog/23587.html) | 前两天，一个朋友向我抱怨，他所在的学习小组里，有一个总是把“我只是提供视角，我不提供观点”挂在嘴边的“嘉豪”， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-13 | [Ubuntu22下安装DM数据库](https://blog.wo0ow.com/22899.html) | 部分参考博客： DM8在Ubuntu上的安装部署 系统环境 Ubuntu 22 |
-| 2026-05-13 | [《随兴旅》圣地巡礼之高松玉藻城](https://www.wikimoe.com/post/b-teto449f) | 2026年5月4日天气阴，今天去高松进行《随兴旅》的圣地巡礼。 开局小插曲 此次行程的线路是从东京乘坐新干线到冈山，然后在冈山乘坐快速电车到高松。 结果那一天濑户大桥的风特别大，导致电车停运。一直到了下午才通车，属于是有惊无险了。 不过毕竟是大风天，在大风天乘坐电车驶过濑户大桥的时候，摇晃伴随大风呼… |
 
 ## Vibe Coding
 
