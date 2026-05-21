@@ -21,6 +21,8 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-21 | [不想啃骨头的流浪狗](https://www.geedea.pro/article/stray-once-again/) | 我无缘无故地盯着镜子里的人看了好久，看着斜挎包的肩带在衬衫上留下的一道汗渍，感到汗水和难以命名的烦躁情绪打湿了我最喜欢的一件衣服。我审视面前的这张脸，审视凌乱的头发和难以辨认的面部轮廓，我看不懂他在想什么。我和自己好像陌生人，而我们又如此熟悉。在熟悉的关系里突然察觉到陌生感，真是可怕。 前几日有读者… |
+| 2026-05-21 | [路径依赖](https://blog.est.im/2026/stderr-19) | 最近vibe了个分布式系统，没有 master 和 arbiter，全是平等的peer 然后这些peer去处理流量问题。 处理多个事情，当流量爆发，承载能力不足的时候，需要快速补足peer 扩容是个最简单，很强烈，明确的信号，而且效果立竿见影。 当事情没那么多，流量下降之后呢？该节约哪个peer？你… |
 | 2026-05-21 | [给 caesium-image-compressor 图片压缩程序构建了 Linux AppImage v2.8.5 最新版](https://hellodk.cn/post/1220) | 欢迎使用 linux 桌面的朋友们使用，构建脚本都开源了，开源在 https://github.com/hellodk34/caesium-image-compressor原来有一个维护者 ht... |
 | 2026-05-21 | [IT桔子13周年：用 AI 和热爱，穿越周期](https://wenfeixiang.com/2026/05/happy-13-years-to-itjuzi/) | 今天是2026年5月21日，IT桔子 13 岁了，祝福我们生日快乐！ 13 这个数字，在西方文化里带着不寻常的 […] |
 | 2026-05-21 | [能不能好好说话？](https://mobius.blog/24125.html) | 昨天去楼下的理发店理发，是一个只有老板一个人开的社区小店。因为第一次来，所以也很担心跟他的沟通问题，但想着我就 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -33,6 +35,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-20 | [翻译-Bitwarden的静默革新](https://blog.prayhand13013.top/20260521T014604--翻译-bitwarden的静默革新__blog.html) |  |
 | 2026-05-20 | [Bought a Quote/0](https://www.bboy.app/2026/05/20/bought-a-quote/0/) | Introduction I recently got a Quote/0. It now lives on my desk collecting dust. |
 | 2026-05-20 | [买了Quote/0](https://www.bboy.app/2026/05/20/%E4%B9%B0%E4%BA%86quote/0/) | 简介 最近折腾了一台 Quote/0。现在常驻桌面吃灰。 |
+| 2026-05-20 | [奥美品牌定位有感](https://elmagnifico.tech/2026/05/21/Ogilvy-Brand/) | Foreword 之前参与了一下奥美的品牌定位会议，感觉还挺有意思的，至少在做事的方法论上还是可以的，记录一下 Ogilvy https://www.ogilvy.com/cn/ 奥美（Ogilvy）是全球知名的营销传播集团，1948 年由“广告教父”大卫·奥格威（David Ogilvy）在纽约创… |
 | 2026-05-20 | [20260520的胡言乱语](https://www.bboy.app/2026/05/20/20260520%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-05-20 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.2 of the project |
 | 2026-05-20 | [遂昌｜躲避人潮的五一自驾Day4 - 焦滩](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-04.html) |  |
