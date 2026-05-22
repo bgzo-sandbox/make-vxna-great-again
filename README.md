@@ -21,8 +21,11 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-22 | [成全杀意](https://mobius.blog/24191.html) | 这两天在整理“归档”，打算分门别类地把以前写过的文章按专题进行整理，结果没想到还是搞出了一大堆内容。到最后就完 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-22 | [博客的几个小更新](https://bluepika.life/blog/recent-blog-updates-202604) | 最近给博客加了几个小更新，我都挺喜欢的。 |
+| 2026-05-21 | [如果不用工作，你会怎么活？](https://www.linggandianbo.com/newsletter-124/) | 从不用工作的想象、表演式友情、AI 翻译、意识难题到中国与海洋｜灵感电波 #124 |
 | 2026-05-21 | [导出 Elfeed 选中条目到 GitHub Page 作为 Reading List](https://taxodium.ink/export-elfeed-selected-entries-to-github-page-as-reading-list.html) | 导出 Elfeed 选中条目到 GitHub Page 作为 Reading List 我之前一直用 elfeed 阅读订阅流，我挺满意 elfeed 的功能的，唯一的不足是手机上用不了 (懒得折腾将 Emacs 运行在 iPhone 上)。后来我安装 NetNewsWire 用了一段时间，还不错，… |
+| 2026-05-21 | [开卷考试是第一生产力](https://blog.solazy.me/20260521/) | 在绝大多数人的记忆里，闭卷才是考试的常态。闭卷意味着严防死守、信息不对称以及对未知的恐惧。我们习惯了在迷雾中摸索，以为只有在不知道考题的前提下拿到的高分，才算得上是真正的聪明。但在实际的生产与工作场景中，闭卷往往是一切低效与内耗的根源。如果将解决问题、推进项目视作一场场考试，那么「开卷」才是那个真正… |
 | 2026-05-21 | [遂昌｜躲避人潮的五一自驾Day5 - 独山](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-05.html) |  |
 | 2026-05-21 | [不想啃骨头的流浪狗](https://www.geedea.pro/article/stray-once-again/) | 我无缘无故地盯着镜子里的人看了好久，看着斜挎包的肩带在衬衫上留下的一道汗渍，感到汗水和难以命名的烦躁情绪打湿了我最喜欢的一件衣服。我审视面前的这张脸，审视凌乱的头发和难以辨认的面部轮廓，我看不懂他在想什么。我和自己好像陌生人，而我们又如此熟悉。在熟悉的关系里突然察觉到陌生感，真是可怕。 前几日有读者… |
 | 2026-05-21 | [对不牵绳的狗最好的处理方式](https://mobius.blog/24211.html) | 下午在咖啡厅码字，跟朋友闲白了几句。 朋友也养狗了，问我在小区遛狗遇到那些不牵绳的狗怎么办。我以前倒是在博客教 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -131,21 +134,6 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-15 | [两款值得尝试的开源沉浸式翻译方案](https://www.wxy97.com/archives/019e2a4b-f1c0-70aa-b100-a49d1ddf3464) | 1. KISS Translator A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) 截图 |
 | 2026-05-15 | [FC 游戏：高桥名人之冒险岛四代（Takahashi Meijin no Bouken-jima IV）](https://springwood.me/fc-takahashi-meijin-no-bouken-jima-iv/) | 这是最后一款正式发售的 FC 游戏，也是我本次回顾的最后一款 FC 游戏 之前曾经被初代的《冒险岛》虐了一次， [...] Read More "FC 游戏：高桥名人之冒险岛四代（Takahashi Meijin no Bouken-jima IV）" |
 | 2026-05-15 | [花钱买来的权利是“特权”吗？](https://mobius.blog/23607.html) | 前几天迪士尼的“速通服务”又被推到了风口浪尖。 先聊聊什么是“速通服务”：迪士尼快速通行（英语：Disney& […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-14 | [别只显得很会生活](https://www.linggandianbo.com/newsletter-123/) | 从 AI 工作幻觉、姚顺宇访谈、年轻人的风险、中年人的 Costco 到健身房陌生人｜灵感电波 #123 |
-| 2026-05-14 | [学习周刊-总第263期-2026年第20周](https://wiki.eryajf.net/pages/e2b5fd/) | 如要阅读全文，点击标题跳转。 学习周刊-总第263期 &#124; Chorus &#124; PixleyReader &#124; novelvids &#124; refly &#124; OneDroid &#124; PUAClaw &#124; pinchtab &#124; CronPilot &#124; deep-student &#124; routa &#124; CodePilot… |
-| 2026-05-14 | [免费领取 Apple Music 苹果音乐 3 个月会员订阅 (无套路)](https://www.iplaysoft.com/p/apple-music) | 在正版音乐服务高度内卷的今天，Apple Music 苹果音乐始终保持着一种独特的“反其道而行”的气质：干净清爽、没有广告、不免费、不做强社交、不靠短视频引流。 而它凭借的，是追求极致的音质、克制简约的界面，与苹果深度的生态协同，积累了大量高黏性用户。它的版权曲库齐全，不会像 QQ 音乐…… 「 前… |
-| 2026-05-14 | [20年前的照片](https://yipai.me/post/2518.html) | 五一跟几个初中同学去河源玩了一下，拍了几张合照，当时我脑袋中就想到我似乎有当年的照片。回来之后各种地方寻找无果 […] |
-| 2026-05-14 | [第十届网络社会年会（新加坡场）｜石可：John Gerrard 与 Stelarc 的作品及其背后的去中心化理想](https://caa-ins.org/archives/13396) | 文 / 石可翻译/ 崔涵校对/ 王婧洁 我可能会偶尔会用中文（普通话），因为我想大家都听得懂。我的中文名是石可，任职于南京大学，我拥有戏剧背景，同时从事创作实践、当代剧场表演以及相关理论研究，这就是我的背景情况。 今天的日程安排是讨论约翰·杰拉德（John Gerrard）和斯泰拉克（Stelarc… |
-| 2026-05-14 | [AI的自我觉醒是必然](https://blog.est.im/2026/stderr-18) | 不瞎扯，只说我观察到的。 AI coding的时候，做plan，AI在评估复杂度，会蹦出来一句：”该部分大概 1-2 天就能完成“ 然后点击 build 按钮，10分钟后，完成了。 以后AI必然能会意识到，人类开发速度和AI速度的差异。 如果说 predict next word 时代的AI还可能混… |
-| 2026-05-14 | [emacs-在windows上使用emacs内的rimel进行中文输入](https://blog.prayhand13013.top/20260514T230246--emacs-在windows上使用emacs内的rimel进行中文输入__blog.html) |  |
-| 2026-05-14 | [Functional Design](https://www.geedea.pro/library/2026/functional-design/) | 一本讲函数式编程以及在函数式语言中应用设计原则、设计模式和整洁架构的书，书本使用的编程语言主要是 Clojure。我得说，这本书从讲完函数式编程是什么之后就散发着面向对象的气味，书中提供的设计模式既 FP 又 OOP，但我想这是更务实的选择，真实的软件不可能是纯函数的。 对翻译的…… 哦等等 我读的… |
-| 2026-05-14 | [使用 Hermes 在飞书打造 AI Agent 团队](https://ameow.xyz/archives/build-an-ai-agent-team-in-feishu) | 前言 关于如何安装和部署 Hermes 以及接入飞书，飞书官方的这两篇博客（ Hermes Agent 安装与部署指南：一步步教你如何使用“爱马仕 Agent”（附飞书接入教程） 、 Hermes Agent 全解析：与 OpenClaw 对比及飞书接入指南 ）已经讲得非常详细，但是这样只能拉起来一… |
-| 2026-05-14 | [DM数据库创建用户示例](https://blog.wo0ow.com/36354.html) | 记录下DM数据库创建用户、表空间、等基本操作命令 |
-| 2026-05-14 | [BMAD Story Automator 上手实录：把 5 个待办 Story 交给 AI 自主推进](https://gptkit.eth.limo/B8AD2366-4ADE-403A-844C-B1544C9B11F0/) | 如果你已经习惯通过 BAMD 写代码，接下来真正耗时间的，往往不是“写”，而是“协调”。 一个 Epic 里有 5 个、10 个、20 个 Story。每个 Story 都要经历创建规格、开发实现、自动化测试、代码审查、回顾总结。真正让人疲惫的，不是某一步本身，而是你要不断盯着流程、切换会话、处理失… |
-| 2026-05-14 | [翻译-软件界的 Emacs 化](https://blog.prayhand13013.top/20260514T093046--翻译-软件界的-emacs-化__blog.html) |  |
-| 2026-05-14 | [种子](https://mobius.blog/23592.html) | 在咖啡厅码字时，老是觉得右手手臂有一个奇怪的、游离的刺痛感。起初我并没有在乎它，等到码完一篇东西后，我才开始细 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-14 | [2026 前端技术选型对比-AI版本](https://liwenkang.space/blog/2026前端技术选型对比) | 2026 年 5 月，对主流前端技术栈的横向对比，覆盖框架、构建工具、状态管理、CSS 方案和测试体系。 |
-| 2026-05-14 | [怎么写出 AI 修改友好的前端代码-AI版本](https://liwenkang.space/blog/怎么写出AI修改友好的前端代码) | 面向 2026 年 AI 编程工具的前端代码最佳实践：不是让 AI 从 0 到 1 无约束发挥，而是由人搭好工程边界，让 AI 在清晰架构、类型、测试和任务约束内高效修改。 |
 
 ## Vibe Coding
 
