@@ -22,9 +22,9 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
 | 2026-05-24 | [一个极简且免费的 IP 地址查询服务](https://hzzio.top/blog/goip) | 一个基于 Merged-IP-Data 数据库，极简的 IP 地址查询服务，支持并发以及多语言、简化输出格式。 |
+| 2026-05-23 | [跨境炒股被重锤，我选择硬扛](https://krya.com/post/futu/) | 2020年我开了老虎证券；同时也开了美国华美银行账户，但是这个银行账户的维护成本过于高昂，后来就关闭了。 25年2月，又陆续开了富途证券、长桥证券、盈透证券（IBKR），还办了一堆香港银行卡。 其实我开这些账户，并没有大额跨境转账的需求。虽然有过当数字游民的想法，但并没有付诸实践。我的生活、家庭、收… |
 | 2026-05-23 | [一张图看懂 Hermes 的自我进化机制](https://gptkit.eth.limo/B9F19D05-1F8B-437D-BEBB-E0389DA8EBF7/) | 想深入了解, 可以阅读下面关于Hermes自进化的系列文章: 从 Memory、Skill 到 Background Review，完整拆解 Hermes 的自进化架构。 https://blog.suchuanyi.dev/posts/hermes-self-evolution-1-overvie… |
 | 2026-05-23 | [为什么说设计师也是吃青春饭的？](https://www.iyeslogo.com/who-kill-old-designers/) | 设计行业普遍存在35岁以上设计师稀少的现象，这并非个人能力问题，而是商业逻辑下的必然结果。 |
-| 2026-05-23 | [跨境炒股被重锤，我选择硬扛](https://krya.com/post/futu/) | 2020年我开了美国华美银行账户，但是这个账户的维护成本过于高昂，后来就关闭了。 2021年开了老虎证券。 今年2月，又陆续开了富途证券、长桥证券、盈透证券（IBKR），还办了一堆香港银行卡。 其实我开这些账户，并没有大额跨境转账的需求。虽然有过当数字游民的想法，但并没有付诸实践。我的生活、家庭、收… |
 | 2026-05-23 | [我的车](https://hux.ink/posts/%E6%88%91%E7%9A%84%E8%BD%A6/) | 五月还没过完，在 A 股这个修罗场，不变的是焦虑和持续的追涨杀跌。 突发奇想，把五月份每日的持仓盈亏换算对应成汽车热销榜上的那些车型，看看分别是提回来或者送出去什么车。把这些折磨心神的数字，变成一张“五月车市对账单”。 交易日期 当日盈亏 (元) 盈亏属性 对应 2026 销量榜车型 心理活动复盘… |
 | 2026-05-23 | [妈妈的问候](https://kaix.in/2026/0523/) | 我时常庆幸自己还不必为父母的健康担忧；但是昨天去我妈家的时候，她问我「你身体还好吧」的时候，我一时语塞。随即意识到：健康问题肯定已经在她的生活中占很大比重，而我自己也到了需要被这样关心的年纪了。人的身体真是个累赘，但也是这个累赘让人与世界连结。 fin. 激赏 ！ 来信 。 |
 | 2026-05-23 | [小丑](https://mobius.blog/24283.html) | 人们总是喜欢嘲笑跳梁小丑， 可他跳过了梁， 却有一群观众为他鼓掌。 他在嘲笑跳梁小丑时， 但他跳不过梁， 却渴 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -33,6 +33,8 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-23 | [Rescuing a Bricked 360T7 Router via UART After a DDR3 RAM Upgrade](https://blog.qzydustin.com/posts/rescuing-bricked-360t7-uart-after-ddr3-ram-upgrade/) | A memory-modded 360T7 ran fine for years until I flashed OpenWrt's bl2 and fip, which bricked it with dram size: 0MB . Every rescue package found onli… |
 | 2026-05-23 | [Memos #2026-05-22](https://www.taober.blog/memos) | 20:44 社会科真得再进步进步，难顶。 |
 | 2026-05-22 | [听播客学到的东西](https://lachaise.xyz/2026/podcast-quotes/) | 几年前，在 blog 里写过当初学机器学习原理的时候领悟到的一件事情。机器学习模型「学习」的过程是随机启动一系列权重，基于输入数据猜测一个输出，再与标准答案对比。这个过程中，最重要的步骤是「反向传播」(back propagation)，也就是犯错误之后，从结果一步一步追溯推导的过程，并调整各个步骤… |
+| 2026-05-22 | [Evening Run](https://tianheg.co/posts/evening-run-en/) | I got off work at 5:30, went home, changed into a sleeveless shirt, shorts, and running shoes, and headed out for a run on Phoenix Mountain across the… |
+| 2026-05-22 | [傍晚跑步](https://tianheg.co/posts/evening-run/) | 五点半下班，回家换上无袖衫、短裤和运动鞋，去对面的凤凰山跑步。走在路上，想着接下来的事情。当一个人长久地处在一个不那么好的环境中，人的心态会变得消极，人的行为会渐渐地无节制，人的身体与精神会日渐萎靡，自我伤害的行为一个接一个地。出现。这是一个恶性循环，如果不及时打破，待到无法挽回时悔之晚矣。 伴随着… |
 | 2026-05-22 | [什么是好的用户体验](https://blog.solazy.me/20260522/) | 在讨论用户体验时，我们往往容易被那些最直观的输入所吸引。一个流畅的转场动效、一套符合最新设计趋势的拟物或扁平视觉、一张充满质感的黑金卡片特效。这些能够被视网膜捕捉到的瞬间，通常被归为感官体验。 感官上的好体验当然重要，它是产品传递品牌温度和精致感的第一媒介。以华润旗下的会员体系 App「一点万象」为… |
 | 2026-05-22 | [Lesson 24 原初核合成](https://physnya.top/GR/lesson-24-bbn/) | 广义相对论的最开始实验验证的尺度大约是 AU \text{AU} AU 量级，也就是星系内的尺度；但是后面宇宙学至少需要银河系的尺度，也就是 20 kpc 20\text{ kpc} 20 kpc 左右，前者是 10 8 km 10^8\text{ km} 1 0 8 km 左右，后者达到了 10… |
 | 2026-05-22 | [Lesson 12 Resonance & 3-Body](https://physnya.top/star-planet/lesson-12-resonance/) | Resonance 以 3 : 2 3:2 3 : 2 为例，resonance angle 是 ϕ 12 = 3 λ 2 − 2 λ 1 − ω 2 \phi{12}=3\lambda2-2\lambda1-\omega2 ϕ 12 ​ = 3 λ 2 ​ − 2 λ 1 ​ − ω 2 ​ (其… |
