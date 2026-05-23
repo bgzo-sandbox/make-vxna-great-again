@@ -12,6 +12,24 @@
     "description": "一个基于 Merged-IP-Data 数据库，极简的 IP 地址查询服务，支持并发以及多语言、简化输出格式。"
   },
   {
+    "title": "一张图看懂 Hermes 的自我进化机制",
+    "url": "https://gptkit.eth.limo/B9F19D05-1F8B-437D-BEBB-E0389DA8EBF7/",
+    "date": "2026-05-23T13:03:45Z",
+    "description": "想深入了解, 可以阅读下面关于Hermes自进化的系列文章: 从 Memory、Skill 到 Background Review，完整拆解 Hermes 的自进化架构。 https://blog.suchuanyi.dev/posts/hermes-self-evolution-1-overview"
+  },
+  {
+    "title": "为什么说设计师也是吃青春饭的？",
+    "url": "https://www.iyeslogo.com/who-kill-old-designers/",
+    "date": "2026-05-23T10:24:16Z",
+    "description": "设计行业普遍存在35岁以上设计师稀少的现象，这并非个人能力问题，而是商业逻辑下的必然结果。"
+  },
+  {
+    "title": "跨境炒股被重锤，我选择硬扛",
+    "url": "https://krya.com/post/futu/",
+    "date": "2026-05-23T08:00:00Z",
+    "description": "2020年我开了美国华美银行账户，但是这个账户的维护成本过于高昂，后来就关闭了。 2021年开了老虎证券。 今年2月，又陆续开了富途证券、长桥证券、盈透证券（IBKR），还办了一堆香港银行卡。 其实我开这些账户，并没有大额跨境转账的需求。虽然有过当数字游民的想法，但并没有付诸实践。我的生活、家庭、收入和支出，都在内地，暂时无法抽身。 我有一个癖好，喜欢集卡，收集许多奇奇怪怪的账户。只要没有太高的门槛，花十几二十分钟就能搞定的，我都喜欢开一个。为了管理几百个账户和随机密码，还专门买了 1Password。我也喜欢收集各种邮箱后缀，囤一些简短的域名——包括你现在看到的这个博客域名，花了几千块钱买的，是我写作上第二贵的投入。 不过早点收集确实有好处。很多东西刚刚兴起的时候，大门是敞开的；等人多了，路就慢慢被堵死了。就像中国电信澳门的学生套餐，当年随便办一张，没想到用了四五年都舍不得换；比如 DMIT 的主机，用着用着就成了绝版；也像不久前买的 Mac mini，现在俨然成了理财产品。 昨天下午收盘后，看到中国政府重拳打击跨境炒股和跨境理财的消息，心里一凉。因为我在富途证券融资重仓小米，目前浮"
+  },
+  {
     "title": "我的车",
     "url": "https://hux.ink/posts/%E6%88%91%E7%9A%84%E8%BD%A6/",
     "date": "2026-05-23T06:59:00Z",
@@ -34,6 +52,18 @@
     "url": "https://xiaket.github.io/2026/pensieve-2605.html",
     "date": "2026-05-23T00:40:00Z",
     "description": "所读所观所玩"
+  },
+  {
+    "title": "Implementing Dual-Partition Sysupgrade for the 360V6 Router on OpenWrt",
+    "url": "https://blog.qzydustin.com/posts/implementing-dual-partition-sysupgrade-360v6-openwrt/",
+    "date": "2026-05-23T00:00:00Z",
+    "description": "The 360V6 ships with an A/B dual-partition design, but after flashing OpenWrt, sysupgrade only writes to the current partition while OEM remnants on the alternate partition cause upgrade failures. After figuring out the bootconfig slot mechanism, I submitted dual-partition upgrade support to OpenWrt upstream, which has since been merged."
+  },
+  {
+    "title": "Rescuing a Bricked 360T7 Router via UART After a DDR3 RAM Upgrade",
+    "url": "https://blog.qzydustin.com/posts/rescuing-bricked-360t7-uart-after-ddr3-ram-upgrade/",
+    "date": "2026-05-23T00:00:00Z",
+    "description": "A memory-modded 360T7 ran fine for years until I flashed OpenWrt's bl2 and fip, which bricked it with dram size: 0MB . Every rescue package found online failed. Eventually I traced the issue to a DDR3 frequency mismatch in the ATF source, compiled a custom bl2, and recovered the router via UART."
   },
   {
     "title": "Memos #2026-05-22",
