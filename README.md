@@ -21,6 +21,9 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-23 | [小丑](https://mobius.blog/24283.html) | 人们总是喜欢嘲笑跳梁小丑， 可他跳过了梁， 却有一群观众为他鼓掌。 他在嘲笑跳梁小丑时， 但他跳不过梁， 却渴 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-05-23 | [Pensieve: 2605](https://xiaket.github.io/2026/pensieve-2605.html) | 所读所观所玩 |
+| 2026-05-23 | [Memos #2026-05-22](https://www.taober.blog/memos) | 20:44 社会科真得再进步进步，难顶。 |
 | 2026-05-22 | [听播客学到的东西](https://lachaise.xyz/2026/podcast-quotes/) | 几年前，在 blog 里写过当初学机器学习原理的时候领悟到的一件事情。机器学习模型「学习」的过程是随机启动一系列权重，基于输入数据猜测一个输出，再与标准答案对比。这个过程中，最重要的步骤是「反向传播」(back propagation)，也就是犯错误之后，从结果一步一步追溯推导的过程，并调整各个步骤… |
 | 2026-05-22 | [WD-40品牌发展史](https://www.iyeslogo.com/wd-40-branding/) | WD-40现销往176个国家，年营收超5亿美元，成为横跨工业与家庭领域的多用途产品传奇。 |
 | 2026-05-22 | [成全杀意](https://mobius.blog/24191.html) | 这两天在整理“归档”，打算分门别类地把以前写过的文章按专题进行整理，结果没想到还是搞出了一大堆内容。到最后就完 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -100,7 +103,6 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-18 | [稻草人周刊 Vol.81](https://www.geedea.pro/weekly/81/) | 这周没读什么文章，大部分时间都花在赶项目、焦虑、把头埋在被子里哀嚎、在心里咒骂同室、焦虑、出门乱逛、路过某个场景于是触发几年前的回忆然后陷入情绪波动、做健身计划但不执行、焦虑、幻想养一只萨摩耶、在小红书上看别人养的萨摩耶、幻想开一家咖啡馆并把萨摩耶带到店里让客人陪玩、幻想早上七点半被狗狗叫醒、焦虑等… |
 | 2026-05-18 | [5.18 随想：发发牢骚](https://blog.sakoamc.com/posts/26sx001/) | 题记：当无聊反映为感知力的迟顿时，或许我更需要关心的是今晚的睡眠。 |
 | 2026-05-18 | [MCP Dock：给 14 个 AI 客户端统一管配置](https://folay.top/blog/mcp-dock) | 做了个桌面端工具，统一管理 Cursor、VS Code、Claude Code 等客户端的 MCP 配置。 |
-| 2026-05-18 | [Memos #2026-05-17](https://www.taober.blog/memos) | 11:44 codex goal 给力！ 13:04 牛肉荷包蛋 19:27 《钱专》太好听了，共情到落泪 22:33 偷偷更新了一版博客编辑能力，下周要开始写点东西了。 |
 | 2026-05-17 | [探访日本的"鬼岛" 《Summer Pockets REFLECTION BLUE》 圣地巡礼之女木岛](https://www.wikimoe.com/post/b-tf4ohxj8) | 2026年5月5日，天气晴，今天启程出发巡礼 《Summer Pockets REFLECTION BLUE》的女木岛和男木岛。 本篇为女木岛篇。 如何前往女木岛/男木岛 前往女木岛 / 男木岛，最常用方式是从高松港搭乘雌雄岛海运渡轮「めおん」。 路线 高松港 → 女木岛 → 男木岛 回程为男木岛… |
 | 2026-05-17 | [Your New Tab：把常用的 AI 搜索放进新标签页](https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/) | 指挥 Claude 和 Codex 折腾了一个开源浏览器扩展 Your New Tab，把新标签页改成 AI 搜索入口，一次输入后可以发给 Google AI Search、Grok Search、Metaso、X Search 等服务。 |
 | 2026-05-17 | [系统升级变味了](https://blog.bgzo.cc/20260413-update-system-is-not-always-good.html) | 不知道从什么时候开始，升级系统变得听起来不那么美好了，十多年前，我还在用红米 1s 的时候，就一直期待系统升级，那么时候我还以为这个手机可以一直得到升级维护。 直到几年后的某天，我发现自己再也安装不了新的应用，安装的时候提醒一句：安卓版本过低的时候，我才发现，原来红米早就终止了这台手机的维护。 后来… |
@@ -129,13 +131,6 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-16 | [微信读书Skill + IMA Copilot教程](https://www.nodealpha.me/Essay-WeReaderSkill.html) | 1 微信读书升级到 10.1.1版本 。重要，这个版本才有Skill，不是这个版本就手动检查更新下。 2 打开 […] |
 | 2026-05-16 | [博客折腾记：手搓一个Astro NeoDB 书影音卡片](https://blog.sakoamc.com/posts/26zt01/) | 题记：博客也得伤筋动骨地简单折腾一番。 |
 | 2026-05-16 | [2026年第19、20周](https://blog.sakoamc.com/posts/261920/) | 题记：昨天已经过去，明天尚未到來，今天仍是未知。 |
-| 2026-05-15 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.23 of the project |
-| 2026-05-15 | [烂而不自知的人](https://blog.solazy.me/20260515/) | 最近遇到了一类人，可以让我写一篇文章 |
-| 2026-05-15 | [2026.5.15](https://www.justzht.com/2026-5-15/) | 加了一会班发了个 PR，然后瞄了眼日历才想起来明天早上九点钟要去另外一个办公楼见人开会，而现在已经凌晨一 |
-| 2026-05-15 | [SVG 时钟](https://blog.est.im/2026/stdout-16) | 一个奇怪的想法： GitHub Profile README、邮件签名等没有JS的情况下，如何展示当前时间，并且最好可以跳动？ 想来想去，纯 SVG 实现。于是呼来AI： codex-5.3.mod.svg codex-5.3.new.svg gemini-3.1-pro-thinking.new.… |
-| 2026-05-15 | [两款值得尝试的开源沉浸式翻译方案](https://www.wxy97.com/archives/019e2a4b-f1c0-70aa-b100-a49d1ddf3464) | 1. KISS Translator A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) 截图 |
-| 2026-05-15 | [FC 游戏：高桥名人之冒险岛四代（Takahashi Meijin no Bouken-jima IV）](https://springwood.me/fc-takahashi-meijin-no-bouken-jima-iv/) | 这是最后一款正式发售的 FC 游戏，也是我本次回顾的最后一款 FC 游戏 之前曾经被初代的《冒险岛》虐了一次， [...] Read More "FC 游戏：高桥名人之冒险岛四代（Takahashi Meijin no Bouken-jima IV）" |
-| 2026-05-15 | [花钱买来的权利是“特权”吗？](https://mobius.blog/23607.html) | 前几天迪士尼的“速通服务”又被推到了风口浪尖。 先聊聊什么是“速通服务”：迪士尼快速通行（英语：Disney& […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
