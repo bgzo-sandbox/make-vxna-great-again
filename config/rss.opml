@@ -477,6 +477,14 @@
             <outline title="[#541] V2EX › Archie" text="[#541] V2EX › Archie" xmlUrl="https://archie6.com/zh-Hans/rss.xml" htmlUrl="https://www.v2ex.com/xna/s/541" />
             <outline title="[#542] V2EX › 逸成博客" text="[#542] V2EX › 逸成博客" xmlUrl="https://blog.ensonyan.com/feed" htmlUrl="https://www.v2ex.com/xna/s/542" />
             <outline title="[#543] V2EX › Share Thoughts" text="[#543] V2EX › Share Thoughts" xmlUrl="https://www.liwenkang.space/feed.xml" htmlUrl="https://www.v2ex.com/xna/s/543" />
+            <outline title="[#544] V2EX › mxd's Blog" text="[#544] V2EX › mxd's Blog" xmlUrl="https://blog.mxdyeah.com/feed/" htmlUrl="https://www.v2ex.com/xna/s/544" />
+            <outline title="[#545] V2EX › Diff" text="[#545] V2EX › Diff" xmlUrl="https://diff.im/blog/index.xml" htmlUrl="https://www.v2ex.com/xna/s/545" />
+            <outline title="[#546] V2EX › Knowckx" text="[#546] V2EX › Knowckx" xmlUrl="https://blog.knowckx.top/rss.xml" htmlUrl="https://www.v2ex.com/xna/s/546" />
+            <outline title="[#547] V2EX › Haku" text="[#547] V2EX › Haku" xmlUrl="https://re.karlbaey.top/rss.xml" htmlUrl="https://www.v2ex.com/xna/s/547" />
+            <outline title="[#548] V2EX › koukyo" text="[#548] V2EX › koukyo" xmlUrl="https://koukyo.site/rss.xml" htmlUrl="https://www.v2ex.com/xna/s/548" />
+            <outline title="[#549] V2EX › Networkcat's Blog" text="[#549] V2EX › Networkcat's Blog" xmlUrl="https://nc.gy/index.xml" htmlUrl="https://www.v2ex.com/xna/s/549" />
+            <outline title="[#550] V2EX › 菲兹克斯喵" text="[#550] V2EX › 菲兹克斯喵" xmlUrl="https://physnya.top/atom.xml" htmlUrl="https://www.v2ex.com/xna/s/550" />
+            <outline title="[#551] V2EX › CosmoLau 的个人博客" text="[#551] V2EX › CosmoLau 的个人博客" xmlUrl="https://blog.cosmolau.top/rss.xml" htmlUrl="https://www.v2ex.com/xna/s/551" />
         </outline>
     </body>
 </opml>
