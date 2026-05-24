@@ -21,6 +21,9 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-24 | [Toots 420 2026 May.17 - May.23](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260523/) | 「被内在拉长。」 |
+| 2026-05-24 | [爱你老体](https://z.arlmy.me/posts/ZArlmyMe/ToMyBody_20260524/) | 「如果一开始就是错的，我们到底什么时候才会醒悟？」 |
+| 2026-05-24 | [Album#40 - 大城•小事](https://taxodium.ink/album-40.html) | Album#40 大城•小事 图1 《大城•小事》専輯封面 专辑信息 专辑名称： 大城•小事 歌手： 都市零件派对 年份： 2024-12-20 风格： 流行 时长： 約 22 分鍾 从 我的聲音旅程 &#124;&#124; 構成自己的 42 張專輯 翻到的一張専輯，喜歡主唱的聲音、歌曲的旋律，和聲也好聴。編曲聴着比… |
 | 2026-05-24 | [金陵三日快时光](https://yinji.org/nan-jing.html) | 前面忙完之后，调休了周四周五，本想周四和朋友徒步走完南昌梅岭之后直奔南京，却被天气预报耍了一通，梅岭没去成，在南昌闲逛一会之后，下午就坐高铁去了南京，开始了金陵三日快时光。 去南京其实也是临时起意，本想去广州找另一个同学，恰好看天气广州在下雨，便对着地图找距离合、天气合适的城市，最后选择了南京。 一… |
 | 2026-05-24 | [周末流水账 0524](https://blog.solazy.me/20260524/) | 换新手机咯！ |
 | 2026-05-24 | [AI Infra：Tacnode，面向 AI Agent 与实时自动化决策系统的 Context Lake](https://luweiqing.com/gossip/Tacnode-Context-Lake.html) | 1. 定位：Tacnode 是面向 AI Agent 与实时自动化决策系统的 Context Lake，用统一的数据与语义上下文层，替代传统“数据库 + 搜索 + 向量库 + 流处理”的拼接式架... |
@@ -28,6 +31,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-24 | [学习周刊-总第264期-2026年第21周](https://wiki.eryajf.net/pages/1833b9/) | 如要阅读全文，点击标题跳转。 学习周刊-总第264期 &#124; pxcharts &#124; dinky &#124; next-admin &#124; worldmonitor &#124; dbpaw &#124; chartli &#124; oh-my-pi |
 | 2026-05-24 | [好玩，大数据杀熟](https://re.karlbaey.top/articles/rocky-road/big-swindling/) | 杀熟很常见，它有个更地道的称呼叫做“看人下菜碟”，但是互联网把这“人”，或者连人都不是，的范围扩得好宽好宽啊，甚至有时候 … |
 | 2026-05-24 | [PVE 9.2 (Proxmox VE) 虚拟机系统 - 开源免费！同时安装运行多个不同操作系统](https://www.iplaysoft.com/pve.html) | 玩 软路由 、 NAS 、 迷你主机 等的朋友，如果希望能在一台机器上安装运行多个不同操作系统 (俗称 All in One)，一定都喜欢折腾「虚拟化系统」，其中最主流的就有 ESXi、PVE、Unraid 三者。 PVE (全称 Proxmox Virtual Environment) 是一个既可… |
+| 2026-05-24 | [Vol.104 自动化加速，人类专家价值飙升：AI Agent工程体系化与产业变革](https://liduos.com/weekly/the-weekly-gradient-104) | 本期内容聚焦AI自动化加速下人类专家价值上升的悖论，涵盖Gemini 3.5、Qwen3.7-Max等模型突破，Agent工程体系化（记忆、梦想、对抗式评估），以及AI原生创业与硬件趋势。 |
 | 2026-05-24 | [骑上 P10 去兜风](https://hux.ink/posts/first-ride-with-p10/) | 上周六去把大行 P10 拿下了，从计划买到下单间隔不到半个月，想买的东西拦不住，是时候又喊出三句箴言： 早买晚买早晚要买。 买了后悔三天，不买后悔三年。 四舍五入等于不要钱。 店里面有一辆已经换好轮组的新车，改装升级一对轮组约 2000 元左右，一开始想直接拿下。中秋同学在一旁说，要不先用原装轮子骑… |
 | 2026-05-24 | [一个极简且免费的 IP 地址查询服务](https://hzzio.top/blog/goip) | 一个基于 Merged-IP-Data 数据库，极简的 IP 地址查询服务，支持并发以及多语言、简化输出格式。 |
 | 2026-05-24 | [2026年第21周：等天晴](https://blog.sakoamc.com/posts/2621/) | 题记：突如其来的阵雨季。 |
