@@ -22,6 +22,8 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
 | 2026-05-24 | [学习周刊-总第264期-2026年第21周](https://wiki.eryajf.net/pages/1833b9/) | 如要阅读全文，点击标题跳转。 学习周刊-总第264期 &#124; pxcharts &#124; dinky &#124; next-admin &#124; worldmonitor &#124; dbpaw &#124; chartli &#124; oh-my-pi |
+| 2026-05-24 | [好玩，大数据杀熟](https://re.karlbaey.top/articles/rocky-road/big-swindling/) | 杀熟很常见，它有个更地道的称呼叫做“看人下菜碟”，但是互联网把这“人”，或者连人都不是，的范围扩得好宽好宽啊，甚至有时候 … |
+| 2026-05-24 | [PVE 9.2 (Proxmox VE) 虚拟机系统 - 开源免费！同时安装运行多个不同操作系统](https://www.iplaysoft.com/pve.html) | 玩 软路由 、 NAS 、 迷你主机 等的朋友，如果希望能在一台机器上安装运行多个不同操作系统 (俗称 All in One)，一定都喜欢折腾「虚拟化系统」，其中最主流的就有 ESXi、PVE、Unraid 三者。 PVE (全称 Proxmox Virtual Environment) 是一个既可… |
 | 2026-05-24 | [骑上 P10 去兜风](https://hux.ink/posts/first-ride-with-p10/) | 上周六去把大行 P10 拿下了，从计划买到下单间隔不到半个月，想买的东西拦不住，是时候又喊出三句箴言： 早买晚买早晚要买。 买了后悔三天，不买后悔三年。 四舍五入等于不要钱。 店里面有一辆已经换好轮组的新车，改装升级一对轮组约 2000 元左右，一开始想直接拿下。中秋同学在一旁说，要不先用原装轮子骑… |
 | 2026-05-24 | [一个极简且免费的 IP 地址查询服务](https://hzzio.top/blog/goip) | 一个基于 Merged-IP-Data 数据库，极简的 IP 地址查询服务，支持并发以及多语言、简化输出格式。 |
 | 2026-05-23 | [周末流水账 0523](https://blog.solazy.me/20260523/) | 终于又要过周末了，这周的工作十分忙碌，确实是盼着周末赶紧到来好让我喘息一下。 看到这开头也知道，这种难得有喘息机会的周六，整个上午我也不会有什么安排，在家美美地躺了一整个上午。这阵子杭州热了起来，恰好最近我换了亚朵新一季的深睡被，盖起来非常舒服，丝滑有凉感。 今天晚上和朋友约了去吃一家烧鸟 omak… |
@@ -34,6 +36,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-23 | [Pensieve: 2605](https://xiaket.github.io/2026/pensieve-2605.html) | 所读所观所玩 |
 | 2026-05-23 | [Implementing Dual-Partition Sysupgrade for the 360V6 Router on OpenWrt](https://blog.qzydustin.com/posts/implementing-dual-partition-sysupgrade-360v6-openwrt/) | The 360V6 ships with an A/B dual-partition design, but after flashing OpenWrt, sysupgrade only writes to the current partition while OEM remnants on t… |
 | 2026-05-23 | [Rescuing a Bricked 360T7 Router via UART After a DDR3 RAM Upgrade](https://blog.qzydustin.com/posts/rescuing-bricked-360t7-uart-after-ddr3-ram-upgrade/) | A memory-modded 360T7 ran fine for years until I flashed OpenWrt's bl2 and fip, which bricked it with dram size: 0MB . Every rescue package found onli… |
+| 2026-05-23 | [月刊（第35期）：我和 Claude 老师 Vibe Coding 的周末](https://ursb.me/posts/weekly-35/) | 本篇是对二〇二六年四月至五月的记录与思考。 周末的 Vibe Coding 最近一个月疯狂 VIBE，一共花了 Claude Code 257 亿 Token： 这些 Token 基本都是在 6 个周末消耗的，因为也只有周末有时间瞎搞（不然一个 20x 的号只够我用 3 天的）。 我一般会启 7 个… |
 | 2026-05-23 | [Memos #2026-05-22](https://www.taober.blog/memos) | 20:44 社会科真得再进步进步，难顶。 |
 | 2026-05-23 | [只索引10个网站的搜索引擎](https://nc.gy/posts/search-engine-for-10-sites/) | 要解答技术问题，一个搜索引擎只需要收录以下这10个网站。Reddit、Stack Overflow、Stack Exchange、Hacker News、GitHub、Wikipedia、YouTube 中文社区：V2EX、NodeSeek、Hostloc 以上至少是对我来说能解决大部分技术问题的网… |
 | 2026-05-22 | [听播客学到的东西](https://lachaise.xyz/2026/podcast-quotes/) | 几年前，在 blog 里写过当初学机器学习原理的时候领悟到的一件事情。机器学习模型「学习」的过程是随机启动一系列权重，基于输入数据猜测一个输出，再与标准答案对比。这个过程中，最重要的步骤是「反向传播」(back propagation)，也就是犯错误之后，从结果一步一步追溯推导的过程，并调整各个步骤… |

@@ -12,6 +12,18 @@
     "description": "如要阅读全文，点击标题跳转。 学习周刊-总第264期 | pxcharts | dinky | next-admin | worldmonitor | dbpaw | chartli | oh-my-pi"
   },
   {
+    "title": "好玩，大数据杀熟",
+    "url": "https://re.karlbaey.top/articles/rocky-road/big-swindling/",
+    "date": "2026-05-24T08:22:49Z",
+    "description": "杀熟很常见，它有个更地道的称呼叫做“看人下菜碟”，但是互联网把这“人”，或者连人都不是，的范围扩得好宽好宽啊，甚至有时候 …"
+  },
+  {
+    "title": "PVE 9.2 (Proxmox VE) 虚拟机系统 - 开源免费！同时安装运行多个不同操作系统",
+    "url": "https://www.iplaysoft.com/pve.html",
+    "date": "2026-05-24T08:10:22Z",
+    "description": "玩 软路由 、 NAS 、 迷你主机 等的朋友，如果希望能在一台机器上安装运行多个不同操作系统 (俗称 All in One)，一定都喜欢折腾「虚拟化系统」，其中最主流的就有 ESXi、PVE、Unraid 三者。 PVE (全称 Proxmox Virtual Environment) 是一个既可运行 虚拟机 也能运行 Docker 容器的虚拟化环境平台。它基于 Debian 和 KVM 技术开发，完全 开源 免费！通过 PVE 你可以随时创建管理多台虚拟机，在一台 PC 或 服务器 上同时运行各种 Linux 、OpenWRT、 Windows 等操作系统…… 「 前往查看原文.... 」 异次元还有这些值得一看： VMware ESXi 8.0U3e 官方免费版 ISO 镜像下载 - 虚拟机专用系统 (一机同时运行多系统) VirtualBox 7.2 最新虚拟机软件下载 - 免费开源跨平台 (支持 Win/Mac/Linux 安装多系统) Ubuntu 26.04 LTS 中文桌面版/服务器正式版ISO镜像下载 - 流行易入门的 Linux 系统 Fedora 43 正式版镜像"
+  },
+  {
     "title": "骑上 P10 去兜风",
     "url": "https://hux.ink/posts/first-ride-with-p10/",
     "date": "2026-05-24T01:39:00Z",
@@ -82,6 +94,12 @@
     "url": "https://blog.qzydustin.com/posts/rescuing-bricked-360t7-uart-after-ddr3-ram-upgrade/",
     "date": "2026-05-23T00:00:00Z",
     "description": "A memory-modded 360T7 ran fine for years until I flashed OpenWrt's bl2 and fip, which bricked it with dram size: 0MB . Every rescue package found online failed. Eventually I traced the issue to a DDR3 frequency mismatch in the ATF source, compiled a custom bl2, and recovered the router via UART."
+  },
+  {
+    "title": "月刊（第35期）：我和 Claude 老师 Vibe Coding 的周末",
+    "url": "https://ursb.me/posts/weekly-35/",
+    "date": "2026-05-23T00:00:00Z",
+    "description": "本篇是对二〇二六年四月至五月的记录与思考。 周末的 Vibe Coding 最近一个月疯狂 VIBE，一共花了 Claude Code 257 亿 Token： 这些 Token 基本都是在 6 个周末消耗的，因为也只有周末有时间瞎搞（不然一个 20x 的号只够我用 3 天的）。 我一般会启 7 个以上的长任务让 Claude Code 跑，也不是一直坐在电脑前 —— 我三星小折叠手机在这个时候就很好用，我可以在任意地方拿着手机一边刷视频、一边盯着这几个任务的进度。一旦有 Agent 停下来了，手机第一时间能发现，并操作 —— 语音输入让它们接着干，一刻也不能停（无情的资本家）： 那这一个多月以来的周末（我数了下也就 6 个周末），做了哪些好玩的东西呢？ 在这篇文章里分享给你们。 一些小玩具 给 博客 润色了下，支持了下多语言，另外做了下这些模块： 运动记录： 摄影墙： 以及漫画流水线：搭建了一个 workspace，固定了我的形象和漫画风格，于是只要每天对 Agent 说一句话（也可以配上一些图片，会风格化脱敏处理），他就能自动生成四格漫画并发布 —— 分享做的也不错： 还补充了下埋"
   },
   {
     "title": "Memos #2026-05-22",
