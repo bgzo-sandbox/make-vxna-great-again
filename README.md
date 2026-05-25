@@ -22,6 +22,8 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
 | 2026-05-25 | [CoStrict Router —— 第三方 CoStrict 接口转发工具](https://mok.moe/p/costrict-router) | 公司采购了 CoStrict，打开一看国产主流大模型挺全的，正打算好好把玩一番却发现官方只支持 VSCode 插件，于是连夜撸了个转发工具，顺便开源了 😋 costrict-router 是一个第三方的 CoStrict 接口转发工具，它可以将任意 OpenAI 兼容（Chat Completion… |
+| 2026-05-25 | [Marvis 实战：用 AI 打造一个每天自动更新的天蝎座运势站](https://www.evan.xin/5002/) | 我只负责"想"，AI 负责"做"。 起因 星座运势有稳定需求，但传统方式要么固定模板缺乏新鲜感，要么需要人工每 […] |
+| 2026-05-25 | [R#103 随心飞，启动！](https://blog.sakanano.moe/journals/random_103) | 2026.5.19 ~ 2026.5.25 |
 | 2026-05-25 | [由于 Linux 桌面没有一个好用的天气程序就写了一个跨平台的CheckitoutWeather](https://hellodk.cn/post/1221) | vibe coding的程序。暂时构建了 win 和 linux 的。mac 没设备暂时。开源以及下载地址： GitHub ，使用的和风天气API ，由于 API收费，免费的有额度但是不多，所以... |
 | 2026-05-25 | [百位数内加减法](https://mobius.blog/24359.html) | （2026 年全国卷）128+35+( )+2=247 A、82 B、90 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-25 | [AsyncT vllm适配、加速笔记（一）](https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%B8%80/) | 笔记的第一部分，主要覆盖了一些preliminaries，基础的vllm接入流程，以及简单的triton算子实现和最基础版本的CUDA算子实现。 |

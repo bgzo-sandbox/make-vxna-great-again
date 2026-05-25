@@ -12,6 +12,18 @@
     "description": "公司采购了 CoStrict，打开一看国产主流大模型挺全的，正打算好好把玩一番却发现官方只支持 VSCode 插件，于是连夜撸了个转发工具，顺便开源了 😋 costrict-router 是一个第三方的 CoStrict 接口转发工具，它可以将任意 OpenAI 兼容（Chat Completions）的请求转发到你指定的私有化 CoStrict 服务端上 你可以把它理解成一个 本地 CoStrict 入口：登录一次后，后续只需要把 Agent 工具的 Base URL 指向本地地址即可 🔗 http"
   },
   {
+    "title": "Marvis 实战：用 AI 打造一个每天自动更新的天蝎座运势站",
+    "url": "https://www.evan.xin/5002/",
+    "date": "2026-05-25T15:34:49Z",
+    "description": "我只负责\"想\"，AI 负责\"做\"。 起因 星座运势有稳定需求，但传统方式要么固定模板缺乏新鲜感，要么需要人工每 […]"
+  },
+  {
+    "title": "R#103 随心飞，启动！",
+    "url": "https://blog.sakanano.moe/journals/random_103",
+    "date": "2026-05-25T14:00:00Z",
+    "description": "2026.5.19 ~ 2026.5.25"
+  },
+  {
     "title": "由于 Linux 桌面没有一个好用的天气程序就写了一个跨平台的CheckitoutWeather",
     "url": "https://hellodk.cn/post/1221",
     "date": "2026-05-25T07:27:00Z",
