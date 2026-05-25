@@ -21,6 +21,13 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-25 | [AsyncT vllm适配、加速笔记（一）](https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%B8%80/) | 笔记的第一部分，主要覆盖了一些preliminaries，基础的vllm接入流程，以及简单的triton算子实现和最基础版本的CUDA算子实现。 |
+| 2026-05-25 | [我的目标不是你，是整个世界](https://blog.solazy.me/20260525/) | 今天抛出一个未来我会持续一直聊的概念 |
+| 2026-05-25 | [稻草人周刊 Vol.82](https://www.geedea.pro/weekly/82/) | 这周我把堆积在书签里没读的文章翻出来读了，发现其中有不少已经是两三个月前发布的内容了，他们跟随着一次次书签管理器迁移漂泊了好久，终于在周刊里找到了归宿。 止语 I Hate It Here Taylor Swift I’m lonely, but I’m good I’m bitter, but I… |
+| 2026-05-25 | [人的贪婪，始于被给得太多？](https://mobius.blog/24201.html) | 不知道为什么，每次在咖啡厅码字的时候，好像写下的都是“坏世界”这个分类的文章——大概这是一个可以直接观察到“人 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-05-25 | [Memos #2026-05-24](https://www.taober.blog/memos) | 13:51 壹方城胖明，木薯糖水顶级，炒螺蛳粉也不错，美中不足的是我不吃猪肝，价格有点小贵。 |
+| 2026-05-24 | [环岛漫游 《Summer Pockets REFLECTION BLUE》 圣地巡礼之直岛](https://www.wikimoe.com/post/b-tfjh02hj) | 2026年5月6日，天气多云，今天将前往直岛，开启旅程的三周目。 关于直岛 直岛是位于日本濑户内海的香川县小岛，距离冈山县玉野市约3公里，以“艺术之岛”闻名；岛上既有白沙、青松、海湾与丘陵构成的宁静海景，也保留着渔村、港口和工业历史。自20世纪末以来，贝尼斯艺术场直岛等项目把当代艺术、安藤忠雄等建筑… |
+| 2026-05-24 | [低配服务器调优](https://blog.lhasa.icu/posts/technology/2026-05-25-low-end-server-tuning) | 一个月前，我在阿里云秒杀抢了台丐中丐，38元/年，2核 2G 40G 今天我在想它能不能作为饥荒的自建服务器，便着手收拾了起来 默认的系统是 Alibaba Cloud Linux，阿里过度定制化，不太适合我 索性直接用 Ubuntu 重装了系统。在编译博客时，再次遇到一个月前的性能问题，这里把调优… |
 | 2026-05-24 | [Toots 420 2026 May.17 - May.23](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260523/) | 「被内在拉长。」 |
 | 2026-05-24 | [爱你老体](https://z.arlmy.me/posts/ZArlmyMe/ToMyBody_20260524/) | 「如果一开始就是错的，我们到底什么时候才会醒悟？」 |
 | 2026-05-24 | [Album#40 - 大城•小事](https://taxodium.ink/album-40.html) | Album#40 大城•小事 图1 《大城•小事》専輯封面 专辑信息 专辑名称： 大城•小事 歌手： 都市零件派对 年份： 2024-12-20 风格： 流行 时长： 約 22 分鍾 从 我的聲音旅程 &#124;&#124; 構成自己的 42 張專輯 翻到的一張専輯，喜歡主唱的聲音、歌曲的旋律，和聲也好聴。編曲聴着比… |
@@ -32,6 +39,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-24 | [好玩，大数据杀熟](https://re.karlbaey.top/articles/rocky-road/big-swindling/) | 杀熟很常见，它有个更地道的称呼叫做“看人下菜碟”，但是互联网把这“人”，或者连人都不是，的范围扩得好宽好宽啊，甚至有时候 … |
 | 2026-05-24 | [PVE 9.2 (Proxmox VE) 虚拟机系统 - 开源免费！同时安装运行多个不同操作系统](https://www.iplaysoft.com/pve.html) | 玩 软路由 、 NAS 、 迷你主机 等的朋友，如果希望能在一台机器上安装运行多个不同操作系统 (俗称 All in One)，一定都喜欢折腾「虚拟化系统」，其中最主流的就有 ESXi、PVE、Unraid 三者。 PVE (全称 Proxmox Virtual Environment) 是一个既可… |
 | 2026-05-24 | [Vol.104 自动化加速，人类专家价值飙升：AI Agent工程体系化与产业变革](https://liduos.com/weekly/the-weekly-gradient-104) | 本期内容聚焦AI自动化加速下人类专家价值上升的悖论，涵盖Gemini 3.5、Qwen3.7-Max等模型突破，Agent工程体系化（记忆、梦想、对抗式评估），以及AI原生创业与硬件趋势。 |
+| 2026-05-24 | [花费近万元，跑了8500km，我租车一年后的真实感受](https://www.qs5.org/Post/786.html) | 去年在论坛发过帖 不通勤, 用车不多, 可能租车比买车是更好的选择?最后想了想: 既然暂时也不打算买车, 不如先租一年试试看.于是,《十年老司机, 租车第一次上路感受, 另求行车记录仪推荐.》到... |
 | 2026-05-24 | [骑上 P10 去兜风](https://hux.ink/posts/first-ride-with-p10/) | 上周六去把大行 P10 拿下了，从计划买到下单间隔不到半个月，想买的东西拦不住，是时候又喊出三句箴言： 早买晚买早晚要买。 买了后悔三天，不买后悔三年。 四舍五入等于不要钱。 店里面有一辆已经换好轮组的新车，改装升级一对轮组约 2000 元左右，一开始想直接拿下。中秋同学在一旁说，要不先用原装轮子骑… |
 | 2026-05-24 | [一个极简且免费的 IP 地址查询服务](https://hzzio.top/blog/goip) | 一个基于 Merged-IP-Data 数据库，极简的 IP 地址查询服务，支持并发以及多语言、简化输出格式。 |
 | 2026-05-24 | [2026年第21周：等天晴](https://blog.sakoamc.com/posts/2621/) | 题记：突如其来的阵雨季。 |
@@ -48,7 +56,6 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-23 | [Implementing Dual-Partition Sysupgrade for the 360V6 Router on OpenWrt](https://blog.qzydustin.com/posts/implementing-dual-partition-sysupgrade-360v6-openwrt/) | The 360V6 ships with an A/B dual-partition design, but after flashing OpenWrt, sysupgrade only writes to the current partition while OEM remnants on t… |
 | 2026-05-23 | [Rescuing a Bricked 360T7 Router via UART After a DDR3 RAM Upgrade](https://blog.qzydustin.com/posts/rescuing-bricked-360t7-uart-after-ddr3-ram-upgrade/) | A memory-modded 360T7 ran fine for years until I flashed OpenWrt's bl2 and fip, which bricked it with dram size: 0MB . Every rescue package found onli… |
 | 2026-05-23 | [月刊（第35期）：我和 Claude 老师 Vibe Coding 的周末](https://ursb.me/posts/weekly-35/) | 本篇是对二〇二六年四月至五月的记录与思考。 周末的 Vibe Coding 最近一个月疯狂 VIBE，一共花了 Claude Code 257 亿 Token： 这些 Token 基本都是在 6 个周末消耗的，因为也只有周末有时间瞎搞（不然一个 20x 的号只够我用 3 天的）。 我一般会启 7 个… |
-| 2026-05-23 | [Memos #2026-05-22](https://www.taober.blog/memos) | 20:44 社会科真得再进步进步，难顶。 |
 | 2026-05-23 | [只索引10个网站的搜索引擎](https://nc.gy/posts/search-engine-for-10-sites/) | 要解答技术问题，一个搜索引擎只需要收录以下这10个网站。Reddit、Stack Overflow、Stack Exchange、Hacker News、GitHub、Wikipedia、YouTube 中文社区：V2EX、NodeSeek、Hostloc 以上至少是对我来说能解决大部分技术问题的网… |
 | 2026-05-22 | [听播客学到的东西](https://lachaise.xyz/2026/podcast-quotes/) | 几年前，在 blog 里写过当初学机器学习原理的时候领悟到的一件事情。机器学习模型「学习」的过程是随机启动一系列权重，基于输入数据猜测一个输出，再与标准答案对比。这个过程中，最重要的步骤是「反向传播」(back propagation)，也就是犯错误之后，从结果一步一步追溯推导的过程，并调整各个步骤… |
 | 2026-05-22 | [Evening Run](https://tianheg.co/posts/evening-run-en/) | I got off work at 5:30, went home, changed into a sleeveless shirt, shorts, and running shoes, and headed out for a run on Phoenix Mountain across the… |
@@ -136,21 +143,6 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-18 | [稻草人周刊 Vol.81](https://www.geedea.pro/weekly/81/) | 这周没读什么文章，大部分时间都花在赶项目、焦虑、把头埋在被子里哀嚎、在心里咒骂同室、焦虑、出门乱逛、路过某个场景于是触发几年前的回忆然后陷入情绪波动、做健身计划但不执行、焦虑、幻想养一只萨摩耶、在小红书上看别人养的萨摩耶、幻想开一家咖啡馆并把萨摩耶带到店里让客人陪玩、幻想早上七点半被狗狗叫醒、焦虑等… |
 | 2026-05-18 | [5.18 随想：发发牢骚](https://blog.sakoamc.com/posts/26sx001/) | 题记：当无聊反映为感知力的迟顿时，或许我更需要关心的是今晚的睡眠。 |
 | 2026-05-18 | [MCP Dock：给 14 个 AI 客户端统一管配置](https://folay.top/blog/mcp-dock) | 做了个桌面端工具，统一管理 Cursor、VS Code、Claude Code 等客户端的 MCP 配置。 |
-| 2026-05-17 | [探访日本的"鬼岛" 《Summer Pockets REFLECTION BLUE》 圣地巡礼之女木岛](https://www.wikimoe.com/post/b-tf4ohxj8) | 2026年5月5日，天气晴，今天启程出发巡礼 《Summer Pockets REFLECTION BLUE》的女木岛和男木岛。 本篇为女木岛篇。 如何前往女木岛/男木岛 前往女木岛 / 男木岛，最常用方式是从高松港搭乘雌雄岛海运渡轮「めおん」。 路线 高松港 → 女木岛 → 男木岛 回程为男木岛… |
-| 2026-05-17 | [Your New Tab：把常用的 AI 搜索放进新标签页](https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/) | 指挥 Claude 和 Codex 折腾了一个开源浏览器扩展 Your New Tab，把新标签页改成 AI 搜索入口，一次输入后可以发给 Google AI Search、Grok Search、Metaso、X Search 等服务。 |
-| 2026-05-17 | [系统升级变味了](https://blog.bgzo.cc/20260413-update-system-is-not-always-good.html) | 不知道从什么时候开始，升级系统变得听起来不那么美好了，十多年前，我还在用红米 1s 的时候，就一直期待系统升级，那么时候我还以为这个手机可以一直得到升级维护。 直到几年后的某天，我发现自己再也安装不了新的应用，安装的时候提醒一句：安卓版本过低的时候，我才发现，原来红米早就终止了这台手机的维护。 后来… |
-| 2026-05-17 | [拍摄一次彗星](https://zhangke.space/%e6%8b%8d%e6%91%84%e4%b8%80%e6%ac%a1%e5%bd%97%e6%98%9f/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%258b%258d%25e6%2591%2584%25e4%25b8%2580%25e6%25ac%25a1%25e5%25bd%2597%25e6%2598%259f) | 最近 2025 R3 彗星逐渐进入可以观测的范围，四月中下旬星等甚至可以达到 4 左右，环境好的话甚至可以肉眼 […] The post 拍摄一次彗星 first appeared on 张可的博客 . |
-| 2026-05-17 | [Toots 419 2026 May.10 - May.16](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260516/) | 「低能耗、高准确率。」 |
-| 2026-05-17 | [AI Infra：Convex Backend数据库，AI Agent 时代的状态同步方案](https://luweiqing.com/resources/Convex-Backend.html) | 以前做实时应用，得自己拼数据库、API、Redis、WebSocket，再加上缓存和乐观更新。每一层都独立，状态同步的麻烦事最后全堆给开发者。Convex 试图把这些琐事都包了。它不单是个数据库... |
-| 2026-05-17 | [AI Infra：NVIDIA “Data In Place” 范式展示了AI 数据基础设施的未来](https://luweiqing.com/gossip/NVIDIA-Data-In-Place.html) | NVIDIA 的 “Data In Place” 概念核心，可用一句话概括：数据尽量留在原地完成 AI 处理，从而减少 ETL、复制、搬运、复制、搬运、重建索引和冷热迁移。这是 NVIDIA 在... |
-| 2026-05-17 | [Vol.103 Agent工程化落地周：工具走出IDE，组织面临重构](https://liduos.com/weekly/the-weekly-gradient-103) | 本期内容围绕AI Agent工程化全面落地，涵盖Claude Code与Codex在大型代码库的实践、Computer Use最佳实践、Agent Skill开放标准、Multi-Agent Harness部署及AI Native组织变革等关键议题。 |
-| 2026-05-17 | [遂昌｜躲避人潮的五一自驾Day1 - 盲盒](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-01.html) |  |
-| 2026-05-17 | [影视飓风的生意](https://blog.solazy.me/20260517/) | 昨晚看到有人吐槽影视飓风的发布会视频，索性聊聊我的看法 |
-| 2026-05-17 | [「进行中」XDSec SSO开发小记](https://www.xiaozonglin.cn/xdsec-sso-dev-notes/) | 因为信安协会原本的SSO改用户信息比较麻烦，协会的周报系统和论坛两个系统打通的任务从很早以前咕到现在，重新开发 […] 「进行中」XDSec SSO开发小记 最先出现在 林林杂语 。 |
-| 2026-05-17 | [FSRS核心字段](https://blog.est.im/2026/stdout-17) | 无聊看了下 FSRS (Free Spaced Repetition Scheduler) ，想看它怎么存数据的 Card — 卡片当前状态 表结构： 字段 类型 说明 due Date 下次复习时间 stability float 记忆稳定性（R=90% 时的间隔天数） difficulty fl… |
-| 2026-05-17 | [把微信读书接入 ChatGPT](https://www.nodealpha.me/Software-weread-mcp.html) | 微信读书最近开放了 Skill ，实际上也就是开放了 API 。 而 ChatGPT 本身是可以接入自定义 M […] |
-| 2026-05-17 | [一个 WebRTC 聊天室的三次演进](https://www.bmpi.dev/dev/free4chat/) | 从 Go/Pion 到 Elixir/Membrane，再到 Cloudflare 全栈，记录 free4chat 三次技术演进的完整历程：WebRTC 协议栈解析、三种技术路线的边界对比，以及 AI 融入实时通信的未来方向。 |
-| 2026-05-17 | [年轻不是健康的免死金牌](https://www.mengke.me/blog/202605/Youth_Is_Not_A_Health_Pass) | 29 岁、平时爱跑步的我，因上消化道出血从公司工位被送进急诊抢救室。记录黑便就医、急诊胃镜止血、禁食住院的经过，以及「年轻不是健康的免死金牌」这件事教会我的事 … |
 
 ## Vibe Coding
 

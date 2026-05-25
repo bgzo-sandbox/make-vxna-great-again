@@ -1,0 +1,218 @@
+[
+  {
+    "title": "the-story-of-me",
+    "url": "https://m4p1e.com/2066/05/04/the-story-of-me/",
+    "date": "2066-05-04T19:39:44Z",
+    "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
+  },
+  {
+    "title": "AsyncT vllm适配、加速笔记（一）",
+    "url": "https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%B8%80/",
+    "date": "2026-05-25T03:16:00Z",
+    "description": "笔记的第一部分，主要覆盖了一些preliminaries，基础的vllm接入流程，以及简单的triton算子实现和最基础版本的CUDA算子实现。"
+  },
+  {
+    "title": "我的目标不是你，是整个世界",
+    "url": "https://blog.solazy.me/20260525/",
+    "date": "2026-05-25T02:00:00Z",
+    "description": "今天抛出一个未来我会持续一直聊的概念"
+  },
+  {
+    "title": "稻草人周刊 Vol.82",
+    "url": "https://www.geedea.pro/weekly/82/",
+    "date": "2026-05-25T01:36:43Z",
+    "description": "这周我把堆积在书签里没读的文章翻出来读了，发现其中有不少已经是两三个月前发布的内容了，他们跟随着一次次书签管理器迁移漂泊了好久，终于在周刊里找到了归宿。 止语 I Hate It Here Taylor Swift I’m lonely, but I’m good I’m bitter, but I swear I’m fine I’ll save all my romanticism for my inner life and I’ll get lost on purpose This place made me feel worthless Lucid dreams like electricity, the current flies through me And in my fantasies, I rise above it And way up there, I actually love it 连接 我抛弃孩子，爱上妈妈，被全欧洲封杀，但我是个好人 📻 《独树不成林》我抛弃孩子，爱上妈妈，被全欧洲封杀，但我是个好人 八卦不仅仅是娱乐方式，甚至是刻在人类基因里的生存本能，原"
+  },
+  {
+    "title": "人的贪婪，始于被给得太多？",
+    "url": "https://mobius.blog/24201.html",
+    "date": "2026-05-25T00:55:00Z",
+    "description": "不知道为什么，每次在咖啡厅码字的时候，好像写下的都是“坏世界”这个分类的文章——大概这是一个可以直接观察到“人 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
+    "title": "Memos #2026-05-24",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-05-25T00:00:00Z",
+    "description": "13:51 壹方城胖明，木薯糖水顶级，炒螺蛳粉也不错，美中不足的是我不吃猪肝，价格有点小贵。"
+  },
+  {
+    "title": "环岛漫游 《Summer Pockets REFLECTION BLUE》 圣地巡礼之直岛",
+    "url": "https://www.wikimoe.com/post/b-tfjh02hj",
+    "date": "2026-05-24T23:03:35Z",
+    "description": "2026年5月6日，天气多云，今天将前往直岛，开启旅程的三周目。 关于直岛 直岛是位于日本濑户内海的香川县小岛，距离冈山县玉野市约3公里，以“艺术之岛”闻名；岛上既有白沙、青松、海湾与丘陵构成的宁静海景，也保留着渔村、港口和工业历史。自20世纪末以来，贝尼斯艺术场直岛等项目把当代艺术、安藤忠雄等建筑师设计的美术馆与岛屿自然环境结合起来，使直岛成为欣赏地中美术馆、李禹焕美术馆、贝尼斯之家，以及草间弥生南瓜雕塑等作品的独特旅行目的地。 事前准备 出发前，建议做好事前准备。 如何前往直岛 前往直岛通常有两条主线：从冈山方向走宇野港最方便，或从香川/高松方向走高松港。 线路1 冈山 → 宇野港 → 直岛宫浦港 从东京、名古屋、大阪、京都、广岛等地先坐新干线到冈山站；官方参考车程为东京到冈山约3小时25分，新大阪到冈山约50分钟，广岛到冈山约40分钟。到冈山后换乘 JR 前往宇野港，再坐船到直岛。 路线2 冈山 → 高松 → 直岛宫浦港 同样的方式先到冈山，然后从高松港坐船到直岛宫浦港。高松到直岛约50分钟，直岛回高松约60分钟。 注意点 直岛的船分渡轮和高速船，两者售票点和时刻表可能会有所不同"
+  },
+  {
+    "title": "低配服务器调优",
+    "url": "https://blog.lhasa.icu/posts/technology/2026-05-25-low-end-server-tuning",
+    "date": "2026-05-24T22:47:00Z",
+    "description": "一个月前，我在阿里云秒杀抢了台丐中丐，38元/年，2核 2G 40G 今天我在想它能不能作为饥荒的自建服务器，便着手收拾了起来 默认的系统是 Alibaba Cloud Linux，阿里过度定制化，不太适合我 索性直接用 Ubuntu 重装了系统。在编译博客时，再次遇到一个月前的性能问题，这里把调优过程记录下来，也算水了一篇 如上图，执行构建命令后，磁盘 IO 瞬间拉满，直接达到了该套餐的 IOPS 上限，接近 2000 counts/s 随后这台丐中丐彻底失去响应，SSH 直接断开，我只能去阿里云控制台强制重启 增加 Swap 这种丐中丐想要编译项目，单靠 2G 物理内存真的很难受，必须向磁盘借点空间 # 创建 4GB Swap sudo dd if=/dev/zero of=/swapfile bs=1M count=4096 # 赋权、格式化、启用 sudo chmod 600 /swapfile sudo mkswap /swapfile sudo swapon /swapfile # 自动挂载 echo '/swapfile none swap sw 0 0' | sudo "
+  },
+  {
+    "title": "Toots 420 2026 May.17 - May.23",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260523/",
+    "date": "2026-05-24T15:48:27Z",
+    "description": "「被内在拉长。」"
+  },
+  {
+    "title": "爱你老体",
+    "url": "https://z.arlmy.me/posts/ZArlmyMe/ToMyBody_20260524/",
+    "date": "2026-05-24T15:44:03Z",
+    "description": "「如果一开始就是错的，我们到底什么时候才会醒悟？」"
+  },
+  {
+    "title": "Album#40 - 大城•小事",
+    "url": "https://taxodium.ink/album-40.html",
+    "date": "2026-05-24T15:35:00Z",
+    "description": "Album#40 大城•小事 图1 《大城•小事》専輯封面 专辑信息 专辑名称： 大城•小事 歌手： 都市零件派对 年份： 2024-12-20 风格： 流行 时长： 約 22 分鍾 从 我的聲音旅程 || 構成自己的 42 張專輯 翻到的一張専輯，喜歡主唱的聲音、歌曲的旋律，和聲也好聴。編曲聴着比较簡单，主要就是木吉他，但不会覚得单調，还蠻好聴的。専輯里就 5 首歌，我都喜歡，有的旋律活泼一些，有的則更抒情些，最喜歡的是「梦奇地」。 關於都市零件派對： 「 我們都是生活中的小零件，日以繼夜地在這城市裡努力為自己的理想發聲，透過音樂丟掉生活中的繁雜瑣事，開一場熱情奔放的派對。」 都市零件派對是由身高 178 公分主唱 Bibi 與吉他手 (陳)世錦 所組成的雙人民謠組合，是你身邊喜歡音樂的朋友，透過音樂傳達快樂與愛，讓生活中的增添色彩。我們用輕鬆的語調和略帶成熟的觀點述說著每首歌，音樂上以吉他為出發，加入不同素材聲響，讓畫面更為遼闊繽紛，題材上小至個人內心獨白，大至關心整個世界環境，陪伴著大家一起無奈苦笑著瑣事，一起哼唱互相安慰，一起度過現實世界中的喜怒哀樂。 Source TRACK"
+  },
+  {
+    "title": "金陵三日快时光",
+    "url": "https://yinji.org/nan-jing.html",
+    "date": "2026-05-24T14:35:18Z",
+    "description": "前面忙完之后，调休了周四周五，本想周四和朋友徒步走完南昌梅岭之后直奔南京，却被天气预报耍了一通，梅岭没去成，在南昌闲逛一会之后，下午就坐高铁去了南京，开始了金陵三日快时光。 去南京其实也是临时起意，本想去广州找另一个同学，恰好看天气广州在下雨，便对着地图找距离合、天气合适的城市，最后选择了南京。 一行三人，都是男生，初中同学。在高铁上，仍然对于没有去梅岭而感到惋惜，对此计划周五凌晨夜爬南京紫金山，看日出。于是周四晚上六点左右抵达南京南站之后，先去酒店放好了行李，在附近吃了一份大肉面、汤包，就把晚饭解决了，有意思的是，这家店倪妮也去过。因为缺少一些爬山徒步的装备，随即又去了附近的迪卡侬，买了几件...... 继续阅读»»»"
+  },
+  {
+    "title": "周末流水账 0524",
+    "url": "https://blog.solazy.me/20260524/",
+    "date": "2026-05-24T12:30:00Z",
+    "description": "换新手机咯！"
+  },
+  {
+    "title": "AI Infra：Tacnode，面向 AI Agent 与实时自动化决策系统的 Context Lake",
+    "url": "https://luweiqing.com/gossip/Tacnode-Context-Lake.html",
+    "date": "2026-05-24T11:45:52Z",
+    "description": "1. 定位：Tacnode 是面向 AI Agent 与实时自动化决策系统的 Context Lake，用统一的数据与语义上下文层，替代传统“数据库 + 搜索 + 向量库 + 流处理”的拼接式架..."
+  },
+  {
+    "title": "死猫",
+    "url": "https://mobius.blog/24352.html",
+    "date": "2026-05-24T11:40:33Z",
+    "description": "刚才遛狗时，狗突然扯着绳子朝一个地方凑，我才发现一只侧躺在灌木里的猫，但已经死了。 小区有好几只眼熟的猫，靠附 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
+    "title": "学习周刊-总第264期-2026年第21周",
+    "url": "https://wiki.eryajf.net/pages/1833b9/",
+    "date": "2026-05-24T10:58:24Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第264期 | pxcharts | dinky | next-admin | worldmonitor | dbpaw | chartli | oh-my-pi"
+  },
+  {
+    "title": "好玩，大数据杀熟",
+    "url": "https://re.karlbaey.top/articles/rocky-road/big-swindling/",
+    "date": "2026-05-24T08:22:49Z",
+    "description": "杀熟很常见，它有个更地道的称呼叫做“看人下菜碟”，但是互联网把这“人”，或者连人都不是，的范围扩得好宽好宽啊，甚至有时候 …"
+  },
+  {
+    "title": "PVE 9.2 (Proxmox VE) 虚拟机系统 - 开源免费！同时安装运行多个不同操作系统",
+    "url": "https://www.iplaysoft.com/pve.html",
+    "date": "2026-05-24T08:10:22Z",
+    "description": "玩 软路由 、 NAS 、 迷你主机 等的朋友，如果希望能在一台机器上安装运行多个不同操作系统 (俗称 All in One)，一定都喜欢折腾「虚拟化系统」，其中最主流的就有 ESXi、PVE、Unraid 三者。 PVE (全称 Proxmox Virtual Environment) 是一个既可运行 虚拟机 也能运行 Docker 容器的虚拟化环境平台。它基于 Debian 和 KVM 技术开发，完全 开源 免费！通过 PVE 你可以随时创建管理多台虚拟机，在一台 PC 或 服务器 上同时运行各种 Linux 、OpenWRT、 Windows 等操作系统…… 「 前往查看原文.... 」 异次元还有这些值得一看： VMware ESXi 8.0U3e 官方免费版 ISO 镜像下载 - 虚拟机专用系统 (一机同时运行多系统) VirtualBox 7.2 最新虚拟机软件下载 - 免费开源跨平台 (支持 Win/Mac/Linux 安装多系统) Ubuntu 26.04 LTS 中文桌面版/服务器正式版ISO镜像下载 - 流行易入门的 Linux 系统 Fedora 43 正式版镜像"
+  },
+  {
+    "title": "Vol.104 自动化加速，人类专家价值飙升：AI Agent工程体系化与产业变革",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-104",
+    "date": "2026-05-24T08:00:00Z",
+    "description": "本期内容聚焦AI自动化加速下人类专家价值上升的悖论，涵盖Gemini 3.5、Qwen3.7-Max等模型突破，Agent工程体系化（记忆、梦想、对抗式评估），以及AI原生创业与硬件趋势。"
+  },
+  {
+    "title": "花费近万元，跑了8500km，我租车一年后的真实感受",
+    "url": "https://www.qs5.org/Post/786.html",
+    "date": "2026-05-24T04:39:00Z",
+    "description": "去年在论坛发过帖 不通勤, 用车不多, 可能租车比买车是更好的选择?最后想了想: 既然暂时也不打算买车, 不如先租一年试试看.于是,《十年老司机, 租车第一次上路感受, 另求行车记录仪推荐.》到..."
+  },
+  {
+    "title": "骑上 P10 去兜风",
+    "url": "https://hux.ink/posts/first-ride-with-p10/",
+    "date": "2026-05-24T01:39:00Z",
+    "description": "上周六去把大行 P10 拿下了，从计划买到下单间隔不到半个月，想买的东西拦不住，是时候又喊出三句箴言： 早买晚买早晚要买。 买了后悔三天，不买后悔三年。 四舍五入等于不要钱。 店里面有一辆已经换好轮组的新车，改装升级一对轮组约 2000 元左右，一开始想直接拿下。中秋同学在一旁说，要不先用原装轮子骑一段时间再来升级，我说好。原车价格 4398 元+换了一组脚踏 168 元，总价 4566 元。 上午开车去门店的，下单完直接折叠放进后备箱，出发去一个新开的公园——南湾郊野公园。抵达后发现这个公园不具备骑行条件，作罢，改成带娃徒步。新开的这个公园确实如其名比较野，蚊子特别大，公园里建了两三个特别高大的廊桥，网红桥预警。 前一晚看天气预报说周日下雨，但一到早上又说不会下了。于是带上折叠车和安安的小自行车，出发去前海石公园。三个人，两台车咋整？无奈，P10 先给老婆大人体验一下，我选择就近扫了一辆共享单车，一起从前海石公园的南头，骑到了欢乐港湾摩天轮。 在欢乐港湾附近，有个骑行泵道。泵道入口有公园工作人员守着，只允许儿童自行车、平衡车、滑板进入。起起伏伏的泵道，小朋友们可以开心玩一整天，就是人"
+  },
+  {
+    "title": "一个极简且免费的 IP 地址查询服务",
+    "url": "https://hzzio.top/blog/goip",
+    "date": "2026-05-24T01:01:59Z",
+    "description": "一个基于 Merged-IP-Data 数据库，极简的 IP 地址查询服务，支持并发以及多语言、简化输出格式。"
+  },
+  {
+    "title": "2026年第21周：等天晴",
+    "url": "https://blog.sakoamc.com/posts/2621/",
+    "date": "2026-05-24T00:00:00Z",
+    "description": "题记：突如其来的阵雨季。"
+  },
+  {
+    "title": "独立游戏简评 Vol.5",
+    "url": "https://bluepika.life/blog/indie-game-notes-5",
+    "date": "2026-05-24T00:00:00Z",
+    "description": "以下提到的游戏里涉及解谜游戏，部分内容含有剧透。"
+  },
+  {
+    "title": "周末流水账 0523",
+    "url": "https://blog.solazy.me/20260523/",
+    "date": "2026-05-23T15:30:00Z",
+    "description": "终于又要过周末了，这周的工作十分忙碌，确实是盼着周末赶紧到来好让我喘息一下。 看到这开头也知道，这种难得有喘息机会的周六，整个上午我也不会有什么安排，在家美美地躺了一整个上午。这阵子杭州热了起来，恰好最近我换了亚朵新一季的深睡被，盖起来非常舒服，丝滑有凉感。 今天晚上和朋友约了去吃一家烧鸟 omakase，所以下午是要出门的，中午出门之前在家追了几集《主角》，室友最近追得很紧，一直在推荐我看。我慢慢追，毕竟还没完结，追快了反而让自己着急。追剧的时候点了一家清蒸小龙虾外卖，一来垫垫肚子，二来补充点优质蛋白质。今年我已经点了三四次的小龙虾外卖了，和以往相比，我完全不想去吃麻辣或者蒜蓉那种重口味了，买这种个头大一点，对小龙虾品质和新鲜度要求很高的清蒸口味，还是不错的。 轻松追剧吃虾之后，简单的收拾了一下家，尤其是把书房堆积了很久的各类数码和文具都完全归拢好了。同时也把键盘换了几个轴体。我有两把 Nuphy Kick 75，家里的这把「1」「x」「s」键位会出现按一次上两次的情况，尝试拔下键位清理后依旧无果，咨询了客服说有可能是轴体的缘故，免费补发 6 个新轴体。昨天收到了新的轴体，今天索性换"
+  },
+  {
+    "title": "跨境炒股被重锤，我只能硬扛",
+    "url": "https://krya.com/post/futu/",
+    "date": "2026-05-23T14:20:00Z",
+    "description": "2020年我开了老虎证券；同时也开了美国华美银行账户，但是这个银行账户的维护成本过于高昂，后来就关闭了。 25年2月，又陆续开了富途证券、长桥证券、盈透证券（IBKR），还办了一堆香港银行卡。 其实我开这些账户，并没有大额跨境转账的需求。虽然有过当数字游民的想法，但并没有付诸实践。我的生活、家庭、收入和支出，都在内地，暂时无法抽身。 我有一个癖好，喜欢集卡，收集许多奇奇怪怪的账户。只要没有太高的门槛，花十几二十分钟就能搞定的，我都喜欢开一个。为了管理几百个账户和随机密码，还专门买了 1Password。我也喜欢收集各种邮箱后缀，囤一些简短的域名——包括你现在看到的这个博客域名，花了几千块钱买的，是我写作上第二贵的投入。 不过早点收集确实有好处。很多东西刚刚兴起的时候，大门是敞开的；等人多了，路就慢慢被堵死了。就像中国电信澳门的学生套餐，当年随便办一张，没想到用了四五年都舍不得换；比如 DMIT 的主机，用着用着就成了绝版；也像不久前买的 Mac mini，现在俨然成了理财产品。 昨天下午收盘后，看到中国政府重拳打击跨境炒股和跨境理财的消息，心里一凉。因为我在富途证券融资重仓小米，目前浮"
+  },
+  {
+    "title": "一张图看懂 Hermes 的自我进化机制",
+    "url": "https://gptkit.eth.limo/B9F19D05-1F8B-437D-BEBB-E0389DA8EBF7/",
+    "date": "2026-05-23T13:03:45Z",
+    "description": "想深入了解, 可以阅读下面关于Hermes自进化的系列文章: 从 Memory、Skill 到 Background Review，完整拆解 Hermes 的自进化架构。 https://blog.suchuanyi.dev/posts/hermes-self-evolution-1-overview"
+  },
+  {
+    "title": "为什么说设计师也是吃青春饭的？",
+    "url": "https://www.iyeslogo.com/who-kill-old-designers/",
+    "date": "2026-05-23T10:24:16Z",
+    "description": "设计行业普遍存在35岁以上设计师稀少的现象，这并非个人能力问题，而是商业逻辑下的必然结果。"
+  },
+  {
+    "title": "我的车",
+    "url": "https://hux.ink/posts/easy-go/",
+    "date": "2026-05-23T06:59:00Z",
+    "description": "五月还没过完，在 A 股这个修罗场，不变的是焦虑和持续的追涨杀跌。 突发奇想，把五月份每日的持仓盈亏换算对应成汽车热销榜上的那些车型，看看分别是提回来或者送出去什么车。把这些折磨心神的数字，变成一张“五月车市对账单”。 交易日期 当日盈亏 (元) 盈亏属性 对应 2026 销量榜车型 心理活动复盘 5 月 06 日 (三) +58,754 提车 📈 五菱宏光 MINIEV 顶配版 / 吉利银河星愿入门款 五一节后开门红！直接白嫖一台国民纯电代步小车。 5 月 07 日 (四) +48,645 提车 📈 五菱宏光 MINIEV 标配版 连击！家里车库有点塞不下了，买菜接娃两不误。 5 月 08 日 (五) +97,240 提车 📈 比亚迪秦 PLUS / 海鸥 / 海豚 周五主力发力，直接拿下十万级 A 级轿车销量常青树。 5 月 11 日 (一) +110,000 提车 📈 比亚迪元 UP / 广汽埃安 AION Y 新一周开局起飞！档次升级，直接提走主力家用纯电 SUV。 5 月 12 日 (二) -51,860 亏车 📉 五菱宏光 MINIEV 顶配版 昨天刚膨胀，今天就被大盘无情"
+  },
+  {
+    "title": "妈妈的问候",
+    "url": "https://kaix.in/2026/0523/",
+    "date": "2026-05-23T03:45:15Z",
+    "description": "我时常庆幸自己还不必为父母的健康担忧；但是昨天去我妈家的时候，她问我「你身体还好吧」的时候，我一时语塞。随即意识到：健康问题肯定已经在她的生活中占很大比重，而我自己也到了需要被这样关心的年纪了。人的身体真是个累赘，但也是这个累赘让人与世界连结。 fin. 激赏 ！ 来信 。"
+  },
+  {
+    "title": "小丑",
+    "url": "https://mobius.blog/24283.html",
+    "date": "2026-05-23T01:59:45Z",
+    "description": "人们总是喜欢嘲笑跳梁小丑， 可他跳过了梁， 却有一群观众为他鼓掌。 他在嘲笑跳梁小丑时， 但他跳不过梁， 却渴 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
+    "title": "Pensieve: 2605",
+    "url": "https://xiaket.github.io/2026/pensieve-2605.html",
+    "date": "2026-05-23T00:40:00Z",
+    "description": "所读所观所玩"
+  },
+  {
+    "title": "Implementing Dual-Partition Sysupgrade for the 360V6 Router on OpenWrt",
+    "url": "https://blog.qzydustin.com/posts/implementing-dual-partition-sysupgrade-360v6-openwrt/",
+    "date": "2026-05-23T00:00:00Z",
+    "description": "The 360V6 ships with an A/B dual-partition design, but after flashing OpenWrt, sysupgrade only writes to the current partition while OEM remnants on the alternate partition cause upgrade failures. After figuring out the bootconfig slot mechanism, I submitted dual-partition upgrade support to OpenWrt upstream, which has since been merged."
+  },
+  {
+    "title": "Rescuing a Bricked 360T7 Router via UART After a DDR3 RAM Upgrade",
+    "url": "https://blog.qzydustin.com/posts/rescuing-bricked-360t7-uart-after-ddr3-ram-upgrade/",
+    "date": "2026-05-23T00:00:00Z",
+    "description": "A memory-modded 360T7 ran fine for years until I flashed OpenWrt's bl2 and fip, which bricked it with dram size: 0MB . Every rescue package found online failed. Eventually I traced the issue to a DDR3 frequency mismatch in the ATF source, compiled a custom bl2, and recovered the router via UART."
+  },
+  {
+    "title": "月刊（第35期）：我和 Claude 老师 Vibe Coding 的周末",
+    "url": "https://ursb.me/posts/weekly-35/",
+    "date": "2026-05-23T00:00:00Z",
+    "description": "本篇是对二〇二六年四月至五月的记录与思考。 周末的 Vibe Coding 最近一个月疯狂 VIBE，一共花了 Claude Code 257 亿 Token： 这些 Token 基本都是在 6 个周末消耗的，因为也只有周末有时间瞎搞（不然一个 20x 的号只够我用 3 天的）。 我一般会启 7 个以上的长任务让 Claude Code 跑，也不是一直坐在电脑前 —— 我三星小折叠手机在这个时候就很好用，我可以在任意地方拿着手机一边刷视频、一边盯着这几个任务的进度。一旦有 Agent 停下来了，手机第一时间能发现，并操作 —— 语音输入让它们接着干，一刻也不能停（无情的资本家）： 那这一个多月以来的周末（我数了下也就 6 个周末），做了哪些好玩的东西呢？ 在这篇文章里分享给你们。 一些小玩具 给 博客 润色了下，支持了下多语言，另外做了下这些模块： 运动记录： 摄影墙： 以及漫画流水线：搭建了一个 workspace，固定了我的形象和漫画风格，于是只要每天对 Agent 说一句话（也可以配上一些图片，会风格化脱敏处理），他就能自动生成四格漫画并发布 —— 分享做的也不错： 还补充了下埋"
+  },
+  {
+    "title": "只索引10个网站的搜索引擎",
+    "url": "https://nc.gy/posts/search-engine-for-10-sites/",
+    "date": "2026-05-23T00:00:00Z",
+    "description": "要解答技术问题，一个搜索引擎只需要收录以下这10个网站。Reddit、Stack Overflow、Stack Exchange、Hacker News、GitHub、Wikipedia、YouTube 中文社区：V2EX、NodeSeek、Hostloc 以上至少是对我来说能解决大部分技术问题的网站列表。当然，如果把列表扩充一下，可以加上各种官方文档。 在Google搜索技术问题，Reddit、Stack Exchange、Hacker News这三个网站是排名最高的，而且最有可能解决你的问题，很多人也会直接site:进行站内搜索。这些网站都有自己的站内搜索，用Google纯粹是因为它们的站内搜索做得太垃圾了。仔细想一想，Google一个能在毫秒内搜索整个互联网的强大搜索引擎，现在很多人把它作为Reddit的站内搜索引擎，曾经不是这样的，是互联网质量下降了，还是Google不行了？ 网页内容的下降很大程度是Google促成的，Google掌控广告和搜索，站长为了更高的排名把网站进行过度SEO，可以参考各个英文食谱网站，不仅过度SEO，还有很多广告、弹窗，这些广告毫无例外都是AdSen"
+  }
+]
