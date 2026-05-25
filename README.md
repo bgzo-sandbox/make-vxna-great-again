@@ -25,9 +25,11 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-25 | [由于 Linux 桌面没有一个好用的天气程序就写了一个跨平台的CheckitoutWeather](https://hellodk.cn/post/1221) | vibe coding的程序。暂时构建了 win 和 linux 的。mac 没设备暂时。开源以及下载地址： GitHub ，使用的和风天气API ，由于 API收费，免费的有额度但是不多，所以... |
 | 2026-05-25 | [百位数内加减法](https://mobius.blog/24359.html) | （2026 年全国卷）128+35+( )+2=247 A、82 B、90 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-25 | [AsyncT vllm适配、加速笔记（一）](https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%B8%80/) | 笔记的第一部分，主要覆盖了一些preliminaries，基础的vllm接入流程，以及简单的triton算子实现和最基础版本的CUDA算子实现。 |
+| 2026-05-25 | [当每个新发布都像另一个 AI Agent，怎样才能真正脱颖而出](https://rokcso.com/p/stand-out-ai-agent-launch/) | 现在去产品发布平台上看一圈，很容易疲劳。 又一个 AI Agent 做销售。又一个做调研。又一个做客服。又一个做代码。 问题不在大家都在做 AI。问题在于，太多产品用同一种方式介绍自己：一样的标签，一样的首页文案，一样的仪表盘截图，一样地承诺「提升效率」，却说不清替谁提升、在哪个环节提升、靠什么方式… |
 | 2026-05-25 | [我的目标不是你，是整个世界](https://blog.solazy.me/20260525/) | 今天抛出一个未来我会持续一直聊的概念 |
 | 2026-05-25 | [稻草人周刊 Vol.82](https://www.geedea.pro/weekly/82/) | 这周我把堆积在书签里没读的文章翻出来读了，发现其中有不少已经是两三个月前发布的内容了，他们跟随着一次次书签管理器迁移漂泊了好久，终于在周刊里找到了归宿。 止语 I Hate It Here Taylor Swift I’m lonely, but I’m good I’m bitter, but I… |
 | 2026-05-25 | [人的贪婪，始于被给得太多？](https://mobius.blog/24201.html) | 不知道为什么，每次在咖啡厅码字的时候，好像写下的都是“坏世界”这个分类的文章——大概这是一个可以直接观察到“人 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-05-25 | [IP送中的解决办法](https://bojie.site/posts/2026-05-25/) | 使用 WARP 解决 Google 将 VPS IP 识别为中国大陆 IP |
 | 2026-05-25 | [Memos #2026-05-24](https://www.taober.blog/memos) | 13:51 壹方城胖明，木薯糖水顶级，炒螺蛳粉也不错，美中不足的是我不吃猪肝，价格有点小贵。 |
 | 2026-05-24 | [环岛漫游 《Summer Pockets REFLECTION BLUE》 圣地巡礼之直岛](https://www.wikimoe.com/post/b-tfjh02hj) | 2026年5月6日，天气多云，今天将前往直岛，开启旅程的三周目。 关于直岛 直岛是位于日本濑户内海的香川县小岛，距离冈山县玉野市约3公里，以“艺术之岛”闻名；岛上既有白沙、青松、海湾与丘陵构成的宁静海景，也保留着渔村、港口和工业历史。自20世纪末以来，贝尼斯艺术场直岛等项目把当代艺术、安藤忠雄等建筑… |
 | 2026-05-24 | [低配服务器调优](https://blog.lhasa.icu/posts/technology/2026-05-25-low-end-server-tuning) | 一个月前，我在阿里云秒杀抢了台丐中丐，38元/年，2核 2G 40G 今天我在想它能不能作为饥荒的自建服务器，便着手收拾了起来 默认的系统是 Alibaba Cloud Linux，阿里过度定制化，不太适合我 索性直接用 Ubuntu 重装了系统。在编译博客时，再次遇到一个月前的性能问题，这里把调优… |
