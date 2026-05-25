@@ -6,6 +6,24 @@
     "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
   },
   {
+    "title": "CoStrict Router —— 第三方 CoStrict 接口转发工具",
+    "url": "https://mok.moe/p/costrict-router",
+    "date": "2026-05-25T20:49:00Z",
+    "description": "公司采购了 CoStrict，打开一看国产主流大模型挺全的，正打算好好把玩一番却发现官方只支持 VSCode 插件，于是连夜撸了个转发工具，顺便开源了 😋 costrict-router 是一个第三方的 CoStrict 接口转发工具，它可以将任意 OpenAI 兼容（Chat Completions）的请求转发到你指定的私有化 CoStrict 服务端上 你可以把它理解成一个 本地 CoStrict 入口：登录一次后，后续只需要把 Agent 工具的 Base URL 指向本地地址即可 🔗 http"
+  },
+  {
+    "title": "由于 Linux 桌面没有一个好用的天气程序就写了一个跨平台的CheckitoutWeather",
+    "url": "https://hellodk.cn/post/1221",
+    "date": "2026-05-25T07:27:00Z",
+    "description": "vibe coding的程序。暂时构建了 win 和 linux 的。mac 没设备暂时。开源以及下载地址： GitHub ，使用的和风天气API ，由于 API收费，免费的有额度但是不多，所以..."
+  },
+  {
+    "title": "百位数内加减法",
+    "url": "https://mobius.blog/24359.html",
+    "date": "2026-05-25T06:55:00Z",
+    "description": "（2026 年全国卷）128+35+( )+2=247 A、82 B、90 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
     "title": "AsyncT vllm适配、加速笔记（一）",
     "url": "https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%B8%80/",
     "date": "2026-05-25T03:16:00Z",
