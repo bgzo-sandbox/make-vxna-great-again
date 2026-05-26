@@ -21,14 +21,20 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-27 | [chrome-devtools-mcp 使用](https://blog.196000.xyz/2026/2026-05-27-develop-chrome-devtools-mcp.html) | Chrome DevTools MCP 是一个本地服务，它为 AI 编码助手（比如 Claude、Codex、Cursor 等）提供了一套控制 Chrome 浏览器的工具集。 |
+| 2026-05-26 | [Lesson 13 亲代抚育 (parental care)](https://physnya.top/animal-behavior/lesson-13-parental-care/) | 当然大家主要是一种接受的角色. General Pattern 有几类：没有亲代抚育、由雌性单独提供亲代抚育、由雄性单独提供亲代抚育、双亲共同提供亲代抚育. 第一类主要是无脊椎动物，我们这节课不仔细讨论. 先从鸟类这种主要由双亲共同提供亲代抚育的类型来说. 一般而言，雏鸟能否成活取决于食物的总量，而… |
+| 2026-05-26 | [PIXPRO主题安装教程：XLoader PHP扩展的安装与配置](https://www.evan.xin/5005/) | 注意⚠️pixpro主题对php的版本有一定要求，建议安装8.2及以上版本 如你不喜这个浏览方式可访问：htt […] |
+| 2026-05-26 | [Lesson 25 原初核合成 & CMB](https://physnya.top/GR/lesson-24-bbn-and-cmb/) | 核反应 1 + 2 ⟷ 3 + 4 1+2\longleftrightarrow 3+4 1 + 2 ⟷ 3 + 4 ，对于 n 1 n_1 n 1 ​ 有时间变化： |
 | 2026-05-26 | [AsyncT vllm适配、加速笔记（二）](https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%BA%8C/) | 加速第二篇，主要是在CUDA Kernel上做更多的优化，反思之前的Benchmarking问题等。 |
 | 2026-05-26 | [2026.5.25](https://www.justzht.com/2026-5-25/) | 刚预订了去纽约的机票和夏威夷的租车，都是开发者大会结束后的第二周。至于怎么从纽约去夏威夷，目前的想法 |
 | 2026-05-26 | [认知遮羞布：循环论证三段论](https://mobius.blog/24225.html) | 上周在咖啡厅码字时，因为耳机在后半程没电了，就只能把自己暴露在咖啡厅的白噪音之中，于是就听到隔壁两个阿姨的聊天 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-05-25 | [重庆徒步翻车！暴雨后进山，差点栽在这座小山里](https://macin.org/2026/05/25/tu-bu-fan-che/) | 重庆徒步翻车！暴雨后进山，差点栽在这座近郊小山里 翻看相册才发觉，自从月初爬过一次山后，已经许久没有进山徒步了。接连好几周都是单休模式，短暂的休息日根本来不及奔赴远方山野，只能就近找些轻量路线散心，徒步的瘾一直没得到尽兴。出发前一晚的重庆天气，堪称狂暴。整夜暴 |
 | 2026-05-25 | [CoStrict Router —— 第三方 CoStrict 接口转发工具](https://mok.moe/p/costrict-router) | 公司采购了 CoStrict，打开一看国产主流大模型挺全的，正打算好好把玩一番却发现官方只支持 VSCode 插件，于是连夜撸了个转发工具，顺便开源了 😋 costrict-router 是一个第三方的 CoStrict 接口转发工具，它可以将任意 OpenAI 兼容（Chat Completion… |
 | 2026-05-25 | [Marvis 实战：用 AI 打造一个每天自动更新的天蝎座运势站](https://www.evan.xin/5002/) | 我只负责"想"，AI 负责"做"。 起因 星座运势有稳定需求，但传统方式要么固定模板缺乏新鲜感，要么需要人工每 […] |
 | 2026-05-25 | [R#103 随心飞，启动！](https://blog.sakanano.moe/journals/random_103) | 2026.5.19 ~ 2026.5.25 |
 | 2026-05-25 | [由于 Linux 桌面没有一个好用的天气程序就写了一个跨平台的CheckitoutWeather](https://hellodk.cn/post/1221) | vibe coding的程序。暂时构建了 win 和 linux 的。mac 没设备暂时。开源以及下载地址： GitHub ，使用的和风天气API ，由于 API收费，免费的有额度但是不多，所以... |
 | 2026-05-25 | [百位数内加减法](https://mobius.blog/24359.html) | （2026 年全国卷）128+35+( )+2=247 A、82 B、90 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-05-25 | [理解LLM的范式——它就是个差分机？](https://blog.est.im/2026/stderr-20) | 作为一个外行，我一直对“AI”的魔力感到惊奇，我一度以为神经网络一层一层传播，可以看成某种有限步骤的图灵机。AI提醒我不要瞎类比，图灵机左移右移是离散，确定的逻辑，神经网络是fp32上连续的概率映射。 后来稍微深入了解了一下，认识到对于一个深度固定的 Transformer 模型（比如 96 层的… |
 | 2026-05-25 | [AsyncT vllm适配、加速笔记（一）](https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%B8%80/) | 笔记的第一部分，主要覆盖了一些preliminaries，基础的vllm接入流程，以及简单的triton算子实现和最基础版本的CUDA算子实现。 |
 | 2026-05-25 | [当每个新发布都像另一个 AI Agent，怎样才能真正脱颖而出](https://rokcso.com/p/stand-out-ai-agent-launch/) | 现在去产品发布平台上看一圈，很容易疲劳。 又一个 AI Agent 做销售。又一个做调研。又一个做客服。又一个做代码。 问题不在大家都在做 AI。问题在于，太多产品用同一种方式介绍自己：一样的标签，一样的首页文案，一样的仪表盘截图，一样地承诺「提升效率」，却说不清替谁提升、在哪个环节提升、靠什么方式… |
 | 2026-05-25 | [我的目标不是你，是整个世界](https://blog.solazy.me/20260525/) | 今天抛出一个未来我会持续一直聊的概念 |
@@ -51,6 +57,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-24 | [PVE 9.2 (Proxmox VE) 虚拟机系统 - 开源免费！同时安装运行多个不同操作系统](https://www.iplaysoft.com/pve.html) | 玩 软路由 、 NAS 、 迷你主机 等的朋友，如果希望能在一台机器上安装运行多个不同操作系统 (俗称 All in One)，一定都喜欢折腾「虚拟化系统」，其中最主流的就有 ESXi、PVE、Unraid 三者。 PVE (全称 Proxmox Virtual Environment) 是一个既可… |
 | 2026-05-24 | [Vol.104 自动化加速，人类专家价值飙升：AI Agent工程体系化与产业变革](https://liduos.com/weekly/the-weekly-gradient-104) | 本期内容聚焦AI自动化加速下人类专家价值上升的悖论，涵盖Gemini 3.5、Qwen3.7-Max等模型突破，Agent工程体系化（记忆、梦想、对抗式评估），以及AI原生创业与硬件趋势。 |
 | 2026-05-24 | [花费近万元，跑了8500km，我租车一年后的真实感受](https://www.qs5.org/Post/786.html) | 去年在论坛发过帖 不通勤, 用车不多, 可能租车比买车是更好的选择?最后想了想: 既然暂时也不打算买车, 不如先租一年试试看.于是,《十年老司机, 租车第一次上路感受, 另求行车记录仪推荐.》到... |
+| 2026-05-24 | [FastAdmin 使用备忘录](https://blog.196000.xyz/2026/2026-05-24-develop-fastadmin-handbook.html) | ```bash # @backend/.env [app] debug = true trace = false |
 | 2026-05-24 | [骑上 P10 去兜风](https://hux.ink/posts/first-ride-with-p10/) | 上周六去把大行 P10 拿下了，从计划买到下单间隔不到半个月，想买的东西拦不住，是时候又喊出三句箴言： 早买晚买早晚要买。 买了后悔三天，不买后悔三年。 四舍五入等于不要钱。 店里面有一辆已经换好轮组的新车，改装升级一对轮组约 2000 元左右，一开始想直接拿下。中秋同学在一旁说，要不先用原装轮子骑… |
 | 2026-05-24 | [一个极简且免费的 IP 地址查询服务](https://hzzio.top/blog/goip) | 一个基于 Merged-IP-Data 数据库，极简的 IP 地址查询服务，支持并发以及多语言、简化输出格式。 |
 | 2026-05-24 | [2026年第21周：等天晴](https://blog.sakoamc.com/posts/2621/) | 题记：突如其来的阵雨季。 |

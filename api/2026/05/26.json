@@ -6,6 +6,30 @@
     "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
   },
   {
+    "title": "chrome-devtools-mcp 使用",
+    "url": "https://blog.196000.xyz/2026/2026-05-27-develop-chrome-devtools-mcp.html",
+    "date": "2026-05-27T00:00:00Z",
+    "description": "Chrome DevTools MCP 是一个本地服务，它为 AI 编码助手（比如 Claude、Codex、Cursor 等）提供了一套控制 Chrome 浏览器的工具集。"
+  },
+  {
+    "title": "Lesson 13 亲代抚育 (parental care)",
+    "url": "https://physnya.top/animal-behavior/lesson-13-parental-care/",
+    "date": "2026-05-26T13:03:31Z",
+    "description": "当然大家主要是一种接受的角色. General Pattern 有几类：没有亲代抚育、由雌性单独提供亲代抚育、由雄性单独提供亲代抚育、双亲共同提供亲代抚育. 第一类主要是无脊椎动物，我们这节课不仔细讨论. 先从鸟类这种主要由双亲共同提供亲代抚育的类型来说. 一般而言，雏鸟能否成活取决于食物的总量，而双亲共同抚育能够提供的食物能够更多. 但是如果当前几乎没有足够的食物，那么首先放弃的一般是雄鸟. 两个因素： 首先从生殖结构来说，鸟类一般是体内受精，因此雄性只需要提供精子，不需要其他投入，因此它有更好的机会放弃； 同时雄鸟可以在一次繁殖周期内获得多次交配的机会，因此它提供抚育的时间也相应压缩."
+  },
+  {
+    "title": "PIXPRO主题安装教程：XLoader PHP扩展的安装与配置",
+    "url": "https://www.evan.xin/5005/",
+    "date": "2026-05-26T08:57:19Z",
+    "description": "注意⚠️pixpro主题对php的版本有一定要求，建议安装8.2及以上版本 如你不喜这个浏览方式可访问：htt […]"
+  },
+  {
+    "title": "Lesson 25 原初核合成 & CMB",
+    "url": "https://physnya.top/GR/lesson-24-bbn-and-cmb/",
+    "date": "2026-05-26T08:35:06Z",
+    "description": "核反应 1 + 2 ⟷ 3 + 4 1+2\\longleftrightarrow 3+4 1 + 2 ⟷ 3 + 4 ，对于 n 1 n_1 n 1 ​ 有时间变化："
+  },
+  {
     "title": "AsyncT vllm适配、加速笔记（二）",
     "url": "https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%BA%8C/",
     "date": "2026-05-26T07:35:00Z",
@@ -22,6 +46,12 @@
     "url": "https://mobius.blog/24225.html",
     "date": "2026-05-26T00:55:00Z",
     "description": "上周在咖啡厅码字时，因为耳机在后半程没电了，就只能把自己暴露在咖啡厅的白噪音之中，于是就听到隔壁两个阿姨的聊天 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
+    "title": "重庆徒步翻车！暴雨后进山，差点栽在这座小山里",
+    "url": "https://macin.org/2026/05/25/tu-bu-fan-che/",
+    "date": "2026-05-25T22:38:19Z",
+    "description": "重庆徒步翻车！暴雨后进山，差点栽在这座近郊小山里 翻看相册才发觉，自从月初爬过一次山后，已经许久没有进山徒步了。接连好几周都是单休模式，短暂的休息日根本来不及奔赴远方山野，只能就近找些轻量路线散心，徒步的瘾一直没得到尽兴。出发前一晚的重庆天气，堪称狂暴。整夜暴"
   },
   {
     "title": "CoStrict Router —— 第三方 CoStrict 接口转发工具",
@@ -52,6 +82,12 @@
     "url": "https://mobius.blog/24359.html",
     "date": "2026-05-25T06:55:00Z",
     "description": "（2026 年全国卷）128+35+( )+2=247 A、82 B、90 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
+    "title": "理解LLM的范式——它就是个差分机？",
+    "url": "https://blog.est.im/2026/stderr-20",
+    "date": "2026-05-25T03:57:00Z",
+    "description": "作为一个外行，我一直对“AI”的魔力感到惊奇，我一度以为神经网络一层一层传播，可以看成某种有限步骤的图灵机。AI提醒我不要瞎类比，图灵机左移右移是离散，确定的逻辑，神经网络是fp32上连续的概率映射。 后来稍微深入了解了一下，认识到对于一个深度固定的 Transformer 模型（比如 96 层的 GPT-4），它的单次前向传播算是一个深度固定的有向无环图（DAG）。所谓的 predict next token，可以粗糙理解成 nexttoken = eval(modelweights, history+input) 这里最奇特的算是：自回归（Autoregression）。传统的冯·诺依曼架构中，指令（Code）和数据（Data）是分开的。但在 LLM 中，上下文是动态的指令+数据。输出什么样话，什么时机结束。LLM得自己想办法把画圆回来，并且知道什么时候该停止吐词。 这种 控制面 和 数据面 混合的做法让我感到非常不适，也是诸多prompt injection问题无解的根源 不过一旦get到这个范式，我想到一个有趣的类比，一般的 gpt 是 dcoder-only，VRAM里权重就"
   },
   {
     "title": "AsyncT vllm适配、加速笔记（一）",
@@ -184,6 +220,12 @@
     "url": "https://www.qs5.org/Post/786.html",
     "date": "2026-05-24T04:39:00Z",
     "description": "去年在论坛发过帖 不通勤, 用车不多, 可能租车比买车是更好的选择?最后想了想: 既然暂时也不打算买车, 不如先租一年试试看.于是,《十年老司机, 租车第一次上路感受, 另求行车记录仪推荐.》到..."
+  },
+  {
+    "title": "FastAdmin 使用备忘录",
+    "url": "https://blog.196000.xyz/2026/2026-05-24-develop-fastadmin-handbook.html",
+    "date": "2026-05-24T02:00:00Z",
+    "description": "```bash # @backend/.env [app] debug = true trace = false"
   },
   {
     "title": "骑上 P10 去兜风",
