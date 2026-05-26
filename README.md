@@ -21,6 +21,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-26 | [认知遮羞布：循环论证三段论](https://mobius.blog/24225.html) | 上周在咖啡厅码字时，因为耳机在后半程没电了，就只能把自己暴露在咖啡厅的白噪音之中，于是就听到隔壁两个阿姨的聊天 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-25 | [CoStrict Router —— 第三方 CoStrict 接口转发工具](https://mok.moe/p/costrict-router) | 公司采购了 CoStrict，打开一看国产主流大模型挺全的，正打算好好把玩一番却发现官方只支持 VSCode 插件，于是连夜撸了个转发工具，顺便开源了 😋 costrict-router 是一个第三方的 CoStrict 接口转发工具，它可以将任意 OpenAI 兼容（Chat Completion… |
 | 2026-05-25 | [Marvis 实战：用 AI 打造一个每天自动更新的天蝎座运势站](https://www.evan.xin/5002/) | 我只负责"想"，AI 负责"做"。 起因 星座运势有稳定需求，但传统方式要么固定模板缺乏新鲜感，要么需要人工每 […] |
 | 2026-05-25 | [R#103 随心飞，启动！](https://blog.sakanano.moe/journals/random_103) | 2026.5.19 ~ 2026.5.25 |
@@ -128,28 +129,6 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-19 | [Heroes of Might and Magic II updated](https://macsourceports.com/game/homm2) | The build of fheroes2 for Heroes of Might and Magic II has been updated to version 1.1.16 of the project |
 | 2026-05-19 | [监控 IT 之家 RSS 新闻，匹配关键词后通过 ntfy.sh 推送到手机手表手环](https://hellodk.cn/post/1219) | 代码开源，部署简单 GitHub满足自用，如有新需求可以 fork 自己开发，比如推送到飞书机器人等。手环设置一下，也能收到推送，效果图如下。 |
 | 2026-05-19 | [我就是想证明一下自己 II](https://mobius.blog/23660.html) | 说完别人，也得嘲笑一下自己。 昨天提到的那些“我就是想证明一下自己”的人，并不是在聊他们“蠢”，而是在聊人性里 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-18 | [周报 #109 - Be a whole person](https://www.pseudoyu.com/posts/weekly_review_109) | 前言 本篇是对 2026-05-04 到 2026-05-19 这两周生活的记录与思考。 Be a whole person 不知不觉间，和 AI 对话/相伴似乎已经成为了生活的一种常态，今天粗略统计了下，每天在电脑前写代码超过 12h，过去一个月单单 Claude Code 的用量就快百亿 Tok… |
-| 2026-05-18 | [VMware Workstation Pro 26H1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活)](https://www.iplaysoft.com/vmware-workstation.html) | 虚拟机软件 可让你在不重启电脑的情况下，在一个操作系统上同时运行多个不同的系统，譬如在 Win10 上同时运行 Ubuntu 与 Win7 ，用户可用于各种 开发 、测试或运行不同平台的软件。 VMware Workstation Pro 26H1 中文专业版功能相对免费的 VMWare Playe… |
-| 2026-05-18 | [2026年四月 读医疗卫生 小说 3本](https://conge.livingwithfcs.org/2026/05/18/reading_summary/) | 引子 引子 公共卫生问题关系国计民生，特指是政府所负责的医疗卫生相关的政策、法规和措施。医疗卫生事业并非天然的政府职能，而是来自私人的生存和健康需求。但随着人们的聚居，这些需求很快就不是个人能控制。比如饮用水的安全和污水处理，一家一户的时候很容易处理，但人多了就必须有合乎大众利益的安排。 《 公共卫… |
-| 2026-05-18 | [VMWare Fusion Pro 26H1 - 最新苹果 Mac 免费虚拟机 (支持 M 芯片 / Win11 ARM)](https://www.iplaysoft.com/vmware-fusion.html) | 使用苹果 Mac 电脑不可避免都会遇到一些软件、硬件只能在 Windows 下使用 (如网银/行业软件/仅能兼容 IE 的网站、无 Mac 驱动的 硬件 等)，因此在 Mac 上安装 Win 是很有必要的。 曾经我们可用 BootCamp 安装双系统，但如今只能使用 虚拟机 安装。 VMWare F… |
-| 2026-05-18 | [第一次做游戏插件-激战2国际服中文转换 #Guild wars 2](https://anotherdayu.com/guildwars2-chinese/) | 因为对《激战2》的长期喜欢，我把一次回归国际服的体验，延伸成了一个基于 Nexus 的中文转换插件尝试，也重新确认了这款游戏为什么依然值得长期停留。 |
-| 2026-05-18 | [SugarLite 的 KMP 渐进式迁移实践](https://youngxhui.top/2026/05/sugarlite-kmp-migration/) | SugarLite 最初是一个纯 iOS 应用，技术栈是 SwiftUI + MVVM + Supabase Swift SDK。随着 Android 版本的需求提上日程，如果简单地把业务逻辑复制一份到 Kotlin，后续的维护成本会成倍增长——网络层、数据模型、业务规则都要双端维护。所以我们选择了… |
-| 2026-05-18 | [后来](https://blog.zopiya.com/hou-lai-c56701e6/) | 再喝是狗。又一次从宿醉中迷瞪过来的我，又说出了这句话。最近半年真的没少喝酒，更夸张的是，有一天中午喝，晚上喝，凌晨喝，甚至相约早上去吃胡辣汤喝早酒——不过因为没起来，遂罢，哈哈哈。 |
-| 2026-05-18 | [天津自驾游](https://elmagnifico.tech/2026/05/19/Tianjin-Self-driving-Travel/) | Foreword 周末小米举办了天津V1国际赛车场的活动，五一前就已经报名了1节练习+1天竞速，然而天公不作美，很多安排也不如预期，就改做自驾了。 天津 V1国际赛车场 V1赛车场这次开放的是最长路段，4.2km，接近街道的赛道也给开放了，但是本质上挺危险的，V1赛车场虽然是F2级别，但是这个缓冲区… |
-| 2026-05-18 | [车祸 XII](https://mobius.blog/23665.html) | （2026-全国卷）下列哪些是提升电动车品牌效应的方法： A、通过分析起火/爆炸事故数据，改进电池安全； B、 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-18 | [Zine#49](https://taxodium.ink/49.html) | Zine#49 🎶 嘿！岛 (Black Island) - 表情银行 MimikBanka 启明星 一定很孤独吧 孤独中 搁浅的你我啊 黑暗里 望眼欲穿向白昼 漫漫长夜 教我如何不泪流 浑浊的 黑夜赐予我疼痛 这疼痛 像雪一样正消融 睡魔啊 他唱着遗忘的歌谣 破晓时 就带走我的噩梦 哎呀呀 漫漫长… |
-| 2026-05-18 | [R#102 移动端 Vibe Coding！](https://blog.sakanano.moe/journals/random_102) | 2026.5.12 ~ 2026.5.18 |
-| 2026-05-18 | [遂昌｜躲避人潮的五一自驾Day2 - 桃源](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-02.html) |  |
-| 2026-05-18 | [2026 音色克隆方案对比：IndexTTS-2、CosyVoice、GPT-SoVITS、Fish Speech 部署与实测](https://liudon.com/posts/voice-cloning-solution-comparison/) | 系统对比 IndexTTS-2、CosyVoice、GPT-SoVITS、Fish Speech 四大音色克隆方案，详解部署步骤、测试方法、硬件要求、CPU 支持、优缺点与选型建议。 |
-| 2026-05-18 | [AI Infra：跳出数据库，看到更大的Agent Data Runtime](https://luweiqing.com/gossip/no-database-Agent-Data-Runtime.html) | 让数据直接成为 Agent 认知状态的一部分一、定义 Agent Data RuntimeAgent Data Runtime：一个面向 AI Agent 的状态化认知运行系统（Stateful... |
-| 2026-05-18 | [老板的在与不在](https://blog.solazy.me/20260518/) | 昨天去公司加班，老板和我说他接下来的一整周都不在公司 |
-| 2026-05-18 | [emacs-使用use-package的:vc像melpa一样安装package快照](https://blog.prayhand13013.top/20260518T120920--emacs-使用use-package的vc像melpa一样安装package快照__blog.html) |  |
-| 2026-05-18 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.1 of the project |
-| 2026-05-18 | [在 CC Switch 中配置 Claude Desktop](https://youngxhui.top/2026/05/cc-switch-desktop/) | 前面聊过 cc switch 的基础用法 ，今天单独说一下 CC Switch 里 Claude Desktop 面板的配置。在 3.15.0 中加入的功能，专门用来给 Claude Desktop 这个官方桌面客户端接入第三方供应商。 CC Switch 中的「Claude」和「Claude De… |
-| 2026-05-18 | [我就是想证明一下自己](https://mobius.blog/23645.html) | 简中社交媒体之中，我最佩服三个人：三礼、煮夫亮哥和勇哥说餐饮。我虽然不用抖音，但偶尔会在别处看到这三个人在和基 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-18 | [稻草人周刊 Vol.81](https://www.geedea.pro/weekly/81/) | 这周没读什么文章，大部分时间都花在赶项目、焦虑、把头埋在被子里哀嚎、在心里咒骂同室、焦虑、出门乱逛、路过某个场景于是触发几年前的回忆然后陷入情绪波动、做健身计划但不执行、焦虑、幻想养一只萨摩耶、在小红书上看别人养的萨摩耶、幻想开一家咖啡馆并把萨摩耶带到店里让客人陪玩、幻想早上七点半被狗狗叫醒、焦虑等… |
-| 2026-05-18 | [5.18 随想：发发牢骚](https://blog.sakoamc.com/posts/26sx001/) | 题记：当无聊反映为感知力的迟顿时，或许我更需要关心的是今晚的睡眠。 |
-| 2026-05-18 | [MCP Dock：给 14 个 AI 客户端统一管配置](https://folay.top/blog/mcp-dock) | 做了个桌面端工具，统一管理 Cursor、VS Code、Claude Code 等客户端的 MCP 配置。 |
 
 ## Vibe Coding
 

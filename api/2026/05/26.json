@@ -1,0 +1,188 @@
+[
+  {
+    "title": "the-story-of-me",
+    "url": "https://m4p1e.com/2066/05/04/the-story-of-me/",
+    "date": "2066-05-04T19:39:44Z",
+    "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
+  },
+  {
+    "title": "认知遮羞布：循环论证三段论",
+    "url": "https://mobius.blog/24225.html",
+    "date": "2026-05-26T00:55:00Z",
+    "description": "上周在咖啡厅码字时，因为耳机在后半程没电了，就只能把自己暴露在咖啡厅的白噪音之中，于是就听到隔壁两个阿姨的聊天 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
+    "title": "CoStrict Router —— 第三方 CoStrict 接口转发工具",
+    "url": "https://mok.moe/p/costrict-router",
+    "date": "2026-05-25T20:49:00Z",
+    "description": "公司采购了 CoStrict，打开一看国产主流大模型挺全的，正打算好好把玩一番却发现官方只支持 VSCode 插件，于是连夜撸了个转发工具，顺便开源了 😋 costrict-router 是一个第三方的 CoStrict 接口转发工具，它可以将任意 OpenAI 兼容（Chat Completions）的请求转发到你指定的私有化 CoStrict 服务端上 你可以把它理解成一个 本地 CoStrict 入口：登录一次后，后续只需要把 Agent 工具的 Base URL 指向本地地址即可 🔗 http"
+  },
+  {
+    "title": "Marvis 实战：用 AI 打造一个每天自动更新的天蝎座运势站",
+    "url": "https://www.evan.xin/5002/",
+    "date": "2026-05-25T15:34:49Z",
+    "description": "我只负责\"想\"，AI 负责\"做\"。 起因 星座运势有稳定需求，但传统方式要么固定模板缺乏新鲜感，要么需要人工每 […]"
+  },
+  {
+    "title": "R#103 随心飞，启动！",
+    "url": "https://blog.sakanano.moe/journals/random_103",
+    "date": "2026-05-25T14:00:00Z",
+    "description": "2026.5.19 ~ 2026.5.25"
+  },
+  {
+    "title": "由于 Linux 桌面没有一个好用的天气程序就写了一个跨平台的CheckitoutWeather",
+    "url": "https://hellodk.cn/post/1221",
+    "date": "2026-05-25T07:27:00Z",
+    "description": "vibe coding的程序。暂时构建了 win 和 linux 的。mac 没设备暂时。开源以及下载地址： GitHub ，使用的和风天气API ，由于 API收费，免费的有额度但是不多，所以..."
+  },
+  {
+    "title": "百位数内加减法",
+    "url": "https://mobius.blog/24359.html",
+    "date": "2026-05-25T06:55:00Z",
+    "description": "（2026 年全国卷）128+35+( )+2=247 A、82 B、90 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
+    "title": "AsyncT vllm适配、加速笔记（一）",
+    "url": "https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%B8%80/",
+    "date": "2026-05-25T03:16:00Z",
+    "description": "笔记的第一部分，主要覆盖了一些preliminaries，基础的vllm接入流程，以及简单的triton算子实现和最基础版本的CUDA算子实现。"
+  },
+  {
+    "title": "当每个新发布都像另一个 AI Agent，怎样才能真正脱颖而出",
+    "url": "https://rokcso.com/p/stand-out-ai-agent-launch/",
+    "date": "2026-05-25T02:00:00Z",
+    "description": "现在去产品发布平台上看一圈，很容易疲劳。 又一个 AI Agent 做销售。又一个做调研。又一个做客服。又一个做代码。 问题不在大家都在做 AI。问题在于，太多产品用同一种方式介绍自己：一样的标签，一样的首页文案，一样的仪表盘截图，一样地承诺「提升效率」，却说不清替谁提升、在哪个环节提升、靠什么方式提升。 于是很多产品在用户点进去之前，就已经失去了区分度。 这几年，做产品和发产品的门槛都在快速下降。对创业者来说，这当然是好事；但另一面是，市场上的「相似发布」越来越多。发布变容易了，听起来普通的代价反而更高了。 「Agent」只是类别，不是差异化 很多团队以为，给产品贴上「AI Agent」的标签，产品就自动显得更先进。 并不是。 如果你的产品本质上只是接了一个大模型，那它未必真的是 Agent。即便它确实是，「Agent」也只是个类别名词——用户不会因为「这终于是个 Agent 了」而买单。用户会买单，是因为某件原本麻烦、低效、容易出错的工作，被你更稳地接过去了。 所以与其说： 我们是一个面向客服团队的 AI Agent 不如说： 我们帮 Shopify 商家自动处理退款和改订单请求，"
+  },
+  {
+    "title": "我的目标不是你，是整个世界",
+    "url": "https://blog.solazy.me/20260525/",
+    "date": "2026-05-25T02:00:00Z",
+    "description": "今天抛出一个未来我会持续一直聊的概念"
+  },
+  {
+    "title": "稻草人周刊 Vol.82",
+    "url": "https://www.geedea.pro/weekly/82/",
+    "date": "2026-05-25T01:36:43Z",
+    "description": "这周我把堆积在书签里没读的文章翻出来读了，发现其中有不少已经是两三个月前发布的内容了，他们跟随着一次次书签管理器迁移漂泊了好久，终于在周刊里找到了归宿。 止语 I Hate It Here Taylor Swift I’m lonely, but I’m good I’m bitter, but I swear I’m fine I’ll save all my romanticism for my inner life and I’ll get lost on purpose This place made me feel worthless Lucid dreams like electricity, the current flies through me And in my fantasies, I rise above it And way up there, I actually love it 连接 我抛弃孩子，爱上妈妈，被全欧洲封杀，但我是个好人 📻 《独树不成林》我抛弃孩子，爱上妈妈，被全欧洲封杀，但我是个好人 八卦不仅仅是娱乐方式，甚至是刻在人类基因里的生存本能，原"
+  },
+  {
+    "title": "人的贪婪，始于被给得太多？",
+    "url": "https://mobius.blog/24201.html",
+    "date": "2026-05-25T00:55:00Z",
+    "description": "不知道为什么，每次在咖啡厅码字的时候，好像写下的都是“坏世界”这个分类的文章——大概这是一个可以直接观察到“人 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
+    "title": "IP送中的解决办法",
+    "url": "https://bojie.site/posts/2026-05-25/",
+    "date": "2026-05-25T00:00:00Z",
+    "description": "使用 WARP 解决 Google 将 VPS IP 识别为中国大陆 IP"
+  },
+  {
+    "title": "Memos #2026-05-24",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-05-25T00:00:00Z",
+    "description": "13:51 壹方城胖明，木薯糖水顶级，炒螺蛳粉也不错，美中不足的是我不吃猪肝，价格有点小贵。"
+  },
+  {
+    "title": "环岛漫游 《Summer Pockets REFLECTION BLUE》 圣地巡礼之直岛",
+    "url": "https://www.wikimoe.com/post/b-tfjh02hj",
+    "date": "2026-05-24T23:03:35Z",
+    "description": "2026年5月6日，天气多云，今天将前往直岛，开启旅程的三周目。 关于直岛 直岛是位于日本濑户内海的香川县小岛，距离冈山县玉野市约3公里，以“艺术之岛”闻名；岛上既有白沙、青松、海湾与丘陵构成的宁静海景，也保留着渔村、港口和工业历史。自20世纪末以来，贝尼斯艺术场直岛等项目把当代艺术、安藤忠雄等建筑师设计的美术馆与岛屿自然环境结合起来，使直岛成为欣赏地中美术馆、李禹焕美术馆、贝尼斯之家，以及草间弥生南瓜雕塑等作品的独特旅行目的地。 事前准备 出发前，建议做好事前准备。 如何前往直岛 前往直岛通常有两条主线：从冈山方向走宇野港最方便，或从香川/高松方向走高松港。 线路1 冈山 → 宇野港 → 直岛宫浦港 从东京、名古屋、大阪、京都、广岛等地先坐新干线到冈山站；官方参考车程为东京到冈山约3小时25分，新大阪到冈山约50分钟，广岛到冈山约40分钟。到冈山后换乘 JR 前往宇野港，再坐船到直岛。 路线2 冈山 → 高松 → 直岛宫浦港 同样的方式先到冈山，然后从高松港坐船到直岛宫浦港。高松到直岛约50分钟，直岛回高松约60分钟。 注意点 直岛的船分渡轮和高速船，两者售票点和时刻表可能会有所不同"
+  },
+  {
+    "title": "低配服务器调优",
+    "url": "https://blog.lhasa.icu/posts/technology/2026-05-25-low-end-server-tuning",
+    "date": "2026-05-24T22:47:00Z",
+    "description": "一个月前，我在阿里云秒杀抢了台丐中丐，38元/年，2核 2G 40G 今天我在想它能不能作为饥荒的自建服务器，便着手收拾了起来 默认的系统是 Alibaba Cloud Linux，阿里过度定制化，不太适合我 索性直接用 Ubuntu 重装了系统。在编译博客时，再次遇到一个月前的性能问题，这里把调优过程记录下来，也算水了一篇 如上图，执行构建命令后，磁盘 IO 瞬间拉满，直接达到了该套餐的 IOPS 上限，接近 2000 counts/s 随后这台丐中丐彻底失去响应，SSH 直接断开，我只能去阿里云控制台强制重启 增加 Swap 这种丐中丐想要编译项目，单靠 2G 物理内存真的很难受，必须向磁盘借点空间 # 创建 4GB Swap sudo dd if=/dev/zero of=/swapfile bs=1M count=4096 # 赋权、格式化、启用 sudo chmod 600 /swapfile sudo mkswap /swapfile sudo swapon /swapfile # 自动挂载 echo '/swapfile none swap sw 0 0' | sudo "
+  },
+  {
+    "title": "Toots 420 2026 May.17 - May.23",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260523/",
+    "date": "2026-05-24T15:48:27Z",
+    "description": "「被内在拉长。」"
+  },
+  {
+    "title": "爱你老体",
+    "url": "https://z.arlmy.me/posts/ZArlmyMe/ToMyBody_20260524/",
+    "date": "2026-05-24T15:44:03Z",
+    "description": "「如果一开始就是错的，我们到底什么时候才会醒悟？」"
+  },
+  {
+    "title": "金陵三日快时光",
+    "url": "https://yinji.org/nan-jing.html",
+    "date": "2026-05-24T14:35:18Z",
+    "description": "前面忙完之后，调休了周四周五，本想周四和朋友徒步走完南昌梅岭之后直奔南京，却被天气预报耍了一通，梅岭没去成，在南昌闲逛一会之后，下午就坐高铁去了南京，开始了金陵三日快时光。 去南京其实也是临时起意，本想去广州找另一个同学，恰好看天气广州在下雨，便对着地图找距离合、天气合适的城市，最后选择了南京。 一行三人，都是男生，初中同学。在高铁上，仍然对于没有去梅岭而感到惋惜，对此计划周五凌晨夜爬南京紫金山，看日出。于是周四晚上六点左右抵达南京南站之后，先去酒店放好了行李，在附近吃了一份大肉面、汤包，就把晚饭解决了，有意思的是，这家店倪妮也去过。因为缺少一些爬山徒步的装备，随即又去了附近的迪卡侬，买了几件...... 继续阅读»»»"
+  },
+  {
+    "title": "周末流水账 0524",
+    "url": "https://blog.solazy.me/20260524/",
+    "date": "2026-05-24T12:30:00Z",
+    "description": "换新手机咯！"
+  },
+  {
+    "title": "AI Infra：Tacnode，面向 AI Agent 与实时自动化决策系统的 Context Lake",
+    "url": "https://luweiqing.com/gossip/Tacnode-Context-Lake.html",
+    "date": "2026-05-24T11:45:52Z",
+    "description": "1. 定位：Tacnode 是面向 AI Agent 与实时自动化决策系统的 Context Lake，用统一的数据与语义上下文层，替代传统“数据库 + 搜索 + 向量库 + 流处理”的拼接式架..."
+  },
+  {
+    "title": "死猫",
+    "url": "https://mobius.blog/24352.html",
+    "date": "2026-05-24T11:40:33Z",
+    "description": "刚才遛狗时，狗突然扯着绳子朝一个地方凑，我才发现一只侧躺在灌木里的猫，但已经死了。 小区有好几只眼熟的猫，靠附 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+  },
+  {
+    "title": "学习周刊-总第264期-2026年第21周",
+    "url": "https://wiki.eryajf.net/pages/1833b9/",
+    "date": "2026-05-24T10:58:24Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第264期 | pxcharts | dinky | next-admin | worldmonitor | dbpaw | chartli | oh-my-pi"
+  },
+  {
+    "title": "好玩，大数据杀熟",
+    "url": "https://re.karlbaey.top/articles/rocky-road/big-swindling/",
+    "date": "2026-05-24T08:22:49Z",
+    "description": "杀熟很常见，它有个更地道的称呼叫做“看人下菜碟”，但是互联网把这“人”，或者连人都不是，的范围扩得好宽好宽啊，甚至有时候 …"
+  },
+  {
+    "title": "PVE 9.2 (Proxmox VE) 虚拟机系统 - 开源免费！同时安装运行多个不同操作系统",
+    "url": "https://www.iplaysoft.com/pve.html",
+    "date": "2026-05-24T08:10:22Z",
+    "description": "玩 软路由 、 NAS 、 迷你主机 等的朋友，如果希望能在一台机器上安装运行多个不同操作系统 (俗称 All in One)，一定都喜欢折腾「虚拟化系统」，其中最主流的就有 ESXi、PVE、Unraid 三者。 PVE (全称 Proxmox Virtual Environment) 是一个既可运行 虚拟机 也能运行 Docker 容器的虚拟化环境平台。它基于 Debian 和 KVM 技术开发，完全 开源 免费！通过 PVE 你可以随时创建管理多台虚拟机，在一台 PC 或 服务器 上同时运行各种 Linux 、OpenWRT、 Windows 等操作系统…… 「 前往查看原文.... 」 异次元还有这些值得一看： VMware ESXi 8.0U3e 官方免费版 ISO 镜像下载 - 虚拟机专用系统 (一机同时运行多系统) VirtualBox 7.2 最新虚拟机软件下载 - 免费开源跨平台 (支持 Win/Mac/Linux 安装多系统) Ubuntu 26.04 LTS 中文桌面版/服务器正式版ISO镜像下载 - 流行易入门的 Linux 系统 Fedora 43 正式版镜像"
+  },
+  {
+    "title": "Vol.104 自动化加速，人类专家价值飙升：AI Agent工程体系化与产业变革",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-104",
+    "date": "2026-05-24T08:00:00Z",
+    "description": "本期内容聚焦AI自动化加速下人类专家价值上升的悖论，涵盖Gemini 3.5、Qwen3.7-Max等模型突破，Agent工程体系化（记忆、梦想、对抗式评估），以及AI原生创业与硬件趋势。"
+  },
+  {
+    "title": "花费近万元，跑了8500km，我租车一年后的真实感受",
+    "url": "https://www.qs5.org/Post/786.html",
+    "date": "2026-05-24T04:39:00Z",
+    "description": "去年在论坛发过帖 不通勤, 用车不多, 可能租车比买车是更好的选择?最后想了想: 既然暂时也不打算买车, 不如先租一年试试看.于是,《十年老司机, 租车第一次上路感受, 另求行车记录仪推荐.》到..."
+  },
+  {
+    "title": "骑上 P10 去兜风",
+    "url": "https://hux.ink/posts/first-ride-with-p10/",
+    "date": "2026-05-24T01:39:00Z",
+    "description": "上周六去把大行 P10 拿下了，从计划买到下单间隔不到半个月，想买的东西拦不住，是时候又喊出三句箴言： 早买晚买早晚要买。 买了后悔三天，不买后悔三年。 四舍五入等于不要钱。 店里面有一辆已经换好轮组的新车，改装升级一对轮组约 2000 元左右，一开始想直接拿下。中秋同学在一旁说，要不先用原装轮子骑一段时间再来升级，我说好。原车价格 4398 元+换了一组脚踏 168 元，总价 4566 元。 上午开车去门店的，下单完直接折叠放进后备箱，出发去一个新开的公园——南湾郊野公园。抵达后发现这个公园不具备骑行条件，作罢，改成带娃徒步。新开的这个公园确实如其名比较野，蚊子特别大，公园里建了两三个特别高大的廊桥，网红桥预警。 前一晚看天气预报说周日下雨，但一到早上又说不会下了。于是带上折叠车和安安的小自行车，出发去前海石公园。三个人，两台车咋整？无奈，P10 先给老婆大人体验一下，我选择就近扫了一辆共享单车，一起从前海石公园的南头，骑到了欢乐港湾摩天轮。 在欢乐港湾附近，有个骑行泵道。泵道入口有公园工作人员守着，只允许儿童自行车、平衡车、滑板进入。起起伏伏的泵道，小朋友们可以开心玩一整天，就是人"
+  },
+  {
+    "title": "一个极简且免费的 IP 地址查询服务",
+    "url": "https://hzzio.top/blog/goip",
+    "date": "2026-05-24T01:01:59Z",
+    "description": "一个基于 Merged-IP-Data 数据库，极简的 IP 地址查询服务，支持并发以及多语言、简化输出格式。"
+  },
+  {
+    "title": "2026年第21周：等天晴",
+    "url": "https://blog.sakoamc.com/posts/2621/",
+    "date": "2026-05-24T00:00:00Z",
+    "description": "题记：突如其来的阵雨季。"
+  },
+  {
+    "title": "独立游戏简评 Vol.5",
+    "url": "https://bluepika.life/blog/indie-game-notes-5",
+    "date": "2026-05-24T00:00:00Z",
+    "description": "以下提到的游戏里涉及解谜游戏，部分内容含有剧透。"
+  }
+]
