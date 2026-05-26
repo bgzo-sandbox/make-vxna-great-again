@@ -25,6 +25,7 @@ This page is overwritten on each fetch run and only keeps the latest execution r
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
 | 2026-05-27 | [chrome-devtools-mcp 使用](https://blog.196000.xyz/2026/2026-05-27-develop-chrome-devtools-mcp.html) | Chrome DevTools MCP 是一个本地服务，它为 AI 编码助手（比如 Claude、Codex、Cursor 等）提供了一套控制 Chrome 浏览器的工具集。 |
+| 2026-05-26 | [十年重生！Wox 2 开源快速应用启动器 (跨平台/多插件/搜索/截图/翻译/AI)](https://www.iplaysoft.com/wox2.html) | 我有时特别痴迷各种效率工具，能省一点点的操作都会很开心。Windows 上折腾过 Listary 、 Fences 、 Quicker 、 uTools 、 PowerToys Run ，在 Mac 上 Raycast 和 Alfred 反复也比较过。 而最近一款十多年的老牌开源快捷启动器 Wox… |
 | 2026-05-26 | [Lesson 13 亲代抚育 (parental care)](https://physnya.top/animal-behavior/lesson-13-parental-care/) | 当然大家主要是一种接受的角色. General Pattern 有几类：没有亲代抚育、由雌性单独提供亲代抚育、由雄性单独提供亲代抚育、双亲共同提供亲代抚育. 第一类主要是无脊椎动物，我们这节课不仔细讨论. 先从鸟类这种主要由双亲共同提供亲代抚育的类型来说. 一般而言，雏鸟能否成活取决于食物的总量，而… |
 | 2026-05-26 | [PIXPRO主题安装教程：XLoader PHP扩展的安装与配置](https://www.evan.xin/5005/) | 注意⚠️pixpro主题对php的版本有一定要求，建议安装8.2及以上版本 如你不喜这个浏览方式可访问：htt […] |
 | 2026-05-26 | [Lesson 25 原初核合成 & CMB](https://physnya.top/GR/lesson-24-bbn-and-cmb/) | 核反应 1 + 2 ⟷ 3 + 4 1+2\longleftrightarrow 3+4 1 + 2 ⟷ 3 + 4 ，对于 n 1 n_1 n 1 ​ 有时间变化： |
