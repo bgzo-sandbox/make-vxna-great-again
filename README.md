@@ -15,6 +15,9 @@ This is a replacement for https://www.v2ex.com/xna, for the following reasons:
 
 The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the public index (https://www.v2ex.com/xna) only shows `472` entries. The 71 missing blogs — removed for unknown reasons — are exactly why this project exists.
 
+Latest source pull status: see [docs/status/latest-fetch-status.md](docs/status/latest-fetch-status.md).
+This page is overwritten on each fetch run and only keeps the latest execution result.
+
 
 ## Last Week Blog
 

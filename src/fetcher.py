@@ -22,13 +22,37 @@ from pathlib import Path
 import feedparser
 import httpx
 
-from src.opml import DEFAULT_OPML_PATH, read_feeds
+from src.opml import DEFAULT_OPML_PATH, read_feed_sources
 from src.text_utils import clean_description
 
 logger = logging.getLogger(__name__)
 
 # 单篇文章的类型别名
 Article = dict[str, str]
+
+# 单个 feed 源的抓取状态
+FeedFetchStatus = dict[str, str | int | bool]
+
+
+def _build_feed_status(
+    feed_url: str,
+    *,
+    title: str = "",
+    source_url: str = "",
+    success: bool,
+    article_count: int,
+    error: str,
+) -> FeedFetchStatus:
+    """构造统一的 feed 抓取状态对象。"""
+    return {
+        "title": title,
+        "feed_url": feed_url,
+        "source_url": source_url,
+        "success": success,
+        "article_count": article_count,
+        "error": error,
+        "checked_at": datetime.now(tz=timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+    }
 
 
 def _parse_date(entry: feedparser.FeedParserDict) -> datetime:
@@ -65,7 +89,13 @@ def _entry_to_article(entry: feedparser.FeedParserDict) -> Article:
     return {"title": title, "url": url, "date": date, "description": clean_description(raw)[:500]}
 
 
-def fetch_feed(url: str, client: httpx.Client) -> list[Article]:
+def fetch_feed(
+    url: str,
+    client: httpx.Client,
+    *,
+    title: str = "",
+    source_url: str = "",
+) -> tuple[list[Article], FeedFetchStatus]:
     """
     抓取单个 feed URL，返回文章列表。
     失败时打印日志并返回空列表。
@@ -75,32 +105,61 @@ def fetch_feed(url: str, client: httpx.Client) -> list[Article]:
         client: 已初始化的 httpx.Client
 
     Returns:
-        Article 列表
+        (Article 列表, feed 抓取状态)
     """
     try:
         resp = client.get(url)
         resp.raise_for_status()
     except Exception as exc:
         logger.warning("抓取 feed 失败，跳过 %s: %s", url, exc)
-        return []
+        return [], _build_feed_status(
+            url,
+            title=title,
+            source_url=source_url,
+            success=False,
+            article_count=0,
+            error=str(exc),
+        )
 
     try:
         parsed = feedparser.parse(resp.text)
     except Exception as exc:
         logger.warning("解析 feed 失败，跳过 %s: %s", url, exc)
-        return []
+        return [], _build_feed_status(
+            url,
+            title=title,
+            source_url=source_url,
+            success=False,
+            article_count=0,
+            error=str(exc),
+        )
 
     if parsed.bozo and not parsed.entries:
         logger.warning("feed 解析异常，跳过 %s", url)
-        return []
+        return [], _build_feed_status(
+            url,
+            title=title,
+            source_url=source_url,
+            success=False,
+            article_count=0,
+            error="feed parse error",
+        )
 
-    return [_entry_to_article(e) for e in parsed.entries]
+    articles = [_entry_to_article(e) for e in parsed.entries]
+    return articles, _build_feed_status(
+        url,
+        title=title,
+        source_url=source_url,
+        success=True,
+        article_count=len(articles),
+        error="",
+    )
 
 
 def fetch_all_feeds(
     opml_path: Path = DEFAULT_OPML_PATH,
     client: httpx.Client | None = None,
-) -> list[Article]:
+) -> tuple[list[Article], list[FeedFetchStatus]]:
     """
     读取 OPML，抓取所有 feed，聚合并按日期降序排序。
 
@@ -111,23 +170,31 @@ def fetch_all_feeds(
     Returns:
         所有文章的聚合列表，按 date 降序排列
     """
-    feed_urls = read_feeds(opml_path)
-    if not feed_urls:
+    feed_sources = read_feed_sources(opml_path)
+    if not feed_sources:
         logger.info("OPML 中无 feed，跳过抓取")
-        return []
+        return [], []
 
     articles: list[Article] = []
+    statuses: list[FeedFetchStatus] = []
     _owns_client = client is None
     if _owns_client:
         client = httpx.Client(timeout=15, follow_redirects=True)
 
     try:
-        for url in feed_urls:
-            articles.extend(fetch_feed(url, client))
+        for source in feed_sources:
+            feed_articles, status = fetch_feed(
+                source["xml_url"],
+                client,
+                title=source["title"],
+                source_url=source["html_url"],
+            )
+            articles.extend(feed_articles)
+            statuses.append(status)
     finally:
         if _owns_client:
             client.close()
 
     # 按 date 字符串降序排列（ISO 8601 字符串可直接字符串比较）
     articles.sort(key=lambda a: a["date"], reverse=True)
-    return articles
+    return articles, statuses

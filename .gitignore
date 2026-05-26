@@ -88,3 +88,4 @@ Gopkg.lock
 
 # Copilot
 .github/.bak/**/*.md
+docs/implementation-plans/*.md

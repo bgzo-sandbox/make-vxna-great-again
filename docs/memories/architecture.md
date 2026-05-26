@@ -1,7 +1,7 @@
 ---
 title: 项目架构
 created: 2026-04-04
-modified: 2026-04-04T08:28:43
+modified: 2026-05-26T01:38:00
 description: 架构需要对项目的整体结构进行说明，明确每个文件夹和文件的作用，以及它们之间的关系。需要列出每个文件的作用，以及它们之间的调用关系。如果有数据库，包含完整数据库结构。
 tags: 
   - ai-notes
@@ -27,9 +27,12 @@ $ tree . -L 3
 │   ├── crawler.py                # 爬取 v2ex/xna，发现新博客，提取 feed URL
 │   ├── opml.py                   # 读写 config/rss.opml
 │   ├── fetcher.py                # 读取 OPML，fetch 所有 feed，聚合文章
+│   ├── status_page.py            # 将最近一次 feed 拉取结果写成 Markdown 看板
 │   └── writer.py                 # 将聚合结果写入 api/{YYYY}/{MM}/{DD}.json
 ├── docs
 │   ├── implementation-plans      # 实施计划，每次 Bug 修复 / 新功能全部记录
+│   ├── status                    # 最近一次 feed 拉取状态看板
+│   │   └── latest-fetch-status.md
 │   └── memories                  # LLM 必须加载的上下文（架构、设计、技术栈）
 │       ├── architecture.md
 │       ├── design.md
@@ -44,9 +47,11 @@ $ tree . -L 3
 v2ex/xna (HTML)
     ↓ [crawler.py] 按数字累增爬取，提取 feed URL
 config/rss.opml
-    ↓ [fetcher.py] 读取所有 feed，fetch 文章，聚合排序
+  ↓ [fetcher.py] 读取所有 feed，fetch 文章，聚合排序，并生成源级成功/失败状态
 api/{YYYY}/{MM}/{DD}.json
     ↓ [writer.py] 写入 JSON
+docs/status/latest-fetch-status.md
+  ↓ [status_page.py] 覆盖写入最近一次拉取状态看板
 README.md (可选：自动更新最新文章摘要)
 ```
 
@@ -57,6 +62,6 @@ README.md (可选：自动更新最新文章摘要)
   1. Checkout 仓库
   2. 安装 Python 依赖（uv）
   3. 运行 `crawler.py`：发现新博客，更新 `config/rss.opml`
-  4. 运行 `fetcher.py` + `writer.py`：fetch feeds，输出 `api/` JSON
-  5. Commit & push 变更（`config/rss.opml` + `api/` 目录）
+  4. 运行 `fetcher.py` + `writer.py` + `status_page.py`：fetch feeds，输出 `api/` JSON 与最近一次状态看板
+  5. Commit & push 变更（`config/rss.opml` + `api/` 目录 + `docs/status/latest-fetch-status.md`）
 

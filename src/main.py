@@ -37,14 +37,18 @@ def run_crawl(start_index: int | None = None) -> None:
 def run_fetch() -> None:
     """抓取所有 feed，聚合文章，写入 api/ JSON 文件。"""
     from src.fetcher import fetch_all_feeds
+    from src.status_page import write_status_page
     from src.writer import write_articles
 
     logger.info("开始抓取 feeds")
-    articles = fetch_all_feeds()
+    articles, statuses = fetch_all_feeds()
     logger.info("共聚合 %d 篇文章", len(articles))
 
     out_path = write_articles(articles)
     logger.info("写入完成: %s", out_path)
+
+    status_path = write_status_page(statuses)
+    logger.info("状态页写入完成: %s", status_path)
 
 
 def run_update_readme() -> None:

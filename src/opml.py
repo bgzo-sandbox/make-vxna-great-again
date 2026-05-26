@@ -22,6 +22,41 @@ DEFAULT_OPML_PATH = Path(__file__).parent.parent / "config" / "rss.opml"
 _XNA_INDEX_RE = re.compile(r"/xna/s/(\d+)$")
 
 
+def read_feed_sources(opml_path: Path = DEFAULT_OPML_PATH) -> list[dict[str, str]]:
+    """
+    读取 OPML 文件，返回所有 feed 源的元数据列表。
+
+    Args:
+        opml_path: OPML 文件路径
+
+    Returns:
+        源元数据列表，字段包含 title、xml_url、html_url；
+        按原始顺序返回，并按 xmlUrl 去重。
+    """
+    if not opml_path.exists():
+        return []
+
+    tree = ET.parse(opml_path)
+    root = tree.getroot()
+
+    sources: list[dict[str, str]] = []
+    seen: set[str] = set()
+    for outline in root.iter("outline"):
+        xml_url = outline.get("xmlUrl", "")
+        if not xml_url or xml_url in seen:
+            continue
+        sources.append(
+            {
+                "title": outline.get("title", ""),
+                "xml_url": xml_url,
+                "html_url": outline.get("htmlUrl", ""),
+            }
+        )
+        seen.add(xml_url)
+
+    return sources
+
+
 def read_feeds(opml_path: Path = DEFAULT_OPML_PATH) -> list[str]:
     """
     读取 OPML 文件，返回所有 feed URL 列表。
@@ -32,21 +67,7 @@ def read_feeds(opml_path: Path = DEFAULT_OPML_PATH) -> list[str]:
     Returns:
         feed URL 字符串列表，去重后按原始顺序排列
     """
-    if not opml_path.exists():
-        return []
-
-    tree = ET.parse(opml_path)
-    root = tree.getroot()
-
-    urls = []
-    seen = set()
-    for outline in root.iter("outline"):
-        url = outline.get("xmlUrl")
-        if url and url not in seen:
-            urls.append(url)
-            seen.add(url)
-
-    return urls
+    return [source["xml_url"] for source in read_feed_sources(opml_path)]
 
 
 def get_max_xna_index(opml_path: Path = DEFAULT_OPML_PATH) -> int:

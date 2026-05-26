@@ -1,7 +1,7 @@
 ---
 title: 项目设计
 created: 2026-04-04
-modified: 2026-04-04T21:49:49
+modified: 2026-05-26T01:41:00
 description: 给后续 LLM 提供「可执行、可验证、可迭代」的上下文。先做最小可用版本（MVP），不要过度设计；所有章节都要能直接映射为任务。
 tags: 
   - ai-notes
@@ -32,6 +32,12 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 - Read `config/rss.opml`, fetch all feeds.
 - Aggregate all articles, sorted by date descending.
 - Output to `api/{YYYY}/{MM}/{DD}.json`.
+- Output the latest source-level fetch result to `docs/status/latest-fetch-status.md`.
+
+**Latest status page rules:**
+- The status page contains one row per feed source, not one row per article.
+- Each row includes source title, feed URL, source page URL, success/failed status, article count, and error message.
+- The file is overwritten on every fetch run and only keeps the latest execution result.
 
 **JSON write rules:**
 - **Filter**: articles with a publish date older than **2 days** are discarded before writing.
@@ -66,7 +72,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 
 ### Error handling
 
-- On fetch failure: print log and skip. No retry, no alert.
+- On fetch failure: print log, record the failure in `docs/status/latest-fetch-status.md`, and continue with the remaining feeds. No retry, no alert.
 
 ### MVP scope
 

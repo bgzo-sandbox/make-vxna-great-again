@@ -6,7 +6,7 @@ import pytest
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
-from src.opml import read_feeds, add_feed, get_max_xna_index
+from src.opml import read_feeds, read_feed_sources, add_feed, get_max_xna_index
 
 
 @pytest.fixture
@@ -50,6 +50,70 @@ class TestReadFeeds:
         f.write_text(content, encoding="utf-8")
         feeds = read_feeds(f)
         assert feeds.count("https://dup.example.com/feed") == 1
+
+
+class TestReadFeedSources:
+    def test_returns_source_metadata_in_order(self, tmp_path: Path):
+        opml = tmp_path / "sources.opml"
+        opml.write_text(
+            '<?xml version="1.0" encoding="UTF-8"?>'
+            '<opml version="1.0"><head/><body><outline title="g" text="g">'
+            '<outline title="First" xmlUrl="https://first.example.com/feed" htmlUrl="https://www.v2ex.com/xna/s/1"/>'
+            '<outline title="Second" xmlUrl="https://second.example.com/feed" htmlUrl="https://www.v2ex.com/xna/s/2"/>'
+            '</outline></body></opml>',
+            encoding="utf-8",
+        )
+
+        sources = read_feed_sources(opml)
+
+        assert sources == [
+            {
+                "title": "First",
+                "xml_url": "https://first.example.com/feed",
+                "html_url": "https://www.v2ex.com/xna/s/1",
+            },
+            {
+                "title": "Second",
+                "xml_url": "https://second.example.com/feed",
+                "html_url": "https://www.v2ex.com/xna/s/2",
+            },
+        ]
+
+    def test_deduplicates_by_xml_url(self, tmp_path: Path):
+        opml = tmp_path / "dup-sources.opml"
+        opml.write_text(
+            '<?xml version="1.0" encoding="UTF-8"?>'
+            '<opml version="1.0"><head/><body><outline title="g" text="g">'
+            '<outline title="First" xmlUrl="https://dup.example.com/feed" htmlUrl="https://www.v2ex.com/xna/s/1"/>'
+            '<outline title="Second" xmlUrl="https://dup.example.com/feed" htmlUrl="https://www.v2ex.com/xna/s/2"/>'
+            '</outline></body></opml>',
+            encoding="utf-8",
+        )
+
+        sources = read_feed_sources(opml)
+
+        assert len(sources) == 1
+        assert sources[0]["title"] == "First"
+
+    def test_uses_empty_string_for_missing_html_url(self, tmp_path: Path):
+        opml = tmp_path / "missing-html.opml"
+        opml.write_text(
+            '<?xml version="1.0" encoding="UTF-8"?>'
+            '<opml version="1.0"><head/><body><outline title="g" text="g">'
+            '<outline title="No Source" xmlUrl="https://nosource.example.com/feed"/>'
+            '</outline></body></opml>',
+            encoding="utf-8",
+        )
+
+        sources = read_feed_sources(opml)
+
+        assert sources == [
+            {
+                "title": "No Source",
+                "xml_url": "https://nosource.example.com/feed",
+                "html_url": "",
+            }
+        ]
 
 
 class TestGetMaxXnaIndex:
