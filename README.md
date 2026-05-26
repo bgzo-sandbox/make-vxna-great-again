@@ -21,6 +21,8 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-26 | [AsyncT vllm适配、加速笔记（二）](https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%BA%8C/) | 加速第二篇，主要是在CUDA Kernel上做更多的优化，反思之前的Benchmarking问题等。 |
+| 2026-05-26 | [2026.5.25](https://www.justzht.com/2026-5-25/) | 刚预订了去纽约的机票和夏威夷的租车，都是开发者大会结束后的第二周。至于怎么从纽约去夏威夷，目前的想法 |
 | 2026-05-26 | [认知遮羞布：循环论证三段论](https://mobius.blog/24225.html) | 上周在咖啡厅码字时，因为耳机在后半程没电了，就只能把自己暴露在咖啡厅的白噪音之中，于是就听到隔壁两个阿姨的聊天 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-25 | [CoStrict Router —— 第三方 CoStrict 接口转发工具](https://mok.moe/p/costrict-router) | 公司采购了 CoStrict，打开一看国产主流大模型挺全的，正打算好好把玩一番却发现官方只支持 VSCode 插件，于是连夜撸了个转发工具，顺便开源了 😋 costrict-router 是一个第三方的 CoStrict 接口转发工具，它可以将任意 OpenAI 兼容（Chat Completion… |
 | 2026-05-25 | [Marvis 实战：用 AI 打造一个每天自动更新的天蝎座运势站](https://www.evan.xin/5002/) | 我只负责"想"，AI 负责"做"。 起因 星座运势有稳定需求，但传统方式要么固定模板缺乏新鲜感，要么需要人工每 […] |
@@ -36,6 +38,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 | 2026-05-25 | [Memos #2026-05-24](https://www.taober.blog/memos) | 13:51 壹方城胖明，木薯糖水顶级，炒螺蛳粉也不错，美中不足的是我不吃猪肝，价格有点小贵。 |
 | 2026-05-24 | [环岛漫游 《Summer Pockets REFLECTION BLUE》 圣地巡礼之直岛](https://www.wikimoe.com/post/b-tfjh02hj) | 2026年5月6日，天气多云，今天将前往直岛，开启旅程的三周目。 关于直岛 直岛是位于日本濑户内海的香川县小岛，距离冈山县玉野市约3公里，以“艺术之岛”闻名；岛上既有白沙、青松、海湾与丘陵构成的宁静海景，也保留着渔村、港口和工业历史。自20世纪末以来，贝尼斯艺术场直岛等项目把当代艺术、安藤忠雄等建筑… |
 | 2026-05-24 | [低配服务器调优](https://blog.lhasa.icu/posts/technology/2026-05-25-low-end-server-tuning) | 一个月前，我在阿里云秒杀抢了台丐中丐，38元/年，2核 2G 40G 今天我在想它能不能作为饥荒的自建服务器，便着手收拾了起来 默认的系统是 Alibaba Cloud Linux，阿里过度定制化，不太适合我 索性直接用 Ubuntu 重装了系统。在编译博客时，再次遇到一个月前的性能问题，这里把调优… |
+| 2026-05-24 | [我把自己的审美变成了一套 Harness](https://blog.zopiya.com/wanxing-harness-3e4fce6a/) | 事情的开始很简单。 有天我突然意识到：在做过的所有设计里，让自己看着最舒服的，其实是同一种感觉。温柔的、克制的、文字优先的、留白比填满更有力量的。 |
 | 2026-05-24 | [Toots 420 2026 May.17 - May.23](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260523/) | 「被内在拉长。」 |
 | 2026-05-24 | [爱你老体](https://z.arlmy.me/posts/ZArlmyMe/ToMyBody_20260524/) | 「如果一开始就是错的，我们到底什么时候才会醒悟？」 |
 | 2026-05-24 | [Album#40 - 大城•小事](https://taxodium.ink/album-40.html) | Album#40 大城•小事 图1 《大城•小事》専輯封面 专辑信息 专辑名称： 大城•小事 歌手： 都市零件派对 年份： 2024-12-20 风格： 流行 时长： 約 22 分鍾 从 我的聲音旅程 &#124;&#124; 構成自己的 42 張專輯 翻到的一張専輯，喜歡主唱的聲音、歌曲的旋律，和聲也好聴。編曲聴着比… |
