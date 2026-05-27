@@ -18,6 +18,10 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 Latest source pull status: see [docs/status/latest-fetch-status.md](docs/status/latest-fetch-status.md).
 This page is overwritten on each fetch run and only keeps the latest execution result.
 
+Blocked sources are configured in [config/block.yaml](config/block.yaml).
+Use `blocked_root_domains` with website root domains such as `example.com`.
+Blocked domains are skipped during fetch and excluded from README and status output.
+
 
 ## Last Week Blog
 

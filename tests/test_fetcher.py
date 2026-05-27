@@ -96,12 +96,17 @@ class TestFetchFeed:
 
     def test_article_fields_are_present(self):
         client = make_mock_client({"https://feed.example.com/rss": (200, RSS_TWO_ARTICLES)})
-        articles, status = fetch_feed("https://feed.example.com/rss", client)
+        articles, status = fetch_feed(
+            "https://feed.example.com/rss",
+            client,
+            source_root_domain="example.com",
+        )
         article = articles[0]
         assert "title" in article
         assert "url" in article
         assert "date" in article
         assert "description" in article
+        assert article["source_root_domain"] == "example.com"
         assert "checked_at" in status
 
 
@@ -163,6 +168,48 @@ class TestFetchAllFeeds:
         assert len(statuses) == 2
         assert statuses[0]["success"] is True
         assert statuses[1]["success"] is False
+
+    def test_blocked_source_does_not_issue_request(self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
+        opml = tmp_path / "rss.opml"
+        opml.write_text(
+            '<?xml version="1.0" encoding="UTF-8"?>'
+            '<opml version="1.0"><head/><body>'
+            '<outline title="g" text="g">'
+            '<outline title="Blocked" xmlUrl="https://feed.example.com/rss" htmlUrl="https://www.v2ex.com/xna/s/1"/>'
+            '</outline></body></opml>',
+            encoding="utf-8",
+        )
+
+        def handler(request: httpx.Request) -> httpx.Response:
+            raise AssertionError(f"unexpected request: {request.url}")
+
+        monkeypatch.setattr("src.fetcher.read_blocked_root_domains", lambda: {"example.com"})
+        client = httpx.Client(transport=httpx.MockTransport(handler))
+
+        articles, statuses = fetch_all_feeds(opml, client)
+
+        client.close()
+        assert articles == []
+        assert statuses == []
+
+    def test_articles_include_source_root_domain(self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
+        opml = tmp_path / "rss.opml"
+        opml.write_text(
+            '<?xml version="1.0" encoding="UTF-8"?>'
+            '<opml version="1.0"><head/><body>'
+            '<outline title="g" text="g">'
+            '<outline title="Feed" xmlUrl="https://feed.example.com/rss" htmlUrl="https://www.v2ex.com/xna/s/1"/>'
+            '</outline></body></opml>',
+            encoding="utf-8",
+        )
+        monkeypatch.setattr("src.fetcher.read_blocked_root_domains", lambda: set())
+        client = make_mock_client({"https://feed.example.com/rss": (200, RSS_TWO_ARTICLES)})
+
+        articles, statuses = fetch_all_feeds(opml, client)
+
+        assert len(articles) == 2
+        assert all(article["source_root_domain"] == "example.com" for article in articles)
+        assert len(statuses) == 1
 
     def test_returns_empty_when_opml_has_no_feeds(self, tmp_path: Path):
         opml = tmp_path / "empty.opml"

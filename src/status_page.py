@@ -2,6 +2,8 @@
 最近一次 feed 拉取状态页面输出模块。
 
 负责生成并写入固定路径的 Markdown 看板页面。
+调用方必须在传入 statuses 前完成公开可见性的过滤，
+例如黑名单源不应进入此模块。
 """
 
 from datetime import datetime, timezone

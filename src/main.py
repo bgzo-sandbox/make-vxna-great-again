@@ -34,14 +34,14 @@ def run_crawl(start_index: int | None = None) -> None:
     logger.info("爬取完成，本次新增 %d 个 feed", len(added))
 
 
-def run_fetch() -> None:
+def run_fetch(blocked_domains: set[str] | None = None) -> None:
     """抓取所有 feed，聚合文章，写入 api/ JSON 文件。"""
     from src.fetcher import fetch_all_feeds
     from src.status_page import write_status_page
     from src.writer import write_articles
 
     logger.info("开始抓取 feeds")
-    articles, statuses = fetch_all_feeds()
+    articles, statuses = fetch_all_feeds(blocked_domains=blocked_domains)
     logger.info("共聚合 %d 篇文章", len(articles))
 
     out_path = write_articles(articles)
@@ -51,15 +51,17 @@ def run_fetch() -> None:
     logger.info("状态页写入完成: %s", status_path)
 
 
-def run_update_readme() -> None:
+def run_update_readme(blocked_domains: set[str] | None = None) -> None:
     """读取近 7 天文章，更新 README.md 的 Last Week Blog 章节。"""
     from src.readme_updater import run as update_readme
 
     logger.info("更新 README.md Last Week Blog 章节")
-    update_readme()
+    update_readme(blocked_domains=blocked_domains)
 
 
 def main() -> None:
+    from src.blocklist import read_blocked_root_domains
+
     parser = argparse.ArgumentParser(description="VXNA pipeline")
     group = parser.add_mutually_exclusive_group()
     group.add_argument("--crawl", action="store_true", help="仅运行爬虫，更新 OPML")
@@ -76,14 +78,15 @@ def main() -> None:
     if args.crawl:
         run_crawl(start_index=args.start_index)
     elif args.fetch:
-        run_fetch()
+        run_fetch(blocked_domains=read_blocked_root_domains())
     elif args.readme:
-        run_update_readme()
+        run_update_readme(blocked_domains=read_blocked_root_domains())
     else:
         # 默认：完整流程
         run_crawl(start_index=args.start_index)
-        run_fetch()
-        run_update_readme()
+        blocked_domains = read_blocked_root_domains()
+        run_fetch(blocked_domains=blocked_domains)
+        run_update_readme(blocked_domains=blocked_domains)
 
 
 if __name__ == "__main__":

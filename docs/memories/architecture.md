@@ -23,7 +23,9 @@ $ tree . -L 3
 │   └── {YYYY}/{MM}/{DD}.json     # 按日期分层，每文件聚合当日所有文章
 ├── config                        # 配置模块：存储程序自动维护的 OPML 文件
 │   └── rss.opml                  # 所有已收录博客的 RSS/Atom 订阅地址列表
+│   └── block.yaml                # 手工维护的根域名黑名单配置
 ├── src                           # 代码逻辑模块
+│   ├── blocklist.py              # 读取黑名单并提取/判断根域名
 │   ├── crawler.py                # 爬取 v2ex/xna，发现新博客，提取 feed URL
 │   ├── opml.py                   # 读写 config/rss.opml
 │   ├── fetcher.py                # 读取 OPML，fetch 所有 feed，聚合文章
@@ -47,12 +49,15 @@ $ tree . -L 3
 v2ex/xna (HTML)
     ↓ [crawler.py] 按数字累增爬取，提取 feed URL
 config/rss.opml
-  ↓ [fetcher.py] 读取所有 feed，fetch 文章，聚合排序，并生成源级成功/失败状态
+config/block.yaml
+    ↓ [blocklist.py] 读取根域名黑名单，供抓取和 README 过滤复用
+config/rss.opml
+  ↓ [fetcher.py] 读取所有 feed，按博客根域名跳过黑名单源，聚合文章，生成源级成功/失败状态
 api/{YYYY}/{MM}/{DD}.json
     ↓ [writer.py] 写入 JSON
 docs/status/latest-fetch-status.md
   ↓ [status_page.py] 覆盖写入最近一次拉取状态看板
-README.md (可选：自动更新最新文章摘要)
+README.md (可选：自动更新最新文章摘要，并过滤黑名单站点)
 ```
 
 ## GitHub Actions Workflow
@@ -62,6 +67,6 @@ README.md (可选：自动更新最新文章摘要)
   1. Checkout 仓库
   2. 安装 Python 依赖（uv）
   3. 运行 `crawler.py`：发现新博客，更新 `config/rss.opml`
-  4. 运行 `fetcher.py` + `writer.py` + `status_page.py`：fetch feeds，输出 `api/` JSON 与最近一次状态看板
+  4. 运行 `fetcher.py` + `writer.py` + `status_page.py`：按 [config/block.yaml](config/block.yaml) 过滤黑名单源，输出 `api/` JSON 与最近一次状态看板
   5. Commit & push 变更（`config/rss.opml` + `api/` 目录 + `docs/status/latest-fetch-status.md`）
 

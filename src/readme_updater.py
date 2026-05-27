@@ -16,6 +16,7 @@ import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+from src.blocklist import extract_root_domain, read_blocked_root_domains
 from src.text_utils import clean_description
 
 logger = logging.getLogger(__name__)
@@ -30,10 +31,19 @@ DEFAULT_README = PROJECT_ROOT / "README.md"
 SECTION_HEADING = "## Last Week Blog"
 
 
+def _get_article_root_domain(article: dict) -> str:
+    """优先使用文章携带的来源根域名，缺失时回退到文章 URL。"""
+    value = str(article.get("source_root_domain", "")).strip().lower().rstrip(".")
+    if value:
+        return value
+    return extract_root_domain(article.get("url", ""))
+
+
 def load_recent_articles(
     days: int = 7,
     api_dir: Path = DEFAULT_API_DIR,
     reference_date: datetime | None = None,
+    blocked_domains: set[str] | None = None,
 ) -> list[dict]:
     """
     读取最近 N 天的 JSON 文件，过滤出发布时间在最近 N 天内的文章，
@@ -60,6 +70,8 @@ def load_recent_articles(
 
     articles: list[dict] = []
     seen_urls: set[str] = set()
+    if blocked_domains is None:
+        blocked_domains = read_blocked_root_domains()
 
     for offset in range(days):
         target = reference_date - timedelta(days=offset)
@@ -79,6 +91,8 @@ def load_recent_articles(
                 except (ValueError, AttributeError):
                     continue
                 if pub_date < cutoff:
+                    continue
+                if blocked_domains and _get_article_root_domain(item) in blocked_domains:
                     continue
                 articles.append(item)
                 seen_urls.add(url)
@@ -170,10 +184,16 @@ def run(
     api_dir: Path = DEFAULT_API_DIR,
     readme_path: Path = DEFAULT_README,
     reference_date: datetime | None = None,
+    blocked_domains: set[str] | None = None,
 ) -> None:
     """
     一键执行：读取最近 N 天文章，更新 README.md。
     """
-    articles = load_recent_articles(days=days, api_dir=api_dir, reference_date=reference_date)
+    articles = load_recent_articles(
+        days=days,
+        api_dir=api_dir,
+        reference_date=reference_date,
+        blocked_domains=blocked_domains,
+    )
     logger.info("共读取到 %d 篇近期文章", len(articles))
     update_readme(articles, readme_path=readme_path)

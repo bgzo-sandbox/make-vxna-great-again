@@ -10,6 +10,7 @@ Feed 抓取与聚合模块
         "url":         str,
         "date":        str,   # ISO 8601，例如 "2026-04-04T08:00:00Z"
         "description": str,
+        "source_root_domain": str,
     }
 
 失败策略：单个 feed 抓取或解析失败时打印日志并跳过，不影响整体。
@@ -22,6 +23,7 @@ from pathlib import Path
 import feedparser
 import httpx
 
+from src.blocklist import extract_root_domain, read_blocked_root_domains
 from src.opml import DEFAULT_OPML_PATH, read_feed_sources
 from src.text_utils import clean_description
 
@@ -32,6 +34,11 @@ Article = dict[str, str]
 
 # 单个 feed 源的抓取状态
 FeedFetchStatus = dict[str, str | int | bool]
+
+
+def _resolve_source_root_domain(source_url: str, feed_url: str) -> str:
+    """优先使用 feed URL 提取博客根域名，缺失时回退到源页面 URL。"""
+    return extract_root_domain(feed_url) or extract_root_domain(source_url)
 
 
 def _build_feed_status(
@@ -71,7 +78,11 @@ def _parse_date(entry: feedparser.FeedParserDict) -> datetime:
     return datetime(1970, 1, 1, tzinfo=timezone.utc)
 
 
-def _entry_to_article(entry: feedparser.FeedParserDict) -> Article:
+def _entry_to_article(
+    entry: feedparser.FeedParserDict,
+    *,
+    source_root_domain: str = "",
+) -> Article:
     """
     将 feedparser entry 转换为统一的 Article 字典。
     """
@@ -86,7 +97,13 @@ def _entry_to_article(entry: feedparser.FeedParserDict) -> Article:
     elif entry.get("content"):
         raw = entry.content[0].get("value", "").strip()
 
-    return {"title": title, "url": url, "date": date, "description": clean_description(raw)[:500]}
+    return {
+        "title": title,
+        "url": url,
+        "date": date,
+        "description": clean_description(raw)[:500],
+        "source_root_domain": source_root_domain,
+    }
 
 
 def fetch_feed(
@@ -95,6 +112,7 @@ def fetch_feed(
     *,
     title: str = "",
     source_url: str = "",
+    source_root_domain: str = "",
 ) -> tuple[list[Article], FeedFetchStatus]:
     """
     抓取单个 feed URL，返回文章列表。
@@ -145,7 +163,10 @@ def fetch_feed(
             error="feed parse error",
         )
 
-    articles = [_entry_to_article(e) for e in parsed.entries]
+    articles = [
+        _entry_to_article(e, source_root_domain=source_root_domain)
+        for e in parsed.entries
+    ]
     return articles, _build_feed_status(
         url,
         title=title,
@@ -159,6 +180,7 @@ def fetch_feed(
 def fetch_all_feeds(
     opml_path: Path = DEFAULT_OPML_PATH,
     client: httpx.Client | None = None,
+    blocked_domains: set[str] | None = None,
 ) -> tuple[list[Article], list[FeedFetchStatus]]:
     """
     读取 OPML，抓取所有 feed，聚合并按日期降序排序。
@@ -175,6 +197,8 @@ def fetch_all_feeds(
         logger.info("OPML 中无 feed，跳过抓取")
         return [], []
 
+    if blocked_domains is None:
+        blocked_domains = read_blocked_root_domains()
     articles: list[Article] = []
     statuses: list[FeedFetchStatus] = []
     _owns_client = client is None
@@ -183,11 +207,24 @@ def fetch_all_feeds(
 
     try:
         for source in feed_sources:
+            source_root_domain = _resolve_source_root_domain(
+                source["html_url"],
+                source["xml_url"],
+            )
+            if source_root_domain and source_root_domain in blocked_domains:
+                logger.info(
+                    "黑名单命中，跳过源 %s (%s)",
+                    source["title"] or source["xml_url"],
+                    source_root_domain,
+                )
+                continue
+
             feed_articles, status = fetch_feed(
                 source["xml_url"],
                 client,
                 title=source["title"],
                 source_url=source["html_url"],
+                source_root_domain=source_root_domain,
             )
             articles.extend(feed_articles)
             statuses.append(status)

@@ -30,6 +30,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 ### Step 2: Fetch articles (every 2 hours via GitHub Actions)
 
 - Read `config/rss.opml`, fetch all feeds.
+- Read `config/block.yaml`, skip blocked root domains before fetching.
 - Aggregate all articles, sorted by date descending.
 - Output to `api/{YYYY}/{MM}/{DD}.json`.
 - Output the latest source-level fetch result to `docs/status/latest-fetch-status.md`.
@@ -51,7 +52,8 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
     "title": "Article title",
     "url": "https://...",
     "date": "2026-04-04T08:00:00Z",
-    "description": "Brief summary or excerpt"
+    "description": "Brief summary or excerpt",
+    "source_root_domain": "example.com"
   }
 ]
 ```
@@ -60,6 +62,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 
 - Read last 7 days of `api/` JSON files, deduplicate by URL, sort by date descending (newest first).
 - Filter by article `date` field (not file date) to ensure only truly recent articles appear.
+- Filter blocked sites again by `source_root_domain`; if legacy JSON lacks this field, fall back to article URL root domain.
 - Write results into the `## Last Week Blog` section of `README.md` as a Markdown table.
 
 **Table format:**
@@ -73,6 +76,7 @@ The latest blog collected by v2ex is https://www.v2ex.com/xna/s/543, yet the pub
 ### Error handling
 
 - On fetch failure: print log, record the failure in `docs/status/latest-fetch-status.md`, and continue with the remaining feeds. No retry, no alert.
+- On blocklist hit: log the skipped source, do not fetch it, and do not include it in public status or README output.
 
 ### MVP scope
 

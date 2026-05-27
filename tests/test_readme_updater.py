@@ -86,6 +86,48 @@ class TestLoadRecentArticles:
         articles = load_recent_articles(days=7, api_dir=api_dir, reference_date=FIXED_DATE)
         assert len(articles) == 1
 
+    def test_filters_articles_by_source_root_domain(self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
+        blocked = [{
+            "title": "Blocked",
+            "url": "https://blog.example.com/1",
+            "date": "2026-04-04T10:00:00Z",
+            "description": "",
+            "source_root_domain": "example.com",
+        }]
+        allowed = [{
+            "title": "Allowed",
+            "url": "https://allowed.dev/1",
+            "date": "2026-04-04T09:00:00Z",
+            "description": "",
+            "source_root_domain": "allowed.dev",
+        }]
+        api_dir = make_api_dir(tmp_path, {"2026/04/04": blocked + allowed})
+
+        monkeypatch.setattr("src.readme_updater.read_blocked_root_domains", lambda: {"example.com"})
+        articles = load_recent_articles(days=7, api_dir=api_dir, reference_date=FIXED_DATE)
+
+        assert [article["title"] for article in articles] == ["Allowed"]
+
+    def test_falls_back_to_article_url_for_legacy_json(self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
+        blocked = [{
+            "title": "Legacy Blocked",
+            "url": "https://legacy.example.net/1",
+            "date": "2026-04-04T10:00:00Z",
+            "description": "",
+        }]
+        allowed = [{
+            "title": "Allowed",
+            "url": "https://allowed.dev/1",
+            "date": "2026-04-04T09:00:00Z",
+            "description": "",
+        }]
+        api_dir = make_api_dir(tmp_path, {"2026/04/04": blocked + allowed})
+
+        monkeypatch.setattr("src.readme_updater.read_blocked_root_domains", lambda: {"example.net"})
+        articles = load_recent_articles(days=7, api_dir=api_dir, reference_date=FIXED_DATE)
+
+        assert [article["title"] for article in articles] == ["Allowed"]
+
 
 class TestCleanText:
     def test_strips_html_tags(self):
