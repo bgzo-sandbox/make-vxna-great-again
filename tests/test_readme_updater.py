@@ -86,6 +86,12 @@ class TestLoadRecentArticles:
         articles = load_recent_articles(days=7, api_dir=api_dir, reference_date=FIXED_DATE)
         assert len(articles) == 1
 
+    def test_filters_articles_published_after_today(self, tmp_path: Path):
+        future = [{"title": "Future", "url": "https://future.example.com", "date": "2026-04-05T00:00:00Z", "description": ""}]
+        api_dir = make_api_dir(tmp_path, {"2026/04/04": future})
+        articles = load_recent_articles(days=7, api_dir=api_dir, reference_date=FIXED_DATE)
+        assert articles == []
+
     def test_filters_articles_by_source_root_domain(self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
         blocked = [{
             "title": "Blocked",

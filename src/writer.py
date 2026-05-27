@@ -6,6 +6,7 @@ JSON 写入模块
 
 写入策略（幂等）：
 - 过滤发布时间超过 max_age_days 天的文章（默认 2 天），避免文件膨胀。
+- 过滤发布时间晚于写入当日的文章，避免错误未来时间污染输出。
 - 若文件已存在，先读取已有数据与新数据合并：按 URL 去重（新数据优先），
   按 date 降序排序后写入。重复运行不会丢失已有数据。
 """
@@ -35,11 +36,11 @@ def resolve_output_path(date: datetime, api_dir: Path = DEFAULT_API_DIR) -> Path
     return api_dir / date.strftime("%Y") / date.strftime("%m") / f"{date.strftime('%d')}.json"
 
 
-def _is_recent(article: dict, cutoff: datetime) -> bool:
-    """判断文章发布时间是否晚于 cutoff。"""
+def _is_recent(article: dict, cutoff: datetime, future_cutoff: datetime) -> bool:
+    """判断文章发布时间是否位于允许的时间窗口内。"""
     try:
         pub = datetime.fromisoformat(article["date"].replace("Z", "+00:00"))
-        return pub >= cutoff
+        return cutoff <= pub < future_cutoff
     except (KeyError, ValueError):
         return False
 
@@ -53,7 +54,7 @@ def write_articles(
     """
     将文章列表合并写入 JSON 文件（幂等）。
 
-    1. 过滤超过 max_age_days 天的文章。
+    1. 过滤超过 max_age_days 天或发布时间晚于写入当日的文章。
     2. 与已存在文件中的数据合并，按 URL 去重（新数据优先），按 date 降序写入。
 
     Args:
@@ -71,9 +72,12 @@ def write_articles(
     cutoff = (date - timedelta(days=max_age_days)).replace(
         hour=0, minute=0, second=0, microsecond=0
     )
+    future_cutoff = (date + timedelta(days=1)).replace(
+        hour=0, minute=0, second=0, microsecond=0
+    )
 
-    # 过滤超龄文章
-    fresh = [a for a in articles if _is_recent(a, cutoff)]
+    # 过滤超龄文章和未来文章
+    fresh = [a for a in articles if _is_recent(a, cutoff, future_cutoff)]
     filtered_count = len(articles) - len(fresh)
     if filtered_count:
         logger.debug("过滤 %d 篇超过 %d 天的文章", filtered_count, max_age_days)

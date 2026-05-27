@@ -71,6 +71,18 @@ class TestWriteArticles:
         urls = {a["url"] for a in data}
         assert "https://example.com/old" not in urls
 
+    def test_filters_articles_published_after_today(self, tmp_path: Path):
+        future_article = {
+            "title": "Future",
+            "url": "https://example.com/future",
+            "date": "2026-04-05T00:00:00Z",
+            "description": "",
+        }
+        out = write_articles(SAMPLE_ARTICLES + [future_article], date=FIXED_DATE, api_dir=tmp_path)
+        data = json.loads(out.read_text(encoding="utf-8"))
+        urls = {a["url"] for a in data}
+        assert "https://example.com/future" not in urls
+
     def test_result_sorted_by_date_descending(self, tmp_path: Path):
         out = write_articles(SAMPLE_ARTICLES, date=FIXED_DATE, api_dir=tmp_path)
         data = json.loads(out.read_text(encoding="utf-8"))

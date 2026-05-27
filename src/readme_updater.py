@@ -46,7 +46,7 @@ def load_recent_articles(
     blocked_domains: set[str] | None = None,
 ) -> list[dict]:
     """
-    读取最近 N 天的 JSON 文件，过滤出发布时间在最近 N 天内的文章，
+    读取最近 N 天的 JSON 文件，过滤出发布时间在最近 N 天内且不晚于今天的文章，
     去重后按 date 降序返回。
 
     注意：过滤依据是文章自身的 `date` 字段，而非 JSON 文件的日期。
@@ -63,8 +63,11 @@ def load_recent_articles(
     if reference_date is None:
         reference_date = datetime.now(tz=timezone.utc)
 
-    # 计算时间窗口下界（N 天前的 00:00:00 UTC）
+    # 计算时间窗口边界：[N 天前的 00:00:00 UTC, 明天的 00:00:00 UTC)
     cutoff = (reference_date - timedelta(days=days)).replace(
+        hour=0, minute=0, second=0, microsecond=0
+    )
+    future_cutoff = (reference_date + timedelta(days=1)).replace(
         hour=0, minute=0, second=0, microsecond=0
     )
 
@@ -90,7 +93,7 @@ def load_recent_articles(
                     pub_date = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
                 except (ValueError, AttributeError):
                     continue
-                if pub_date < cutoff:
+                if pub_date < cutoff or pub_date >= future_cutoff:
                     continue
                 if blocked_domains and _get_article_root_domain(item) in blocked_domains:
                     continue
