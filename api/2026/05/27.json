@@ -6,6 +6,18 @@
     "description": "先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是"
   },
   {
+    "title": "最近大半年的工作",
+    "url": "https://smallyu.net/2026/05/27/%E6%9C%80%E8%BF%91%E5%A4%A7%E5%8D%8A%E5%B9%B4%E7%9A%84%E5%B7%A5%E4%BD%9C/",
+    "date": "2026-05-27T09:00:16Z",
+    "description": "前几年关于工作内容方面的回顾： 2025 年：《<a"
+  },
+  {
+    "title": "我将关闭服务器：AI彻底掐死了奄奄一息的个人博客",
+    "url": "https://blog.renfei.net/posts/1626402130325676140",
+    "date": "2026-05-27T08:26:28Z",
+    "description": "在AI普及的当下，我计划关闭服务器，把个人博客转为静态页面。个人博客不是突然死去，而是被时代一点点推到边缘。"
+  },
+  {
     "title": "真正的人生奥数应用题 II",
     "url": "https://mobius.blog/24297.html",
     "date": "2026-05-27T00:55:00Z",
@@ -15,7 +27,7 @@
     "title": "chrome-devtools-mcp 使用",
     "url": "https://blog.196000.xyz/2026/2026-05-27-develop-chrome-devtools-mcp.html",
     "date": "2026-05-27T00:00:00Z",
-    "description": "Chrome DevTools MCP 是一个本地服务，它为 AI 编码助手（比如 Claude、Codex、Cursor 等）提供了一套控制 Chrome 浏览器的工具集。"
+    "description": "chrome-devtools-mcp 使用 Chrome DevTools MCP 是一个本地服务，它为 AI 编码助手（比如 Claude、Codex、Cursor 等）提供了一套控制 Chrome 浏览器的工具集。 Chrome M144 中添加了一项新功能，可让 Chrome 开发者工具 MCP 服务器请求远程调试连接。这一新流程基于 Chrome 现有的远程调试功能构建而成。默认情况下，Chrome 中会停用远程调试连接。开发者必须先前往 chrome://inspect#remote-debugging 明确启用此功能。 开始使用 第 1 步：在 Chrome 中设置远程调试 在 Chrome（版本 >= 144）中，执行 chrome://inspect/#remote-debugging 以启用远程调试。 或者直接下载一个免安装版本 Chrome （ https://github.com/zzp198/Google-Chrome-Portable ）,指定参数启动 Chrome 实例： 点击阅读全文"
   },
   {
     "title": "Memos #2026-05-26",

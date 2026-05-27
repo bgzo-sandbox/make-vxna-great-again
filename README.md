@@ -24,8 +24,10 @@ This page is overwritten on each fetch run and only keeps the latest execution r
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-27 | [最近大半年的工作](https://smallyu.net/2026/05/27/%E6%9C%80%E8%BF%91%E5%A4%A7%E5%8D%8A%E5%B9%B4%E7%9A%84%E5%B7%A5%E4%BD%9C/) | 前几年关于工作内容方面的回顾： 2025 年：《<a |
+| 2026-05-27 | [我将关闭服务器：AI彻底掐死了奄奄一息的个人博客](https://blog.renfei.net/posts/1626402130325676140) | 在AI普及的当下，我计划关闭服务器，把个人博客转为静态页面。个人博客不是突然死去，而是被时代一点点推到边缘。 |
 | 2026-05-27 | [真正的人生奥数应用题 II](https://mobius.blog/24297.html) | 要不是那天在电梯里听到了一对父母跟孩子的对话，我都不会再把之前的文章翻出来，写下 II 的内容。 妈妈念叨，女 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-27 | [chrome-devtools-mcp 使用](https://blog.196000.xyz/2026/2026-05-27-develop-chrome-devtools-mcp.html) | Chrome DevTools MCP 是一个本地服务，它为 AI 编码助手（比如 Claude、Codex、Cursor 等）提供了一套控制 Chrome 浏览器的工具集。 |
+| 2026-05-27 | [chrome-devtools-mcp 使用](https://blog.196000.xyz/2026/2026-05-27-develop-chrome-devtools-mcp.html) | chrome-devtools-mcp 使用 Chrome DevTools MCP 是一个本地服务，它为 AI 编码助手（比如 Claude、Codex、Cursor 等）提供了一套控制 Chrome 浏览器的工具集。 Chrome M144 中添加了一项新功能，可让 Chrome 开发者工具 M… |
 | 2026-05-27 | [Memos #2026-05-26](https://www.taober.blog/memos) | 20:09 用 AI 写方案真爽，就好像是...当成是我自己写的 😄 |
 | 2026-05-26 | [十年重生！Wox 2 开源快速应用启动器 (跨平台/多插件/搜索/截图/翻译/AI)](https://www.iplaysoft.com/wox2.html) | 我有时特别痴迷各种效率工具，能省一点点的操作都会很开心。Windows 上折腾过 Listary 、 Fences 、 Quicker 、 uTools 、 PowerToys Run ，在 Mac 上 Raycast 和 Alfred 反复也比较过。 而最近一款十多年的老牌开源快捷启动器 Wox… |
 | 2026-05-26 | [OPC实践 & 不懂开发的独立开发者 - Week8](https://diff.im/blog/2026/05/opc%E5%AE%9E%E8%B7%B5-%E4%B8%8D%E6%87%82%E5%BC%80%E5%8F%91%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85-week8/) | MRR 目标：$1000.00 本周收入：$0 本周完成的几件事情 继续做 Cap4u（第三个 App）的 IAP 开发和 App Store 截图设计。现在差不多可以 TestFlight 内测了。如果您在美国或加拿大生活，想参与 App 的体验与测试，请给我发 email：hi {at} dif… |
