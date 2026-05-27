@@ -9,31 +9,43 @@
     "title": "最近大半年的工作",
     "url": "https://smallyu.net/2026/05/27/%E6%9C%80%E8%BF%91%E5%A4%A7%E5%8D%8A%E5%B9%B4%E7%9A%84%E5%B7%A5%E4%BD%9C/",
     "date": "2026-05-27T09:00:16Z",
-    "description": "前几年关于工作内容方面的回顾： 2025 年：《<a"
+    "description": "前几年关于工作内容方面的回顾： 2025 年：《<a",
+    "source_root_domain": "smallyu.net"
   },
   {
     "title": "我将关闭服务器：AI彻底掐死了奄奄一息的个人博客",
     "url": "https://blog.renfei.net/posts/1626402130325676140",
     "date": "2026-05-27T08:26:28Z",
-    "description": "在AI普及的当下，我计划关闭服务器，把个人博客转为静态页面。个人博客不是突然死去，而是被时代一点点推到边缘。"
+    "description": "在AI普及的当下，我计划关闭服务器，把个人博客转为静态页面。个人博客不是突然死去，而是被时代一点点推到边缘。",
+    "source_root_domain": "renfei.net"
+  },
+  {
+    "title": "怎么就以小见大了",
+    "url": "https://www.hecaitou.com/2026/05/how-on-earth-does-the-small-reflect-the-great.html",
+    "date": "2026-05-27T04:54:58Z",
+    "description": "没有坏作文，只有坏品位，我是这么认为的。 比如说有些人看不上写生活琐碎小事的文章，觉得不够深刻，觉得没有洞见，觉得没有所谓「干货」，这通常就是中了宏大叙事的毒，对于抽象理论的兴趣远远大于真实生活。又有一些人拿着放大镜看这样的文章，试图从中找出一点生活哲理，人生感悟出来，这通常则是中了「微言大义」的毒，总把文章看作是一种教化民众的工具。 这两种人都写不好作文，因为缺乏欣赏文字的平常心。 忍不住要把文章工具化，我个人认为是很粗鄙的事情。凡事不探究一番形而上的意义，就要研究一番形而下的价值，这都是实用主义。你请他赏花的时候，他已经在琢磨着鲜花的社会学意义，或者是花瓣糖渍的时候再加点什么才好吃，那么他根本就没有在现场，也并没有真正目睹一朵花的绽放，也就谈不上什么欣赏和审美。 学校是培养这种坏品位的源头。好好的一篇文章，要用分析法切割得七零八碎，总结段落大意，提炼文章中心思想，讨论它表达了什么情感，具有什么思想，有什么现实意义。像这样反复训练十多年，好好的一个人已经不会正常阅读一篇文字了。甚至连阅读的心情都不复存在，因为总是会不由自主地进入语文考试做阅读理解大题的临战心态。 作文课上，老师反复交",
+    "source_root_domain": "hecaitou.com"
   },
   {
     "title": "真正的人生奥数应用题 II",
     "url": "https://mobius.blog/24297.html",
     "date": "2026-05-27T00:55:00Z",
-    "description": "要不是那天在电梯里听到了一对父母跟孩子的对话，我都不会再把之前的文章翻出来，写下 II 的内容。 妈妈念叨，女 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+    "description": "要不是那天在电梯里听到了一对父母跟孩子的对话，我都不会再把之前的文章翻出来，写下 II 的内容。 妈妈念叨，女 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
   },
   {
     "title": "chrome-devtools-mcp 使用",
     "url": "https://blog.196000.xyz/2026/2026-05-27-develop-chrome-devtools-mcp.html",
     "date": "2026-05-27T00:00:00Z",
-    "description": "chrome-devtools-mcp 使用 Chrome DevTools MCP 是一个本地服务，它为 AI 编码助手（比如 Claude、Codex、Cursor 等）提供了一套控制 Chrome 浏览器的工具集。 Chrome M144 中添加了一项新功能，可让 Chrome 开发者工具 MCP 服务器请求远程调试连接。这一新流程基于 Chrome 现有的远程调试功能构建而成。默认情况下，Chrome 中会停用远程调试连接。开发者必须先前往 chrome://inspect#remote-debugging 明确启用此功能。 开始使用 第 1 步：在 Chrome 中设置远程调试 在 Chrome（版本 >= 144）中，执行 chrome://inspect/#remote-debugging 以启用远程调试。 或者直接下载一个免安装版本 Chrome （ https://github.com/zzp198/Google-Chrome-Portable ）,指定参数启动 Chrome 实例： 点击阅读全文"
+    "description": "chrome-devtools-mcp 使用 Chrome DevTools MCP 是一个本地服务，它为 AI 编码助手（比如 Claude、Codex、Cursor 等）提供了一套控制 Chrome 浏览器的工具集。 Chrome M144 中添加了一项新功能，可让 Chrome 开发者工具 MCP 服务器请求远程调试连接。这一新流程基于 Chrome 现有的远程调试功能构建而成。默认情况下，Chrome 中会停用远程调试连接。开发者必须先前往 chrome://inspect#remote-debugging 明确启用此功能。 开始使用 第 1 步：在 Chrome 中设置远程调试 在 Chrome（版本 >= 144）中，执行 chrome://inspect/#remote-debugging 以启用远程调试。 或者直接下载一个免安装版本 Chrome （ https://github.com/zzp198/Google-Chrome-Portable ）,指定参数启动 Chrome 实例： 点击阅读全文",
+    "source_root_domain": "196000.xyz"
   },
   {
     "title": "Memos #2026-05-26",
     "url": "https://www.taober.blog/memos",
     "date": "2026-05-27T00:00:00Z",
-    "description": "20:09 用 AI 写方案真爽，就好像是...当成是我自己写的 😄"
+    "description": "20:09 用 AI 写方案真爽，就好像是...当成是我自己写的 😄",
+    "source_root_domain": "taober.blog"
   },
   {
     "title": "十年重生！Wox 2 开源快速应用启动器 (跨平台/多插件/搜索/截图/翻译/AI)",
@@ -45,108 +57,147 @@
     "title": "OPC实践 & 不懂开发的独立开发者 - Week8",
     "url": "https://diff.im/blog/2026/05/opc%E5%AE%9E%E8%B7%B5-%E4%B8%8D%E6%87%82%E5%BC%80%E5%8F%91%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85-week8/",
     "date": "2026-05-26T16:05:00Z",
-    "description": "MRR 目标：$1000.00 本周收入：$0 本周完成的几件事情 继续做 Cap4u（第三个 App）的 IAP 开发和 App Store 截图设计。现在差不多可以 TestFlight 内测了。如果您在美国或加拿大生活，想参与 App 的体验与测试，请给我发 email：hi {at} diff.im 做了一个 opc.how 的网站，主要是聚合全球范围内比较知名的独立开发者，分享他们的方法论、工具、增长路径、经验教训、做过的产品等等。目前还是毛坯内测阶段，信息比较少，很多数据和细节都还没补上，但就先拿出来见人吧。瑟瑟发抖地说一句：网址是 https://opc.how/ 微信公众号增加了 150 多个粉丝。（对其他人来说，这可能忽略不计；但对于我这个没有专门做过公众号增长的人来说，是一个进步。） 感受 1. 脑子不够用 。 AI 没有让人变得轻松，反而让人更疲惫。这几乎是业内共同的体会。 其中一个很重要的原因是，AI 可以把人从实际的编程或设计工作中解放出来。人自然而然就想开启更多任务，同时运行多个任务窗口。但是，人的大脑在多个窗口之间不停切换时，需要消耗极大的脑力。每切换一个"
+    "description": "MRR 目标：$1000.00 本周收入：$0 本周完成的几件事情 继续做 Cap4u（第三个 App）的 IAP 开发和 App Store 截图设计。现在差不多可以 TestFlight 内测了。如果您在美国或加拿大生活，想参与 App 的体验与测试，请给我发 email：hi {at} diff.im 做了一个 opc.how 的网站，主要是聚合全球范围内比较知名的独立开发者，分享他们的方法论、工具、增长路径、经验教训、做过的产品等等。目前还是毛坯内测阶段，信息比较少，很多数据和细节都还没补上，但就先拿出来见人吧。瑟瑟发抖地说一句：网址是 https://opc.how/ 微信公众号增加了 150 多个粉丝。（对其他人来说，这可能忽略不计；但对于我这个没有专门做过公众号增长的人来说，是一个进步。） 感受 1. 脑子不够用 。 AI 没有让人变得轻松，反而让人更疲惫。这几乎是业内共同的体会。 其中一个很重要的原因是，AI 可以把人从实际的编程或设计工作中解放出来。人自然而然就想开启更多任务，同时运行多个任务窗口。但是，人的大脑在多个窗口之间不停切换时，需要消耗极大的脑力。每切换一个",
+    "source_root_domain": "diff.im"
+  },
+  {
+    "title": "社会化训练是必要的吗",
+    "url": "https://blog.solazy.me/20260526/",
+    "date": "2026-05-26T15:00:00Z",
+    "description": "在一周之内，有两个截然不同的人，在截然不同的场景下，向我提到了同一个词：社会化。",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "Lesson 13 亲代抚育 (parental care)",
     "url": "https://physnya.top/animal-behavior/lesson-13-parental-care/",
     "date": "2026-05-26T13:03:31Z",
-    "description": "当然大家主要是一种接受的角色. General Pattern 有几类：没有亲代抚育、由雌性单独提供亲代抚育、由雄性单独提供亲代抚育、双亲共同提供亲代抚育. 第一类主要是无脊椎动物，我们这节课不仔细讨论. 先从鸟类这种主要由双亲共同提供亲代抚育的类型来说. 一般而言，雏鸟能否成活取决于食物的总量，而双亲共同抚育能够提供的食物能够更多. 但是如果当前几乎没有足够的食物，那么首先放弃的一般是雄鸟. 两个因素： 首先从生殖结构来说，鸟类一般是体内受精，因此雄性只需要提供精子，不需要其他投入，因此它有更好的机会放弃； 同时雄鸟可以在一次繁殖周期内获得多次交配的机会，因此它提供抚育的时间也相应压缩."
+    "description": "当然大家主要是一种接受的角色. General Pattern 有几类：没有亲代抚育、由雌性单独提供亲代抚育、由雄性单独提供亲代抚育、双亲共同提供亲代抚育. 第一类主要是无脊椎动物，我们这节课不仔细讨论. 先从鸟类这种主要由双亲共同提供亲代抚育的类型来说. 一般而言，雏鸟能否成活取决于食物的总量，而双亲共同抚育能够提供的食物能够更多. 但是如果当前几乎没有足够的食物，那么首先放弃的一般是雄鸟. 两个因素： 首先从生殖结构来说，鸟类一般是体内受精，因此雄性只需要提供精子，不需要其他投入，因此它有更好的机会放弃； 同时雄鸟可以在一次繁殖周期内获得多次交配的机会，因此它提供抚育的时间也相应压缩.",
+    "source_root_domain": "physnya.top"
   },
   {
     "title": "PIXPRO主题安装教程：XLoader PHP扩展的安装与配置",
     "url": "https://www.evan.xin/5005/",
     "date": "2026-05-26T08:57:19Z",
-    "description": "注意⚠️pixpro主题对php的版本有一定要求，建议安装8.2及以上版本 如你不喜这个浏览方式可访问：htt […]"
+    "description": "注意⚠️pixpro主题对php的版本有一定要求，建议安装8.2及以上版本 如你不喜这个浏览方式可访问：htt […]",
+    "source_root_domain": "evan.xin"
   },
   {
     "title": "Lesson 25 原初核合成 & CMB",
     "url": "https://physnya.top/GR/lesson-24-bbn-and-cmb/",
     "date": "2026-05-26T08:35:06Z",
-    "description": "核反应 1 + 2 ⟷ 3 + 4 1+2\\longleftrightarrow 3+4 1 + 2 ⟷ 3 + 4 ，对于 n 1 n_1 n 1 ​ 有时间变化："
+    "description": "核反应 1 + 2 ⟷ 3 + 4 1+2\\longleftrightarrow 3+4 1 + 2 ⟷ 3 + 4 ，对于 n 1 n_1 n 1 ​ 有时间变化：",
+    "source_root_domain": "physnya.top"
   },
   {
     "title": "2026.5.25",
     "url": "https://www.justzht.com/2026-5-25/",
     "date": "2026-05-26T07:19:39Z",
-    "description": "刚预订了去纽约的机票和夏威夷的租车，都是开发者大会结束后的第二周。至于怎么从纽约去夏威夷，目前的想法"
+    "description": "刚预订了去纽约的机票和夏威夷的租车，都是开发者大会结束后的第二周。至于怎么从纽约去夏威夷，目前的想法",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "修窗记",
+    "url": "https://www.hecaitou.com/2026/05/The-Window-Repair-Chronicles.html",
+    "date": "2026-05-26T04:05:36Z",
+    "description": "上周我关窗的时候，一不小心把窗户锁的旋转手柄给拧了下来。于是，我的窗子就处于随意开关的状态，任何人在外面都可以打开它，然后一步跨入室内。 虽然这种可能性基本为零，而且，能够爬到我这个楼层的高手，大概率什么锁都挡不住。不过我还是觉得心里不舒服，就像是埋下了一根刺，因为房子始终敞着一个口。 我在第一时间买好了品质更高型号更新的替换件，然后打电话请物业派维修师傅来---新款窗户锁的固定位置变了，需要在钢窗上重新打眼。师傅来了，连连摇头：没办法，搞不了。我问他那能否告诉我去买什么型号的件，师傅回答：没办法，早就不生产了。我继续问：那您觉得有什么办法可以解决一下？师傅第三次否定：没办法，你去找专业门窗维修吧。 维修师傅有三类。第一类进门上上下下、里里外外检查几遍，然后就打开工具包动手。不一会就维修完毕，和之前没有任何分别。第二类检查完告诉你是什么问题，缺什么，建议你去买什么配什么，甚至还会代你下单，最后和你约时间上门维修。人很热情，但是维修质量如何要看运气。 第三类师傅不粘任何因果，坚持「三不原则」：不知道，修不了，没办法。感觉穿上鞋套就是为了进你家观光一圈，就像是报名旅行团，要去看一个没多大意",
+    "source_root_domain": "hecaitou.com"
   },
   {
     "title": "认知遮羞布：循环论证三段论",
     "url": "https://mobius.blog/24225.html",
     "date": "2026-05-26T00:55:00Z",
-    "description": "上周在咖啡厅码字时，因为耳机在后半程没电了，就只能把自己暴露在咖啡厅的白噪音之中，于是就听到隔壁两个阿姨的聊天 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+    "description": "上周在咖啡厅码字时，因为耳机在后半程没电了，就只能把自己暴露在咖啡厅的白噪音之中，于是就听到隔壁两个阿姨的聊天 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
   },
   {
     "title": "重庆徒步翻车！暴雨后进山，差点栽在这座小山里",
     "url": "https://macin.org/2026/05/25/tu-bu-fan-che/",
     "date": "2026-05-25T22:38:19Z",
-    "description": "重庆徒步翻车！暴雨后进山，差点栽在这座近郊小山里 翻看相册才发觉，自从月初爬过一次山后，已经许久没有进山徒步了。接连好几周都是单休模式，短暂的休息日根本来不及奔赴远方山野，只能就近找些轻量路线散心，徒步的瘾一直没得到尽兴。出发前一晚的重庆天气，堪称狂暴。整夜暴"
+    "description": "重庆徒步翻车！暴雨后进山，差点栽在这座近郊小山里 翻看相册才发觉，自从月初爬过一次山后，已经许久没有进山徒步了。接连好几周都是单休模式，短暂的休息日根本来不及奔赴远方山野，只能就近找些轻量路线散心，徒步的瘾一直没得到尽兴。出发前一晚的重庆天气，堪称狂暴。整夜暴",
+    "source_root_domain": "macin.org"
   },
   {
     "title": "CoStrict Router —— 第三方 CoStrict 接口转发工具",
     "url": "https://mok.moe/p/costrict-router",
     "date": "2026-05-25T20:49:00Z",
-    "description": "公司采购了 CoStrict，打开一看国产主流大模型挺全的，正打算好好把玩一番却发现官方只支持 VSCode 插件，于是连夜撸了个转发工具，顺便开源了 😋 costrict-router 是一个第三方的 CoStrict 接口转发工具，它可以将任意 OpenAI 兼容（Chat Completions）的请求转发到你指定的私有化 CoStrict 服务端上 你可以把它理解成一个 本地 CoStrict 入口：登录一次后，后续只需要把 Agent 工具的 Base URL 指向本地地址即可 🔗 http"
+    "description": "公司采购了 CoStrict，打开一看国产主流大模型挺全的，正打算好好把玩一番却发现官方只支持 VSCode 插件，于是连夜撸了个转发工具，顺便开源了 😋 costrict-router 是一个第三方的 CoStrict 接口转发工具，它可以将任意 OpenAI 兼容（Chat Completions）的请求转发到你指定的私有化 CoStrict 服务端上 你可以把它理解成一个 本地 CoStrict 入口：登录一次后，后续只需要把 Agent 工具的 Base URL 指向本地地址即可 🔗 http",
+    "source_root_domain": "mok.moe"
   },
   {
     "title": "Marvis 实战：用 AI 打造一个每天自动更新的天蝎座运势站",
     "url": "https://www.evan.xin/5002/",
     "date": "2026-05-25T15:34:49Z",
-    "description": "我只负责\"想\"，AI 负责\"做\"。 起因 星座运势有稳定需求，但传统方式要么固定模板缺乏新鲜感，要么需要人工每 […]"
+    "description": "我只负责\"想\"，AI 负责\"做\"。 起因 星座运势有稳定需求，但传统方式要么固定模板缺乏新鲜感，要么需要人工每 […]",
+    "source_root_domain": "evan.xin"
   },
   {
     "title": "R#103 随心飞，启动！",
     "url": "https://blog.sakanano.moe/journals/random_103",
     "date": "2026-05-25T14:00:00Z",
-    "description": "2026.5.19 ~ 2026.5.25"
+    "description": "2026.5.19 ~ 2026.5.25",
+    "source_root_domain": "sakanano.moe"
   },
   {
     "title": "由于 Linux 桌面没有一个好用的天气程序就写了一个跨平台的CheckitoutWeather",
     "url": "https://hellodk.cn/post/1221",
     "date": "2026-05-25T07:27:00Z",
-    "description": "vibe coding的程序。暂时构建了 win 和 linux 的。mac 没设备暂时。开源以及下载地址： GitHub ，使用的和风天气API ，由于 API收费，免费的有额度但是不多，所以..."
+    "description": "vibe coding的程序。暂时构建了 win 和 linux 的。mac 没设备暂时。开源以及下载地址： GitHub ，使用的和风天气API ，由于 API收费，免费的有额度但是不多，所以...",
+    "source_root_domain": "hellodk.cn"
   },
   {
     "title": "百位数内加减法",
     "url": "https://mobius.blog/24359.html",
     "date": "2026-05-25T06:55:00Z",
-    "description": "（2026 年全国卷）128+35+( )+2=247 A、82 B、90 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+    "description": "（2026 年全国卷）128+35+( )+2=247 A、82 B、90 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "王菲版Don't Break My Heart",
+    "url": "https://www.hecaitou.com/2026/05/faye-wongs-version-of-dont-break-my-heart.html",
+    "date": "2026-05-25T04:13:21Z",
+    "description": "不是说一个人经历了某个时代，就自然知道那个时代里发生过的所有事情。在刚刚过去的这个周末，我第一次知道王菲曾经在日本武道馆开过演唱会，也是第一次知道在那场演唱会上王菲演唱了 《Don't Break My Heart》 ，而且是窦唯打鼓。 现场资料只有模糊不清的录像，哪怕是 4K 修复版依然模糊，年代感十足。镜头下的两个年轻人，清澈，干净，很难想象今天其中一个在唱秦腔，另一个按照一周一张 EP 的速度推出自己的古文专辑。仿佛两个平行世界，看其中任何一个都看不出另外一个会出现的丝毫端倪。 《Don't Break My Heart》 曾经是我去卡拉 OK 的个人「必嚎曲目」，当然还有 《无地自容》《海阔天空》《不再犹豫》 这些歌，如今我已经很多年不唱，也不听。当我开始重温 CD 时，遇见摇滚乐都会绕道走，仿佛是对于当年的自己怀着某种抱歉，然后就只能选择回避。 有一次已经很危险了。演员咏梅拿了柏林影后，然后有人说她曾经出现在 《无地自容》 的 MV 里。我找来 MV，音乐响起，还没看到咏梅的影子，回忆的泥头车就迎面撞来。我只能立即关闭页面，坐在椅子上喘息不已。 一个人什么时候不再听摇滚，他就",
+    "source_root_domain": "hecaitou.com"
   },
   {
     "title": "理解LLM的范式——它就是个差分机？",
     "url": "https://blog.est.im/2026/stderr-20",
     "date": "2026-05-25T03:57:00Z",
-    "description": "作为一个外行，我一直对“AI”的魔力感到惊奇，我一度以为神经网络一层一层传播，可以看成某种有限步骤的图灵机。AI提醒我不要瞎类比，图灵机左移右移是离散，确定的逻辑，神经网络是fp32上连续的概率映射。 后来稍微深入了解了一下，认识到对于一个深度固定的 Transformer 模型（比如 96 层的 GPT-4），它的单次前向传播算是一个深度固定的有向无环图（DAG）。所谓的 predict next token，可以粗糙理解成 nexttoken = eval(modelweights, history+input) 这里最奇特的算是：自回归（Autoregression）。传统的冯·诺依曼架构中，指令（Code）和数据（Data）是分开的。但在 LLM 中，上下文是动态的指令+数据。输出什么样话，什么时机结束。LLM得自己想办法把画圆回来，并且知道什么时候该停止吐词。 这种 控制面 和 数据面 混合的做法让我感到非常不适，也是诸多prompt injection问题无解的根源 不过一旦get到这个范式，我想到一个有趣的类比，一般的 gpt 是 dcoder-only，VRAM里权重就"
+    "description": "作为一个外行，我一直对“AI”的魔力感到惊奇，我一度以为神经网络一层一层传播，可以看成某种有限步骤的图灵机。AI提醒我不要瞎类比，图灵机左移右移是离散，确定的逻辑，神经网络是fp32上连续的概率映射。 后来稍微深入了解了一下，认识到对于一个深度固定的 Transformer 模型（比如 96 层的 GPT-4），它的单次前向传播算是一个深度固定的有向无环图（DAG）。所谓的 predict next token，可以粗糙理解成 nexttoken = eval(modelweights, history+input) 这里最奇特的算是：自回归（Autoregression）。传统的冯·诺依曼架构中，指令（Code）和数据（Data）是分开的。但在 LLM 中，上下文是动态的指令+数据。输出什么样话，什么时机结束。LLM得自己想办法把画圆回来，并且知道什么时候该停止吐词。 这种 控制面 和 数据面 混合的做法让我感到非常不适，也是诸多prompt injection问题无解的根源 不过一旦get到这个范式，我想到一个有趣的类比，一般的 gpt 是 dcoder-only，VRAM里权重就",
+    "source_root_domain": "feedburner.com"
   },
   {
     "title": "当每个新发布都像另一个 AI Agent，怎样才能真正脱颖而出",
     "url": "https://rokcso.com/p/stand-out-ai-agent-launch/",
     "date": "2026-05-25T02:00:00Z",
-    "description": "现在去产品发布平台上看一圈，很容易疲劳。 又一个 AI Agent 做销售。又一个做调研。又一个做客服。又一个做代码。 问题不在大家都在做 AI。问题在于，太多产品用同一种方式介绍自己：一样的标签，一样的首页文案，一样的仪表盘截图，一样地承诺「提升效率」，却说不清替谁提升、在哪个环节提升、靠什么方式提升。 于是很多产品在用户点进去之前，就已经失去了区分度。 这几年，做产品和发产品的门槛都在快速下降。对创业者来说，这当然是好事；但另一面是，市场上的「相似发布」越来越多。发布变容易了，听起来普通的代价反而更高了。 「Agent」只是类别，不是差异化 很多团队以为，给产品贴上「AI Agent」的标签，产品就自动显得更先进。 并不是。 如果你的产品本质上只是接了一个大模型，那它未必真的是 Agent。即便它确实是，「Agent」也只是个类别名词——用户不会因为「这终于是个 Agent 了」而买单。用户会买单，是因为某件原本麻烦、低效、容易出错的工作，被你更稳地接过去了。 所以与其说： 我们是一个面向客服团队的 AI Agent 不如说： 我们帮 Shopify 商家自动处理退款和改订单请求，"
+    "description": "现在去产品发布平台上看一圈，很容易疲劳。 又一个 AI Agent 做销售。又一个做调研。又一个做客服。又一个做代码。 问题不在大家都在做 AI。问题在于，太多产品用同一种方式介绍自己：一样的标签，一样的首页文案，一样的仪表盘截图，一样地承诺「提升效率」，却说不清替谁提升、在哪个环节提升、靠什么方式提升。 于是很多产品在用户点进去之前，就已经失去了区分度。 这几年，做产品和发产品的门槛都在快速下降。对创业者来说，这当然是好事；但另一面是，市场上的「相似发布」越来越多。发布变容易了，听起来普通的代价反而更高了。 「Agent」只是类别，不是差异化 很多团队以为，给产品贴上「AI Agent」的标签，产品就自动显得更先进。 并不是。 如果你的产品本质上只是接了一个大模型，那它未必真的是 Agent。即便它确实是，「Agent」也只是个类别名词——用户不会因为「这终于是个 Agent 了」而买单。用户会买单，是因为某件原本麻烦、低效、容易出错的工作，被你更稳地接过去了。 所以与其说： 我们是一个面向客服团队的 AI Agent 不如说： 我们帮 Shopify 商家自动处理退款和改订单请求，",
+    "source_root_domain": "rokcso.com"
   },
   {
     "title": "我的目标不是你，是整个世界",
     "url": "https://blog.solazy.me/20260525/",
     "date": "2026-05-25T02:00:00Z",
-    "description": "今天抛出一个未来我会持续一直聊的概念"
+    "description": "今天抛出一个未来我会持续一直聊的概念",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "稻草人周刊 Vol.82",
     "url": "https://www.geedea.pro/weekly/82/",
     "date": "2026-05-25T01:36:43Z",
-    "description": "这周我把堆积在书签里没读的文章翻出来读了，发现其中有不少已经是两三个月前发布的内容了，他们跟随着一次次书签管理器迁移漂泊了好久，终于在周刊里找到了归宿。 止语 I Hate It Here Taylor Swift I’m lonely, but I’m good I’m bitter, but I swear I’m fine I’ll save all my romanticism for my inner life and I’ll get lost on purpose This place made me feel worthless Lucid dreams like electricity, the current flies through me And in my fantasies, I rise above it And way up there, I actually love it 连接 我抛弃孩子，爱上妈妈，被全欧洲封杀，但我是个好人 📻 《独树不成林》我抛弃孩子，爱上妈妈，被全欧洲封杀，但我是个好人 八卦不仅仅是娱乐方式，甚至是刻在人类基因里的生存本能，原"
+    "description": "这周我把堆积在书签里没读的文章翻出来读了，发现其中有不少已经是两三个月前发布的内容了，他们跟随着一次次书签管理器迁移漂泊了好久，终于在周刊里找到了归宿。 止语 I Hate It Here Taylor Swift I’m lonely, but I’m good I’m bitter, but I swear I’m fine I’ll save all my romanticism for my inner life and I’ll get lost on purpose This place made me feel worthless Lucid dreams like electricity, the current flies through me And in my fantasies, I rise above it And way up there, I actually love it 连接 我抛弃孩子，爱上妈妈，被全欧洲封杀，但我是个好人 📻 《独树不成林》我抛弃孩子，爱上妈妈，被全欧洲封杀，但我是个好人 八卦不仅仅是娱乐方式，甚至是刻在人类基因里的生存本能，原",
+    "source_root_domain": "geedea.pro"
   },
   {
     "title": "人的贪婪，始于被给得太多？",
     "url": "https://mobius.blog/24201.html",
     "date": "2026-05-25T00:55:00Z",
-    "description": "不知道为什么，每次在咖啡厅码字的时候，好像写下的都是“坏世界”这个分类的文章——大概这是一个可以直接观察到“人 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。"
+    "description": "不知道为什么，每次在咖啡厅码字的时候，好像写下的都是“坏世界”这个分类的文章——大概这是一个可以直接观察到“人 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
   },
   {
     "title": "IP送中的解决办法",
     "url": "https://bojie.site/posts/2026-05-25/",
     "date": "2026-05-25T00:00:00Z",
-    "description": "使用 WARP 解决 Google 将 VPS IP 识别为中国大陆 IP"
+    "description": "使用 WARP 解决 Google 将 VPS IP 识别为中国大陆 IP",
+    "source_root_domain": "bojie.site"
   }
 ]

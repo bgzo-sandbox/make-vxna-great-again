@@ -27,19 +27,20 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
-| 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
 | 2026-05-27 | [最近大半年的工作](https://smallyu.net/2026/05/27/%E6%9C%80%E8%BF%91%E5%A4%A7%E5%8D%8A%E5%B9%B4%E7%9A%84%E5%B7%A5%E4%BD%9C/) | 前几年关于工作内容方面的回顾： 2025 年：《<a |
 | 2026-05-27 | [我将关闭服务器：AI彻底掐死了奄奄一息的个人博客](https://blog.renfei.net/posts/1626402130325676140) | 在AI普及的当下，我计划关闭服务器，把个人博客转为静态页面。个人博客不是突然死去，而是被时代一点点推到边缘。 |
+| 2026-05-27 | [怎么就以小见大了](https://www.hecaitou.com/2026/05/how-on-earth-does-the-small-reflect-the-great.html) | 没有坏作文，只有坏品位，我是这么认为的。 比如说有些人看不上写生活琐碎小事的文章，觉得不够深刻，觉得没有洞见，觉得没有所谓「干货」，这通常就是中了宏大叙事的毒，对于抽象理论的兴趣远远大于真实生活。又有一些人拿着放大镜看这样的文章，试图从中找出一点生活哲理，人生感悟出来，这通常则是中了「微言大义」的毒… |
 | 2026-05-27 | [真正的人生奥数应用题 II](https://mobius.blog/24297.html) | 要不是那天在电梯里听到了一对父母跟孩子的对话，我都不会再把之前的文章翻出来，写下 II 的内容。 妈妈念叨，女 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-27 | [chrome-devtools-mcp 使用](https://blog.196000.xyz/2026/2026-05-27-develop-chrome-devtools-mcp.html) | chrome-devtools-mcp 使用 Chrome DevTools MCP 是一个本地服务，它为 AI 编码助手（比如 Claude、Codex、Cursor 等）提供了一套控制 Chrome 浏览器的工具集。 Chrome M144 中添加了一项新功能，可让 Chrome 开发者工具 M… |
 | 2026-05-27 | [Memos #2026-05-26](https://www.taober.blog/memos) | 20:09 用 AI 写方案真爽，就好像是...当成是我自己写的 😄 |
-| 2026-05-26 | [十年重生！Wox 2 开源快速应用启动器 (跨平台/多插件/搜索/截图/翻译/AI)](https://www.iplaysoft.com/wox2.html) | 我有时特别痴迷各种效率工具，能省一点点的操作都会很开心。Windows 上折腾过 Listary 、 Fences 、 Quicker 、 uTools 、 PowerToys Run ，在 Mac 上 Raycast 和 Alfred 反复也比较过。 而最近一款十多年的老牌开源快捷启动器 Wox… |
 | 2026-05-26 | [OPC实践 & 不懂开发的独立开发者 - Week8](https://diff.im/blog/2026/05/opc%E5%AE%9E%E8%B7%B5-%E4%B8%8D%E6%87%82%E5%BC%80%E5%8F%91%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85-week8/) | MRR 目标：$1000.00 本周收入：$0 本周完成的几件事情 继续做 Cap4u（第三个 App）的 IAP 开发和 App Store 截图设计。现在差不多可以 TestFlight 内测了。如果您在美国或加拿大生活，想参与 App 的体验与测试，请给我发 email：hi {at} dif… |
+| 2026-05-26 | [社会化训练是必要的吗](https://blog.solazy.me/20260526/) | 在一周之内，有两个截然不同的人，在截然不同的场景下，向我提到了同一个词：社会化。 |
 | 2026-05-26 | [Lesson 13 亲代抚育 (parental care)](https://physnya.top/animal-behavior/lesson-13-parental-care/) | 当然大家主要是一种接受的角色. General Pattern 有几类：没有亲代抚育、由雌性单独提供亲代抚育、由雄性单独提供亲代抚育、双亲共同提供亲代抚育. 第一类主要是无脊椎动物，我们这节课不仔细讨论. 先从鸟类这种主要由双亲共同提供亲代抚育的类型来说. 一般而言，雏鸟能否成活取决于食物的总量，而… |
 | 2026-05-26 | [PIXPRO主题安装教程：XLoader PHP扩展的安装与配置](https://www.evan.xin/5005/) | 注意⚠️pixpro主题对php的版本有一定要求，建议安装8.2及以上版本 如你不喜这个浏览方式可访问：htt […] |
 | 2026-05-26 | [Lesson 25 原初核合成 & CMB](https://physnya.top/GR/lesson-24-bbn-and-cmb/) | 核反应 1 + 2 ⟷ 3 + 4 1+2\longleftrightarrow 3+4 1 + 2 ⟷ 3 + 4 ，对于 n 1 n_1 n 1 ​ 有时间变化： |
 | 2026-05-26 | [AsyncT vllm适配、加速笔记（二）](https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%BA%8C/) | 加速第二篇，主要是在CUDA Kernel上做更多的优化，反思之前的Benchmarking问题等。 |
 | 2026-05-26 | [2026.5.25](https://www.justzht.com/2026-5-25/) | 刚预订了去纽约的机票和夏威夷的租车，都是开发者大会结束后的第二周。至于怎么从纽约去夏威夷，目前的想法 |
+| 2026-05-26 | [修窗记](https://www.hecaitou.com/2026/05/The-Window-Repair-Chronicles.html) | 上周我关窗的时候，一不小心把窗户锁的旋转手柄给拧了下来。于是，我的窗子就处于随意开关的状态，任何人在外面都可以打开它，然后一步跨入室内。 虽然这种可能性基本为零，而且，能够爬到我这个楼层的高手，大概率什么锁都挡不住。不过我还是觉得心里不舒服，就像是埋下了一根刺，因为房子始终敞着一个口。 我在第一时间… |
 | 2026-05-26 | [认知遮羞布：循环论证三段论](https://mobius.blog/24225.html) | 上周在咖啡厅码字时，因为耳机在后半程没电了，就只能把自己暴露在咖啡厅的白噪音之中，于是就听到隔壁两个阿姨的聊天 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-25 | [重庆徒步翻车！暴雨后进山，差点栽在这座小山里](https://macin.org/2026/05/25/tu-bu-fan-che/) | 重庆徒步翻车！暴雨后进山，差点栽在这座近郊小山里 翻看相册才发觉，自从月初爬过一次山后，已经许久没有进山徒步了。接连好几周都是单休模式，短暂的休息日根本来不及奔赴远方山野，只能就近找些轻量路线散心，徒步的瘾一直没得到尽兴。出发前一晚的重庆天气，堪称狂暴。整夜暴 |
 | 2026-05-25 | [CoStrict Router —— 第三方 CoStrict 接口转发工具](https://mok.moe/p/costrict-router) | 公司采购了 CoStrict，打开一看国产主流大模型挺全的，正打算好好把玩一番却发现官方只支持 VSCode 插件，于是连夜撸了个转发工具，顺便开源了 😋 costrict-router 是一个第三方的 CoStrict 接口转发工具，它可以将任意 OpenAI 兼容（Chat Completion… |
@@ -47,6 +48,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-25 | [R#103 随心飞，启动！](https://blog.sakanano.moe/journals/random_103) | 2026.5.19 ~ 2026.5.25 |
 | 2026-05-25 | [由于 Linux 桌面没有一个好用的天气程序就写了一个跨平台的CheckitoutWeather](https://hellodk.cn/post/1221) | vibe coding的程序。暂时构建了 win 和 linux 的。mac 没设备暂时。开源以及下载地址： GitHub ，使用的和风天气API ，由于 API收费，免费的有额度但是不多，所以... |
 | 2026-05-25 | [百位数内加减法](https://mobius.blog/24359.html) | （2026 年全国卷）128+35+( )+2=247 A、82 B、90 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-05-25 | [王菲版Don't Break My Heart](https://www.hecaitou.com/2026/05/faye-wongs-version-of-dont-break-my-heart.html) | 不是说一个人经历了某个时代，就自然知道那个时代里发生过的所有事情。在刚刚过去的这个周末，我第一次知道王菲曾经在日本武道馆开过演唱会，也是第一次知道在那场演唱会上王菲演唱了 《Don't Break My Heart》 ，而且是窦唯打鼓。 现场资料只有模糊不清的录像，哪怕是 4K 修复版依然模糊，年代… |
 | 2026-05-25 | [理解LLM的范式——它就是个差分机？](https://blog.est.im/2026/stderr-20) | 作为一个外行，我一直对“AI”的魔力感到惊奇，我一度以为神经网络一层一层传播，可以看成某种有限步骤的图灵机。AI提醒我不要瞎类比，图灵机左移右移是离散，确定的逻辑，神经网络是fp32上连续的概率映射。 后来稍微深入了解了一下，认识到对于一个深度固定的 Transformer 模型（比如 96 层的… |
 | 2026-05-25 | [AsyncT vllm适配、加速笔记（一）](https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%B8%80/) | 笔记的第一部分，主要覆盖了一些preliminaries，基础的vllm接入流程，以及简单的triton算子实现和最基础版本的CUDA算子实现。 |
 | 2026-05-25 | [当每个新发布都像另一个 AI Agent，怎样才能真正脱颖而出](https://rokcso.com/p/stand-out-ai-agent-launch/) | 现在去产品发布平台上看一圈，很容易疲劳。 又一个 AI Agent 做销售。又一个做调研。又一个做客服。又一个做代码。 问题不在大家都在做 AI。问题在于，太多产品用同一种方式介绍自己：一样的标签，一样的首页文案，一样的仪表盘截图，一样地承诺「提升效率」，却说不清替谁提升、在哪个环节提升、靠什么方式… |
@@ -66,7 +68,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-24 | [死猫](https://mobius.blog/24352.html) | 刚才遛狗时，狗突然扯着绳子朝一个地方凑，我才发现一只侧躺在灌木里的猫，但已经死了。 小区有好几只眼熟的猫，靠附 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-24 | [学习周刊-总第264期-2026年第21周](https://wiki.eryajf.net/pages/1833b9/) | 如要阅读全文，点击标题跳转。 学习周刊-总第264期 &#124; pxcharts &#124; dinky &#124; next-admin &#124; worldmonitor &#124; dbpaw &#124; chartli &#124; oh-my-pi |
 | 2026-05-24 | [好玩，大数据杀熟](https://re.karlbaey.top/articles/rocky-road/big-swindling/) | 杀熟很常见，它有个更地道的称呼叫做“看人下菜碟”，但是互联网把这“人”，或者连人都不是，的范围扩得好宽好宽啊，甚至有时候 … |
-| 2026-05-24 | [PVE 9.2 (Proxmox VE) 虚拟机系统 - 开源免费！同时安装运行多个不同操作系统](https://www.iplaysoft.com/pve.html) | 玩 软路由 、 NAS 、 迷你主机 等的朋友，如果希望能在一台机器上安装运行多个不同操作系统 (俗称 All in One)，一定都喜欢折腾「虚拟化系统」，其中最主流的就有 ESXi、PVE、Unraid 三者。 PVE (全称 Proxmox Virtual Environment) 是一个既可… |
 | 2026-05-24 | [Vol.104 自动化加速，人类专家价值飙升：AI Agent工程体系化与产业变革](https://liduos.com/weekly/the-weekly-gradient-104) | 本期内容聚焦AI自动化加速下人类专家价值上升的悖论，涵盖Gemini 3.5、Qwen3.7-Max等模型突破，Agent工程体系化（记忆、梦想、对抗式评估），以及AI原生创业与硬件趋势。 |
 | 2026-05-24 | [花费近万元，跑了8500km，我租车一年后的真实感受](https://www.qs5.org/Post/786.html) | 去年在论坛发过帖 不通勤, 用车不多, 可能租车比买车是更好的选择?最后想了想: 既然暂时也不打算买车, 不如先租一年试试看.于是,《十年老司机, 租车第一次上路感受, 另求行车记录仪推荐.》到... |
 | 2026-05-24 | [FastAdmin 使用备忘录](https://blog.196000.xyz/2026/2026-05-24-develop-fastadmin-handbook.html) | ```bash # @backend/.env [app] debug = true trace = false |
@@ -112,7 +113,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-21 | [隐私政策](https://11010.net/privacy/) | 本页说明「逍遥客」博客（https://11010.net，以下简称"本站"）如何收集、使用与保护访问者的信息。继续访问本站即表示您已阅读并同意本政策。 一、信息收集 本站本身不主动收集您的任何个人身份信息（姓名、邮箱、电话等）。但通过下列第三方服务，可能会收集到匿名的访问行为数据： Google… |
 | 2026-05-20 | [Heroes Chronicles updated](https://macsourceports.com/game/hchronicles) | The build of VCMI for Heroes Chronicles has been updated to version 1.7.4 of the project |
 | 2026-05-20 | [Heroes of Might and Magic III updated](https://macsourceports.com/game/homm3) | The build of VCMI for Heroes of Might and Magic III has been updated to version 1.7.4 of the project |
-| 2026-05-20 | [年度低价！哔哩 B 站年度大会员 + 京东 PLUS 年卡优惠 (还有电视端)](https://www.iplaysoft.com/p/bilibili-vip) | 哔哩哔哩从创立至今，逐渐已成为了年轻人超喜爱的动画视频网站了。现在无论是二次元番剧、电视剧、电影、各种有趣视频、知名UP主、学习资料等都能在 B 站找到。 丰富的番剧影视资源 + UP 主自制视频资源，没有片头广告，再加上极高人气的“弹幕”的存在，使得 B 站成为能与 爱奇艺、腾讯视频 …… 「 前… |
 | 2026-05-20 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.84.0 of the project |
 | 2026-05-20 | [翻译-Bitwarden的静默革新](https://blog.prayhand13013.top/20260521T014604--翻译-bitwarden的静默革新__blog.html) |  |
 | 2026-05-20 | [Bought a Quote/0](https://www.bboy.app/2026/05/20/bought-a-quote/0/) | Introduction I recently got a Quote/0. It now lives on my desk collecting dust. |
@@ -121,15 +121,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-20 | [20260520的胡言乱语](https://www.bboy.app/2026/05/20/20260520%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-05-20 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.2 of the project |
 | 2026-05-20 | [遂昌｜躲避人潮的五一自驾Day4 - 焦滩](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-04.html) |  |
-| 2026-05-20 | [正版软件 5 月惠：Fences / Groupy / Start11 / GoodSync / Office 等…](https://www.iplaysoft.com/news/6533) | 电脑越用越乱，大概是很多人的共同问题。桌面文件堆成山、截图随手乱放、下载目录简直一团乱麻；想找一个文档，结果翻了半天才发现藏在不知道哪个文件夹里。 更崩溃的是 —— 很多时候不是电脑硬件配置不够用，而是文件和界面缺乏系统性整理，注意力每天都在被各种杂乱界面和重复操作偷…… 「 前往查看原文....… |
 | 2026-05-20 | [犯错的时候不该说什么](https://blog.solazy.me/20260520/) | 上周日的一起小的刮擦事故，引发了一个我对于发错这不该说什么的想法 |
 | 2026-05-20 | [OPC创业范式的真相，及AI时代域名需求的隐性爆发](https://www.evan.xin/4992/) | 从"十五五"规划纲要的密集落笔，到二十余座城市的专项政策扎堆出台，OPC（One Person Company […] |
-| 2026-05-20 | [618 放大招：百度网盘 SVIP 超级会员年卡史低价 (送哔哩B站 + 喜马)](https://www.iplaysoft.com/p/baiduwangpan-svip) | 「百度网盘」几乎是我们每天都要用到的工具，无论是下载网上别人分享的资源，还是上传自己的文件去备份，都是使用率极高的服务，同时它也是目前国内使用人数特别多的网盘。 免费用户会受到比较严重的限速，下载文件往往慢到让人怀疑人生，而超级会员则完全不限速，基本都能跑满你的带…… 「 前往查看原文.... 」… |
 | 2026-05-20 | [少即是多](https://mobius.blog/23860.html) | 要不是因为这次准备小说大纲，我才意识到我已经过了“差生文具多”的状态了。 当然必须先叠甲，差生文具多并不是一个 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-20 | [使用树莓派 4 和 Moonlight 串流游戏的实践](https://blog.vvzero.com/2026/05/20/The-best-practice-for-game-streaming-via-moonlight-raspberry-pi/) | 家庭内网，串流打游戏是真需求，电脑放书房，在客厅电视玩，真的爽。 设备清单</h |
-| 2026-05-20 | [绝对值！夸克网盘 SVIP 会员优惠年卡打折！6TB 大空间 / 不限速 / 离线下载](https://www.iplaysoft.com/p/quark-svip) | 如今，网盘正在逐渐成为我们日常工作和娱乐 (转存 + 在线看电影看视频) 的重要工具。无论是办公文件、手机电脑的备份，还是图片和视频，都可以通过云端进行存储和转移。 超级会员 SVIP 年卡限时打折优惠： 除了百度网盘、阿里云盘、迅雷云盘之外，最近还有一款网盘“异军突起”——夸克网盘…… 「 前往查… |
 | 2026-05-20 | [当炒饭与海风相遇《Summer Pockets REFLECTION BLUE》 圣地巡礼之男木岛](https://www.wikimoe.com/post/b-tf6k6qhp) | 2026年5月5日，在结束了女木岛的行程之后，来到了男木岛。 关于男木岛 男木岛是位于日本香川县高松市北方濑户内海中的一座小岛，与女木岛相邻，属于备赞濑户航道附近的岛屿。岛上地形多坡，村落沿山坡层层展开，白墙民居、石阶小路和港口景观构成了独特的海岛风貌。男木岛以宁静的渔村氛围、男木岛灯塔、猫与岛民共… |
-| 2026-05-20 | [史低价！爱奇艺 (电视端) VIP 年卡+送京东 PLUS 会员优惠￥158 元起](https://www.iplaysoft.com/news/4313) | 看剧基本必备爱奇艺会员，相信不用多做介绍了；而如果你经常会在京东商城买东西，那么自然也知道京东 Plus 会员的各种好处！比如每月免邮、全品类优惠券、Plus 特价商品、专享活动价、免费上门退换货等等特权。 原本爱奇艺 VIP 年卡定价 258 元，电视端更是 488 元，京东 PLUS 会员定价… |
 
 ## Vibe Coding
 
