@@ -24,7 +24,9 @@ This page is overwritten on each fetch run and only keeps the latest execution r
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2066-05-04 | [the-story-of-me](https://m4p1e.com/2066/05/04/the-story-of-me/) | 先讲一个2016年博客刚开的故事: 这里先讲一个故事，一个关于我的故事，一个摸爬滚打的“黑客”成长的故事。我很早就接触过这个专业的内容，准确来说是从初中开始接触网络安全的，那时我因为想玩私服，导致中毒了（还记得是 |
+| 2026-05-27 | [真正的人生奥数应用题 II](https://mobius.blog/24297.html) | 要不是那天在电梯里听到了一对父母跟孩子的对话，我都不会再把之前的文章翻出来，写下 II 的内容。 妈妈念叨，女 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-27 | [chrome-devtools-mcp 使用](https://blog.196000.xyz/2026/2026-05-27-develop-chrome-devtools-mcp.html) | Chrome DevTools MCP 是一个本地服务，它为 AI 编码助手（比如 Claude、Codex、Cursor 等）提供了一套控制 Chrome 浏览器的工具集。 |
+| 2026-05-27 | [Memos #2026-05-26](https://www.taober.blog/memos) | 20:09 用 AI 写方案真爽，就好像是...当成是我自己写的 😄 |
 | 2026-05-26 | [十年重生！Wox 2 开源快速应用启动器 (跨平台/多插件/搜索/截图/翻译/AI)](https://www.iplaysoft.com/wox2.html) | 我有时特别痴迷各种效率工具，能省一点点的操作都会很开心。Windows 上折腾过 Listary 、 Fences 、 Quicker 、 uTools 、 PowerToys Run ，在 Mac 上 Raycast 和 Alfred 反复也比较过。 而最近一款十多年的老牌开源快捷启动器 Wox… |
 | 2026-05-26 | [OPC实践 & 不懂开发的独立开发者 - Week8](https://diff.im/blog/2026/05/opc%E5%AE%9E%E8%B7%B5-%E4%B8%8D%E6%87%82%E5%BC%80%E5%8F%91%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85-week8/) | MRR 目标：$1000.00 本周收入：$0 本周完成的几件事情 继续做 Cap4u（第三个 App）的 IAP 开发和 App Store 截图设计。现在差不多可以 TestFlight 内测了。如果您在美国或加拿大生活，想参与 App 的体验与测试，请给我发 email：hi {at} dif… |
 | 2026-05-26 | [Lesson 13 亲代抚育 (parental care)](https://physnya.top/animal-behavior/lesson-13-parental-care/) | 当然大家主要是一种接受的角色. General Pattern 有几类：没有亲代抚育、由雌性单独提供亲代抚育、由雄性单独提供亲代抚育、双亲共同提供亲代抚育. 第一类主要是无脊椎动物，我们这节课不仔细讨论. 先从鸟类这种主要由双亲共同提供亲代抚育的类型来说. 一般而言，雏鸟能否成活取决于食物的总量，而… |
@@ -46,7 +48,6 @@ This page is overwritten on each fetch run and only keeps the latest execution r
 | 2026-05-25 | [稻草人周刊 Vol.82](https://www.geedea.pro/weekly/82/) | 这周我把堆积在书签里没读的文章翻出来读了，发现其中有不少已经是两三个月前发布的内容了，他们跟随着一次次书签管理器迁移漂泊了好久，终于在周刊里找到了归宿。 止语 I Hate It Here Taylor Swift I’m lonely, but I’m good I’m bitter, but I… |
 | 2026-05-25 | [人的贪婪，始于被给得太多？](https://mobius.blog/24201.html) | 不知道为什么，每次在咖啡厅码字的时候，好像写下的都是“坏世界”这个分类的文章——大概这是一个可以直接观察到“人 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-25 | [IP送中的解决办法](https://bojie.site/posts/2026-05-25/) | 使用 WARP 解决 Google 将 VPS IP 识别为中国大陆 IP |
-| 2026-05-25 | [Memos #2026-05-24](https://www.taober.blog/memos) | 13:51 壹方城胖明，木薯糖水顶级，炒螺蛳粉也不错，美中不足的是我不吃猪肝，价格有点小贵。 |
 | 2026-05-24 | [环岛漫游 《Summer Pockets REFLECTION BLUE》 圣地巡礼之直岛](https://www.wikimoe.com/post/b-tfjh02hj) | 2026年5月6日，天气多云，今天将前往直岛，开启旅程的三周目。 关于直岛 直岛是位于日本濑户内海的香川县小岛，距离冈山县玉野市约3公里，以“艺术之岛”闻名；岛上既有白沙、青松、海湾与丘陵构成的宁静海景，也保留着渔村、港口和工业历史。自20世纪末以来，贝尼斯艺术场直岛等项目把当代艺术、安藤忠雄等建筑… |
 | 2026-05-24 | [低配服务器调优](https://blog.lhasa.icu/posts/technology/2026-05-25-low-end-server-tuning) | 一个月前，我在阿里云秒杀抢了台丐中丐，38元/年，2核 2G 40G 今天我在想它能不能作为饥荒的自建服务器，便着手收拾了起来 默认的系统是 Alibaba Cloud Linux，阿里过度定制化，不太适合我 索性直接用 Ubuntu 重装了系统。在编译博客时，再次遇到一个月前的性能问题，这里把调优… |
 | 2026-05-24 | [我把自己的审美变成了一套 Harness](https://blog.zopiya.com/wanxing-harness-3e4fce6a/) | 事情的开始很简单。 有天我突然意识到：在做过的所有设计里，让自己看着最舒服的，其实是同一种感觉。温柔的、克制的、文字优先的、留白比填满更有力量的。 |
@@ -123,27 +124,6 @@ This page is overwritten on each fetch run and only keeps the latest execution r
 | 2026-05-20 | [绝对值！夸克网盘 SVIP 会员优惠年卡打折！6TB 大空间 / 不限速 / 离线下载](https://www.iplaysoft.com/p/quark-svip) | 如今，网盘正在逐渐成为我们日常工作和娱乐 (转存 + 在线看电影看视频) 的重要工具。无论是办公文件、手机电脑的备份，还是图片和视频，都可以通过云端进行存储和转移。 超级会员 SVIP 年卡限时打折优惠： 除了百度网盘、阿里云盘、迅雷云盘之外，最近还有一款网盘“异军突起”——夸克网盘…… 「 前往查… |
 | 2026-05-20 | [当炒饭与海风相遇《Summer Pockets REFLECTION BLUE》 圣地巡礼之男木岛](https://www.wikimoe.com/post/b-tf6k6qhp) | 2026年5月5日，在结束了女木岛的行程之后，来到了男木岛。 关于男木岛 男木岛是位于日本香川县高松市北方濑户内海中的一座小岛，与女木岛相邻，属于备赞濑户航道附近的岛屿。岛上地形多坡，村落沿山坡层层展开，白墙民居、石阶小路和港口景观构成了独特的海岛风貌。男木岛以宁静的渔村氛围、男木岛灯塔、猫与岛民共… |
 | 2026-05-20 | [史低价！爱奇艺 (电视端) VIP 年卡+送京东 PLUS 会员优惠￥158 元起](https://www.iplaysoft.com/news/4313) | 看剧基本必备爱奇艺会员，相信不用多做介绍了；而如果你经常会在京东商城买东西，那么自然也知道京东 Plus 会员的各种好处！比如每月免邮、全品类优惠券、Plus 特价商品、专享活动价、免费上门退换货等等特权。 原本爱奇艺 VIP 年卡定价 258 元，电视端更是 488 元，京东 PLUS 会员定价… |
-| 2026-05-19 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to version 0.1 of the project |
-| 2026-05-19 | [Gothic II updated](https://macsourceports.com/game/gothic2) | The build of OpenGothic for Gothic II has been updated to version 0.92 of the project |
-| 2026-05-19 | [Ubuntu 24.04 Noble 升级 Ubuntu 26.04 Resolute](https://u.sb/ubuntu-upgrade-2604/) | 本文将指导如何升级 Ubuntu 24.04 Noble Numbat 到 Ubuntu 26.04 Resolute Raccoon。 |
-| 2026-05-19 | [【工具】Telegraph图片下载快捷指令](https://7gugu.com/index.php/2026/05/20/%e3%80%90%e5%b7%a5%e5%85%b7%e3%80%91telegraph%e5%9b%be%e7%89%87%e4%b8%8b%e8%bd%bd%e5%bf%ab%e6%8d%b7%e6%8c%87%e4%bb%a4/) | 关键词: Telegram 电报 图片下载 快捷指令 shortcut 最近在用Telegram冲浪，发现电报 … 继续阅读 “【工具】Telegraph图片下载快捷指令” |
-| 2026-05-19 | [How to deploy Hermes Agent on Ubuntu](https://tianheg.co/posts/how-to-deploy-hermes-agent-on-ubuntu/) | Phase 1: Server Initialization & Base Setup Purchase a VPS, deploy Ubuntu 24.04 LTS Create system user tianhe , add to sudo group Go to https://hermes… |
-| 2026-05-19 | [Gitlab制品库实践记录](https://elmagnifico.tech/2026/05/20/Gitlab-Artifacts/) | Foreword 之前理解的制品库就是把CI的中间过程进行存储，虽然也包含了最终发布的部分，但是总觉得没啥大用，就没在意。后续发现其实从工程到生产环节有很多东西都需要进行交付，之前只关注了最核心的产品内容，周边一些零碎的东西，其实也需要被统一管理。而这个时候如果有很多个仓库需要一起进行打包、管理，这… |
-| 2026-05-19 | [20260519的胡言乱语](https://www.bboy.app/2026/05/19/20260519%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
-| 2026-05-19 | [永久 1TB 空间！Koofr - 支持 WebDAV 的终身免费 10G 网盘 (Rclone / 挂载 OneDrive)](https://www.iplaysoft.com/p/koofr) | 最近一直在为几台 VPS 服务器数据备份在烦恼，还有考虑到 NAS、电脑文件的异地备份，想找一台大硬盘的 VPS 或用 S3 云存储，但找了一圈，大空间的 VPS 年费实在都太贵了。 最近挖到了一款“冷门”的宝藏云网盘 Koofr，它不仅有永久免费不限速 10G 空间，最关键是完美支持 WebDAV… |
-| 2026-05-19 | [FE Bits Vol.34 &#124; @antv npm 包供应链攻击，Tailwind v4.3 发布](https://ysx.cosine.ren/weekly-34/) | 关于本周刊 本期网址 https://blog.cosine.ren/post/weekly-34 本周刊更新时间期望是在每周天。 推荐订阅本周刊的 RSS 。 公众号 前端周周谈 FE Bits，点击阅读原文链接可查看原文。 QQ 讨论小群 598022684 / Discord 群 本周刊文章内… |
-| 2026-05-19 | [从对齐到执行：grill-me + goal，AI 编码的完整工作流](https://www.wangwangit.com/%E4%BB%8E%E5%AF%B9%E9%BD%90%E5%88%B0%E6%89%A7%E8%A1%8Cgrill-me%E5%92%8Cgoal%20AI%20%E7%BC%96%E7%A0%81%E7%9A%84%E5%AE%8C%E6%95%B4%E5%B7%A5%E4%BD%9C%E6%B5%81/) | 用 grill-me 想清楚要做什么，再用 goal 让 agent 自己跑完整个计划。这篇文章串联 AI 编码中最实用的两个指令，形成从对齐到交付的完整闭环。 |
-| 2026-05-19 | [遂昌｜躲避人潮的五一自驾Day3 - 杜鹃](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-03.html) |  |
-| 2026-05-19 | [92K Star 仓库里最强的 Skill，只有三句话](https://www.wangwangit.com/92K%20Star%20%E4%BB%93%E5%BA%93%E9%87%8C%E6%9C%80%E5%BC%BA%E7%9A%84%20Skill%EF%BC%8C%E5%8F%AA%E6%9C%89%E4%B8%89%E5%8F%A5%E8%AF%9D/) | Matt Pocock 的 skills 仓库里最受欢迎的 grill-me skill 只有三句话，却解决了 AI 编码最核心的问题——对齐。这篇文章拆解它为什么有效，以及它背后的设计哲学。 |
-| 2026-05-19 | [AI 流式接口的pattern](https://blog.est.im/2026/stdout-18) | AI 现在调用都走 OpenAI-like 接口，遇到长任务多半会走 stream=true 然后AI能力也多半会接力返回给下游，比如浏览器 那么问题来了。下游如果连接断开，是不是就意味着服务器得把AI的输出接住，然后下一次请求接着吐？ 如果下一次请求不路由到这个节点和进程，意味着接住要设计一套缓存… |
-| 2026-05-19 | [TIL: 移除图片下方多余的空白](https://taxodium.ink/til-remove-extra-empty-area-from-img.html) | TIL: 移除图片下方多余的空白 問題和原因 div style = "border: 2px solid;" > img src = "/images/album/20251226T172918--梦想家-the-dreamer20241018khalilfongalbumwallimage方大同… |
-| 2026-05-19 | [推荐一个网页打印项目cups-web，告别"远程开 Windows 发文件再打印”](https://11010.net/p/docker-tools-cups-web/) | 最近也没有偷懒，一直没有整理笔记，主要是没找到更惊艳的工具或话题，生产互联网垃圾伤人伤己。（ Claude Code 4.7 opus还在继续蹬 ，这篇内容是关于 NAS 打印相关的工具） 前提准备 外地 PC/手机、家庭 PVE 虚拟机已通过 WireGuard 组内网，可以正常互相访问；HP 打… |
-| 2026-05-19 | [倒装句是自由的产物吗？](https://blog.solazy.me/20260519/) | 今天聊聊作为山东人避不开的「倒装句」 |
-| 2026-05-19 | [2026.5.18](https://www.justzht.com/2026-5-18/) | 周日和朋友们去 Pacifica 吃了一家海边的 Taco Bell，景色不错，可以坐在外面的露台面朝大海吃东西。然后带着 Q3 43 拍了一些 |
-| 2026-05-19 | [品牌设计发展历史至今，最重要的十个人，和他们的故事](https://www.iyeslogo.com/10-designers/) | 品牌设计远不止Logo创作，而是建立信任的完整体验。 |
-| 2026-05-19 | [Heroes of Might and Magic II updated](https://macsourceports.com/game/homm2) | The build of fheroes2 for Heroes of Might and Magic II has been updated to version 1.1.16 of the project |
-| 2026-05-19 | [监控 IT 之家 RSS 新闻，匹配关键词后通过 ntfy.sh 推送到手机手表手环](https://hellodk.cn/post/1219) | 代码开源，部署简单 GitHub满足自用，如有新需求可以 fork 自己开发，比如推送到飞书机器人等。手环设置一下，也能收到推送，效果图如下。 |
-| 2026-05-19 | [我就是想证明一下自己 II](https://mobius.blog/23660.html) | 说完别人，也得嘲笑一下自己。 昨天提到的那些“我就是想证明一下自己”的人，并不是在聊他们“蠢”，而是在聊人性里 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
