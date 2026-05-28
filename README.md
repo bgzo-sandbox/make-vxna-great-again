@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-05-28 | [20260528的胡言乱语](https://www.bboy.app/2026/05/28/20260528%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
+| 2026-05-28 | [Random Thoughts - 20260528](https://www.bboy.app/2026/05/28/random-thoughts-20260528/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-05-28 | [在一个午夜梦回时刻的毒发](https://mobius.blog/24346.html) | 很久之前，一个朋友评价我的想法和观点是一种“慢性毒药”，当下不会产生反应，但是时间一久，在某一刻他经历了类似的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-05-28 | [LLM 不会数数——输出长度控制的工程实践](https://folay.top/blog/llm-length-control) | 36 次控制变量实验揭示：计数口径偏差、推理 token 挤压、小样本幻觉，三个坑叠在一起导致 93% 的输出超标。 |
 | 2026-05-27 | [熟悉一个城市](https://anotherdayu.com/mycity/) | 最近手机电量掉到 5% 以下时，我依旧不太慌。有时甚至会坐在路边，把最后一点电量用完，看几个短视频，然后慢慢走回家。 大概就是在这样的时刻，我意识到自己开始熟悉这个住了一年多的小镇。它不再是个游客城市，变成了一个让我有安全感的地方。 还有一些很小的事情，也会提醒我这一点。 英国的移动网络信号很不可靠… |
 | 2026-05-27 | [PIXPRO主题基础安装教程（持续更新）](https://www.evan.xin/5010/) | PIXPRO主题，还在测试阶段。暂时还没有非常完整的主题文档，我就暂时帮助大家解决点小问题。不啰嗦，我遇到的问 […] |
 | 2026-05-27 | [三天劲亏14%](https://yipai.me/post/2525.html) | 在我刚上班开始挣钱的时候，我自己购买的第一台手机应该是摩托罗拉 Defy。Defy 能玩切水果，E72 不行， […] |
@@ -115,21 +119,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-21 | [能不能好好说话？](https://mobius.blog/24125.html) | 昨天去楼下的理发店理发，是一个只有老板一个人开的社区小店。因为第一次来，所以也很担心跟他的沟通问题，但想着我就 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-21 | [英伟达凭借强劲的芯片销售业绩，再创季度新高](https://blog.rustfisher.com/news/nvidia-nvda-1st-quarter-earnings-report-2026-stock-20260521/) | 人工智能代理数量的爆炸式增长和数据中心计算需求的激增，推动芯片制造商第一季度营收达到 820 亿美元 |
 | 2026-05-21 | [隐私政策](https://11010.net/privacy/) | 本页说明「逍遥客」博客（https://11010.net，以下简称"本站"）如何收集、使用与保护访问者的信息。继续访问本站即表示您已阅读并同意本政策。 一、信息收集 本站本身不主动收集您的任何个人身份信息（姓名、邮箱、电话等）。但通过下列第三方服务，可能会收集到匿名的访问行为数据： Google… |
-| 2026-05-20 | [Heroes Chronicles updated](https://macsourceports.com/game/hchronicles) | The build of VCMI for Heroes Chronicles has been updated to version 1.7.4 of the project |
-| 2026-05-20 | [Heroes of Might and Magic III updated](https://macsourceports.com/game/homm3) | The build of VCMI for Heroes of Might and Magic III has been updated to version 1.7.4 of the project |
-| 2026-05-20 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.84.0 of the project |
-| 2026-05-20 | [翻译-Bitwarden的静默革新](https://blog.prayhand13013.top/20260521T014604--翻译-bitwarden的静默革新__blog.html) |  |
-| 2026-05-20 | [Bought a Quote/0](https://www.bboy.app/2026/05/20/bought-a-quote/0/) | Introduction I recently got a Quote/0. It now lives on my desk collecting dust. |
-| 2026-05-20 | [买了Quote/0](https://www.bboy.app/2026/05/20/%E4%B9%B0%E4%BA%86quote/0/) | 简介 最近折腾了一台 Quote/0。现在常驻桌面吃灰。 |
-| 2026-05-20 | [奥美品牌定位有感](https://elmagnifico.tech/2026/05/21/Ogilvy-Brand/) | Foreword 之前参与了一下奥美的品牌定位会议，感觉还挺有意思的，至少在做事的方法论上还是可以的，记录一下 Ogilvy https://www.ogilvy.com/cn/ 奥美（Ogilvy）是全球知名的营销传播集团，1948 年由“广告教父”大卫·奥格威（David Ogilvy）在纽约创… |
-| 2026-05-20 | [20260520的胡言乱语](https://www.bboy.app/2026/05/20/20260520%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
-| 2026-05-20 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.2 of the project |
-| 2026-05-20 | [遂昌｜躲避人潮的五一自驾Day4 - 焦滩](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-04.html) |  |
-| 2026-05-20 | [犯错的时候不该说什么](https://blog.solazy.me/20260520/) | 上周日的一起小的刮擦事故，引发了一个我对于发错这不该说什么的想法 |
-| 2026-05-20 | [OPC创业范式的真相，及AI时代域名需求的隐性爆发](https://www.evan.xin/4992/) | 从"十五五"规划纲要的密集落笔，到二十余座城市的专项政策扎堆出台，OPC（One Person Company […] |
-| 2026-05-20 | [少即是多](https://mobius.blog/23860.html) | 要不是因为这次准备小说大纲，我才意识到我已经过了“差生文具多”的状态了。 当然必须先叠甲，差生文具多并不是一个 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-20 | [使用树莓派 4 和 Moonlight 串流游戏的实践](https://blog.vvzero.com/2026/05/20/The-best-practice-for-game-streaming-via-moonlight-raspberry-pi/) | 家庭内网，串流打游戏是真需求，电脑放书房，在客厅电视玩，真的爽。 设备清单</h |
-| 2026-05-20 | [当炒饭与海风相遇《Summer Pockets REFLECTION BLUE》 圣地巡礼之男木岛](https://www.wikimoe.com/post/b-tf6k6qhp) | 2026年5月5日，在结束了女木岛的行程之后，来到了男木岛。 关于男木岛 男木岛是位于日本香川县高松市北方濑户内海中的一座小岛，与女木岛相邻，属于备赞濑户航道附近的岛屿。岛上地形多坡，村落沿山坡层层展开，白墙民居、石阶小路和港口景观构成了独特的海岛风貌。男木岛以宁静的渔村氛围、男木岛灯塔、猫与岛民共… |
 
 ## Vibe Coding
 
