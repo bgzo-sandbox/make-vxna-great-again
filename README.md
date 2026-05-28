@@ -27,11 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-05-28 | [学习周刊-总第265期-2026年第22周](https://wiki.eryajf.net/pages/ff83a5/) | 如要阅读全文，点击标题跳转。 学习周刊-总第265期 &#124; Better-Fullstack &#124; supacode &#124; lantor &#124; optimizerDuck &#124; openusage &#124; agentsview &#124; capcap |
+| 2026-05-28 | [在纷杂的世界里保持专注](https://blog.lhasa.icu/posts/life/2026-05-28-zhuanzhu) | 此时，凌晨五点，天色蒙蒙亮，我刚写完 Typora Lite 主题配色，突发恶疾，想写点什么 在今天这样一个时代，专注越来越难了 受到干扰的机会儿越来越多，比如屋外的噪音，独处时突然响起的电话，都在随时随地影响着你 但难道说，你不专注全都是外界的锅吗？ 那么问题就来了， 专注的本质到底是什么？ 早年… |
 | 2026-05-28 | [About My Car](https://www.bboy.app/2026/05/28/about-my-car/) | Introduction I bought a Honda Civic sedan for 130,000 yuan. Some people might ask why I didn’t buy an Accord—because both cars drive pretty much the s… |
 | 2026-05-28 | [关于我的车](https://www.bboy.app/2026/05/28/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E8%BD%A6/) | 简介 之前花了13万买了辆本田型格。可能有人问为啥不买雅阁，因为两辆车开起来差不了多少，除了座椅舒服点就没啥区别了。剩下的5万块差价可以用来加油，不过话说回来，还是有点遗憾没有咬牙买雅阁。 |
+| 2026-05-28 | [Lesson 13 Tides](https://physnya.top/star-planet/lesson-13-tides/) | 沿用之前的符号命名，但是我们这节课要开始做近似. 考虑 r 2 / d ≪ 1 r_2/d\ll 1 r 2 ​ / d ≪ 1 ，同时利用下面的单位制： |
+| 2026-05-28 | [不修改nginx接收websocket](https://blog.est.im/2026/stdout-20) | 以前只记得要支持websocket 需要 nginx 改： location /ws-service-a { proxypass http://backenda; proxyhttpversion 1.1; proxysetheader Upgrade $httpupgrade; proxyseth… |
 | 2026-05-28 | [20260528的胡言乱语](https://www.bboy.app/2026/05/28/20260528%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-05-28 | [Random Thoughts - 20260528](https://www.bboy.app/2026/05/28/random-thoughts-20260528/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
-| 2026-05-28 | [在纷杂的世界里保持专注](https://blog.lhasa.icu/posts/life/2026-05-28-zhuanzhu) | 此时，凌晨五点，天色蒙蒙亮，我刚写完 Typora Lite 主题配色，突发恶疾，想写点什么 在今天这样一个时代，专注越来越难了 受到干扰的机会儿越来越多，比如屋外的噪音，独处时突然响起的电话，都在随时随地影响着你 但难道说，你不专注全都是外界的锅吗？ 那么问题就来了， 专注的本质到底是什么？ 早年… |
 | 2026-05-28 | [PIXPRO主题魔改教程（持续更新）](https://www.evan.xin/5016/) | 注意⚠️1. 本教程内容，仅限于阶段性使用，版本更新后可以直接设置；2. 程序搭建环境存在差异，使用前需慎重评 […] |
 | 2026-05-28 | [人肉装饰器](https://www.geedea.pro/article/meat-decorator/) | 今年三月底，有一篇题为《 Meat-based LLM proxies 》的文章在 Hacker News 上小火了一阵，作者是这样描述某一类人的： They’ll talk to you as if they’re human, except all of their words are writ… |
 | 2026-05-28 | [齐家：一款免费亲子关系AI助手](https://www.hecaitou.com/2026/05/A-free-ai-assistant-for-parent-child-relationships.html) | 我在杭州的朋友赵翼是位连续创业者，前几年进入了创业间歇期，每天在朋友圈发自己学习吉他弹唱，一天一曲老歌，看起来完全进入了退休老工人赵师傅的状态。 去年某一天，他突然开始全速运转起来，不是在朋友圈召唤江湖人等，就是发布团队封闭开发的现场图片。前几天他找到我，说是他的新项目上线，正式开始内测。 之前有感… |
@@ -40,10 +43,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-28 | [在一个午夜梦回时刻的毒发](https://mobius.blog/24346.html) | 很久之前，一个朋友评价我的想法和观点是一种“慢性毒药”，当下不会产生反应，但是时间一久，在某一刻他经历了类似的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-28 | [等一个黄金坑：中海物业跌到什么价位，到手股息率能有6%？](https://programnotes.cn/stock-dividend-%E4%B8%AD%E6%B5%B7%E7%89%A9%E4%B8%9A/index.html) | 分析中海物业在何种股价下能实现6%的到手股息率，并探讨其投资价值与风险。 |
 | 2026-05-28 | [LLM 不会数数——输出长度控制的工程实践](https://folay.top/blog/llm-length-control) | 36 次控制变量实验揭示：计数口径偏差、推理 token 挤压、小样本幻觉，三个坑叠在一起导致 93% 的输出超标。 |
-| 2026-05-27 | [熟悉一个城市](https://anotherdayu.com/mycity/) | 前几天手机电量掉到 5% 以下，我依旧不太慌，甚至坐在路边，把最后一点电量用完，看了几个短视频，然后慢慢走回家。 大概就是在这样的时刻，我意识到自己开始熟悉这个住了一年多的小镇。它不再是个游客城市，变成了一个让我有安全感的地方。 还有一些很小的事情，也会提醒我这一点。 英国的移动网络信号很不可靠，特… |
+| 2026-05-27 | [熟悉一个城市](https://anotherdayu.com/mycity/) | 前几天手机电量掉到 5% 以下，我依旧不太慌，甚至坐在路边，把最后一点电量用完，看了几个短视频，再慢慢走回家。 大概就是在这样的时刻，我意识到自己开始熟悉这个住了一年多的小镇。它不再是个游客城市，变成了一个让我有安全感的地方。 还有一些很小的事情，也会提醒我这一点。 英国的移动网络信号很不可靠，特别… |
 | 2026-05-27 | [PIXPRO主题基础安装教程（持续更新）](https://www.evan.xin/5010/) | PIXPRO主题，还在测试阶段。暂时还没有非常完整的主题文档，我就暂时帮助大家解决点小问题。不啰嗦，我遇到的问 […] |
 | 2026-05-27 | [三天劲亏14%](https://yipai.me/post/2525.html) | 在我刚上班开始挣钱的时候，我自己购买的第一台手机应该是摩托罗拉 Defy。Defy 能玩切水果，E72 不行， […] |
 | 2026-05-27 | [普通人想抓住 AI 机会，最先要改变哪些限制？](https://diff.im/blog/2026/05/%E6%99%AE%E9%80%9A%E4%BA%BA%E6%83%B3%E6%8A%93%E4%BD%8F-ai-%E6%9C%BA%E4%BC%9A%E6%9C%80%E5%85%88%E8%A6%81%E6%94%B9%E5%8F%98%E5%93%AA%E4%BA%9B%E9%99%90%E5%88%B6/) | 有很多人说，AI 是这个时代普通人能够翻身的一次最好的机会。我非常同意，举双手赞成。 我从 2005 年开始在互联网行业工作。那是互联网刚从 Web 1.0 过渡到 Web 2.0 的阶段（还有几个人知道 Web 2.0 这个概念？）。2009 年，我又转型到移动互联网领域。 作为一个出身底层农村的… |
+| 2026-05-27 | [每个季度都吃一次金沙厅](https://blog.solazy.me/20260527/) | 今天去吃金沙厅了！ |
 | 2026-05-27 | [最近大半年的工作](https://smallyu.net/2026/05/27/%E6%9C%80%E8%BF%91%E5%A4%A7%E5%8D%8A%E5%B9%B4%E7%9A%84%E5%B7%A5%E4%BD%9C/) | 前几年关于工作内容方面的回顾： 2025 年：《<a |
 | 2026-05-27 | [我将关闭服务器：AI彻底掐死了奄奄一息的个人博客](https://blog.renfei.net/posts/1626402130325676140) | 在AI普及的当下，我计划关闭服务器，把个人博客转为静态页面。个人博客不是突然死去，而是被时代一点点推到边缘。 |
 | 2026-05-27 | [怎么就以小见大了](https://www.hecaitou.com/2026/05/how-on-earth-does-the-small-reflect-the-great.html) | 没有坏作文，只有坏品位，我是这么认为的。 比如说有些人看不上写生活琐碎小事的文章，觉得不够深刻，觉得没有洞见，觉得没有所谓「干货」，这通常就是中了宏大叙事的毒，对于抽象理论的兴趣远远大于真实生活。又有一些人拿着放大镜看这样的文章，试图从中找出一点生活哲理，人生感悟出来，这通常则是中了「微言大义」的毒… |
