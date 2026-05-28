@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-05-28 | [学习周刊-总第265期-2026年第22周](https://wiki.eryajf.net/pages/ff83a5/) | 如要阅读全文，点击标题跳转。 学习周刊-总第265期 &#124; Better-Fullstack &#124; supacode &#124; lantor &#124; optimizerDuck &#124; openusage &#124; agentsview &#124; capcap |
+| 2026-05-28 | [朋友圈和公众号，要不要把父母屏蔽？](https://diff.im/blog/2026/05/%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%92%8C%E5%85%AC%E4%BC%97%E5%8F%B7%E8%A6%81%E4%B8%8D%E8%A6%81%E6%8A%8A%E7%88%B6%E6%AF%8D%E5%B1%8F%E8%94%BD/) | 01 我成长于长沙农村，高中开始在学校寄宿。虽然每周也会回家，但从高中到大学，回家的次数越来越少。 大学毕业以后，我离开家到外地工作，每年可能只回家一两次。成家以后，回家差不多就变成了一年一次。 从小我属于那种温和型的叛逆者。我不会和父母有正面冲突，也不会正面抵抗，但我的性格比较倔。很多时候，只要是… |
 | 2026-05-28 | [在纷杂的世界里保持专注](https://blog.lhasa.icu/posts/life/2026-05-28-zhuanzhu) | 此时，凌晨五点，天色蒙蒙亮，我刚写完 Typora Lite 主题配色，突发恶疾，想写点什么 在今天这样一个时代，专注越来越难了 受到干扰的机会儿越来越多，比如屋外的噪音，独处时突然响起的电话，都在随时随地影响着你 但难道说，你不专注全都是外界的锅吗？ 那么问题就来了， 专注的本质到底是什么？ 早年… |
 | 2026-05-28 | [About My Car](https://www.bboy.app/2026/05/28/about-my-car/) | Introduction I bought a Honda Civic sedan for 130,000 yuan. Some people might ask why I didn’t buy an Accord—because both cars drive pretty much the s… |
 | 2026-05-28 | [关于我的车](https://www.bboy.app/2026/05/28/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E8%BD%A6/) | 简介 之前花了13万买了辆本田型格。可能有人问为啥不买雅阁，因为两辆车开起来差不了多少，除了座椅舒服点就没啥区别了。剩下的5万块差价可以用来加油，不过话说回来，还是有点遗憾没有咬牙买雅阁。 |
