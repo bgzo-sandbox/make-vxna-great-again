@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-05-29 | [中奖到底藏在瓶盖里，还是藏在扫码那一下](https://www.tortorse.com/archives/bottle-cap-qr-lottery/) | 最近喝可乐时，我又看到瓶盖里面那个扫码抽奖的二维码。 |
 | 2026-05-29 | [Lesson 26 暴涨](https://physnya.top/GR/lesson-25-inflation/) | 上节课最后说到一个问题，就是 CMB 的结果表明宇宙间各处存在相关性. 研究 co-moving time， d s 2 = a 2 ( − d τ 2 + d x ⃗ 2 ) \mathrm{d}s^2=a^2(-\mathrm{d}\tau^2+\mathrm{d}\vec{x}^2) d s… |
 | 2026-05-29 | [回到现在](https://mobius.blog/24499.html) | 先说一个有趣的点，日语里的ただいま（tadaima）字面上的意思是“现在、当下”，而口语化里是“我回来了”，恰 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-29 | [最近惦念 20260507](https://z.arlmy.me/posts/TILs/thoughts/20260507_Recently/) | 「行动就是唯一的回报。」 |
@@ -59,6 +60,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-27 | [熟悉一个城市](https://anotherdayu.com/mycity/) | 前几天手机电量掉到 5% 以下，我依旧不太慌，甚至坐在路边，把最后一点电量用完，看了几个短视频，再慢慢走回家。 大概就是在这样的时刻，我意识到自己开始熟悉这个住了一年多的小镇。它不再是个游客城市，变成了一个让我有安全感的地方。 还有一些很小的事情，也会提醒我这一点。 英国的移动网络信号很不可靠，特别… |
 | 2026-05-27 | [PIXPRO主题基础安装教程（持续更新）](https://www.evan.xin/5010/) | PIXPRO主题，还在测试阶段。暂时还没有非常完整的主题文档，我就暂时帮助大家解决点小问题。不啰嗦，我遇到的问 […] |
 | 2026-05-27 | [三天劲亏14%](https://yipai.me/post/2525.html) | 在我刚上班开始挣钱的时候，我自己购买的第一台手机应该是摩托罗拉 Defy。Defy 能玩切水果，E72 不行， […] |
+| 2026-05-27 | [AI 硬伤](https://blog.est.im/2026/stdout-19) | 回顾一下我发现的AI弱点，说不定将来对抗 skynet 有用 2023年 我当时觉得： 不太会算术。没想到刚看到个更搞笑的 人工加法智能 。大概意思是，如果pretrain一个加法表，AI会「懂」任意整数的加法么？ gpt4 不懂中文和字符形状——已经被多模态模型解决 对人类真正发音器官无感知——我… |
 | 2026-05-27 | [普通人想抓住 AI 机会，最先要改变哪些限制？](https://diff.im/blog/2026/05/%E6%99%AE%E9%80%9A%E4%BA%BA%E6%83%B3%E6%8A%93%E4%BD%8F-ai-%E6%9C%BA%E4%BC%9A%E6%9C%80%E5%85%88%E8%A6%81%E6%94%B9%E5%8F%98%E5%93%AA%E4%BA%9B%E9%99%90%E5%88%B6/) | 有很多人说，AI 是这个时代普通人能够翻身的一次最好的机会。我非常同意，举双手赞成。 我从 2005 年开始在互联网行业工作。那是互联网刚从 Web 1.0 过渡到 Web 2.0 的阶段（还有几个人知道 Web 2.0 这个概念？）。2009 年，我又转型到移动互联网领域。 作为一个出身底层农村的… |
 | 2026-05-27 | [每个季度都吃一次金沙厅](https://blog.solazy.me/20260527/) | 今天去吃金沙厅了！ |
 | 2026-05-27 | [最近大半年的工作](https://smallyu.net/2026/05/27/%E6%9C%80%E8%BF%91%E5%A4%A7%E5%8D%8A%E5%B9%B4%E7%9A%84%E5%B7%A5%E4%BD%9C/) | 前几年关于工作内容方面的回顾： 2025 年：《<a |
