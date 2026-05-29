@@ -27,8 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-05-29 | [人为什么总在切换赛道？](https://mobius.blog/24365.html) | 这是去年留下的“后话”，一直没有聊完，也是因为自己也在切换赛道。 所谓的「命」，本身也没有好坏之分，只是人们迫 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-05-29 | [科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 去年开放的浙江省安吉县的安吉文化艺术中心。当地盛产竹子，屋顶都采用竹叶造型。（ daemin_kg@ig… |
+| 2026-05-29 | [Memos #2026-05-28](https://www.taober.blog/memos) | 00:42 过去很多只能想想的事情，现在我已经做了，现在那些只能想想的事情？ 19:58 感受到龙族的魅力了，后知后觉的少年心气！ |
+| 2026-05-28 | [没有人毫发无损地长大](https://www.linggandianbo.com/newsletter-125/) | 从童年的权力痕迹、安全主义、演化的身体、买房真实成本，到照顾一株植物｜灵感电波 #125 |
 | 2026-05-28 | [学习周刊-总第265期-2026年第22周](https://wiki.eryajf.net/pages/ff83a5/) | 如要阅读全文，点击标题跳转。 学习周刊-总第265期 &#124; Better-Fullstack &#124; supacode &#124; lantor &#124; optimizerDuck &#124; openusage &#124; agentsview &#124; capcap |
 | 2026-05-28 | [朋友圈和公众号，要不要把父母屏蔽？](https://diff.im/blog/2026/05/%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%92%8C%E5%85%AC%E4%BC%97%E5%8F%B7%E8%A6%81%E4%B8%8D%E8%A6%81%E6%8A%8A%E7%88%B6%E6%AF%8D%E5%B1%8F%E8%94%BD/) | 01 我成长于长沙农村，高中开始在学校寄宿。虽然每周也会回家，但从高中到大学，回家的次数越来越少。 大学毕业以后，我离开家到外地工作，每年可能只回家一两次。成家以后，回家差不多就变成了一年一次。 从小我属于那种温和型的叛逆者。我不会和父母有正面冲突，也不会正面抵抗，但我的性格比较倔。很多时候，只要是… |
+| 2026-05-28 | [公司该为员工使用 AI 工具付费吗？](https://blog.solazy.me/20260528/) | 从一次 token 额度的抱怨，聊聊 AI 时代个人效率与公司付费的边界。 |
 | 2026-05-28 | [在纷杂的世界里保持专注](https://blog.lhasa.icu/posts/life/2026-05-28-zhuanzhu) | 此时，凌晨五点，天色蒙蒙亮，我刚写完 Typora Lite 主题配色，突发恶疾，想写点什么 在今天这样一个时代，专注越来越难了 受到干扰的机会儿越来越多，比如屋外的噪音，独处时突然响起的电话，都在随时随地影响着你 但难道说，你不专注全都是外界的锅吗？ 那么问题就来了， 专注的本质到底是什么？ 早年… |
 | 2026-05-28 | [About My Car](https://www.bboy.app/2026/05/28/about-my-car/) | Introduction I bought a Honda Civic sedan for 130,000 yuan. Some people might ask why I didn’t buy an Accord—because both cars drive pretty much the s… |
 | 2026-05-28 | [关于我的车](https://www.bboy.app/2026/05/28/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E8%BD%A6/) | 简介 之前花了13万买了辆本田型格。可能有人问为啥不买雅阁，因为两辆车开起来差不了多少，除了座椅舒服点就没啥区别了。剩下的5万块差价可以用来加油，不过话说回来，还是有点遗憾没有咬牙买雅阁。 |
@@ -54,7 +59,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-27 | [怎么就以小见大了](https://www.hecaitou.com/2026/05/how-on-earth-does-the-small-reflect-the-great.html) | 没有坏作文，只有坏品位，我是这么认为的。 比如说有些人看不上写生活琐碎小事的文章，觉得不够深刻，觉得没有洞见，觉得没有所谓「干货」，这通常就是中了宏大叙事的毒，对于抽象理论的兴趣远远大于真实生活。又有一些人拿着放大镜看这样的文章，试图从中找出一点生活哲理，人生感悟出来，这通常则是中了「微言大义」的毒… |
 | 2026-05-27 | [真正的人生奥数应用题 II](https://mobius.blog/24297.html) | 要不是那天在电梯里听到了一对父母跟孩子的对话，我都不会再把之前的文章翻出来，写下 II 的内容。 妈妈念叨，女 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-27 | [chrome-devtools-mcp 使用](https://blog.196000.xyz/2026/2026-05-27-develop-chrome-devtools-mcp.html) | chrome-devtools-mcp 使用 Chrome DevTools MCP 是一个本地服务，它为 AI 编码助手（比如 Claude、Codex、Cursor 等）提供了一套控制 Chrome 浏览器的工具集。 Chrome M144 中添加了一项新功能，可让 Chrome 开发者工具 M… |
-| 2026-05-27 | [Memos #2026-05-26](https://www.taober.blog/memos) | 20:09 用 AI 写方案真爽，就好像是...当成是我自己写的 😄 |
 | 2026-05-26 | [OPC实践 & 不懂开发的独立开发者 - Week8](https://diff.im/blog/2026/05/opc%E5%AE%9E%E8%B7%B5-%E4%B8%8D%E6%87%82%E5%BC%80%E5%8F%91%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85-week8/) | MRR 目标：$1000.00 本周收入：$0 本周完成的几件事情 继续做 Cap4u（第三个 App）的 IAP 开发和 App Store 截图设计。现在差不多可以 TestFlight 内测了。如果您在美国或加拿大生活，想参与 App 的体验与测试，请给我发 email：hi {at} dif… |
 | 2026-05-26 | [社会化训练是必要的吗](https://blog.solazy.me/20260526/) | 在一周之内，有两个截然不同的人，在截然不同的场景下，向我提到了同一个词：社会化。 |
 | 2026-05-26 | [Lesson 13 亲代抚育 (parental care)](https://physnya.top/animal-behavior/lesson-13-parental-care/) | 当然大家主要是一种接受的角色. General Pattern 有几类：没有亲代抚育、由雌性单独提供亲代抚育、由雄性单独提供亲代抚育、双亲共同提供亲代抚育. 第一类主要是无脊椎动物，我们这节课不仔细讨论. 先从鸟类这种主要由双亲共同提供亲代抚育的类型来说. 一般而言，雏鸟能否成活取决于食物的总量，而… |
@@ -120,19 +124,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-22 | [WD-40品牌发展史](https://www.iyeslogo.com/wd-40-branding/) | WD-40现销往176个国家，年营收超5亿美元，成为横跨工业与家庭领域的多用途产品传奇。 |
 | 2026-05-22 | [成全杀意](https://mobius.blog/24191.html) | 这两天在整理“归档”，打算分门别类地把以前写过的文章按专题进行整理，结果没想到还是搞出了一大堆内容。到最后就完 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-22 | [博客的几个小更新](https://bluepika.life/blog/recent-blog-updates-202604) | 最近给博客加了几个小更新，我都挺喜欢的。 |
-| 2026-05-21 | [如果不用工作，你会怎么活？](https://www.linggandianbo.com/newsletter-124/) | 从不用工作的想象、表演式友情、AI 翻译、意识难题到中国与海洋｜灵感电波 #124 |
-| 2026-05-21 | [导出 Elfeed 选中条目到 GitHub Page 作为 Reading List](https://taxodium.ink/export-elfeed-selected-entries-to-github-page-as-reading-list.html) | 导出 Elfeed 选中条目到 GitHub Page 作为 Reading List 我之前一直用 elfeed 阅读订阅流，我挺满意 elfeed 的功能的，唯一的不足是手机上用不了 (懒得折腾将 Emacs 运行在 iPhone 上)。后来我安装 NetNewsWire 用了一段时间，还不错，… |
-| 2026-05-21 | [开卷考试是第一生产力](https://blog.solazy.me/20260521/) | 在绝大多数人的记忆里，闭卷才是考试的常态。闭卷意味着严防死守、信息不对称以及对未知的恐惧。我们习惯了在迷雾中摸索，以为只有在不知道考题的前提下拿到的高分，才算得上是真正的聪明。但在实际的生产与工作场景中，闭卷往往是一切低效与内耗的根源。如果将解决问题、推进项目视作一场场考试，那么「开卷」才是那个真正… |
-| 2026-05-21 | [遂昌｜躲避人潮的五一自驾Day5 - 独山](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-05.html) |  |
-| 2026-05-21 | [不想啃骨头的流浪狗](https://www.geedea.pro/article/stray-once-again/) | 我无缘无故地盯着镜子里的人看了好久，看着斜挎包的肩带在衬衫上留下的一道汗渍，感到汗水和难以命名的烦躁情绪打湿了我最喜欢的一件衣服。我审视面前的这张脸，审视凌乱的头发和难以辨认的面部轮廓，我看不懂他在想什么。我和自己好像陌生人，而我们又如此熟悉。在熟悉的关系里突然察觉到陌生感，真是可怕。 前几日有读者… |
-| 2026-05-21 | [对不牵绳的狗最好的处理方式](https://mobius.blog/24211.html) | 下午在咖啡厅码字，跟朋友闲白了几句。 朋友也养狗了，问我在小区遛狗遇到那些不牵绳的狗怎么办。我以前倒是在博客教 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-21 | [路径依赖](https://blog.est.im/2026/stderr-19) | 最近vibe了个分布式系统，没有 master 和 arbiter，全是平等的peer 然后这些peer去处理流量问题。 处理多个事情，当流量爆发，承载能力不足的时候，需要快速补足peer 扩容是个最简单，很强烈，明确的信号，而且效果立竿见影。 当事情没那么多，流量下降之后呢？该节约哪个peer？你… |
-| 2026-05-21 | [给 caesium-image-compressor 图片压缩程序构建了 Linux AppImage v2.8.5 最新版](https://hellodk.cn/post/1220) | 欢迎使用 linux 桌面的朋友们使用，构建脚本都开源了，开源在 https://github.com/hellodk34/caesium-image-compressor原来有一个维护者 ht... |
-| 2026-05-21 | [IT桔子13周年：用 AI 和热爱，穿越周期](https://wenfeixiang.com/2026/05/happy-13-years-to-itjuzi/) | 今天是2026年5月21日，IT桔子 13 岁了，祝福我们生日快乐！ 13 这个数字，在西方文化里带着不寻常的 […] |
-| 2026-05-21 | [AI编程心得2：写好 AGENTS.md，AI 更会干活，也更省 token](https://blog.knowckx.top/p/write-agents-md-save-token/) | 研究 AGENTS.md 如何减少 token 并提升 AI 解决问题的能力 |
-| 2026-05-21 | [能不能好好说话？](https://mobius.blog/24125.html) | 昨天去楼下的理发店理发，是一个只有老板一个人开的社区小店。因为第一次来，所以也很担心跟他的沟通问题，但想着我就 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-21 | [英伟达凭借强劲的芯片销售业绩，再创季度新高](https://blog.rustfisher.com/news/nvidia-nvda-1st-quarter-earnings-report-2026-stock-20260521/) | 人工智能代理数量的爆炸式增长和数据中心计算需求的激增，推动芯片制造商第一季度营收达到 820 亿美元 |
-| 2026-05-21 | [隐私政策](https://11010.net/privacy/) | 本页说明「逍遥客」博客（https://11010.net，以下简称"本站"）如何收集、使用与保护访问者的信息。继续访问本站即表示您已阅读并同意本政策。 一、信息收集 本站本身不主动收集您的任何个人身份信息（姓名、邮箱、电话等）。但通过下列第三方服务，可能会收集到匿名的访问行为数据： Google… |
 
 ## Vibe Coding
 
