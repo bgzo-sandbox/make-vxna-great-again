@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-05-29 | [Lesson 26 暴涨](https://physnya.top/GR/lesson-25-inflation/) | 上节课最后说到一个问题，就是 CMB 的结果表明宇宙间各处存在相关性. 研究 co-moving time， d s 2 = a 2 ( − d τ 2 + d x ⃗ 2 ) \mathrm{d}s^2=a^2(-\mathrm{d}\tau^2+\mathrm{d}\vec{x}^2) d s… |
 | 2026-05-29 | [回到现在](https://mobius.blog/24499.html) | 先说一个有趣的点，日语里的ただいま（tadaima）字面上的意思是“现在、当下”，而口语化里是“我回来了”，恰 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-29 | [最近惦念 20260507](https://z.arlmy.me/posts/TILs/thoughts/20260507_Recently/) | 「行动就是唯一的回报。」 |
 | 2026-05-29 | [找到最在乎成败的那个人](https://www.hecaitou.com/2026/05/find-the-one-who-cares-most-about-the-outcome.html) | 记得七八年前，我向读者推荐某个 App，他们直接就去下载了。现在情况完全不同，一堆人立即在留言区里哀嚎：怎么应用商店里找不到？ 我当然可以大肆批判一番，说些「现在的人只知道手机，只知道 App，对官网毫无任何概念」。真要那么做了，我想，会很耽误我成为德高望重、德艺双馨的和老。好在做法总是在表层，得罪… |
