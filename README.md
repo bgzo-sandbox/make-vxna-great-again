@@ -68,8 +68,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-28 | [Blake Stone: Aliens of Gold updated](https://macsourceports.com/game/bstone1) | The build of bstone for Blake Stone: Aliens of Gold has been updated to version v1.3.4 of the project |
 | 2026-05-28 | [Blake Stone: Planet Strike updated](https://macsourceports.com/game/bstone2) | The build of bstone for Blake Stone: Planet Strike has been updated to version v1.3.4 of the project |
 | 2026-05-28 | [在一个午夜梦回时刻的毒发](https://mobius.blog/24346.html) | 很久之前，一个朋友评价我的想法和观点是一种“慢性毒药”，当下不会产生反应，但是时间一久，在某一刻他经历了类似的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-28 | [等一个黄金坑：中海物业跌到什么价位，到手股息率能有6%？](https://programnotes.cn/stock-dividend-%E4%B8%AD%E6%B5%B7%E7%89%A9%E4%B8%9A/index.html) | 分析中海物业在何种股价下能实现6%的到手股息率，并探讨其投资价值与风险。 |
 | 2026-05-28 | [LLM 不会数数——输出长度控制的工程实践](https://folay.top/blog/llm-length-control) | 36 次控制变量实验揭示：计数口径偏差、推理 token 挤压、小样本幻觉，三个坑叠在一起导致 93% 的输出超标。 |
+| 2026-05-28 | [等一个黄金坑：中海物业跌到什么价位，到手股息率能有6%？](https://programnotes.cn/stock-dividend-%E4%B8%AD%E6%B5%B7%E7%89%A9%E4%B8%9A/index.html) | 分析中海物业在何种股价下能实现6%的到手股息率，并探讨其投资价值与风险。 |
 | 2026-05-27 | [熟悉一个城市](https://anotherdayu.com/mycity/) | 前几天手机电量掉到 5% 以下，我依旧不太慌，甚至坐在路边，把最后一点电量用完，看了几个短视频，再慢慢走回家。 大概就是在这样的时刻，我意识到自己开始熟悉这个住了一年多的小镇。它不再是个游客城市，变成了一个让我有安全感的地方。 还有一些很小的事情，也会提醒我这一点。 英国的移动网络信号很不可靠，特别… |
 | 2026-05-27 | [PIXPRO主题基础安装教程（持续更新）](https://www.evan.xin/5010/) | PIXPRO主题，还在测试阶段。暂时还没有非常完整的主题文档，我就暂时帮助大家解决点小问题。不啰嗦，我遇到的问 […] |
 | 2026-05-27 | [三天劲亏14%](https://yipai.me/post/2525.html) | 在我刚上班开始挣钱的时候，我自己购买的第一台手机应该是摩托罗拉 Defy。Defy 能玩切水果，E72 不行， […] |
