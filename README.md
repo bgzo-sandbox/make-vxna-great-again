@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-05-30 | [丽水遂昌｜三个人，自驾五天，花费1800元，总结推荐](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-summary.html) |  |
+| 2026-05-30 | [当人们不再问好](https://www.geedea.pro/article/phone-hello/) | 去年买了本法语童书作为阅读材料（后来发现即便是儿童读物，对我来说也有些难度，便闲置了），主角的爸爸在打电话时说了 allô 这个词。当时我以为是什么时髦的打招呼俚语，跟英语里的 sup （What’s sup?）一样，但查阅后才得知这是专门的电话用语，面对面打招呼时不说 allô 。 正巧，最近在重… |
 | 2026-05-30 | [0419 御温泉之旅](https://ssshooter.com/zhuhai-imperial-hotspring/) | 分享珠海御温泉度假村的真实体验，长盛庄复式日式房型测评、24小时温泉无限泡、超大庙会自助餐攻略，适合周末短途度假参考。 |
 | 2026-05-30 | [不要轻易得罪天蝎座](https://www.hecaitou.com/2026/05/think-twice-before-crossing-a-scorpio.html) | 天蝎座记仇，这是举世皆知的公理。天蝎座傲娇，这是不言自明的真理。关于这两件事，我记得有个非常棒的段子： 分手十年，再无任何联系，女孩却在新婚前夜突然收到前天蝎男友发来的短信：「你现在知道自己错了吗？」 今天早上我本来正在写文章，但不知道系统抽什么风，提醒我一篇 10 年前的文章多了一条读者留言。打开… |
 | 2026-05-30 | [菜场到底是靠谁活下来的](https://www.tortorse.com/archives/wet-market-weekend-observation/) | 周末孩子去上补习班，我正好在附近等他，就顺路去菜场买了一趟菜。 |
