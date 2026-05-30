@@ -287,17 +287,17 @@
     "source_root_domain": "onojyun.com"
   },
   {
-    "title": "LLM 不会数数——输出长度控制的工程实践",
-    "url": "https://folay.top/blog/llm-length-control",
-    "date": "2026-05-28T00:00:00Z",
-    "description": "36 次控制变量实验揭示：计数口径偏差、推理 token 挤压、小样本幻觉，三个坑叠在一起导致 93% 的输出超标。",
-    "source_root_domain": "folay.top"
-  },
-  {
     "title": "等一个黄金坑：中海物业跌到什么价位，到手股息率能有6%？",
     "url": "https://programnotes.cn/stock-dividend-%E4%B8%AD%E6%B5%B7%E7%89%A9%E4%B8%9A/index.html",
     "date": "2026-05-28T00:00:00Z",
     "description": "分析中海物业在何种股价下能实现6%的到手股息率，并探讨其投资价值与风险。",
     "source_root_domain": "programnotes.cn"
+  },
+  {
+    "title": "LLM 不会数数——输出长度控制的工程实践",
+    "url": "https://folay.top/blog/llm-length-control",
+    "date": "2026-05-28T00:00:00Z",
+    "description": "36 次控制变量实验揭示：计数口径偏差、推理 token 挤压、小样本幻觉，三个坑叠在一起导致 93% 的输出超标。",
+    "source_root_domain": "folay.top"
   }
 ]
