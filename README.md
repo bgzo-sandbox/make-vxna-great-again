@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-05-30 | [永烁星光之地](https://brain-zhang.github.io/blog/2026/05/30/yong-shuo-xing-guang-zhi-di/) | 两年前，ChatGPT3.5的时代，我尝试用它创作小说，那个时候还很稚嫩；但我知道，他会飞速的进化，直到有一天，他会媲美中上水平的人类作家； 今天，它的能力已经接近人类了；我很轻松的用AI创作了多部百万字以上的大部头；唯一让我烦恼的是：没有平台接受这种一天成百上千部的创作机器人，我也没有那么多的矩阵… |
+| 2026-05-30 | [生命可以轮回，高考只有一次——当然还可以复读](https://mobius.blog/24525.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候，就可以分类整理成册。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-30 | [丽水遂昌｜三个人，自驾五天，花费1800元，总结推荐](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-summary.html) |  |
 | 2026-05-30 | [当人们不再问好](https://www.geedea.pro/article/phone-hello/) | 去年买了本法语童书作为阅读材料（后来发现即便是儿童读物，对我来说也有些难度，便闲置了），主角的爸爸在打电话时说了 allô 这个词。当时我以为是什么时髦的打招呼俚语，跟英语里的 sup （What’s sup?）一样，但查阅后才得知这是专门的电话用语，面对面打招呼时不说 allô 。 正巧，最近在重… |
 | 2026-05-30 | [0419 御温泉之旅](https://ssshooter.com/zhuhai-imperial-hotspring/) | 分享珠海御温泉度假村的真实体验，长盛庄复式日式房型测评、24小时温泉无限泡、超大庙会自助餐攻略，适合周末短途度假参考。 |
