@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-05-30 | [日本关西系列｜Day 6 白滨之行（下篇）](https://blog.yasking.org/a/series-kansai-travel-day6.html) | 在白滨的第二天，还好晚上还住在这边，所以还有一整天的时间游玩。 早上到 Seamore 一层的面包店买了面包吃，休息区几乎没什 … |
+| 2026-05-30 | [日本关西系列｜Day 5 白滨之行（上篇）](https://blog.yasking.org/a/series-kansai-travel-day5.html) | 早起，没睡懒觉。 今日的行程是坐巴士到白滨度过在大阪的最后两天旅程，昨天住宿的地方离 OCAT 汽车站比较近，在 FamilyMart 吃了两 … |
+| 2026-05-30 | [日本关西系列｜白滨明光巴士购票与乘坐（MEIKO BUS）](https://blog.yasking.org/a/osaka-shirahama-meiko-bus.html) | 明光巴士日票 我这次行程只坐了两三次公交车，没有购买巴士日票，不过也记录下整理出来的攻略： 下载 “Japan Transit Planner” 应用（红色 … |
+| 2026-05-30 | [一个人做产品：我终于把那个产品做出来了](https://www.tortorse.com/archives/i-finally-made-my-bookshelf/) | 我之前写过一篇 《一个人做产品：提出想法》 ，里面说到一个很具体的问题：我买书买重了。 |
 | 2026-05-29 | [中奖到底藏在瓶盖里，还是藏在扫码那一下](https://www.tortorse.com/archives/bottle-cap-qr-lottery/) | 最近喝可乐时，我又看到瓶盖里面那个扫码抽奖的二维码。 |
 | 2026-05-29 | [Lesson 26 暴涨](https://physnya.top/GR/lesson-25-inflation/) | 上节课最后说到一个问题，就是 CMB 的结果表明宇宙间各处存在相关性. 研究 co-moving time， d s 2 = a 2 ( − d τ 2 + d x ⃗ 2 ) \mathrm{d}s^2=a^2(-\mathrm{d}\tau^2+\mathrm{d}\vec{x}^2) d s… |
 | 2026-05-29 | [回到现在](https://mobius.blog/24499.html) | 先说一个有趣的点，日语里的ただいま（tadaima）字面上的意思是“现在、当下”，而口语化里是“我回来了”，恰 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -123,16 +127,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-23 | [Rescuing a Bricked 360T7 Router via UART After a DDR3 RAM Upgrade](https://blog.qzydustin.com/posts/rescuing-bricked-360t7-uart-after-ddr3-ram-upgrade/) | A memory-modded 360T7 ran fine for years until I flashed OpenWrt's bl2 and fip, which bricked it with dram size: 0MB . Every rescue package found onli… |
 | 2026-05-23 | [月刊（第35期）：我和 Claude 老师 Vibe Coding 的周末](https://ursb.me/posts/weekly-35/) | 本篇是对二〇二六年四月至五月的记录与思考。 周末的 Vibe Coding 最近一个月疯狂 VIBE，一共花了 Claude Code 257 亿 Token： 这些 Token 基本都是在 6 个周末消耗的，因为也只有周末有时间瞎搞（不然一个 20x 的号只够我用 3 天的）。 我一般会启 7 个… |
 | 2026-05-23 | [只索引10个网站的搜索引擎](https://nc.gy/posts/search-engine-for-10-sites/) | 要解答技术问题，一个搜索引擎只需要收录以下这10个网站。Reddit、Stack Overflow、Stack Exchange、Hacker News、GitHub、Wikipedia、YouTube 中文社区：V2EX、NodeSeek、Hostloc 以上至少是对我来说能解决大部分技术问题的网… |
-| 2026-05-22 | [听播客学到的东西](https://lachaise.xyz/2026/podcast-quotes/) | 几年前，在 blog 里写过当初学机器学习原理的时候领悟到的一件事情。机器学习模型「学习」的过程是随机启动一系列权重，基于输入数据猜测一个输出，再与标准答案对比。这个过程中，最重要的步骤是「反向传播」(back propagation)，也就是犯错误之后，从结果一步一步追溯推导的过程，并调整各个步骤… |
-| 2026-05-22 | [Evening Run](https://tianheg.co/posts/evening-run-en/) | I got off work at 5:30, went home, changed into a sleeveless shirt, shorts, and running shoes, and headed out for a run on Phoenix Mountain across the… |
-| 2026-05-22 | [傍晚跑步](https://tianheg.co/posts/evening-run/) | 五点半下班，回家换上无袖衫、短裤和运动鞋，去对面的凤凰山跑步。走在路上，想着接下来的事情。当一个人长久地处在一个不那么好的环境中，人的心态会变得消极，人的行为会渐渐地无节制，人的身体与精神会日渐萎靡，自我伤害的行为一个接一个地。出现。这是一个恶性循环，如果不及时打破，待到无法挽回时悔之晚矣。 伴随着… |
-| 2026-05-22 | [Enjoy life](https://wa008.github.io/posts/enjoy-life/) | New Hobbies I tried a lots of thing in recently two months. Piano An electronic piano is much cheaper, lighter, and takes up less space. However, it t… |
-| 2026-05-22 | [什么是好的用户体验](https://blog.solazy.me/20260522/) | 在讨论用户体验时，我们往往容易被那些最直观的输入所吸引。一个流畅的转场动效、一套符合最新设计趋势的拟物或扁平视觉、一张充满质感的黑金卡片特效。这些能够被视网膜捕捉到的瞬间，通常被归为感官体验。 感官上的好体验当然重要，它是产品传递品牌温度和精致感的第一媒介。以华润旗下的会员体系 App「一点万象」为… |
-| 2026-05-22 | [Lesson 24 原初核合成](https://physnya.top/GR/lesson-24-bbn/) | 广义相对论的最开始实验验证的尺度大约是 AU \text{AU} AU 量级，也就是星系内的尺度；但是后面宇宙学至少需要银河系的尺度，也就是 20 kpc 20\text{ kpc} 20 kpc 左右，前者是 10 8 km 10^8\text{ km} 1 0 8 km 左右，后者达到了 10… |
-| 2026-05-22 | [Lesson 12 Resonance & 3-Body](https://physnya.top/star-planet/lesson-12-resonance/) | Resonance 以 3 : 2 3:2 3 : 2 为例，resonance angle 是 ϕ 12 = 3 λ 2 − 2 λ 1 − ω 2 \phi{12}=3\lambda2-2\lambda1-\omega2 ϕ 12 ​ = 3 λ 2 ​ − 2 λ 1 ​ − ω 2 ​ (其… |
-| 2026-05-22 | [WD-40品牌发展史](https://www.iyeslogo.com/wd-40-branding/) | WD-40现销往176个国家，年营收超5亿美元，成为横跨工业与家庭领域的多用途产品传奇。 |
-| 2026-05-22 | [成全杀意](https://mobius.blog/24191.html) | 这两天在整理“归档”，打算分门别类地把以前写过的文章按专题进行整理，结果没想到还是搞出了一大堆内容。到最后就完 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-22 | [博客的几个小更新](https://bluepika.life/blog/recent-blog-updates-202604) | 最近给博客加了几个小更新，我都挺喜欢的。 |
 
 ## Vibe Coding
 
