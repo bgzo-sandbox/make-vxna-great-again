@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-05-30T02:58:01Z
-modified: 2026-05-30T02:58:01Z
+created: 2026-05-30T06:52:47Z
+modified: 2026-05-30T06:52:47Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,11 +11,11 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-05-30T02:58:01Z
+Generated at: 2026-05-30T06:52:47Z
 
 Total sources: 483
-Successful: 360
-Failed: 123
+Successful: 358
+Failed: 125
 
 | Status | Source | Feed | Origin | Articles | Error |
 | --- | --- | --- | --- | ---: | --- |
@@ -42,6 +42,8 @@ Failed: 123
 | Failed | [#174] V2EX › 德普王 | [https://depp.wang/rss2.xml](https://depp.wang/rss2.xml) | [Origin](https://www.v2ex.com/xna/s/174) | 0 | Client error '403 Forbidden' for url 'https://depp.wang/rss2.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#17] V2EX › ecnelises | [https://ecnelises.com/feed/](https://ecnelises.com/feed/) | [Origin](https://www.v2ex.com/xna/s/17) | 0 | [Errno 111] Connection refused |
 | Failed | [#182] V2EX › 虫子樱桃 | [https://czyt.tech/index.xml](https://czyt.tech/index.xml) | [Origin](https://www.v2ex.com/xna/s/182) | 0 | Client error '403 Forbidden' for url 'https://czyt.tech/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
+| Failed | [#189] V2EX › 王旭阳个人博客 | [https://www.wxy97.com/rss.xml](https://www.wxy97.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/189) | 0 | [Errno 101] Network is unreachable |
+| Failed | [#190] V2EX › 向阳而生 | [https://blog.7wate.com/rss.xml](https://blog.7wate.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/190) | 0 | [Errno 101] Network is unreachable |
 | Failed | [#1] V2EX › olivida.eth | [https://olivida.eth.sucks/planet.json](https://olivida.eth.sucks/planet.json) | [Origin](https://www.v2ex.com/xna/s/1) | 0 | feed parse error |
 | Failed | [#201] V2EX › FAV0 周刊 | [https://fav0.com/feed.xml](https://fav0.com/feed.xml) | [Origin](https://www.v2ex.com/xna/s/201) | 0 | Client error '404 Not Found' for url 'https://fav0.com/feed.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#202] V2EX › dairoot | [https://dairoot.cn/atom.xml](https://dairoot.cn/atom.xml) | [Origin](https://www.v2ex.com/xna/s/202) | 0 | feed parse error |
@@ -203,9 +205,7 @@ Failed: 123
 | Success | [#185] V2EX › AberSheeran | [https://aber.sh/feed.xml](https://aber.sh/feed.xml) | [Origin](https://www.v2ex.com/xna/s/185) | 135 | - |
 | Success | [#186] V2EX › 随心随风 | [https://www.iarthit.com/static/xml/rss.xml](https://www.iarthit.com/static/xml/rss.xml) | [Origin](https://www.v2ex.com/xna/s/186) | 29 | - |
 | Success | [#187] V2EX › 极客小祥 | [https://jtxyh.com/rss.xml](https://jtxyh.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/187) | 20 | - |
-| Success | [#189] V2EX › 王旭阳个人博客 | [https://www.wxy97.com/rss.xml](https://www.wxy97.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/189) | 20 | - |
 | Success | [#18] V2EX › 面条实验室 | [https://feed.miantiao.me/](https://feed.miantiao.me/) | [Origin](https://www.v2ex.com/xna/s/18) | 10 | - |
-| Success | [#190] V2EX › 向阳而生 | [https://blog.7wate.com/rss.xml](https://blog.7wate.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/190) | 10 | - |
 | Success | [#191] V2EX › Shidenggui | [https://shidenggui.com/feeds](https://shidenggui.com/feeds) | [Origin](https://www.v2ex.com/xna/s/191) | 56 | - |
 | Success | [#192] V2EX › wuxinhua.com | [https://wuxinhua.com/rss.xml](https://wuxinhua.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/192) | 56 | - |
 | Success | [#193] V2EX › Another Dayu | [https://anotherdayu.com/feed/](https://anotherdayu.com/feed/) | [Origin](https://www.v2ex.com/xna/s/193) | 10 | - |
@@ -323,7 +323,7 @@ Failed: 123
 | Success | [#367] V2EX › Elliot's Blog | [https://elliot00.com/rss](https://elliot00.com/rss) | [Origin](https://www.v2ex.com/xna/s/367) | 69 | - |
 | Success | [#369] V2EX › soops.sol | [https://soops.sol.build/rss.xml](https://soops.sol.build/rss.xml) | [Origin](https://www.v2ex.com/xna/s/369) | 68 | - |
 | Success | [#36] V2EX › shiquda 的试验田 | [https://shiquda.link/rss.xml](https://shiquda.link/rss.xml) | [Origin](https://www.v2ex.com/xna/s/36) | 55 | - |
-| Success | [#370] V2EX › 愆伏 | [https://www.tortorse.com/atom.xml](https://www.tortorse.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/370) | 532 | - |
+| Success | [#370] V2EX › 愆伏 | [https://www.tortorse.com/atom.xml](https://www.tortorse.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/370) | 50 | - |
 | Success | [#372] V2EX › KrDw Publish | [https://k1r.in/rss.xml](https://k1r.in/rss.xml) | [Origin](https://www.v2ex.com/xna/s/372) | 21 | - |
 | Success | [#373] V2EX › viazure | [https://viazure.cc/index.xml](https://viazure.cc/index.xml) | [Origin](https://www.v2ex.com/xna/s/373) | 11 | - |
 | Success | [#374] V2EX › 极北人工智障 | [https://lachaise.xyz/rss.xml](https://lachaise.xyz/rss.xml) | [Origin](https://www.v2ex.com/xna/s/374) | 7 | - |

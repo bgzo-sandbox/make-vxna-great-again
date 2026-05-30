@@ -27,9 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-05-30 | [不要轻易得罪天蝎座](https://www.hecaitou.com/2026/05/think-twice-before-crossing-a-scorpio.html) | 天蝎座记仇，这是举世皆知的公理。天蝎座傲娇，这是不言自明的真理。关于这两件事，我记得有个非常棒的段子： 分手十年，再无任何联系，女孩却在新婚前夜突然收到前天蝎男友发来的短信：「你现在知道自己错了吗？」 今天早上我本来正在写文章，但不知道系统抽什么风，提醒我一篇 10 年前的文章多了一条读者留言。打开… |
+| 2026-05-30 | [菜场到底是靠谁活下来的](https://www.tortorse.com/archives/wet-market-weekend-observation/) | 周末孩子去上补习班，我正好在附近等他，就顺路去菜场买了一趟菜。 |
 | 2026-05-30 | [日本关西系列｜Day 6 白滨之行（下篇）](https://blog.yasking.org/a/series-kansai-travel-day6.html) | 在白滨的第二天，还好晚上还住在这边，所以还有一整天的时间游玩。 早上到 Seamore 一层的面包店买了面包吃，休息区几乎没什 … |
 | 2026-05-30 | [日本关西系列｜Day 5 白滨之行（上篇）](https://blog.yasking.org/a/series-kansai-travel-day5.html) | 早起，没睡懒觉。 今日的行程是坐巴士到白滨度过在大阪的最后两天旅程，昨天住宿的地方离 OCAT 汽车站比较近，在 FamilyMart 吃了两 … |
 | 2026-05-30 | [日本关西系列｜白滨明光巴士购票与乘坐（MEIKO BUS）](https://blog.yasking.org/a/osaka-shirahama-meiko-bus.html) | 明光巴士日票 我这次行程只坐了两三次公交车，没有购买巴士日票，不过也记录下整理出来的攻略： 下载 “Japan Transit Planner” 应用（红色 … |
+| 2026-05-30 | [邸报 v0.1.0：一个很旧的东西新生了](https://1q43.blog/post/12489/) | 这篇博客的内容十分简单：你可以安装邸报了。 |
 | 2026-05-30 | [一个人做产品：我终于把那个产品做出来了](https://www.tortorse.com/archives/i-finally-made-my-bookshelf/) | 我之前写过一篇 《一个人做产品：提出想法》 ，里面说到一个很具体的问题：我买书买重了。 |
 | 2026-05-29 | [中奖到底藏在瓶盖里，还是藏在扫码那一下](https://www.tortorse.com/archives/bottle-cap-qr-lottery/) | 最近喝可乐时，我又看到瓶盖里面那个扫码抽奖的二维码。 |
 | 2026-05-29 | [Lesson 26 暴涨](https://physnya.top/GR/lesson-25-inflation/) | 上节课最后说到一个问题，就是 CMB 的结果表明宇宙间各处存在相关性. 研究 co-moving time， d s 2 = a 2 ( − d τ 2 + d x ⃗ 2 ) \mathrm{d}s^2=a^2(-\mathrm{d}\tau^2+\mathrm{d}\vec{x}^2) d s… |
