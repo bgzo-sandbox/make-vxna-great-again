@@ -39,6 +39,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-30 | [日本关西系列｜白滨明光巴士购票与乘坐（MEIKO BUS）](https://blog.yasking.org/a/osaka-shirahama-meiko-bus.html) | 明光巴士日票 我这次行程只坐了两三次公交车，没有购买巴士日票，不过也记录下整理出来的攻略： 下载 “Japan Transit Planner” 应用（红色 … |
 | 2026-05-30 | [邸报 v0.1.0：一个很旧的东西新生了](https://1q43.blog/post/12489/) | 这篇博客的内容十分简单：你可以安装邸报了。 |
 | 2026-05-30 | [一个人做产品：我终于把那个产品做出来了](https://www.tortorse.com/archives/i-finally-made-my-bookshelf/) | 我之前写过一篇 《一个人做产品：提出想法》 ，里面说到一个很具体的问题：我买书买重了。 |
+| 2026-05-29 | [实习生口中的职场高压](https://blog.solazy.me/20260529/) | 今天讲讲加班这个话题 |
 | 2026-05-29 | [中奖到底藏在瓶盖里，还是藏在扫码那一下](https://www.tortorse.com/archives/bottle-cap-qr-lottery/) | 最近喝可乐时，我又看到瓶盖里面那个扫码抽奖的二维码。 |
 | 2026-05-29 | [Lesson 26 暴涨](https://physnya.top/GR/lesson-25-inflation/) | 上节课最后说到一个问题，就是 CMB 的结果表明宇宙间各处存在相关性. 研究 co-moving time， d s 2 = a 2 ( − d τ 2 + d x ⃗ 2 ) \mathrm{d}s^2=a^2(-\mathrm{d}\tau^2+\mathrm{d}\vec{x}^2) d s… |
 | 2026-05-29 | [回到现在](https://mobius.blog/24499.html) | 先说一个有趣的点，日语里的ただいま（tadaima）字面上的意思是“现在、当下”，而口语化里是“我回来了”，恰 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
