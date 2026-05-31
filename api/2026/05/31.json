@@ -1,5 +1,12 @@
 [
   {
+    "title": "个人博客，最后的自留地",
+    "url": "http://www.5had0w.com/posts/6a9a5db9.html",
+    "date": "2026-05-31T16:45:29Z",
+    "description": "在 AI 盛行的今天，网上到处充斥着 AI 制造的产物。 AI 写代码、AI 生成音视频、AI 写文章写小说。 如果说还有哪里没沾染太多 AI 的气息的话，我觉得只有个人博客了。 当然，我没有排斥 AI 的意思。其实说实话，我认为，",
+    "source_root_domain": "5had0w.com"
+  },
+  {
     "title": "Win安装choco包管理器",
     "url": "https://blog.wo0ow.com/47497.html",
     "date": "2026-05-31T14:52:20Z",
@@ -63,6 +70,13 @@
     "source_root_domain": "smallyu.net"
   },
   {
+    "title": "Vol.105 AI分化：王小川押注医疗，何小鹏转机器人，Anthropic推动态Agent工作流",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-105",
+    "date": "2026-05-31T08:00:00Z",
+    "description": "本期内容聚焦AI行业分化：王小川转向医疗AI，何小鹏重塑为物理AI公司，Anthropic推出Opus 4.8及动态工作流，并探讨Agent安全、AI成本高企下的商业模式变革与组织革命。",
+    "source_root_domain": "liduos.com"
+  },
+  {
     "title": "从提示词到个人资产，我如何用 Git 跨设备管理私有 Skill",
     "url": "https://shiquda.link/private-skill-git-cross-device/",
     "date": "2026-05-31T05:54:31Z",
@@ -89,6 +103,13 @@
     "date": "2026-05-31T00:51:09Z",
     "description": "从Cursor 转到 Terminal 我最早用 Cursor，大概两个月前转到 Terminal（用 iTerm2）。现在，我又逐渐从 iTerm2 转到 Codex 和 Claude Code 的官方 App。 一开始从 Cursor 转到 iTerm2，是因为我发现，Cursor 的界面虽然有更好的交互和视觉体验，特别是对设计师来说，看起来更精致， 但只要跨过 Terminal 那种“代码恐慌”的感觉，Terminal 反而更单纯，界面也更简单。 所谓单纯，是因为 Terminal 里面没有太多显性的界面配置和选项菜单。从用户直觉来说，它几乎只有一个动作：输入。这一点我非常喜欢。 另外，Terminal 很适合同时开多个窗口。一个屏幕里可以并排放几个 Terminal，也可以开多个 Tab。 因为界面足够简单，你不会有太多心理压力。 开 5 个 Tab，无非就是多了 5 个输入窗口，体验反而是轻松的。 从 Terminal 转 Codex/Claude App 后来我又从 Terminal 转到 Codex 和 Claude Code 的官方 App。 很重要的原因是，官方 Ap",
     "source_root_domain": "diff.im"
+  },
+  {
+    "title": "五月杂思",
+    "url": "https://coderfee.com/blog/2026-05-31/",
+    "date": "2026-05-31T00:00:00Z",
+    "description": "五月三十一天，每天都回答了一个问题。那些答案拼起来，比我刻意写的任何东西都更像我。",
+    "source_root_domain": "coderfee.com"
   },
   {
     "title": "周末流水账 0530",

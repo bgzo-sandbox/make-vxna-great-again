@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-05-31 | [个人博客，最后的自留地](http://www.5had0w.com/posts/6a9a5db9.html) | 在 AI 盛行的今天，网上到处充斥着 AI 制造的产物。 AI 写代码、AI 生成音视频、AI 写文章写小说。 如果说还有哪里没沾染太多 AI 的气息的话，我觉得只有个人博客了。 当然，我没有排斥 AI 的意思。其实说实话，我认为， |
 | 2026-05-31 | [Win安装choco包管理器](https://blog.wo0ow.com/47497.html) | 参考博客 安装choco包管理器 需要以 管理员身份 打开PowerShel |
 | 2026-05-31 | [那些我周末喜欢做的事情](https://blog.solazy.me/20260531/) | 今天写一篇抽象的流水账 |
 | 2026-05-31 | [安宁](https://z.arlmy.me/posts/Poems/2026/20260525_AnNing/) | 「安宁。」 |
@@ -36,10 +37,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-31 | [那里](https://z.arlmy.me/posts/Poems/2026/20260517_NaLi/) | 「那里。」 |
 | 2026-05-31 | [J 的并不漫长也不悠闲假期（一）](https://www.justzht.com/j-s-not-so-leisure-vacation-pt-one/) | 没有人喜欢旅途。对于大部分人来说，旅途是旅行中最无聊的一部份，可能是过夜的卧铺火车，和陌生人同处一件 |
 | 2026-05-31 | [比特币社区在讨论的抗量子计算是怎么回事](https://smallyu.net/2026/05/31/%E6%AF%94%E7%89%B9%E5%B8%81%E7%A4%BE%E5%8C%BA%E5%9C%A8%E8%AE%A8%E8%AE%BA%E7%9A%84%E6%8A%97%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B/) | 引用框里的内容都是 Gemini 生成的。我也不太喜欢这种大量 AI 生成内容的文章，但是很多专业名词和数据又依赖于 AI 给出的数据。所以还是以分享和整理信息为主吧。 <a href="#生成式-AI" |
+| 2026-05-31 | [Vol.105 AI分化：王小川押注医疗，何小鹏转机器人，Anthropic推动态Agent工作流](https://liduos.com/weekly/the-weekly-gradient-105) | 本期内容聚焦AI行业分化：王小川转向医疗AI，何小鹏重塑为物理AI公司，Anthropic推出Opus 4.8及动态工作流，并探讨Agent安全、AI成本高企下的商业模式变革与组织革命。 |
 | 2026-05-31 | [从提示词到个人资产，我如何用 Git 跨设备管理私有 Skill](https://shiquda.link/private-skill-git-cross-device/) | 从提示词到个人资产，我如何用 Git 跨设备管理私有 Skill 最近我在折腾一件小事：把自己散落在不同 Agent 里的 Skill 管起来。一开始我也觉得这事没那么重要，无非就是几个 SKILL.md ，里面写一些说明、流程和工具调用方式。可用得多了以后，我越来越觉得，Skill 不应该只被当成… |
 | 2026-05-31 | [祈愿词](https://www.hecaitou.com/2026/05/prayer-of-aspiration.html) | 成为人极不容易，世界上有那么多生命，却没有人的心智和头脑，仅只是凭借本能驱使活着。 作为人极不容易，世界上有那么多不幸，生活中有那么多烦扰，内心终日饱受各种情绪和想法的折磨。 作为自己极不容易，人通常很难和自己单独相处，相处时又难以面对，面对时又很难认清自己。因此总是处于随波逐流的状态，既不自由，也… |
 | 2026-05-31 | [Elon Musk 五步工作法](https://blog.est.im/2026/stdin-15) | The five-step process: First, make your requirements less dumb . Your requirements are definitely dumb. It does not matter who gave them to you. In fa… |
 | 2026-05-31 | [AI 编程不到一年，工具切了3轮。行业变革很残酷，但很好玩。](https://diff.im/blog/2026/05/ai-%E7%BC%96%E7%A8%8B%E4%B8%8D%E5%88%B0%E4%B8%80%E5%B9%B4%E5%B7%A5%E5%85%B7%E5%88%87%E4%BA%863%E8%BD%AE%E8%A1%8C%E4%B8%9A%E5%8F%98%E9%9D%A9%E5%BE%88%E6%AE%8B%E9%85%B7%E4%BD%86%E5%BE%88%E5%A5%BD%E7%8E%A9/) | 从Cursor 转到 Terminal 我最早用 Cursor，大概两个月前转到 Terminal（用 iTerm2）。现在，我又逐渐从 iTerm2 转到 Codex 和 Claude Code 的官方 App。 一开始从 Cursor 转到 iTerm2，是因为我发现，Cursor 的界面虽然有… |
+| 2026-05-31 | [五月杂思](https://coderfee.com/blog/2026-05-31/) | 五月三十一天，每天都回答了一个问题。那些答案拼起来，比我刻意写的任何东西都更像我。 |
 | 2026-05-30 | [周末流水账 0530](https://blog.solazy.me/20260530/) | 今天是一个安排的很慢的周六！ |
 | 2026-05-30 | [永烁星光之地](https://brain-zhang.github.io/blog/2026/05/30/yong-shuo-xing-guang-zhi-di/) | 两年前，ChatGPT3.5的时代，我尝试用它创作小说，那个时候还很稚嫩；但我知道，他会飞速的进化，直到有一天，他会媲美中上水平的人类作家； 今天，它的能力已经接近人类了；我很轻松的用AI创作了多部百万字以上的大部头；唯一让我烦恼的是：没有平台接受这种一天成百上千部的创作机器人，我也没有那么多的矩阵… |
 | 2026-05-30 | [生命可以轮回，高考只有一次——当然还可以复读](https://mobius.blog/24525.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候，就可以分类整理成册。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
