@@ -1,5 +1,19 @@
 [
   {
+    "title": "J 的并不漫长也不悠闲假期（一）",
+    "url": "https://www.justzht.com/j-s-not-so-leisure-vacation-pt-one/",
+    "date": "2026-05-31T08:31:53Z",
+    "description": "没有人喜欢旅途。对于大部分人来说，旅途是旅行中最无聊的一部份，可能是过夜的卧铺火车，和陌生人同处一件",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "比特币社区在讨论的抗量子计算是怎么回事",
+    "url": "https://smallyu.net/2026/05/31/%E6%AF%94%E7%89%B9%E5%B8%81%E7%A4%BE%E5%8C%BA%E5%9C%A8%E8%AE%A8%E8%AE%BA%E7%9A%84%E6%8A%97%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B/",
+    "date": "2026-05-31T08:15:55Z",
+    "description": "引用框里的内容都是 Gemini 生成的。我也不太喜欢这种大量 AI 生成内容的文章，但是很多专业名词和数据又依赖于 AI 给出的数据。所以还是以分享和整理信息为主吧。 <a href=\"#生成式-AI\"",
+    "source_root_domain": "smallyu.net"
+  },
+  {
     "title": "从提示词到个人资产，我如何用 Git 跨设备管理私有 Skill",
     "url": "https://shiquda.link/private-skill-git-cross-device/",
     "date": "2026-05-31T05:54:31Z",
@@ -26,6 +40,13 @@
     "date": "2026-05-31T00:51:09Z",
     "description": "从Cursor 转到 Terminal 我最早用 Cursor，大概两个月前转到 Terminal（用 iTerm2）。现在，我又逐渐从 iTerm2 转到 Codex 和 Claude Code 的官方 App。 一开始从 Cursor 转到 iTerm2，是因为我发现，Cursor 的界面虽然有更好的交互和视觉体验，特别是对设计师来说，看起来更精致， 但只要跨过 Terminal 那种“代码恐慌”的感觉，Terminal 反而更单纯，界面也更简单。 所谓单纯，是因为 Terminal 里面没有太多显性的界面配置和选项菜单。从用户直觉来说，它几乎只有一个动作：输入。这一点我非常喜欢。 另外，Terminal 很适合同时开多个窗口。一个屏幕里可以并排放几个 Terminal，也可以开多个 Tab。 因为界面足够简单，你不会有太多心理压力。 开 5 个 Tab，无非就是多了 5 个输入窗口，体验反而是轻松的。 从 Terminal 转 Codex/Claude App 后来我又从 Terminal 转到 Codex 和 Claude Code 的官方 App。 很重要的原因是，官方 Ap",
     "source_root_domain": "diff.im"
+  },
+  {
+    "title": "周末流水账 0530",
+    "url": "https://blog.solazy.me/20260530/",
+    "date": "2026-05-30T15:00:00Z",
+    "description": "今天是一个安排的很慢的周六！",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "永烁星光之地",
