@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-05-31 | [五月日记](https://cbvivi.today/260531) | 博客恢复了，发一些五月写在mynd里的日记，纪念上线两个月。 5/2（周日） 去前滩看文森特公司做的喜剧演出。 现场男观众比例低到惊人。 文森特在群内提醒，这个演出真的很狂热，你们做好心理准备。 剧场的大屏幕滚动播放全屏的演出海报、群聊加入方式和演出不能拍照和摄像的提示，大家熟练地举起票根和物料，跟… |
 | 2026-05-31 | [J 的并不漫长也不悠闲假期（一）](https://www.justzht.com/j-s-not-so-leisure-vacation-pt-one/) | 没有人喜欢旅途。对于大部分人来说，旅途是旅行中最无聊的一部份，可能是过夜的卧铺火车，和陌生人同处一件 |
 | 2026-05-31 | [比特币社区在讨论的抗量子计算是怎么回事](https://smallyu.net/2026/05/31/%E6%AF%94%E7%89%B9%E5%B8%81%E7%A4%BE%E5%8C%BA%E5%9C%A8%E8%AE%A8%E8%AE%BA%E7%9A%84%E6%8A%97%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B/) | 引用框里的内容都是 Gemini 生成的。我也不太喜欢这种大量 AI 生成内容的文章，但是很多专业名词和数据又依赖于 AI 给出的数据。所以还是以分享和整理信息为主吧。 <a href="#生成式-AI" |
 | 2026-05-31 | [从提示词到个人资产，我如何用 Git 跨设备管理私有 Skill](https://shiquda.link/private-skill-git-cross-device/) | 从提示词到个人资产，我如何用 Git 跨设备管理私有 Skill 最近我在折腾一件小事：把自己散落在不同 Agent 里的 Skill 管起来。一开始我也觉得这事没那么重要，无非就是几个 SKILL.md ，里面写一些说明、流程和工具调用方式。可用得多了以后，我越来越觉得，Skill 不应该只被当成… |
