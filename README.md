@@ -27,9 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-05-31 | [从提示词到个人资产，我如何用 Git 跨设备管理私有 Skill](https://shiquda.link/private-skill-git-cross-device/) | 从提示词到个人资产，我如何用 Git 跨设备管理私有 Skill 最近我在折腾一件小事：把自己散落在不同 Agent 里的 Skill 管起来。一开始我也觉得这事没那么重要，无非就是几个 SKILL.md ，里面写一些说明、流程和工具调用方式。可用得多了以后，我越来越觉得，Skill 不应该只被当成… |
+| 2026-05-31 | [祈愿词](https://www.hecaitou.com/2026/05/prayer-of-aspiration.html) | 成为人极不容易，世界上有那么多生命，却没有人的心智和头脑，仅只是凭借本能驱使活着。 作为人极不容易，世界上有那么多不幸，生活中有那么多烦扰，内心终日饱受各种情绪和想法的折磨。 作为自己极不容易，人通常很难和自己单独相处，相处时又难以面对，面对时又很难认清自己。因此总是处于随波逐流的状态，既不自由，也… |
+| 2026-05-31 | [Elon Musk 五步工作法](https://blog.est.im/2026/stdin-15) | The five-step process: First, make your requirements less dumb . Your requirements are definitely dumb. It does not matter who gave them to you. In fa… |
 | 2026-05-31 | [AI 编程不到一年，工具切了3轮。行业变革很残酷，但很好玩。](https://diff.im/blog/2026/05/ai-%E7%BC%96%E7%A8%8B%E4%B8%8D%E5%88%B0%E4%B8%80%E5%B9%B4%E5%B7%A5%E5%85%B7%E5%88%87%E4%BA%863%E8%BD%AE%E8%A1%8C%E4%B8%9A%E5%8F%98%E9%9D%A9%E5%BE%88%E6%AE%8B%E9%85%B7%E4%BD%86%E5%BE%88%E5%A5%BD%E7%8E%A9/) | 从Cursor 转到 Terminal 我最早用 Cursor，大概两个月前转到 Terminal（用 iTerm2）。现在，我又逐渐从 iTerm2 转到 Codex 和 Claude Code 的官方 App。 一开始从 Cursor 转到 iTerm2，是因为我发现，Cursor 的界面虽然有… |
 | 2026-05-30 | [永烁星光之地](https://brain-zhang.github.io/blog/2026/05/30/yong-shuo-xing-guang-zhi-di/) | 两年前，ChatGPT3.5的时代，我尝试用它创作小说，那个时候还很稚嫩；但我知道，他会飞速的进化，直到有一天，他会媲美中上水平的人类作家； 今天，它的能力已经接近人类了；我很轻松的用AI创作了多部百万字以上的大部头；唯一让我烦恼的是：没有平台接受这种一天成百上千部的创作机器人，我也没有那么多的矩阵… |
 | 2026-05-30 | [生命可以轮回，高考只有一次——当然还可以复读](https://mobius.blog/24525.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候，就可以分类整理成册。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-05-30 | [Playlet：DLNA听歌神器 免安装app播放NAS里的歌](https://blog.est.im/2026/stdout-21) | 家里有个小 NAS 。里面存了一些歌。一半是用 NAS 自带的 app 听，一半是。。。SMB 共享打开听 虽然 NAS 也提供 DLNA ，一直以来找不到趁手 app ，要么收费，要么 bug 多，要么不能多端。 13年前我也想 基于 chrome.socket 做个 Chrome App 弄个类… |
 | 2026-05-30 | [丽水遂昌｜三个人，自驾五天，花费1800元，总结推荐](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-summary.html) |  |
 | 2026-05-30 | [当人们不再问好](https://www.geedea.pro/article/phone-hello/) | 去年买了本法语童书作为阅读材料（后来发现即便是儿童读物，对我来说也有些难度，便闲置了），主角的爸爸在打电话时说了 allô 这个词。当时我以为是什么时髦的打招呼俚语，跟英语里的 sup （What’s sup?）一样，但查阅后才得知这是专门的电话用语，面对面打招呼时不说 allô 。 正巧，最近在重… |
 | 2026-05-30 | [0419 御温泉之旅](https://ssshooter.com/zhuhai-imperial-hotspring/) | 分享珠海御温泉度假村的真实体验，长盛庄复式日式房型测评、24小时温泉无限泡、超大庙会自助餐攻略，适合周末短途度假参考。 |
