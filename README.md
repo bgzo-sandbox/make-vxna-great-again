@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-05-31 | [我给16岁女儿整理了一份（北美）安全驾驶指南](https://diff.im/blog/2026/05/%E6%88%91%E7%BB%9916%E5%B2%81%E5%A5%B3%E5%84%BF%E6%95%B4%E7%90%86%E4%BA%86%E4%B8%80%E4%BB%BD%E5%8C%97%E7%BE%8E%E5%AE%89%E5%85%A8%E9%A9%BE%E9%A9%B6%E6%8C%87%E5%8D%97/) | 上周和一位教会弟兄闲聊时，他提到教会里的年轻人开车，几乎每个人都“撞飞”过一辆车。这个“撞飞”当然有点夸张，意思是说，几乎每个孩子都遇到过事故，而且可能还是比较严重的事故。 我的女儿 16 岁，已经通过了笔试，目前正在和我学开车。如果顺利的话，年底可能就能正式上路。我之前和她聊过一些安全驾驶的知识，… |
 | 2026-05-31 | [伯明翰桌游展 UK GAMES EX PO](https://anotherdayu.com/ukboardgame/) | 昨天和朋友 Jordan 去了伯明翰的大型桌游展 UK GAMES EX PO（UKGE） 。现场规模比我想象中还要大，有桌游、战棋、跑团、卡牌、周边、试玩区和各种活动摊位，非常热闹！ 追星 UKGE 是一个互动性很强的展会，现场有很多小型桌游比赛、设计师见面会、新作试玩和体验活动。 先是见到了 S… |
 | 2026-05-31 | [个人博客，最后的自留地](http://www.5had0w.com/posts/6a9a5db9.html) | 在 AI 盛行的今天，网上到处充斥着 AI 制造的产物。 AI 写代码、AI 生成音视频、AI 写文章写小说。 如果说还有哪里没沾染太多 AI 的气息的话，我觉得只有个人博客了。 当然，我没有排斥 AI 的意思。其实说实话，我认为， |
 | 2026-05-31 | [Win安装choco包管理器](https://blog.wo0ow.com/47497.html) | 参考博客 安装choco包管理器 需要以 管理员身份 打开PowerShel |
