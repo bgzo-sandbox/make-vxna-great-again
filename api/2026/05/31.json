@@ -1,10 +1,52 @@
 [
   {
+    "title": "Win安装choco包管理器",
+    "url": "https://blog.wo0ow.com/47497.html",
+    "date": "2026-05-31T14:52:20Z",
+    "description": "参考博客 安装choco包管理器 需要以 管理员身份 打开PowerShel",
+    "source_root_domain": "wo0ow.com"
+  },
+  {
+    "title": "那些我周末喜欢做的事情",
+    "url": "https://blog.solazy.me/20260531/",
+    "date": "2026-05-31T14:00:00Z",
+    "description": "今天写一篇抽象的流水账",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "安宁",
+    "url": "https://z.arlmy.me/posts/Poems/2026/20260525_AnNing/",
+    "date": "2026-05-31T13:53:27Z",
+    "description": "「安宁。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Toots 421 2026 May.24 - May.30",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260530/",
+    "date": "2026-05-31T13:22:27Z",
+    "description": "「远山暗影。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
     "title": "五月日记",
     "url": "https://cbvivi.today/260531",
     "date": "2026-05-31T13:11:26Z",
     "description": "博客恢复了，发一些五月写在mynd里的日记，纪念上线两个月。 5/2（周日） 去前滩看文森特公司做的喜剧演出。 现场男观众比例低到惊人。 文森特在群内提醒，这个演出真的很狂热，你们做好心理准备。 剧场的大屏幕滚动播放全屏的演出海报、群聊加入方式和演出不能拍照和摄像的提示，大家熟练地举起票根和物料，跟海报合照。 坐我们旁边的女生来得晚一些，自拍完两轮后，她拍拍前排观众，礼貌提问想借卡片来拍照。对方把手里的卡片递给她，另一位又从包里掏出一袋新的。 「这个送给你。」 「谢谢，我爱你...... READ MORE",
     "source_root_domain": "cbvivi.today"
+  },
+  {
+    "title": "Codex 治好了我的博客不能被 VXNA 抓取的毛病",
+    "url": "https://www.tortorse.com/archives/vxna-rss-cloudflare-codex-debugging/",
+    "date": "2026-05-31T12:56:55Z",
+    "description": "今年 3 月，我发现一件怪事：我的博客明明更新了，但 V2EX 的 VXNA 里一直没有新文章。",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "那里",
+    "url": "https://z.arlmy.me/posts/Poems/2026/20260517_NaLi/",
+    "date": "2026-05-31T11:26:27Z",
+    "description": "「那里。」",
+    "source_root_domain": "arlmy.me"
   },
   {
     "title": "J 的并不漫长也不悠闲假期（一）",
