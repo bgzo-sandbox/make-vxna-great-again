@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-05-31 | [伯明翰桌游展 UK GAMES EX PO](https://anotherdayu.com/ukboardgame/) | 昨天和朋友 Jordan 去了伯明翰的大型桌游展 UK GAMES EX PO（UKGE） 。现场规模比我想象中还要大，有桌游、战棋、跑团、卡牌、周边、试玩区和各种活动摊位，非常热闹！ 追星 UKGE 是一个互动性很强的展会，现场有很多小型桌游比赛、设计师见面会、新作试玩和体验活动。 先是见到了 S… |
 | 2026-05-31 | [个人博客，最后的自留地](http://www.5had0w.com/posts/6a9a5db9.html) | 在 AI 盛行的今天，网上到处充斥着 AI 制造的产物。 AI 写代码、AI 生成音视频、AI 写文章写小说。 如果说还有哪里没沾染太多 AI 的气息的话，我觉得只有个人博客了。 当然，我没有排斥 AI 的意思。其实说实话，我认为， |
 | 2026-05-31 | [Win安装choco包管理器](https://blog.wo0ow.com/47497.html) | 参考博客 安装choco包管理器 需要以 管理员身份 打开PowerShel |
 | 2026-05-31 | [那些我周末喜欢做的事情](https://blog.solazy.me/20260531/) | 今天写一篇抽象的流水账 |
