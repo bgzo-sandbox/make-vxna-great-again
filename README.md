@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-05-31 | [AI 编程不到一年，工具切了3轮。行业变革很残酷，但很好玩。](https://diff.im/blog/2026/05/ai-%E7%BC%96%E7%A8%8B%E4%B8%8D%E5%88%B0%E4%B8%80%E5%B9%B4%E5%B7%A5%E5%85%B7%E5%88%87%E4%BA%863%E8%BD%AE%E8%A1%8C%E4%B8%9A%E5%8F%98%E9%9D%A9%E5%BE%88%E6%AE%8B%E9%85%B7%E4%BD%86%E5%BE%88%E5%A5%BD%E7%8E%A9/) | 从Cursor 转到 Terminal 我最早用 Cursor，大概两个月前转到 Terminal（用 iTerm2）。现在，我又逐渐从 iTerm2 转到 Codex 和 Claude Code 的官方 App。 一开始从 Cursor 转到 iTerm2，是因为我发现，Cursor 的界面虽然有… |
 | 2026-05-30 | [永烁星光之地](https://brain-zhang.github.io/blog/2026/05/30/yong-shuo-xing-guang-zhi-di/) | 两年前，ChatGPT3.5的时代，我尝试用它创作小说，那个时候还很稚嫩；但我知道，他会飞速的进化，直到有一天，他会媲美中上水平的人类作家； 今天，它的能力已经接近人类了；我很轻松的用AI创作了多部百万字以上的大部头；唯一让我烦恼的是：没有平台接受这种一天成百上千部的创作机器人，我也没有那么多的矩阵… |
 | 2026-05-30 | [生命可以轮回，高考只有一次——当然还可以复读](https://mobius.blog/24525.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候，就可以分类整理成册。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-30 | [丽水遂昌｜三个人，自驾五天，花费1800元，总结推荐](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-summary.html) |  |
@@ -123,19 +124,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-24 | [一个极简且免费的 IP 地址查询服务](https://hzzio.top/blog/goip) | 一个基于 Merged-IP-Data 数据库，极简的 IP 地址查询服务，支持并发以及多语言、简化输出格式。 |
 | 2026-05-24 | [2026年第21周：等天晴](https://blog.sakoamc.com/posts/2621/) | 题记：突如其来的阵雨季。 |
 | 2026-05-24 | [独立游戏简评 Vol.5](https://bluepika.life/blog/indie-game-notes-5) | 以下提到的游戏里涉及解谜游戏，部分内容含有剧透。 |
-| 2026-05-23 | [周末流水账 0523](https://blog.solazy.me/20260523/) | 终于又要过周末了，这周的工作十分忙碌，确实是盼着周末赶紧到来好让我喘息一下。 看到这开头也知道，这种难得有喘息机会的周六，整个上午我也不会有什么安排，在家美美地躺了一整个上午。这阵子杭州热了起来，恰好最近我换了亚朵新一季的深睡被，盖起来非常舒服，丝滑有凉感。 今天晚上和朋友约了去吃一家烧鸟 omak… |
-| 2026-05-23 | [跨境炒股被重锤，我只能硬扛](https://krya.com/post/futu/) | 2020年我开了老虎证券；同时也开了美国华美银行账户，但是这个银行账户的维护成本过于高昂，后来就关闭了。 25年2月，又陆续开了富途证券、长桥证券、盈透证券（IBKR），还办了一堆香港银行卡。 其实我开这些账户，并没有大额跨境转账的需求。虽然有过当数字游民的想法，但并没有付诸实践。我的生活、家庭、收… |
-| 2026-05-23 | [一张图看懂 Hermes 的自我进化机制](https://gptkit.eth.limo/B9F19D05-1F8B-437D-BEBB-E0389DA8EBF7/) | 想深入了解, 可以阅读下面关于Hermes自进化的系列文章: 从 Memory、Skill 到 Background Review，完整拆解 Hermes 的自进化架构。 https://blog.suchuanyi.dev/posts/hermes-self-evolution-1-overvie… |
-| 2026-05-23 | [为什么说设计师也是吃青春饭的？](https://www.iyeslogo.com/who-kill-old-designers/) | 设计行业普遍存在35岁以上设计师稀少的现象，这并非个人能力问题，而是商业逻辑下的必然结果。 |
-| 2026-05-23 | [我的车](https://hux.ink/posts/easy-go/) | 五月还没过完，在 A 股这个修罗场，不变的是焦虑和持续的追涨杀跌。 突发奇想，把五月份每日的持仓盈亏换算对应成汽车热销榜上的那些车型，看看分别是提回来或者送出去什么车。把这些折磨心神的数字，变成一张“五月车市对账单”。 交易日期 当日盈亏 (元) 盈亏属性 对应 2026 销量榜车型 心理活动复盘… |
-| 2026-05-23 | [我的车](https://hux.ink/posts/%E6%88%91%E7%9A%84%E8%BD%A6/) | 五月还没过完，在 A 股这个修罗场，不变的是焦虑和持续的追涨杀跌。 突发奇想，把五月份每日的持仓盈亏换算对应成汽车热销榜上的那些车型，看看分别是提回来或者送出去什么车。把这些折磨心神的数字，变成一张“五月车市对账单”。 交易日期 当日盈亏 (元) 盈亏属性 对应 2026 销量榜车型 心理活动复盘… |
-| 2026-05-23 | [妈妈的问候](https://kaix.in/2026/0523/) | 我时常庆幸自己还不必为父母的健康担忧；但是昨天去我妈家的时候，她问我「你身体还好吧」的时候，我一时语塞。随即意识到：健康问题肯定已经在她的生活中占很大比重，而我自己也到了需要被这样关心的年纪了。人的身体真是个累赘，但也是这个累赘让人与世界连结。 fin. 激赏 ！ 来信 。 |
-| 2026-05-23 | [小丑](https://mobius.blog/24283.html) | 人们总是喜欢嘲笑跳梁小丑， 可他跳过了梁， 却有一群观众为他鼓掌。 他在嘲笑跳梁小丑时， 但他跳不过梁， 却渴 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-23 | [Pensieve: 2605](https://xiaket.github.io/2026/pensieve-2605.html) | 所读所观所玩 |
-| 2026-05-23 | [Implementing Dual-Partition Sysupgrade for the 360V6 Router on OpenWrt](https://blog.qzydustin.com/posts/implementing-dual-partition-sysupgrade-360v6-openwrt/) | The 360V6 ships with an A/B dual-partition design, but after flashing OpenWrt, sysupgrade only writes to the current partition while OEM remnants on t… |
-| 2026-05-23 | [Rescuing a Bricked 360T7 Router via UART After a DDR3 RAM Upgrade](https://blog.qzydustin.com/posts/rescuing-bricked-360t7-uart-after-ddr3-ram-upgrade/) | A memory-modded 360T7 ran fine for years until I flashed OpenWrt's bl2 and fip, which bricked it with dram size: 0MB . Every rescue package found onli… |
-| 2026-05-23 | [月刊（第35期）：我和 Claude 老师 Vibe Coding 的周末](https://ursb.me/posts/weekly-35/) | 本篇是对二〇二六年四月至五月的记录与思考。 周末的 Vibe Coding 最近一个月疯狂 VIBE，一共花了 Claude Code 257 亿 Token： 这些 Token 基本都是在 6 个周末消耗的，因为也只有周末有时间瞎搞（不然一个 20x 的号只够我用 3 天的）。 我一般会启 7 个… |
-| 2026-05-23 | [只索引10个网站的搜索引擎](https://nc.gy/posts/search-engine-for-10-sites/) | 要解答技术问题，一个搜索引擎只需要收录以下这10个网站。Reddit、Stack Overflow、Stack Exchange、Hacker News、GitHub、Wikipedia、YouTube 中文社区：V2EX、NodeSeek、Hostloc 以上至少是对我来说能解决大部分技术问题的网… |
 
 ## Vibe Coding
 
