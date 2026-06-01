@@ -1,0 +1,289 @@
+[
+  {
+    "title": "Zine#50 - 博客宣言、AI 對个人网站的冲击、not be a prick",
+    "url": "https://taxodium.ink/50.html",
+    "date": "2026-06-01T03:30:00Z",
+    "description": "Zine#50 博客宣言、AI 對个人网站的冲击、not be a prick 🎵 Summer - 久石譲 图1 《Kikujiro (Original Motion Picture Soundtrack)》専輯封面 儿童節快樂 σ(´∀｀) News | Article Web Weekly #193 by Stefan Judis 前阵子，一個關注的博客清空了网站上的內容， 宣布暂时离线 ，原因是收入缩减以及 AI 抓取导致的托管成本增加。 Web Weekly 的作者也观察到他的网站流量一直在下降，人們更多地在聊天框里获取信息，越來越少人訪問网站本身，网絡上也越來越多充斥着 AI 生成的內容。像是 Google 這樣的公司還計畫 减少搜索頁的鏈接，替換成一个聊天框 ，进一步惡化了現状。 我的博客目前倒是影响不大，本來流量也不多，AI 似乎也没怎么爬我的网站，如果因為 AI 爬取导致維护成本很高，到時再想辦法應對。可以預想的是，未來博客会越來越难曝光，更难收获到新的讀者。還是会繼續寫的，有人看固然重要，也開心，但寫博客也不仅是為了給讀者看，整理思緒、搗鼓格式和樣式也是喜歡的。 像",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "实现了一套Linux下快速查词/翻译句子的工作流-linux-quick-translate",
+    "url": "https://hellodk.cn/post/1223",
+    "date": "2026-06-01T02:25:05Z",
+    "description": "GitHub 地址：https://github.com/hellodk34/linux-quick-translate在 Linux 桌面环境快速查词/翻译句子，绑定系统全局快捷键。支持各种 ...",
+    "source_root_domain": "hellodk.cn"
+  },
+  {
+    "title": "开发了一个基于和风天气 API 的 Android 天气应用",
+    "url": "https://hellodk.cn/post/1222",
+    "date": "2026-06-01T02:06:31Z",
+    "description": "使用截图介绍请看 GitHub，这里懒得再写一遍了。地址 https://github.com/hellodk34/checkitoutweatherandroid",
+    "source_root_domain": "hellodk.cn"
+  },
+  {
+    "title": "从衣冠南渡到下南洋：潮汕人的信仰",
+    "url": "https://sinyalee.com/blog/?p=1131",
+    "date": "2026-06-01T01:38:30Z",
+    "description": "有很多东西，很多潮汕人、闽南人、广府人，尤其是上一代，都是懂的，但是很少人写下来。我是潮汕人，但是闽南人、广府 […]",
+    "source_root_domain": "sinyalee.com"
+  },
+  {
+    "title": "咖啡厅里的绝对领域",
+    "url": "https://mobius.blog/24381.html",
+    "date": "2026-06-01T00:55:00Z",
+    "description": "在咖啡厅我很喜欢坐在那种长条的桌台区，一方面是因为这里可以观察到不同人，也因为我在这个区域只会占据“最小单位” […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Memos #2026-05-31",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-06-01T00:00:00Z",
+    "description": "18:42 长沙三日游愉快结束。 19:17 补一张《给阿嬷的情书》，好看！ 东亚（中国和日本）导演很会写那些羁绊或误会而改变了人们，持续了一辈子的故事，我很吃这一套。",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "稻草人周刊 Vol.83",
+    "url": "https://www.geedea.pro/weekly/83/",
+    "date": "2026-05-31T23:39:48Z",
+    "description": "我感到自己最近一直处于应激状态，随时准备和世界反目成仇、大干一场，这种状态大概是不适合做任何人生决策的，我在想应该调整调整心态，或许暑假该出去走走，也暂时把找实习的事情放一放。写作也有帮助，至少我在写词源学系列的时候心无旁骛，感到开心。 止语 the cure Olivia Rodrigo NeoDB But my head is full of poison, and my heart is full of doubt I got toxins in my bloodstream, you tried hard to suck ’em out And it feels like medication, and it’s good for me, I’m sure But it don’t matter how your love feels anymore It’ll never be the cure 连接 系统之乏与特异之悦 📜 The Blandness of Systematic Rules vs. The Delight of Localized Sensitivity M",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Chris Sawyer's Locomotion updated",
+    "url": "https://macsourceports.com/game/locomotion",
+    "date": "2026-05-31T23:05:09Z",
+    "description": "The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version v26.05 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Jazz Jackrabbit 2 updated",
+    "url": "https://macsourceports.com/game/jazzjackrabbit2",
+    "date": "2026-05-31T23:00:30Z",
+    "description": "The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.6.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "我给16岁女儿整理了一份（北美）安全驾驶指南",
+    "url": "https://diff.im/blog/2026/05/%E6%88%91%E7%BB%9916%E5%B2%81%E5%A5%B3%E5%84%BF%E6%95%B4%E7%90%86%E4%BA%86%E4%B8%80%E4%BB%BD%E5%8C%97%E7%BE%8E%E5%AE%89%E5%85%A8%E9%A9%BE%E9%A9%B6%E6%8C%87%E5%8D%97/",
+    "date": "2026-05-31T22:58:21Z",
+    "description": "上周和一位教会弟兄闲聊时，他提到教会里的年轻人开车，几乎每个人都“撞飞”过一辆车。这个“撞飞”当然有点夸张，意思是说，几乎每个孩子都遇到过事故，而且可能还是比较严重的事故。 我的女儿 16 岁，已经通过了笔试，目前正在和我学开车。如果顺利的话，年底可能就能正式上路。我之前和她聊过一些安全驾驶的知识，也一直想把这些点点滴滴的经验整理出来，但一直拖着没写。 听到那位弟兄说起现在年轻人开车面临的挑战以后，我想， 还是应该尽快把这份指南写出来 ，于是有了今天这篇文章。 简单介绍一下我的背景：我 2017 年拿到驾照，在中国开过大概 10 万公里左右。我开过比较遵守规则的城市，比如上海、杭州，也开过比较狂野的地方，比如长沙、云南。 2022 年移民美国以后，我在美国重新考了驾照。这里的驾驶理念和规则与中国有很大不同。到目前为止，我在这里也开了将近 10 万公里。很多人都知道美国人开车很快，但即使速度快，我依然觉得在这里开车比较舒服。 我的开车记录还不错，从来没有发生过事故。无论是追尾、撞到别人，还是别人撞到我，这类事故都没有发生过。当然，我也不应该自夸，我相信这是上帝的保守。其实， 很多次我都是",
+    "source_root_domain": "diff.im"
+  },
+  {
+    "title": "伯明翰桌游展 UK GAMES EX PO",
+    "url": "https://anotherdayu.com/ukboardgame/",
+    "date": "2026-05-31T20:24:00Z",
+    "description": "昨天和朋友 Jordan 去了伯明翰的大型桌游展 UK GAMES EX PO（UKGE） 。现场规模比我想象中还要大，有桌游、战棋、跑团、卡牌、周边、试玩区和各种活动摊位，非常热闹！ 追星 UKGE 是一个互动性很强的展会，现场有很多小型桌游比赛、设计师见面会、新作试玩和体验活动。 先是见到了 Shut Up & Sit Down 的前核心成员 Quintin Smith，也就是大家常说的 Quinns。他现在把主要精力转到了自己的新频道 Quinns Quest ，更多关注 TTRPG 和独立角色扮演游戏。 SU&SD 的其他核心成员 Matt 和 Tom！ BURGLE BROS 系列和 FUGITIVE 的设计师 TIM FOWERS！在现场尝试了新出的 Burgle Bros 3，增加了许多有趣的机制。他的游戏都比较小巧，但主题和风格明确，很有创意。 购物 这次在桌游展买了三款桌游。 第一款是《七大奇迹：对决》的指环王版本——《指环王：中土对决》。它保留了双人对决的紧张感，同时加入了地图争夺、魔戒任务和阵营对抗三种获胜路线，很有《指环王》原著的代入感。 注意到设计师团队里有 ",
+    "source_root_domain": "anotherdayu.com"
+  },
+  {
+    "title": "个人博客，最后的自留地",
+    "url": "http://www.5had0w.com/posts/6a9a5db9.html",
+    "date": "2026-05-31T16:45:29Z",
+    "description": "在 AI 盛行的今天，网上到处充斥着 AI 制造的产物。 AI 写代码、AI 生成音视频、AI 写文章写小说。 如果说还有哪里没沾染太多 AI 的气息的话，我觉得只有个人博客了。 当然，我没有排斥 AI 的意思。其实说实话，我认为，",
+    "source_root_domain": "5had0w.com"
+  },
+  {
+    "title": "Win安装choco包管理器",
+    "url": "https://blog.wo0ow.com/47497.html",
+    "date": "2026-05-31T14:52:20Z",
+    "description": "参考博客 安装choco包管理器 需要以 管理员身份 打开PowerShel",
+    "source_root_domain": "wo0ow.com"
+  },
+  {
+    "title": "那些我周末喜欢做的事情",
+    "url": "https://blog.solazy.me/20260531/",
+    "date": "2026-05-31T14:00:00Z",
+    "description": "今天写一篇抽象的流水账",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "安宁",
+    "url": "https://z.arlmy.me/posts/Poems/2026/20260525_AnNing/",
+    "date": "2026-05-31T13:53:27Z",
+    "description": "「安宁。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Toots 421 2026 May.24 - May.30",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260530/",
+    "date": "2026-05-31T13:22:27Z",
+    "description": "「远山暗影。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "五月日记",
+    "url": "https://cbvivi.today/260531",
+    "date": "2026-05-31T13:11:26Z",
+    "description": "博客恢复了，发一些五月写在mynd里的日记，纪念上线两个月。 5/2（周日） 去前滩看文森特公司做的喜剧演出。 现场男观众比例低到惊人。 文森特在群内提醒，这个演出真的很狂热，你们做好心理准备。 剧场的大屏幕滚动播放全屏的演出海报、群聊加入方式和演出不能拍照和摄像的提示，大家熟练地举起票根和物料，跟海报合照。 坐我们旁边的女生来得晚一些，自拍完两轮后，她拍拍前排观众，礼貌提问想借卡片来拍照。对方把手里的卡片递给她，另一位又从包里掏出一袋新的。 「这个送给你。」 「谢谢，我爱你...... READ MORE",
+    "source_root_domain": "cbvivi.today"
+  },
+  {
+    "title": "Codex 治好了我的博客不能被 VXNA 抓取的毛病",
+    "url": "https://www.tortorse.com/archives/vxna-rss-cloudflare-codex-debugging/",
+    "date": "2026-05-31T12:56:55Z",
+    "description": "今年 3 月，我发现一件怪事：我的博客明明更新了，但 V2EX 的 VXNA 里一直没有新文章。",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "那里",
+    "url": "https://z.arlmy.me/posts/Poems/2026/20260517_NaLi/",
+    "date": "2026-05-31T11:26:27Z",
+    "description": "「那里。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "J 的并不漫长也不悠闲假期（一）",
+    "url": "https://www.justzht.com/j-s-not-so-leisure-vacation-pt-one/",
+    "date": "2026-05-31T08:31:53Z",
+    "description": "没有人喜欢旅途。对于大部分人来说，旅途是旅行中最无聊的一部份，可能是过夜的卧铺火车，和陌生人同处一件",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "比特币社区在讨论的抗量子计算是怎么回事",
+    "url": "https://smallyu.net/2026/05/31/%E6%AF%94%E7%89%B9%E5%B8%81%E7%A4%BE%E5%8C%BA%E5%9C%A8%E8%AE%A8%E8%AE%BA%E7%9A%84%E6%8A%97%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B/",
+    "date": "2026-05-31T08:15:55Z",
+    "description": "引用框里的内容都是 Gemini 生成的。我也不太喜欢这种大量 AI 生成内容的文章，但是很多专业名词和数据又依赖于 AI 给出的数据。所以还是以分享和整理信息为主吧。 <a href=\"#生成式-AI\"",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "Vol.105 AI分化：王小川押注医疗，何小鹏转机器人，Anthropic推动态Agent工作流",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-105",
+    "date": "2026-05-31T08:00:00Z",
+    "description": "本期内容聚焦AI行业分化：王小川转向医疗AI，何小鹏重塑为物理AI公司，Anthropic推出Opus 4.8及动态工作流，并探讨Agent安全、AI成本高企下的商业模式变革与组织革命。",
+    "source_root_domain": "liduos.com"
+  },
+  {
+    "title": "从提示词到个人资产，我如何用 Git 跨设备管理私有 Skill",
+    "url": "https://shiquda.link/private-skill-git-cross-device/",
+    "date": "2026-05-31T05:54:31Z",
+    "description": "从提示词到个人资产，我如何用 Git 跨设备管理私有 Skill 最近我在折腾一件小事：把自己散落在不同 Agent 里的 Skill 管起来。一开始我也觉得这事没那么重要，无非就是几个 SKILL.md ，里面写一些说明、流程和工具调用方式。可用得多了以后，我越来越觉得，Skill 不应该只被当成「提示词文件」看，它更像是一种个人资产，尤其是私有 Skill。 公开 Skill 当然有价值。比如处理 PDF、读写表格、调用浏览器、做部署检查，这些都是很多人都会遇到的问题。社区把这些能力做成 Skill，大家拿来即用，这是生态的价值。 但我自己的判断是： 真正更值得长期维护的，往往是私有 Skill 。 原因也很简单。公开 Skill 解决的是「大家都会遇到的问题」，私有 Skill 解决的是「我反复遇到的问题」。前者是通用能力，后者是我的工作方式、判断标准和认知习惯。 换句话说，公开 Skill 更像工具箱里的通用工具，私有 Skill 更像我自己的工作流说明书。 这篇文章想分享的，就是我现在用的一套轻量方案：不用部署服务器，只用 Git 加本地 CLI。上行用我自己写的 skill",
+    "source_root_domain": "shiquda.link"
+  },
+  {
+    "title": "祈愿词",
+    "url": "https://www.hecaitou.com/2026/05/prayer-of-aspiration.html",
+    "date": "2026-05-31T05:13:52Z",
+    "description": "成为人极不容易，世界上有那么多生命，却没有人的心智和头脑，仅只是凭借本能驱使活着。 作为人极不容易，世界上有那么多不幸，生活中有那么多烦扰，内心终日饱受各种情绪和想法的折磨。 作为自己极不容易，人通常很难和自己单独相处，相处时又难以面对，面对时又很难认清自己。因此总是处于随波逐流的状态，既不自由，也不自在，感觉不满意却又找不到原因，时常想着要成为另外某个人，去到另外一处地方，过上另外一种人生。 因此，在今天这个特别的日子里，我祈愿所有人都能认清真正的自己，亲手为自己解绑，在自由中感受到自己并不缺乏，也无缺憾，而是如同今晚的满月一般天然圆满，于是有喜悦如泉水涌起。 为了得到这样的机会，我祈愿所有人身无病苦，心离烦忧。远离身心的两种苦，人才有可能坐下来，集中精神认真思考。凭借这种安定勿扰的状态，智慧会自行显现且运转，把人带入内心世界深处，安抚蜷缩于一角的灵魂。 为了达到身无病苦，心离烦忧，我祈愿所有人护持自己内心最细微的善念，让它得以成长，足以发展成为切实的善行。因为善行如此真实地反哺内心，善念如此有力地改变心态，于是身心会变得柔软起来，对于病会有更强的抵御力，对痛会有更大的承受力，对于各",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Elon Musk 五步工作法",
+    "url": "https://blog.est.im/2026/stdin-15",
+    "date": "2026-05-31T03:56:00Z",
+    "description": "The five-step process: First, make your requirements less dumb . Your requirements are definitely dumb. It does not matter who gave them to you. In fact, it's particularly dangerous if a smart person gave you the requirements, because you might not question them enough. Everyone is wrong some of the time, no matter who you are. So the first step is to make your requirements less dumb. Second, try very hard to delete the part or process . This is extremely important. If you're not occasionally ad",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "AI 编程不到一年，工具切了3轮。行业变革很残酷，但很好玩。",
+    "url": "https://diff.im/blog/2026/05/ai-%E7%BC%96%E7%A8%8B%E4%B8%8D%E5%88%B0%E4%B8%80%E5%B9%B4%E5%B7%A5%E5%85%B7%E5%88%87%E4%BA%863%E8%BD%AE%E8%A1%8C%E4%B8%9A%E5%8F%98%E9%9D%A9%E5%BE%88%E6%AE%8B%E9%85%B7%E4%BD%86%E5%BE%88%E5%A5%BD%E7%8E%A9/",
+    "date": "2026-05-31T00:51:09Z",
+    "description": "从Cursor 转到 Terminal 我最早用 Cursor，大概两个月前转到 Terminal（用 iTerm2）。现在，我又逐渐从 iTerm2 转到 Codex 和 Claude Code 的官方 App。 一开始从 Cursor 转到 iTerm2，是因为我发现，Cursor 的界面虽然有更好的交互和视觉体验，特别是对设计师来说，看起来更精致， 但只要跨过 Terminal 那种“代码恐慌”的感觉，Terminal 反而更单纯，界面也更简单。 所谓单纯，是因为 Terminal 里面没有太多显性的界面配置和选项菜单。从用户直觉来说，它几乎只有一个动作：输入。这一点我非常喜欢。 另外，Terminal 很适合同时开多个窗口。一个屏幕里可以并排放几个 Terminal，也可以开多个 Tab。 因为界面足够简单，你不会有太多心理压力。 开 5 个 Tab，无非就是多了 5 个输入窗口，体验反而是轻松的。 从 Terminal 转 Codex/Claude App 后来我又从 Terminal 转到 Codex 和 Claude Code 的官方 App。 很重要的原因是，官方 Ap",
+    "source_root_domain": "diff.im"
+  },
+  {
+    "title": "五月杂思",
+    "url": "https://coderfee.com/blog/2026-05-31/",
+    "date": "2026-05-31T00:00:00Z",
+    "description": "五月三十一天，每天都回答了一个问题。那些答案拼起来，比我刻意写的任何东西都更像我。",
+    "source_root_domain": "coderfee.com"
+  },
+  {
+    "title": "周末流水账 0530",
+    "url": "https://blog.solazy.me/20260530/",
+    "date": "2026-05-30T15:00:00Z",
+    "description": "今天是一个安排的很慢的周六！",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "永烁星光之地",
+    "url": "https://brain-zhang.github.io/blog/2026/05/30/yong-shuo-xing-guang-zhi-di/",
+    "date": "2026-05-30T12:20:13Z",
+    "description": "两年前，ChatGPT3.5的时代，我尝试用它创作小说，那个时候还很稚嫩；但我知道，他会飞速的进化，直到有一天，他会媲美中上水平的人类作家； 今天，它的能力已经接近人类了；我很轻松的用AI创作了多部百万字以上的大部头；唯一让我烦恼的是：没有平台接受这种一天成百上千部的创作机器人，我也没有那么多的矩阵账号，我只能一章一章的每天发布一些章节。。。 下面，是我一直想要创作的一部短篇集，关于未来的Blockchain， AI时代的一些小故事, 仅仅花费了几分钟，以及不到一元钱: 《永烁星光之地》 - 独立且关联的去中心化未来社会描写 第1章 [HAPPY 无人机] 霓虹主星废料场的风裹着铁锈和腐烂蛋白质的气味，像黏稠的舌头舔过每一寸裸露的金属表面。Happy蜷缩在两块坍塌的太阳能板夹缝里，六枚旋翼叶片收拢成防御姿态，主摄像头缩进防护罩三分之一深度——这是它进入深度待机状态前的标准节能动作，但光学传感器仍然以每秒一次的频率扫描附近三米内的热源信号。 子钱包里的余额又要见底了。 它用第一层协议的原生语言在心里快速清算了一遍账目：0.004% W%的世界财富，放在链上等价于十七万笔微额UTXO交易积",
+    "source_root_domain": "brainz.fun"
+  },
+  {
+    "title": "生命可以轮回，高考只有一次——当然还可以复读",
+    "url": "https://mobius.blog/24525.html",
+    "date": "2026-05-30T12:14:57Z",
+    "description": "Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候，就可以分类整理成册。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Playlet：DLNA听歌神器 免安装app播放NAS里的歌",
+    "url": "https://blog.est.im/2026/stdout-21",
+    "date": "2026-05-30T12:03:08Z",
+    "description": "家里有个小 NAS 。里面存了一些歌。一半是用 NAS 自带的 app 听，一半是。。。SMB 共享打开听 虽然 NAS 也提供 DLNA ，一直以来找不到趁手 app ，要么收费，要么 bug 多，要么不能多端。 13年前我也想 基于 chrome.socket 做个 Chrome App 弄个类似的。结果这破玩意实现有问题， 多连接会导致 hang 。最后 2020年Chromium决定杀死 Chrome Apps 周六的时候，实在无聊，决定又开始搓轮子。在思考 SSDP/UPnP ，native UI, electron，命令行这些选型的时候，突然想到，DLNA服本来就要提供一个http，自己再造个 http 客户端去通信，岂不是多此一举？只要依托它，解决跨域……等等，用个 bookmarklet 不就行了？当页调用 fetch() ，走 SOAP 协议，完美。 所以这就有了，网页版听歌的。不需要安装 app ，只需要一个浏览器书签 https://est.github.io/playlet/ 也需要你对网络、DLNA 的亿点点知识。比如你得自己想办法找出 DLNA 的 IP 和",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "丽水遂昌｜三个人，自驾五天，花费1800元，总结推荐",
+    "url": "https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-summary.html",
+    "date": "2026-05-30T11:11:39Z",
+    "description": "",
+    "source_root_domain": "ops-coffee.cn"
+  },
+  {
+    "title": "当人们不再问好",
+    "url": "https://www.geedea.pro/article/phone-hello/",
+    "date": "2026-05-30T10:12:58Z",
+    "description": "去年买了本法语童书作为阅读材料（后来发现即便是儿童读物，对我来说也有些难度，便闲置了），主角的爸爸在打电话时说了 allô 这个词。当时我以为是什么时髦的打招呼俚语，跟英语里的 sup （What’s sup?）一样，但查阅后才得知这是专门的电话用语，面对面打招呼时不说 allô 。 正巧，最近在重温《生活大爆炸》的时候，听 Sheldon 说电话的发明者 Alexander Graham Bell（后文称作贝尔）希望人们在打电话的时候用 Ahoy! 打招呼。 据我所知，如今英语使用者更倾向于说 Hello ，并没有为打电话这个场景选择单独的打招呼用词。而汉语使用者倒是很少在电话以外的场景用「喂」打招呼，就算有，语调也完全不同。电话上的「喂？」带有疑问语气，是上扬的，用于询问和测试连线是否正常，而面对面交流的「喂！」则是下沉的，一般是为了引起注意而使用。这么说来，汉语也有专门的电话打招呼用语。 我闻到了《猫头鹰化石》的味道。 Ho, the ship ahoy! Ahoy! 并不是贝尔生造的词，如果你看过一些海盗电影，或者在一些影视作品里注意过水手们说的话（抑或是某些角色戏仿水手或海盗",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "0419 御温泉之旅",
+    "url": "https://ssshooter.com/zhuhai-imperial-hotspring/",
+    "date": "2026-05-30T08:05:33Z",
+    "description": "分享珠海御温泉度假村的真实体验，长盛庄复式日式房型测评、24小时温泉无限泡、超大庙会自助餐攻略，适合周末短途度假参考。",
+    "source_root_domain": "ssshooter.com"
+  },
+  {
+    "title": "不要轻易得罪天蝎座",
+    "url": "https://www.hecaitou.com/2026/05/think-twice-before-crossing-a-scorpio.html",
+    "date": "2026-05-30T04:00:50Z",
+    "description": "天蝎座记仇，这是举世皆知的公理。天蝎座傲娇，这是不言自明的真理。关于这两件事，我记得有个非常棒的段子： 分手十年，再无任何联系，女孩却在新婚前夜突然收到前天蝎男友发来的短信：「你现在知道自己错了吗？」 今天早上我本来正在写文章，但不知道系统抽什么风，提醒我一篇 10 年前的文章多了一条读者留言。打开一看，并没有新留言，谁会在时隔 10 年之后去专门回复电影《 长城 》的一篇的观后感呢？然后，我注意到文章的最后一条留言，人已经取关我，但是留言还在。于是我立即回复了一条： 这位曾经的读者留言说：「这影评真蠢啊，根本就没认真研究这部电影，纯粹只是凭着一时主观感受抱怨了一通」。9 年后的今天，我回复说：「快十年过去了，确定是烂片了吗？潍坊人？」。 我是真的很好奇，真的想知道这位读者现在是什么想法。对于任何人而言，十年都是生命中很长的一段。在经过了十年之后，我想知道他现在是否还坚持认为应该「认真研究」商业大片，也想知道在十年间他是否还在坚持运用「客观观察」。以及，他在今天是否依然认为《长城》是一部好电影？ 读者和作者之间的地位不对等，这体现在两方面。一方面是作者可以决定放出什么留言，决定回复什么",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "菜场到底是靠谁活下来的",
+    "url": "https://www.tortorse.com/archives/wet-market-weekend-observation/",
+    "date": "2026-05-30T03:23:48Z",
+    "description": "周末孩子去上补习班，我正好在附近等他，就顺路去菜场买了一趟菜。",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "日本关西系列｜Day 6 白滨之行（下篇）",
+    "url": "https://blog.yasking.org/a/series-kansai-travel-day6.html",
+    "date": "2026-05-30T02:23:37Z",
+    "description": "在白滨的第二天，还好晚上还住在这边，所以还有一整天的时间游玩。 早上到 Seamore 一层的面包店买了面包吃，休息区几乎没什 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "日本关西系列｜Day 5 白滨之行（上篇）",
+    "url": "https://blog.yasking.org/a/series-kansai-travel-day5.html",
+    "date": "2026-05-30T02:23:26Z",
+    "description": "早起，没睡懒觉。 今日的行程是坐巴士到白滨度过在大阪的最后两天旅程，昨天住宿的地方离 OCAT 汽车站比较近，在 FamilyMart 吃了两 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "日本关西系列｜白滨明光巴士购票与乘坐（MEIKO BUS）",
+    "url": "https://blog.yasking.org/a/osaka-shirahama-meiko-bus.html",
+    "date": "2026-05-30T02:12:41Z",
+    "description": "明光巴士日票 我这次行程只坐了两三次公交车，没有购买巴士日票，不过也记录下整理出来的攻略： 下载 “Japan Transit Planner” 应用（红色 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "邸报 v0.1.0：一个很旧的东西新生了",
+    "url": "https://1q43.blog/post/12489/",
+    "date": "2026-05-30T01:30:54Z",
+    "description": "这篇博客的内容十分简单：你可以安装邸报了。",
+    "source_root_domain": "1q43.blog"
+  },
+  {
+    "title": "一个人做产品：我终于把那个产品做出来了",
+    "url": "https://www.tortorse.com/archives/i-finally-made-my-bookshelf/",
+    "date": "2026-05-30T01:04:10Z",
+    "description": "我之前写过一篇 《一个人做产品：提出想法》 ，里面说到一个很具体的问题：我买书买重了。",
+    "source_root_domain": "tortorse.com"
+  }
+]

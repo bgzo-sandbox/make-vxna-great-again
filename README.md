@@ -27,6 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-01 | [Zine#50 - 博客宣言、AI 對个人网站的冲击、not be a prick](https://taxodium.ink/50.html) | Zine#50 博客宣言、AI 對个人网站的冲击、not be a prick 🎵 Summer - 久石譲 图1 《Kikujiro (Original Motion Picture Soundtrack)》専輯封面 儿童節快樂 σ(´∀｀) News &#124; Article Web Weekly #… |
+| 2026-06-01 | [实现了一套Linux下快速查词/翻译句子的工作流-linux-quick-translate](https://hellodk.cn/post/1223) | GitHub 地址：https://github.com/hellodk34/linux-quick-translate在 Linux 桌面环境快速查词/翻译句子，绑定系统全局快捷键。支持各种 ... |
+| 2026-06-01 | [开发了一个基于和风天气 API 的 Android 天气应用](https://hellodk.cn/post/1222) | 使用截图介绍请看 GitHub，这里懒得再写一遍了。地址 https://github.com/hellodk34/checkitoutweatherandroid |
+| 2026-06-01 | [从衣冠南渡到下南洋：潮汕人的信仰](https://sinyalee.com/blog/?p=1131) | 有很多东西，很多潮汕人、闽南人、广府人，尤其是上一代，都是懂的，但是很少人写下来。我是潮汕人，但是闽南人、广府 […] |
+| 2026-06-01 | [咖啡厅里的绝对领域](https://mobius.blog/24381.html) | 在咖啡厅我很喜欢坐在那种长条的桌台区，一方面是因为这里可以观察到不同人，也因为我在这个区域只会占据“最小单位” […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-01 | [Memos #2026-05-31](https://www.taober.blog/memos) | 18:42 长沙三日游愉快结束。 19:17 补一张《给阿嬷的情书》，好看！ 东亚（中国和日本）导演很会写那些羁绊或误会而改变了人们，持续了一辈子的故事，我很吃这一套。 |
+| 2026-05-31 | [稻草人周刊 Vol.83](https://www.geedea.pro/weekly/83/) | 我感到自己最近一直处于应激状态，随时准备和世界反目成仇、大干一场，这种状态大概是不适合做任何人生决策的，我在想应该调整调整心态，或许暑假该出去走走，也暂时把找实习的事情放一放。写作也有帮助，至少我在写词源学系列的时候心无旁骛，感到开心。 止语 the cure Olivia Rodrigo NeoD… |
+| 2026-05-31 | [Chris Sawyer's Locomotion updated](https://macsourceports.com/game/locomotion) | The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version v26.05 of the project |
+| 2026-05-31 | [Jazz Jackrabbit 2 updated](https://macsourceports.com/game/jazzjackrabbit2) | The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.6.0 of the project |
 | 2026-05-31 | [我给16岁女儿整理了一份（北美）安全驾驶指南](https://diff.im/blog/2026/05/%E6%88%91%E7%BB%9916%E5%B2%81%E5%A5%B3%E5%84%BF%E6%95%B4%E7%90%86%E4%BA%86%E4%B8%80%E4%BB%BD%E5%8C%97%E7%BE%8E%E5%AE%89%E5%85%A8%E9%A9%BE%E9%A9%B6%E6%8C%87%E5%8D%97/) | 上周和一位教会弟兄闲聊时，他提到教会里的年轻人开车，几乎每个人都“撞飞”过一辆车。这个“撞飞”当然有点夸张，意思是说，几乎每个孩子都遇到过事故，而且可能还是比较严重的事故。 我的女儿 16 岁，已经通过了笔试，目前正在和我学开车。如果顺利的话，年底可能就能正式上路。我之前和她聊过一些安全驾驶的知识，… |
 | 2026-05-31 | [伯明翰桌游展 UK GAMES EX PO](https://anotherdayu.com/ukboardgame/) | 昨天和朋友 Jordan 去了伯明翰的大型桌游展 UK GAMES EX PO（UKGE） 。现场规模比我想象中还要大，有桌游、战棋、跑团、卡牌、周边、试玩区和各种活动摊位，非常热闹！ 追星 UKGE 是一个互动性很强的展会，现场有很多小型桌游比赛、设计师见面会、新作试玩和体验活动。 先是见到了 S… |
 | 2026-05-31 | [个人博客，最后的自留地](http://www.5had0w.com/posts/6a9a5db9.html) | 在 AI 盛行的今天，网上到处充斥着 AI 制造的产物。 AI 写代码、AI 生成音视频、AI 写文章写小说。 如果说还有哪里没沾染太多 AI 的气息的话，我觉得只有个人博客了。 当然，我没有排斥 AI 的意思。其实说实话，我认为， |
@@ -68,7 +77,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-29 | [日本小学语文课文（一年级上）](https://springwood.me/jp-elementary-school-language-1a/) | 中小学各科教材由多家不同出版社出版，各市自己选择其中一个版本。由于版权保护，官方不能提供电子版，网上也不会有人 [...] Read More "日本小学语文课文（一年级上）" |
 | 2026-05-29 | [人为什么总在切换赛道？](https://mobius.blog/24365.html) | 这是去年留下的“后话”，一直没有聊完，也是因为自己也在切换赛道。 所谓的「命」，本身也没有好坏之分，只是人们迫 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-29 | [科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 去年开放的浙江省安吉县的安吉文化艺术中心。当地盛产竹子，屋顶都采用竹叶造型。（ daemin_kg@ig… |
-| 2026-05-29 | [Memos #2026-05-28](https://www.taober.blog/memos) | 00:42 过去很多只能想想的事情，现在我已经做了，现在那些只能想想的事情？ 19:58 感受到龙族的魅力了，后知后觉的少年心气！ |
 | 2026-05-28 | [没有人毫发无损地长大](https://www.linggandianbo.com/newsletter-125/) | 从童年的权力痕迹、安全主义、演化的身体、买房真实成本，到照顾一株植物｜灵感电波 #125 |
 | 2026-05-28 | [学习周刊-总第265期-2026年第22周](https://wiki.eryajf.net/pages/ff83a5/) | 如要阅读全文，点击标题跳转。 学习周刊-总第265期 &#124; Better-Fullstack &#124; supacode &#124; lantor &#124; optimizerDuck &#124; openusage &#124; agentsview &#124; capcap |
 | 2026-05-28 | [朋友圈和公众号，要不要把父母屏蔽？](https://diff.im/blog/2026/05/%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%92%8C%E5%85%AC%E4%BC%97%E5%8F%B7%E8%A6%81%E4%B8%8D%E8%A6%81%E6%8A%8A%E7%88%B6%E6%AF%8D%E5%B1%8F%E8%94%BD/) | 01 我成长于长沙农村，高中开始在学校寄宿。虽然每周也会回家，但从高中到大学，回家的次数越来越少。 大学毕业以后，我离开家到外地工作，每年可能只回家一两次。成家以后，回家差不多就变成了一年一次。 从小我属于那种温和型的叛逆者。我不会和父母有正面冲突，也不会正面抵抗，但我的性格比较倔。很多时候，只要是… |
@@ -124,25 +132,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-25 | [稻草人周刊 Vol.82](https://www.geedea.pro/weekly/82/) | 这周我把堆积在书签里没读的文章翻出来读了，发现其中有不少已经是两三个月前发布的内容了，他们跟随着一次次书签管理器迁移漂泊了好久，终于在周刊里找到了归宿。 止语 I Hate It Here Taylor Swift I’m lonely, but I’m good I’m bitter, but I… |
 | 2026-05-25 | [人的贪婪，始于被给得太多？](https://mobius.blog/24201.html) | 不知道为什么，每次在咖啡厅码字的时候，好像写下的都是“坏世界”这个分类的文章——大概这是一个可以直接观察到“人 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-25 | [IP送中的解决办法](https://bojie.site/posts/2026-05-25/) | 使用 WARP 解决 Google 将 VPS IP 识别为中国大陆 IP |
-| 2026-05-24 | [环岛漫游 《Summer Pockets REFLECTION BLUE》 圣地巡礼之直岛](https://www.wikimoe.com/post/b-tfjh02hj) | 2026年5月6日，天气多云，今天将前往直岛，开启旅程的三周目。 关于直岛 直岛是位于日本濑户内海的香川县小岛，距离冈山县玉野市约3公里，以“艺术之岛”闻名；岛上既有白沙、青松、海湾与丘陵构成的宁静海景，也保留着渔村、港口和工业历史。自20世纪末以来，贝尼斯艺术场直岛等项目把当代艺术、安藤忠雄等建筑… |
-| 2026-05-24 | [低配服务器调优](https://blog.lhasa.icu/posts/technology/2026-05-25-low-end-server-tuning) | 一个月前，我在阿里云秒杀抢了台丐中丐，38元/年，2核 2G 40G 今天我在想它能不能作为饥荒的自建服务器，便着手收拾了起来 默认的系统是 Alibaba Cloud Linux，阿里过度定制化，不太适合我 索性直接用 Ubuntu 重装了系统。在编译博客时，再次遇到一个月前的性能问题，这里把调优… |
-| 2026-05-24 | [我把自己的审美变成了一套 Harness](https://blog.zopiya.com/wanxing-harness-3e4fce6a/) | 事情的开始很简单。 有天我突然意识到：在做过的所有设计里，让自己看着最舒服的，其实是同一种感觉。温柔的、克制的、文字优先的、留白比填满更有力量的。 |
-| 2026-05-24 | [Toots 420 2026 May.17 - May.23](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260523/) | 「被内在拉长。」 |
-| 2026-05-24 | [爱你老体](https://z.arlmy.me/posts/ZArlmyMe/ToMyBody_20260524/) | 「如果一开始就是错的，我们到底什么时候才会醒悟？」 |
-| 2026-05-24 | [Album#40 - 大城•小事](https://taxodium.ink/album-40.html) | Album#40 大城•小事 图1 《大城•小事》専輯封面 专辑信息 专辑名称： 大城•小事 歌手： 都市零件派对 年份： 2024-12-20 风格： 流行 时长： 約 22 分鍾 从 我的聲音旅程 &#124;&#124; 構成自己的 42 張專輯 翻到的一張専輯，喜歡主唱的聲音、歌曲的旋律，和聲也好聴。編曲聴着比… |
-| 2026-05-24 | [金陵三日快时光](https://yinji.org/nan-jing.html) | 前面忙完之后，调休了周四周五，本想周四和朋友徒步走完南昌梅岭之后直奔南京，却被天气预报耍了一通，梅岭没去成，在南昌闲逛一会之后，下午就坐高铁去了南京，开始了金陵三日快时光。 去南京其实也是临时起意，本想去广州找另一个同学，恰好看天气广州在下雨，便对着地图找距离合、天气合适的城市，最后选择了南京。 一… |
-| 2026-05-24 | [周末流水账 0524](https://blog.solazy.me/20260524/) | 换新手机咯！ |
-| 2026-05-24 | [AI Infra：Tacnode，面向 AI Agent 与实时自动化决策系统的 Context Lake](https://luweiqing.com/gossip/Tacnode-Context-Lake.html) | 1. 定位：Tacnode 是面向 AI Agent 与实时自动化决策系统的 Context Lake，用统一的数据与语义上下文层，替代传统“数据库 + 搜索 + 向量库 + 流处理”的拼接式架... |
-| 2026-05-24 | [死猫](https://mobius.blog/24352.html) | 刚才遛狗时，狗突然扯着绳子朝一个地方凑，我才发现一只侧躺在灌木里的猫，但已经死了。 小区有好几只眼熟的猫，靠附 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-24 | [学习周刊-总第264期-2026年第21周](https://wiki.eryajf.net/pages/1833b9/) | 如要阅读全文，点击标题跳转。 学习周刊-总第264期 &#124; pxcharts &#124; dinky &#124; next-admin &#124; worldmonitor &#124; dbpaw &#124; chartli &#124; oh-my-pi |
-| 2026-05-24 | [好玩，大数据杀熟](https://re.karlbaey.top/articles/rocky-road/big-swindling/) | 杀熟很常见，它有个更地道的称呼叫做“看人下菜碟”，但是互联网把这“人”，或者连人都不是，的范围扩得好宽好宽啊，甚至有时候 … |
-| 2026-05-24 | [Vol.104 自动化加速，人类专家价值飙升：AI Agent工程体系化与产业变革](https://liduos.com/weekly/the-weekly-gradient-104) | 本期内容聚焦AI自动化加速下人类专家价值上升的悖论，涵盖Gemini 3.5、Qwen3.7-Max等模型突破，Agent工程体系化（记忆、梦想、对抗式评估），以及AI原生创业与硬件趋势。 |
-| 2026-05-24 | [花费近万元，跑了8500km，我租车一年后的真实感受](https://www.qs5.org/Post/786.html) | 去年在论坛发过帖 不通勤, 用车不多, 可能租车比买车是更好的选择?最后想了想: 既然暂时也不打算买车, 不如先租一年试试看.于是,《十年老司机, 租车第一次上路感受, 另求行车记录仪推荐.》到... |
-| 2026-05-24 | [FastAdmin 使用备忘录](https://blog.196000.xyz/2026/2026-05-24-develop-fastadmin-handbook.html) | ```bash # @backend/.env [app] debug = true trace = false |
-| 2026-05-24 | [骑上 P10 去兜风](https://hux.ink/posts/first-ride-with-p10/) | 上周六去把大行 P10 拿下了，从计划买到下单间隔不到半个月，想买的东西拦不住，是时候又喊出三句箴言： 早买晚买早晚要买。 买了后悔三天，不买后悔三年。 四舍五入等于不要钱。 店里面有一辆已经换好轮组的新车，改装升级一对轮组约 2000 元左右，一开始想直接拿下。中秋同学在一旁说，要不先用原装轮子骑… |
-| 2026-05-24 | [一个极简且免费的 IP 地址查询服务](https://hzzio.top/blog/goip) | 一个基于 Merged-IP-Data 数据库，极简的 IP 地址查询服务，支持并发以及多语言、简化输出格式。 |
-| 2026-05-24 | [2026年第21周：等天晴](https://blog.sakoamc.com/posts/2621/) | 题记：突如其来的阵雨季。 |
-| 2026-05-24 | [独立游戏简评 Vol.5](https://bluepika.life/blog/indie-game-notes-5) | 以下提到的游戏里涉及解谜游戏，部分内容含有剧透。 |
 
 ## Vibe Coding
 
