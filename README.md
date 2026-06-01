@@ -27,7 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-01 | [Album#41 - 风筝飞了一整天](https://taxodium.ink/album-41.html) | Album#41 风筝飞了一整天 图1 《风筝飞了一整天》専輯封面 专辑信息 专辑名称：风筝飞了一整天 歌手：周欣韧 年份：2020-05-01 风格：Jazz 时长：約 40 分種 一張不錯的爵士鋼琴曲専輯，喜歡這張専輯封面，給人一種温暖柔和的感覚。 夏日，清澈深邃的蓝天，被阳光直射得有点刺眼的积… |
+| 2026-06-01 | [撕下道德的滤镜，直面人性的斑驳——《面纱》读后感](https://blog.hoopan.net/840.html) | 毛姆《面纱》以霍乱疫区为背景，剖析瓦尔特、凯蒂等角色人性裂痕，撕下道德滤镜，揭示欲望、虚伪与韧性，倡导灰度认知下的包容与生命体验。 |
+| 2026-06-01 | [加拿大东部 蒙特利尔、渥太华、多伦多 - 旅行随拍](https://blog.ensonyan.com/photographing/3386.html) | 上个月中旬，学期结束，我照常寻找旅游的目的地。与以往不同的是，这次我没有选择其他国家地区，而是决定在加拿大境内 […] |
 | 2026-06-01 | [Zine#50 - 博客宣言、AI 對个人网站的冲击、not be a prick](https://taxodium.ink/50.html) | Zine#50 博客宣言、AI 對个人网站的冲击、not be a prick 🎵 Summer - 久石譲 图1 《Kikujiro (Original Motion Picture Soundtrack)》専輯封面 儿童節快樂 σ(´∀｀) News &#124; Article Web Weekly #… |
+| 2026-06-01 | [被辞了，来的有点意外，但是在情理之中](https://blog.thetbw.xyz/archives/got-fired) | 事情发生在上周，上周五结束交接，现在就算是正式失业了。 本来也是在一直找工作的，不过也没咋积极，现在行情也的确不好找，之前还想着，要是刚好找到工作，公司又把我辞了，这是多好的一件美事呀，现在公司是把我辞了，就差一份还不错的工作过来了。 说起被公司辞退的原因，部门领导说是因为公司效益问题，我觉得其实这… |
 | 2026-06-01 | [实现了一套Linux下快速查词/翻译句子的工作流-linux-quick-translate](https://hellodk.cn/post/1223) | GitHub 地址：https://github.com/hellodk34/linux-quick-translate在 Linux 桌面环境快速查词/翻译句子，绑定系统全局快捷键。支持各种 ... |
 | 2026-06-01 | [开发了一个基于和风天气 API 的 Android 天气应用](https://hellodk.cn/post/1222) | 使用截图介绍请看 GitHub，这里懒得再写一遍了。地址 https://github.com/hellodk34/checkitoutweatherandroid |
 | 2026-06-01 | [从衣冠南渡到下南洋：潮汕人的信仰](https://sinyalee.com/blog/?p=1131) | 有很多东西，很多潮汕人、闽南人、广府人，尤其是上一代，都是懂的，但是很少人写下来。我是潮汕人，但是闽南人、广府 […] |
