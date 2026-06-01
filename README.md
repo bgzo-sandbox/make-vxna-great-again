@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-01 | [从打点酱油到袁朝发（2026-05-月度小结）](https://yuanchaofa.com/blog/2026-05-month-summary) | 不写月度总结会死吗？不会，但我知道再不写，我想说的话只会越攒越多，直到我自己都忘记了。以后发的文章、视频，署名都是"袁朝发"了 |
+| 2026-06-01 | [R#104 搬迁](https://blog.sakanano.moe/journals/random_104) | 2026.5.26 ~ 2026.6.1 |
+| 2026-06-01 | [美国政府是如何没收大量比特币的](https://brain-zhang.github.io/blog/2026/06/01/mei-guo-zheng-fu-shi-ru-he-mei-shou-da-liang-bi-te-bi-de/) | 每隔一段时间，就会有新闻，说美国政府没收了xxx的大量加密货币；而此类新闻对于如何没收的语焉不详；让很多不明真相的群众，认为比特币又又又被攻破了，什么去中心化并非真正的去中心化，美国政府想没收谁就没收谁…… 这里面最大的一个事件，应该是2025年10月，美国司法部以“打击跨国电诈洗钱”为名义，对柬埔… |
+| 2026-06-01 | [500 篇笔记喂给 AI 后知识开始发芽了](https://www.yunxicoding.top/post/think/500-notes-ai-knowledge/) | 最近在服务器上装了 Hermes Agent 它里面的 llm-wiki skill 引起了我的注意，当我将自己所有记录的笔记全部喂给了 llm-wiki 我发现事情开始变得不一样了。 初识 我们与 AI 交互的开始都源于一份小心试探的信任。当我把笔记上传到服务器，并告诉 Hermes Agent… |
+| 2026-06-01 | [放飞梦想](https://mobius.blog/24549.html) | 1275 &#124; 放飞梦想 一直不是很懂，为什么梦想这个名字要搭配的动词一定是“放飞”。要不是今天楼下在举办儿童节 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-01 | [Album#41 - 风筝飞了一整天](https://taxodium.ink/album-41.html) | Album#41 风筝飞了一整天 图1 《风筝飞了一整天》専輯封面 专辑信息 专辑名称：风筝飞了一整天 歌手：周欣韧 年份：2020-05-01 风格：Jazz 时长：約 40 分種 一張不錯的爵士鋼琴曲専輯，喜歡這張専輯封面，給人一種温暖柔和的感覚。 夏日，清澈深邃的蓝天，被阳光直射得有点刺眼的积… |
 | 2026-06-01 | [撕下道德的滤镜，直面人性的斑驳——《面纱》读后感](https://blog.hoopan.net/840.html) | 毛姆《面纱》以霍乱疫区为背景，剖析瓦尔特、凯蒂等角色人性裂痕，撕下道德滤镜，揭示欲望、虚伪与韧性，倡导灰度认知下的包容与生命体验。 |
 | 2026-06-01 | [加拿大东部 蒙特利尔、渥太华、多伦多 - 旅行随拍](https://blog.ensonyan.com/photographing/3386.html) | 上个月中旬，学期结束，我照常寻找旅游的目的地。与以往不同的是，这次我没有选择其他国家地区，而是决定在加拿大境内 […] |
@@ -58,6 +63,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-31 | [Elon Musk 五步工作法](https://blog.est.im/2026/stdin-15) | The five-step process: First, make your requirements less dumb . Your requirements are definitely dumb. It does not matter who gave them to you. In fa… |
 | 2026-05-31 | [AI 编程不到一年，工具切了3轮。行业变革很残酷，但很好玩。](https://diff.im/blog/2026/05/ai-%E7%BC%96%E7%A8%8B%E4%B8%8D%E5%88%B0%E4%B8%80%E5%B9%B4%E5%B7%A5%E5%85%B7%E5%88%87%E4%BA%863%E8%BD%AE%E8%A1%8C%E4%B8%9A%E5%8F%98%E9%9D%A9%E5%BE%88%E6%AE%8B%E9%85%B7%E4%BD%86%E5%BE%88%E5%A5%BD%E7%8E%A9/) | 从Cursor 转到 Terminal 我最早用 Cursor，大概两个月前转到 Terminal（用 iTerm2）。现在，我又逐渐从 iTerm2 转到 Codex 和 Claude Code 的官方 App。 一开始从 Cursor 转到 iTerm2，是因为我发现，Cursor 的界面虽然有… |
 | 2026-05-31 | [五月杂思](https://coderfee.com/blog/2026-05-31/) | 五月三十一天，每天都回答了一个问题。那些答案拼起来，比我刻意写的任何东西都更像我。 |
+| 2026-05-31 | [使用 AI 开发一个 Chrome 插件](https://blog.196000.xyz/2026/2026-05-31-develop-ai-chrome-plugin.html) | 使用 AI 开发一个 Chrome 插件 主要是整理整个操作的步骤，F12查看源码，找出关键的HTML控件代码，比如点击按钮、输入文本框等，然后提交给提示词让根据需求完成编码。 下面的是实现一个风控网站的助手插件，把历史搜索过的关键字先导出 csv 文件，然后逐行扫描根据关键字导出 PDF 结果文件… |
+| 2026-05-30 | [去深圳国际美术馆——艺术源于生活，是对生活的总结和升华](https://tianheg.co/posts/go-to-shenzhen-international-art-museum/) | 我发现自己在选择这种开拓眼界的活动时很随机，往往是在某处看到文章或者知道消息，觉得有意思就想去了。这次也是，我有时会看一下保利票务上有没有感兴趣的音乐剧或其它演出，周三那天很偶然，就看到了 深圳国际美术馆要办七大展览 的消息。想去看是因为最近总是高压的工作让我有些崩溃，想要感受些不一样的事物调节一下… |
 | 2026-05-30 | [周末流水账 0530](https://blog.solazy.me/20260530/) | 今天是一个安排的很慢的周六！ |
 | 2026-05-30 | [永烁星光之地](https://brain-zhang.github.io/blog/2026/05/30/yong-shuo-xing-guang-zhi-di/) | 两年前，ChatGPT3.5的时代，我尝试用它创作小说，那个时候还很稚嫩；但我知道，他会飞速的进化，直到有一天，他会媲美中上水平的人类作家； 今天，它的能力已经接近人类了；我很轻松的用AI创作了多部百万字以上的大部头；唯一让我烦恼的是：没有平台接受这种一天成百上千部的创作机器人，我也没有那么多的矩阵… |
 | 2026-05-30 | [生命可以轮回，高考只有一次——当然还可以复读](https://mobius.blog/24525.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候，就可以分类整理成册。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
