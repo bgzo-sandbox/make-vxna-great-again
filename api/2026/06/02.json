@@ -1,5 +1,40 @@
 [
   {
+    "title": "Trend of Agentic Coding Products",
+    "url": "https://laike9m.com/blog/agent-coding-trend,173/",
+    "date": "2026-06-02T06:50:18Z",
+    "description": "没有简介, 请去看原文吧",
+    "source_root_domain": "laike9m.com"
+  },
+  {
+    "title": "Flink 使用 Hutool 调用 Kubernetes Service 负载不均处理笔记",
+    "url": "https://199604.com/3569",
+    "date": "2026-06-02T03:52:53Z",
+    "description": "Flink 使用 Hutool 调用 Kubernetes Service 负载不均处理笔记 1. 处理背景与 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "Ambermoon updated",
+    "url": "https://macsourceports.com/game/ambermoon",
+    "date": "2026-06-02T03:47:58Z",
+    "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.13.3 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "来自儿童的重要一课",
+    "url": "https://www.hecaitou.com/2026/06/lessons-from-children.html",
+    "date": "2026-06-02T03:41:47Z",
+    "description": "每年儿童节的时候，有些读者就期待我专门为小朋友写一篇类似寄语那样的文章，搞得我还很年轻就有了强烈的人瑞感。何苦来呢？ 在每一天里，从早到晚都有太多人要对小朋友说太多话。你们看看小家伙他们的模样---火柴棍一样的细脖颈，顶着一个硕大的脑袋，摇零晃荡，不堪重负，为什么还要给他们增添负担：来，这里有一篇文章你好好听一下。 听了又如何呢？小朋友只是喜欢待在你身边，和你一起做点什么事，什么事都行，而不是真喜欢什么慈祥老爷爷的来信。 不需要我们这些成人给孩子太多东西去学习，相反的，我认为我们从孩子身上学习一些我们早已经遗忘了的课程。比如说：如何和无聊相处。这是每一个孩子都会的技能，他们在一天之中有大量的时间处于无聊状态，但是手头没有成人那些打发无聊的工具，所以只能生受。 时常看到一个孩子在沙堆里能玩一下午，蹲在墙角看蚂蚁又可以看一下午，又或者是吃饭睡觉洗澡手里都要攥着一个平凡无奇的玻璃球，甚至只是坐在椅子上凝视虚空发呆。孩童几乎是以本能找到了和无聊相处的方法---给自己找点什么事做，然后专注其中几个小时。再往后，就到了大人给自己安排各种事情的时候了。 成人没有这种本事。成人不能和无聊平静地相处，无",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Memos: 推荐安装 Codegraph 和 rtk 减少 Token 消耗",
+    "url": "https://blog.yasking.org/a/1780371062.html",
+    "date": "2026-06-02T03:38:00Z",
+    "description": "Codegraph 和 rtk ，前者通过静态分析构建代码调用关系图谱，解决 AI 在大项目中反复 grep/read 文件、难以理解项目结构和影响范围的问 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
     "title": "大连・五一三天旅程记录（2026）",
     "url": "https://blog.yasking.org/a/photos-dalian.html",
     "date": "2026-06-02T01:41:23Z",
@@ -12,6 +47,13 @@
     "date": "2026-06-02T00:55:00Z",
     "description": "每过一段时间，我就会把 AI 的话题阶段性聊一聊，在“坐标”里，我也专门拎出了“AI 会毁灭人类吗？”的专题， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "2026年第22周：给五月画上句点",
+    "url": "https://blog.sakoamc.com/posts/2622/",
+    "date": "2026-06-02T00:00:00Z",
+    "description": "题记：给五月画上句点、给上周一个交代。",
+    "source_root_domain": "sakoamc.com"
   },
   {
     "title": "OPC实践 & 不懂开发的独立开发者 - Week9",

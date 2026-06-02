@@ -27,8 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-02 | [Trend of Agentic Coding Products](https://laike9m.com/blog/agent-coding-trend,173/) | 没有简介, 请去看原文吧 |
+| 2026-06-02 | [Flink 使用 Hutool 调用 Kubernetes Service 负载不均处理笔记](https://199604.com/3569) | Flink 使用 Hutool 调用 Kubernetes Service 负载不均处理笔记 1. 处理背景与 […] |
+| 2026-06-02 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.3 of the project |
+| 2026-06-02 | [来自儿童的重要一课](https://www.hecaitou.com/2026/06/lessons-from-children.html) | 每年儿童节的时候，有些读者就期待我专门为小朋友写一篇类似寄语那样的文章，搞得我还很年轻就有了强烈的人瑞感。何苦来呢？ 在每一天里，从早到晚都有太多人要对小朋友说太多话。你们看看小家伙他们的模样---火柴棍一样的细脖颈，顶着一个硕大的脑袋，摇零晃荡，不堪重负，为什么还要给他们增添负担：来，这里有一篇文… |
+| 2026-06-02 | [Memos: 推荐安装 Codegraph 和 rtk 减少 Token 消耗](https://blog.yasking.org/a/1780371062.html) | Codegraph 和 rtk ，前者通过静态分析构建代码调用关系图谱，解决 AI 在大项目中反复 grep/read 文件、难以理解项目结构和影响范围的问 … |
 | 2026-06-02 | [大连・五一三天旅程记录（2026）](https://blog.yasking.org/a/photos-dalian.html) | 十几年前就听说大连市现代、干净，在北方城市是独一档的，五一没规划去远的地方，就临时起意去大连转转 妻子的姐姐、姐 … |
 | 2026-06-02 | [与 AI 如何保持“社交安全距离”？ I](https://mobius.blog/24395.html) | 每过一段时间，我就会把 AI 的话题阶段性聊一聊，在“坐标”里，我也专门拎出了“AI 会毁灭人类吗？”的专题， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-02 | [2026年第22周：给五月画上句点](https://blog.sakoamc.com/posts/2622/) | 题记：给五月画上句点、给上周一个交代。 |
 | 2026-06-01 | [OPC实践 & 不懂开发的独立开发者 - Week9](https://diff.im/blog/2026/06/opc%E5%AE%9E%E8%B7%B5-%E4%B8%8D%E6%87%82%E5%BC%80%E5%8F%91%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85-week9/) | MRR 目标：$1000.00 本周收入：$0 本周完成的几件事情 Cap4u 准备提交 App Store，95% 以上完成； Cap4u 产品网站设计； 公众号草稿文章自动化； Harness-coding 更新； 和女儿一起去钓鱼。 感受 有一点受挫 原本计划三周发布 MVP 的产品，现在到第… |
 | 2026-06-01 | [上手倉頡輸入法](https://taxodium.ink/get-started-with-cangjie-input-method.html) | 上手倉頡輸入法 最近在學倉頡輸入法，分享一下我為什麼學，以及我是如何上手的，也通過寫博客进行打字練習。 大多数人最先學会的中文輸入法应该是全拼，只需要记住 26 個字母，知道字的拼音，就能熟練使用，上手难度是最低的。缺點是重碼率高，即相同的拼音可存在多個候选字，需要选择实际想打的字。 全拼我用了很長… |
 | 2026-06-01 | [2026 欧洲之旅：在佛罗伦萨坐公交](https://www.ixiqin.com/2026/06/01/2026-european-tour-take-a-bus-in-florence/) | 佛罗伦萨公交车按时间收费，而非国内按里程计费。司机不提醒购票，有随机抽查，无票将被重罚。 票可在App或售票机 […] |
