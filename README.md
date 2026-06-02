@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-02 | [加更：体验 Waymo 无人驾驶汽车](https://www.ixiqin.com/2026/06/02/update-experience-waymo-autonomous-vehicles/) | 作者在旧金山硅谷期间体验了Waymo的自动驾驶服务。行程从预约、上车到抵达的整个过程都由车辆自主完成。 体验感 […] |
+| 2026-06-02 | [职场的友谊值千金](https://blog.solazy.me/20260602/) | 最近在职场上遇到很能聊得来的同类 |
+| 2026-06-02 | [暹罗没有春天](https://yinji.org/dear-you.html) | 上周五晚上，去看了电影《给阿嬷的情书》，事后才发现看的是国语版，没注意到有潮汕话版本，国语配音带点广普的感觉，即使是普通话，也能让人感动落泪。刚刚看到陈仓颉写的影评，又让我回忆电影中的一些情节。 片中没有什么宏大叙事，背景是20世纪初下南洋，围绕三个人和他们之间的侨批而展开。让我印象深刻的是导演的拍… |
+| 2026-06-02 | [Sutton 论 discovery](https://blog.est.im/2026/stdin-16) | 六一儿童节的时候， Richard Sutton锐评AI 各位女士们、先生们，大家好。 很遗憾我今天无法亲临现场，与各位进行面对面的交流讨论。但我仍然很高兴能够通过这段录制的视频，与大家分享一些关于人工智能当前与未来发展的高层次思考，尤其是 AI 与科学、数学之间关系的看法。我理解，这也正是本次会议… |
 | 2026-06-02 | [Lesson 27 暴涨理论的相关结论](https://physnya.top/GR/lesson-27-inflation-corollaries/) | 注意 进行一个抱歉，因为之前写 permalink 字段的时候失误了一下，因此现在最近三节课的网页链接要重新修改一次. 先说一下上节课没有推导出来的那个东西. 我们知道在 inflation 和 radiation dominated 的两个阶段， τ \tau τ 的定义并不相同，但是我们可以要求… |
 | 2026-06-02 | [Just A Common Lisper](https://www.geedea.pro/article/common-lisp-start/) | 最近在玩 Common Lisp ，由于中文博客几乎没有讨论，包括文档在内的英文资料都很零散——官网上只有简单的上手介绍，而社区维护的 文档 的某一页竟然写着 Please help us fill this page ，我想这是因为 CL 的实现太多了，相关的网站很多，人力是分散的——看来得自力更… |
 | 2026-06-02 | [关于大明的政治](https://sinyalee.com/blog/?p=1136) | 朱元璋是一个淮海/苏北乡下土农民，认知和董志民一个水平，啥也不懂，只知道下崽。最后太子被搞死了。 明朝中后期， […] |
@@ -56,6 +60,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-01 | [被辞了，来的有点意外，但是在情理之中](https://blog.thetbw.xyz/archives/got-fired) | 事情发生在上周，上周五结束交接，现在就算是正式失业了。 本来也是在一直找工作的，不过也没咋积极，现在行情也的确不好找，之前还想着，要是刚好找到工作，公司又把我辞了，这是多好的一件美事呀，现在公司是把我辞了，就差一份还不错的工作过来了。 说起被公司辞退的原因，部门领导说是因为公司效益问题，我觉得其实这… |
 | 2026-06-01 | [实现了一套Linux下快速查词/翻译句子的工作流-linux-quick-translate](https://hellodk.cn/post/1223) | GitHub 地址：https://github.com/hellodk34/linux-quick-translate在 Linux 桌面环境快速查词/翻译句子，绑定系统全局快捷键。支持各种 ... |
 | 2026-06-01 | [开发了一个基于和风天气 API 的 Android 天气应用](https://hellodk.cn/post/1222) | 使用截图介绍请看 GitHub，这里懒得再写一遍了。地址 https://github.com/hellodk34/checkitoutweatherandroid |
+| 2026-06-01 | [儿童节快乐！](https://blog.solazy.me/20260601/) | 儿童节快乐！ 我喜欢儿童节，并不因为我想给自己过节，而是我喜欢把这一天定为我家猫咪的生日。 ▲ 附上它今天的可爱照 |
 | 2026-06-01 | [从衣冠南渡到下南洋：潮汕人的信仰](https://sinyalee.com/blog/?p=1131) | 有很多东西，很多潮汕人、闽南人、广府人，尤其是上一代，都是懂的，但是很少人写下来。我是潮汕人，但是闽南人、广府 […] |
 | 2026-06-01 | [咖啡厅里的绝对领域](https://mobius.blog/24381.html) | 在咖啡厅我很喜欢坐在那种长条的桌台区，一方面是因为这里可以观察到不同人，也因为我在这个区域只会占据“最小单位” […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-01 | [Memos #2026-05-31](https://www.taober.blog/memos) | 18:42 长沙三日游愉快结束。 19:17 补一张《给阿嬷的情书》，好看！ 东亚（中国和日本）导演很会写那些羁绊或误会而改变了人们，持续了一辈子的故事，我很吃这一套。 |
