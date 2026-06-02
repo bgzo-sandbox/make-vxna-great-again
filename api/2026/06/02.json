@@ -1,5 +1,40 @@
 [
   {
+    "title": "Lesson 27 暴涨理论的相关结论",
+    "url": "https://physnya.top/GR/lesson-27-inflation-corollaries/",
+    "date": "2026-06-02T13:42:11Z",
+    "description": "注意 进行一个抱歉，因为之前写 permalink 字段的时候失误了一下，因此现在最近三节课的网页链接要重新修改一次. 先说一下上节课没有推导出来的那个东西. 我们知道在 inflation 和 radiation dominated 的两个阶段， τ \\tau τ 的定义并不相同，但是我们可以要求 x x x 的定义是相同的. 然后有边界条件：",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "Just A Common Lisper",
+    "url": "https://www.geedea.pro/article/common-lisp-start/",
+    "date": "2026-06-02T09:53:10Z",
+    "description": "最近在玩 Common Lisp ，由于中文博客几乎没有讨论，包括文档在内的英文资料都很零散——官网上只有简单的上手介绍，而社区维护的 文档 的某一页竟然写着 Please help us fill this page ，我想这是因为 CL 的实现太多了，相关的网站很多，人力是分散的——看来得自力更生了，也借此写一篇博客，既用作信息整理，也试图提高一些 Lisp 的讨论度吧。 尽管 Common Lisp 的具体实现之间差异不会太大，但我想还是说明一下比较好：我使用的 Common Lisp 实现是 Steel Bank Common Lisp ，即 sbcl 。 文章没有什么主题，可以当作一篇 Lisp 杂谈，还有一些我对编程语言的思考，希望读者可以在文中找到一些有启发的观点和设计吧，不过我不保证什么。 Enter: Common Lisp (He says in parentheses) 我的启蒙 Lisp 是 Clojure ，这门语言最明显的特征是使用了 () （Parentheses）以外的其他括号，比如 [] （brackets） 和 {} （braces）。其中， [] ",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "关于大明的政治",
+    "url": "https://sinyalee.com/blog/?p=1136",
+    "date": "2026-06-02T09:44:17Z",
+    "description": "朱元璋是一个淮海/苏北乡下土农民，认知和董志民一个水平，啥也不懂，只知道下崽。最后太子被搞死了。 明朝中后期， […]",
+    "source_root_domain": "sinyalee.com"
+  },
+  {
+    "title": "她的爱已烧录进了电路板",
+    "url": "https://lililib.github.io/%E5%A5%B9%E7%9A%84%E7%88%B1%E5%B7%B2%E7%83%A7%E5%BD%95%E8%BF%9B%E4%BA%86%E7%94%B5%E8%B7%AF%E6%9D%BF/",
+    "date": "2026-06-02T09:00:12Z",
+    "description": "原作作者：Das6fY5 备胎岛：No.1767815 搬运：A岛，No.32444047 翻新：贴吧，hapmenory",
+    "source_root_domain": "lililib.github.io"
+  },
+  {
+    "title": "2026.06.02 16:44",
+    "url": "https://kaix.in/2026/0602/",
+    "date": "2026-06-02T08:44:44Z",
+    "description": "前有网络流行文化把长句缩短，生造成「梗」；后有 LLM 靠连词、副词堆叠，拼凑出所谓的逻辑和情绪。一缩一放，准确没了、意味没了、美感没了，心也没了。 fin. 激赏 ！ 来信 。",
+    "source_root_domain": "kaix.in"
+  },
+  {
     "title": "Trend of Agentic Coding Products",
     "url": "https://laike9m.com/blog/agent-coding-trend,173/",
     "date": "2026-06-02T06:50:18Z",

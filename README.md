@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-02 | [Lesson 27 暴涨理论的相关结论](https://physnya.top/GR/lesson-27-inflation-corollaries/) | 注意 进行一个抱歉，因为之前写 permalink 字段的时候失误了一下，因此现在最近三节课的网页链接要重新修改一次. 先说一下上节课没有推导出来的那个东西. 我们知道在 inflation 和 radiation dominated 的两个阶段， τ \tau τ 的定义并不相同，但是我们可以要求… |
+| 2026-06-02 | [Just A Common Lisper](https://www.geedea.pro/article/common-lisp-start/) | 最近在玩 Common Lisp ，由于中文博客几乎没有讨论，包括文档在内的英文资料都很零散——官网上只有简单的上手介绍，而社区维护的 文档 的某一页竟然写着 Please help us fill this page ，我想这是因为 CL 的实现太多了，相关的网站很多，人力是分散的——看来得自力更… |
+| 2026-06-02 | [关于大明的政治](https://sinyalee.com/blog/?p=1136) | 朱元璋是一个淮海/苏北乡下土农民，认知和董志民一个水平，啥也不懂，只知道下崽。最后太子被搞死了。 明朝中后期， […] |
+| 2026-06-02 | [她的爱已烧录进了电路板](https://lililib.github.io/%E5%A5%B9%E7%9A%84%E7%88%B1%E5%B7%B2%E7%83%A7%E5%BD%95%E8%BF%9B%E4%BA%86%E7%94%B5%E8%B7%AF%E6%9D%BF/) | 原作作者：Das6fY5 备胎岛：No.1767815 搬运：A岛，No.32444047 翻新：贴吧，hapmenory |
+| 2026-06-02 | [2026.06.02 16:44](https://kaix.in/2026/0602/) | 前有网络流行文化把长句缩短，生造成「梗」；后有 LLM 靠连词、副词堆叠，拼凑出所谓的逻辑和情绪。一缩一放，准确没了、意味没了、美感没了，心也没了。 fin. 激赏 ！ 来信 。 |
 | 2026-06-02 | [Trend of Agentic Coding Products](https://laike9m.com/blog/agent-coding-trend,173/) | 没有简介, 请去看原文吧 |
 | 2026-06-02 | [Flink 使用 Hutool 调用 Kubernetes Service 负载不均处理笔记](https://199604.com/3569) | Flink 使用 Hutool 调用 Kubernetes Service 负载不均处理笔记 1. 处理背景与 […] |
 | 2026-06-02 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.3 of the project |
