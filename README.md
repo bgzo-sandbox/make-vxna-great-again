@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-03 | [投资三段论：你在跟谁买？短期看特朗普，中期看黄仁勋，长期看巴菲特](https://wenfeixiang.com/2026/06/invest-fomo/) | 最近有个“投资三段论”的段子很火：短期看特朗普，中期看黄仁勋，长期看巴菲特。 这不是玩笑，这是当下真实的投资生 […] |
+| 2026-06-03 | [etcd 集群故障排查与节点扩容维护操作手册](https://199604.com/3571) | etcd 集群故障排查与节点扩容维护操作手册 文档信息 故障现象：Prometheus 频繁触发 etcd_s […] |
+| 2026-06-03 | [与 AI 如何保持“社交安全距离”？ II](https://mobius.blog/24404.html) | 接着昨天的话题。 AI 并不是在夺走人的思考能力，而是在某些特定的情况下极容易让人产生“依赖性”。例如：一般问 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-03 | [Memos #2026-06-02](https://www.taober.blog/memos) | 11:24 通透模式最大的使用场景就是上班听歌，虽然我很想开降噪。 21:40 小赚 40😄 |
 | 2026-06-02 | [移民美国后，英语为什么还是很差？](https://diff.im/blog/2026/06/%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9B%BD%E5%90%8E%E8%8B%B1%E8%AF%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E6%98%AF%E5%BE%88%E5%B7%AE/) | 01 首先，这是个伪命题。并不是说你移民到美国，或者搬到任何一个英语国家，你的英文就会自然变好。 你原本是什么样的水平，移民之后不会因为居住地变了，英文能力就发生质的变化。 毫不夸张地说，我几乎学了一辈子英文。从 1995 年初中开始算到 2026 年，已经 30 多年了。学了这么久，居然还在学英文… |
 | 2026-06-02 | [加更：体验 Waymo 无人驾驶汽车](https://www.ixiqin.com/2026/06/02/update-experience-waymo-autonomous-vehicles/) | 作者在旧金山硅谷期间体验了Waymo的自动驾驶服务。行程从预约、上车到抵达的整个过程都由车辆自主完成。 体验感 […] |
 | 2026-06-02 | [职场的友谊值千金](https://blog.solazy.me/20260602/) | 最近在职场上遇到很能聊得来的同类 |
@@ -45,6 +49,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-02 | [大连・五一三天旅程记录（2026）](https://blog.yasking.org/a/photos-dalian.html) | 十几年前就听说大连市现代、干净，在北方城市是独一档的，五一没规划去远的地方，就临时起意去大连转转 妻子的姐姐、姐 … |
 | 2026-06-02 | [与 AI 如何保持“社交安全距离”？ I](https://mobius.blog/24395.html) | 每过一段时间，我就会把 AI 的话题阶段性聊一聊，在“坐标”里，我也专门拎出了“AI 会毁灭人类吗？”的专题， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-02 | [2026年第22周：给五月画上句点](https://blog.sakoamc.com/posts/2622/) | 题记：给五月画上句点、给上周一个交代。 |
+| 2026-06-01 | [从石门山到舒成岩：你以为去过宝顶山就是全部的大足石刻了吗？](https://macin.org/2026/06/01/shi-men-shan/) | 下过几场大雨，经过几次暴晒，开始了一段十分舒适天气的日子：白日里蓝天白云晴空万里，傍晚后蓝调时刻凉风习习。即使又是一个单休日，也不能浪费在没用的人和消耗在无意义的事情上，所以决定去看看收藏夹里积灰的“大足石刻”。 是的，你没有听错，就是 大足石刻 |
 | 2026-06-01 | [OPC实践 & 不懂开发的独立开发者 - Week9](https://diff.im/blog/2026/06/opc%E5%AE%9E%E8%B7%B5-%E4%B8%8D%E6%87%82%E5%BC%80%E5%8F%91%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85-week9/) | MRR 目标：$1000.00 本周收入：$0 本周完成的几件事情 Cap4u 准备提交 App Store，95% 以上完成； Cap4u 产品网站设计； 公众号草稿文章自动化； Harness-coding 更新； 和女儿一起去钓鱼。 感受 有一点受挫 原本计划三周发布 MVP 的产品，现在到第… |
 | 2026-06-01 | [上手倉頡輸入法](https://taxodium.ink/get-started-with-cangjie-input-method.html) | 上手倉頡輸入法 最近在學倉頡輸入法，分享一下我為什麼學，以及我是如何上手的，也通過寫博客进行打字練習。 大多数人最先學会的中文輸入法应该是全拼，只需要记住 26 個字母，知道字的拼音，就能熟練使用，上手难度是最低的。缺點是重碼率高，即相同的拼音可存在多個候选字，需要选择实际想打的字。 全拼我用了很長… |
 | 2026-06-01 | [2026 欧洲之旅：在佛罗伦萨坐公交](https://www.ixiqin.com/2026/06/01/2026-european-tour-take-a-bus-in-florence/) | 佛罗伦萨公交车按时间收费，而非国内按里程计费。司机不提醒购票，有随机抽查，无票将被重罚。 票可在App或售票机 […] |
@@ -64,7 +69,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-01 | [儿童节快乐！](https://blog.solazy.me/20260601/) | 儿童节快乐！ 我喜欢儿童节，并不因为我想给自己过节，而是我喜欢把这一天定为我家猫咪的生日。 ▲ 附上它今天的可爱照 |
 | 2026-06-01 | [从衣冠南渡到下南洋：潮汕人的信仰](https://sinyalee.com/blog/?p=1131) | 有很多东西，很多潮汕人、闽南人、广府人，尤其是上一代，都是懂的，但是很少人写下来。我是潮汕人，但是闽南人、广府 […] |
 | 2026-06-01 | [咖啡厅里的绝对领域](https://mobius.blog/24381.html) | 在咖啡厅我很喜欢坐在那种长条的桌台区，一方面是因为这里可以观察到不同人，也因为我在这个区域只会占据“最小单位” […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-01 | [Memos #2026-05-31](https://www.taober.blog/memos) | 18:42 长沙三日游愉快结束。 19:17 补一张《给阿嬷的情书》，好看！ 东亚（中国和日本）导演很会写那些羁绊或误会而改变了人们，持续了一辈子的故事，我很吃这一套。 |
 | 2026-05-31 | [稻草人周刊 Vol.83](https://www.geedea.pro/weekly/83/) | 我感到自己最近一直处于应激状态，随时准备和世界反目成仇、大干一场，这种状态大概是不适合做任何人生决策的，我在想应该调整调整心态，或许暑假该出去走走，也暂时把找实习的事情放一放。写作也有帮助，至少我在写词源学系列的时候心无旁骛，感到开心。 止语 the cure Olivia Rodrigo NeoD… |
 | 2026-05-31 | [Chris Sawyer's Locomotion updated](https://macsourceports.com/game/locomotion) | The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version v26.05 of the project |
 | 2026-05-31 | [Jazz Jackrabbit 2 updated](https://macsourceports.com/game/jazzjackrabbit2) | The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.6.0 of the project |
@@ -143,15 +147,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-27 | [怎么就以小见大了](https://www.hecaitou.com/2026/05/how-on-earth-does-the-small-reflect-the-great.html) | 没有坏作文，只有坏品位，我是这么认为的。 比如说有些人看不上写生活琐碎小事的文章，觉得不够深刻，觉得没有洞见，觉得没有所谓「干货」，这通常就是中了宏大叙事的毒，对于抽象理论的兴趣远远大于真实生活。又有一些人拿着放大镜看这样的文章，试图从中找出一点生活哲理，人生感悟出来，这通常则是中了「微言大义」的毒… |
 | 2026-05-27 | [真正的人生奥数应用题 II](https://mobius.blog/24297.html) | 要不是那天在电梯里听到了一对父母跟孩子的对话，我都不会再把之前的文章翻出来，写下 II 的内容。 妈妈念叨，女 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-27 | [chrome-devtools-mcp 使用](https://blog.196000.xyz/2026/2026-05-27-develop-chrome-devtools-mcp.html) | chrome-devtools-mcp 使用 Chrome DevTools MCP 是一个本地服务，它为 AI 编码助手（比如 Claude、Codex、Cursor 等）提供了一套控制 Chrome 浏览器的工具集。 Chrome M144 中添加了一项新功能，可让 Chrome 开发者工具 M… |
-| 2026-05-26 | [OPC实践 & 不懂开发的独立开发者 - Week8](https://diff.im/blog/2026/05/opc%E5%AE%9E%E8%B7%B5-%E4%B8%8D%E6%87%82%E5%BC%80%E5%8F%91%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85-week8/) | MRR 目标：$1000.00 本周收入：$0 本周完成的几件事情 继续做 Cap4u（第三个 App）的 IAP 开发和 App Store 截图设计。现在差不多可以 TestFlight 内测了。如果您在美国或加拿大生活，想参与 App 的体验与测试，请给我发 email：hi {at} dif… |
-| 2026-05-26 | [社会化训练是必要的吗](https://blog.solazy.me/20260526/) | 在一周之内，有两个截然不同的人，在截然不同的场景下，向我提到了同一个词：社会化。 |
-| 2026-05-26 | [Lesson 13 亲代抚育 (parental care)](https://physnya.top/animal-behavior/lesson-13-parental-care/) | 当然大家主要是一种接受的角色. General Pattern 有几类：没有亲代抚育、由雌性单独提供亲代抚育、由雄性单独提供亲代抚育、双亲共同提供亲代抚育. 第一类主要是无脊椎动物，我们这节课不仔细讨论. 先从鸟类这种主要由双亲共同提供亲代抚育的类型来说. 一般而言，雏鸟能否成活取决于食物的总量，而… |
-| 2026-05-26 | [PIXPRO主题安装教程：XLoader PHP扩展的安装与配置](https://www.evan.xin/5005/) | 注意⚠️pixpro主题对php的版本有一定要求，建议安装8.2及以上版本 如你不喜这个浏览方式可访问：htt […] |
-| 2026-05-26 | [Lesson 25 原初核合成 & CMB](https://physnya.top/GR/lesson-24-bbn-and-cmb/) | 核反应 1 + 2 ⟷ 3 + 4 1+2\longleftrightarrow 3+4 1 + 2 ⟷ 3 + 4 ，对于 n 1 n_1 n 1 ​ 有时间变化： |
-| 2026-05-26 | [AsyncT vllm适配、加速笔记（二）](https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%BA%8C/) | 加速第二篇，主要是在CUDA Kernel上做更多的优化，反思之前的Benchmarking问题等。 |
-| 2026-05-26 | [2026.5.25](https://www.justzht.com/2026-5-25/) | 刚预订了去纽约的机票和夏威夷的租车，都是开发者大会结束后的第二周。至于怎么从纽约去夏威夷，目前的想法 |
-| 2026-05-26 | [修窗记](https://www.hecaitou.com/2026/05/The-Window-Repair-Chronicles.html) | 上周我关窗的时候，一不小心把窗户锁的旋转手柄给拧了下来。于是，我的窗子就处于随意开关的状态，任何人在外面都可以打开它，然后一步跨入室内。 虽然这种可能性基本为零，而且，能够爬到我这个楼层的高手，大概率什么锁都挡不住。不过我还是觉得心里不舒服，就像是埋下了一根刺，因为房子始终敞着一个口。 我在第一时间… |
-| 2026-05-26 | [认知遮羞布：循环论证三段论](https://mobius.blog/24225.html) | 上周在咖啡厅码字时，因为耳机在后半程没电了，就只能把自己暴露在咖啡厅的白噪音之中，于是就听到隔壁两个阿姨的聊天 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
