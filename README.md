@@ -27,9 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-04 | [2026.6.4](https://www.justzht.com/2026-6-4/) | Minolta CL 拍的，可能是第一张，没过片彻底我就抓拍了。这张在 unsplash 上 被 feature 了。 WWDC 前的一周的晚上，在家里下了班；然后 |
+| 2026-06-04 | [大陆用户开美国期货账户，我会先选 AMP Futures](https://blog.forecho.com/open-us-futures-broker-from-china.html) | 引言 最近在研究美国期货账户，主要看了两个券商： AMP Futures 和 Optimus Futures 。 我的判断很直接： 先开 AMP，Optimus 先放观察位 。 AMP 的开户资料更多，中文圈用的人也更多，Mac 用户可以直接接 TradingView。Optimus 官方支持海外用… |
+| 2026-06-04 | [花生](https://mobius.blog/24567.html) | 那天，小区里死了一只猫。 我今早遛狗时，遇到了那个经常喂猫的阿姨。见她又在几个固定的点放猫粮和水，奶子想凑上去 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-04 | [密码保护：蕴瑜课堂自动播放脚本使用说明](https://199604.com/3573) | 无法提供摘要。这是一篇受保护的文章。 |
+| 2026-06-04 | [现代生活中的闭关](https://www.hecaitou.com/2026/06/Retreating-in-Modern-Life.html) | 一说到闭关，人们就会想到一个走入山洞的背影，然后断龙石缓缓落下，沉闷地撞击地面扬起一阵尘土。又或者一间小屋子，从外面上了锁，在门板下方有个很小的洞，可以往里面送饭菜。等到出关的时候，重点一般都是武功大成，一掌之下，一切灰飞烟灭。 这样的闭关太古典了，也距离现代生活太遥远了。 宗萨仁波切最近给出了关于… |
 | 2026-06-04 | [与 AI 如何保持“社交安全距离”？ III](https://mobius.blog/24414.html) | 前两天的内容，聊到了人们与 AI 相处过程中可能存在的不同“阶段”，然后试着解构了人们之所以会“依赖”AI 的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-04 | [Memos #2026-06-03](https://www.taober.blog/memos) | 09:03 心心念念的泡沫箱肠粉，好吃！ |
 | 2026-06-03 | [游记-千岛湖](https://blog.thetbw.xyz/archives/travelogue-qiandaohu) | 最近第一站吧，先来最近的杭州转了转，刚好也有一个面试，至于面试结果啥的，也不咋期待了吧，明天还有别的面试，都玩着看着吧。 没想到千岛湖里杭州市区还挺远的，开了一个多小时，这次旅行，就打算开车转转，也不打算进什么收费景区，吃什么当地特色，一是感觉这玩意都大同小异，还浪费钱，毕竟现在还是失业，要该省的省… |
+| 2026-06-03 | [零帧起手——第一次做游戏的踩坑笔记](https://ghyghoo8.github.io/2026/06/04/2026-06-04-%E9%9B%B6%E5%B8%A7%E8%B5%B7%E6%89%8B-%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%81%9A%E6%B8%B8%E6%88%8F%E7%9A%84%E8%B8%A9%E5%9D%91%E7%AC%94%E8%AE%B0/) | 这是一篇写给自己的复盘。我是个写了多年 Python / JS 的程序员，业余时间用 Godot 做一款像素风的「连线消除 + |
 | 2026-06-03 | [Blog增加搜索功能](https://elmagnifico.tech/2026/06/04/Pagefind/) | Foreword 博客文章越来越多，靠标签和翻页找东西越来越费劲。站点是 Jekyll 静态部署在 VPS 上的，不想为了搜索再挂一个 Elasticsearch 或者 Meilisearch，所以目标是： 构建时生成索引，线上纯静态文件，浏览器里完成检索 。 试了一圈以后，最终用的是 Pagefi… |
 | 2026-06-03 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
 | 2026-06-03 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
