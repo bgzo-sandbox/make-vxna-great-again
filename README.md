@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-04 | [23学习周刊-总第266期-2026年第23周](https://wiki.eryajf.net/pages/12eb60/) | 如要阅读全文，点击标题跳转。 学习周刊-总第266期 &#124; muxy &#124; Buffer &#124; NodeLite &#124; Lucarne &#124; ColorTxt &#124; papr &#124; nyaterm |
+| 2026-06-04 | [人们在什么时候成为真正的朋友？](https://blog.solazy.me/20260604/) | 今天继续聊和友谊相关的话题 |
+| 2026-06-04 | [Album#42 - Wake Up Calls](https://taxodium.ink/album-42.html) | Album#42 Wake Up Calls 图1 《Wake Up Calls》専輯封面 专辑信息 专辑名称： Wake Up Calls 歌手： Cosmo Sheldrake 年份： 2020-09-18 风格： 純音樂、白噪音、自然 时长： 約 30 分鍾 一張由很多鳥類参与制作的専輯，可以… |
 | 2026-06-04 | [AI漫谈录-5:如何实现真正的人工智能](https://brain-zhang.github.io/blog/2026/06/04/aiman-tan-lu-5/) | 我现在每天跟AI的对话已经远远超过跟人的交流了；有时候会产生有一些很有意思的对话内容，记录一下: 这一期记录的是跟豆包聊如何实现真正的人工智能： 豆包，你好呀。 你好呀！今天过得怎么样？ 今天我想跟你讨论一下现在的人工智能技术的发展。 现在 AI 发展的核心变化是从 “预测下一个词” 转向 “预测世… |
 | 2026-06-04 | [从 CLOS 审视 Java 面向对象编程](https://www.geedea.pro/article/clos/) | 书接 上回 ，前一篇文章讲了 Lisp 中的基本数据结构列表的构造方式（ cons pair ），以及由此衍生出的关联列表（ alist ）和属性列表（ plist ），之后我就跑偏了，谈起了编译器和解释器中的「特例」以及宏，为什么看起来像是函数的形式实际上不是也不能是函数，最后浅谈了函数式编程和… |
 | 2026-06-04 | [罗马-佛罗伦萨-梵蒂冈之旅（三）](https://eduardoqian.com/archives/luo-ma-fo-luo-lun-sa-fan-di-gang-zhi-lu-san) | 在结束了从罗马到佛罗伦萨的旅程，并在佛罗伦萨理发简单闲逛之后。第二天，我的主要旅游场地便是佛罗伦萨的景点旅游景点乌菲兹美术馆和皮蒂宫。 当天的天气并不是很好，有阵雨。 乌菲兹美术馆的人很多，如果要来，记得提前在网上订票 出了乌菲兹美术 |
@@ -41,6 +44,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-03 | [游记-千岛湖](https://blog.thetbw.xyz/archives/travelogue-qiandaohu) | 最近第一站吧，先来最近的杭州转了转，刚好也有一个面试，至于面试结果啥的，也不咋期待了吧，明天还有别的面试，都玩着看着吧。 没想到千岛湖里杭州市区还挺远的，开了一个多小时，这次旅行，就打算开车转转，也不打算进什么收费景区，吃什么当地特色，一是感觉这玩意都大同小异，还浪费钱，毕竟现在还是失业，要该省的省… |
 | 2026-06-03 | [零帧起手——第一次做游戏的踩坑笔记](https://ghyghoo8.github.io/2026/06/04/2026-06-04-%E9%9B%B6%E5%B8%A7%E8%B5%B7%E6%89%8B-%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%81%9A%E6%B8%B8%E6%88%8F%E7%9A%84%E8%B8%A9%E5%9D%91%E7%AC%94%E8%AE%B0/) | 这是一篇写给自己的复盘。我是个写了多年 Python / JS 的程序员，业余时间用 Godot 做一款像素风的「连线消除 + |
 | 2026-06-03 | [Blog增加搜索功能](https://elmagnifico.tech/2026/06/04/Pagefind/) | Foreword 博客文章越来越多，靠标签和翻页找东西越来越费劲。站点是 Jekyll 静态部署在 VPS 上的，不想为了搜索再挂一个 Elasticsearch 或者 Meilisearch，所以目标是： 构建时生成索引，线上纯静态文件，浏览器里完成检索 。 试了一圈以后，最终用的是 Pagefi… |
+| 2026-06-03 | [异性之间有纯友谊吗？](https://blog.solazy.me/20260603/) | 今天继续探讨友谊 |
 | 2026-06-03 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
 | 2026-06-03 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
 | 2026-06-03 | [咬文嚼字](https://kaix.in/2026/0603/) | 在读《米德尔马契》的时候时常感觉有些吃力，所以其实断断续续读了好久了，还没读完。今天突然胡乱在想，这到底为什么呢？于是又拿来翻了翻。 比如说第一卷第三章开头吧，陈锦慧译本： 如果卡索邦真的觉得多罗西娅适合当他的妻子，那么她接受他求婚的理由已经埋植在她脑海里。 项星耀译本： 要是卡苏朋先生真的考虑过，… |

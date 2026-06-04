@@ -1,5 +1,26 @@
 [
   {
+    "title": "23学习周刊-总第266期-2026年第23周",
+    "url": "https://wiki.eryajf.net/pages/12eb60/",
+    "date": "2026-06-04T23:11:46Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第266期 | muxy | Buffer | NodeLite | Lucarne | ColorTxt | papr | nyaterm",
+    "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "人们在什么时候成为真正的朋友？",
+    "url": "https://blog.solazy.me/20260604/",
+    "date": "2026-06-04T15:00:00Z",
+    "description": "今天继续聊和友谊相关的话题",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Album#42 - Wake Up Calls",
+    "url": "https://taxodium.ink/album-42.html",
+    "date": "2026-06-04T14:25:00Z",
+    "description": "Album#42 Wake Up Calls 图1 《Wake Up Calls》専輯封面 专辑信息 专辑名称： Wake Up Calls 歌手： Cosmo Sheldrake 年份： 2020-09-18 风格： 純音樂、白噪音、自然 时长： 約 30 分鍾 一張由很多鳥類参与制作的専輯，可以當白噪音聴着工作或是入睡，相比单調的白噪音，每首曲子都有一些簡单的旋律，和鳥的聲音相得益彰。専輯里的鳥類大多都被列入英國瀕危鳥類，種類丰富，聲音都很好聴，各有特色，聴着會有一種置身於森林的感覺，給人一種平靜感。 这套音乐作品是我在 2011 年至 2020 年的九年间创作完成的，其中采用了英国濒危鸟类红色和琥珀色名录中收录的鸟鸣录音（不过知更鸟和黑鸟除外，它们目前尚未被列为濒危物种）。 「专辑以夜莺和夜鹃的鸣叫拉开序幕。 随着音乐一曲接一曲地推进，从黎明到白昼，再到傍晚的鸟鸣合奏， 最终又回到夜晚，伴随着另一只夜莺和一只猫头鹰的歌声。」 由 Benjamin Britten 创作的《杜鹃之歌 (Cuckoo Song)》，收录了声音生态学家 Bernie Krause 在奥尔德堡公墓布里顿墓",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
     "title": "AI漫谈录-5:如何实现真正的人工智能",
     "url": "https://brain-zhang.github.io/blog/2026/06/04/aiman-tan-lu-5/",
     "date": "2026-06-04T11:26:48Z",
@@ -96,6 +117,13 @@
     "date": "2026-06-03T16:00:00Z",
     "description": "Foreword 博客文章越来越多，靠标签和翻页找东西越来越费劲。站点是 Jekyll 静态部署在 VPS 上的，不想为了搜索再挂一个 Elasticsearch 或者 Meilisearch，所以目标是： 构建时生成索引，线上纯静态文件，浏览器里完成检索 。 试了一圈以后，最终用的是 Pagefind + 自建的子串索引 双轨方案。这篇文章记录选型过程、当前实现，以及和其他方案的对比，方便以后自己维护或者换方案时有个参照。 Pagefind https://pagefind.app/ Pagefind 是 MIT 协议的开源静态站搜索库，和 Algolia DocSearch 那种「云端 API」不同，它完全跑在访客浏览器里： 构建阶段 ： jekyll build 产出 HTML 后，执行 npx pagefind ，扫描带 data-pagefind-body 的正文区域，按语言规则分词，生成倒排索引（ .pfindex 、 .pfmeta 、 .pffragment 等），和站点一起部署。 使用阶段 ：页面加载 pagefind.js + WASM，用户输入查询词后同样在客户端",
     "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "异性之间有纯友谊吗？",
+    "url": "https://blog.solazy.me/20260603/",
+    "date": "2026-06-03T15:00:00Z",
+    "description": "今天继续探讨友谊",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "终结竞争：从护城河到商业终局的实战指南",
