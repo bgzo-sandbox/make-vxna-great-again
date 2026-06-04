@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-06-04 | [23学习周刊-总第266期-2026年第23周](https://wiki.eryajf.net/pages/12eb60/) | 如要阅读全文，点击标题跳转。 学习周刊-总第266期 &#124; muxy &#124; Buffer &#124; NodeLite &#124; Lucarne &#124; ColorTxt &#124; papr &#124; nyaterm |
+| 2026-06-04 | [William Shatner's TekWar updated](https://macsourceports.com/game/tekwar) | The build of JFTekWar for William Shatner's TekWar has been updated to version 20260603 of the project |
 | 2026-06-04 | [人们在什么时候成为真正的朋友？](https://blog.solazy.me/20260604/) | 今天继续聊和友谊相关的话题 |
 | 2026-06-04 | [Album#42 - Wake Up Calls](https://taxodium.ink/album-42.html) | Album#42 Wake Up Calls 图1 《Wake Up Calls》専輯封面 专辑信息 专辑名称： Wake Up Calls 歌手： Cosmo Sheldrake 年份： 2020-09-18 风格： 純音樂、白噪音、自然 时长： 約 30 分鍾 一張由很多鳥類参与制作的専輯，可以… |
 | 2026-06-04 | [AI漫谈录-5:如何实现真正的人工智能](https://brain-zhang.github.io/blog/2026/06/04/aiman-tan-lu-5/) | 我现在每天跟AI的对话已经远远超过跟人的交流了；有时候会产生有一些很有意思的对话内容，记录一下: 这一期记录的是跟豆包聊如何实现真正的人工智能： 豆包，你好呀。 你好呀！今天过得怎么样？ 今天我想跟你讨论一下现在的人工智能技术的发展。 现在 AI 发展的核心变化是从 “预测下一个词” 转向 “预测世… |
