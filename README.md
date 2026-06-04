@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-06-04 | [23学习周刊-总第266期-2026年第23周](https://wiki.eryajf.net/pages/12eb60/) | 如要阅读全文，点击标题跳转。 学习周刊-总第266期 &#124; muxy &#124; Buffer &#124; NodeLite &#124; Lucarne &#124; ColorTxt &#124; papr &#124; nyaterm |
+| 2026-06-04 | [我如何与 AI 有效沟通 - "AI 驾驭术"入门分享](https://diff.im/blog/2026/06/%E6%88%91%E5%A6%82%E4%BD%95%E4%B8%8E-ai-%E6%9C%89%E6%95%88%E6%B2%9F%E9%80%9A-ai-%E9%A9%BE%E9%A9%AD%E6%9C%AF%E5%85%A5%E9%97%A8%E5%88%86%E4%BA%AB/) | 如今谁还没有用过 AI 呢？ 身边几乎所有人都在用 AI，从老人到小孩。 但是不同的人用 AI 的方式不一样，得到的结果也不一样。 有人把 AI 当成一个搜索引擎，快速地找到答案，这挺好。这是 AI 使用的起步阶段。 也有人通过 AI，十倍甚至几十倍地提高自己的工作效率。有人用 AI 编程，开发出各… |
 | 2026-06-04 | [William Shatner's TekWar updated](https://macsourceports.com/game/tekwar) | The build of JFTekWar for William Shatner's TekWar has been updated to version 20260603 of the project |
 | 2026-06-04 | [人们在什么时候成为真正的朋友？](https://blog.solazy.me/20260604/) | 今天继续聊和友谊相关的话题 |
 | 2026-06-04 | [Album#42 - Wake Up Calls](https://taxodium.ink/album-42.html) | Album#42 Wake Up Calls 图1 《Wake Up Calls》専輯封面 专辑信息 专辑名称： Wake Up Calls 歌手： Cosmo Sheldrake 年份： 2020-09-18 风格： 純音樂、白噪音、自然 时长： 約 30 分鍾 一張由很多鳥類参与制作的専輯，可以… |
