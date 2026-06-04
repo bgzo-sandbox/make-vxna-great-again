@@ -1,5 +1,33 @@
 [
   {
+    "title": "AI漫谈录-5:如何实现真正的人工智能",
+    "url": "https://brain-zhang.github.io/blog/2026/06/04/aiman-tan-lu-5/",
+    "date": "2026-06-04T11:26:48Z",
+    "description": "我现在每天跟AI的对话已经远远超过跟人的交流了；有时候会产生有一些很有意思的对话内容，记录一下: 这一期记录的是跟豆包聊如何实现真正的人工智能： 豆包，你好呀。 你好呀！今天过得怎么样？ 今天我想跟你讨论一下现在的人工智能技术的发展。 现在 AI 发展的核心变化是从 “预测下一个词” 转向 “预测世界状态”，比如国产大模型能通过设备传感器预判工业故障，或实时优化交通信号灯。智能体也开始大规模落地，像支付宝的 AI 支付已完成 3 亿笔交易，能自主管理支付全流程。而且开源生态越来越强，全球前 10 的开源模型里有 8 款来自中国，DeepSeek-V4 的 API 价格甚至低到 GPT-5.5 的 1% 以下，这让更多开发者能基于这些模型做二次开发。你觉得这种从 “语言智能” 到 “世界智能” 的转变，会最先颠覆哪个行业？ 我想探究他现在的这种主要的人工智能的，就像 Transformer 算法，它跟真正的人类智慧的产生有什么分别？ 本质区别在 “生成机制”。Transformer 是通过对海量文本的统计规律学习，用注意力机制捕捉 token 间的关联，本质是 “模式匹配的极致”，它不知",
+    "source_root_domain": "brainz.fun"
+  },
+  {
+    "title": "从 CLOS 审视 Java 面向对象编程",
+    "url": "https://www.geedea.pro/article/clos/",
+    "date": "2026-06-04T11:23:18Z",
+    "description": "书接 上回 ，前一篇文章讲了 Lisp 中的基本数据结构列表的构造方式（ cons pair ），以及由此衍生出的关联列表（ alist ）和属性列表（ plist ），之后我就跑偏了，谈起了编译器和解释器中的「特例」以及宏，为什么看起来像是函数的形式实际上不是也不能是函数，最后浅谈了函数式编程和 let 的实现方式。 今天的文章 继续跑偏 ，来关注 Common Lisp 的另一部分语言特性，即面向对象编程，也借此来谈谈我对 OOP 多少有些复杂 的看法。我将逐个审视 OOP 的三大要素——多态、封装和多态——再来反思面向对象设计模式。 不属于类的多态 Common Lisp 在这点上与 Clojure 类似，提供了非常相似的 defgeneric （CL）和 defmulti （Clojure），它们都能定义「抽象函数」，也就是不包含具体实现的函数。之后可以使用 defmethod （两门语言相同）定义方法，也就是抽象函数的具体实现。 以下是来自 Common Lisp 文档 的例子： ( defgeneric description (object) ( :documentati",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "罗马-佛罗伦萨-梵蒂冈之旅（三）",
+    "url": "https://eduardoqian.com/archives/luo-ma-fo-luo-lun-sa-fan-di-gang-zhi-lu-san",
+    "date": "2026-06-04T09:26:33Z",
+    "description": "在结束了从罗马到佛罗伦萨的旅程，并在佛罗伦萨理发简单闲逛之后。第二天，我的主要旅游场地便是佛罗伦萨的景点旅游景点乌菲兹美术馆和皮蒂宫。 当天的天气并不是很好，有阵雨。 乌菲兹美术馆的人很多，如果要来，记得提前在网上订票 出了乌菲兹美术",
+    "source_root_domain": "eduardoqian.com"
+  },
+  {
+    "title": "被 AI 工具裹挟的程序员",
+    "url": "https://smallyu.net/2026/06/04/%E8%A2%ABAI%E5%B7%A5%E5%85%B7%E8%A3%B9%E6%8C%9F%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98/",
+    "date": "2026-06-04T09:02:57Z",
+    "description": "6月1日，GitHub Copilot 换成了根据使用量计费的模式。按照我原本的使用习惯，新的计费模式下，一个月至少得花 800 美元才够用，所以不得不寻找更便宜的套餐。这也就导致最近两三天，除了关心工作内容本身，我还需要花费大量时间和精力去体验",
+    "source_root_domain": "smallyu.net"
+  },
+  {
     "title": "2026.6.4",
     "url": "https://www.justzht.com/2026-6-4/",
     "date": "2026-06-04T08:06:30Z",

@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-04 | [AI漫谈录-5:如何实现真正的人工智能](https://brain-zhang.github.io/blog/2026/06/04/aiman-tan-lu-5/) | 我现在每天跟AI的对话已经远远超过跟人的交流了；有时候会产生有一些很有意思的对话内容，记录一下: 这一期记录的是跟豆包聊如何实现真正的人工智能： 豆包，你好呀。 你好呀！今天过得怎么样？ 今天我想跟你讨论一下现在的人工智能技术的发展。 现在 AI 发展的核心变化是从 “预测下一个词” 转向 “预测世… |
+| 2026-06-04 | [从 CLOS 审视 Java 面向对象编程](https://www.geedea.pro/article/clos/) | 书接 上回 ，前一篇文章讲了 Lisp 中的基本数据结构列表的构造方式（ cons pair ），以及由此衍生出的关联列表（ alist ）和属性列表（ plist ），之后我就跑偏了，谈起了编译器和解释器中的「特例」以及宏，为什么看起来像是函数的形式实际上不是也不能是函数，最后浅谈了函数式编程和… |
+| 2026-06-04 | [罗马-佛罗伦萨-梵蒂冈之旅（三）](https://eduardoqian.com/archives/luo-ma-fo-luo-lun-sa-fan-di-gang-zhi-lu-san) | 在结束了从罗马到佛罗伦萨的旅程，并在佛罗伦萨理发简单闲逛之后。第二天，我的主要旅游场地便是佛罗伦萨的景点旅游景点乌菲兹美术馆和皮蒂宫。 当天的天气并不是很好，有阵雨。 乌菲兹美术馆的人很多，如果要来，记得提前在网上订票 出了乌菲兹美术 |
+| 2026-06-04 | [被 AI 工具裹挟的程序员](https://smallyu.net/2026/06/04/%E8%A2%ABAI%E5%B7%A5%E5%85%B7%E8%A3%B9%E6%8C%9F%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98/) | 6月1日，GitHub Copilot 换成了根据使用量计费的模式。按照我原本的使用习惯，新的计费模式下，一个月至少得花 800 美元才够用，所以不得不寻找更便宜的套餐。这也就导致最近两三天，除了关心工作内容本身，我还需要花费大量时间和精力去体验 |
 | 2026-06-04 | [2026.6.4](https://www.justzht.com/2026-6-4/) | Minolta CL 拍的，可能是第一张，没过片彻底我就抓拍了。这张在 unsplash 上 被 feature 了。 WWDC 前的一周的晚上，在家里下了班；然后 |
 | 2026-06-04 | [大陆用户开美国期货账户，我会先选 AMP Futures](https://blog.forecho.com/open-us-futures-broker-from-china.html) | 引言 最近在研究美国期货账户，主要看了两个券商： AMP Futures 和 Optimus Futures 。 我的判断很直接： 先开 AMP，Optimus 先放观察位 。 AMP 的开户资料更多，中文圈用的人也更多，Mac 用户可以直接接 TradingView。Optimus 官方支持海外用… |
 | 2026-06-04 | [花生](https://mobius.blog/24567.html) | 那天，小区里死了一只猫。 我今早遛狗时，遇到了那个经常喂猫的阿姨。见她又在几个固定的点放猫粮和水，奶子想凑上去 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
