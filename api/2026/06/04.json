@@ -1,0 +1,233 @@
+[
+  {
+    "title": "与 AI 如何保持“社交安全距离”？ III",
+    "url": "https://mobius.blog/24414.html",
+    "date": "2026-06-04T00:55:00Z",
+    "description": "前两天的内容，聊到了人们与 AI 相处过程中可能存在的不同“阶段”，然后试着解构了人们之所以会“依赖”AI 的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Memos #2026-06-03",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-06-04T00:00:00Z",
+    "description": "09:03 心心念念的泡沫箱肠粉，好吃！",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "游记-千岛湖",
+    "url": "https://blog.thetbw.xyz/archives/travelogue-qiandaohu",
+    "date": "2026-06-03T16:00:48Z",
+    "description": "最近第一站吧，先来最近的杭州转了转，刚好也有一个面试，至于面试结果啥的，也不咋期待了吧，明天还有别的面试，都玩着看着吧。 没想到千岛湖里杭州市区还挺远的，开了一个多小时，这次旅行，就打算开车转转，也不打算进什么收费景区，吃什么当地特色，一是感觉这玩意都大同小异，还浪费钱，毕竟现在还是失业，要该省的省，该花的花，另外杭州的各种鱼嘛，我本身对于鱼也不怎么感兴趣。 不知道是不是因为当前工作日的缘故，酒店价格我觉得也是挺便宜的，两个人100块钱一晚，还能接受，而且环境也还不错的。 今天的天气刚刚好，不冷不热，山间雾蒙蒙的，就像一幅山水画。 看起来像是本地悠闲地大爷们，这次旅行也是很有意思的一个地方，除了路边老奶奶抱着的小孩，还没有见到比我们年级小的人。 湖面也像镜子一样，不过后面就下起了雨。 拐进了山间小路，路边还有一些果子什么的，还没完全成熟。 目前住的地方，高铁站不远的一个民宿，价格也算便宜。 明天可能就准备下面试，然后这边离黄山感觉挺近的，和我一起的那个朋友还没去过黄山，所以我们打算去黄山看看。",
+    "source_root_domain": "thetbw.xyz"
+  },
+  {
+    "title": "Blog增加搜索功能",
+    "url": "https://elmagnifico.tech/2026/06/04/Pagefind/",
+    "date": "2026-06-03T16:00:00Z",
+    "description": "Foreword 博客文章越来越多，靠标签和翻页找东西越来越费劲。站点是 Jekyll 静态部署在 VPS 上的，不想为了搜索再挂一个 Elasticsearch 或者 Meilisearch，所以目标是： 构建时生成索引，线上纯静态文件，浏览器里完成检索 。 试了一圈以后，最终用的是 Pagefind + 自建的子串索引 双轨方案。这篇文章记录选型过程、当前实现，以及和其他方案的对比，方便以后自己维护或者换方案时有个参照。 Pagefind https://pagefind.app/ Pagefind 是 MIT 协议的开源静态站搜索库，和 Algolia DocSearch 那种「云端 API」不同，它完全跑在访客浏览器里： 构建阶段 ： jekyll build 产出 HTML 后，执行 npx pagefind ，扫描带 data-pagefind-body 的正文区域，按语言规则分词，生成倒排索引（ .pfindex 、 .pfmeta 、 .pffragment 等），和站点一起部署。 使用阶段 ：页面加载 pagefind.js + WASM，用户输入查询词后同样在客户端",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "终结竞争：从护城河到商业终局的实战指南",
+    "url": "https://www.meettea.com/business-moat-endgame.html",
+    "date": "2026-06-03T12:54:54Z",
+    "description": "从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构",
+    "source_root_domain": "meettea.com"
+  },
+  {
+    "title": "独立开发者的英国公司报税（2026）",
+    "url": "https://www.meettea.com/uk-company-tax-2026.html",
+    "date": "2026-06-03T12:54:54Z",
+    "description": "给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。",
+    "source_root_domain": "meettea.com"
+  },
+  {
+    "title": "咬文嚼字",
+    "url": "https://kaix.in/2026/0603/",
+    "date": "2026-06-03T11:31:24Z",
+    "description": "在读《米德尔马契》的时候时常感觉有些吃力，所以其实断断续续读了好久了，还没读完。今天突然胡乱在想，这到底为什么呢？于是又拿来翻了翻。 比如说第一卷第三章开头吧，陈锦慧译本： 如果卡索邦真的觉得多罗西娅适合当他的妻子，那么她接受他求婚的理由已经埋植在她脑海里。 项星耀译本： 要是卡苏朋先生真的考虑过，布鲁克小姐是他合适的妻子，那么，促使她接受这门亲事的理由，确已埋进了她的心底…… 英文原文： If it had really occurred to Mr. Casaubon to think of Miss Brooke as a suitable wife for him, the reasons that might induce her to accept him were already planted in her mind… 到底是什么让我感觉别扭？思来想去，或许是语言的底层逻辑（又或者潜台词）导致的。「如果/要是……那么」，总让我产生一种句子前后存在因果或者条件关系的感觉。即，卡索邦觉得合适才会导致多罗西娅接受求婚。 虽然我英文并不好，但是反复读了几遍，感觉英文中其实并没有",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "为何写作",
+    "url": "https://www.kawabangga.com/posts/7288",
+    "date": "2026-06-03T11:10:00Z",
+    "description": "RSS 上出现越来越多用 AI 生成的文章，我想谈谈写作（尤其是写博客）的意义，以及为什么用 AI 生成文章是 […] Continue reading...",
+    "source_root_domain": "kawabangga.com"
+  },
+  {
+    "title": "李新野为什么要背叛自己的阶级？",
+    "url": "https://sinyalee.com/blog/?p=1138",
+    "date": "2026-06-03T10:44:59Z",
+    "description": "谢邀。很多人说我背叛了自己的阶级。这是错误的，我从来没有背叛自己的阶级。 我简单的分一下社会的阶级： 很明显， […]",
+    "source_root_domain": "sinyalee.com"
+  },
+  {
+    "title": "高考前准备",
+    "url": "https://www.hecaitou.com/2026/06/gaokao-preparation.html",
+    "date": "2026-06-03T04:11:53Z",
+    "description": "时近高考，越来越多忧心忡忡的家长开始频繁前来我这里，询问如何安心，如何停止焦虑。可是问我没用啊，我参加高考是在很多年前，而且我就考过一次，根本谈不上什么经验。 这种心情我能够理解，因此也有些唏嘘。 很多年前，我和我同辈人希望高考能够容易一些，不要千军万马去挤独木桥。也希望考试的条件好一点，有块靠谱的手表或者闹钟什么的，骑车前往考场的路不要太过拥堵。 现在这些愿望都实现了，高考已经不再是独木桥，人们还在竞争，但是为了好学校而竞争，不再是为了有没有大学上而厮杀。考生的条件也好多了，可以住酒店备考，可以打车前往考场，父母在考场外等待也成了惯例---而我在 1993 年参加高考的时候，中国还是每周工作六天，五天制需要等到 1995 年才正式实施，那时候很多父母根本没有办法请假去考场外等着。 然而焦虑和过去没什么不同，人就是这样的，每个时代都有每个时代的焦虑，有再多经验再多资讯自己事到临头还是会焦虑。 不过我也注意到一些微妙的变化，比如说这两年的高考在网上已经逐渐失去了热度。不像过去，一到这个季节社交媒体就要倡议小区静音，为考生创造良好环境；媒体必然报道交警开路，护送考生回家去拿准考证，或者送迟",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Memos: 高风险的 ‘保留最新 N 个镜像’",
+    "url": "https://blog.yasking.org/a/1780457163.html",
+    "date": "2026-06-03T03:28:00Z",
+    "description": "“保留最新 N 个镜像” 策略听着简单明了，但极易引发线上事故，它的问题不在于镜像本身，而是系统里的很多东西并不会因 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "投资三段论：你在跟谁买？短期看特朗普，中期看黄仁勋，长期看巴菲特",
+    "url": "https://wenfeixiang.com/2026/06/invest-fomo/",
+    "date": "2026-06-03T03:09:16Z",
+    "description": "最近有个“投资三段论”的段子很火：短期看特朗普，中期看黄仁勋，长期看巴菲特。 这不是玩笑，这是当下真实的投资生 […]",
+    "source_root_domain": "wenfeixiang.com"
+  },
+  {
+    "title": "etcd 集群故障排查与节点扩容维护操作手册",
+    "url": "https://199604.com/3571",
+    "date": "2026-06-03T01:30:16Z",
+    "description": "etcd 集群故障排查与节点扩容维护操作手册 文档信息 故障现象：Prometheus 频繁触发 etcd_s […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "与 AI 如何保持“社交安全距离”？ II",
+    "url": "https://mobius.blog/24404.html",
+    "date": "2026-06-03T00:55:00Z",
+    "description": "接着昨天的话题。 AI 并不是在夺走人的思考能力，而是在某些特定的情况下极容易让人产生“依赖性”。例如：一般问 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "移民美国后，英语为什么还是很差？",
+    "url": "https://diff.im/blog/2026/06/%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9B%BD%E5%90%8E%E8%8B%B1%E8%AF%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E6%98%AF%E5%BE%88%E5%B7%AE/",
+    "date": "2026-06-02T19:33:53Z",
+    "description": "01 首先，这是个伪命题。并不是说你移民到美国，或者搬到任何一个英语国家，你的英文就会自然变好。 你原本是什么样的水平，移民之后不会因为居住地变了，英文能力就发生质的变化。 毫不夸张地说，我几乎学了一辈子英文。从 1995 年初中开始算到 2026 年，已经 30 多年了。学了这么久，居然还在学英文，听起来简直像个笑话。 可能我真的和英文有缘分，也可能是因为我确实喜欢这门语言。2013 年到 2019 年之间，我参与了中国在线教育公司“英语流利说”的创业过程。 当我还没有移民美国时，听到很多人说，学英语需要一个环境，只要把你放在那个环境里，你自然就能够提高英文。 这句话只说对了一半。 2022 年我移民美国，到现在也已经几年了。我的英文水平怎么样？我想，明显提高了，这不是谦虚。但是，还远远不够。 02 我发现，有很多在美国生活多年的华人，当然也包括其他族裔，虽然在美国待了很长时间，但英文仍然很难开口。他们依然生活在自己的母语世界里。（这本身当然没有问题。） 但是，毕竟在美国生活，主要语言还是英文。为什么生活了这么久，英文水平却没有明显提高？ 根本原因是：他们虽然人在美国，却并没有真正处",
+    "source_root_domain": "diff.im"
+  },
+  {
+    "title": "测试管理工具",
+    "url": "https://elmagnifico.tech/2026/06/03/TestManagement-QA/",
+    "date": "2026-06-02T16:00:00Z",
+    "description": "Foreword 测试用例的管理，测试用例一定是关联到某一个需求的，基于这个需求产生的测试用例 但是呢，需求是一期一期做的，可能一个需求里混了一些不相干或者零碎的其他功能内容在里面 如果每一期的用例混在一起，对应的测试用例集就混了一些不同方向或者归属的用例 测试人员的期望是测试用例后期可以按照功能或者什么标签之类的进行划分，需要的时候回归测试某些功能的用例，然后根据情况有一部分还要转化为自动化用例，作为保底 实际测试用例随着功能变更，过往的测试用例也需要变更 测试用例同时还要满足评审的需求，有评审的流程和结果 自动化用例和普通的手工用例可能还会混在一起，这里就需要再进一步进行标签上的区分 测试用例测试完成以后，还需要对应的报告输出。这些是基础测试的管理工具的需求，市面上是否有工具可以满足或者其他某些工具可以稍微改造一下来满足。 Allure TestOps https://qameta.io/ TestOps，界面比较简单，价格比较美丽，39刀/月/人，稍微有点贵的离谱了，体验sandbox里只有guest身份，很多东西不能操作，局限性太大了，还是要试用一下。 试用必须企业邮箱 左侧导",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "加更：体验 Waymo 无人驾驶汽车",
+    "url": "https://www.ixiqin.com/2026/06/02/update-experience-waymo-autonomous-vehicles/",
+    "date": "2026-06-02T15:10:32Z",
+    "description": "作者在旧金山硅谷期间体验了Waymo的自动驾驶服务。行程从预约、上车到抵达的整个过程都由车辆自主完成。 体验感 […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "职场的友谊值千金",
+    "url": "https://blog.solazy.me/20260602/",
+    "date": "2026-06-02T15:00:00Z",
+    "description": "最近在职场上遇到很能聊得来的同类",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "暹罗没有春天",
+    "url": "https://yinji.org/dear-you.html",
+    "date": "2026-06-02T14:53:28Z",
+    "description": "上周五晚上，去看了电影《给阿嬷的情书》，事后才发现看的是国语版，没注意到有潮汕话版本，国语配音带点广普的感觉，即使是普通话，也能让人感动落泪。刚刚看到陈仓颉写的影评，又让我回忆电影中的一些情节。 片中没有什么宏大叙事，背景是20世纪初下南洋，围绕三个人和他们之间的侨批而展开。让我印象深刻的是导演的拍摄手法，没有直接拍摄表面上让人感动的情节，比如亲人之间的哭诉、叶淑柔和谢南枝相认之后的倾诉，他没有将情感用最有冲突的形式展现出来，而是以一种平静的方式去描述，叶淑柔收到照片之后继续静静地干着手里的活，泪水静静地从眼旁流下，晚年得知真相之后静静地起身去看自己的橄榄菜做好了没有。 郑木生离世之后，谢南枝...... 继续阅读»»»",
+    "source_root_domain": "yinji.org"
+  },
+  {
+    "title": "Sutton 论 discovery",
+    "url": "https://blog.est.im/2026/stdin-16",
+    "date": "2026-06-02T14:16:00Z",
+    "description": "六一儿童节的时候， Richard Sutton锐评AI 各位女士们、先生们，大家好。 很遗憾我今天无法亲临现场，与各位进行面对面的交流讨论。但我仍然很高兴能够通过这段录制的视频，与大家分享一些关于人工智能当前与未来发展的高层次思考，尤其是 AI 与科学、数学之间关系的看法。我理解，这也正是本次会议以及 SAIR Foundation 所关注的核心主题。 我想先讲一个老笑话，相信大家都听过。有位研究人员的工作正在接受评审，评审意见回来后写道：“这项工作既新颖（novel），又优秀（good）。遗憾的是，优秀的部分并不新颖，而新颖的部分并不优秀。” 我关于 AI 的第一个观点是：这个评价恰好适用于今天相当大一部分 AI。并非所有 AI 都如此，但相当大一部分确实如此。我们今天所谓的“生成式 AI”（Generative AI）几乎都属于这一类，包括大语言模型、图像模型、视频模型，甚至最近用于学习世界模型（world model）的一些新方法。这些 AI 的共同点是，它们接收大量样本，然后产生一个“模型”，使其行为与这些样本相似，也就是说生成像人类写的文本，生成像艺术家或自然界中的图像，生",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "Lesson 27 暴涨理论的相关结论",
+    "url": "https://physnya.top/GR/lesson-27-inflation-corollaries/",
+    "date": "2026-06-02T13:42:11Z",
+    "description": "注意 进行一个抱歉，因为之前写 permalink 字段的时候失误了一下，因此现在最近三节课的网页链接要重新修改一次. 先说一下上节课没有推导出来的那个东西. 我们知道在 inflation 和 radiation dominated 的两个阶段， τ \\tau τ 的定义并不相同，但是我们可以要求 x x x 的定义是相同的. 然后有边界条件：",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "Just A Common Lisper",
+    "url": "https://www.geedea.pro/article/common-lisp-start/",
+    "date": "2026-06-02T09:53:10Z",
+    "description": "最近在玩 Common Lisp ，由于中文博客几乎没有讨论，包括文档在内的英文资料都很零散——官网上只有简单的上手介绍，而社区维护的 文档 的某一页竟然写着 Please help us fill this page ，我想这是因为 CL 的实现太多了，相关的网站很多，人力是分散的——看来得自力更生了，也借此写一篇博客，既用作信息整理，也试图提高一些 Lisp 的讨论度吧。 尽管 Common Lisp 的具体实现之间差异不会太大，但我想还是说明一下比较好：我使用的 Common Lisp 实现是 Steel Bank Common Lisp ，即 sbcl 。 文章没有什么主题，可以当作一篇 Lisp 杂谈，还有一些我对编程语言的思考，希望读者可以在文中找到一些有启发的观点和设计吧，不过我不保证什么。 Enter: Common Lisp (He says in parentheses) 我的启蒙 Lisp 是 Clojure ，这门语言最明显的特征是使用了 () （Parentheses）以外的其他括号，比如 [] （brackets） 和 {} （braces）。其中， [] ",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "关于大明的政治",
+    "url": "https://sinyalee.com/blog/?p=1136",
+    "date": "2026-06-02T09:44:17Z",
+    "description": "朱元璋是一个淮海/苏北乡下土农民，认知和董志民一个水平，啥也不懂，只知道下崽。最后太子被搞死了。 明朝中后期， […]",
+    "source_root_domain": "sinyalee.com"
+  },
+  {
+    "title": "她的爱已烧录进了电路板",
+    "url": "https://lililib.github.io/%E5%A5%B9%E7%9A%84%E7%88%B1%E5%B7%B2%E7%83%A7%E5%BD%95%E8%BF%9B%E4%BA%86%E7%94%B5%E8%B7%AF%E6%9D%BF/",
+    "date": "2026-06-02T09:00:12Z",
+    "description": "原作作者：Das6fY5 备胎岛：No.1767815 搬运：A岛，No.32444047 翻新：贴吧，hapmenory",
+    "source_root_domain": "lililib.github.io"
+  },
+  {
+    "title": "2026.06.02 16:44",
+    "url": "https://kaix.in/2026/0602/",
+    "date": "2026-06-02T08:44:44Z",
+    "description": "前有网络流行文化把长句缩短，生造成「梗」；后有 LLM 靠连词、副词堆叠，拼凑出所谓的逻辑和情绪。一缩一放，准确没了、意味没了、美感没了，心也没了。 fin. 激赏 ！ 来信 。",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "Trend of Agentic Coding Products",
+    "url": "https://laike9m.com/blog/agent-coding-trend,173/",
+    "date": "2026-06-02T06:50:18Z",
+    "description": "没有简介, 请去看原文吧",
+    "source_root_domain": "laike9m.com"
+  },
+  {
+    "title": "Flink 使用 Hutool 调用 Kubernetes Service 负载不均处理笔记",
+    "url": "https://199604.com/3569",
+    "date": "2026-06-02T03:52:53Z",
+    "description": "Flink 使用 Hutool 调用 Kubernetes Service 负载不均处理笔记 1. 处理背景与 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "Ambermoon updated",
+    "url": "https://macsourceports.com/game/ambermoon",
+    "date": "2026-06-02T03:47:58Z",
+    "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.13.3 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "来自儿童的重要一课",
+    "url": "https://www.hecaitou.com/2026/06/lessons-from-children.html",
+    "date": "2026-06-02T03:41:47Z",
+    "description": "每年儿童节的时候，有些读者就期待我专门为小朋友写一篇类似寄语那样的文章，搞得我还很年轻就有了强烈的人瑞感。何苦来呢？ 在每一天里，从早到晚都有太多人要对小朋友说太多话。你们看看小家伙他们的模样---火柴棍一样的细脖颈，顶着一个硕大的脑袋，摇零晃荡，不堪重负，为什么还要给他们增添负担：来，这里有一篇文章你好好听一下。 听了又如何呢？小朋友只是喜欢待在你身边，和你一起做点什么事，什么事都行，而不是真喜欢什么慈祥老爷爷的来信。 不需要我们这些成人给孩子太多东西去学习，相反的，我认为我们从孩子身上学习一些我们早已经遗忘了的课程。比如说：如何和无聊相处。这是每一个孩子都会的技能，他们在一天之中有大量的时间处于无聊状态，但是手头没有成人那些打发无聊的工具，所以只能生受。 时常看到一个孩子在沙堆里能玩一下午，蹲在墙角看蚂蚁又可以看一下午，又或者是吃饭睡觉洗澡手里都要攥着一个平凡无奇的玻璃球，甚至只是坐在椅子上凝视虚空发呆。孩童几乎是以本能找到了和无聊相处的方法---给自己找点什么事做，然后专注其中几个小时。再往后，就到了大人给自己安排各种事情的时候了。 成人没有这种本事。成人不能和无聊平静地相处，无",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Memos: 推荐安装 Codegraph 和 rtk 减少 Token 消耗",
+    "url": "https://blog.yasking.org/a/1780371062.html",
+    "date": "2026-06-02T03:38:00Z",
+    "description": "Codegraph 和 rtk ，前者通过静态分析构建代码调用关系图谱，解决 AI 在大项目中反复 grep/read 文件、难以理解项目结构和影响范围的问 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "大连・五一三天旅程记录（2026）",
+    "url": "https://blog.yasking.org/a/photos-dalian.html",
+    "date": "2026-06-02T01:41:23Z",
+    "description": "十几年前就听说大连市现代、干净，在北方城市是独一档的，五一没规划去远的地方，就临时起意去大连转转 妻子的姐姐、姐 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "与 AI 如何保持“社交安全距离”？ I",
+    "url": "https://mobius.blog/24395.html",
+    "date": "2026-06-02T00:55:00Z",
+    "description": "每过一段时间，我就会把 AI 的话题阶段性聊一聊，在“坐标”里，我也专门拎出了“AI 会毁灭人类吗？”的专题， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "2026年第22周：给五月画上句点",
+    "url": "https://blog.sakoamc.com/posts/2622/",
+    "date": "2026-06-02T00:00:00Z",
+    "description": "题记：给五月画上句点、给上周一个交代。",
+    "source_root_domain": "sakoamc.com"
+  }
+]
