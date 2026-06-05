@@ -252,18 +252,18 @@
     "source_root_domain": "ghyghoo8.github.io"
   },
   {
-    "title": "无人守望的麦田",
-    "url": "https://blog.zopiya.com/wu-ren-shou-wang-de-mai-tian-a3f8b2c1/",
-    "date": "2026-06-03T16:00:00Z",
-    "description": "每天上班的路上，我都会开车经过一个十字路口。那里总有一个老人，坐在轮椅上，默默看着来往的车流。不与人交谈，只是静静地坐着。 小区里，阴凉处也常坐着一些老人，挤在一块儿，很少交谈，没有争吵，没有笑声，就那么不出声地坐着。既不急于离开，也不真正交流，这其中也有我的爷爷……",
-    "source_root_domain": "7wate.com"
-  },
-  {
     "title": "Blog增加搜索功能",
     "url": "https://elmagnifico.tech/2026/06/04/Pagefind/",
     "date": "2026-06-03T16:00:00Z",
     "description": "Foreword 博客文章越来越多，靠标签和翻页找东西越来越费劲。站点是 Jekyll 静态部署在 VPS 上的，不想为了搜索再挂一个 Elasticsearch 或者 Meilisearch，所以目标是： 构建时生成索引，线上纯静态文件，浏览器里完成检索 。 试了一圈以后，最终用的是 Pagefind + 自建的子串索引 双轨方案。这篇文章记录选型过程、当前实现，以及和其他方案的对比，方便以后自己维护或者换方案时有个参照。 Pagefind https://pagefind.app/ Pagefind 是 MIT 协议的开源静态站搜索库，和 Algolia DocSearch 那种「云端 API」不同，它完全跑在访客浏览器里： 构建阶段 ： jekyll build 产出 HTML 后，执行 npx pagefind ，扫描带 data-pagefind-body 的正文区域，按语言规则分词，生成倒排索引（ .pfindex 、 .pfmeta 、 .pffragment 等），和站点一起部署。 使用阶段 ：页面加载 pagefind.js + WASM，用户输入查询词后同样在客户端",
     "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "无人守望的麦田",
+    "url": "https://blog.zopiya.com/wu-ren-shou-wang-de-mai-tian-a3f8b2c1/",
+    "date": "2026-06-03T16:00:00Z",
+    "description": "每天上班的路上，我都会开车经过一个十字路口。那里总有一个老人，坐在轮椅上，默默看着来往的车流。不与人交谈，只是静静地坐着。 小区里，阴凉处也常坐着一些老人，挤在一块儿，很少交谈，没有争吵，没有笑声，就那么不出声地坐着。既不急于离开，也不真正交流，这其中也有我的爷爷……",
+    "source_root_domain": "7wate.com"
   },
   {
     "title": "异性之间有纯友谊吗？",
