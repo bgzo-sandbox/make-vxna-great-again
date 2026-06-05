@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-05 | [20260605的胡言乱语](https://www.bboy.app/2026/06/05/20260605%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
+| 2026-06-05 | [Random Thoughts - 20260605](https://www.bboy.app/2026/06/05/random-thoughts-20260605/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-06-05 | [2026年5月总结](https://lililib.github.io/2026%E5%B9%B45%E6%9C%88%E6%80%BB%E7%BB%93/) | 博客感觉空空荡荡的,从这个月开始,每月记录一下总结吧. 回首望去,一年已过半,似乎啥都没做,没有什么印象深刻的东西.明年年后,我大概会对这半年什么也回忆不起来,可能只有一个懵懂的感觉,日复一日地麻木上班吧. 看来我需要把时间在文字中留下痕迹,给我多点活着的感觉了. |
+| 2026-06-05 | [回归晨跑](https://www.geedea.pro/article/back-to-jogging/) | 去年秋冬我丢掉了跑步的习惯，我怪罪天气，不喜欢在寒风中大汗淋漓。冬天的重庆，气温很尴尬，跑者社群里常谈的「三层穿衣法」根本不适用，而穿少了又会冷。今年初夏，确实没理由不跑了，正好也想要调整作息，我决定开始晨跑。 去年读了一本很棒的有关生物钟的书，叫作《 绝佳时间 》。尽管掌握了不少和昼夜节律相关的知… |
+| 2026-06-05 | [参加北极光CEO峰会：AI、出海、健康](https://wenfeixiang.com/2026/06/the-2026-year-northern-light-venture-capital-ceo-summit/) | 作为北极光创投的被投企业，每年都有一次CEO峰会，大家聚到一起，聆听专家分享、互动话题交流、分组讨论等。 今年 […] |
 | 2026-06-05 | [限制 Kubernetes 本地临时存储的容量](https://199604.com/3575) | 限制 Kubernetes 本地临时存储的容量 参考文章：如何限制KUBERNETES本地临时存储的容量 本文 […] |
 | 2026-06-05 | [芒种 III](https://mobius.blog/24434.html) | “又要到芒种了，我想提前祝福你，我怕你举报我；我怕晚点祝福你，祝福又会迟到，所以我今年先不挑日子，在这里祝你芒 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-05 | [AsyncT vllm适配、加速笔记（三）](https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%B8%89/) | 最后一篇，主要囊括了AsyncT算子最终的Hopper Specilized版本算子介绍、一些最终效果的breakdown，以及对接下来可以做的工作的一些分析。下一步要对训练做些优化了。 |
