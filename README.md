@@ -27,11 +27,17 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-05 | [食客、背包与自助餐](https://mobius.blog/24427.html) | 刚才去吃了顿自助餐，吃不重要，重要的是在吃的时候，我又看到了“坏世界”的一个角落。 等开餐时，我背着我的电脑包 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-05 | [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 本周开馆的深圳国际美术馆。（ via ） 中国 AI 大厂访问记 今年5月上旬，一个美国访问团来到中国，… |
+| 2026-06-05 | [Memos #2026-06-04](https://www.taober.blog/memos) | 11:27 终于我的 Claude Code 想听歌了 😄 23:55 炸鸡叔死也是这么优雅！ |
+| 2026-06-04 | [把真话卖出去](https://www.linggandianbo.com/newsletter-126/) | 从 Naval 的真诚销售、日本公司的组织基因、死寂经济、领域知识护城河，到 AI 时代仍然混乱而珍贵的人类生活｜灵感电波 #126 |
 | 2026-06-04 | [23学习周刊-总第266期-2026年第23周](https://wiki.eryajf.net/pages/12eb60/) | 如要阅读全文，点击标题跳转。 学习周刊-总第266期 &#124; muxy &#124; Buffer &#124; NodeLite &#124; Lucarne &#124; ColorTxt &#124; papr &#124; nyaterm |
 | 2026-06-04 | [我如何与 AI 有效沟通 - "AI 驾驭术"入门分享](https://diff.im/blog/2026/06/%E6%88%91%E5%A6%82%E4%BD%95%E4%B8%8E-ai-%E6%9C%89%E6%95%88%E6%B2%9F%E9%80%9A-ai-%E9%A9%BE%E9%A9%AD%E6%9C%AF%E5%85%A5%E9%97%A8%E5%88%86%E4%BA%AB/) | 如今谁还没有用过 AI 呢？ 身边几乎所有人都在用 AI，从老人到小孩。 但是不同的人用 AI 的方式不一样，得到的结果也不一样。 有人把 AI 当成一个搜索引擎，快速地找到答案，这挺好。这是 AI 使用的起步阶段。 也有人通过 AI，十倍甚至几十倍地提高自己的工作效率。有人用 AI 编程，开发出各… |
 | 2026-06-04 | [William Shatner's TekWar updated](https://macsourceports.com/game/tekwar) | The build of JFTekWar for William Shatner's TekWar has been updated to version 20260603 of the project |
+| 2026-06-04 | [Skills进阶](https://elmagnifico.tech/2026/06/05/Agent-Skills2/) | Foreword 前一篇 Skills 算是简单的试用，日常用起来也没问题。但是如果要给一个软件写 Skills，把软件能力变成 AI 可以控制并且能完成你设定 pipeline 的 Skill，实践起来就有一些不一样了。 这里以 MenuReel（连锁餐厅数字菜单动效短片编排软件）为例，记录一下实… |
 | 2026-06-04 | [人们在什么时候成为真正的朋友？](https://blog.solazy.me/20260604/) | 今天继续聊和友谊相关的话题 |
 | 2026-06-04 | [Album#42 - Wake Up Calls](https://taxodium.ink/album-42.html) | Album#42 Wake Up Calls 图1 《Wake Up Calls》専輯封面 专辑信息 专辑名称： Wake Up Calls 歌手： Cosmo Sheldrake 年份： 2020-09-18 风格： 純音樂、白噪音、自然 时长： 約 30 分鍾 一張由很多鳥類参与制作的専輯，可以… |
+| 2026-06-04 | [AsyncT vllm适配、加速笔记（三）](https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%B8%89/) | 最后一篇，主要囊括了AsyncT算子最终的Hopper Specilized版本算子介绍、一些最终效果的breakdown，以及对接下来可以做的工作的一些分析。下一步要对训练做些优化了。 |
 | 2026-06-04 | [AI漫谈录-5:如何实现真正的人工智能](https://brain-zhang.github.io/blog/2026/06/04/aiman-tan-lu-5/) | 我现在每天跟AI的对话已经远远超过跟人的交流了；有时候会产生有一些很有意思的对话内容，记录一下: 这一期记录的是跟豆包聊如何实现真正的人工智能： 豆包，你好呀。 你好呀！今天过得怎么样？ 今天我想跟你讨论一下现在的人工智能技术的发展。 现在 AI 发展的核心变化是从 “预测下一个词” 转向 “预测世… |
 | 2026-06-04 | [从 CLOS 审视 Java 面向对象编程](https://www.geedea.pro/article/clos/) | 书接 上回 ，前一篇文章讲了 Lisp 中的基本数据结构列表的构造方式（ cons pair ），以及由此衍生出的关联列表（ alist ）和属性列表（ plist ），之后我就跑偏了，谈起了编译器和解释器中的「特例」以及宏，为什么看起来像是函数的形式实际上不是也不能是函数，最后浅谈了函数式编程和… |
 | 2026-06-04 | [罗马-佛罗伦萨-梵蒂冈之旅（三）](https://eduardoqian.com/archives/luo-ma-fo-luo-lun-sa-fan-di-gang-zhi-lu-san) | 在结束了从罗马到佛罗伦萨的旅程，并在佛罗伦萨理发简单闲逛之后。第二天，我的主要旅游场地便是佛罗伦萨的景点旅游景点乌菲兹美术馆和皮蒂宫。 当天的天气并不是很好，有阵雨。 乌菲兹美术馆的人很多，如果要来，记得提前在网上订票 出了乌菲兹美术 |
@@ -42,7 +48,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-04 | [密码保护：蕴瑜课堂自动播放脚本使用说明](https://199604.com/3573) | 无法提供摘要。这是一篇受保护的文章。 |
 | 2026-06-04 | [现代生活中的闭关](https://www.hecaitou.com/2026/06/Retreating-in-Modern-Life.html) | 一说到闭关，人们就会想到一个走入山洞的背影，然后断龙石缓缓落下，沉闷地撞击地面扬起一阵尘土。又或者一间小屋子，从外面上了锁，在门板下方有个很小的洞，可以往里面送饭菜。等到出关的时候，重点一般都是武功大成，一掌之下，一切灰飞烟灭。 这样的闭关太古典了，也距离现代生活太遥远了。 宗萨仁波切最近给出了关于… |
 | 2026-06-04 | [与 AI 如何保持“社交安全距离”？ III](https://mobius.blog/24414.html) | 前两天的内容，聊到了人们与 AI 相处过程中可能存在的不同“阶段”，然后试着解构了人们之所以会“依赖”AI 的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-04 | [Memos #2026-06-03](https://www.taober.blog/memos) | 09:03 心心念念的泡沫箱肠粉，好吃！ |
 | 2026-06-03 | [游记-千岛湖](https://blog.thetbw.xyz/archives/travelogue-qiandaohu) | 最近第一站吧，先来最近的杭州转了转，刚好也有一个面试，至于面试结果啥的，也不咋期待了吧，明天还有别的面试，都玩着看着吧。 没想到千岛湖里杭州市区还挺远的，开了一个多小时，这次旅行，就打算开车转转，也不打算进什么收费景区，吃什么当地特色，一是感觉这玩意都大同小异，还浪费钱，毕竟现在还是失业，要该省的省… |
 | 2026-06-03 | [零帧起手——第一次做游戏的踩坑笔记](https://ghyghoo8.github.io/2026/06/04/2026-06-04-%E9%9B%B6%E5%B8%A7%E8%B5%B7%E6%89%8B-%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%81%9A%E6%B8%B8%E6%88%8F%E7%9A%84%E8%B8%A9%E5%9D%91%E7%AC%94%E8%AE%B0/) | 这是一篇写给自己的复盘。我是个写了多年 Python / JS 的程序员，业余时间用 Godot 做一款像素风的「连线消除 + |
 | 2026-06-03 | [Blog增加搜索功能](https://elmagnifico.tech/2026/06/04/Pagefind/) | Foreword 博客文章越来越多，靠标签和翻页找东西越来越费劲。站点是 Jekyll 静态部署在 VPS 上的，不想为了搜索再挂一个 Elasticsearch 或者 Meilisearch，所以目标是： 构建时生成索引，线上纯静态文件，浏览器里完成检索 。 试了一圈以后，最终用的是 Pagefi… |
@@ -142,27 +147,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-29 | [日本小学语文课文（一年级上）](https://springwood.me/jp-elementary-school-language-1a/) | 中小学各科教材由多家不同出版社出版，各市自己选择其中一个版本。由于版权保护，官方不能提供电子版，网上也不会有人 [...] Read More "日本小学语文课文（一年级上）" |
 | 2026-05-29 | [人为什么总在切换赛道？](https://mobius.blog/24365.html) | 这是去年留下的“后话”，一直没有聊完，也是因为自己也在切换赛道。 所谓的「命」，本身也没有好坏之分，只是人们迫 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-05-29 | [科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 去年开放的浙江省安吉县的安吉文化艺术中心。当地盛产竹子，屋顶都采用竹叶造型。（ daemin_kg@ig… |
-| 2026-05-28 | [没有人毫发无损地长大](https://www.linggandianbo.com/newsletter-125/) | 从童年的权力痕迹、安全主义、演化的身体、买房真实成本，到照顾一株植物｜灵感电波 #125 |
-| 2026-05-28 | [学习周刊-总第265期-2026年第22周](https://wiki.eryajf.net/pages/ff83a5/) | 如要阅读全文，点击标题跳转。 学习周刊-总第265期 &#124; Better-Fullstack &#124; supacode &#124; lantor &#124; optimizerDuck &#124; openusage &#124; agentsview &#124; capcap |
-| 2026-05-28 | [朋友圈和公众号，要不要把父母屏蔽？](https://diff.im/blog/2026/05/%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%92%8C%E5%85%AC%E4%BC%97%E5%8F%B7%E8%A6%81%E4%B8%8D%E8%A6%81%E6%8A%8A%E7%88%B6%E6%AF%8D%E5%B1%8F%E8%94%BD/) | 01 我成长于长沙农村，高中开始在学校寄宿。虽然每周也会回家，但从高中到大学，回家的次数越来越少。 大学毕业以后，我离开家到外地工作，每年可能只回家一两次。成家以后，回家差不多就变成了一年一次。 从小我属于那种温和型的叛逆者。我不会和父母有正面冲突，也不会正面抵抗，但我的性格比较倔。很多时候，只要是… |
-| 2026-05-28 | [A Relaxing 6 Day 5 Night Early Summer Trip to Xi an](https://victor42.eth.limo/post-en/trip-to-xi-an/) | The modern narrative of Tang prosperity cannot mask the sigh for the rise and fall of empires. Bordering the Hexi Corridor to the west and China’s vas… |
-| 2026-05-28 | [西安初夏休闲6天5夜](https://victor42.eth.limo/post/trip-to-xi-an/) | 盛唐繁华的现代叙事，掩不住王朝起落的一声长叹。 关中平原西接河西走廊，东向中国广袤的平原地区，见证了许多璀璨文明的兴衰。初夏时节，踏上这片古老土地，感受脚下厚重记忆。 第1天：钟鼓楼与回坊 西安钟鼓楼 钟楼是今天西安城的绝对中心，东西南北直通城墙的四个主门。 主门的名称有讲究。向东是大明王朝腹地，长… |
-| 2026-05-28 | [公司该为员工使用 AI 工具付费吗？](https://blog.solazy.me/20260528/) | 从一次 token 额度的抱怨，聊聊 AI 时代个人效率与公司付费的边界。 |
-| 2026-05-28 | [在纷杂的世界里保持专注](https://blog.lhasa.icu/posts/life/2026-05-28-zhuanzhu) | 此时，凌晨五点，天色蒙蒙亮，我刚写完 Typora Lite 主题配色，突发恶疾，想写点什么 在今天这样一个时代，专注越来越难了 受到干扰的机会儿越来越多，比如屋外的噪音，独处时突然响起的电话，都在随时随地影响着你 但难道说，你不专注全都是外界的锅吗？ 那么问题就来了， 专注的本质到底是什么？ 早年… |
-| 2026-05-28 | [About My Car](https://www.bboy.app/2026/05/28/about-my-car/) | Introduction I bought a Honda Civic sedan for 130,000 yuan. Some people might ask why I didn’t buy an Accord—because both cars drive pretty much the s… |
-| 2026-05-28 | [关于我的车](https://www.bboy.app/2026/05/28/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E8%BD%A6/) | 简介 之前花了13万买了辆本田型格。可能有人问为啥不买雅阁，因为两辆车开起来差不了多少，除了座椅舒服点就没啥区别了。剩下的5万块差价可以用来加油，不过话说回来，还是有点遗憾没有咬牙买雅阁。 |
-| 2026-05-28 | [Lesson 13 Tides](https://physnya.top/star-planet/lesson-13-tides/) | 沿用之前的符号命名，但是我们这节课要开始做近似. 考虑 r 2 / d ≪ 1 r_2/d\ll 1 r 2 ​ / d ≪ 1 ，同时利用下面的单位制： |
-| 2026-05-28 | [不修改nginx接收websocket](https://blog.est.im/2026/stdout-20) | 以前只记得要支持websocket 需要 nginx 改： location /ws-service-a { proxypass http://backenda; proxyhttpversion 1.1; proxysetheader Upgrade $httpupgrade; proxyseth… |
-| 2026-05-28 | [20260528的胡言乱语](https://www.bboy.app/2026/05/28/20260528%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
-| 2026-05-28 | [Random Thoughts - 20260528](https://www.bboy.app/2026/05/28/random-thoughts-20260528/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
-| 2026-05-28 | [PIXPRO主题魔改教程（持续更新）](https://www.evan.xin/5016/) | 注意⚠️1. 本教程内容，仅限于阶段性使用，版本更新后可以直接设置；2. 程序搭建环境存在差异，使用前需慎重评 […] |
-| 2026-05-28 | [人肉装饰器](https://www.geedea.pro/article/meat-decorator/) | 今年三月底，有一篇题为《 Meat-based LLM proxies 》的文章在 Hacker News 上小火了一阵，作者是这样描述某一类人的： They’ll talk to you as if they’re human, except all of their words are writ… |
-| 2026-05-28 | [齐家：一款免费亲子关系AI助手](https://www.hecaitou.com/2026/05/A-free-ai-assistant-for-parent-child-relationships.html) | 我在杭州的朋友赵翼是位连续创业者，前几年进入了创业间歇期，每天在朋友圈发自己学习吉他弹唱，一天一曲老歌，看起来完全进入了退休老工人赵师傅的状态。 去年某一天，他突然开始全速运转起来，不是在朋友圈召唤江湖人等，就是发布团队封闭开发的现场图片。前几天他找到我，说是他的新项目上线，正式开始内测。 之前有感… |
-| 2026-05-28 | [Blake Stone: Aliens of Gold updated](https://macsourceports.com/game/bstone1) | The build of bstone for Blake Stone: Aliens of Gold has been updated to version v1.3.4 of the project |
-| 2026-05-28 | [Blake Stone: Planet Strike updated](https://macsourceports.com/game/bstone2) | The build of bstone for Blake Stone: Planet Strike has been updated to version v1.3.4 of the project |
-| 2026-05-28 | [在一个午夜梦回时刻的毒发](https://mobius.blog/24346.html) | 很久之前，一个朋友评价我的想法和观点是一种“慢性毒药”，当下不会产生反应，但是时间一久，在某一刻他经历了类似的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-28 | [等一个黄金坑：中海物业跌到什么价位，到手股息率能有6%？](https://programnotes.cn/stock-dividend-%E4%B8%AD%E6%B5%B7%E7%89%A9%E4%B8%9A/index.html) | 分析中海物业在何种股价下能实现6%的到手股息率，并探讨其投资价值与风险。 |
-| 2026-05-28 | [LLM 不会数数——输出长度控制的工程实践](https://folay.top/blog/llm-length-control) | 36 次控制变量实验揭示：计数口径偏差、推理 token 挤压、小样本幻觉，三个坑叠在一起导致 93% 的输出超标。 |
 
 ## Vibe Coding
 
