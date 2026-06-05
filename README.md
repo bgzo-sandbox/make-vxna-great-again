@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-05 | [孩子房间乱，父母到底该管什么？](https://diff.im/blog/2026/06/%E5%AD%A9%E5%AD%90%E6%88%BF%E9%97%B4%E4%B9%B1%E7%88%B6%E6%AF%8D%E5%88%B0%E5%BA%95%E8%AF%A5%E7%AE%A1%E4%BB%80%E4%B9%88/) | 作为一个慈祥有爱的三个孩子的老父亲，我当然有非常非常多的优点。但是坦白讲，有两件事情，在和青少年（也就是 teenage 的孩子）相处的时候，非常容易把我给惹毛了。 第一，是电子设备，比如手机。 第二，就是孩子房间的脏乱差。 这两点我想可能不仅是我，也是绝大部分青春期孩子父母的痛点。在我们教会各种育… |
 | 2026-06-05 | [20260605的胡言乱语](https://www.bboy.app/2026/06/05/20260605%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-06-05 | [Random Thoughts - 20260605](https://www.bboy.app/2026/06/05/random-thoughts-20260605/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
 | 2026-06-05 | [Lesson 28 暴涨前的涨落信息](https://physnya.top/GR/lesson-28-inflation-information/) | 一个标量场，分为一个各向同性的项和一个涨落， ϕ ( t , x ⃗ ) = ϕ ˉ ( t ) + δ ϕ ( t , x ⃗ ) \phi(t,\vec{x}) = \bar\phi(t)+\delta\phi(t,\vec{x}) ϕ ( t , x ) = ϕ ˉ ​ ( t ) + δ ϕ… |
@@ -62,6 +63,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-04 | [与 AI 如何保持“社交安全距离”？ III](https://mobius.blog/24414.html) | 前两天的内容，聊到了人们与 AI 相处过程中可能存在的不同“阶段”，然后试着解构了人们之所以会“依赖”AI 的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-03 | [游记-千岛湖](https://blog.thetbw.xyz/archives/travelogue-qiandaohu) | 最近第一站吧，先来最近的杭州转了转，刚好也有一个面试，至于面试结果啥的，也不咋期待了吧，明天还有别的面试，都玩着看着吧。 没想到千岛湖里杭州市区还挺远的，开了一个多小时，这次旅行，就打算开车转转，也不打算进什么收费景区，吃什么当地特色，一是感觉这玩意都大同小异，还浪费钱，毕竟现在还是失业，要该省的省… |
 | 2026-06-03 | [零帧起手——第一次做游戏的踩坑笔记](https://ghyghoo8.github.io/2026/06/04/2026-06-04-%E9%9B%B6%E5%B8%A7%E8%B5%B7%E6%89%8B-%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%81%9A%E6%B8%B8%E6%88%8F%E7%9A%84%E8%B8%A9%E5%9D%91%E7%AC%94%E8%AE%B0/) | 这是一篇写给自己的复盘。我是个写了多年 Python / JS 的程序员，业余时间用 Godot 做一款像素风的「连线消除 + |
+| 2026-06-03 | [无人守望的麦田](https://blog.zopiya.com/wu-ren-shou-wang-de-mai-tian-a3f8b2c1/) | 每天上班的路上，我都会开车经过一个十字路口。那里总有一个老人，坐在轮椅上，默默看着来往的车流。不与人交谈，只是静静地坐着。 小区里，阴凉处也常坐着一些老人，挤在一块儿，很少交谈，没有争吵，没有笑声，就那么不出声地坐着。既不急于离开，也不真正交流，这其中也有我的爷爷…… |
 | 2026-06-03 | [Blog增加搜索功能](https://elmagnifico.tech/2026/06/04/Pagefind/) | Foreword 博客文章越来越多，靠标签和翻页找东西越来越费劲。站点是 Jekyll 静态部署在 VPS 上的，不想为了搜索再挂一个 Elasticsearch 或者 Meilisearch，所以目标是： 构建时生成索引，线上纯静态文件，浏览器里完成检索 。 试了一圈以后，最终用的是 Pagefi… |
 | 2026-06-03 | [异性之间有纯友谊吗？](https://blog.solazy.me/20260603/) | 今天继续探讨友谊 |
 | 2026-06-03 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
