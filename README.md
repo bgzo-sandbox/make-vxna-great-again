@@ -29,6 +29,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | --- | --- | --- |
 | 2026-06-05 | [20260605的胡言乱语](https://www.bboy.app/2026/06/05/20260605%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-06-05 | [Random Thoughts - 20260605](https://www.bboy.app/2026/06/05/random-thoughts-20260605/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-06-05 | [Lesson 28 暴涨前的涨落信息](https://physnya.top/GR/lesson-28-inflation-information/) | 一个标量场，分为一个各向同性的项和一个涨落， ϕ ( t , x ⃗ ) = ϕ ˉ ( t ) + δ ϕ ( t , x ⃗ ) \phi(t,\vec{x}) = \bar\phi(t)+\delta\phi(t,\vec{x}) ϕ ( t , x ) = ϕ ˉ ​ ( t ) + δ ϕ… |
 | 2026-06-05 | [2026年5月总结](https://lililib.github.io/2026%E5%B9%B45%E6%9C%88%E6%80%BB%E7%BB%93/) | 博客感觉空空荡荡的,从这个月开始,每月记录一下总结吧. 回首望去,一年已过半,似乎啥都没做,没有什么印象深刻的东西.明年年后,我大概会对这半年什么也回忆不起来,可能只有一个懵懂的感觉,日复一日地麻木上班吧. 看来我需要把时间在文字中留下痕迹,给我多点活着的感觉了. |
 | 2026-06-05 | [回归晨跑](https://www.geedea.pro/article/back-to-jogging/) | 去年秋冬我丢掉了跑步的习惯，我怪罪天气，不喜欢在寒风中大汗淋漓。冬天的重庆，气温很尴尬，跑者社群里常谈的「三层穿衣法」根本不适用，而穿少了又会冷。今年初夏，确实没理由不跑了，正好也想要调整作息，我决定开始晨跑。 去年读了一本很棒的有关生物钟的书，叫作《 绝佳时间 》。尽管掌握了不少和昼夜节律相关的知… |
 | 2026-06-05 | [参加北极光CEO峰会：AI、出海、健康](https://wenfeixiang.com/2026/06/the-2026-year-northern-light-venture-capital-ceo-summit/) | 作为北极光创投的被投企业，每年都有一次CEO峰会，大家聚到一起，聆听专家分享、互动话题交流、分组讨论等。 今年 […] |
