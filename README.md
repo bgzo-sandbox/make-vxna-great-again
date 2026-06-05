@@ -27,17 +27,23 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-05 | [限制 Kubernetes 本地临时存储的容量](https://199604.com/3575) | 限制 Kubernetes 本地临时存储的容量 参考文章：如何限制KUBERNETES本地临时存储的容量 本文 […] |
+| 2026-06-05 | [芒种 III](https://mobius.blog/24434.html) | “又要到芒种了，我想提前祝福你，我怕你举报我；我怕晚点祝福你，祝福又会迟到，所以我今年先不挑日子，在这里祝你芒 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-05 | [AsyncT vllm适配、加速笔记（三）](https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%B8%89/) | 最后一篇，主要囊括了AsyncT算子最终的Hopper Specilized版本算子介绍、一些最终效果的breakdown，以及对接下来可以做的工作的一些分析。下一步要对训练做些优化了。 |
+| 2026-06-05 | [中年好心情](https://www.hecaitou.com/2026/06/A-Good-Mood-in-Midlife.html) | 中年之后很少有好心情，40 岁可能是一条分界线。此前人在不断得到，不断进取，之后则开始了漫长的失去，熟悉的旧日世界开始一点点崩塌消失，人也就逐渐慢下脚步，开始惶恐。 很难有什么好心情，而且好心情和过去也大不相同。 可能是因为经历太多次，狂喜早就已经消失了，更多的是礼节性的开心---感觉自己应该开心一… |
+| 2026-06-05 | [AI和柜台费](https://blog.est.im/2026/stderr-21) | 现在这个时间点，观察到两件事： 华为的大模型哑火。国内的AI圈反而没那么多恶臭拉踩舆论 雷不斯天天给MIMO搞新闻。一开始是免费用在Openrouter刷榜；然后在大家都玩按次数的 codng plan它家率先搞 token plan涨价；然后又是 100T 申请免费送；然后跟ds4同款缓存优化降价… |
 | 2026-06-05 | [食客、背包与自助餐](https://mobius.blog/24427.html) | 刚才去吃了顿自助餐，吃不重要，重要的是在吃的时候，我又看到了“坏世界”的一个角落。 等开餐时，我背着我的电脑包 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-05 | [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 本周开馆的深圳国际美术馆。（ via ） 中国 AI 大厂访问记 今年5月上旬，一个美国访问团来到中国，… |
+| 2026-06-05 | [全网寻找的同花顺板块同列网页版来了,盯盘效率提升5倍的黑科技](https://programnotes.cn/stock-tool-online/index.html) | 做股票最怕什么？ 大盘在涨，你找不到热点在哪；看中了板块，来回切窗口的功夫，领头羊已经起飞了。 很多老股民习惯用同花顺的”板块同列”——一屏同时监控多个概念，确实是捕捉 板块轮动 和 联动效应</str |
 | 2026-06-05 | [Memos #2026-06-04](https://www.taober.blog/memos) | 11:27 终于我的 Claude Code 想听歌了 😄 23:55 炸鸡叔死也是这么优雅！ |
 | 2026-06-04 | [把真话卖出去](https://www.linggandianbo.com/newsletter-126/) | 从 Naval 的真诚销售、日本公司的组织基因、死寂经济、领域知识护城河，到 AI 时代仍然混乱而珍贵的人类生活｜灵感电波 #126 |
 | 2026-06-04 | [23学习周刊-总第266期-2026年第23周](https://wiki.eryajf.net/pages/12eb60/) | 如要阅读全文，点击标题跳转。 学习周刊-总第266期 &#124; muxy &#124; Buffer &#124; NodeLite &#124; Lucarne &#124; ColorTxt &#124; papr &#124; nyaterm |
 | 2026-06-04 | [我如何与 AI 有效沟通 - "AI 驾驭术"入门分享](https://diff.im/blog/2026/06/%E6%88%91%E5%A6%82%E4%BD%95%E4%B8%8E-ai-%E6%9C%89%E6%95%88%E6%B2%9F%E9%80%9A-ai-%E9%A9%BE%E9%A9%AD%E6%9C%AF%E5%85%A5%E9%97%A8%E5%88%86%E4%BA%AB/) | 如今谁还没有用过 AI 呢？ 身边几乎所有人都在用 AI，从老人到小孩。 但是不同的人用 AI 的方式不一样，得到的结果也不一样。 有人把 AI 当成一个搜索引擎，快速地找到答案，这挺好。这是 AI 使用的起步阶段。 也有人通过 AI，十倍甚至几十倍地提高自己的工作效率。有人用 AI 编程，开发出各… |
 | 2026-06-04 | [William Shatner's TekWar updated](https://macsourceports.com/game/tekwar) | The build of JFTekWar for William Shatner's TekWar has been updated to version 20260603 of the project |
+| 2026-06-04 | [新手如何搭一个完整的量化分析系统——五层骨架与踩坑复盘](https://ghyghoo8.github.io/2026/06/05/2026-06-05-%E6%96%B0%E6%89%8B%E5%A6%82%E4%BD%95%E6%90%AD%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%95%B4%E7%9A%84%E9%87%8F%E5%8C%96%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F/) | 我业余在做一个 A |
 | 2026-06-04 | [Skills进阶](https://elmagnifico.tech/2026/06/05/Agent-Skills2/) | Foreword 前一篇 Skills 算是简单的试用，日常用起来也没问题。但是如果要给一个软件写 Skills，把软件能力变成 AI 可以控制并且能完成你设定 pipeline 的 Skill，实践起来就有一些不一样了。 这里以 MenuReel（连锁餐厅数字菜单动效短片编排软件）为例，记录一下实… |
 | 2026-06-04 | [人们在什么时候成为真正的朋友？](https://blog.solazy.me/20260604/) | 今天继续聊和友谊相关的话题 |
 | 2026-06-04 | [Album#42 - Wake Up Calls](https://taxodium.ink/album-42.html) | Album#42 Wake Up Calls 图1 《Wake Up Calls》専輯封面 专辑信息 专辑名称： Wake Up Calls 歌手： Cosmo Sheldrake 年份： 2020-09-18 风格： 純音樂、白噪音、自然 时长： 約 30 分鍾 一張由很多鳥類参与制作的専輯，可以… |
-| 2026-06-04 | [AsyncT vllm适配、加速笔记（三）](https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%B8%89/) | 最后一篇，主要囊括了AsyncT算子最终的Hopper Specilized版本算子介绍、一些最终效果的breakdown，以及对接下来可以做的工作的一些分析。下一步要对训练做些优化了。 |
 | 2026-06-04 | [AI漫谈录-5:如何实现真正的人工智能](https://brain-zhang.github.io/blog/2026/06/04/aiman-tan-lu-5/) | 我现在每天跟AI的对话已经远远超过跟人的交流了；有时候会产生有一些很有意思的对话内容，记录一下: 这一期记录的是跟豆包聊如何实现真正的人工智能： 豆包，你好呀。 你好呀！今天过得怎么样？ 今天我想跟你讨论一下现在的人工智能技术的发展。 现在 AI 发展的核心变化是从 “预测下一个词” 转向 “预测世… |
 | 2026-06-04 | [从 CLOS 审视 Java 面向对象编程](https://www.geedea.pro/article/clos/) | 书接 上回 ，前一篇文章讲了 Lisp 中的基本数据结构列表的构造方式（ cons pair ），以及由此衍生出的关联列表（ alist ）和属性列表（ plist ），之后我就跑偏了，谈起了编译器和解释器中的「特例」以及宏，为什么看起来像是函数的形式实际上不是也不能是函数，最后浅谈了函数式编程和… |
 | 2026-06-04 | [罗马-佛罗伦萨-梵蒂冈之旅（三）](https://eduardoqian.com/archives/luo-ma-fo-luo-lun-sa-fan-di-gang-zhi-lu-san) | 在结束了从罗马到佛罗伦萨的旅程，并在佛罗伦萨理发简单闲逛之后。第二天，我的主要旅游场地便是佛罗伦萨的景点旅游景点乌菲兹美术馆和皮蒂宫。 当天的天气并不是很好，有阵雨。 乌菲兹美术馆的人很多，如果要来，记得提前在网上订票 出了乌菲兹美术 |

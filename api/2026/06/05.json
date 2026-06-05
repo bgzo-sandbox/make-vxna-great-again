@@ -1,5 +1,40 @@
 [
   {
+    "title": "限制 Kubernetes 本地临时存储的容量",
+    "url": "https://199604.com/3575",
+    "date": "2026-06-05T07:35:39Z",
+    "description": "限制 Kubernetes 本地临时存储的容量 参考文章：如何限制KUBERNETES本地临时存储的容量 本文 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "芒种 III",
+    "url": "https://mobius.blog/24434.html",
+    "date": "2026-06-05T06:00:00Z",
+    "description": "“又要到芒种了，我想提前祝福你，我怕你举报我；我怕晚点祝福你，祝福又会迟到，所以我今年先不挑日子，在这里祝你芒 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "AsyncT vllm适配、加速笔记（三）",
+    "url": "https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%B8%89/",
+    "date": "2026-06-05T04:57:00Z",
+    "description": "最后一篇，主要囊括了AsyncT算子最终的Hopper Specilized版本算子介绍、一些最终效果的breakdown，以及对接下来可以做的工作的一些分析。下一步要对训练做些优化了。",
+    "source_root_domain": "mer.dev"
+  },
+  {
+    "title": "中年好心情",
+    "url": "https://www.hecaitou.com/2026/06/A-Good-Mood-in-Midlife.html",
+    "date": "2026-06-05T03:58:57Z",
+    "description": "中年之后很少有好心情，40 岁可能是一条分界线。此前人在不断得到，不断进取，之后则开始了漫长的失去，熟悉的旧日世界开始一点点崩塌消失，人也就逐渐慢下脚步，开始惶恐。 很难有什么好心情，而且好心情和过去也大不相同。 可能是因为经历太多次，狂喜早就已经消失了，更多的是礼节性的开心---感觉自己应该开心一下才对，但是内心却并没有多少真正的涌动。我怀疑许多中年人的喜好都是带有强制性色彩的任务，比如健身，比如收藏，比如钓鱼，比如烧音响，再比如说沉迷 AI 一类的事情。 不能说是不热爱，也不能说是不投入，但有些东西不一样了。总感觉在那些兴致勃勃之下有一只手肘，那只手肘正倚在某个具体的喜好上。而年轻人并不是这样，即便早上他们还在极度投入某项爱好，真心实意地投入，到了傍晚他们就可能毫不犹豫地转投另一样，中间不会有丝毫的犹豫和停顿，因为他们不需要用特定的爱好来撑住自己，更不需要证明自己还有热爱的能力。 喜好上承载了太多重量，那么从中得到的快乐怕就没有那么丰沛，怕也就没有那么纯粹，和先看存折和房产证的中年爱情有类似之处。 坏消息不断传来，即便自己知道好坏只是二元对立的概念，即便经历过许多次，但是目睹旧世界",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "AI和柜台费",
+    "url": "https://blog.est.im/2026/stderr-21",
+    "date": "2026-06-05T02:24:00Z",
+    "description": "现在这个时间点，观察到两件事： 华为的大模型哑火。国内的AI圈反而没那么多恶臭拉踩舆论 雷不斯天天给MIMO搞新闻。一开始是免费用在Openrouter刷榜；然后在大家都玩按次数的 codng plan它家率先搞 token plan涨价；然后又是 100T 申请免费送；然后跟ds4同款缓存优化降价；然后又是给流失老付费用户免费一个月套餐 MIMO是很用力的去刷榜。why？ 马斯克几百亿买 cursor，一个vscode套壳，why？ 这两个问题，我在过去几周一直琢磨，那就是 AI 行业和 软件 互联网 最大的差别，他是有边际成本的。他的玩法变了 雷不斯刷榜的 Openrouter 和马斯克买的 Cursor，还有遍地开花的 “中转站”，而且据说有大厂买中转站数据去训练和蒸馏。 边际成本不为0 ，中间商，这两件事在我脑海里酝酿出一个结论： AI 属于传统行业 它每次吐 token 是有不可忽视的制造成本的； 中转站，Openrouter，Cursor，属于柜台费 对于这个说法，跟身边的人和网友交流，并不能服众。跟AI交流，它一通分析，边际成本 和 柜台费 渠道费 有一定关联，但是没有必",
+    "source_root_domain": "feedburner.com"
+  },
+  {
     "title": "食客、背包与自助餐",
     "url": "https://mobius.blog/24427.html",
     "date": "2026-06-05T00:55:00Z",
@@ -12,6 +47,13 @@
     "date": "2026-06-05T00:07:45Z",
     "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 本周开馆的深圳国际美术馆。（ via ） 中国 AI 大厂访问记 今年5月上旬，一个美国访问团来到中国，访问了14家 AI 和机器人公司。 访问对象包括 DeepSeek、月之暗面、MiniMax、智谱、字节跳动、阿里、蚂蚁、小米、零一万物、宇树、魔搭社区等。 所有成员都是科技分析师，回到美国后，每个人都写了访问观感： Kevin Xu 、 afra Wang 、 Florian Brand 、 Nathan Lambert 、 Azeem Azhar 、 Lily Ottinger and Kai Williams 、 Jasmine Sun 、 Lingua Sinica 、 Caithrin 。 这些文章有很多有意思的内容，我做了一些摘录。为了保证阅读体验，就不单独注明每一段的出处了。 1、算力的差距 我们在每一家公司都听到一个共同的抱怨：算力不足。这使得实验次数减少，模型规模缩小。 中",
     "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "全网寻找的同花顺板块同列网页版来了,盯盘效率提升5倍的黑科技",
+    "url": "https://programnotes.cn/stock-tool-online/index.html",
+    "date": "2026-06-05T00:00:00Z",
+    "description": "做股票最怕什么？ 大盘在涨，你找不到热点在哪；看中了板块，来回切窗口的功夫，领头羊已经起飞了。 很多老股民习惯用同花顺的”板块同列”——一屏同时监控多个概念，确实是捕捉 板块轮动 和 联动效应</str",
+    "source_root_domain": "programnotes.cn"
   },
   {
     "title": "Memos #2026-06-04",
@@ -49,6 +91,13 @@
     "source_root_domain": "macsourceports.com"
   },
   {
+    "title": "新手如何搭一个完整的量化分析系统——五层骨架与踩坑复盘",
+    "url": "https://ghyghoo8.github.io/2026/06/05/2026-06-05-%E6%96%B0%E6%89%8B%E5%A6%82%E4%BD%95%E6%90%AD%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%95%B4%E7%9A%84%E9%87%8F%E5%8C%96%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F/",
+    "date": "2026-06-04T16:00:00Z",
+    "description": "我业余在做一个 A",
+    "source_root_domain": "ghyghoo8.github.io"
+  },
+  {
     "title": "Skills进阶",
     "url": "https://elmagnifico.tech/2026/06/05/Agent-Skills2/",
     "date": "2026-06-04T16:00:00Z",
@@ -70,13 +119,6 @@
     "source_root_domain": "taxodium.ink"
   },
   {
-    "title": "AsyncT vllm适配、加速笔记（三）",
-    "url": "https://mer.run/posts/asynct-vllm%E9%80%82%E9%85%8D%E5%8A%A0%E9%80%9F%E7%AC%94%E8%AE%B0%E4%B8%89/",
-    "date": "2026-06-04T11:33:00Z",
-    "description": "最后一篇，主要囊括了AsyncT算子最终的Hopper Specilized版本算子介绍、一些最终效果的breakdown，以及对接下来可以做的工作的一些分析。下一步要对训练做些优化了。",
-    "source_root_domain": "mer.dev"
-  },
-  {
     "title": "AI漫谈录-5:如何实现真正的人工智能",
     "url": "https://brain-zhang.github.io/blog/2026/06/04/aiman-tan-lu-5/",
     "date": "2026-06-04T11:26:48Z",
@@ -87,7 +129,7 @@
     "title": "从 CLOS 审视 Java 面向对象编程",
     "url": "https://www.geedea.pro/article/clos/",
     "date": "2026-06-04T11:23:18Z",
-    "description": "书接 上回 ，前一篇文章讲了 Lisp 中的基本数据结构列表的构造方式（ cons pair ），以及由此衍生出的关联列表（ alist ）和属性列表（ plist ），之后我就跑偏了，谈起了编译器和解释器中的「特例」以及宏，为什么看起来像是函数的形式实际上不是也不能是函数，最后浅谈了函数式编程和 let 的实现方式。 今天的文章 继续跑偏 ，来关注 Common Lisp 的另一部分语言特性，即面向对象编程，也借此来谈谈我对 OOP 多少有些复杂 的看法。我将逐个审视 OOP 的三大要素——多态、封装和多态——再来反思面向对象设计模式。 不属于类的多态 Common Lisp 在这点上与 Clojure 类似，提供了非常相似的 defgeneric （CL）和 defmulti （Clojure），它们都能定义「抽象函数」，也就是不包含具体实现的函数。之后可以使用 defmethod （两门语言相同）定义方法，也就是抽象函数的具体实现。 以下是来自 Common Lisp 文档 的例子： ( defgeneric description (object) ( :documentati",
+    "description": "书接 上回 ，前一篇文章讲了 Lisp 中的基本数据结构列表的构造方式（ cons pair ），以及由此衍生出的关联列表（ alist ）和属性列表（ plist ），之后我就跑偏了，谈起了编译器和解释器中的「特例」以及宏，为什么看起来像是函数的形式实际上不是也不能是函数，最后浅谈了函数式编程和 let 的实现方式。 今天的文章 继续跑偏 ，来关注 Common Lisp 的另一部分语言特性，即面向对象编程，也借此来谈谈我对 OOP 多少有些复杂 的看法。我将逐个审视 OOP 的三大要素——多态、封装和继承——再来反思面向对象设计模式。 不属于类的多态 Common Lisp 在这点上与 Clojure 类似，提供了非常相似的 defgeneric （CL）和 defmulti （Clojure），它们都能定义「抽象函数」，也就是不包含具体实现的函数。之后可以使用 defmethod （两门语言相同）定义方法，也就是抽象函数的具体实现。 以下是来自 Common Lisp 文档 的例子： ( defgeneric description (object) ( :documentati",
     "source_root_domain": "geedea.pro"
   },
   {
