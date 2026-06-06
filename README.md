@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-06 | [WordPress 7.0 开启 AI 写作新时代：Gemini 实测与配置心得](https://www.quji.org/archives/8789?pk_campaign=feed&pk_kwd=wordpress-7-0-%25e5%25bc%2580%25e5%2590%25af-ai-%25e5%2586%2599%25e4%25bd%259c%25e6%2596%25b0%25e6%2597%25b6%25e4%25bb%25a3%25ef%25bc%259agemini-%25e5%25ae%259e%25e6%25b5%258b%25e4%25b8%258e%25e9%2585%258d%25e7%25bd%25ae%25e5%25bf%2583%25e5%25be%2597) | WordPress 7.0版本正式接入AI功能，为创作者带来全新体验。通过安装AI插件并连接Gemini等模型，用户可实现自动生成优化标题、精美封面及文章摘要。作者分享了因服务器地域限制迁移至日本后成功开启功能的经历，并感叹这些智能化工具极大地简化了发布流程，让博客创作变得更加高效便捷。 |
 | 2026-06-06 | [You call it Slum, we call it Home 你们叫贫民窟,我们叫家](https://www.dufengyan.com/kibera-tours/) | 内罗毕有人专门做基贝拉的贫民窟游。外人花点钱进去，看看穷长什么样，拍几张照片，走人 […] |
 | 2026-06-06 | [前天在拉穆，路边有人嚼 miraa](https://www.dufengyan.com/lamu-miraa/) | 前天，6 月 4 日，我在拉穆老城瞎逛，看见路边有人在嚼恰特草。 这东西我太熟了，内罗毕满街都是 […] |
 | 2026-06-06 | [前天在拉穆，路边有人嚼 miraa](https://www.dufengyan.com/%e5%89%8d%e5%a4%a9%e5%9c%a8%e6%8b%89%e7%a9%86%ef%bc%8c%e8%b7%af%e8%be%b9%e6%9c%89%e4%ba%ba%e5%9a%bc-miraa/) | 前天，6 月 4 日，我在拉穆老城瞎逛，看见路边有人在嚼恰特草。 这东西我太熟了，内罗毕满街都是 […] |
