@@ -152,15 +152,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-30 | [日本关西系列｜白滨明光巴士购票与乘坐（MEIKO BUS）](https://blog.yasking.org/a/osaka-shirahama-meiko-bus.html) | 明光巴士日票 我这次行程只坐了两三次公交车，没有购买巴士日票，不过也记录下整理出来的攻略： 下载 “Japan Transit Planner” 应用（红色 … |
 | 2026-05-30 | [邸报 v0.1.0：一个很旧的东西新生了](https://1q43.blog/post/12489/) | 这篇博客的内容十分简单：你可以安装邸报了。 |
 | 2026-05-30 | [一个人做产品：我终于把那个产品做出来了](https://www.tortorse.com/archives/i-finally-made-my-bookshelf/) | 我之前写过一篇 《一个人做产品：提出想法》 ，里面说到一个很具体的问题：我买书买重了。 |
-| 2026-05-29 | [实习生口中的职场高压](https://blog.solazy.me/20260529/) | 今天讲讲加班这个话题 |
-| 2026-05-29 | [中奖到底藏在瓶盖里，还是藏在扫码那一下](https://www.tortorse.com/archives/bottle-cap-qr-lottery/) | 最近喝可乐时，我又看到瓶盖里面那个扫码抽奖的二维码。 |
-| 2026-05-29 | [Lesson 26 暴涨](https://physnya.top/GR/lesson-25-inflation/) | 上节课最后说到一个问题，就是 CMB 的结果表明宇宙间各处存在相关性. 研究 co-moving time， d s 2 = a 2 ( − d τ 2 + d x ⃗ 2 ) \mathrm{d}s^2=a^2(-\mathrm{d}\tau^2+\mathrm{d}\vec{x}^2) d s… |
-| 2026-05-29 | [回到现在](https://mobius.blog/24499.html) | 先说一个有趣的点，日语里的ただいま（tadaima）字面上的意思是“现在、当下”，而口语化里是“我回来了”，恰 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-29 | [最近惦念 20260507](https://z.arlmy.me/posts/TILs/thoughts/20260507_Recently/) | 「行动就是唯一的回报。」 |
-| 2026-05-29 | [找到最在乎成败的那个人](https://www.hecaitou.com/2026/05/find-the-one-who-cares-most-about-the-outcome.html) | 记得七八年前，我向读者推荐某个 App，他们直接就去下载了。现在情况完全不同，一堆人立即在留言区里哀嚎：怎么应用商店里找不到？ 我当然可以大肆批判一番，说些「现在的人只知道手机，只知道 App，对官网毫无任何概念」。真要那么做了，我想，会很耽误我成为德高望重、德艺双馨的和老。好在做法总是在表层，得罪… |
-| 2026-05-29 | [日本小学语文课文（一年级上）](https://springwood.me/jp-elementary-school-language-1a/) | 中小学各科教材由多家不同出版社出版，各市自己选择其中一个版本。由于版权保护，官方不能提供电子版，网上也不会有人 [...] Read More "日本小学语文课文（一年级上）" |
-| 2026-05-29 | [人为什么总在切换赛道？](https://mobius.blog/24365.html) | 这是去年留下的“后话”，一直没有聊完，也是因为自己也在切换赛道。 所谓的「命」，本身也没有好坏之分，只是人们迫 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-29 | [科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 去年开放的浙江省安吉县的安吉文化艺术中心。当地盛产竹子，屋顶都采用竹叶造型。（ daemin_kg@ig… |
 
 ## Vibe Coding
 
