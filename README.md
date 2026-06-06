@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-06 | [大陆用户开美国期货账户，我会先选 AMP Futures](https://blog.forecho.com/open-us-futures-broker-from-china.html) | 引言 最近在研究美国期货账户，主要看了两个券商： AMP Futures 和 Optimus Futures 。 我的判断很直接： 先开 AMP，Optimus 先放观察位 。 AMP 的开户资料更多，中文圈用的人也更多，Mac 用户可以直接接 TradingView。Optimus 官方支持海外用… |
+| 2026-06-06 | [Kali Linux尝试破解WIFI密码](https://blog.wo0ow.com/38512.html) | 参考博客 特别声明：仅供个人学习、安防演练使用，培养网络安全意识，并无恶意用途！ <h |
+| 2026-06-06 | [29 岁的自白：不必「三十而立」](https://www.pseudoyu.com/posts/yearly_review_29) | 前言 现在是 2026 年 6 月 6 日，我 29 岁了。 不必「三十而立」 似乎早就已经过了零点蹲祝福期待生日这一天到来的心境了，很平常地在加班，快要睡前一看表，原来已经过了零点了，毫无波澜地踏入了最后一个“2”开头的年纪。 起来后学姐准备的气球、蛋糕以及刚好捡到的一张单向历都提醒着自己已经 2… |
 | 2026-06-06 | [WordPress 7.0 开启 AI 写作新时代：Gemini 实测与配置心得](https://www.quji.org/archives/8789?pk_campaign=feed&pk_kwd=wordpress-7-0-%25e5%25bc%2580%25e5%2590%25af-ai-%25e5%2586%2599%25e4%25bd%259c%25e6%2596%25b0%25e6%2597%25b6%25e4%25bb%25a3%25ef%25bc%259agemini-%25e5%25ae%259e%25e6%25b5%258b%25e4%25b8%258e%25e9%2585%258d%25e7%25bd%25ae%25e5%25bf%2583%25e5%25be%2597) | WordPress 7.0版本正式接入AI功能，为创作者带来全新体验。通过安装AI插件并连接Gemini等模型，用户可实现自动生成优化标题、精美封面及文章摘要。作者分享了因服务器地域限制迁移至日本后成功开启功能的经历，并感叹这些智能化工具极大地简化了发布流程，让博客创作变得更加高效便捷。 |
 | 2026-06-06 | [You call it Slum, we call it Home 你们叫贫民窟,我们叫家](https://www.dufengyan.com/kibera-tours/) | 内罗毕有人专门做基贝拉的贫民窟游。外人花点钱进去，看看穷长什么样，拍几张照片，走人 […] |
 | 2026-06-06 | [前天在拉穆，路边有人嚼 miraa](https://www.dufengyan.com/lamu-miraa/) | 前天，6 月 4 日，我在拉穆老城瞎逛，看见路边有人在嚼恰特草。 这东西我太熟了，内罗毕满街都是 […] |
@@ -65,7 +68,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-04 | [罗马-佛罗伦萨-梵蒂冈之旅（三）](https://eduardoqian.com/archives/luo-ma-fo-luo-lun-sa-fan-di-gang-zhi-lu-san) | 在结束了从罗马到佛罗伦萨的旅程，并在佛罗伦萨理发简单闲逛之后。第二天，我的主要旅游场地便是佛罗伦萨的景点旅游景点乌菲兹美术馆和皮蒂宫。 当天的天气并不是很好，有阵雨。 乌菲兹美术馆的人很多，如果要来，记得提前在网上订票 出了乌菲兹美术 |
 | 2026-06-04 | [被 AI 工具裹挟的程序员](https://smallyu.net/2026/06/04/%E8%A2%ABAI%E5%B7%A5%E5%85%B7%E8%A3%B9%E6%8C%9F%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98/) | 6月1日，GitHub Copilot 换成了根据使用量计费的模式。按照我原本的使用习惯，新的计费模式下，一个月至少得花 800 美元才够用，所以不得不寻找更便宜的套餐。这也就导致最近两三天，除了关心工作内容本身，我还需要花费大量时间和精力去体验 |
 | 2026-06-04 | [2026.6.4](https://www.justzht.com/2026-6-4/) | Minolta CL 拍的，可能是第一张，没过片彻底我就抓拍了。这张在 unsplash 上 被 feature 了。 WWDC 前的一周的晚上，在家里下了班；然后 |
-| 2026-06-04 | [大陆用户开美国期货账户，我会先选 AMP Futures](https://blog.forecho.com/open-us-futures-broker-from-china.html) | 引言 最近在研究美国期货账户，主要看了两个券商： AMP Futures 和 Optimus Futures 。 我的判断很直接： 先开 AMP，Optimus 先放观察位 。 AMP 的开户资料更多，中文圈用的人也更多，Mac 用户可以直接接 TradingView。Optimus 官方支持海外用… |
 | 2026-06-04 | [花生](https://mobius.blog/24567.html) | 那天，小区里死了一只猫。 我今早遛狗时，遇到了那个经常喂猫的阿姨。见她又在几个固定的点放猫粮和水，奶子想凑上去 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-04 | [密码保护：蕴瑜课堂自动播放脚本使用说明](https://199604.com/3573) | 无法提供摘要。这是一篇受保护的文章。 |
 | 2026-06-04 | [现代生活中的闭关](https://www.hecaitou.com/2026/06/Retreating-in-Modern-Life.html) | 一说到闭关，人们就会想到一个走入山洞的背影，然后断龙石缓缓落下，沉闷地撞击地面扬起一阵尘土。又或者一间小屋子，从外面上了锁，在门板下方有个很小的洞，可以往里面送饭菜。等到出关的时候，重点一般都是武功大成，一掌之下，一切灰飞烟灭。 这样的闭关太古典了，也距离现代生活太遥远了。 宗萨仁波切最近给出了关于… |
