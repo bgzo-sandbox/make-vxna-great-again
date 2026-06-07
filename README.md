@@ -27,10 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-07 | [Memos #2026-06-06](https://www.taober.blog/memos) | 23:34 麦理浩径，雨天徒步。 开心且激情的一天，团建拉近了同事间的关系。 难受的是我又重了😔 |
 | 2026-06-06 | [大陆用户开美国期货账户，我会先选 AMP Futures](https://blog.forecho.com/open-us-futures-broker-from-china.html) | 引言 最近在研究美国期货账户，主要看了两个券商： AMP Futures 和 Optimus Futures 。 我的判断很直接： 先开 AMP，Optimus 先放观察位 。 AMP 的开户资料更多，中文圈用的人也更多，Mac 用户可以直接接 TradingView。Optimus 官方支持海外用… |
 | 2026-06-06 | [Kali Linux尝试破解WIFI密码](https://blog.wo0ow.com/38512.html) | 参考博客 特别声明：仅供个人学习、安防演练使用，培养网络安全意识，并无恶意用途！ <h |
 | 2026-06-06 | [29 岁的自白：不必「三十而立」](https://www.pseudoyu.com/posts/yearly_review_29) | 前言 现在是 2026 年 6 月 6 日，我 29 岁了。 不必「三十而立」 似乎早就已经过了零点蹲祝福期待生日这一天到来的阶段了，很平常地在加班，快要睡前一看表，原来已经过了零点了，毫无波澜地踏入了最后一个“2”开头的年纪。 起来后学姐准备的气球、蛋糕以及刚好捡到的一张单向历都提醒着自己已经 2… |
 | 2026-06-06 | [WordPress 7.0 开启 AI 写作新时代：Gemini 实测与配置心得](https://www.quji.org/archives/8789?pk_campaign=feed&pk_kwd=wordpress-7-0-%25e5%25bc%2580%25e5%2590%25af-ai-%25e5%2586%2599%25e4%25bd%259c%25e6%2596%25b0%25e6%2597%25b6%25e4%25bb%25a3%25ef%25bc%259agemini-%25e5%25ae%259e%25e6%25b5%258b%25e4%25b8%258e%25e9%2585%258d%25e7%25bd%25ae%25e5%25bf%2583%25e5%25be%2597) | WordPress 7.0版本正式接入AI功能，为创作者带来全新体验。通过安装AI插件并连接Gemini等模型，用户可实现自动生成优化标题、精美封面及文章摘要。作者分享了因服务器地域限制迁移至日本后成功开启功能的经历，并感叹这些智能化工具极大地简化了发布流程，让博客创作变得更加高效便捷。 |
+| 2026-06-06 | [不抽烟，不喝酒](https://blog.solazy.me/20260606/) | 今日份随聊和烟酒有关 |
 | 2026-06-06 | [You call it Slum, we call it Home 你们叫贫民窟,我们叫家](https://www.dufengyan.com/kibera-tours/) | 内罗毕有人专门做基贝拉的贫民窟游。外人花点钱进去，看看穷长什么样，拍几张照片，走人。这种生意一直有人骂，说是消 […] |
 | 2026-06-06 | [前天在拉穆，路边有人嚼 miraa](https://www.dufengyan.com/lamu-miraa/) | 前天，6 月 4 日，我在拉穆老城瞎逛，看见路边有人在嚼恰特草。 这东西我太熟了，内罗毕满街都是 […] |
 | 2026-06-06 | [前天在拉穆，路边有人嚼 miraa](https://www.dufengyan.com/%e5%89%8d%e5%a4%a9%e5%9c%a8%e6%8b%89%e7%a9%86%ef%bc%8c%e8%b7%af%e8%be%b9%e6%9c%89%e4%ba%ba%e5%9a%bc-miraa/) | 前天，6 月 4 日，我在拉穆老城瞎逛，看见路边有人在嚼恰特草。 这东西我太熟了，内罗毕满街都是 […] |
@@ -42,6 +44,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-05 | [Random Thoughts - 20260605](https://www.bboy.app/2026/06/05/random-thoughts-20260605/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
 | 2026-06-05 | [人生第一次离职，感觉应该写点什么](https://blog.singee.me/2026/06/06/377f4bee3ed780bc8de1fb60973c190d/) | 感觉我的生活似乎相当简单，毕业后直接进了某网安公司实习、然后就慢慢悠悠待了六年，直到今天。 毕竟是人生的第一次，感觉应该写点什么纪念一下。 刚毕业的时候是 2020 年，选了一个网安公司。当时进这个公司非常重要的一点是，我对网安行业非常 |
 | 2026-06-05 | [Deepseek大模型越狱/破甲提示词](https://programnotes.cn/ai-deepseek-jailbreak2/index.html) | 不要在官方网页尝试,有二次拦截一般无法突破限制,甚至可能导致账号封禁(用官方的网页，官方会审核ai输出的内容),需使用第三方对话应用(如自行部署NextChat,或安装Cherry Studio客户端)接入DeepSeek大模型对话,我使用<a href="https:// |
+| 2026-06-05 | [嘉兴随意逛吃记 0605](https://blog.solazy.me/20260605/) | 今天随意逛吃一下嘉兴 |
 | 2026-06-05 | [Lesson 28 暴涨前的涨落信息](https://physnya.top/GR/lesson-28-inflation-information/) | 一个标量场，分为一个各向同性的项和一个涨落， ϕ ( t , x ⃗ ) = ϕ ˉ ( t ) + δ ϕ ( t , x ⃗ ) \phi(t,\vec{x}) = \bar\phi(t)+\delta\phi(t,\vec{x}) ϕ ( t , x ) = ϕ ˉ ​ ( t ) + δ ϕ… |
 | 2026-06-05 | [2026年5月总结](https://lililib.github.io/2026%E5%B9%B45%E6%9C%88%E6%80%BB%E7%BB%93/) | 博客感觉空空荡荡的,从这个月开始,每月记录一下总结吧. 回首望去,一年已过半,似乎啥都没做,没有什么印象深刻的东西.明年年后,我大概会对这半年什么也回忆不起来,可能只有一个懵懂的感觉,日复一日地麻木上班吧. 看来我需要把时间在文字中留下痕迹,给我多点活着的感觉了. |
 | 2026-06-05 | [回归晨跑](https://www.geedea.pro/article/back-to-jogging/) | 去年秋冬我丢掉了跑步的习惯，我怪罪天气，不喜欢在寒风中大汗淋漓。冬天的重庆，气温很尴尬，跑者社群里常谈的「三层穿衣法」根本不适用，而穿少了又会冷。今年初夏，确实没理由不跑了，正好也想要调整作息，我决定开始晨跑。 去年读了一本很棒的有关生物钟的书，叫作《 绝佳时间 》。尽管掌握了不少和昼夜节律相关的知… |
@@ -54,7 +57,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-05 | [食客、背包与自助餐](https://mobius.blog/24427.html) | 刚才去吃了顿自助餐，吃不重要，重要的是在吃的时候，我又看到了“坏世界”的一个角落。 等开餐时，我背着我的电脑包 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-05 | [科技爱好者周刊（第 399 期）：中国 AI 大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 本周开馆的深圳国际美术馆。（ via ） 中国 AI 大厂访问记 今年5月上旬，一个美国访问团来到中国，… |
 | 2026-06-05 | [全网寻找的同花顺板块同列网页版来了,盯盘效率提升5倍的黑科技](https://programnotes.cn/stock-tool-online/index.html) | 做股票最怕什么？ 大盘在涨，你找不到热点在哪；看中了板块，来回切窗口的功夫，领头羊已经起飞了。 很多老股民习惯用同花顺的”板块同列”——一屏同时监控多个概念，确实是捕捉 板块轮动 和 联动效应</str |
-| 2026-06-05 | [Memos #2026-06-04](https://www.taober.blog/memos) | 11:27 终于我的 Claude Code 想听歌了 😄 23:55 炸鸡叔死也是这么优雅！ |
 | 2026-06-04 | [把真话卖出去](https://www.linggandianbo.com/newsletter-126/) | 从 Naval 的真诚销售、日本公司的组织基因、死寂经济、领域知识护城河，到 AI 时代仍然混乱而珍贵的人类生活｜灵感电波 #126 |
 | 2026-06-04 | [23学习周刊-总第266期-2026年第23周](https://wiki.eryajf.net/pages/12eb60/) | 如要阅读全文，点击标题跳转。 学习周刊-总第266期 &#124; muxy &#124; Buffer &#124; NodeLite &#124; Lucarne &#124; ColorTxt &#124; papr &#124; nyaterm |
 | 2026-06-04 | [我如何与 AI 有效沟通 - "AI 驾驭术"入门分享](https://diff.im/blog/2026/06/%E6%88%91%E5%A6%82%E4%BD%95%E4%B8%8E-ai-%E6%9C%89%E6%95%88%E6%B2%9F%E9%80%9A-ai-%E9%A9%BE%E9%A9%AD%E6%9C%AF%E5%85%A5%E9%97%A8%E5%88%86%E4%BA%AB/) | 如今谁还没有用过 AI 呢？ 身边几乎所有人都在用 AI，从老人到小孩。 但是不同的人用 AI 的方式不一样，得到的结果也不一样。 有人把 AI 当成一个搜索引擎，快速地找到答案，这挺好。这是 AI 使用的起步阶段。 也有人通过 AI，十倍甚至几十倍地提高自己的工作效率。有人用 AI 编程，开发出各… |
@@ -148,21 +150,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-05-31 | [AI 编程不到一年，工具切了3轮。行业变革很残酷，但很好玩。](https://diff.im/blog/2026/05/ai-%E7%BC%96%E7%A8%8B%E4%B8%8D%E5%88%B0%E4%B8%80%E5%B9%B4%E5%B7%A5%E5%85%B7%E5%88%87%E4%BA%863%E8%BD%AE%E8%A1%8C%E4%B8%9A%E5%8F%98%E9%9D%A9%E5%BE%88%E6%AE%8B%E9%85%B7%E4%BD%86%E5%BE%88%E5%A5%BD%E7%8E%A9/) | 从Cursor 转到 Terminal 我最早用 Cursor，大概两个月前转到 Terminal（用 iTerm2）。现在，我又逐渐从 iTerm2 转到 Codex 和 Claude Code 的官方 App。 一开始从 Cursor 转到 iTerm2，是因为我发现，Cursor 的界面虽然有… |
 | 2026-05-31 | [五月杂思](https://coderfee.com/blog/2026-05-31/) | 五月三十一天，每天都回答了一个问题。那些答案拼起来，比我刻意写的任何东西都更像我。 |
 | 2026-05-31 | [使用 AI 开发一个 Chrome 插件](https://blog.196000.xyz/2026/2026-05-31-develop-ai-chrome-plugin.html) | 使用 AI 开发一个 Chrome 插件 主要是整理整个操作的步骤，F12查看源码，找出关键的HTML控件代码，比如点击按钮、输入文本框等，然后提交给提示词让根据需求完成编码。 下面的是实现一个风控网站的助手插件，把历史搜索过的关键字先导出 csv 文件，然后逐行扫描根据关键字导出 PDF 结果文件… |
-| 2026-05-30 | [去深圳国际美术馆——艺术源于生活，是对生活的总结和升华](https://tianheg.co/posts/go-to-shenzhen-international-art-museum/) | 我发现自己在选择这种开拓眼界的活动时很随机，往往是在某处看到文章或者知道消息，觉得有意思就想去了。这次也是，我有时会看一下保利票务上有没有感兴趣的音乐剧或其它演出，周三那天很偶然，就看到了 深圳国际美术馆要办七大展览 的消息。想去看是因为最近总是高压的工作让我有些崩溃，想要感受些不一样的事物调节一下… |
-| 2026-05-30 | [周末流水账 0530](https://blog.solazy.me/20260530/) | 今天是一个安排的很慢的周六！ |
-| 2026-05-30 | [永烁星光之地](https://brain-zhang.github.io/blog/2026/05/30/yong-shuo-xing-guang-zhi-di/) | 两年前，ChatGPT3.5的时代，我尝试用它创作小说，那个时候还很稚嫩；但我知道，他会飞速的进化，直到有一天，他会媲美中上水平的人类作家； 今天，它的能力已经接近人类了；我很轻松的用AI创作了多部百万字以上的大部头；唯一让我烦恼的是：没有平台接受这种一天成百上千部的创作机器人，我也没有那么多的矩阵… |
-| 2026-05-30 | [生命可以轮回，高考只有一次——当然还可以复读](https://mobius.blog/24525.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候，就可以分类整理成册。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-30 | [Playlet：DLNA听歌神器 免安装app播放NAS里的歌](https://blog.est.im/2026/stdout-21) | 家里有个小 NAS 。里面存了一些歌。一半是用 NAS 自带的 app 听，一半是。。。SMB 共享打开听 虽然 NAS 也提供 DLNA ，一直以来找不到趁手 app ，要么收费，要么 bug 多，要么不能多端。 13年前我也想 基于 chrome.socket 做个 Chrome App 弄个类… |
-| 2026-05-30 | [丽水遂昌｜三个人，自驾五天，花费1800元，总结推荐](https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-summary.html) |  |
-| 2026-05-30 | [当人们不再问好](https://www.geedea.pro/article/phone-hello/) | 去年买了本法语童书作为阅读材料（后来发现即便是儿童读物，对我来说也有些难度，便闲置了），主角的爸爸在打电话时说了 allô 这个词。当时我以为是什么时髦的打招呼俚语，跟英语里的 sup （What’s sup?）一样，但查阅后才得知这是专门的电话用语，面对面打招呼时不说 allô 。 正巧，最近在重… |
-| 2026-05-30 | [0419 御温泉之旅](https://ssshooter.com/zhuhai-imperial-hotspring/) | 分享珠海御温泉度假村的真实体验，长盛庄复式日式房型测评、24小时温泉无限泡、超大庙会自助餐攻略，适合周末短途度假参考。 |
-| 2026-05-30 | [不要轻易得罪天蝎座](https://www.hecaitou.com/2026/05/think-twice-before-crossing-a-scorpio.html) | 天蝎座记仇，这是举世皆知的公理。天蝎座傲娇，这是不言自明的真理。关于这两件事，我记得有个非常棒的段子： 分手十年，再无任何联系，女孩却在新婚前夜突然收到前天蝎男友发来的短信：「你现在知道自己错了吗？」 今天早上我本来正在写文章，但不知道系统抽什么风，提醒我一篇 10 年前的文章多了一条读者留言。打开… |
-| 2026-05-30 | [菜场到底是靠谁活下来的](https://www.tortorse.com/archives/wet-market-weekend-observation/) | 周末孩子去上补习班，我正好在附近等他，就顺路去菜场买了一趟菜。 |
-| 2026-05-30 | [日本关西系列｜Day 6 白滨之行（下篇）](https://blog.yasking.org/a/series-kansai-travel-day6.html) | 在白滨的第二天，还好晚上还住在这边，所以还有一整天的时间游玩。 早上到 Seamore 一层的面包店买了面包吃，休息区几乎没什 … |
-| 2026-05-30 | [日本关西系列｜Day 5 白滨之行（上篇）](https://blog.yasking.org/a/series-kansai-travel-day5.html) | 早起，没睡懒觉。 今日的行程是坐巴士到白滨度过在大阪的最后两天旅程，昨天住宿的地方离 OCAT 汽车站比较近，在 FamilyMart 吃了两 … |
-| 2026-05-30 | [日本关西系列｜白滨明光巴士购票与乘坐（MEIKO BUS）](https://blog.yasking.org/a/osaka-shirahama-meiko-bus.html) | 明光巴士日票 我这次行程只坐了两三次公交车，没有购买巴士日票，不过也记录下整理出来的攻略： 下载 “Japan Transit Planner” 应用（红色 … |
-| 2026-05-30 | [邸报 v0.1.0：一个很旧的东西新生了](https://1q43.blog/post/12489/) | 这篇博客的内容十分简单：你可以安装邸报了。 |
-| 2026-05-30 | [一个人做产品：我终于把那个产品做出来了](https://www.tortorse.com/archives/i-finally-made-my-bookshelf/) | 我之前写过一篇 《一个人做产品：提出想法》 ，里面说到一个很具体的问题：我买书买重了。 |
 
 ## Vibe Coding
 
