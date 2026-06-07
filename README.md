@@ -32,6 +32,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-07 | [石油障碍症](https://re.karlbaey.top/articles/return-to-dusk/oil-panic/) | 林嘉乐从来没有见过真的石油。尽管她的生活已经被石油从头渗透到脚，她依然与这黑色黄金没有谋面的缘分。这也无关紧要。对于嘉乐 … |
 | 2026-06-07 | [金价现在算高吗？——美债、黄金与“影子金本位”](https://yfzz.net/?p=129) | 最近自己的投资组合计划调仓，优先卖掉收益最高的资产，前几天卖掉了“中韩半导体”，现在轮到“黄金”了。然后我就在... |
 | 2026-06-07 | [30 秒，让你的 Mac 拥有一个不会忘事的剪贴板](https://www.evan.xin/5027/) | Ropy — 一款开源免费的剪贴板 Rust 与 Zed 同款 GPUI，跨平台快如闪电。文本、图片、文件路径 […] |
+| 2026-06-07 | [Vol.106 Agent 产品加速落地，AI 重塑软件工程范式与组织变革](https://liduos.com/weekly/the-weekly-gradient-106) | 本期内容聚焦Agent技术从讨论到产品落地，涵盖Kimi Work、扣子3.0、Claude Code动态工作流和SkillOpt技能优化；多篇万字长文探讨AI重塑软件工程的范式迁移，从架构到组织全面变革。 |
 | 2026-06-07 | [云南系列｜Day 1 大理洱海之行（上）](https://blog.yasking.org/a/series-yunnan-travel-day1.html) | 前几天补完 2025 五月的日本关西旅行系列，今年五月云南出行又积压下来。🤷‍♂️ 本次出行前查看云南的天气，基本上都是下雨，做 … |
 | 2026-06-07 | [堕落 流放与王国](https://www.geedea.pro/library/2026/la-chute-l-exil-et-le-royaume/) | 总觉得加缪笔下的人物都有极其隐秘和个人，乃至诡异的行事动机，很难揣摩。若是读者的私人情感能与小说人物的行为对上，想必会非常喜爱，不过我必须承认，这部小说集里有一两篇我完全不能理解，比如最后一篇《生长的石头》。即便如此，读到小说人物依照自己的意愿做其他人都感到费解的事情，依旧感慨。 这部集子有两部分，… |
 | 2026-06-07 | [牛马的变迁](https://www.hecaitou.com/2026/06/he-transformation-of-ox-and-horse-in-chinese-culture.html) | 早先，牛马这个词在中文里就是牛马的意思。后来司马迁在《报任安书》的开篇第一句，如此写道：「 太史公牛马走司马迁再拜言」，意思是：太史公，如同牛马一样为人驱使的仆役，司马迁我再次拜谢并且陈词。 太史公，是司马迁的自称；牛马走，则是司马迁的自谦。这里的牛马，依然是牛马，只不过隐约有一层辛苦劳作，任人役使… |
