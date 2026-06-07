@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-07 | [云南系列｜Day 1 大理洱海之行（上）](https://blog.yasking.org/a/series-yunnan-travel-day1.html) | 前几天补完 2025 五月的日本关西旅行系列，今年五月云南出行又积压下来。🤷‍♂️ 本次出行前查看云南的天气，基本上都是下雨，做 … |
+| 2026-06-07 | [堕落 流放与王国](https://www.geedea.pro/library/2026/la-chute-l-exil-et-le-royaume/) | 总觉得加缪笔下的人物都有极其隐秘和个人，乃至诡异的行事动机，很难揣摩。若是读者的私人情感能与小说人物的行为对上，想必会非常喜爱，不过我必须承认，这部小说集里有一两篇我完全不能理解，比如最后一篇《生长的石头》。即便如此，读到小说人物依照自己的意愿做其他人都感到费解的事情，依旧感慨。 这部集子有两部分，… |
+| 2026-06-07 | [牛马的变迁](https://www.hecaitou.com/2026/06/he-transformation-of-ox-and-horse-in-chinese-culture.html) | 早先，牛马这个词在中文里就是牛马的意思。后来司马迁在《报任安书》的开篇第一句，如此写道：「 太史公牛马走司马迁再拜言」，意思是：太史公，如同牛马一样为人驱使的仆役，司马迁我再次拜谢并且陈词。 太史公，是司马迁的自称；牛马走，则是司马迁的自谦。这里的牛马，依然是牛马，只不过隐约有一层辛苦劳作，任人役使… |
 | 2026-06-07 | [Memos #2026-06-06](https://www.taober.blog/memos) | 23:34 麦理浩径，雨天徒步。 开心且激情的一天，团建拉近了同事间的关系。 难受的是我又重了😔 |
 | 2026-06-06 | [大陆用户开美国期货账户，我会先选 AMP Futures](https://blog.forecho.com/open-us-futures-broker-from-china.html) | 引言 最近在研究美国期货账户，主要看了两个券商： AMP Futures 和 Optimus Futures 。 我的判断很直接： 先开 AMP，Optimus 先放观察位 。 AMP 的开户资料更多，中文圈用的人也更多，Mac 用户可以直接接 TradingView。Optimus 官方支持海外用… |
 | 2026-06-06 | [Kali Linux尝试破解WIFI密码](https://blog.wo0ow.com/38512.html) | 参考博客 特别声明：仅供个人学习、安防演练使用，培养网络安全意识，并无恶意用途！ <h |
