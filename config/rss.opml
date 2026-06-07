@@ -4,13 +4,12 @@
         <title>VXNA Enhanced Subscriptions</title>
     </head>
     <body>
-    <!-- 私心推荐 -->
         <outline title="Custom" text="Custom">
             <outline text="槽边往事" title="槽边往事" type="rss" xmlUrl="https://www.hecaitou.com/feeds/posts/default" htmlUrl="https://www.hecaitou.com/" />
             <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="http://www.ruanyifeng.com/blog/" />
             <outline text="新的原野" title="新的原野" type="rss" xmlUrl="https://sinyalee.com/blog/?feed=rss2" htmlUrl="https://sinyalee.com/blog" />
+            <outline title="[#553] V2EX › 春水煎茶" text="[#553] V2EX › 春水煎茶" xmlUrl="https://hit9.dev/feed.xml" htmlUrl="https://www.v2ex.com/xna/s/553" />
         </outline>
-    <!-- V2EX -->
         <outline title="VXNA" text="VXNA">
             <outline title="[#1] V2EX › olivida.eth" text="[#1] V2EX › olivida.eth" xmlUrl="https://olivida.eth.sucks/planet.json" htmlUrl="https://www.v2ex.com/xna/s/1" />
             <outline title="[#2] V2EX › 枫言枫语" text="[#2] V2EX › 枫言枫语" xmlUrl="https://justinyan.eth.limo/planet.json" htmlUrl="https://www.v2ex.com/xna/s/2" />

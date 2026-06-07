@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-07 | [Toots 422 2026 May.31 - Jun.6](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260606/) | 「基本面的魅力。」 |
+| 2026-06-07 | [手生了就要多练](https://blog.solazy.me/20260607/) | 这周开始多动笔了，去年没完成的练字，其实也是事出有因…… |
+| 2026-06-07 | [石油障碍症](https://re.karlbaey.top/articles/return-to-dusk/oil-panic/) | 林嘉乐从来没有见过真的石油。尽管她的生活已经被石油从头渗透到脚，她依然与这黑色黄金没有谋面的缘分。这也无关紧要。对于嘉乐 … |
 | 2026-06-07 | [金价现在算高吗？——美债、黄金与“影子金本位”](https://yfzz.net/?p=129) | 最近自己的投资组合计划调仓，优先卖掉收益最高的资产，前几天卖掉了“中韩半导体”，现在轮到“黄金”了。然后我就在... |
 | 2026-06-07 | [30 秒，让你的 Mac 拥有一个不会忘事的剪贴板](https://www.evan.xin/5027/) | Ropy — 一款开源免费的剪贴板 Rust 与 Zed 同款 GPUI，跨平台快如闪电。文本、图片、文件路径 […] |
 | 2026-06-07 | [云南系列｜Day 1 大理洱海之行（上）](https://blog.yasking.org/a/series-yunnan-travel-day1.html) | 前几天补完 2025 五月的日本关西旅行系列，今年五月云南出行又积压下来。🤷‍♂️ 本次出行前查看云南的天气，基本上都是下雨，做 … |
@@ -43,6 +46,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-06 | [You call it Slum, we call it Home 你们叫贫民窟,我们叫家](https://www.dufengyan.com/kibera-tours/) | 内罗毕有人专门做基贝拉的贫民窟游。外人花点钱进去，看看穷长什么样，拍几张照片，走人。这种生意一直有人骂，说是消 […] |
 | 2026-06-06 | [前天在拉穆，路边有人嚼 miraa](https://www.dufengyan.com/lamu-miraa/) | 前天，6 月 4 日，我在拉穆老城瞎逛，看见路边有人在嚼恰特草。 这东西我太熟了，内罗毕满街都是 […] |
 | 2026-06-06 | [前天在拉穆，路边有人嚼 miraa](https://www.dufengyan.com/%e5%89%8d%e5%a4%a9%e5%9c%a8%e6%8b%89%e7%a9%86%ef%bc%8c%e8%b7%af%e8%be%b9%e6%9c%89%e4%ba%ba%e5%9a%bc-miraa/) | 前天，6 月 4 日，我在拉穆老城瞎逛，看见路边有人在嚼恰特草。 这东西我太熟了，内罗毕满街都是 […] |
+| 2026-06-06 | [Nanocode 的设计思路和开发笔记](https://hit9.dev/post/nanocode) | 本文记录我开发的一个轻量 AI Coding Agent - Nanocode 的开发笔记. |
 | 2026-06-06 | [苹果设备屏蔽更新描述文件分享：彻底告别系统更新小红点](https://www.quji.org/archives/8786?pk_campaign=feed&pk_kwd=%25e8%258b%25b9%25e6%259e%259c%25e8%25ae%25be%25e5%25a4%2587%25e5%25b1%258f%25e8%2594%25bd%25e6%259b%25b4%25e6%2596%25b0%25e7%259a%2584%25e6%258f%258f%25e8%25bf%25b0%25e6%2596%2587%25e4%25bb%25b6%25e5%2588%2586%25e4%25ba%25ab) | BetaProfiles 网站提供专门的描述文件，旨在屏蔽苹果设备的系统更新。对于希望停留在当前版本或讨厌设置图标上小红点提醒的用户，这是极佳的解决方案。该网站近期更新了最新的 Block OTA 配置文件，能够有效阻止系统自动检测和下载更新包，让设备界面保持整洁，是强迫症用户的实用工具。 |
 | 2026-06-06 | [三本杂志](https://www.hecaitou.com/2026/06/Three-Magazines.html) | 算了一下，我就认识三位潮汕朋友。上个月末，当我听说有一家电影杂志要出一册《给阿嬷的情书》特刊时，立即就为他们三个人一人预订了一本。怕他们看到快递时以为自己遭遇诈骗，我还专门提前做了解释： 「这可能是你们潮汕电影第一次出特刊，第一次上杂志封面，第一次出电影海报，留存做个纪念吧！」 我自己作为云南人，对… |
 | 2026-06-06 | [【转载】AI 软件工程范式革命的思考](https://shansan.top/2026/06/06/ai-software-engineering-paradigm-revolution/) | 【转载】AI 软件工程范式革命的思考 |

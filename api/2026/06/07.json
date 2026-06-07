@@ -1,5 +1,26 @@
 [
   {
+    "title": "Toots 422 2026 May.31 - Jun.6",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260606/",
+    "date": "2026-06-07T14:04:27Z",
+    "description": "「基本面的魅力。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "手生了就要多练",
+    "url": "https://blog.solazy.me/20260607/",
+    "date": "2026-06-07T14:00:00Z",
+    "description": "这周开始多动笔了，去年没完成的练字，其实也是事出有因……",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "石油障碍症",
+    "url": "https://re.karlbaey.top/articles/return-to-dusk/oil-panic/",
+    "date": "2026-06-07T13:44:43Z",
+    "description": "林嘉乐从来没有见过真的石油。尽管她的生活已经被石油从头渗透到脚，她依然与这黑色黄金没有谋面的缘分。这也无关紧要。对于嘉乐 …",
+    "source_root_domain": "karlbaey.top"
+  },
+  {
     "title": "金价现在算高吗？——美债、黄金与“影子金本位”",
     "url": "https://yfzz.net/?p=129",
     "date": "2026-06-07T13:04:36Z",
@@ -103,6 +124,13 @@
     "date": "2026-06-06T06:55:30Z",
     "description": "前天，6 月 4 日，我在拉穆老城瞎逛，看见路边有人在嚼恰特草。 这东西我太熟了，内罗毕满街都是 […]",
     "source_root_domain": "dufengyan.com"
+  },
+  {
+    "title": "Nanocode 的设计思路和开发笔记",
+    "url": "https://hit9.dev/post/nanocode",
+    "date": "2026-06-06T06:24:00Z",
+    "description": "本文记录我开发的一个轻量 AI Coding Agent - Nanocode 的开发笔记.",
+    "source_root_domain": "hit9.dev"
   },
   {
     "title": "苹果设备屏蔽更新描述文件分享：彻底告别系统更新小红点",
