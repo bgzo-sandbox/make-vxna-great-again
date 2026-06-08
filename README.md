@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-08 | [解决无法创建 Apple Account 账号问题](https://blog.yasking.org/a/apple-account-cannot-be-created-at-this-time.html) | 注册土区账号遇到提示 “无法新建账号”，切换网络、使用 GiffGaff 手机号均无法正常注册。 访问 https://getsupport.apple.com/solutions ； 选择 “Apple Account”； 选择 “Other Apple Account Topics … |
+| 2026-06-08 | [拥有孩子的得与失](https://www.jackpu.com/yong-you-hai-zi-de-de-yu-shi/) | 至今，当前中国社会，对于生育率这个问题的讨论极其多，政策也多多少少跟上了，但是颓势不止。在最新一年的生育率统计上，很多省市继续创新低，不乏比韩日更差的，这个曾经被我们嘲笑内卷，年轻人生活成本极大的地区，我们现在追赶上了。 关于生育率是一个宏达的话题，自己仅仅从个人角度出发，说说有了孩子得与失，希望有… |
+| 2026-06-08 | [做了一款家庭资产管理 App — 知盈 iAssets](https://blog.debuginn.com/p/iassets-app/) | 大家好呀，我是 Meng小羽 说起记账和资产管理，市面上其实不缺工具，但用了一圈下来，总觉得差点意思——有的只记流水不看全局，有的功能臃肿得像企业级 ERP，还有的满屏广告，让人心烦。说白了，我就是想要一个 简单、好看、能把家里所有资产和负债一目了然展示出来 的工具。 找了一圈没找到满意的，行吧，那… |
+| 2026-06-08 | [日本小学语文课文（一年级下）](https://springwood.me/jp-elementary-school-language-1b/) | 日本小学语文一年级下册里有两篇来自美国作者的著名故事：《小黑鱼》和《（青蛙与蟾蜍）等信》 |
+| 2026-06-08 | [的确做不到亲切友好](https://www.hecaitou.com/2026/06/i-just-cant-do-warm-and-fuzzy.html) | 看到有人批评我说：和菜头即便在留言区也端着、拿着，和读者交流的时候一点都不亲切，一点都不自然。 我想了一下，还真是的。好像我从出生到现在，就没有让几个人觉得我亲切过，觉得容易相处过。记得我在国企时，我的上司有次专门找我谈话，说我身上「读书人气质太重」，和别人打交道时态度过于「冷、清高而且说话总是咄咄… |
+| 2026-06-08 | [曼谷、香港、潮汕人的历史](https://sinyalee.com/blog/?p=1143) | 这篇也是我知乎题目的回答。知乎原题目：《给阿嬷的情书》为什么男主不去距离更近的香港而是要下南洋？ 潮汕人去香港 […] |
 | 2026-06-08 | [香水](https://mobius.blog/24440.html) | 我在咖啡厅码字的当下，突然闻到了一股非常熟悉的香水味。我抬起头，发现是一个中年男性坐在了我的对面。 当下，我在 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-08 | [giffgaff + eSIM + Air780EP：我的海外号码自托管方案](https://www.devzhi.com/post/self-hosted-overseas-phone-number/) |  |
 | 2026-06-08 | [Memos #2026-06-07](https://www.taober.blog/memos) | 10:18 最近多梦啊，无尽甜蜜和忧伤。 17:21 每当我身体不舒服的时候，我都会怀疑是不是因为饿了...我的肚子已经没法供给我的身体。 |
