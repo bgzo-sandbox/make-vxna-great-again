@@ -27,6 +27,18 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-08 | [DOOM 3 updated](https://macsourceports.com/game/doom3) | The build of dhewm3 for DOOM 3 has been updated to version 1.5.5 of the project |
+| 2026-06-08 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.24 of the project |
+| 2026-06-08 | [Catacomb 3-D updated](https://macsourceports.com/game/catacomb3d) | The build of ReflectionHLE for Catacomb 3-D has been updated to version release-20260606 of the project |
+| 2026-06-08 | [Catacomb Abyss updated](https://macsourceports.com/game/catacombabyss) | The build of ReflectionHLE for Catacomb Abyss has been updated to version release-20260606 of the project |
+| 2026-06-08 | [Catacomb Apocalypse updated](https://macsourceports.com/game/catacombapocalypse) | The build of ReflectionHLE for Catacomb Apocalypse has been updated to version release-20260606 of the project |
+| 2026-06-08 | [Catacomb Armageddon updated](https://macsourceports.com/game/catacombarmageddon) | The build of ReflectionHLE for Catacomb Armageddon has been updated to version release-20260606 of the project |
+| 2026-06-08 | [Super 3D Noah's Ark updated](https://macsourceports.com/game/s3dna) | The build of ReflectionHLE for Super 3D Noah's Ark has been updated to version release-20260606 of the project |
+| 2026-06-08 | [Wolfenstein 3-D updated](https://macsourceports.com/game/wolf3d) | The build of ReflectionHLE for Wolfenstein 3-D has been updated to version release-20260606 of the project |
+| 2026-06-08 | [Wolfenstein 3-D: Spear of Destiny updated](https://macsourceports.com/game/sod) | The build of ReflectionHLE for Wolfenstein 3-D: Spear of Destiny has been updated to version release-20260606 of the project |
+| 2026-06-08 | [Zine#51 - 把愛傳給「未來的自己」、優秀的網站設計原則](https://taxodium.ink/51.html) | Zine#51 把愛傳給「未來的自己」、優秀的網站設計原則 🎵 天使たちのシーン by 小沢健二 小沢健二的「天使たちのシーン」我很喜歡，小沢健二的嗓音好聴，歌曲的旋律也很棒。編曲上，一直伴隨著好聴的 bass，讓人聴著想跟著擺動身體，間奏的薩克斯、吉他超好聴，鋼琴也很棒。盡管曲子長達 13:37，… |
+| 2026-06-08 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.2 of the project |
+| 2026-06-08 | [资产配置：投资中唯一的免费午餐](https://hangbin.blog/blog/asset-allocation-less-mistakes/) | 9346bf83-d295-4ae6-8db5-567537f5ae28.webp 最近读 《资产配置行动指南》 ，最有感触的地方，是它把投资这件事重新拉回了日常生活。很多人一说投资，脑子里马上冒出来的是买什么、什么时候买、今年哪个市场更有机会。可真的更进一步，问题会朴素很多：我现在到底有多少资产，… |
 | 2026-06-08 | [R#105 AI也要断舍离](https://blog.sakanano.moe/journals/random_105) | 2026.6.2 ~ 2026.6.8 |
 | 2026-06-08 | [在 Oyunfor 平台购买土耳其区 Apple 礼品卡](https://blog.yasking.org/a/apple-gift-card-turkiye.html) | 前提：已准备好土区 Apple Account 不同额度的礼品卡 首次购买，先买 500 TL 试试水 点击右侧添加付款方式，弹出页面，勾选 “I am not a Turkish … |
 | 2026-06-08 | [解决无法创建 Apple Account 账号问题](https://blog.yasking.org/a/apple-account-cannot-be-created-at-this-time.html) | 注册土区账号遇到提示 “无法新建账号”，切换网络、使用 GiffGaff 手机号均无法正常注册。 访问 https://getsupport.apple.com/solutions ； 选择 “Apple Account”； 选择 “Other Apple Account Topics … |
@@ -46,11 +58,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-07 | [石油障碍症](https://re.karlbaey.top/articles/return-to-dusk/oil-panic/) | 林嘉乐从来没有见过真的石油。尽管她的生活已经被石油从头渗透到脚，她依然与这黑色黄金没有谋面的缘分。这也无关紧要。对于嘉乐 … |
 | 2026-06-07 | [金价现在算高吗？——美债、黄金与“影子金本位”](https://yfzz.net/?p=129) | 最近自己的投资组合计划调仓，优先卖掉收益最高的资产，前几天卖掉了“中韩半导体”，现在轮到“黄金”了。然后我就在... |
 | 2026-06-07 | [30 秒，让你的 Mac 拥有一个不会忘事的剪贴板](https://www.evan.xin/5027/) | Ropy — 一款开源免费的剪贴板 Rust 与 Zed 同款 GPUI，跨平台快如闪电。文本、图片、文件路径 […] |
+| 2026-06-07 | [当 AI 开始建造自己：Anthropic 递归自我改进的深度解读](https://gptkit.eth.limo/C76485EF-1F22-4E5B-B28E-C0A6E704B043/) | 原文： When AI builds itself — Anthropic Institute 作者：Marina Favaro, Jack Clark ｜ 发布于 2026 年 6 月 一句话总结 Anthropic 用自己内部的硬数据证明了： AI 正在加速 AI 的开发 ，而且加速度本身也在加… |
 | 2026-06-07 | [Vol.106 Agent 产品加速落地，AI 重塑软件工程范式与组织变革](https://liduos.com/weekly/the-weekly-gradient-106) | 本期内容聚焦Agent技术从讨论到产品落地，涵盖Kimi Work、扣子3.0、Claude Code动态工作流和SkillOpt技能优化；多篇万字长文探讨AI重塑软件工程的范式迁移，从架构到组织全面变革。 |
 | 2026-06-07 | [云南系列｜Day 1 大理洱海之行（上）](https://blog.yasking.org/a/series-yunnan-travel-day1.html) | 前几天补完 2025 五月的日本关西旅行系列，今年五月云南出行又积压下来。🤷‍♂️ 本次出行前查看云南的天气，基本上都是下雨，做 … |
 | 2026-06-07 | [堕落 流放与王国](https://www.geedea.pro/library/2026/la-chute-l-exil-et-le-royaume/) | 总觉得加缪笔下的人物都有极其隐秘和个人，乃至诡异的行事动机，很难揣摩。若是读者的私人情感能与小说人物的行为对上，想必会非常喜爱，不过我必须承认，这部小说集里有一两篇我完全不能理解，比如最后一篇《生长的石头》。即便如此，读到小说人物依照自己的意愿做其他人都感到费解的事情，依旧感慨。 这部集子有两部分，… |
 | 2026-06-07 | [牛马的变迁](https://www.hecaitou.com/2026/06/he-transformation-of-ox-and-horse-in-chinese-culture.html) | 早先，牛马这个词在中文里就是牛马的意思。后来司马迁在《报任安书》的开篇第一句，如此写道：「 太史公牛马走司马迁再拜言」，意思是：太史公，如同牛马一样为人驱使的仆役，司马迁我再次拜谢并且陈词。 太史公，是司马迁的自称；牛马走，则是司马迁的自谦。这里的牛马，依然是牛马，只不过隐约有一层辛苦劳作，任人役使… |
 | 2026-06-07 | [给朋友们的 AI 使用建议](https://imzl.com/ai-usage-tips) | 从 2022 年底 ChatGPT 开放给公众那天起，我就一头扎了进去。三年多过去，主流模型轮番上阵，从最早那个「会写诗的玩具」，到如今能陪我把一个 Idea 跑成产品、再跑出第一笔商业化收入。如今 AI 已经成了我使用最高频、投入最多、ROI 最高的工具。 |
+| 2026-06-07 | [我把博客开源了：一个把终端搬进浏览器的技术博客](https://gptkit.eth.limo/E125D1C3-7404-418F-8F54-42A295ACC2CA/) | 仓库地址： github.com/terryso/hack-buffer 线上地址： blog.suchuanyi.dev 先说结论：这不是一个「深色主题」博客 很多人做「终端风」，就是在白色博客上换成深色背景加个等宽字体，完了。这个博客不是这样做的。 打开 blog.suchuanyi.dev ，… |
 | 2026-06-07 | [遛狗这件小事](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/06/07/the-small-matter-of-walking-a-dog-in-australia.md.html) | 在澳洲住久了，有些事情是慢慢才意识到不一样的。 比如狗。 澳洲人养狗的比例不低，走在住宅区的街道上，时不时就能看到有人牵着一只金毛或者边牧悠悠地散步。 但奇怪的是，你几乎不会看到狗狗停下来，对着电线杆或者路边的树干”盖章”，就是那种在其他地方很常见的画面，狗抬起一条腿，很认真地在某个角落撒尿标记。… |
 | 2026-06-07 | [2026年第23周：碎碎念与记梦几则](https://blog.sakoamc.com/posts/2623/) | 题记：在极度的无聊与迷茫中，用不停对话来抵抗焦虑。高考的朋友们加油！ |
 | 2026-06-06 | [大陆用户开美国期货账户，我会先选 AMP Futures](https://blog.forecho.com/open-us-futures-broker-from-china.html) | 引言 最近在研究美国期货账户，主要看了两个券商： AMP Futures 和 Optimus Futures 。 我的判断很直接： 先开 AMP，Optimus 先放观察位 。 AMP 的开户资料更多，中文圈用的人也更多，Mac 用户可以直接接 TradingView。Optimus 官方支持海外用… |
