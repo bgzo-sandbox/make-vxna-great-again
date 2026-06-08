@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-08 | [香水](https://mobius.blog/24440.html) | 我在咖啡厅码字的当下，突然闻到了一股非常熟悉的香水味。我抬起头，发现是一个中年男性坐在了我的对面。 当下，我在 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-08 | [giffgaff + eSIM + Air780EP：我的海外号码自托管方案](https://www.devzhi.com/post/self-hosted-overseas-phone-number/) |  |
+| 2026-06-08 | [Memos #2026-06-07](https://www.taober.blog/memos) | 10:18 最近多梦啊，无尽甜蜜和忧伤。 17:21 每当我身体不舒服的时候，我都会怀疑是不是因为饿了...我的肚子已经没法供给我的身体。 |
+| 2026-06-07 | [稻草人周刊 Vol.84](https://www.geedea.pro/weekly/84/) | 这周更新还挺勤的，于是周刊的内容就变少了，合情合理。 止语 Hit the Wall Gracie Abrams Spotify 网易云音乐 Lucida Sooner or later, you’ll find out I live in a pattern of breakdowns You’l… |
+| 2026-06-07 | [第二届山梨户外节「摇曳嘉年华△」 day1](https://www.wikimoe.com/post/b-tg92szfn) | 2026年6月6日，天气晴。今天去参加了在甲府举办的第二届山梨户外节「摇曳嘉年华△」。 关于这个活动 第二届山梨户外节「摇曳嘉年华△」是以人气动画《摇曳露营△》为主题，结合山梨县户外文化与地方特色举办的综合活动。现场设有舞台表演、露营体验、美食摊位、联名商品及相关展示，让游客在轻松氛围中感受作品世界… |
 | 2026-06-07 | [Toots 422 2026 May.31 - Jun.6](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260606/) | 「基本面的魅力。」 |
 | 2026-06-07 | [手生了就要多练](https://blog.solazy.me/20260607/) | 这周开始多动笔了，去年没完成的练字，其实也是事出有因…… |
 | 2026-06-07 | [石油障碍症](https://re.karlbaey.top/articles/return-to-dusk/oil-panic/) | 林嘉乐从来没有见过真的石油。尽管她的生活已经被石油从头渗透到脚，她依然与这黑色黄金没有谋面的缘分。这也无关紧要。对于嘉乐 … |
@@ -38,7 +43,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-07 | [牛马的变迁](https://www.hecaitou.com/2026/06/he-transformation-of-ox-and-horse-in-chinese-culture.html) | 早先，牛马这个词在中文里就是牛马的意思。后来司马迁在《报任安书》的开篇第一句，如此写道：「 太史公牛马走司马迁再拜言」，意思是：太史公，如同牛马一样为人驱使的仆役，司马迁我再次拜谢并且陈词。 太史公，是司马迁的自称；牛马走，则是司马迁的自谦。这里的牛马，依然是牛马，只不过隐约有一层辛苦劳作，任人役使… |
 | 2026-06-07 | [遛狗这件小事](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/06/07/the-small-matter-of-walking-a-dog-in-australia.md.html) | 在澳洲住久了，有些事情是慢慢才意识到不一样的。 比如狗。 澳洲人养狗的比例不低，走在住宅区的街道上，时不时就能看到有人牵着一只金毛或者边牧悠悠地散步。 但奇怪的是，你几乎不会看到狗狗停下来，对着电线杆或者路边的树干”盖章”，就是那种在其他地方很常见的画面，狗抬起一条腿，很认真地在某个角落撒尿标记。… |
 | 2026-06-07 | [2026年第23周：碎碎念与记梦几则](https://blog.sakoamc.com/posts/2623/) | 题记：在极度的无聊与迷茫中，用不停对话来抵抗焦虑。高考的朋友们加油！ |
-| 2026-06-07 | [Memos #2026-06-06](https://www.taober.blog/memos) | 23:34 麦理浩径，雨天徒步。 开心且激情的一天，团建拉近了同事间的关系。 难受的是我又重了😔 |
 | 2026-06-06 | [大陆用户开美国期货账户，我会先选 AMP Futures](https://blog.forecho.com/open-us-futures-broker-from-china.html) | 引言 最近在研究美国期货账户，主要看了两个券商： AMP Futures 和 Optimus Futures 。 我的判断很直接： 先开 AMP，Optimus 先放观察位 。 AMP 的开户资料更多，中文圈用的人也更多，Mac 用户可以直接接 TradingView。Optimus 官方支持海外用… |
 | 2026-06-06 | [Kali Linux尝试破解WIFI密码](https://blog.wo0ow.com/38512.html) | 参考博客 特别声明：仅供个人学习、安防演练使用，培养网络安全意识，并无恶意用途！ <h |
 | 2026-06-06 | [29 岁的自白：不必「三十而立」](https://www.pseudoyu.com/posts/yearly_review_29) | 前言 现在是 2026 年 6 月 6 日，我 29 岁了。 不必「三十而立」 似乎早就已经过了零点蹲祝福期待生日这一天到来的阶段了，很平常地在加班，快要睡前一看表，原来已经过了零点了，毫无波澜地踏入了最后一个“2”开头的年纪。 起来后学姐准备的气球、蛋糕以及刚好捡到的一张单向历都提醒着自己已经 2… |
@@ -140,28 +144,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-01 | [儿童节快乐！](https://blog.solazy.me/20260601/) | 儿童节快乐！ 我喜欢儿童节，并不因为我想给自己过节，而是我喜欢把这一天定为我家猫咪的生日。 ▲ 附上它今天的可爱照 |
 | 2026-06-01 | [从衣冠南渡到下南洋：潮汕人的信仰](https://sinyalee.com/blog/?p=1131) | 有很多东西，很多潮汕人、闽南人、广府人，尤其是上一代，都是懂的，但是很少人写下来。我是潮汕人，但是闽南人、广府 […] |
 | 2026-06-01 | [咖啡厅里的绝对领域](https://mobius.blog/24381.html) | 在咖啡厅我很喜欢坐在那种长条的桌台区，一方面是因为这里可以观察到不同人，也因为我在这个区域只会占据“最小单位” […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-05-31 | [稻草人周刊 Vol.83](https://www.geedea.pro/weekly/83/) | 我感到自己最近一直处于应激状态，随时准备和世界反目成仇、大干一场，这种状态大概是不适合做任何人生决策的，我在想应该调整调整心态，或许暑假该出去走走，也暂时把找实习的事情放一放。写作也有帮助，至少我在写词源学系列的时候心无旁骛，感到开心。 止语 the cure Olivia Rodrigo NeoD… |
-| 2026-05-31 | [Chris Sawyer's Locomotion updated](https://macsourceports.com/game/locomotion) | The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version v26.05 of the project |
-| 2026-05-31 | [Jazz Jackrabbit 2 updated](https://macsourceports.com/game/jazzjackrabbit2) | The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.6.0 of the project |
-| 2026-05-31 | [我给16岁女儿整理了一份（北美）安全驾驶指南](https://diff.im/blog/2026/05/%E6%88%91%E7%BB%9916%E5%B2%81%E5%A5%B3%E5%84%BF%E6%95%B4%E7%90%86%E4%BA%86%E4%B8%80%E4%BB%BD%E5%8C%97%E7%BE%8E%E5%AE%89%E5%85%A8%E9%A9%BE%E9%A9%B6%E6%8C%87%E5%8D%97/) | 上周和一位教会弟兄闲聊时，他提到教会里的年轻人开车，几乎每个人都“撞飞”过一辆车。这个“撞飞”当然有点夸张，意思是说，几乎每个孩子都遇到过事故，而且可能还是比较严重的事故。 我的女儿 16 岁，已经通过了笔试，目前正在和我学开车。如果顺利的话，年底可能就能正式上路。我之前和她聊过一些安全驾驶的知识，… |
-| 2026-05-31 | [伯明翰桌游展 UK GAMES EX PO](https://anotherdayu.com/ukboardgame/) | 昨天和朋友 Jordan 去了伯明翰的大型桌游展 UK GAMES EX PO（UKGE） 。现场规模比我想象中还要大，有桌游、战棋、跑团、卡牌、周边、试玩区和各种活动摊位，非常热闹！ 追星 UKGE 是一个互动性很强的展会，现场有很多小型桌游比赛、设计师见面会、新作试玩和体验活动。 先是见到了 S… |
-| 2026-05-31 | [个人博客，最后的自留地](http://www.5had0w.com/posts/6a9a5db9.html) | 在 AI 盛行的今天，网上到处充斥着 AI 制造的产物。 AI 写代码、AI 生成音视频、AI 写文章写小说。 如果说还有哪里没沾染太多 AI 的气息的话，我觉得只有个人博客了。 当然，我没有排斥 AI 的意思。其实说实话，我认为， |
-| 2026-05-31 | [Win安装choco包管理器](https://blog.wo0ow.com/47497.html) | 参考博客 安装choco包管理器 需要以 管理员身份 打开PowerShel |
-| 2026-05-31 | [那些我周末喜欢做的事情](https://blog.solazy.me/20260531/) | 今天写一篇抽象的流水账 |
-| 2026-05-31 | [安宁](https://z.arlmy.me/posts/Poems/2026/20260525_AnNing/) | 「安宁。」 |
-| 2026-05-31 | [Toots 421 2026 May.24 - May.30](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260530/) | 「远山暗影。」 |
-| 2026-05-31 | [五月日记](https://cbvivi.today/260531) | 博客恢复了，发一些五月写在mynd里的日记，纪念上线两个月。 5/2（周日） 去前滩看文森特公司做的喜剧演出。 现场男观众比例低到惊人。 文森特在群内提醒，这个演出真的很狂热，你们做好心理准备。 剧场的大屏幕滚动播放全屏的演出海报、群聊加入方式和演出不能拍照和摄像的提示，大家熟练地举起票根和物料，跟… |
-| 2026-05-31 | [Codex 治好了我的博客不能被 VXNA 抓取的毛病](https://www.tortorse.com/archives/vxna-rss-cloudflare-codex-debugging/) | 今年 3 月，我发现一件怪事：我的博客明明更新了，但 V2EX 的 VXNA 里一直没有新文章。 |
-| 2026-05-31 | [那里](https://z.arlmy.me/posts/Poems/2026/20260517_NaLi/) | 「那里。」 |
-| 2026-05-31 | [J 的并不漫长也不悠闲假期（一）](https://www.justzht.com/j-s-not-so-leisure-vacation-pt-one/) | 没有人喜欢旅途。对于大部分人来说，旅途是旅行中最无聊的一部份，可能是过夜的卧铺火车，和陌生人同处一件 |
-| 2026-05-31 | [比特币社区在讨论的抗量子计算是怎么回事](https://smallyu.net/2026/05/31/%E6%AF%94%E7%89%B9%E5%B8%81%E7%A4%BE%E5%8C%BA%E5%9C%A8%E8%AE%A8%E8%AE%BA%E7%9A%84%E6%8A%97%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B/) | 引用框里的内容都是 Gemini 生成的。我也不太喜欢这种大量 AI 生成内容的文章，但是很多专业名词和数据又依赖于 AI 给出的数据。所以还是以分享和整理信息为主吧。 <a href="#生成式-AI" |
-| 2026-05-31 | [Vol.105 AI分化：王小川押注医疗，何小鹏转机器人，Anthropic推动态Agent工作流](https://liduos.com/weekly/the-weekly-gradient-105) | 本期内容聚焦AI行业分化：王小川转向医疗AI，何小鹏重塑为物理AI公司，Anthropic推出Opus 4.8及动态工作流，并探讨Agent安全、AI成本高企下的商业模式变革与组织革命。 |
-| 2026-05-31 | [从提示词到个人资产，我如何用 Git 跨设备管理私有 Skill](https://shiquda.link/private-skill-git-cross-device/) | 从提示词到个人资产，我如何用 Git 跨设备管理私有 Skill 最近我在折腾一件小事：把自己散落在不同 Agent 里的 Skill 管起来。一开始我也觉得这事没那么重要，无非就是几个 SKILL.md ，里面写一些说明、流程和工具调用方式。可用得多了以后，我越来越觉得，Skill 不应该只被当成… |
-| 2026-05-31 | [祈愿词](https://www.hecaitou.com/2026/05/prayer-of-aspiration.html) | 成为人极不容易，世界上有那么多生命，却没有人的心智和头脑，仅只是凭借本能驱使活着。 作为人极不容易，世界上有那么多不幸，生活中有那么多烦扰，内心终日饱受各种情绪和想法的折磨。 作为自己极不容易，人通常很难和自己单独相处，相处时又难以面对，面对时又很难认清自己。因此总是处于随波逐流的状态，既不自由，也… |
-| 2026-05-31 | [Elon Musk 五步工作法](https://blog.est.im/2026/stdin-15) | The five-step process: First, make your requirements less dumb . Your requirements are definitely dumb. It does not matter who gave them to you. In fa… |
-| 2026-05-31 | [AI 编程不到一年，工具切了3轮。行业变革很残酷，但很好玩。](https://diff.im/blog/2026/05/ai-%E7%BC%96%E7%A8%8B%E4%B8%8D%E5%88%B0%E4%B8%80%E5%B9%B4%E5%B7%A5%E5%85%B7%E5%88%87%E4%BA%863%E8%BD%AE%E8%A1%8C%E4%B8%9A%E5%8F%98%E9%9D%A9%E5%BE%88%E6%AE%8B%E9%85%B7%E4%BD%86%E5%BE%88%E5%A5%BD%E7%8E%A9/) | 从Cursor 转到 Terminal 我最早用 Cursor，大概两个月前转到 Terminal（用 iTerm2）。现在，我又逐渐从 iTerm2 转到 Codex 和 Claude Code 的官方 App。 一开始从 Cursor 转到 iTerm2，是因为我发现，Cursor 的界面虽然有… |
-| 2026-05-31 | [五月杂思](https://coderfee.com/blog/2026-05-31/) | 五月三十一天，每天都回答了一个问题。那些答案拼起来，比我刻意写的任何东西都更像我。 |
-| 2026-05-31 | [使用 AI 开发一个 Chrome 插件](https://blog.196000.xyz/2026/2026-05-31-develop-ai-chrome-plugin.html) | 使用 AI 开发一个 Chrome 插件 主要是整理整个操作的步骤，F12查看源码，找出关键的HTML控件代码，比如点击按钮、输入文本框等，然后提交给提示词让根据需求完成编码。 下面的是实现一个风控网站的助手插件，把历史搜索过的关键字先导出 csv 文件，然后逐行扫描根据关键字导出 PDF 结果文件… |
 
 ## Vibe Coding
 
