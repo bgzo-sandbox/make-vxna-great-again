@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-08 | [R#105 AI也要断舍离](https://blog.sakanano.moe/journals/random_105) | 2026.6.2 ~ 2026.6.8 |
+| 2026-06-08 | [在 Oyunfor 平台购买土耳其区 Apple 礼品卡](https://blog.yasking.org/a/apple-gift-card-turkiye.html) | 前提：已准备好土区 Apple Account 不同额度的礼品卡 首次购买，先买 500 TL 试试水 点击右侧添加付款方式，弹出页面，勾选 “I am not a Turkish … |
 | 2026-06-08 | [解决无法创建 Apple Account 账号问题](https://blog.yasking.org/a/apple-account-cannot-be-created-at-this-time.html) | 注册土区账号遇到提示 “无法新建账号”，切换网络、使用 GiffGaff 手机号均无法正常注册。 访问 https://getsupport.apple.com/solutions ； 选择 “Apple Account”； 选择 “Other Apple Account Topics … |
 | 2026-06-08 | [拥有孩子的得与失](https://www.jackpu.com/yong-you-hai-zi-de-de-yu-shi/) | 至今，当前中国社会，对于生育率这个问题的讨论极其多，政策也多多少少跟上了，但是颓势不止。在最新一年的生育率统计上，很多省市继续创新低，不乏比韩日更差的，这个曾经被我们嘲笑内卷，年轻人生活成本极大的地区，我们现在追赶上了。 关于生育率是一个宏达的话题，自己仅仅从个人角度出发，说说有了孩子得与失，希望有… |
 | 2026-06-08 | [做了一款家庭资产管理 App — 知盈 iAssets](https://blog.debuginn.com/p/iassets-app/) | 大家好呀，我是 Meng小羽 说起记账和资产管理，市面上其实不缺工具，但用了一圈下来，总觉得差点意思——有的只记流水不看全局，有的功能臃肿得像企业级 ERP，还有的满屏广告，让人心烦。说白了，我就是想要一个 简单、好看、能把家里所有资产和负债一目了然展示出来 的工具。 找了一圈没找到满意的，行吧，那… |
@@ -34,6 +36,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-08 | [的确做不到亲切友好](https://www.hecaitou.com/2026/06/i-just-cant-do-warm-and-fuzzy.html) | 看到有人批评我说：和菜头即便在留言区也端着、拿着，和读者交流的时候一点都不亲切，一点都不自然。 我想了一下，还真是的。好像我从出生到现在，就没有让几个人觉得我亲切过，觉得容易相处过。记得我在国企时，我的上司有次专门找我谈话，说我身上「读书人气质太重」，和别人打交道时态度过于「冷、清高而且说话总是咄咄… |
 | 2026-06-08 | [曼谷、香港、潮汕人的历史](https://sinyalee.com/blog/?p=1143) | 这篇也是我知乎题目的回答。知乎原题目：《给阿嬷的情书》为什么男主不去距离更近的香港而是要下南洋？ 潮汕人去香港 […] |
 | 2026-06-08 | [香水](https://mobius.blog/24440.html) | 我在咖啡厅码字的当下，突然闻到了一股非常熟悉的香水味。我抬起头，发现是一个中年男性坐在了我的对面。 当下，我在 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-08 | [外挂大脑](https://elmtran.com/essays/auxiliary-brain/) | 它为什么还在运算？ |
 | 2026-06-08 | [giffgaff + eSIM + Air780EP：我的海外号码自托管方案](https://www.devzhi.com/post/self-hosted-overseas-phone-number/) |  |
 | 2026-06-08 | [Memos #2026-06-07](https://www.taober.blog/memos) | 10:18 最近多梦啊，无尽甜蜜和忧伤。 17:21 每当我身体不舒服的时候，我都会怀疑是不是因为饿了...我的肚子已经没法供给我的身体。 |
 | 2026-06-07 | [稻草人周刊 Vol.84](https://www.geedea.pro/weekly/84/) | 这周更新还挺勤的，于是周刊的内容就变少了，合情合理。 止语 Hit the Wall Gracie Abrams Spotify 网易云音乐 Lucida Sooner or later, you’ll find out I live in a pattern of breakdowns You’l… |
@@ -47,6 +50,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-07 | [云南系列｜Day 1 大理洱海之行（上）](https://blog.yasking.org/a/series-yunnan-travel-day1.html) | 前几天补完 2025 五月的日本关西旅行系列，今年五月云南出行又积压下来。🤷‍♂️ 本次出行前查看云南的天气，基本上都是下雨，做 … |
 | 2026-06-07 | [堕落 流放与王国](https://www.geedea.pro/library/2026/la-chute-l-exil-et-le-royaume/) | 总觉得加缪笔下的人物都有极其隐秘和个人，乃至诡异的行事动机，很难揣摩。若是读者的私人情感能与小说人物的行为对上，想必会非常喜爱，不过我必须承认，这部小说集里有一两篇我完全不能理解，比如最后一篇《生长的石头》。即便如此，读到小说人物依照自己的意愿做其他人都感到费解的事情，依旧感慨。 这部集子有两部分，… |
 | 2026-06-07 | [牛马的变迁](https://www.hecaitou.com/2026/06/he-transformation-of-ox-and-horse-in-chinese-culture.html) | 早先，牛马这个词在中文里就是牛马的意思。后来司马迁在《报任安书》的开篇第一句，如此写道：「 太史公牛马走司马迁再拜言」，意思是：太史公，如同牛马一样为人驱使的仆役，司马迁我再次拜谢并且陈词。 太史公，是司马迁的自称；牛马走，则是司马迁的自谦。这里的牛马，依然是牛马，只不过隐约有一层辛苦劳作，任人役使… |
+| 2026-06-07 | [给朋友们的 AI 使用建议](https://imzl.com/ai-usage-tips) | 从 2022 年底 ChatGPT 开放给公众那天起，我就一头扎了进去。三年多过去，主流模型轮番上阵，从最早那个「会写诗的玩具」，到如今能陪我把一个 Idea 跑成产品、再跑出第一笔商业化收入。如今 AI 已经成了我使用最高频、投入最多、ROI 最高的工具。 |
 | 2026-06-07 | [遛狗这件小事](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/06/07/the-small-matter-of-walking-a-dog-in-australia.md.html) | 在澳洲住久了，有些事情是慢慢才意识到不一样的。 比如狗。 澳洲人养狗的比例不低，走在住宅区的街道上，时不时就能看到有人牵着一只金毛或者边牧悠悠地散步。 但奇怪的是，你几乎不会看到狗狗停下来，对着电线杆或者路边的树干”盖章”，就是那种在其他地方很常见的画面，狗抬起一条腿，很认真地在某个角落撒尿标记。… |
 | 2026-06-07 | [2026年第23周：碎碎念与记梦几则](https://blog.sakoamc.com/posts/2623/) | 题记：在极度的无聊与迷茫中，用不停对话来抵抗焦虑。高考的朋友们加油！ |
 | 2026-06-06 | [大陆用户开美国期货账户，我会先选 AMP Futures](https://blog.forecho.com/open-us-futures-broker-from-china.html) | 引言 最近在研究美国期货账户，主要看了两个券商： AMP Futures 和 Optimus Futures 。 我的判断很直接： 先开 AMP，Optimus 先放观察位 。 AMP 的开户资料更多，中文圈用的人也更多，Mac 用户可以直接接 TradingView。Optimus 官方支持海外用… |
