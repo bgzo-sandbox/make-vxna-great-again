@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-09 | [full circle.](https://www.justzht.com/full-circle/) | 开完发布会了，和国内来的开发者朋友们吃了个饭，然后回到家，想说给父母打个电话好了，告诉他们今年我 又讲 |
+| 2026-06-09 | [借不了的强硬](https://www.hecaitou.com/2026/06/you-cant-fake-toughness.html) | 当我的福报还没有降临，我每天都在网上高强度怼人。上网怼人对于我而言只是一种个人业余爱好，却因此而吸引了很多人来观赏，根据他们的说法是「看了感觉很解压」，因为在生活里「自己做不到」。 观察了那么多年，我发现生活里的确存在着一大批人，他们的心愿就是想让自己「强硬」起来，免得自己天天「受欺负」、「受委屈」… |
 | 2026-06-09 | [关于人设的自证悖论](https://mobius.blog/24577.html) | 之前的内容都是提前码好的字，只是偶尔“回到当下”。今天又是在咖啡厅码字的一天，此时此刻，在我的对面坐着这样一对 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-09 | [Memos #2026-06-08](https://www.taober.blog/memos) | 19:49 血亏 5.52%，已黑化。 |
 | 2026-06-08 | [DOOM 3 updated](https://macsourceports.com/game/doom3) | The build of dhewm3 for DOOM 3 has been updated to version 1.5.5 of the project |
