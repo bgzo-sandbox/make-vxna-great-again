@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-09 | [2026年 激战2 常用网站和工具 #Guild wars 2](https://anotherdayu.com/guild-wars-2/) | 激战2 已是发布十年以上的老游戏，一些流行的工具慢慢停止维护和更新。 本文总结了 2026 年国际服仍可用且好用的相关网站，会定期维护更新。 部分资料为英文，可使用 Chrome 浏览器插件 沉浸式翻译 中英对照阅读。YouTube 视频也可用其生成中文字幕。 网站 Guild wars 2 wik… |
 | 2026-06-09 | [What is an AI Native Data System](https://victor42.eth.limo/post-en/ai-native-data-system/) | I am a power user of Excel and Google Sheets, relying on them heavily to manage both work and life . Later, I migrated some of my heavier data managem… |
 | 2026-06-09 | [什么是AI原生的数据系统？](https://victor42.eth.limo/post/ai-native-data-system/) | 我Excel/Google Sheets用得很溜， 大量用它们管理工作和生活 。 后来，我曾经把一部分较重的数据管理任务迁移到飞书多维表这样的产品里。这类东西长得很像Excel，但本质上是完全不同的东西，是可视化数据库。它们比Excel有着严格得多的数据规范，限制灵活性的同时，释放了数据库天然带来的… |
 | 2026-06-09 | [关于自律](https://blog.solazy.me/20260609/) | 你看到的这篇文章是我对于今天的不甘心 |
