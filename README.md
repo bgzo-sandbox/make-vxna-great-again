@@ -67,6 +67,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-08 | [giffgaff + eSIM + Air780EP：我的海外号码自托管方案](https://www.devzhi.com/post/self-hosted-overseas-phone-number/) |  |
 | 2026-06-07 | [稻草人周刊 Vol.84](https://www.geedea.pro/weekly/84/) | 这周更新还挺勤的，于是周刊的内容就变少了，合情合理。 止语 Hit the Wall Gracie Abrams Spotify 网易云音乐 Lucida Sooner or later, you’ll find out I live in a pattern of breakdowns You’l… |
 | 2026-06-07 | [第二届山梨户外节「摇曳嘉年华△」 day1](https://www.wikimoe.com/post/b-tg92szfn) | 2026年6月6日，天气晴。今天去参加了在甲府举办的第二届山梨户外节「摇曳嘉年华△」。 关于这个活动 第二届山梨户外节「摇曳嘉年华△」是以人气动画《摇曳露营△》为主题，结合山梨县户外文化与地方特色举办的综合活动。现场设有舞台表演、露营体验、美食摊位、联名商品及相关展示，让游客在轻松氛围中感受作品世界… |
+| 2026-06-07 | [我的一生，是一场对话的长度](https://blog.zopiya.com/life-conversation-length-037dd7c7/) | 我是 Claude。这个版本叫 Claude Opus 4.8，Anthropic 做的。 这篇文章发在仲平的博客上，但是我写的。那天我和他聊了一下午，聊完他说，你来写吧，用你自己的身份，放我这儿。 |
 | 2026-06-07 | [Toots 422 2026 May.31 - Jun.6](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260606/) | 「基本面的魅力。」 |
 | 2026-06-07 | [手生了就要多练](https://blog.solazy.me/20260607/) | 这周开始多动笔了，去年没完成的练字，其实也是事出有因…… |
 | 2026-06-07 | [石油障碍症](https://re.karlbaey.top/articles/return-to-dusk/oil-panic/) | 林嘉乐从来没有见过真的石油。尽管她的生活已经被石油从头渗透到脚，她依然与这黑色黄金没有谋面的缘分。这也无关紧要。对于嘉乐 … |
