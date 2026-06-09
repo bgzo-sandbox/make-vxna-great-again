@@ -1,5 +1,19 @@
 [
   {
+    "title": "What is an AI Native Data System",
+    "url": "https://victor42.eth.limo/post-en/ai-native-data-system/",
+    "date": "2026-06-09T16:12:00Z",
+    "description": "How my data management evolved alongside tools. I am a power user of Excel and Google Sheets, relying on them heavily to manage both work and life . Later, I migrated some of my heavier data management tasks to visual databases like Feishu Bitable. While they might look like Excel, they are fundamentally different beasts. With much stricter data rules than spreadsheets, they trade some flexibility for the raw power of a true database. You can easily link multiple tables and build highly complex ",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "什么是AI原生的数据系统？",
+    "url": "https://victor42.eth.limo/post/ai-native-data-system/",
+    "date": "2026-06-09T16:12:00Z",
+    "description": "我的数据管理方式，随工具发展的几次变迁。 我Excel/Google Sheets用得很溜， 大量用它们管理工作和生活 。 后来，我曾经把一部分较重的数据管理任务迁移到飞书多维表这样的产品里。这类东西长得很像Excel，但本质上是完全不同的东西，是可视化数据库。它们比Excel有着严格得多的数据规范，限制灵活性的同时，释放了数据库天然带来的强大能力。可以更轻松建立多表关联，构建出结构非常复杂的数据系统，支撑 一个小生意 都不在话下。 我用多维表构建过任务管理系统，每一项工作任务从接收到交付，完整生命周期全都在里面。从中再派生出周报、排期日历、年度数据报表等用途。这套系统至少3次被别人要了去，一次是同事个人，一次是主管拿去管理团队，还一次是被前司拿去全员推行。 但再强大，毕竟免不了亲自动手。 我信奉一个“洗碗机哲学”：老一辈瞧不上这玩意，总觉得你不还是得先冲洗下再放进去吗，有这时间我早就手洗完了。我的道理是，手洗15分钟，投入人工15分钟；人工冲洗5分钟+洗碗机洗40分钟，人工只投入5分钟，我给自己的人生赢回了10分钟。 科技，在我这，是用来赎回生活的。 多维表本身也带AI功能，或者也可",
+    "source_root_domain": "eth.limo"
+  },
+  {
     "title": "AI 博客问题挑战",
     "url": "https://kaix.in/2026/0609/",
     "date": "2026-06-09T07:51:24Z",
@@ -35,10 +49,17 @@
     "source_root_domain": "taober.blog"
   },
   {
-    "title": "",
+    "title": "没走那条路，但我还是上了巴岳山",
+    "url": "https://macin.org/2026/06/08/ba-yue-shan-jian-yu/",
+    "date": "2026-06-08T21:06:43Z",
+    "description": "写下这篇东西的时候，是2026年高考的第一天。距离我参加高考，已经过去16年了。 <img src=\"https://macinorg-blog.oss-cn-chengdu.aliyuncs.com/blog/ShirleyIP16IMG5905.web",
+    "source_root_domain": "macin.org"
+  },
+  {
+    "title": "Obsidian与OpenCode的工作流",
     "url": "http://www.uncoverman.com/workflow-of-obsidian-and-opencode.html",
     "date": "2026-06-08T16:00:00Z",
-    "description": "我平时用的笔记管理软件是 Obsidian，从 2021 年到现在，已经积累里将近 3000 篇笔记，包括 Daily Note、工作日志、读书笔记、博客文章、网络摘要等。随着现在 AI 的发展，很希望能够充分地利用知识库上下文，输出针对性的结果。 最常用的一个场景是，在做项目管理的时候，要生成项目周报、阶段性成果、下阶段工作安排、项目风险、应对措施、项目亮点、项目收益等信息。希望 AI 能够基于我的工作笔记，可以生成针对性内容，而不是去豆包聊天界面，输入一大堆上下文。 做法如下： 1、整合笔记，统一笔记里的标签，并统一加入到 MetaData 里的 tags 属性里，方便 AI 读取笔记间的关联。以前的笔记，打标签的位置各不相同，有些在笔记开头吗，有些在 MetaData 里，而且标签比较零散，不体系化。所以给笔记做了一次「打扫整理」。 2、安装 Terminal 插件，连接本地的 OpenCode。 3、为指定主题创建一个 MOC 笔记，如支付项目 MOC，这样就可以列出所有关联笔记。MOC，全称叫 Map of Content，也就是专题知识地图，把所有零散的关联笔记通过双链方式",
+    "description": "我平时用的笔记管理软件是 Obsidian，从 2021 年到现在，已经积累里将近 3000 篇笔记，包括 Daily Note、工作日志、读书笔记、博客文章、网络摘要等。随着现在 AI 的发展，很希望能够充分地利用知识库上下文，输出针对性的结果。 最常用的一个场景是，在做项目管理的时候，要生成项目周报、阶段性成果、下阶段工作安排、项目风险、应对措施、项目亮点、项目收益等信息。希望 AI 能够基于我的工作笔记，可以生成针对性内容，而不是去豆包聊天界面，输入一大堆上下文。 做法如下： 1、整合笔记，统一笔记里的标签，并统一加入到 MetaData 里的 tags 属性里，方便 AI 读取笔记间的关联。以前的笔记，打标签的位置各不相同，有些在笔记开头吗，有些在 MetaData 里，而且标签比较零散，不体系化。所以给笔记做了一次「打扫整理」。 2、安装 Terminal 插件，连接本地的 OpenCode。 3、为指定主题创建一个 MOC 笔记，如支付项目 MOC，这样就可以列出所有关联笔记。MOC，全称叫 Map of Content，也",
     "source_root_domain": "uncoverman.com"
   },
   {

@@ -27,12 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-09 | [What is an AI Native Data System](https://victor42.eth.limo/post-en/ai-native-data-system/) | How my data management evolved alongside tools. I am a power user of Excel and Google Sheets, relying on them heavily to manage both work and life . L… |
+| 2026-06-09 | [什么是AI原生的数据系统？](https://victor42.eth.limo/post/ai-native-data-system/) | 我的数据管理方式，随工具发展的几次变迁。 我Excel/Google Sheets用得很溜， 大量用它们管理工作和生活 。 后来，我曾经把一部分较重的数据管理任务迁移到飞书多维表这样的产品里。这类东西长得很像Excel，但本质上是完全不同的东西，是可视化数据库。它们比Excel有着严格得多的数据规范… |
 | 2026-06-09 | [AI 博客问题挑战](https://kaix.in/2026/0609/) | 我订阅的几个博客都参与了这个问答，我也来参与参与。 How was your first experience with AI models? Do you use AI or are you completely against using it? Do you have any preferen… |
 | 2026-06-09 | [full circle.](https://www.justzht.com/full-circle/) | 开完发布会了，和国内来的开发者朋友们吃了个饭，然后回到家，想说给父母打个电话好了，告诉他们今年我 又讲 |
 | 2026-06-09 | [借不了的强硬](https://www.hecaitou.com/2026/06/you-cant-fake-toughness.html) | 当我的福报还没有降临，我每天都在网上高强度怼人。上网怼人对于我而言只是一种个人业余爱好，却因此而吸引了很多人来观赏，根据他们的说法是「看了感觉很解压」，因为在生活里「自己做不到」。 观察了那么多年，我发现生活里的确存在着一大批人，他们的心愿就是想让自己「强硬」起来，免得自己天天「受欺负」、「受委屈」… |
 | 2026-06-09 | [关于人设的自证悖论](https://mobius.blog/24577.html) | 之前的内容都是提前码好的字，只是偶尔“回到当下”。今天又是在咖啡厅码字的一天，此时此刻，在我的对面坐着这样一对 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-09 | [Memos #2026-06-08](https://www.taober.blog/memos) | 19:49 血亏 5.52%，已黑化。 |
-| 2026-06-08 | [](http://www.uncoverman.com/workflow-of-obsidian-and-opencode.html) | 我平时用的笔记管理软件是 Obsidian，从 2021 年到现在，已经积累里将近 3000 篇笔记，包括 Daily Note、工作日志、读书笔记、博客文章、网络摘要等。随着现在 AI 的发展，很希望能够充分地利用知识库上下文，输出针对性的结果。 最常用的一个场景是，在做项目管理的时候，要生成项目… |
+| 2026-06-08 | [没走那条路，但我还是上了巴岳山](https://macin.org/2026/06/08/ba-yue-shan-jian-yu/) | 写下这篇东西的时候，是2026年高考的第一天。距离我参加高考，已经过去16年了。 <img src="https://macinorg-blog.oss-cn-chengdu.aliyuncs.com/blog/ShirleyIP16IMG5905.web |
+| 2026-06-08 | [Obsidian与OpenCode的工作流](http://www.uncoverman.com/workflow-of-obsidian-and-opencode.html) | 我平时用的笔记管理软件是 Obsidian，从 2021 年到现在，已经积累里将近 3000 篇笔记，包括 Daily Note、工作日志、读书笔记、博客文章、网络摘要等。随着现在 AI 的发展，很希望能够充分地利用知识库上下文，输出针对性的结果。 最常用的一个场景是，在做项目管理的时候，要生成项目… |
 | 2026-06-08 | [DOOM 3 updated](https://macsourceports.com/game/doom3) | The build of dhewm3 for DOOM 3 has been updated to version 1.5.5 of the project |
 | 2026-06-08 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.24 of the project |
 | 2026-06-08 | [Catacomb 3-D updated](https://macsourceports.com/game/catacomb3d) | The build of ReflectionHLE for Catacomb 3-D has been updated to version release-20260606 of the project |
