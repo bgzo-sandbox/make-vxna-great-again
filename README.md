@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-09 | [关于人设的自证悖论](https://mobius.blog/24577.html) | 之前的内容都是提前码好的字，只是偶尔“回到当下”。今天又是在咖啡厅码字的一天，此时此刻，在我的对面坐着这样一对 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-09 | [Memos #2026-06-08](https://www.taober.blog/memos) | 19:49 血亏 5.52%，已黑化。 |
 | 2026-06-08 | [DOOM 3 updated](https://macsourceports.com/game/doom3) | The build of dhewm3 for DOOM 3 has been updated to version 1.5.5 of the project |
 | 2026-06-08 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.24 of the project |
 | 2026-06-08 | [Catacomb 3-D updated](https://macsourceports.com/game/catacomb3d) | The build of ReflectionHLE for Catacomb 3-D has been updated to version release-20260606 of the project |
@@ -38,7 +40,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-08 | [Wolfenstein 3-D: Spear of Destiny updated](https://macsourceports.com/game/sod) | The build of ReflectionHLE for Wolfenstein 3-D: Spear of Destiny has been updated to version release-20260606 of the project |
 | 2026-06-08 | [Zine#51 - 把愛傳給「未來的自己」、優秀的網站設計原則](https://taxodium.ink/51.html) | Zine#51 把愛傳給「未來的自己」、優秀的網站設計原則 🎵 天使たちのシーン by 小沢健二 小沢健二的「天使たちのシーン」我很喜歡，小沢健二的嗓音好聴，歌曲的旋律也很棒。編曲上，一直伴隨著好聴的 bass，讓人聴著想跟著擺動身體，間奏的薩克斯、吉他超好聴，鋼琴也很棒。盡管曲子長達 13:37，… |
 | 2026-06-08 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.2 of the project |
-| 2026-06-08 | [资产配置：投资中唯一的免费午餐](https://hangbin.blog/blog/asset-allocation-less-mistakes/) | 9346bf83-d295-4ae6-8db5-567537f5ae28.webp 最近读 《资产配置行动指南》 ，最有感触的地方，是它把投资这件事重新拉回了日常生活。很多人一说投资，脑子里马上冒出来的是买什么、什么时候买、今年哪个市场更有机会。可真的更进一步，问题会朴素很多：我现在到底有多少资产，… |
+| 2026-06-08 | [资产配置：投资中唯一的免费午餐](https://hangbin.blog/blog/asset-allocation-less-mistakes/) | 最近读 《资产配置行动指南》 ，最有感触的地方，是它把投资这件事重新拉回了日常生活。很多人一说投资，脑子里马上冒出来的是买什么、什么时候买、今年哪个市场更有机会。可真的更进一步，问题会朴素很多：我现在到底有多少资产，欠了多少债，每年能剩下多少钱，哪些钱三五年内可能要用，哪些钱可以慢慢等。 |
 | 2026-06-08 | [R#105 AI也要断舍离](https://blog.sakanano.moe/journals/random_105) | 2026.6.2 ~ 2026.6.8 |
 | 2026-06-08 | [在 Oyunfor 平台购买土耳其区 Apple 礼品卡](https://blog.yasking.org/a/apple-gift-card-turkiye.html) | 前提：已准备好土区 Apple Account 不同额度的礼品卡 首次购买，先买 500 TL 试试水 点击右侧添加付款方式，弹出页面，勾选 “I am not a Turkish … |
 | 2026-06-08 | [解决无法创建 Apple Account 账号问题](https://blog.yasking.org/a/apple-account-cannot-be-created-at-this-time.html) | 注册土区账号遇到提示 “无法新建账号”，切换网络、使用 GiffGaff 手机号均无法正常注册。 访问 https://getsupport.apple.com/solutions ； 选择 “Apple Account”； 选择 “Other Apple Account Topics … |
@@ -50,7 +52,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-08 | [香水](https://mobius.blog/24440.html) | 我在咖啡厅码字的当下，突然闻到了一股非常熟悉的香水味。我抬起头，发现是一个中年男性坐在了我的对面。 当下，我在 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-08 | [外挂大脑](https://elmtran.com/essays/auxiliary-brain/) | 它为什么还在运算？ |
 | 2026-06-08 | [giffgaff + eSIM + Air780EP：我的海外号码自托管方案](https://www.devzhi.com/post/self-hosted-overseas-phone-number/) |  |
-| 2026-06-08 | [Memos #2026-06-07](https://www.taober.blog/memos) | 10:18 最近多梦啊，无尽甜蜜和忧伤。 17:21 每当我身体不舒服的时候，我都会怀疑是不是因为饿了...我的肚子已经没法供给我的身体。 |
 | 2026-06-07 | [稻草人周刊 Vol.84](https://www.geedea.pro/weekly/84/) | 这周更新还挺勤的，于是周刊的内容就变少了，合情合理。 止语 Hit the Wall Gracie Abrams Spotify 网易云音乐 Lucida Sooner or later, you’ll find out I live in a pattern of breakdowns You’l… |
 | 2026-06-07 | [第二届山梨户外节「摇曳嘉年华△」 day1](https://www.wikimoe.com/post/b-tg92szfn) | 2026年6月6日，天气晴。今天去参加了在甲府举办的第二届山梨户外节「摇曳嘉年华△」。 关于这个活动 第二届山梨户外节「摇曳嘉年华△」是以人气动画《摇曳露营△》为主题，结合山梨县户外文化与地方特色举办的综合活动。现场设有舞台表演、露营体验、美食摊位、联名商品及相关展示，让游客在轻松氛围中感受作品世界… |
 | 2026-06-07 | [Toots 422 2026 May.31 - Jun.6](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260606/) | 「基本面的魅力。」 |
@@ -148,26 +149,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-02 | [大连・五一三天旅程记录（2026）](https://blog.yasking.org/a/photos-dalian.html) | 十几年前就听说大连市现代、干净，在北方城市是独一档的，五一没规划去远的地方，就临时起意去大连转转 妻子的姐姐、姐 … |
 | 2026-06-02 | [与 AI 如何保持“社交安全距离”？ I](https://mobius.blog/24395.html) | 每过一段时间，我就会把 AI 的话题阶段性聊一聊，在“坐标”里，我也专门拎出了“AI 会毁灭人类吗？”的专题， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-02 | [2026年第22周：给五月画上句点](https://blog.sakoamc.com/posts/2622/) | 题记：给五月画上句点、给上周一个交代。 |
-| 2026-06-01 | [从石门山到舒成岩：你以为去过宝顶山就是全部的大足石刻了吗？](https://macin.org/2026/06/01/shi-men-shan/) | 下过几场大雨，经过几次暴晒，开始了一段十分舒适天气的日子：白日里蓝天白云晴空万里，傍晚后蓝调时刻凉风习习。即使又是一个单休日，也不能浪费在没用的人和消耗在无意义的事情上，所以决定去看看收藏夹里积灰的“大足石刻”。 是的，你没有听错，就是 大足石刻 |
-| 2026-06-01 | [OPC实践 & 不懂开发的独立开发者 - Week9](https://diff.im/blog/2026/06/opc%E5%AE%9E%E8%B7%B5-%E4%B8%8D%E6%87%82%E5%BC%80%E5%8F%91%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85-week9/) | MRR 目标：$1000.00 本周收入：$0 本周完成的几件事情 Cap4u 准备提交 App Store，95% 以上完成； Cap4u 产品网站设计； 公众号草稿文章自动化； Harness-coding 更新； 和女儿一起去钓鱼。 感受 有一点受挫 原本计划三周发布 MVP 的产品，现在到第… |
-| 2026-06-01 | [上手倉頡輸入法](https://taxodium.ink/get-started-with-cangjie-input-method.html) | 上手倉頡輸入法 最近在學倉頡輸入法，分享一下我為什麼學，以及我是如何上手的，也通過寫博客进行打字練習。 大多数人最先學会的中文輸入法应该是全拼，只需要记住 26 個字母，知道字的拼音，就能熟練使用，上手难度是最低的。缺點是重碼率高，即相同的拼音可存在多個候选字，需要选择实际想打的字。 全拼我用了很長… |
-| 2026-06-01 | [2026 欧洲之旅：在佛罗伦萨坐公交](https://www.ixiqin.com/2026/06/01/2026-european-tour-take-a-bus-in-florence/) | 佛罗伦萨公交车按时间收费，而非国内按里程计费。司机不提醒购票，有随机抽查，无票将被重罚。 票可在App或售票机 […] |
-| 2026-06-01 | [从打点酱油到袁朝发（2026-05-月度小结）](https://yuanchaofa.com/blog/2026-05-month-summary) | 不写月度总结会死吗？不会，但我知道再不写，我想说的话只会越攒越多，直到我自己都忘记了。以后发的文章、视频，署名都是"袁朝发"了 |
-| 2026-06-01 | [R#104 搬迁](https://blog.sakanano.moe/journals/random_104) | 2026.5.26 ~ 2026.6.1 |
-| 2026-06-01 | [美国政府是如何没收大量比特币的](https://brain-zhang.github.io/blog/2026/06/01/mei-guo-zheng-fu-shi-ru-he-mei-shou-da-liang-bi-te-bi-de/) | 每隔一段时间，就会有新闻，说美国政府没收了xxx的大量加密货币；而此类新闻对于如何没收的语焉不详；让很多不明真相的群众，认为比特币又又又被攻破了，什么去中心化并非真正的去中心化，美国政府想没收谁就没收谁…… 这里面最大的一个事件，应该是2025年10月，美国司法部以“打击跨国电诈洗钱”为名义，对柬埔… |
-| 2026-06-01 | [500 篇笔记喂给 AI 后知识开始发芽了](https://www.yunxicoding.top/post/think/500-notes-ai-knowledge/) | 最近在服务器上装了 Hermes Agent 它里面的 llm-wiki skill 引起了我的注意，当我将自己所有记录的笔记全部喂给了 llm-wiki 我发现事情开始变得不一样了。 初识 我们与 AI 交互的开始都源于一份小心试探的信任。当我把笔记上传到服务器，并告诉 Hermes Agent… |
-| 2026-06-01 | [放飞梦想](https://mobius.blog/24549.html) | 1275 &#124; 放飞梦想 一直不是很懂，为什么梦想这个名字要搭配的动词一定是“放飞”。要不是今天楼下在举办儿童节 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-01 | [FE Bits Vol.35 &#124; Deno 2.8 发布，CSS 2026 新特性梳理](https://ysx.cosine.ren/weekly-35/) | 关于本周刊 本期网址 https://blog.cosine.ren/post/weekly-35 本周刊更新时间期望是在每周天。 推荐订阅本周刊的 RSS 。 公众号 前端周周谈 FE Bits，点击阅读原文链接可查看原文。 QQ 讨论小群 598022684 / Discord 群 本周刊文章内… |
-| 2026-06-01 | [Album#41 - 风筝飞了一整天](https://taxodium.ink/album-41.html) | Album#41 风筝飞了一整天 图1 《风筝飞了一整天》専輯封面 专辑信息 专辑名称：风筝飞了一整天 歌手：周欣韧 年份：2020-05-01 风格：Jazz 时长：約 40 分種 一張不錯的爵士鋼琴曲専輯，喜歡這張専輯封面，給人一種温暖柔和的感覚。 夏日，清澈深邃的蓝天，被阳光直射得有点刺眼的积… |
-| 2026-06-01 | [撕下道德的滤镜，直面人性的斑驳——《面纱》读后感](https://blog.hoopan.net/840.html) | 毛姆《面纱》以霍乱疫区为背景，剖析瓦尔特、凯蒂等角色人性裂痕，撕下道德滤镜，揭示欲望、虚伪与韧性，倡导灰度认知下的包容与生命体验。 |
-| 2026-06-01 | [加拿大东部 蒙特利尔、渥太华、多伦多 - 旅行随拍](https://blog.ensonyan.com/photographing/3386.html) | 上个月中旬，学期结束，我照常寻找旅游的目的地。与以往不同的是，这次我没有选择其他国家地区，而是决定在加拿大境内 […] |
-| 2026-06-01 | [Zine#50 - 博客宣言、AI 對个人网站的冲击、not be a prick](https://taxodium.ink/50.html) | Zine#50 博客宣言、AI 對个人网站的冲击、not be a prick 🎵 Summer - 久石譲 图1 《Kikujiro (Original Motion Picture Soundtrack)》専輯封面 儿童節快樂 σ(´∀｀) News &#124; Article Web Weekly #… |
-| 2026-06-01 | [被辞了，来的有点意外，但是在情理之中](https://blog.thetbw.xyz/archives/got-fired) | 事情发生在上周，上周五结束交接，现在就算是正式失业了。 本来也是在一直找工作的，不过也没咋积极，现在行情也的确不好找，之前还想着，要是刚好找到工作，公司又把我辞了，这是多好的一件美事呀，现在公司是把我辞了，就差一份还不错的工作过来了。 说起被公司辞退的原因，部门领导说是因为公司效益问题，我觉得其实这… |
-| 2026-06-01 | [实现了一套Linux下快速查词/翻译句子的工作流-linux-quick-translate](https://hellodk.cn/post/1223) | GitHub 地址：https://github.com/hellodk34/linux-quick-translate在 Linux 桌面环境快速查词/翻译句子，绑定系统全局快捷键。支持各种 ... |
-| 2026-06-01 | [开发了一个基于和风天气 API 的 Android 天气应用](https://hellodk.cn/post/1222) | 使用截图介绍请看 GitHub，这里懒得再写一遍了。地址 https://github.com/hellodk34/checkitoutweatherandroid |
-| 2026-06-01 | [儿童节快乐！](https://blog.solazy.me/20260601/) | 儿童节快乐！ 我喜欢儿童节，并不因为我想给自己过节，而是我喜欢把这一天定为我家猫咪的生日。 ▲ 附上它今天的可爱照 |
-| 2026-06-01 | [从衣冠南渡到下南洋：潮汕人的信仰](https://sinyalee.com/blog/?p=1131) | 有很多东西，很多潮汕人、闽南人、广府人，尤其是上一代，都是懂的，但是很少人写下来。我是潮汕人，但是闽南人、广府 […] |
-| 2026-06-01 | [咖啡厅里的绝对领域](https://mobius.blog/24381.html) | 在咖啡厅我很喜欢坐在那种长条的桌台区，一方面是因为这里可以观察到不同人，也因为我在这个区域只会占据“最小单位” […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
