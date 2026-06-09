@@ -27,11 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
-| 2026-06-09 | [What is an AI Native Data System](https://victor42.eth.limo/post-en/ai-native-data-system/) | How my data management evolved alongside tools. I am a power user of Excel and Google Sheets, relying on them heavily to manage both work and life . L… |
-| 2026-06-09 | [什么是AI原生的数据系统？](https://victor42.eth.limo/post/ai-native-data-system/) | 我的数据管理方式，随工具发展的几次变迁。 我Excel/Google Sheets用得很溜， 大量用它们管理工作和生活 。 后来，我曾经把一部分较重的数据管理任务迁移到飞书多维表这样的产品里。这类东西长得很像Excel，但本质上是完全不同的东西，是可视化数据库。它们比Excel有着严格得多的数据规范… |
+| 2026-06-09 | [What is an AI Native Data System](https://victor42.eth.limo/post-en/ai-native-data-system/) | I am a power user of Excel and Google Sheets, relying on them heavily to manage both work and life . Later, I migrated some of my heavier data managem… |
+| 2026-06-09 | [什么是AI原生的数据系统？](https://victor42.eth.limo/post/ai-native-data-system/) | 我Excel/Google Sheets用得很溜， 大量用它们管理工作和生活 。 后来，我曾经把一部分较重的数据管理任务迁移到飞书多维表这样的产品里。这类东西长得很像Excel，但本质上是完全不同的东西，是可视化数据库。它们比Excel有着严格得多的数据规范，限制灵活性的同时，释放了数据库天然带来的… |
+| 2026-06-09 | [关于自律](https://blog.solazy.me/20260609/) | 你看到的这篇文章是我对于今天的不甘心 |
+| 2026-06-09 | [第一次去看陶喆演唱会](https://www.tortorse.com/archives/tao-zhe-soul-power-ii-nanjing-concert/) | 2024 年 7 月，我终于去看了一场陶喆演唱会。 |
 | 2026-06-09 | [AI 博客问题挑战](https://kaix.in/2026/0609/) | 我订阅的几个博客都参与了这个问答，我也来参与参与。 How was your first experience with AI models? Do you use AI or are you completely against using it? Do you have any preferen… |
 | 2026-06-09 | [full circle.](https://www.justzht.com/full-circle/) | 开完发布会了，和国内来的开发者朋友们吃了个饭，然后回到家，想说给父母打个电话好了，告诉他们今年我 又讲 |
 | 2026-06-09 | [借不了的强硬](https://www.hecaitou.com/2026/06/you-cant-fake-toughness.html) | 当我的福报还没有降临，我每天都在网上高强度怼人。上网怼人对于我而言只是一种个人业余爱好，却因此而吸引了很多人来观赏，根据他们的说法是「看了感觉很解压」，因为在生活里「自己做不到」。 观察了那么多年，我发现生活里的确存在着一大批人，他们的心愿就是想让自己「强硬」起来，免得自己天天「受欺负」、「受委屈」… |
+| 2026-06-09 | [我的“保健品栈”](https://hangbin.blog/blog/supplement-stack-review/) | 为什么关注保健品 # 其实以前不怎么在意这些。备孕期间开始吃了不少，慢慢地便成了习惯，偶尔看到有意思的新产品，也会多花点时间了解一下。这篇就是顺手整理了一下现在在吃的东西，以及最近调研的一些新品。 |
 | 2026-06-09 | [关于人设的自证悖论](https://mobius.blog/24577.html) | 之前的内容都是提前码好的字，只是偶尔“回到当下”。今天又是在咖啡厅码字的一天，此时此刻，在我的对面坐着这样一对 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-09 | [Memos #2026-06-08](https://www.taober.blog/memos) | 19:49 血亏 5.52%，已黑化。 |
 | 2026-06-08 | [没走那条路，但我还是上了巴岳山](https://macin.org/2026/06/08/ba-yue-shan-jian-yu/) | 写下这篇东西的时候，是2026年高考的第一天。距离我参加高考，已经过去16年了。 <img src="https://macinorg-blog.oss-cn-chengdu.aliyuncs.com/blog/ShirleyIP16IMG5905.web |

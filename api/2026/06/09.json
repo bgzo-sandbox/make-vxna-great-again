@@ -3,15 +3,29 @@
     "title": "What is an AI Native Data System",
     "url": "https://victor42.eth.limo/post-en/ai-native-data-system/",
     "date": "2026-06-09T16:12:00Z",
-    "description": "How my data management evolved alongside tools. I am a power user of Excel and Google Sheets, relying on them heavily to manage both work and life . Later, I migrated some of my heavier data management tasks to visual databases like Feishu Bitable. While they might look like Excel, they are fundamentally different beasts. With much stricter data rules than spreadsheets, they trade some flexibility for the raw power of a true database. You can easily link multiple tables and build highly complex ",
+    "description": "I am a power user of Excel and Google Sheets, relying on them heavily to manage both work and life . Later, I migrated some of my heavier data management tasks to visual databases like Feishu Bitable. While they might look like Excel, they are fundamentally different beasts. With much stricter data rules than spreadsheets, they trade some flexibility for the raw power of a true database. You can easily link multiple tables and build highly complex data systems—more than capable of running a smal",
     "source_root_domain": "eth.limo"
   },
   {
     "title": "什么是AI原生的数据系统？",
     "url": "https://victor42.eth.limo/post/ai-native-data-system/",
     "date": "2026-06-09T16:12:00Z",
-    "description": "我的数据管理方式，随工具发展的几次变迁。 我Excel/Google Sheets用得很溜， 大量用它们管理工作和生活 。 后来，我曾经把一部分较重的数据管理任务迁移到飞书多维表这样的产品里。这类东西长得很像Excel，但本质上是完全不同的东西，是可视化数据库。它们比Excel有着严格得多的数据规范，限制灵活性的同时，释放了数据库天然带来的强大能力。可以更轻松建立多表关联，构建出结构非常复杂的数据系统，支撑 一个小生意 都不在话下。 我用多维表构建过任务管理系统，每一项工作任务从接收到交付，完整生命周期全都在里面。从中再派生出周报、排期日历、年度数据报表等用途。这套系统至少3次被别人要了去，一次是同事个人，一次是主管拿去管理团队，还一次是被前司拿去全员推行。 但再强大，毕竟免不了亲自动手。 我信奉一个“洗碗机哲学”：老一辈瞧不上这玩意，总觉得你不还是得先冲洗下再放进去吗，有这时间我早就手洗完了。我的道理是，手洗15分钟，投入人工15分钟；人工冲洗5分钟+洗碗机洗40分钟，人工只投入5分钟，我给自己的人生赢回了10分钟。 科技，在我这，是用来赎回生活的。 多维表本身也带AI功能，或者也可",
+    "description": "我Excel/Google Sheets用得很溜， 大量用它们管理工作和生活 。 后来，我曾经把一部分较重的数据管理任务迁移到飞书多维表这样的产品里。这类东西长得很像Excel，但本质上是完全不同的东西，是可视化数据库。它们比Excel有着严格得多的数据规范，限制灵活性的同时，释放了数据库天然带来的强大能力。可以更轻松建立多表关联，构建出结构非常复杂的数据系统，支撑 一个小生意 都不在话下。 我用多维表构建过任务管理系统，每一项工作任务从接收到交付，完整生命周期全都在里面。从中再派生出周报、排期日历、年度数据报表等用途。这套系统至少3次被别人要了去，一次是同事个人，一次是主管拿去管理团队，还一次是被前司拿去全员推行。 但再强大，毕竟免不了亲自动手。 我信奉一个“洗碗机哲学”：老一辈瞧不上这玩意，总觉得你不还是得先冲洗下再放进去吗，有这时间我早就手洗完了。我的道理是，手洗15分钟，投入人工15分钟；人工冲洗5分钟+洗碗机洗40分钟，人工只投入5分钟，我给自己的人生赢回了10分钟。 科技，在我这，是用来赎回生活的。 多维表本身也带AI功能，或者也可以用本地的Agent通过CLI或API来操",
     "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "关于自律",
+    "url": "https://blog.solazy.me/20260609/",
+    "date": "2026-06-09T15:00:00Z",
+    "description": "你看到的这篇文章是我对于今天的不甘心",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "第一次去看陶喆演唱会",
+    "url": "https://www.tortorse.com/archives/tao-zhe-soul-power-ii-nanjing-concert/",
+    "date": "2026-06-09T14:14:12Z",
+    "description": "2024 年 7 月，我终于去看了一场陶喆演唱会。",
+    "source_root_domain": "tortorse.com"
   },
   {
     "title": "AI 博客问题挑战",
@@ -33,6 +47,13 @@
     "date": "2026-06-09T03:41:20Z",
     "description": "当我的福报还没有降临，我每天都在网上高强度怼人。上网怼人对于我而言只是一种个人业余爱好，却因此而吸引了很多人来观赏，根据他们的说法是「看了感觉很解压」，因为在生活里「自己做不到」。 观察了那么多年，我发现生活里的确存在着一大批人，他们的心愿就是想让自己「强硬」起来，免得自己天天「受欺负」、「受委屈」。 就像是人们对自律存在广泛的误解一样，人们对强硬，或者强硬地活着也存在着误解。以至于许多人专门上网学习怼人的技巧，认为学会了这种技巧自己就能学会如何反击，学会如何反击就等于是变得强硬起来。 但我的理解有些不同。 先说一个假设：人之所以会采取特定的行为模式，背后的基础是特定的心理模式。如果能接受这个假设，那么我们就继续讨论下去；不能接受，那么就请直接划走，该学什么技巧该学什么话术那就赶紧去学。 你看每天跑步、减肥或者背单词这种事情，如果你理解为这是自律，需要的是坚持，那么你多半会坚持不下去。为什么？因为坚持是你强加给你内心的指令，这不是内心自然生发出来的想法。而如果你去问那些「坚持」下来的人，他们通常不会和你谈所谓「坚持」，反而会和你谈什么快乐，什么满足一类的话题。快乐或者满足是内生的，区别",
     "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "我的“保健品栈”",
+    "url": "https://hangbin.blog/blog/supplement-stack-review/",
+    "date": "2026-06-09T02:16:42Z",
+    "description": "为什么关注保健品 # 其实以前不怎么在意这些。备孕期间开始吃了不少，慢慢地便成了习惯，偶尔看到有意思的新产品，也会多花点时间了解一下。这篇就是顺手整理了一下现在在吃的东西，以及最近调研的一些新品。",
+    "source_root_domain": "hangbin.blog"
   },
   {
     "title": "关于人设的自证悖论",
