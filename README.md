@@ -27,10 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-09 | [AI 博客问题挑战](https://kaix.in/2026/0609/) | 我订阅的几个博客都参与了这个问答，我也来参与参与。 How was your first experience with AI models? Do you use AI or are you completely against using it? Do you have any preferen… |
 | 2026-06-09 | [full circle.](https://www.justzht.com/full-circle/) | 开完发布会了，和国内来的开发者朋友们吃了个饭，然后回到家，想说给父母打个电话好了，告诉他们今年我 又讲 |
 | 2026-06-09 | [借不了的强硬](https://www.hecaitou.com/2026/06/you-cant-fake-toughness.html) | 当我的福报还没有降临，我每天都在网上高强度怼人。上网怼人对于我而言只是一种个人业余爱好，却因此而吸引了很多人来观赏，根据他们的说法是「看了感觉很解压」，因为在生活里「自己做不到」。 观察了那么多年，我发现生活里的确存在着一大批人，他们的心愿就是想让自己「强硬」起来，免得自己天天「受欺负」、「受委屈」… |
 | 2026-06-09 | [关于人设的自证悖论](https://mobius.blog/24577.html) | 之前的内容都是提前码好的字，只是偶尔“回到当下”。今天又是在咖啡厅码字的一天，此时此刻，在我的对面坐着这样一对 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-09 | [Memos #2026-06-08](https://www.taober.blog/memos) | 19:49 血亏 5.52%，已黑化。 |
+| 2026-06-08 | [](http://www.uncoverman.com/workflow-of-obsidian-and-opencode.html) | 我平时用的笔记管理软件是 Obsidian，从 2021 年到现在，已经积累里将近 3000 篇笔记，包括 Daily Note、工作日志、读书笔记、博客文章、网络摘要等。随着现在 AI 的发展，很希望能够充分地利用知识库上下文，输出针对性的结果。 最常用的一个场景是，在做项目管理的时候，要生成项目… |
 | 2026-06-08 | [DOOM 3 updated](https://macsourceports.com/game/doom3) | The build of dhewm3 for DOOM 3 has been updated to version 1.5.5 of the project |
 | 2026-06-08 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.24 of the project |
 | 2026-06-08 | [Catacomb 3-D updated](https://macsourceports.com/game/catacomb3d) | The build of ReflectionHLE for Catacomb 3-D has been updated to version release-20260606 of the project |
@@ -41,6 +43,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-08 | [Wolfenstein 3-D updated](https://macsourceports.com/game/wolf3d) | The build of ReflectionHLE for Wolfenstein 3-D has been updated to version release-20260606 of the project |
 | 2026-06-08 | [Wolfenstein 3-D: Spear of Destiny updated](https://macsourceports.com/game/sod) | The build of ReflectionHLE for Wolfenstein 3-D: Spear of Destiny has been updated to version release-20260606 of the project |
 | 2026-06-08 | [Zine#51 - 把愛傳給「未來的自己」、優秀的網站設計原則](https://taxodium.ink/51.html) | Zine#51 把愛傳給「未來的自己」、優秀的網站設計原則 🎵 天使たちのシーン by 小沢健二 小沢健二的「天使たちのシーン」我很喜歡，小沢健二的嗓音好聴，歌曲的旋律也很棒。編曲上，一直伴隨著好聴的 bass，讓人聴著想跟著擺動身體，間奏的薩克斯、吉他超好聴，鋼琴也很棒。盡管曲子長達 13:37，… |
+| 2026-06-08 | [又到合约到期时：再次启动携号转网的考量与套餐对比](https://blog.solazy.me/20260608/) | 又到了今年的携号转网矛盾期了 |
 | 2026-06-08 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.2 of the project |
 | 2026-06-08 | [资产配置：投资中唯一的免费午餐](https://hangbin.blog/blog/asset-allocation-less-mistakes/) | 最近读 《资产配置行动指南》 ，最有感触的地方，是它把投资这件事重新拉回了日常生活。很多人一说投资，脑子里马上冒出来的是买什么、什么时候买、今年哪个市场更有机会。可真的更进一步，问题会朴素很多：我现在到底有多少资产，欠了多少债，每年能剩下多少钱，哪些钱三五年内可能要用，哪些钱可以慢慢等。 |
 | 2026-06-08 | [R#105 AI也要断舍离](https://blog.sakanano.moe/journals/random_105) | 2026.6.2 ~ 2026.6.8 |
@@ -53,6 +56,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-08 | [曼谷、香港、潮汕人的历史](https://sinyalee.com/blog/?p=1143) | 这篇也是我知乎题目的回答。知乎原题目：《给阿嬷的情书》为什么男主不去距离更近的香港而是要下南洋？ 潮汕人去香港 […] |
 | 2026-06-08 | [香水](https://mobius.blog/24440.html) | 我在咖啡厅码字的当下，突然闻到了一股非常熟悉的香水味。我抬起头，发现是一个中年男性坐在了我的对面。 当下，我在 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-08 | [外挂大脑](https://elmtran.com/essays/auxiliary-brain/) | 它为什么还在运算？ |
+| 2026-06-08 | [LLM RoadMap](https://elmtran.com/essays/llm-roadmap/) | From AI Application Engineer to LLM Systems Engineer |
 | 2026-06-08 | [giffgaff + eSIM + Air780EP：我的海外号码自托管方案](https://www.devzhi.com/post/self-hosted-overseas-phone-number/) |  |
 | 2026-06-07 | [稻草人周刊 Vol.84](https://www.geedea.pro/weekly/84/) | 这周更新还挺勤的，于是周刊的内容就变少了，合情合理。 止语 Hit the Wall Gracie Abrams Spotify 网易云音乐 Lucida Sooner or later, you’ll find out I live in a pattern of breakdowns You’l… |
 | 2026-06-07 | [第二届山梨户外节「摇曳嘉年华△」 day1](https://www.wikimoe.com/post/b-tg92szfn) | 2026年6月6日，天气晴。今天去参加了在甲府举办的第二届山梨户外节「摇曳嘉年华△」。 关于这个活动 第二届山梨户外节「摇曳嘉年华△」是以人气动画《摇曳露营△》为主题，结合山梨县户外文化与地方特色举办的综合活动。现场设有舞台表演、露营体验、美食摊位、联名商品及相关展示，让游客在轻松氛围中感受作品世界… |
