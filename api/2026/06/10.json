@@ -1,5 +1,12 @@
 [
   {
+    "title": "Lesson 29 量子场论 & 广义相对论",
+    "url": "https://physnya.top/GR/lesson-29/",
+    "date": "2026-06-10T18:19:05Z",
+    "description": "说暴涨时期怎么给宇宙提供 initial condition. 上节课我们研究了一个标量场 ϕ → ϕ 0 + δ ϕ \\phi\\to \\phi_0+\\delta\\phi ϕ → ϕ 0 ​ + δ ϕ 的量子涨落，首先是写下作用量：",
+    "source_root_domain": "physnya.top"
+  },
+  {
     "title": "基于 git 的零拷贝静态web服务器",
     "url": "https://blog.est.im/2026/stdout-22",
     "date": "2026-06-10T15:21:00Z",

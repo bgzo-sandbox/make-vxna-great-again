@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-10 | [Lesson 29 量子场论 & 广义相对论](https://physnya.top/GR/lesson-29/) | 说暴涨时期怎么给宇宙提供 initial condition. 上节课我们研究了一个标量场 ϕ → ϕ 0 + δ ϕ \phi\to \phi_0+\delta\phi ϕ → ϕ 0 ​ + δ ϕ 的量子涨落，首先是写下作用量： |
 | 2026-06-10 | [基于 git 的零拷贝静态web服务器](https://blog.est.im/2026/stdout-22) | 无聊，产生了个crazy的想法。 git 内部用 zlib 压缩文件内容 Content-Encoding: gzip 也是 如果web服务器输出 .git 里的 静态 内容，是不是可以减一个二次解压/压缩步骤？？？ blob sha1 直接当etag？ 跟AI较量了几轮，一开始它说做不到。因为 b… |
 | 2026-06-10 | [四五月POLG](https://yovey.me/aprmay-shots/) | 四月等车后的漫长时间，抽时间读《A Twist of the Wrist》，起初是三天打鱼两天晒网，随着工作越 … Continue reading "四五月POLG" |
 | 2026-06-10 | [RKE2 全集群 TLS 证书过期导致瘫痪的无损修复](https://199604.com/3578) | RKE2 全集群 TLS 证书过期导致瘫痪的无损修复 起因 这套 RKE2 集群跑了快 2 年零 19 天，3 […] |
