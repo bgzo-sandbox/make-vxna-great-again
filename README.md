@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-10 | [为什么法律作为复仇工具时必然会失效？](https://mobius.blog/24590.html) | 最近重庆发生了一件事，大致是一个长期虐狗的人被曝光身份后，一些爱狗人士上门堵截对方，希望通过这种方式引起警方的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-10 | [Memos #2026-06-09](https://www.taober.blog/memos) | 00:30 前段时间经常梦到回到高中参加高考，意识中却保留着我已经工作几年了的记忆。 就很不明白为什么给我安排这样的梦，让我完全没有高中的紧迫感，尽管高中时也没咋紧迫。 最近真的还挺无聊的，一样的东西刷来刷去，没啥刺激的，这周一定写一篇周记，总结总结最近的心情。 |
 | 2026-06-09 | [2026年 激战2 常用网站和工具 #Guild wars 2](https://anotherdayu.com/guild-wars-2/) | 激战2 已是发布十年以上的老游戏，一些流行的工具慢慢停止维护和更新。 本文总结了 2026 年国际服仍可用且好用的相关网站，会定期维护更新。 部分资料为英文，可使用 Chrome 浏览器插件 沉浸式翻译 中英对照阅读。YouTube 视频也可用其生成中文字幕。 网站 Guild wars 2 wik… |
 | 2026-06-09 | [What is an AI Native Data System](https://victor42.eth.limo/post-en/ai-native-data-system/) | I am a power user of Excel and Google Sheets, relying on them heavily to manage both work and life . Later, I migrated some of my heavier data managem… |
 | 2026-06-09 | [什么是AI原生的数据系统？](https://victor42.eth.limo/post/ai-native-data-system/) | 我Excel/Google Sheets用得很溜， 大量用它们管理工作和生活 。 后来，我曾经把一部分较重的数据管理任务迁移到飞书多维表这样的产品里。这类东西长得很像Excel，但本质上是完全不同的东西，是可视化数据库。它们比Excel有着严格得多的数据规范，限制灵活性的同时，释放了数据库天然带来的… |
@@ -37,7 +39,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-09 | [借不了的强硬](https://www.hecaitou.com/2026/06/you-cant-fake-toughness.html) | 当我的福报还没有降临，我每天都在网上高强度怼人。上网怼人对于我而言只是一种个人业余爱好，却因此而吸引了很多人来观赏，根据他们的说法是「看了感觉很解压」，因为在生活里「自己做不到」。 观察了那么多年，我发现生活里的确存在着一大批人，他们的心愿就是想让自己「强硬」起来，免得自己天天「受欺负」、「受委屈」… |
 | 2026-06-09 | [我的“保健品栈”](https://hangbin.blog/blog/supplement-stack-review/) | 为什么关注保健品 # 其实以前不怎么在意这些。备孕期间开始吃了不少，慢慢地便成了习惯，偶尔看到有意思的新产品，也会多花点时间了解一下。这篇就是顺手整理了一下现在在吃的东西，以及最近调研的一些新品。 |
 | 2026-06-09 | [关于人设的自证悖论](https://mobius.blog/24577.html) | 之前的内容都是提前码好的字，只是偶尔“回到当下”。今天又是在咖啡厅码字的一天，此时此刻，在我的对面坐着这样一对 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-09 | [Memos #2026-06-08](https://www.taober.blog/memos) | 19:49 血亏 5.52%，已黑化。 |
 | 2026-06-08 | [没走那条路，但我还是上了巴岳山](https://macin.org/2026/06/08/ba-yue-shan-jian-yu/) | 写下这篇东西的时候，是2026年高考的第一天。距离我参加高考，已经过去16年了。 <img src="https://macinorg-blog.oss-cn-chengdu.aliyuncs.com/blog/ShirleyIP16IMG5905.web |
 | 2026-06-08 | [Obsidian与OpenCode的工作流](http://www.uncoverman.com/workflow-of-obsidian-and-opencode.html) | 我平时用的笔记管理软件是 Obsidian，从 2021 年到现在，已经积累里将近 3000 篇笔记，包括 Daily Note、工作日志、读书笔记、博客文章、网络摘要等。随着现在 AI 的发展，很希望能够充分地利用知识库上下文，输出针对性的结果。 最常用的一个场景是，在做项目管理的时候，要生成项目… |
 | 2026-06-08 | [DOOM 3 updated](https://macsourceports.com/game/doom3) | The build of dhewm3 for DOOM 3 has been updated to version 1.5.5 of the project |
@@ -144,25 +145,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-03 | [投资三段论：你在跟谁买？短期看特朗普，中期看黄仁勋，长期看巴菲特](https://wenfeixiang.com/2026/06/invest-fomo/) | 最近有个“投资三段论”的段子很火：短期看特朗普，中期看黄仁勋，长期看巴菲特。 这不是玩笑，这是当下真实的投资生 […] |
 | 2026-06-03 | [etcd 集群故障排查与节点扩容维护操作手册](https://199604.com/3571) | etcd 集群故障排查与节点扩容维护操作手册 文档信息 故障现象：Prometheus 频繁触发 etcd_s […] |
 | 2026-06-03 | [与 AI 如何保持“社交安全距离”？ II](https://mobius.blog/24404.html) | 接着昨天的话题。 AI 并不是在夺走人的思考能力，而是在某些特定的情况下极容易让人产生“依赖性”。例如：一般问 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-02 | [移民美国后，英语为什么还是很差？](https://diff.im/blog/2026/06/%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9B%BD%E5%90%8E%E8%8B%B1%E8%AF%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E6%98%AF%E5%BE%88%E5%B7%AE/) | 01 首先，这是个伪命题。并不是说你移民到美国，或者搬到任何一个英语国家，你的英文就会自然变好。 你原本是什么样的水平，移民之后不会因为居住地变了，英文能力就发生质的变化。 毫不夸张地说，我几乎学了一辈子英文。从 1995 年初中开始算到 2026 年，已经 30 多年了。学了这么久，居然还在学英文… |
-| 2026-06-02 | [测试管理工具](https://elmagnifico.tech/2026/06/03/TestManagement-QA/) | Foreword 测试用例的管理，测试用例一定是关联到某一个需求的，基于这个需求产生的测试用例 但是呢，需求是一期一期做的，可能一个需求里混了一些不相干或者零碎的其他功能内容在里面 如果每一期的用例混在一起，对应的测试用例集就混了一些不同方向或者归属的用例 测试人员的期望是测试用例后期可以按照功能或… |
-| 2026-06-02 | [加更：体验 Waymo 无人驾驶汽车](https://www.ixiqin.com/2026/06/02/update-experience-waymo-autonomous-vehicles/) | 作者在旧金山硅谷期间体验了Waymo的自动驾驶服务。行程从预约、上车到抵达的整个过程都由车辆自主完成。 体验感 […] |
-| 2026-06-02 | [职场的友谊值千金](https://blog.solazy.me/20260602/) | 最近在职场上遇到很能聊得来的同类 |
-| 2026-06-02 | [暹罗没有春天](https://yinji.org/dear-you.html) | 上周五晚上，去看了电影《给阿嬷的情书》，事后才发现看的是国语版，没注意到有潮汕话版本，国语配音带点广普的感觉，即使是普通话，也能让人感动落泪。刚刚看到陈仓颉写的影评，又让我回忆电影中的一些情节。 片中没有什么宏大叙事，背景是20世纪初下南洋，围绕三个人和他们之间的侨批而展开。让我印象深刻的是导演的拍… |
-| 2026-06-02 | [Sutton 论 discovery](https://blog.est.im/2026/stdin-16) | 六一儿童节的时候， Richard Sutton锐评AI 各位女士们、先生们，大家好。 很遗憾我今天无法亲临现场，与各位进行面对面的交流讨论。但我仍然很高兴能够通过这段录制的视频，与大家分享一些关于人工智能当前与未来发展的高层次思考，尤其是 AI 与科学、数学之间关系的看法。我理解，这也正是本次会议… |
-| 2026-06-02 | [Lesson 27 暴涨理论的相关结论](https://physnya.top/GR/lesson-27-inflation-corollaries/) | 注意 进行一个抱歉，因为之前写 permalink 字段的时候失误了一下，因此现在最近三节课的网页链接要重新修改一次. 先说一下上节课没有推导出来的那个东西. 我们知道在 inflation 和 radiation dominated 的两个阶段， τ \tau τ 的定义并不相同，但是我们可以要求… |
-| 2026-06-02 | [Just A Common Lisper](https://www.geedea.pro/article/common-lisp-start/) | 最近在玩 Common Lisp ，由于中文博客几乎没有讨论，包括文档在内的英文资料都很零散——官网上只有简单的上手介绍，而社区维护的 文档 的某一页竟然写着 Please help us fill this page ，我想这是因为 CL 的实现太多了，相关的网站很多，人力是分散的——看来得自力更… |
-| 2026-06-02 | [关于大明的政治](https://sinyalee.com/blog/?p=1136) | 朱元璋是一个淮海/苏北乡下土农民，认知和董志民一个水平，啥也不懂，只知道下崽。最后太子被搞死了。 明朝中后期， […] |
-| 2026-06-02 | [她的爱已烧录进了电路板](https://lililib.github.io/%E5%A5%B9%E7%9A%84%E7%88%B1%E5%B7%B2%E7%83%A7%E5%BD%95%E8%BF%9B%E4%BA%86%E7%94%B5%E8%B7%AF%E6%9D%BF/) | 原作作者：Das6fY5 备胎岛：No.1767815 搬运：A岛，No.32444047 翻新：贴吧，hapmenory |
-| 2026-06-02 | [2026.06.02 16:44](https://kaix.in/2026/0602/) | 前有网络流行文化把长句缩短，生造成「梗」；后有 LLM 靠连词、副词堆叠，拼凑出所谓的逻辑和情绪。一缩一放，准确没了、意味没了、美感没了，心也没了。 fin. 激赏 ！ 来信 。 |
-| 2026-06-02 | [Trend of Agentic Coding Products](https://laike9m.com/blog/agent-coding-trend,173/) | 没有简介, 请去看原文吧 |
-| 2026-06-02 | [Flink 使用 Hutool 调用 Kubernetes Service 负载不均处理笔记](https://199604.com/3569) | Flink 使用 Hutool 调用 Kubernetes Service 负载不均处理笔记 1. 处理背景与 […] |
-| 2026-06-02 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.3 of the project |
-| 2026-06-02 | [来自儿童的重要一课](https://www.hecaitou.com/2026/06/lessons-from-children.html) | 每年儿童节的时候，有些读者就期待我专门为小朋友写一篇类似寄语那样的文章，搞得我还很年轻就有了强烈的人瑞感。何苦来呢？ 在每一天里，从早到晚都有太多人要对小朋友说太多话。你们看看小家伙他们的模样---火柴棍一样的细脖颈，顶着一个硕大的脑袋，摇零晃荡，不堪重负，为什么还要给他们增添负担：来，这里有一篇文… |
-| 2026-06-02 | [Memos: 推荐安装 Codegraph 和 rtk 减少 Token 消耗](https://blog.yasking.org/a/1780371062.html) | Codegraph 和 rtk ，前者通过静态分析构建代码调用关系图谱，解决 AI 在大项目中反复 grep/read 文件、难以理解项目结构和影响范围的问 … |
-| 2026-06-02 | [大连・五一三天旅程记录（2026）](https://blog.yasking.org/a/photos-dalian.html) | 十几年前就听说大连市现代、干净，在北方城市是独一档的，五一没规划去远的地方，就临时起意去大连转转 妻子的姐姐、姐 … |
-| 2026-06-02 | [与 AI 如何保持“社交安全距离”？ I](https://mobius.blog/24395.html) | 每过一段时间，我就会把 AI 的话题阶段性聊一聊，在“坐标”里，我也专门拎出了“AI 会毁灭人类吗？”的专题， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-02 | [2026年第22周：给五月画上句点](https://blog.sakoamc.com/posts/2622/) | 题记：给五月画上句点、给上周一个交代。 |
 
 ## Vibe Coding
 
