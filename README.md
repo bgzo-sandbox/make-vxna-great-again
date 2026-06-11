@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-11 | [2026年五月读 设计学 心理学 整理术 小说 7 本](https://conge.livingwithfcs.org/2026/06/11/reading_summary/) | 引子 引子 这个月读的书，有设计学，心理学，整理术。读来读去，感觉都是一回事儿呀。介绍设计原则的两本书，基本上就是心理学中视知觉部分的原理。而各种理论，实际上是对各种信息的筛选和整理基础上的解释和叙述。从而，从小学整理，长大爱整理的人，如果把通过整理学到的方法，用到其他方面，就是设计，就是科研。 好… |
 | 2026-06-11 | [学习周刊-总第267期-2026年第24周](https://wiki.eryajf.net/pages/22d443/) | 如要阅读全文，点击标题跳转。 学习周刊-总第267期 &#124; obsidian-tile-line-base &#124; FeedFuse &#124; DataFlow &#124; gocron &#124; ham_home &#124; wincron &#124; openilink-hub |
 | 2026-06-11 | [Astro Lite 6](https://blog.lhasa.icu/posts/technology/2026-06-12-astro-lite-v6/) | Astro Lite 6 主题文档整理，涵盖统一配置、排版、主题切换、无限滚动等核心特性 |
 | 2026-06-11 | [看电影时，我到底在期待什么](https://blog.solazy.me/20260611/) | 今天想聊聊我最近总结出来的 —— 我到底喜欢什么样的电影 |
