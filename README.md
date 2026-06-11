@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-11 | [吃毒鸭腿的清北母狗](https://sinyalee.com/blog/?p=1149) | 对于清华北大的女生，我找不到一个比“母狗”更好的称呼。 清北母狗，六个字总结：又穷又蠢又坏。 – […] |
 | 2026-06-11 | [New-API 安装与优化部署指南（基于 Docker Compose）](https://199604.com/3580) | New-API 安装与优化部署指南（基于 Docker Compose） 一、概述 New-API 是一个强大 […] |
 | 2026-06-11 | [「小坑」VirtualBox 虚拟机的 headless 启动方式](https://www.wdssmq.com/post/20221015312.html) | 在虚拟机列表那里可在右菜单里选择「启动」-「启动时不用图形用户界面」; 如果需要命令行或快捷方式启动，形式用下： "C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" startvm "LinuxMint" --type headless 「- -」… |
 | 2026-06-11 | [南京蜜雪冰城旗舰店](https://blog.thetbw.xyz/archives/nan-jing-mi-xue-bing-cheng) | 之前也是看到南京开了个蜜雪冰城旗舰店，本着凑热闹的心态，顺带去看了看。 我是周一去的，蜜雪的这个店开在夫子庙附近，水游城对面的这个商场，之前水游城我还蛮经常去的，这里非常好停车，来南京夫子庙玩的，可以停车在水游城下面，就是白天停车费不便宜。 对面的这个茂业天地，之前冷清的不行，现在也是，这个蜜雪开店… |
@@ -48,11 +49,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-10 | [Rectangle Pro 使用教程：买了之后才搞懂](https://blog.forecho.com/rectangle-pro-usage-guide.html) | 引言 之前稀里糊涂买了 Rectangle Pro ，买完之后才发现它界面全是英文，功能也比免费版多很多。放着吃灰有点浪费，所以我花了点时间把官方文档和常用功能摸了一遍。 先说结论： 免费版 Rectangle 已经够大多数人用，Rectangle Pro 的价值主要在 Window Throw、自… |
 | 2026-06-10 | [非强制传承](https://www.hecaitou.com/2026/06/The-Art-of-Gentle-Legacy.html) | 前几天，我看到追 K-pop 偶像团体的小朋友在淘宝的 CD 碟店里提问：请问这些碟是放进 CD 机里播放吗？每个 CD 机都能播放吗？买的话配 CD 机吗？ 可以想象，就算是此刻，就算是在我这里，读者群也会分为两个部分。一部分年龄稍长的读者看了会笑出声来，而另一部分年龄较小的读者则是满头雾水，不能… |
 | 2026-06-10 | [为什么法律作为复仇工具时必然会失效？](https://mobius.blog/24590.html) | 最近重庆发生了一件事，大致是一个长期虐狗的人被曝光身份后，一些爱狗人士上门堵截对方，希望通过这种方式引起警方的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-10 | [烟花](https://elmtran.com/essays/fireworks/) | 那场未燃尽的烟花 |
 | 2026-06-10 | [Memos #2026-06-09](https://www.taober.blog/memos) | 00:30 前段时间经常梦到回到高中参加高考，意识中却保留着我已经工作几年了的记忆。 就很不明白为什么给我安排这样的梦，让我完全没有高中的紧迫感，尽管高中时也没咋紧迫。 最近真的还挺无聊的，一样的东西刷来刷去，没啥刺激的，这周一定写一篇周记，总结总结最近的心情。 |
 | 2026-06-10 | [动态](https://www.aowugong.top/posts/blog-2000-01-05/) | https://cdn.aowugong.top/gh/howie110/obsidianimg/cdnimg/springupdates.jpg |
 | 2026-06-09 | [2026年 激战2 常用网站和工具 #Guild wars 2](https://anotherdayu.com/guild-wars-2/) | 激战2 已是发布十年以上的老游戏，一些流行的工具慢慢停止维护和更新。 本文总结了 2026 年国际服仍可用且好用的相关网站，会定期维护更新。 部分资料为英文，可使用 Chrome 浏览器插件 沉浸式翻译 中英对照阅读。YouTube 视频也可用其生成中文字幕。 网站 Guild wars 2 wik… |
 | 2026-06-09 | [What is an AI Native Data System](https://victor42.eth.limo/post-en/ai-native-data-system/) | I am a power user of Excel and Google Sheets, relying on them heavily to manage both work and life . Later, I migrated some of my heavier data managem… |
 | 2026-06-09 | [什么是AI原生的数据系统？](https://victor42.eth.limo/post/ai-native-data-system/) | 我Excel/Google Sheets用得很溜， 大量用它们管理工作和生活 。 后来，我曾经把一部分较重的数据管理任务迁移到飞书多维表这样的产品里。这类东西长得很像Excel，但本质上是完全不同的东西，是可视化数据库。它们比Excel有着严格得多的数据规范，限制灵活性的同时，释放了数据库天然带来的… |
+| 2026-06-09 | [基于万形做的一些小玩意儿](https://blog.zopiya.com/wanxing-tools-73e886c7/) | 把自己的审美沉淀成一套工具之后，又做了更多开发，也尝试做了一个 MVP，但后续发现所有的想法和功能几乎与 Claude Design 完全重叠，认为继续做下去的意义不大了，就放弃了。 |
 | 2026-06-09 | [关于自律](https://blog.solazy.me/20260609/) | 你看到的这篇文章是我对于今天的不甘心 |
 | 2026-06-09 | [第一次去看陶喆演唱会](https://www.tortorse.com/archives/tao-zhe-soul-power-ii-nanjing-concert/) | 2024 年 7 月，我终于去看了一场陶喆演唱会。 |
 | 2026-06-09 | [AI 博客问题挑战](https://kaix.in/2026/0609/) | 我订阅的几个博客都参与了这个问答，我也来参与参与。 How was your first experience with AI models? Do you use AI or are you completely against using it? Do you have any preferen… |
