@@ -1,5 +1,26 @@
 [
   {
+    "title": "学习周刊-总第267期-2026年第24周",
+    "url": "https://wiki.eryajf.net/pages/22d443/",
+    "date": "2026-06-11T22:06:08Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第267期 | obsidian-tile-line-base | FeedFuse | DataFlow | gocron | ham_home | wincron | openilink-hub",
+    "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "Astro Lite 6",
+    "url": "https://blog.lhasa.icu/posts/technology/2026-06-12-astro-lite-v6/",
+    "date": "2026-06-11T16:15:00Z",
+    "description": "Astro Lite 6 主题文档整理，涵盖统一配置、排版、主题切换、无限滚动等核心特性",
+    "source_root_domain": "lhasa.icu"
+  },
+  {
+    "title": "看电影时，我到底在期待什么",
+    "url": "https://blog.solazy.me/20260611/",
+    "date": "2026-06-11T14:00:00Z",
+    "description": "今天想聊聊我最近总结出来的 —— 我到底喜欢什么样的电影",
+    "source_root_domain": "solazy.me"
+  },
+  {
     "title": "吃毒鸭腿的清北母狗",
     "url": "https://sinyalee.com/blog/?p=1149",
     "date": "2026-06-11T12:18:44Z",
@@ -75,6 +96,13 @@
     "date": "2026-06-10T15:21:00Z",
     "description": "无聊，产生了个crazy的想法。 git 内部用 zlib 压缩文件内容 Content-Encoding: gzip 也是 如果web服务器输出 .git 里的 静态 内容，是不是可以减一个二次解压/压缩步骤？？？ blob sha1 直接当etag？ 跟AI较量了几轮，一开始它说做不到。因为 blob 的格式比较变态。因为 hello world... 在 .git/objects/ab/cdef... 里的东西是这么存的 zlib(blob 1234\\0hello world...) I was like ？？？日他妈真变态啊。这前面是写死了 blob \\0 然后把文件内容放在一起，再压缩的。 .git 这设计脑子有病啊。。。为啥不是原始文件gz而是加个头去gz。。。 此路不通！结束 然后AI嘴瓢了，说 先别急着吐槽 Linus，这个设计不仅没病，反而是 Git 能成为现代“内容寻址数据库”的精髓所在。 当 Git 从磁盘读取一个松散对象时，它是个流（Stream）。Git 只需要解压出最开始的几个字节，读到 blob 4096\\0，内核就可以立刻执行 malloc(4096) ",
     "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "睡眠是第二天的预算",
+    "url": "https://blog.solazy.me/20260610/",
+    "date": "2026-06-10T15:00:00Z",
+    "description": "今天聊聊睡觉这件事儿",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "四五月POLG",

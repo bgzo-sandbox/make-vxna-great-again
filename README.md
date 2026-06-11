@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-11 | [学习周刊-总第267期-2026年第24周](https://wiki.eryajf.net/pages/22d443/) | 如要阅读全文，点击标题跳转。 学习周刊-总第267期 &#124; obsidian-tile-line-base &#124; FeedFuse &#124; DataFlow &#124; gocron &#124; ham_home &#124; wincron &#124; openilink-hub |
+| 2026-06-11 | [Astro Lite 6](https://blog.lhasa.icu/posts/technology/2026-06-12-astro-lite-v6/) | Astro Lite 6 主题文档整理，涵盖统一配置、排版、主题切换、无限滚动等核心特性 |
+| 2026-06-11 | [看电影时，我到底在期待什么](https://blog.solazy.me/20260611/) | 今天想聊聊我最近总结出来的 —— 我到底喜欢什么样的电影 |
 | 2026-06-11 | [吃毒鸭腿的清北母狗](https://sinyalee.com/blog/?p=1149) | 对于清华北大的女生，我找不到一个比“母狗”更好的称呼。 清北母狗，六个字总结：又穷又蠢又坏。 – […] |
 | 2026-06-11 | [New-API 安装与优化部署指南（基于 Docker Compose）](https://199604.com/3580) | New-API 安装与优化部署指南（基于 Docker Compose） 一、概述 New-API 是一个强大 […] |
 | 2026-06-11 | [「小坑」VirtualBox 虚拟机的 headless 启动方式](https://www.wdssmq.com/post/20221015312.html) | 在虚拟机列表那里可在右菜单里选择「启动」-「启动时不用图形用户界面」; 如果需要命令行或快捷方式启动，形式用下： "C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" startvm "LinuxMint" --type headless 「- -」… |
@@ -38,6 +41,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-10 | [Lesson 29 量子场论 & 广义相对论](https://physnya.top/GR/lesson-29/) | 说暴涨时期怎么给宇宙提供 initial condition. 上节课我们研究了一个标量场 ϕ → ϕ 0 + δ ϕ \phi\to \phi_0+\delta\phi ϕ → ϕ 0 ​ + δ ϕ 的量子涨落，首先是写下作用量： |
 | 2026-06-10 | [AI自进化](https://elmagnifico.tech/2026/06/11/AI-Self-Iteration/) | Foreword 最近看了一个文章，有点意思，有点想法，记录下来。 AI自我迭代 https://mp.weixin.qq.com/s/AXyCo0RRwWHKLpkUx1jUg 这篇文章是 CSDN 编译的 Anthropic 长篇报告《When AI Builds Itself（当 AI 构建自… |
 | 2026-06-10 | [基于 git 的零拷贝静态web服务器](https://blog.est.im/2026/stdout-22) | 无聊，产生了个crazy的想法。 git 内部用 zlib 压缩文件内容 Content-Encoding: gzip 也是 如果web服务器输出 .git 里的 静态 内容，是不是可以减一个二次解压/压缩步骤？？？ blob sha1 直接当etag？ 跟AI较量了几轮，一开始它说做不到。因为 b… |
+| 2026-06-10 | [睡眠是第二天的预算](https://blog.solazy.me/20260610/) | 今天聊聊睡觉这件事儿 |
 | 2026-06-10 | [四五月POLG](https://yovey.me/aprmay-shots/) | 四月等车后的漫长时间，抽时间读《A Twist of the Wrist》，起初是三天打鱼两天晒网，随着工作越 … Continue reading "四五月POLG" |
 | 2026-06-10 | [RKE2 全集群 TLS 证书过期导致瘫痪的无损修复](https://199604.com/3578) | RKE2 全集群 TLS 证书过期导致瘫痪的无损修复 起因 这套 RKE2 集群跑了快 2 年零 19 天，3 […] |
 | 2026-06-10 | [服务器高性能网络调优](https://www.kawabangga.com/posts/7292) | 这篇文章写一下服务器的网络方面的调优经验。如果网络的带宽使用在 1GE，其实没有必要做调优，默认的参数基本没有 […] Continue reading... |
