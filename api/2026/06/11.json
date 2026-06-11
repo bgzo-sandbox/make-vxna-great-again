@@ -1,5 +1,33 @@
 [
   {
+    "title": "New-API 安装与优化部署指南（基于 Docker Compose）",
+    "url": "https://199604.com/3580",
+    "date": "2026-06-11T08:42:38Z",
+    "description": "New-API 安装与优化部署指南（基于 Docker Compose） 一、概述 New-API 是一个强大 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "「小坑」VirtualBox 虚拟机的 headless 启动方式",
+    "url": "https://www.wdssmq.com/post/20221015312.html",
+    "date": "2026-06-11T07:21:05Z",
+    "description": "在虚拟机列表那里可在右菜单里选择「启动」-「启动时不用图形用户界面」; 如果需要命令行或快捷方式启动，形式用下： \"C:\\Program Files\\Oracle\\VirtualBox\\VBoxManage.exe\" startvm \"LinuxMint\" --type headless 「- -」「- -」「- -」 坑的地方在于，如果你用右键菜单「创建桌面快捷方式」，路径是这样的： \"C:\\Program Files\\Oracle\\VirtualBox\\VirtualBoxVM.exe\" --comment \"LinuxMint\" --startvm \"{a359ef4b-cead-41e9-ef46-g64cca247efn}\" 后者参数直接加上「 --type headless 」好像是是无效的，因为一个是 VBoxManage 另一个是 VirtualBoxVM ，而且 startvm 和 --startvm 也有区别，后边值用 NAME 和 UUIID 应该都可以。",
+    "source_root_domain": "wdssmq.com"
+  },
+  {
+    "title": "南京蜜雪冰城旗舰店",
+    "url": "https://blog.thetbw.xyz/archives/nan-jing-mi-xue-bing-cheng",
+    "date": "2026-06-11T06:25:56Z",
+    "description": "之前也是看到南京开了个蜜雪冰城旗舰店，本着凑热闹的心态，顺带去看了看。 我是周一去的，蜜雪的这个店开在夫子庙附近，水游城对面的这个商场，之前水游城我还蛮经常去的，这里非常好停车，来南京夫子庙玩的，可以停车在水游城下面，就是白天停车费不便宜。 对面的这个茂业天地，之前冷清的不行，现在也是，这个蜜雪开店的地方，之前好像是个livehouse，估计也是没啥人不干了。 没想到今天周一人还挺多的，还要排队，也就进去看了看，没有买什么就走了，我也不太喜欢排队。",
+    "source_root_domain": "thetbw.xyz"
+  },
+  {
+    "title": "过度投入",
+    "url": "https://www.hecaitou.com/2026/06/Overinvestment.html",
+    "date": "2026-06-11T04:49:30Z",
+    "description": "最近在网上看到有一篇长达 7.5万字的辞职感言，我根本不敢点开看。7.5 万字是什么一个概念，差不多是这个时代一本小说的体量。而能够撑住 7.5 万字的，大概率是情感，而且是极为炽热的情感。情感太过浓烈的文章，我不敢看。 我在国企、私企都上过班，传统行业、互联网企业都干过活，自己也创过业，在各种岗位上扮演了一圈各种角色，因此，我是那种不会写辞职感言的人，我也不会有这种情感基础。 如果是打工，那就是一份工作而已。你需要钱，或者你需要资历，又或者是你需要历练，然后刚好有那么一份工作可以满足你的需求，仅此而已。至于说这份工作的成果能颠覆现在，能改变未来，能平移人类文明的发展线，其实都和自己无关，犯不上投入很多的情感。 一份工就是一份工而已，打就行了。 即便是创业做老板，把一份工作升级为一份事业，结论依然不变。一只鸭腿卖 16 块，可以在大学附近一直那么卖下去。事业就是做鸭腿，然后努力维持 16 块的价值不变，一个接一个做。但是如果你要上价值，你要投入情感，觉得你不是在做鸭腿，也不止于做鸭腿，那你就可能会宣布那是鹅腿，然后事情就会变得很麻烦。 小时候我不懂，不知道情感其实是很珍贵的东西。喜欢一",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
     "title": "高考结束后的小剧场",
     "url": "https://mobius.blog/24612.html",
     "date": "2026-06-11T02:55:00Z",

@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-11 | [New-API 安装与优化部署指南（基于 Docker Compose）](https://199604.com/3580) | New-API 安装与优化部署指南（基于 Docker Compose） 一、概述 New-API 是一个强大 […] |
+| 2026-06-11 | [「小坑」VirtualBox 虚拟机的 headless 启动方式](https://www.wdssmq.com/post/20221015312.html) | 在虚拟机列表那里可在右菜单里选择「启动」-「启动时不用图形用户界面」; 如果需要命令行或快捷方式启动，形式用下： "C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" startvm "LinuxMint" --type headless 「- -」… |
+| 2026-06-11 | [南京蜜雪冰城旗舰店](https://blog.thetbw.xyz/archives/nan-jing-mi-xue-bing-cheng) | 之前也是看到南京开了个蜜雪冰城旗舰店，本着凑热闹的心态，顺带去看了看。 我是周一去的，蜜雪的这个店开在夫子庙附近，水游城对面的这个商场，之前水游城我还蛮经常去的，这里非常好停车，来南京夫子庙玩的，可以停车在水游城下面，就是白天停车费不便宜。 对面的这个茂业天地，之前冷清的不行，现在也是，这个蜜雪开店… |
+| 2026-06-11 | [过度投入](https://www.hecaitou.com/2026/06/Overinvestment.html) | 最近在网上看到有一篇长达 7.5万字的辞职感言，我根本不敢点开看。7.5 万字是什么一个概念，差不多是这个时代一本小说的体量。而能够撑住 7.5 万字的，大概率是情感，而且是极为炽热的情感。情感太过浓烈的文章，我不敢看。 我在国企、私企都上过班，传统行业、互联网企业都干过活，自己也创过业，在各种岗位… |
 | 2026-06-11 | [高考结束后的小剧场](https://mobius.blog/24612.html) | 这两天高考结束，目睹了很多“小剧场”。 花 高考结束的那天，我在车库遇到一对母子，大概是妈妈从县城接回了高考结 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-11 | [New Release: Bio Menace](https://macsourceports.com/game/biomenace) | An Apogee platformer that's a lot like Duke Nukem II but made from the Commander Keen engine, Bio Menace was never as popular as its contemporaries bu… |
 | 2026-06-11 | [我为 16 岁的女儿定制的 2026 暑期实习计划](https://diff.im/blog/2026/06/linda-%E5%AE%9E%E4%B9%A0%E8%AE%A1%E5%88%92/) | 16 岁的女儿现在读十年级，还有两年就要上大学。 暑期开始前，她在找一些快餐店/餐厅/零售店打工的机会，赚一些零花钱，也积累一些社会实践的经验。 我觉得这个想法很好，也替她感到骄傲。后来我跟她说，做这样的实习打工挺有价值的，其价值在于：能在一个真实的工作环境中，学习沟通与合作，用自己的劳动创造收入。… |
