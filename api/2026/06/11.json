@@ -1,0 +1,198 @@
+[
+  {
+    "title": "高考结束后的小剧场",
+    "url": "https://mobius.blog/24612.html",
+    "date": "2026-06-11T02:55:00Z",
+    "description": "这两天高考结束，目睹了很多“小剧场”。 花 高考结束的那天，我在车库遇到一对母子，大概是妈妈从县城接回了高考结 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "New Release: Bio Menace",
+    "url": "https://macsourceports.com/game/biomenace",
+    "date": "2026-06-11T02:10:33Z",
+    "description": "An Apogee platformer that's a lot like Duke Nukem II but made from the Commander Keen engine, Bio Menace was never as popular as its contemporaries but developed a cult…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "我为 16 岁的女儿定制的 2026 暑期实习计划",
+    "url": "https://diff.im/blog/2026/06/linda-%E5%AE%9E%E4%B9%A0%E8%AE%A1%E5%88%92/",
+    "date": "2026-06-11T01:36:53Z",
+    "description": "16 岁的女儿现在读十年级，还有两年就要上大学。 暑期开始前，她在找一些快餐店/餐厅/零售店打工的机会，赚一些零花钱，也积累一些社会实践的经验。 我觉得这个想法很好，也替她感到骄傲。后来我跟她说，做这样的实习打工挺有价值的，其价值在于：能在一个真实的工作环境中，学习沟通与合作，用自己的劳动创造收入。 当然，这种实习的价值可能也就仅止于此。 眼下是一个 AI 大爆发的阶段。 相比去实体店里实习的价值，我觉得花一个暑假，认真、细致、深入地去学习实用的 AI，这对后面两年的高中学习、以后的大学学习，以及职业方向，都会产生一个更深远的影响。 所以我和她提议，她可以在我这边实习，我会给她发薪水。当然，一定会有详细的考核目标。所以，我们制定了这样一个暑期的实习计划。 对于她来说，这是一个很有挑战的计划，需要很多地方突破舒适区去尝试。对于我来说，也同样有很多挑战。 经济方面会有一定的付出。比如，我需要给她重新配备新的 MacBook Pro 电脑，还要给她发实习薪水。时间方面，因为这其实就是在带一个实习生，必然会导致我工作的速度和效率大幅下降。 但我觉得这是一个很好的投资。短短的两个月时间，有可能会",
+    "source_root_domain": "diff.im"
+  },
+  {
+    "title": "Lesson 29 量子场论 & 广义相对论",
+    "url": "https://physnya.top/GR/lesson-29/",
+    "date": "2026-06-10T18:19:05Z",
+    "description": "说暴涨时期怎么给宇宙提供 initial condition. 上节课我们研究了一个标量场 ϕ → ϕ 0 + δ ϕ \\phi\\to \\phi_0+\\delta\\phi ϕ → ϕ 0 ​ + δ ϕ 的量子涨落，首先是写下作用量：",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "AI自进化",
+    "url": "https://elmagnifico.tech/2026/06/11/AI-Self-Iteration/",
+    "date": "2026-06-10T16:00:00Z",
+    "description": "Foreword 最近看了一个文章，有点意思，有点想法，记录下来。 AI自我迭代 https://mp.weixin.qq.com/s/AXyCo0RRwWHKLpkUx1jUg 这篇文章是 CSDN 编译的 Anthropic 长篇报告《When AI Builds Itself（当 AI 构建自身）》，核心观点是：AI 正越来越多地参与 AI 本身的研发，”递归式自我改进（Recursive Self-Improvement）”时代可能比想象中来得更早。 Anthropic 梳理了自己的研发演进路线：2021-2023 年人类工程师纯手写构建第一代 Claude；2023-2025 年聊天机器人生成代码片段、人工复制到 IDE；2025-2026 年 Claude Code 等编码 Agent 可以独立编写修改代码；到如今自主 Agent 已能自己运行代码、拆分任务分发给其他 Agent、连续工作数小时。沿着这条趋势，终点就是 AI 完全自主设计并开发自己的下一代版本。 外部证据是 AI 独立完成任务的时长增速从每 7 个月翻倍缩短到每 4 个月翻倍：从 Opus 3 只能完成约 ",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "基于 git 的零拷贝静态web服务器",
+    "url": "https://blog.est.im/2026/stdout-22",
+    "date": "2026-06-10T15:21:00Z",
+    "description": "无聊，产生了个crazy的想法。 git 内部用 zlib 压缩文件内容 Content-Encoding: gzip 也是 如果web服务器输出 .git 里的 静态 内容，是不是可以减一个二次解压/压缩步骤？？？ blob sha1 直接当etag？ 跟AI较量了几轮，一开始它说做不到。因为 blob 的格式比较变态。因为 hello world... 在 .git/objects/ab/cdef... 里的东西是这么存的 zlib(blob 1234\\0hello world...) I was like ？？？日他妈真变态啊。这前面是写死了 blob \\0 然后把文件内容放在一起，再压缩的。 .git 这设计脑子有病啊。。。为啥不是原始文件gz而是加个头去gz。。。 此路不通！结束 然后AI嘴瓢了，说 先别急着吐槽 Linus，这个设计不仅没病，反而是 Git 能成为现代“内容寻址数据库”的精髓所在。 当 Git 从磁盘读取一个松散对象时，它是个流（Stream）。Git 只需要解压出最开始的几个字节，读到 blob 4096\\0，内核就可以立刻执行 malloc(4096) ",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "四五月POLG",
+    "url": "https://yovey.me/aprmay-shots/",
+    "date": "2026-06-10T12:47:13Z",
+    "description": "四月等车后的漫长时间，抽时间读《A Twist of the Wrist》，起初是三天打鱼两天晒网，随着工作越 … Continue reading \"四五月POLG\"",
+    "source_root_domain": "yovey.me"
+  },
+  {
+    "title": "RKE2 全集群 TLS 证书过期导致瘫痪的无损修复",
+    "url": "https://199604.com/3578",
+    "date": "2026-06-10T12:43:30Z",
+    "description": "RKE2 全集群 TLS 证书过期导致瘫痪的无损修复 起因 这套 RKE2 集群跑了快 2 年零 19 天，3 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "服务器高性能网络调优",
+    "url": "https://www.kawabangga.com/posts/7292",
+    "date": "2026-06-10T11:52:00Z",
+    "description": "这篇文章写一下服务器的网络方面的调优经验。如果网络的带宽使用在 1GE，其实没有必要做调优，默认的参数基本没有 […] Continue reading...",
+    "source_root_domain": "kawabangga.com"
+  },
+  {
+    "title": "关于东北人的认同",
+    "url": "https://sinyalee.com/blog/?p=1145",
+    "date": "2026-06-10T11:34:20Z",
+    "description": "东北人是血统汉人，精神满人。 所谓日本殖民还是满洲租地，其实都是托词，这些都不是东北认同的核心。现在东北认同的 […]",
+    "source_root_domain": "sinyalee.com"
+  },
+  {
+    "title": "Photosuite EXIF 优化",
+    "url": "https://blog.lhasa.icu/posts/technology/2026-06-09-photosuite-v0-5-0-beta/",
+    "date": "2026-06-10T10:39:00Z",
+    "description": "最近写新主题，迁移旧日志文件跑测试时，发现 Photosuite 有两个严重的问题",
+    "source_root_domain": "lhasa.icu"
+  },
+  {
+    "title": "VC基金收益率基准数据出炉：2021年最惨？",
+    "url": "https://wenfeixiang.com/2026/06/the-net-tvpi-of-vc-data-by-carta/",
+    "date": "2026-06-10T09:14:38Z",
+    "description": "美国金融科技公司 Carta 日前发布了一份关于VC基金收益率的基准测试数据：截至2026年Q1，不同年份成立 […]",
+    "source_root_domain": "wenfeixiang.com"
+  },
+  {
+    "title": "在一台 VPS 上同时提供原生和 WARP 双出口",
+    "url": "https://yipai.me/post/2535.html",
+    "date": "2026-06-10T08:51:53Z",
+    "description": "裸连 Shadowsocks 服务器很容易被封。建议使用 mihomo 的 dialer-proxy 功能，把 […]",
+    "source_root_domain": "yipai.me"
+  },
+  {
+    "title": "流行",
+    "url": "https://mobius.blog/24599.html",
+    "date": "2026-06-10T07:38:21Z",
+    "description": "小鑫买了套新衣服，说是时下最流行的款式。 但渐渐这种款式开始烂大街，山寨品也仿造得越来越像，几乎分不清楚谁才是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Rectangle Pro 使用教程：买了之后才搞懂",
+    "url": "https://blog.forecho.com/rectangle-pro-usage-guide.html",
+    "date": "2026-06-10T06:27:48Z",
+    "description": "引言 之前稀里糊涂买了 Rectangle Pro ，买完之后才发现它界面全是英文，功能也比免费版多很多。放着吃灰有点浪费，所以我花了点时间把官方文档和常用功能摸了一遍。 先说结论： 免费版 Rectangle 已经够大多数人用，Rectangle Pro 的价值主要在 Window Throw、自定义窗口尺寸、工作区布局、Stash 和 Pin Mode。 这篇文章按英文菜单名来写，打开软件的时候可以直接对照着设置。 Rectangle 免费版和 Pro 有什么区别？ Rectangle 免费版是一个开源的 Mac 窗口管理工具，核心功能就是把窗口快速移动到左半屏、右半屏、最大化、居中、三分之一屏幕等位置。你可以用快捷键，也可以把窗口拖到屏幕边缘来吸附。 Rectangle Pro 是 Rectangle 的闭源增强版，官方文档里说它是 Rectangle 的 superset，而且是单独下载的 App。我的理解是：免费版负责把窗口放到常见位置，Pro 版负责把窗口管理这件事做得更顺手、更细、更适合多屏工作。 功能 Rectangle 免费版 Rectangle Pro 收费方式 免",
+    "source_root_domain": "forecho.com"
+  },
+  {
+    "title": "非强制传承",
+    "url": "https://www.hecaitou.com/2026/06/The-Art-of-Gentle-Legacy.html",
+    "date": "2026-06-10T04:43:10Z",
+    "description": "前几天，我看到追 K-pop 偶像团体的小朋友在淘宝的 CD 碟店里提问：请问这些碟是放进 CD 机里播放吗？每个 CD 机都能播放吗？买的话配 CD 机吗？ 可以想象，就算是此刻，就算是在我这里，读者群也会分为两个部分。一部分年龄稍长的读者看了会笑出声来，而另一部分年龄较小的读者则是满头雾水，不能理解这些正常的顾客提问有什么问题，疑惑笑点究竟在哪里。 时代的变化太快了，在不到 30 年间，生活中发生了太多变化，有太多物品隐入尘烟。对于今天的小朋友而言，一张 3.5 寸盘和书本上的司母戊大方鼎 没什么不同。座机电话、BP 机、磁带随身听、黑胶唱机这些东西，基本上就等于是古董，很多人根本没有听说过。即便听说过一些，也没有任何真实使用经验。 传承中断。 最近我做了几次尝试，试图恢复或者延续这种传承。理由也很简单，我觉得它们都很美好，而且曾经带给我在这个时代里无法获得的美好感受。我想让今天的小朋友也感受一下，并且希望他们也能喜欢上。或许还有一点，那就是在我内心最隐秘的角落里，一直有个声音在嘟囔：慢下来吧，大家稍微慢一点下来。 就这样，前几天当我和我的初中同学聊起过去，聊到我们当年第一次用磁带",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "为什么法律作为复仇工具时必然会失效？",
+    "url": "https://mobius.blog/24590.html",
+    "date": "2026-06-10T02:55:00Z",
+    "description": "最近重庆发生了一件事，大致是一个长期虐狗的人被曝光身份后，一些爱狗人士上门堵截对方，希望通过这种方式引起警方的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Memos #2026-06-09",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-06-10T00:00:00Z",
+    "description": "00:30 前段时间经常梦到回到高中参加高考，意识中却保留着我已经工作几年了的记忆。 就很不明白为什么给我安排这样的梦，让我完全没有高中的紧迫感，尽管高中时也没咋紧迫。 最近真的还挺无聊的，一样的东西刷来刷去，没啥刺激的，这周一定写一篇周记，总结总结最近的心情。",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "2026年 激战2 常用网站和工具 #Guild wars 2",
+    "url": "https://anotherdayu.com/guild-wars-2/",
+    "date": "2026-06-09T18:44:00Z",
+    "description": "激战2 已是发布十年以上的老游戏，一些流行的工具慢慢停止维护和更新。 本文总结了 2026 年国际服仍可用且好用的相关网站，会定期维护更新。 部分资料为英文，可使用 Chrome 浏览器插件 沉浸式翻译 中英对照阅读。YouTube 视频也可用其生成中文字幕。 网站 Guild wars 2 wiki Snow Crows ，PVE、PVP、WvW 配装，同类型网站中更新最积极的。尤其适合副本和碎层玩家，有日期标签，有团队测试输出，能获取最新的信息。同类型还有 MetaBattle ，但它更新得越来越少，且bug开始变多。 GuildJen ，一些 Youtuber 参与的网站，不一定是全 meta build，但会有一些有趣的测试配装和尝试，配套的演示视频更易于理解。 GW2Mists ，WvW 相关资料。 Gw2Skills ，配装编辑器，适合自己研发。 激战2星岬岛 ，中文网站，内容齐全清晰。部分信息是针对国服的，需要自己筛选。 gw2efficiency ，看账号资产、材料、成就、传奇制作成本。 GW2TP ，查交易行历史价格、利润、供需变化。相似的还有 GW2BLTC 。 F",
+    "source_root_domain": "anotherdayu.com"
+  },
+  {
+    "title": "What is an AI Native Data System",
+    "url": "https://victor42.eth.limo/post-en/ai-native-data-system/",
+    "date": "2026-06-09T16:12:00Z",
+    "description": "I am a power user of Excel and Google Sheets, relying on them heavily to manage both work and life . Later, I migrated some of my heavier data management tasks to visual databases like Feishu Bitable. While they might look like Excel, they are fundamentally different beasts. With much stricter data rules than spreadsheets, they trade some flexibility for the raw power of a true database. You can easily link multiple tables and build highly complex data systems—more than capable of running a smal",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "什么是AI原生的数据系统？",
+    "url": "https://victor42.eth.limo/post/ai-native-data-system/",
+    "date": "2026-06-09T16:12:00Z",
+    "description": "我Excel/Google Sheets用得很溜， 大量用它们管理工作和生活 。 后来，我曾经把一部分较重的数据管理任务迁移到飞书多维表这样的产品里。这类东西长得很像Excel，但本质上是完全不同的东西，是可视化数据库。它们比Excel有着严格得多的数据规范，限制灵活性的同时，释放了数据库天然带来的强大能力。可以更轻松建立多表关联，构建出结构非常复杂的数据系统，支撑 一个小生意 都不在话下。 我用多维表构建过任务管理系统，每一项工作任务从接收到交付，完整生命周期全都在里面。从中再派生出周报、排期日历、年度数据报表等用途。这套系统至少3次被别人要了去，一次是同事个人，一次是主管拿去管理团队，还一次是被前司拿去全员推行。 但再强大，毕竟免不了亲自动手。 我信奉一个“洗碗机哲学”：老一辈瞧不上这玩意，总觉得你不还是得先冲洗下再放进去吗，有这时间我早就手洗完了。我的道理是，手洗15分钟，投入人工15分钟；人工冲洗5分钟+洗碗机洗40分钟，人工只投入5分钟，我给自己的人生赢回了10分钟。 科技，在我这，是用来赎回生活的。 多维表本身也带AI功能，或者也可以用本地的Agent通过CLI或API来操",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "关于自律",
+    "url": "https://blog.solazy.me/20260609/",
+    "date": "2026-06-09T15:00:00Z",
+    "description": "你看到的这篇文章是我对于今天的不甘心",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "第一次去看陶喆演唱会",
+    "url": "https://www.tortorse.com/archives/tao-zhe-soul-power-ii-nanjing-concert/",
+    "date": "2026-06-09T14:14:12Z",
+    "description": "2024 年 7 月，我终于去看了一场陶喆演唱会。",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "AI 博客问题挑战",
+    "url": "https://kaix.in/2026/0609/",
+    "date": "2026-06-09T07:51:24Z",
+    "description": "我订阅的几个博客都参与了这个问答，我也来参与参与。 How was your first experience with AI models? Do you use AI or are you completely against using it? Do you have any preference among different models, for example Claude vs ChatGPT? If yes, how do you choose? What aspect of AI models do you like and what do you not like? How do you feel about AI generated images? Does it annoy you if someone use them in a blog post? Internet is flooded with AI slop now, full of generated text, images, audio and videos. How do you filter",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "full circle.",
+    "url": "https://www.justzht.com/full-circle/",
+    "date": "2026-06-09T06:57:28Z",
+    "description": "开完发布会了，和国内来的开发者朋友们吃了个饭，然后回到家，想说给父母打个电话好了，告诉他们今年我 又讲",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "借不了的强硬",
+    "url": "https://www.hecaitou.com/2026/06/you-cant-fake-toughness.html",
+    "date": "2026-06-09T03:41:20Z",
+    "description": "当我的福报还没有降临，我每天都在网上高强度怼人。上网怼人对于我而言只是一种个人业余爱好，却因此而吸引了很多人来观赏，根据他们的说法是「看了感觉很解压」，因为在生活里「自己做不到」。 观察了那么多年，我发现生活里的确存在着一大批人，他们的心愿就是想让自己「强硬」起来，免得自己天天「受欺负」、「受委屈」。 就像是人们对自律存在广泛的误解一样，人们对强硬，或者强硬地活着也存在着误解。以至于许多人专门上网学习怼人的技巧，认为学会了这种技巧自己就能学会如何反击，学会如何反击就等于是变得强硬起来。 但我的理解有些不同。 先说一个假设：人之所以会采取特定的行为模式，背后的基础是特定的心理模式。如果能接受这个假设，那么我们就继续讨论下去；不能接受，那么就请直接划走，该学什么技巧该学什么话术那就赶紧去学。 你看每天跑步、减肥或者背单词这种事情，如果你理解为这是自律，需要的是坚持，那么你多半会坚持不下去。为什么？因为坚持是你强加给你内心的指令，这不是内心自然生发出来的想法。而如果你去问那些「坚持」下来的人，他们通常不会和你谈所谓「坚持」，反而会和你谈什么快乐，什么满足一类的话题。快乐或者满足是内生的，区别",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "我的“保健品栈”",
+    "url": "https://hangbin.blog/blog/supplement-stack-review/",
+    "date": "2026-06-09T02:16:42Z",
+    "description": "为什么关注保健品 # 其实以前不怎么在意这些。备孕期间开始吃了不少，慢慢地便成了习惯，偶尔看到有意思的新产品，也会多花点时间了解一下。这篇就是顺手整理了一下现在在吃的东西，以及最近调研的一些新品。",
+    "source_root_domain": "hangbin.blog"
+  },
+  {
+    "title": "关于人设的自证悖论",
+    "url": "https://mobius.blog/24577.html",
+    "date": "2026-06-09T00:55:00Z",
+    "description": "之前的内容都是提前码好的字，只是偶尔“回到当下”。今天又是在咖啡厅码字的一天，此时此刻，在我的对面坐着这样一对 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  }
+]
