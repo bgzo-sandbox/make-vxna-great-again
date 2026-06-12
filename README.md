@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-12 | [没有成为钢琴家的天分，为什么还要让孩子坚持学钢琴？](https://diff.im/blog/2026/06/%E6%B2%A1%E6%9C%89%E6%88%90%E4%B8%BA%E9%92%A2%E7%90%B4%E5%AE%B6%E7%9A%84%E5%A4%A9%E5%88%86%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%A6%81%E8%AE%A9%E5%AD%A9%E5%AD%90%E5%9D%9A%E6%8C%81%E5%AD%A6%E9%92%A2%E7%90%B4/) | 所谓天分，很多时候是一个相对的概念。这个孩子可能比那个孩子更有音乐感，节奏更稳，手指条件更好。 但是，当你见过那些真正有天赋的人，就会知道，天分对不同人来说，是数量级的差别。 就我们家孩子来说，我不觉得他们有成为专业钢琴家的天分。 但他们有足够强的学习能力，有领受的能力，也有不错的技巧。对我们家来说… |
 | 2026-06-12 | [数字人民币和支付宝、微信支付有什么区别？](https://yfzz.net/?p=132) | 不是一回事，支付宝以及微信支付属于“线上支付”，这事“云闪付”就能干，而数字人民币从名字就能看出来，是通过现代... |
 | 2026-06-12 | [语言是思想的 KV Cache](https://luweiqing.com/gossip/language-as-KV-Cache.html) | 语言是思想的 KV Cache，使用人数和时间更长的语言，会有一些优势语言像 KV Cache 的地方维度语言KV Cache作用保存和传递上下文保存和复用推理上下文价值让思考可以连续累积让模型... |
 | 2026-06-12 | [记一次出差时的 AirPods 巡回](https://blog.solazy.me/20260612/) | 找回了我的 AirPods |
