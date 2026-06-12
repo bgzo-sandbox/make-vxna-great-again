@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-12 | [记一次出差时的 AirPods 巡回](https://blog.solazy.me/20260612/) | 找回了我的 AirPods |
 | 2026-06-12 | [Linux Desktop 使用 NVIDIA 独显驱动 Google Earth Pro 和 WeChat](https://hellodk.cn/post/1224) | 原理NVIDIA 官方提供了 PRIME Render Offload 机制，通过环境变量让指定程序走独显渲染：NVPRIMERENDEROFFLOAD=1 — 告诉 NVIDIA 驱... |
 | 2026-06-12 | [K3s 集群证书过期紧急轮换笔记](https://199604.com/3582) | K3s 集群证书过期紧急轮换笔记 前言/背景 最近 Prometheus 突然弹出一个 warning 告警， […] |
 | 2026-06-12 | [Lesson 30 复习](https://physnya.top/GR/lesson-30-review/) | Minkowski 度规： d s 2 = η α β d x α d x β \mathrm{d}s^2=\eta_{\alpha\beta}\mathrm{d}x^\alpha\mathrm{d}x^\beta d s 2 = η α β ​ d x α d x β . Lorentz 变换做的… |
