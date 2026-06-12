@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-12 | [Linux Desktop 使用 NVIDIA 独显驱动 Google Earth Pro 和 WeChat](https://hellodk.cn/post/1224) | 原理NVIDIA 官方提供了 PRIME Render Offload 机制，通过环境变量让指定程序走独显渲染：NVPRIMERENDEROFFLOAD=1 — 告诉 NVIDIA 驱... |
+| 2026-06-12 | [K3s 集群证书过期紧急轮换笔记](https://199604.com/3582) | K3s 集群证书过期紧急轮换笔记 前言/背景 最近 Prometheus 突然弹出一个 warning 告警， […] |
+| 2026-06-12 | [Lesson 30 复习](https://physnya.top/GR/lesson-30-review/) | Minkowski 度规： d s 2 = η α β d x α d x β \mathrm{d}s^2=\eta_{\alpha\beta}\mathrm{d}x^\alpha\mathrm{d}x^\beta d s 2 = η α β ​ d x α d x β . Lorentz 变换做的… |
+| 2026-06-12 | [罗马-佛罗伦萨-梵蒂冈之旅（四）](https://eduardoqian.com/archives/luo-ma-fo-luo-lun-sa-fan-di-gang-zhi-lu-si) | 从佛罗伦萨返回梵蒂冈，这是我本次旅行的最后一天，旅游目的地只有梵蒂冈。当天天气不大太好，在我下午回到梵蒂冈，找到酒店住上之后，我便绕着梵蒂冈走了走，去圣彼得大教堂排队。 排队进入圣彼得大教堂之后，不由得为其中的瑰丽景色而赞叹。相比于其他的教堂，圣彼得大教堂非常的庄严壮丽。 |
+| 2026-06-12 | [车祸 XIII](https://mobius.blog/24607.html) | （2026-全国卷）下列哪些是提升电动车品牌效应的方法： A、通过分析起火/爆炸事故数据，改进电池安全； B、 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-12 | [幻火轮观工作](https://www.hecaitou.com/2026/06/the-illusion-of-the-fire-wheel-a-vision-of-work.html) | 工作有点像是玩火艺人手中耍出来的火轮，打工人就有点像是这位艺人。 工作有光鲜的，有幕后的，有轻松的，也有辛苦的，更有少数成功的，以及更多失败的。但都不妨把它们视为一个旋转的火轮，看起来是一个燃烧的圆形，其实只有打工人此时手中控制着的这一刻。火轮，只是看起来如此，并不真实存在。 对于打工人而言，愿不愿… |
 | 2026-06-12 | [酷态科、绿联、倍思、海备思，中国数码配件的四张面孔](https://www.iyeslogo.com/china-digital-accessories-brand/) | 数码配件行业品牌忠诚度低，品牌如何立足？酷态科以技术实力实现降维打击，绿联从数据线起步构建连接方案，倍思实用美学突围，海备思专注小众连接需求。四品牌代表不同路径：技术极客、大众心智、审美升级、小众壁垒。在透明供应链时代，品牌核心竞争力在于讲述并持续沉淀独特故事。 |
 | 2026-06-12 | [我想和真人说话](https://www.linggandianbo.com/newsletter-127/) | 从 AI 答案疲劳、上班时“什么都不做”、多巴胺压裂、疗愈为何无效，到 SpaceX 为火星建立的长期赌局｜灵感电波 #127 |
 | 2026-06-12 | [如何高雅地扣帽子？ I](https://mobius.blog/24619.html) | 没错，标题里的“扣帽子”，指的就是那个常见的人身攻击手段：通过贴标签的方式，使他人对被贴标签对象产生“先入为主 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -49,6 +55,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-10 | [AI自进化](https://elmagnifico.tech/2026/06/11/AI-Self-Iteration/) | Foreword 最近看了一个文章，有点意思，有点想法，记录下来。 AI自我迭代 https://mp.weixin.qq.com/s/AXyCo0RRwWHKLpkUx1jUg 这篇文章是 CSDN 编译的 Anthropic 长篇报告《When AI Builds Itself（当 AI 构建自… |
 | 2026-06-10 | [基于 git 的零拷贝静态web服务器](https://blog.est.im/2026/stdout-22) | 无聊，产生了个crazy的想法。 git 内部用 zlib 压缩文件内容 Content-Encoding: gzip 也是 如果web服务器输出 .git 里的 静态 内容，是不是可以减一个二次解压/压缩步骤？？？ blob sha1 直接当etag？ 跟AI较量了几轮，一开始它说做不到。因为 b… |
 | 2026-06-10 | [睡眠是第二天的预算](https://blog.solazy.me/20260610/) | 今天聊聊睡觉这件事儿 |
+| 2026-06-10 | [OpenAI 考虑大幅降价，预计将与 Anthropologie 展开用户争夺战](https://blog.rustfisher.com/news/news-openai-20260610/) | 该公司可能会降低token价格（token是衡量人工智能成本的核心单位），但相关讨论仍在进行中。 |
 | 2026-06-10 | [四五月POLG](https://yovey.me/aprmay-shots/) | 四月等车后的漫长时间，抽时间读《A Twist of the Wrist》，起初是三天打鱼两天晒网，随着工作越 … Continue reading "四五月POLG" |
 | 2026-06-10 | [RKE2 全集群 TLS 证书过期导致瘫痪的无损修复](https://199604.com/3578) | RKE2 全集群 TLS 证书过期导致瘫痪的无损修复 起因 这套 RKE2 集群跑了快 2 年零 19 天，3 […] |
 | 2026-06-10 | [服务器高性能网络调优](https://www.kawabangga.com/posts/7292) | 这篇文章写一下服务器的网络方面的调优经验。如果网络的带宽使用在 1GE，其实没有必要做调优，默认的参数基本没有 […] Continue reading... |

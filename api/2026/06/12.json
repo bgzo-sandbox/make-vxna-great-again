@@ -1,5 +1,47 @@
 [
   {
+    "title": "Linux Desktop 使用 NVIDIA 独显驱动 Google Earth Pro 和 WeChat",
+    "url": "https://hellodk.cn/post/1224",
+    "date": "2026-06-12T08:09:00Z",
+    "description": "原理NVIDIA 官方提供了 PRIME Render Offload 机制，通过环境变量让指定程序走独显渲染：NVPRIMERENDEROFFLOAD=1 — 告诉 NVIDIA 驱...",
+    "source_root_domain": "hellodk.cn"
+  },
+  {
+    "title": "K3s 集群证书过期紧急轮换笔记",
+    "url": "https://199604.com/3582",
+    "date": "2026-06-12T07:55:41Z",
+    "description": "K3s 集群证书过期紧急轮换笔记 前言/背景 最近 Prometheus 突然弹出一个 warning 告警， […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "Lesson 30 复习",
+    "url": "https://physnya.top/GR/lesson-30-review/",
+    "date": "2026-06-12T07:26:34Z",
+    "description": "Minkowski 度规： d s 2 = η α β d x α d x β \\mathrm{d}s^2=\\eta_{\\alpha\\beta}\\mathrm{d}x^\\alpha\\mathrm{d}x^\\beta d s 2 = η α β ​ d x α d x β . Lorentz 变换做的是",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "罗马-佛罗伦萨-梵蒂冈之旅（四）",
+    "url": "https://eduardoqian.com/archives/luo-ma-fo-luo-lun-sa-fan-di-gang-zhi-lu-si",
+    "date": "2026-06-12T07:13:00Z",
+    "description": "从佛罗伦萨返回梵蒂冈，这是我本次旅行的最后一天，旅游目的地只有梵蒂冈。当天天气不大太好，在我下午回到梵蒂冈，找到酒店住上之后，我便绕着梵蒂冈走了走，去圣彼得大教堂排队。 排队进入圣彼得大教堂之后，不由得为其中的瑰丽景色而赞叹。相比于其他的教堂，圣彼得大教堂非常的庄严壮丽。",
+    "source_root_domain": "eduardoqian.com"
+  },
+  {
+    "title": "车祸 XIII",
+    "url": "https://mobius.blog/24607.html",
+    "date": "2026-06-12T07:00:00Z",
+    "description": "（2026-全国卷）下列哪些是提升电动车品牌效应的方法： A、通过分析起火/爆炸事故数据，改进电池安全； B、 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "幻火轮观工作",
+    "url": "https://www.hecaitou.com/2026/06/the-illusion-of-the-fire-wheel-a-vision-of-work.html",
+    "date": "2026-06-12T04:18:21Z",
+    "description": "工作有点像是玩火艺人手中耍出来的火轮，打工人就有点像是这位艺人。 工作有光鲜的，有幕后的，有轻松的，也有辛苦的，更有少数成功的，以及更多失败的。但都不妨把它们视为一个旋转的火轮，看起来是一个燃烧的圆形，其实只有打工人此时手中控制着的这一刻。火轮，只是看起来如此，并不真实存在。 对于打工人而言，愿不愿意都要上场耍火轮。那么需要注意的就有两件事，一件是站在母亲的角度：小心不要烧伤自己。另一件是站在自身的角度：自己对火轮的控制力是不是比之前更强了？耍起来的熟练度是不是增长了？是不是随便什么都可以耍起来了？是不是在哪里都可以耍一下了？ 我以为这是最重要的两件事。有些人却和我说：自己只有在工作中才能找寻到自身的价值和存在的意义。对于这种话，我的个人理解是某个人耍得多了，开始迷恋自己耍出来的这个火轮，甚至觉得没有这个火轮，也就没有了自己。 是不是哪里不对？火轮随时可以停止，可以熄灭，人随时可以被叫停，可以被请出场，但能耍才是最关键的，也才是最能代表你这个人的，更是一直带在你身上剥夺不了的，不是这个道理么？ 进一步说，能够熟练地耍起来，耍得好，耍得漂亮，最后不管给你任何东西，你都可以立即那么耍起来，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
     "title": "酷态科、绿联、倍思、海备思，中国数码配件的四张面孔",
     "url": "https://www.iyeslogo.com/china-digital-accessories-brand/",
     "date": "2026-06-12T03:34:27Z",
@@ -152,6 +194,13 @@
     "date": "2026-06-10T15:00:00Z",
     "description": "今天聊聊睡觉这件事儿",
     "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "OpenAI 考虑大幅降价，预计将与 Anthropologie 展开用户争夺战",
+    "url": "https://blog.rustfisher.com/news/news-openai-20260610/",
+    "date": "2026-06-10T14:44:59Z",
+    "description": "该公司可能会降低token价格（token是衡量人工智能成本的核心单位），但相关讨论仍在进行中。",
+    "source_root_domain": "rustfisher.com"
   },
   {
     "title": "四五月POLG",
