@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-12 | [数字人民币和支付宝、微信支付有什么区别？](https://yfzz.net/?p=132) | 不是一回事，支付宝以及微信支付属于“线上支付”，这事“云闪付”就能干，而数字人民币从名字就能看出来，是通过现代... |
+| 2026-06-12 | [语言是思想的 KV Cache](https://luweiqing.com/gossip/language-as-KV-Cache.html) | 语言是思想的 KV Cache，使用人数和时间更长的语言，会有一些优势语言像 KV Cache 的地方维度语言KV Cache作用保存和传递上下文保存和复用推理上下文价值让思考可以连续累积让模型... |
 | 2026-06-12 | [记一次出差时的 AirPods 巡回](https://blog.solazy.me/20260612/) | 找回了我的 AirPods |
 | 2026-06-12 | [Linux Desktop 使用 NVIDIA 独显驱动 Google Earth Pro 和 WeChat](https://hellodk.cn/post/1224) | 原理NVIDIA 官方提供了 PRIME Render Offload 机制，通过环境变量让指定程序走独显渲染：NVPRIMERENDEROFFLOAD=1 — 告诉 NVIDIA 驱... |
 | 2026-06-12 | [K3s 集群证书过期紧急轮换笔记](https://199604.com/3582) | K3s 集群证书过期紧急轮换笔记 前言/背景 最近 Prometheus 突然弹出一个 warning 告警， […] |
