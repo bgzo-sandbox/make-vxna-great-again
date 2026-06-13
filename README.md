@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-13 | [locate cost](https://blog.est.im/2026/stdin-17) | 翻到一个 AI 编程的出错提示 Could not find oldString in the file. It must match exactly, including whitespace, indentation, and line endings 我突然发现 agent coding 浪费… |
 | 2026-06-13 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.5 of the project |
 | 2026-06-13 | [成熟设计师的顶级自律，把书读薄，把人读厚，把心读静](https://www.iyeslogo.com/designer-and-books/) | 在这个信息爆炸的时代，设计师需要顶级自律而非张扬才华。 |
 | 2026-06-13 | [明镜荡｜上海出发一小时的宝藏湖荡露营地](https://blog.ops-coffee.com/r/city-china-jiangsu-suzhou-kunshan-mingjingdang.html) |  |

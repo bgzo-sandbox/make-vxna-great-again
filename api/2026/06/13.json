@@ -1,5 +1,12 @@
 [
   {
+    "title": "locate cost",
+    "url": "https://blog.est.im/2026/stdin-17",
+    "date": "2026-06-13T16:13:00Z",
+    "description": "翻到一个 AI 编程的出错提示 Could not find oldString in the file. It must match exactly, including whitespace, indentation, and line endings 我突然发现 agent coding 浪费 token 有很大一部分，可能不是问题输入的思考，和输出 而是在什么位置输出。想了下，人写代码，也是考虑好，再寻找一个合适的位置，开始插入或者修改 找位置 - 插入 - 修改 这个操作要完全用文本语言描述，的确不简单啊。甚至可以说超级复杂。 问了下AI，这个叫 locate cost 。定位成本 要做好这一点，Banthropic 他们的做法是 bash，grep。玩得花的是 SAT，diff，patch 什么的 进一步推论，AI 新写代码容易，改代码难？AI 也确认了我这一点 我突然回忆起cursor那个界面刷刷刷把我2w+行的源码全部刷新一遍，卧槽，原来这么回事 于是我有个理论，AI编程似乎把源码拆得更小，或许更省token，AI不仅改起来更容易，也更容易一眼看出问题 无论你拆多少个文",
+    "source_root_domain": "feedburner.com"
+  },
+  {
     "title": "Ambermoon updated",
     "url": "https://macsourceports.com/game/ambermoon",
     "date": "2026-06-13T16:11:25Z",
