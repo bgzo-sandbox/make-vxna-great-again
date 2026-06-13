@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-13 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.5 of the project |
 | 2026-06-13 | [成熟设计师的顶级自律，把书读薄，把人读厚，把心读静](https://www.iyeslogo.com/designer-and-books/) | 在这个信息爆炸的时代，设计师需要顶级自律而非张扬才华。 |
 | 2026-06-13 | [明镜荡｜上海出发一小时的宝藏湖荡露营地](https://blog.ops-coffee.com/r/city-china-jiangsu-suzhou-kunshan-mingjingdang.html) |  |
 | 2026-06-13 | [数学和阅读的用处](https://www.hecaitou.com/2026/06/What-Use-Is-Math-and-Reading.html) | 我数学不行，但还是喜欢，有点类似舔狗。以前遇到过一个问题，「毕业之后数学还有什么用」，一时间回答不了，心态崩了，有点类似舔狗无法捍卫女神而感到无力。 99% 的人不需要会解偏微分方程也可以安稳顺利幸福地度过一生，而在菜市场只需要小学三年级以下的数学尤其是心算就够了，所以我想不出什么理由来反驳。 现在… |
