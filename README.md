@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-13 | [成熟设计师的顶级自律，把书读薄，把人读厚，把心读静](https://www.iyeslogo.com/designer-and-books/) | 在这个信息爆炸的时代，设计师需要顶级自律而非张扬才华。 |
 | 2026-06-13 | [明镜荡｜上海出发一小时的宝藏湖荡露营地](https://blog.ops-coffee.com/r/city-china-jiangsu-suzhou-kunshan-mingjingdang.html) |  |
 | 2026-06-13 | [数学和阅读的用处](https://www.hecaitou.com/2026/06/What-Use-Is-Math-and-Reading.html) | 我数学不行，但还是喜欢，有点类似舔狗。以前遇到过一个问题，「毕业之后数学还有什么用」，一时间回答不了，心态崩了，有点类似舔狗无法捍卫女神而感到无力。 99% 的人不需要会解偏微分方程也可以安稳顺利幸福地度过一生，而在菜市场只需要小学三年级以下的数学尤其是心算就够了，所以我想不出什么理由来反驳。 现在… |
 | 2026-06-13 | [如何高雅地扣帽子？II](https://mobius.blog/24637.html) | 继续“扣帽子”的话题。 今天从一个有趣的案例说起。前两天，我在 X 上看到一群日本人在讨论一段监控画面： 一位 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -45,7 +46,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-12 | [我想和真人说话](https://www.linggandianbo.com/newsletter-127/) | 从 AI 答案疲劳、上班时“什么都不做”、多巴胺压裂、疗愈为何无效，到 SpaceX 为火星建立的长期赌局｜灵感电波 #127 |
 | 2026-06-12 | [如何高雅地扣帽子？ I](https://mobius.blog/24619.html) | 没错，标题里的“扣帽子”，指的就是那个常见的人身攻击手段：通过贴标签的方式，使他人对被贴标签对象产生“先入为主 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-12 | [国际足联是怎样挣钱的？3年营收130亿美元](https://wenfeixiang.com/2026/06/how-fifa-makes-money/) | 2026世界杯即将开始，看到一张信息图，和大家分享： 最新数据显示，2023–2026年国际足联 FIFA总收 […] |
-| 2026-06-12 | [当 AI 拿走一切之后](https://ursb.me/posts/after-ai-takes-everything/) | 最近一个月我陆续收到了三封咨询来信，来信的是三位素未谋面的软件研发，或是基础架构的前端或是数据部分的运维，但这三封信其实困惑其实是同一个问题。 第一封信问我："你觉得我们以后，全部都会交给 AI 做吗？如果是，code review 这些，还需要人吗？" 我的回答是：很快。年底或明年，最迟后年。 第… |
+| 2026-06-12 | [当 AI 拿走一切之后](https://ursb.me/posts/after-ai-takes-everything/) | 最近一个月我陆续收到了三封咨询来信，来信的是三位素未谋面的软件研发，或是基础架构的前端或是数据部分的运维，但这三封信其实困惑其实是同一个问题。 第一封信问我：“你觉得我们以后，全部都会交给 AI 做吗？如果是，code review 这些，还需要人吗？” 我的回答是：很快。年底或明年，最迟后年。 第… |
 | 2026-06-11 | [科技爱好者周刊（第 400 期）：rsync 的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html) | 这里记录每周值得分享的科技内容，周五发布。（ [通知] 下周端午假期，周刊休息。 ） 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 上海体育学院内的绿瓦书店，是上海首家体育主题书店。中庭有13米… |
 | 2026-06-11 | [2026年五月读 设计学 心理学 整理术 小说 7 本](https://conge.livingwithfcs.org/2026/06/11/reading_summary/) | 引子 引子 这个月读的书，有设计学，心理学，整理术。读来读去，感觉都是一回事儿呀。介绍设计原则的两本书，基本上就是心理学中视知觉部分的原理。而各种理论，实际上是对各种信息的筛选和整理基础上的解释和叙述。从而，从小学整理，长大爱整理的人，如果把通过整理学到的方法，用到其他方面，就是设计，就是科研。 好… |
 | 2026-06-11 | [学习周刊-总第267期-2026年第24周](https://wiki.eryajf.net/pages/22d443/) | 如要阅读全文，点击标题跳转。 学习周刊-总第267期 &#124; obsidian-tile-line-base &#124; FeedFuse &#124; DataFlow &#124; gocron &#124; ham_home &#124; wincron &#124; openilink-hub |
