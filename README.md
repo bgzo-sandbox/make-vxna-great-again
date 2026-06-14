@@ -27,10 +27,19 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-14 | [新的沉浸式翻译优惠码](https://cbvivi.today/20260614) | 沉浸式翻译有个力度挺大的 618 活动，我更新了一个优惠码，使用这个链接或者「wxg」注册即可获得折扣（并让我获得佣金）。...... READ MORE |
+| 2026-06-14 | [我的美食雷达](https://blog.solazy.me/20260614/) | 为什么我经常能发现好吃的 |
+| 2026-06-14 | [屋漏偏逢连夜雨](https://re.karlbaey.top/articles/not-my-day/) | I don’t know how to moving forward. Maybe it’s just simply … |
+| 2026-06-14 | [设计圈都有哪些知名的设计奖项？哪个含金量最高？](https://www.iyeslogo.com/designer-glorious/) | 设计师行业对奖项的认知随经验增长而变化，从关注作品到案例再到奖项。 |
+| 2026-06-14 | [记一次和懊恼的交道](https://www.hecaitou.com/2026/06/Dealing-with-Annoyance.html) | 前年我沉迷古旧的磁带随身听，自己买，朋友送，家里积攒了一堆。前几天我心血来潮翻出来玩，发现这些古代电子玩具即便是放着不动，声音也会随着时间自然劣化。我猜想那些古老的电子元件的衰变不是线性的，而是越往后衰变得越快。 发现这一点的时候，我已经有些不爽了，就像是儿童时代发现有衰老这件事存在一样。考虑到这些… |
 | 2026-06-14 | [记录一下我删除相机 SD 卡当中废片的工作流](https://hellodk.cn/post/1225) | 采用 python 脚本实现（python3）。相关说明：Linux/mac 电脑，如果你是 windows 电脑那么脚本需要稍加改造相机当中开启了拍摄的照片按照日期文件夹存储，这种功能，否则可... |
+| 2026-06-14 | [关于音乐的一些记忆](https://blog.sakoamc.com/posts/t26002/) | 感谢永远有歌把心境道破，有音乐真好！ |
+| 2026-06-14 | [WalkMate · 行咗未](https://efan404.com/products/walkmate/) | 面向香港学生的户外探索与生物多样性收集 App，走路养宠物、解锁本地物种图鉴 |
+| 2026-06-14 | [防水纸条 Soulnote](https://efan404.com/products/soulnote/) | 本地优先的情绪纸条应用，写下此刻、长按浸泡，把柔软的纸条保存在设备里 |
 | 2026-06-14 | [Memos #2026-06-13](https://www.taober.blog/memos) | 20:29 目前《绝命毒师 第五季》第六集，最喜欢 Jesse，逐渐不理解老白，最讨厌 Skyler，不解释。 不知道后面还有没有任务反转。 |
 | 2026-06-13 | [locate cost](https://blog.est.im/2026/stdin-17) | 翻到一个 AI 编程的出错提示 Could not find oldString in the file. It must match exactly, including whitespace, indentation, and line endings 我突然发现 agent coding 浪费… |
 | 2026-06-13 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.5 of the project |
+| 2026-06-13 | [低频但高质量的友谊](https://blog.solazy.me/20260613/) | 从和一个很久没联系的朋友见面说起…… |
 | 2026-06-13 | [成熟设计师的顶级自律，把书读薄，把人读厚，把心读静](https://www.iyeslogo.com/designer-and-books/) | 在这个信息爆炸的时代，设计师需要顶级自律而非张扬才华。 |
 | 2026-06-13 | [明镜荡｜上海出发一小时的宝藏湖荡露营地](https://blog.ops-coffee.com/r/city-china-jiangsu-suzhou-kunshan-mingjingdang.html) |  |
 | 2026-06-13 | [数学和阅读的用处](https://www.hecaitou.com/2026/06/What-Use-Is-Math-and-Reading.html) | 我数学不行，但还是喜欢，有点类似舔狗。以前遇到过一个问题，「毕业之后数学还有什么用」，一时间回答不了，心态崩了，有点类似舔狗无法捍卫女神而感到无力。 99% 的人不需要会解偏微分方程也可以安稳顺利幸福地度过一生，而在菜市场只需要小学三年级以下的数学尤其是心算就够了，所以我想不出什么理由来反驳。 现在… |
