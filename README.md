@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-14 | [记录一下我删除相机 SD 卡当中废片的工作流](https://hellodk.cn/post/1225) | 采用 python 脚本实现（python3）。相关说明：Linux/mac 电脑，如果你是 windows 电脑那么脚本需要稍加改造相机当中开启了拍摄的照片按照日期文件夹存储，这种功能，否则可... |
+| 2026-06-14 | [Memos #2026-06-13](https://www.taober.blog/memos) | 20:29 目前《绝命毒师 第五季》第六集，最喜欢 Jesse，逐渐不理解老白，最讨厌 Skyler，不解释。 不知道后面还有没有任务反转。 |
 | 2026-06-13 | [locate cost](https://blog.est.im/2026/stdin-17) | 翻到一个 AI 编程的出错提示 Could not find oldString in the file. It must match exactly, including whitespace, indentation, and line endings 我突然发现 agent coding 浪费… |
 | 2026-06-13 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.5 of the project |
 | 2026-06-13 | [成熟设计师的顶级自律，把书读薄，把人读厚，把心读静](https://www.iyeslogo.com/designer-and-books/) | 在这个信息爆炸的时代，设计师需要顶级自律而非张扬才华。 |
@@ -82,7 +84,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-10 | [非强制传承](https://www.hecaitou.com/2026/06/The-Art-of-Gentle-Legacy.html) | 前几天，我看到追 K-pop 偶像团体的小朋友在淘宝的 CD 碟店里提问：请问这些碟是放进 CD 机里播放吗？每个 CD 机都能播放吗？买的话配 CD 机吗？ 可以想象，就算是此刻，就算是在我这里，读者群也会分为两个部分。一部分年龄稍长的读者看了会笑出声来，而另一部分年龄较小的读者则是满头雾水，不能… |
 | 2026-06-10 | [为什么法律作为复仇工具时必然会失效？](https://mobius.blog/24590.html) | 最近重庆发生了一件事，大致是一个长期虐狗的人被曝光身份后，一些爱狗人士上门堵截对方，希望通过这种方式引起警方的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-10 | [烟花](https://elmtran.com/essays/fireworks/) | 那场未燃尽的烟花 |
-| 2026-06-10 | [Memos #2026-06-09](https://www.taober.blog/memos) | 00:30 前段时间经常梦到回到高中参加高考，意识中却保留着我已经工作几年了的记忆。 就很不明白为什么给我安排这样的梦，让我完全没有高中的紧迫感，尽管高中时也没咋紧迫。 最近真的还挺无聊的，一样的东西刷来刷去，没啥刺激的，这周一定写一篇周记，总结总结最近的心情。 |
 | 2026-06-10 | [动态](https://www.aowugong.top/posts/blog-2000-01-05/) | https://cdn.aowugong.top/gh/howie110/obsidianimg/cdnimg/springupdates.jpg |
 | 2026-06-09 | [2026年 激战2 常用网站和工具 #Guild wars 2](https://anotherdayu.com/guild-wars-2/) | 激战2 已是发布十年以上的老游戏，一些流行的工具慢慢停止维护和更新。 本文总结了 2026 年国际服仍可用且好用的相关网站，会定期维护更新。 部分资料为英文，可使用 Chrome 浏览器插件 沉浸式翻译 中英对照阅读。YouTube 视频也可用其生成中文字幕。 网站 Guild wars 2 wik… |
 | 2026-06-09 | [What is an AI Native Data System](https://victor42.eth.limo/post-en/ai-native-data-system/) | I am a power user of Excel and Google Sheets, relying on them heavily to manage both work and life . Later, I migrated some of my heavier data managem… |
@@ -139,17 +140,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-07 | [我把博客开源了：一个把终端搬进浏览器的技术博客](https://gptkit.eth.limo/E125D1C3-7404-418F-8F54-42A295ACC2CA/) | 仓库地址： github.com/terryso/hack-buffer 线上地址： blog.suchuanyi.dev 先说结论：这不是一个「深色主题」博客 很多人做「终端风」，就是在白色博客上换成深色背景加个等宽字体，完了。这个博客不是这样做的。 打开 blog.suchuanyi.dev ，… |
 | 2026-06-07 | [遛狗这件小事](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/06/07/the-small-matter-of-walking-a-dog-in-australia.md.html) | 在澳洲住久了，有些事情是慢慢才意识到不一样的。 比如狗。 澳洲人养狗的比例不低，走在住宅区的街道上，时不时就能看到有人牵着一只金毛或者边牧悠悠地散步。 但奇怪的是，你几乎不会看到狗狗停下来，对着电线杆或者路边的树干”盖章”，就是那种在其他地方很常见的画面，狗抬起一条腿，很认真地在某个角落撒尿标记。… |
 | 2026-06-07 | [2026年第23周：碎碎念与记梦几则](https://blog.sakoamc.com/posts/2623/) | 题记：在极度的无聊与迷茫中，用不停对话来抵抗焦虑。高考的朋友们加油！ |
-| 2026-06-06 | [大陆用户开美国期货账户，我会先选 AMP Futures](https://blog.forecho.com/open-us-futures-broker-from-china.html) | 引言 最近在研究美国期货账户，主要看了两个券商： AMP Futures 和 Optimus Futures 。 我的判断很直接： 先开 AMP，Optimus 先放观察位 。 AMP 的开户资料更多，中文圈用的人也更多，Mac 用户可以直接接 TradingView。Optimus 官方支持海外用… |
-| 2026-06-06 | [Kali Linux尝试破解WIFI密码](https://blog.wo0ow.com/38512.html) | 参考博客 特别声明：仅供个人学习、安防演练使用，培养网络安全意识，并无恶意用途！ <h |
-| 2026-06-06 | [29 岁的自白：不必「三十而立」](https://www.pseudoyu.com/posts/yearly_review_29) | 前言 现在是 2026 年 6 月 6 日，我 29 岁了。 不必「三十而立」 似乎早就已经过了零点蹲祝福期待生日这一天到来的阶段了，很平常地在加班，快要睡前一看表，原来已经过了零点了，毫无波澜地踏入了最后一个“2”开头的年纪。 起来后学姐准备的气球、蛋糕以及刚好捡到的一张单向历都提醒着自己已经 2… |
-| 2026-06-06 | [WordPress 7.0 开启 AI 写作新时代：Gemini 实测与配置心得](https://www.quji.org/archives/8789?pk_campaign=feed&pk_kwd=wordpress-7-0-%25e5%25bc%2580%25e5%2590%25af-ai-%25e5%2586%2599%25e4%25bd%259c%25e6%2596%25b0%25e6%2597%25b6%25e4%25bb%25a3%25ef%25bc%259agemini-%25e5%25ae%259e%25e6%25b5%258b%25e4%25b8%258e%25e9%2585%258d%25e7%25bd%25ae%25e5%25bf%2583%25e5%25be%2597) | WordPress 7.0版本正式接入AI功能，为创作者带来全新体验。通过安装AI插件并连接Gemini等模型，用户可实现自动生成优化标题、精美封面及文章摘要。作者分享了因服务器地域限制迁移至日本后成功开启功能的经历，并感叹这些智能化工具极大地简化了发布流程，让博客创作变得更加高效便捷。 |
-| 2026-06-06 | [不抽烟，不喝酒](https://blog.solazy.me/20260606/) | 今日份随聊和烟酒有关 |
-| 2026-06-06 | [You call it Slum, we call it Home 你们叫贫民窟,我们叫家](https://www.dufengyan.com/kibera-tours/) | 内罗毕有人专门做基贝拉的贫民窟游。外人花点钱进去，看看穷长什么样，拍几张照片，走人。这种生意一直有人骂，说是消 […] |
-| 2026-06-06 | [前天在拉穆，路边有人嚼 miraa](https://www.dufengyan.com/lamu-miraa/) | 前天，6 月 4 日，我在拉穆老城瞎逛，看见路边有人在嚼恰特草。 这东西我太熟了，内罗毕满街都是 […] |
-| 2026-06-06 | [Nanocode 的设计思路和开发笔记](https://hit9.dev/post/nanocode) | 本文记录我开发的一个轻量 AI Coding Agent - Nanocode 的开发笔记. |
-| 2026-06-06 | [苹果设备屏蔽更新描述文件分享：彻底告别系统更新小红点](https://www.quji.org/archives/8786?pk_campaign=feed&pk_kwd=%25e8%258b%25b9%25e6%259e%259c%25e8%25ae%25be%25e5%25a4%2587%25e5%25b1%258f%25e8%2594%25bd%25e6%259b%25b4%25e6%2596%25b0%25e7%259a%2584%25e6%258f%258f%25e8%25bf%25b0%25e6%2596%2587%25e4%25bb%25b6%25e5%2588%2586%25e4%25ba%25ab) | BetaProfiles 网站提供专门的描述文件，旨在屏蔽苹果设备的系统更新。对于希望停留在当前版本或讨厌设置图标上小红点提醒的用户，这是极佳的解决方案。该网站近期更新了最新的 Block OTA 配置文件，能够有效阻止系统自动检测和下载更新包，让设备界面保持整洁，是强迫症用户的实用工具。 |
-| 2026-06-06 | [三本杂志](https://www.hecaitou.com/2026/06/Three-Magazines.html) | 算了一下，我就认识三位潮汕朋友。上个月末，当我听说有一家电影杂志要出一册《给阿嬷的情书》特刊时，立即就为他们三个人一人预订了一本。怕他们看到快递时以为自己遭遇诈骗，我还专门提前做了解释： 「这可能是你们潮汕电影第一次出特刊，第一次上杂志封面，第一次出电影海报，留存做个纪念吧！」 我自己作为云南人，对… |
-| 2026-06-06 | [【转载】AI 软件工程范式革命的思考](https://shansan.top/2026/06/06/ai-software-engineering-paradigm-revolution/) | 【转载】AI 软件工程范式革命的思考 |
 
 ## Vibe Coding
 
