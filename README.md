@@ -43,9 +43,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-14 | [记一次和懊恼的交道](https://www.hecaitou.com/2026/06/Dealing-with-Annoyance.html) | 前年我沉迷古旧的磁带随身听，自己买，朋友送，家里积攒了一堆。前几天我心血来潮翻出来玩，发现这些古代电子玩具即便是放着不动，声音也会随着时间自然劣化。我猜想那些古老的电子元件的衰变不是线性的，而是越往后衰变得越快。 发现这一点的时候，我已经有些不爽了，就像是儿童时代发现有衰老这件事存在一样。考虑到这些… |
 | 2026-06-14 | [记录一下我删除相机 SD 卡当中废片的工作流](https://hellodk.cn/post/1225) | 采用 python 脚本实现（python3）。相关说明：Linux/mac 电脑，如果你是 windows 电脑那么脚本需要稍加改造相机当中开启了拍摄的照片按照日期文件夹存储，这种功能，否则可... |
 | 2026-06-14 | [关于音乐的一些记忆](https://blog.sakoamc.com/posts/t26002/) | 感谢永远有歌把心境道破，有音乐真好！ |
+| 2026-06-14 | [Memos #2026-06-13](https://www.taober.blog/memos) | 20:29 目前《绝命毒师 第五季》第六集，最喜欢 Jesse，逐渐不理解老白，最讨厌 Skyler，不解释。 不知道后面还有没有任务反转。 |
 | 2026-06-14 | [WalkMate · 行咗未](https://efan404.com/products/walkmate/) | 面向香港学生的户外探索与生物多样性收集 App，走路养宠物、解锁本地物种图鉴 |
 | 2026-06-14 | [防水纸条 Soulnote](https://efan404.com/products/soulnote/) | 本地优先的情绪纸条应用，写下此刻、长按浸泡，把柔软的纸条保存在设备里 |
-| 2026-06-14 | [Memos #2026-06-13](https://www.taober.blog/memos) | 20:29 目前《绝命毒师 第五季》第六集，最喜欢 Jesse，逐渐不理解老白，最讨厌 Skyler，不解释。 不知道后面还有没有任务反转。 |
 | 2026-06-13 | [locate cost](https://blog.est.im/2026/stdin-17) | 翻到一个 AI 编程的出错提示 Could not find oldString in the file. It must match exactly, including whitespace, indentation, and line endings 我突然发现 agent coding 浪费… |
 | 2026-06-13 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.5 of the project |
 | 2026-06-13 | [低频但高质量的友谊](https://blog.solazy.me/20260613/) | 从和一个很久没联系的朋友见面说起…… |
