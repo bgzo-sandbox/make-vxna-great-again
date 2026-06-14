@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-14 | [云南系列｜Day 2 大理洱海之行（下）](https://blog.yasking.org/a/series-yunnan-travel-day2.html) | 上篇来到喜洲这边靠近洱海的酒店入住，楼下公共区可以泡茶喝。 店名 “云海望月 Stunning 独家海景美宿” 因为连住两晚，老板给升 … |
+| 2026-06-14 | [我爱B站左小将](https://sinyalee.com/blog/?p=1161) | 很多人以为我从我个人经历和光谱，会讨厌B站左小将。这其实是错的。我非常喜欢B站左小将。 很多人知道我很讨厌上一 […] |
 | 2026-06-14 | [猫鱼周刊 vol. 098 川西之行](https://ameow.xyz/archives/weekly-099) | 关于本刊 这是猫鱼周刊的第 99 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在 博客： 阿猫的博客-猫鱼周刊 RSS： 猫鱼周刊 邮件订阅： 猫鱼周刊 微信公众号： 猫兄的和谐号列车 私信： leslieleung@proton.me INIT 摄于川西，连绵的雪山真的非常适合宽画… |
 | 2026-06-14 | [从学校到公司，从上海到成都](https://veryjack.com/life/university_to_company/) | 自从换工作后，我一直处于适应新工作环境和新节奏的过程中，这消耗了我大量的精力和体力。每天回到家只想躺平，也就没有了更新博客的欲望，甚至连刷手机的想法都没有。销声匿迹两个月后，我逐渐适应了现在的工作强度和节奏，终于能在这个周末抽出一点时间，来谈谈这段时间的经历。 从学校到公司，从上海到成都 最先出现在… |
 | 2026-06-14 | [Toots 423 2026 Jun.7 - Jun.13](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260613/) | 「五月脆真神上市了！」 |
