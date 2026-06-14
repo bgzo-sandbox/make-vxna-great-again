@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-14 | [提示: 2026前端框架 不推荐新人直接学React](https://blog.knowckx.top/p/frontend-frameworks-2026-dont-start-with-react/) | 站在 2026 年看前端学习路径，我不建议新人把 React 当成第一门框架。先讲原因，再给一个更省心的入门顺序。 |
 | 2026-06-14 | [【日常碎碎念】AI取代前端？](https://7gugu.com/index.php/2026/06/15/%e3%80%90%e6%97%a5%e5%b8%b8%e7%a2%8e%e7%a2%8e%e5%bf%b5%e3%80%91ai%e5%8f%96%e4%bb%a3%e5%89%8d%e7%ab%af%ef%bc%9f/) | 临睡前看到Airing发的一篇关于读者去信，询问AI时代下就业相关的博文，我自己也有一些不吐不快的想法想要写一 … 继续阅读 “【日常碎碎念】AI取代前端？” |
 | 2026-06-14 | [一个人的生日](https://www.geedea.pro/article/birthday-alone/) | 写完这个标题我感到奇怪：除非是多胞胎，生日不就是一个人的吗？当然，我的意思是今年我过生日没有人陪，但我仍然过得很开心，甚至是我最开心的生日之一。 十八岁生日，那是在高考结束的几天后，我和我的高中同学一起过。我们去玩了剧本杀，之后一起到我家吃了火锅，之后便聚在一起聊天。我在高中一直是公开性取向的，有个… |
 | 2026-06-14 | [云南系列｜Day 2 大理洱海之行（下）](https://blog.yasking.org/a/series-yunnan-travel-day2.html) | 上篇来到喜洲这边靠近洱海的酒店入住，楼下公共区可以泡茶喝。 店名 “云海望月 Stunning 独家海景美宿” 因为连住两晚，老板给升 … |
