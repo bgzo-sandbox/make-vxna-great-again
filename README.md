@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-14 | [一个人的生日](https://www.geedea.pro/article/birthday-alone/) | 写完这个标题我感到奇怪：除非是多胞胎，生日不就是一个人的吗？当然，我的意思是今年我过生日没有人陪，但我仍然过得很开心，甚至是我最开心的生日之一。 十八岁生日，那是在高考结束的几天后，我和我的高中同学一起过。我们去玩了剧本杀，之后一起到我家吃了火锅，之后便聚在一起聊天。我在高中一直是公开性取向的，有个… |
 | 2026-06-14 | [云南系列｜Day 2 大理洱海之行（下）](https://blog.yasking.org/a/series-yunnan-travel-day2.html) | 上篇来到喜洲这边靠近洱海的酒店入住，楼下公共区可以泡茶喝。 店名 “云海望月 Stunning 独家海景美宿” 因为连住两晚，老板给升 … |
 | 2026-06-14 | [我爱B站左小将](https://sinyalee.com/blog/?p=1161) | 很多人以为我从我个人经历和光谱，会讨厌B站左小将。这其实是错的。我非常喜欢B站左小将。 很多人知道我很讨厌上一 […] |
 | 2026-06-14 | [猫鱼周刊 vol. 098 川西之行](https://ameow.xyz/archives/weekly-099) | 关于本刊 这是猫鱼周刊的第 99 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在 博客： 阿猫的博客-猫鱼周刊 RSS： 猫鱼周刊 邮件订阅： 猫鱼周刊 微信公众号： 猫兄的和谐号列车 私信： leslieleung@proton.me INIT 摄于川西，连绵的雪山真的非常适合宽画… |
