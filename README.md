@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-14 | [【日常碎碎念】AI取代前端？](https://7gugu.com/index.php/2026/06/15/%e3%80%90%e6%97%a5%e5%b8%b8%e7%a2%8e%e7%a2%8e%e5%bf%b5%e3%80%91ai%e5%8f%96%e4%bb%a3%e5%89%8d%e7%ab%af%ef%bc%9f/) | 临睡前看到Airing发的一篇关于读者去信，询问AI时代下就业相关的博文，我自己也有一些不吐不快的想法想要写一 … 继续阅读 “【日常碎碎念】AI取代前端？” |
 | 2026-06-14 | [一个人的生日](https://www.geedea.pro/article/birthday-alone/) | 写完这个标题我感到奇怪：除非是多胞胎，生日不就是一个人的吗？当然，我的意思是今年我过生日没有人陪，但我仍然过得很开心，甚至是我最开心的生日之一。 十八岁生日，那是在高考结束的几天后，我和我的高中同学一起过。我们去玩了剧本杀，之后一起到我家吃了火锅，之后便聚在一起聊天。我在高中一直是公开性取向的，有个… |
 | 2026-06-14 | [云南系列｜Day 2 大理洱海之行（下）](https://blog.yasking.org/a/series-yunnan-travel-day2.html) | 上篇来到喜洲这边靠近洱海的酒店入住，楼下公共区可以泡茶喝。 店名 “云海望月 Stunning 独家海景美宿” 因为连住两晚，老板给升 … |
 | 2026-06-14 | [我爱B站左小将](https://sinyalee.com/blog/?p=1161) | 很多人以为我从我个人经历和光谱，会讨厌B站左小将。这其实是错的。我非常喜欢B站左小将。 很多人知道我很讨厌上一 […] |
@@ -34,6 +35,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-14 | [从学校到公司，从上海到成都](https://veryjack.com/life/university_to_company/) | 自从换工作后，我一直处于适应新工作环境和新节奏的过程中，这消耗了我大量的精力和体力。每天回到家只想躺平，也就没有了更新博客的欲望，甚至连刷手机的想法都没有。销声匿迹两个月后，我逐渐适应了现在的工作强度和节奏，终于能在这个周末抽出一点时间，来谈谈这段时间的经历。 从学校到公司，从上海到成都 最先出现在… |
 | 2026-06-14 | [Toots 423 2026 Jun.7 - Jun.13](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260613/) | 「五月脆真神上市了！」 |
 | 2026-06-14 | [新的沉浸式翻译优惠码](https://cbvivi.today/20260614) | 沉浸式翻译有个力度挺大的 618 活动，我更新了一个优惠码，使用这个链接或者「wxg」注册即可获得折扣（并让我获得佣金）。...... READ MORE |
+| 2026-06-14 | [Vol.107 Claude Fable 5 引爆AI圈：最强模型降价，高端版本受限，能力分发迎来转折](https://liduos.com/weekly/the-weekly-gradient-107) | 本期内容聚焦 Claude Fable 5 与 Mythos 5 的发布，探讨最强模型大幅降价与高端版本受限背后的 AI 能力分发转折，以及推理速度、智能体工程化、上下文管理等新战场。 |
 | 2026-06-14 | [我的美食雷达](https://blog.solazy.me/20260614/) | 为什么我经常能发现好吃的 |
 | 2026-06-14 | [屋漏偏逢连夜雨](https://re.karlbaey.top/articles/not-my-day/) | I don’t know how to moving forward. Maybe it’s just simply … |
 | 2026-06-14 | [设计圈都有哪些知名的设计奖项？哪个含金量最高？](https://www.iyeslogo.com/designer-glorious/) | 设计师行业对奖项的认知随经验增长而变化，从关注作品到案例再到奖项。 |
