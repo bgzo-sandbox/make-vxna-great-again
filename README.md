@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-15 | [Zine#52 - 我们都无法成为大人](https://taxodium.ink/52.html) | Zine#52 我们都无法成为大人 🎵 彗星 - 小沢健二 Zine#51 分享了小沢健二的「天使たちのシーン」，它是電影 我们都无法成为大人 的插曲，我後來去看了。「彗星」這首也是電影中的插曲，影片的叙事回到了 2020 年，主角和曾經的友人告別，坐上了出租車，車上的广播播送著： …的確是這樣，而… |
+| 2026-06-15 | [R#106 催办的方法](https://blog.sakanano.moe/journals/random_106) | 2026.6.9 ~ 2026.6.15 |
+| 2026-06-15 | [当你觉得哪儿哪儿都不对](https://www.hecaitou.com/2026/06/when-you-feel-everything-is-wrong.html) | 昨天我在文章《 记一次和懊恼的交道 》中写了这样一句话： 「 今天这个状态肯定不对，不要和人讲话，出门也不要开车，也不要做任何重要的决定，更不要去退货重买一台，现在做什么都是错的，不如先去做点让自己开心的事。 」 这句话我认为值得单独提出来展开谈一下。 有些时候，人一大早才起床，就会觉得今天哪儿哪儿… |
 | 2026-06-15 | [用安卓模拟器开通 giffgaff eSIM 的记录](https://blog.forecho.com/open-giffgaff-esim-with-android-emulator.html) | 引言 6 月 14 日晚上，看到几条推文和一个 YouTube 教程后，我跟着折腾了一圈，最后用电脑上的安卓模拟器申请到了英国 giffgaff eSIM。 我的主力机只有一台 iPhone 16 Pro Max，双实体卡槽。一个卡槽放老号，用来收短信和接电话；另一个卡槽放宽带送的流量卡，日常上网。… |
 | 2026-06-15 | [高考之后（贰）](https://www.xiaozonglin.cn/after-gaokao-secondary/) | 西安的天逐渐热了起来，太阳大，云少，空气都是热的。相比于福建的桑拿天，貌似这里的天气比较好。前段时间没了解过我 […] 高考之后（贰） 最先出现在 林林杂语 。 |
 | 2026-06-15 | [鸭骗战争](https://mobius.blog/24643.html) | 特地让这件事多发酵了一会再来聊，是因为我也想等等是否还会有所谓的舆论“反转”，但现在的剧情已经基本尘埃落定为墙 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -35,6 +38,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-14 | [提示: 2026前端框架 不推荐新人直接学React](https://blog.knowckx.top/p/frontend-frameworks-2026-dont-start-with-react/) | 站在 2026 年看前端学习路径，我不建议新人把 React 当成第一门框架。先讲原因，再给一个更省心的入门顺序。 |
 | 2026-06-14 | [【日常碎碎念】AI取代前端？](https://7gugu.com/index.php/2026/06/15/%e3%80%90%e6%97%a5%e5%b8%b8%e7%a2%8e%e7%a2%8e%e5%bf%b5%e3%80%91ai%e5%8f%96%e4%bb%a3%e5%89%8d%e7%ab%af%ef%bc%9f/) | 临睡前看到Airing发的一篇关于读者去信，询问AI时代下就业相关的博文，我自己也有一些不吐不快的想法想要写一 … 继续阅读 “【日常碎碎念】AI取代前端？” |
 | 2026-06-14 | [一个人的生日](https://www.geedea.pro/article/birthday-alone/) | 写完这个标题我感到奇怪：除非是多胞胎，生日不就是一个人的吗？当然，我的意思是今年我过生日没有人陪，但我仍然过得很开心，甚至是我最开心的生日之一。 十八岁生日，那是在高考结束的几天后，我和我的高中同学一起过。我们去玩了剧本杀，之后一起到我家吃了火锅，之后便聚在一起聊天。我在高中一直是公开性取向的，有个… |
+| 2026-06-14 | [博客重建](http://localhost:1313/blog-rebuilt/) | （摘要）Oracle Cloud VPS 被封号💔，博客重建。 |
 | 2026-06-14 | [博客重建](https://springwood.me/blog-rebuilt/) | （摘要）Oracle Cloud VPS 被封号💔，博客重建。 |
 | 2026-06-14 | [云南系列｜Day 2 大理洱海之行（下）](https://blog.yasking.org/a/series-yunnan-travel-day2.html) | 上篇来到喜洲这边靠近洱海的酒店入住，楼下公共区可以泡茶喝。 店名 “云海望月 Stunning 独家海景美宿” 因为连住两晚，老板给升 … |
 | 2026-06-14 | [我爱B站左小将](https://sinyalee.com/blog/?p=1161) | 很多人以为我从我个人经历和光谱，会讨厌B站左小将。这其实是错的。我非常喜欢B站左小将。 很多人知道我很讨厌上一 […] |
