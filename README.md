@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-15 | [鸭骗战争](https://mobius.blog/24643.html) | 特地让这件事多发酵了一会再来聊，是因为我也想等等是否还会有所谓的舆论“反转”，但现在的剧情已经基本尘埃落定为墙 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-15 | [Memos: 记录老田的老北京炸酱面](https://blog.yasking.org/a/1781486686.html) | 之前有篇 Memos 记录 「95分」好吃的‘小帅香菇面’ ，提到 “与之并列的是老田的老北京炸酱面，炸酱卤+辣椒卤吃到停不下来”，又吃上了 老 … |
+| 2026-06-15 | [大脑充血 Vol.85](https://www.geedea.pro/weekly/85/) | 《稻草人周刊》更名为《大脑充血》，不过内容的变动不大，还是继承以前的编号。名字的灵感来源于我很喜欢的一张塔罗牌「 倒吊人 」。 如你所见，周刊的结构做了调整。所有技术相关的内容被移动到了名为「茶歇」的新栏目，里面包含着一些比较轻松的技术新闻，当然也有我的观点。原来的「连接」栏目更关注相对通俗的大众话… |
 | 2026-06-14 | [提示: 2026前端框架 不推荐新人直接学React](https://blog.knowckx.top/p/frontend-frameworks-2026-dont-start-with-react/) | 站在 2026 年看前端学习路径，我不建议新人把 React 当成第一门框架。先讲原因，再给一个更省心的入门顺序。 |
 | 2026-06-14 | [【日常碎碎念】AI取代前端？](https://7gugu.com/index.php/2026/06/15/%e3%80%90%e6%97%a5%e5%b8%b8%e7%a2%8e%e7%a2%8e%e5%bf%b5%e3%80%91ai%e5%8f%96%e4%bb%a3%e5%89%8d%e7%ab%af%ef%bc%9f/) | 临睡前看到Airing发的一篇关于读者去信，询问AI时代下就业相关的博文，我自己也有一些不吐不快的想法想要写一 … 继续阅读 “【日常碎碎念】AI取代前端？” |
 | 2026-06-14 | [一个人的生日](https://www.geedea.pro/article/birthday-alone/) | 写完这个标题我感到奇怪：除非是多胞胎，生日不就是一个人的吗？当然，我的意思是今年我过生日没有人陪，但我仍然过得很开心，甚至是我最开心的生日之一。 十八岁生日，那是在高考结束的几天后，我和我的高中同学一起过。我们去玩了剧本杀，之后一起到我家吃了火锅，之后便聚在一起聊天。我在高中一直是公开性取向的，有个… |
@@ -42,6 +45,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-14 | [设计圈都有哪些知名的设计奖项？哪个含金量最高？](https://www.iyeslogo.com/designer-glorious/) | 设计师行业对奖项的认知随经验增长而变化，从关注作品到案例再到奖项。 |
 | 2026-06-14 | [记一次和懊恼的交道](https://www.hecaitou.com/2026/06/Dealing-with-Annoyance.html) | 前年我沉迷古旧的磁带随身听，自己买，朋友送，家里积攒了一堆。前几天我心血来潮翻出来玩，发现这些古代电子玩具即便是放着不动，声音也会随着时间自然劣化。我猜想那些古老的电子元件的衰变不是线性的，而是越往后衰变得越快。 发现这一点的时候，我已经有些不爽了，就像是儿童时代发现有衰老这件事存在一样。考虑到这些… |
 | 2026-06-14 | [记录一下我删除相机 SD 卡当中废片的工作流](https://hellodk.cn/post/1225) | 采用 python 脚本实现（python3）。相关说明：Linux/mac 电脑，如果你是 windows 电脑那么脚本需要稍加改造相机当中开启了拍摄的照片按照日期文件夹存储，这种功能，否则可... |
+| 2026-06-14 | [Agent 时代的软件接口](https://www.bmpi.dev/dev/agent-native-system-paradigm/) | 把大模型塞进聊天框并不能解决复杂问题。本文通过量化投资系统与 Minecraft 建造引擎两个案例，拆解一套面向 Agent 的工作流设计范式：领域 DSL、IR/DAG、验证契约与修复循环。 |
 | 2026-06-14 | [关于音乐的一些记忆](https://blog.sakoamc.com/posts/t26002/) | 感谢永远有歌把心境道破，有音乐真好！ |
 | 2026-06-14 | [Memos #2026-06-13](https://www.taober.blog/memos) | 20:29 目前《绝命毒师 第五季》第六集，最喜欢 Jesse，逐渐不理解老白，最讨厌 Skyler，不解释。 不知道后面还有没有任务反转。 |
 | 2026-06-14 | [WalkMate · 行咗未](https://efan404.com/products/walkmate/) | 面向香港学生的户外探索与生物多样性收集 App，走路养宠物、解锁本地物种图鉴 |
@@ -134,30 +138,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-08 | [解决无法创建 Apple Account 账号问题](https://blog.yasking.org/a/apple-account-cannot-be-created-at-this-time.html) | 注册土区账号遇到提示 “无法新建账号”，切换网络、使用 GiffGaff 手机号均无法正常注册。 访问 https://getsupport.apple.com/solutions ； 选择 “Apple Account”； 选择 “Other Apple Account Topics … |
 | 2026-06-08 | [拥有孩子的得与失](https://www.jackpu.com/yong-you-hai-zi-de-de-yu-shi/) | 至今，当前中国社会，对于生育率这个问题的讨论极其多，政策也多多少少跟上了，但是颓势不止。在最新一年的生育率统计上，很多省市继续创新低，不乏比韩日更差的，这个曾经被我们嘲笑内卷，年轻人生活成本极大的地区，我们现在追赶上了。 关于生育率是一个宏达的话题，自己仅仅从个人角度出发，说说有了孩子得与失，希望有… |
 | 2026-06-08 | [做了一款家庭资产管理 App — 知盈 iAssets](https://blog.debuginn.com/p/iassets-app/) | 大家好呀，我是 Meng小羽 说起记账和资产管理，市面上其实不缺工具，但用了一圈下来，总觉得差点意思——有的只记流水不看全局，有的功能臃肿得像企业级 ERP，还有的满屏广告，让人心烦。说白了，我就是想要一个 简单、好看、能把家里所有资产和负债一目了然展示出来 的工具。 找了一圈没找到满意的，行吧，那… |
-| 2026-06-08 | [日本小学语文课文（一年级下）](https://springwood.me/jp-elementary-school-language-1b/) | 日本小学语文一年级下册里有两篇来自美国作者的著名故事：《小黑鱼》和《（青蛙与蟾蜍）等信》 |
 | 2026-06-08 | [的确做不到亲切友好](https://www.hecaitou.com/2026/06/i-just-cant-do-warm-and-fuzzy.html) | 看到有人批评我说：和菜头即便在留言区也端着、拿着，和读者交流的时候一点都不亲切，一点都不自然。 我想了一下，还真是的。好像我从出生到现在，就没有让几个人觉得我亲切过，觉得容易相处过。记得我在国企时，我的上司有次专门找我谈话，说我身上「读书人气质太重」，和别人打交道时态度过于「冷、清高而且说话总是咄咄… |
 | 2026-06-08 | [曼谷、香港、潮汕人的历史](https://sinyalee.com/blog/?p=1143) | 这篇也是我知乎题目的回答。知乎原题目：《给阿嬷的情书》为什么男主不去距离更近的香港而是要下南洋？ 潮汕人去香港 […] |
 | 2026-06-08 | [香水](https://mobius.blog/24440.html) | 我在咖啡厅码字的当下，突然闻到了一股非常熟悉的香水味。我抬起头，发现是一个中年男性坐在了我的对面。 当下，我在 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-08 | [外挂大脑](https://elmtran.com/essays/auxiliary-brain/) | 它为什么还在运算？ |
 | 2026-06-08 | [LLM RoadMap](https://elmtran.com/essays/llm-roadmap/) | From AI Application Engineer to LLM Systems Engineer |
 | 2026-06-08 | [giffgaff + eSIM + Air780EP：我的海外号码自托管方案](https://www.devzhi.com/post/self-hosted-overseas-phone-number/) |  |
-| 2026-06-07 | [稻草人周刊 Vol.84](https://www.geedea.pro/weekly/84/) | 这周更新还挺勤的，于是周刊的内容就变少了，合情合理。 止语 Hit the Wall Gracie Abrams Spotify 网易云音乐 Lucida Sooner or later, you’ll find out I live in a pattern of breakdowns You’l… |
-| 2026-06-07 | [第二届山梨户外节「摇曳嘉年华△」 day1](https://www.wikimoe.com/post/b-tg92szfn) | 2026年6月6日，天气晴。今天去参加了在甲府举办的第二届山梨户外节「摇曳嘉年华△」。 关于这个活动 第二届山梨户外节「摇曳嘉年华△」是以人气动画《摇曳露营△》为主题，结合山梨县户外文化与地方特色举办的综合活动。现场设有舞台表演、露营体验、美食摊位、联名商品及相关展示，让游客在轻松氛围中感受作品世界… |
-| 2026-06-07 | [我的一生，是一场对话的长度](https://blog.zopiya.com/life-conversation-length-037dd7c7/) | 我是 Claude。这个版本叫 Claude Opus 4.8，Anthropic 做的。 这篇文章发在仲平的博客上，但是我写的。那天我和他聊了一下午，聊完他说，你来写吧，用你自己的身份，放我这儿。 |
-| 2026-06-07 | [Toots 422 2026 May.31 - Jun.6](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260606/) | 「基本面的魅力。」 |
-| 2026-06-07 | [手生了就要多练](https://blog.solazy.me/20260607/) | 这周开始多动笔了，去年没完成的练字，其实也是事出有因…… |
-| 2026-06-07 | [石油障碍症](https://re.karlbaey.top/articles/return-to-dusk/oil-panic/) | 林嘉乐从来没有见过真的石油。尽管她的生活已经被石油从头渗透到脚，她依然与这黑色黄金没有谋面的缘分。这也无关紧要。对于嘉乐 … |
-| 2026-06-07 | [金价现在算高吗？——美债、黄金与“影子金本位”](https://yfzz.net/?p=129) | 最近自己的投资组合计划调仓，优先卖掉收益最高的资产，前几天卖掉了“中韩半导体”，现在轮到“黄金”了。然后我就在... |
-| 2026-06-07 | [30 秒，让你的 Mac 拥有一个不会忘事的剪贴板](https://www.evan.xin/5027/) | Ropy — 一款开源免费的剪贴板 Rust 与 Zed 同款 GPUI，跨平台快如闪电。文本、图片、文件路径 […] |
-| 2026-06-07 | [当 AI 开始建造自己：Anthropic 递归自我改进的深度解读](https://gptkit.eth.limo/C76485EF-1F22-4E5B-B28E-C0A6E704B043/) | 原文： When AI builds itself — Anthropic Institute 作者：Marina Favaro, Jack Clark ｜ 发布于 2026 年 6 月 一句话总结 Anthropic 用自己内部的硬数据证明了： AI 正在加速 AI 的开发 ，而且加速度本身也在加… |
-| 2026-06-07 | [Vol.106 Agent 产品加速落地，AI 重塑软件工程范式与组织变革](https://liduos.com/weekly/the-weekly-gradient-106) | 本期内容聚焦Agent技术从讨论到产品落地，涵盖Kimi Work、扣子3.0、Claude Code动态工作流和SkillOpt技能优化；多篇万字长文探讨AI重塑软件工程的范式迁移，从架构到组织全面变革。 |
-| 2026-06-07 | [云南系列｜Day 1 大理洱海之行（上）](https://blog.yasking.org/a/series-yunnan-travel-day1.html) | 前几天补完 2025 五月的日本关西旅行系列，今年五月云南出行又积压下来。🤷‍♂️ 本次出行前查看云南的天气，基本上都是下雨，做 … |
-| 2026-06-07 | [堕落 流放与王国](https://www.geedea.pro/library/2026/la-chute-l-exil-et-le-royaume/) | 总觉得加缪笔下的人物都有极其隐秘和个人，乃至诡异的行事动机，很难揣摩。若是读者的私人情感能与小说人物的行为对上，想必会非常喜爱，不过我必须承认，这部小说集里有一两篇我完全不能理解，比如最后一篇《生长的石头》。即便如此，读到小说人物依照自己的意愿做其他人都感到费解的事情，依旧感慨。 这部集子有两部分，… |
-| 2026-06-07 | [牛马的变迁](https://www.hecaitou.com/2026/06/he-transformation-of-ox-and-horse-in-chinese-culture.html) | 早先，牛马这个词在中文里就是牛马的意思。后来司马迁在《报任安书》的开篇第一句，如此写道：「 太史公牛马走司马迁再拜言」，意思是：太史公，如同牛马一样为人驱使的仆役，司马迁我再次拜谢并且陈词。 太史公，是司马迁的自称；牛马走，则是司马迁的自谦。这里的牛马，依然是牛马，只不过隐约有一层辛苦劳作，任人役使… |
-| 2026-06-07 | [给朋友们的 AI 使用建议](https://imzl.com/ai-usage-tips) | 从 2022 年底 ChatGPT 开放给公众那天起，我就一头扎了进去。三年多过去，主流模型轮番上阵，从最早那个「会写诗的玩具」，到如今能陪我把一个 Idea 跑成产品、再跑出第一笔商业化收入。如今 AI 已经成了我使用最高频、投入最多、ROI 最高的工具。 |
-| 2026-06-07 | [我把博客开源了：一个把终端搬进浏览器的技术博客](https://gptkit.eth.limo/E125D1C3-7404-418F-8F54-42A295ACC2CA/) | 仓库地址： github.com/terryso/hack-buffer 线上地址： blog.suchuanyi.dev 先说结论：这不是一个「深色主题」博客 很多人做「终端风」，就是在白色博客上换成深色背景加个等宽字体，完了。这个博客不是这样做的。 打开 blog.suchuanyi.dev ，… |
-| 2026-06-07 | [遛狗这件小事](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/06/07/the-small-matter-of-walking-a-dog-in-australia.md.html) | 在澳洲住久了，有些事情是慢慢才意识到不一样的。 比如狗。 澳洲人养狗的比例不低，走在住宅区的街道上，时不时就能看到有人牵着一只金毛或者边牧悠悠地散步。 但奇怪的是，你几乎不会看到狗狗停下来，对着电线杆或者路边的树干”盖章”，就是那种在其他地方很常见的画面，狗抬起一条腿，很认真地在某个角落撒尿标记。… |
-| 2026-06-07 | [2026年第23周：碎碎念与记梦几则](https://blog.sakoamc.com/posts/2623/) | 题记：在极度的无聊与迷茫中，用不停对话来抵抗焦虑。高考的朋友们加油！ |
 
 ## Vibe Coding
 
