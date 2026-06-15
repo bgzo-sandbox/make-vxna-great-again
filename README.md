@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-15 | [Beren 与 Lúthien 长眠处](https://anotherdayu.com/beren-and-lúthien/) | 周末 《指环王：中土对决》 玩的上头，想起托老的墓地就在附近。 第二天一早，天气还算清朗，骑车出门，二十多分钟后，到了 Wolvercote Cemetery。很安静的公墓，有大片草地、树木、低矮墓碑、小礼拜堂。 谷歌地图上专门标出了 “J.R.R. Tolkien’s Grave”。公墓内部也有指… |
 | 2026-06-15 | [Zine#52 - 我们都无法成为大人](https://taxodium.ink/52.html) | Zine#52 我们都无法成为大人 🎵 彗星 - 小沢健二 Zine#51 分享了小沢健二的「天使たちのシーン」，它是電影 我们都无法成为大人 的插曲，我後來去看了。「彗星」這首也是電影中的插曲，影片的叙事回到了 2020 年，主角和曾經的友人告別，坐上了出租車，車上的广播播送著： …的確是這樣，而… |
 | 2026-06-15 | [R#106 催办的方法](https://blog.sakanano.moe/journals/random_106) | 2026.6.9 ~ 2026.6.15 |
 | 2026-06-15 | [当你觉得哪儿哪儿都不对](https://www.hecaitou.com/2026/06/when-you-feel-everything-is-wrong.html) | 昨天我在文章《 记一次和懊恼的交道 》中写了这样一句话： 「 今天这个状态肯定不对，不要和人讲话，出门也不要开车，也不要做任何重要的决定，更不要去退货重买一台，现在做什么都是错的，不如先去做点让自己开心的事。 」 这句话我认为值得单独提出来展开谈一下。 有些时候，人一大早才起床，就会觉得今天哪儿哪儿… |
