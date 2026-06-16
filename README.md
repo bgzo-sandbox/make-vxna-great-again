@@ -29,12 +29,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | --- | --- | --- |
 | 2026-06-16 | [20260616的胡言乱语](https://www.bboy.app/2026/06/16/20260616%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-06-16 | [Random Thoughts - 20260616](https://www.bboy.app/2026/06/16/random-thoughts-20260616/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-06-16 | [工作、消费主义和新穷人](https://www.geedea.pro/library/2026/work-consumerism-and-the-new-poor/) | 一本经济和政治相关的社会科学书籍，很薄，还算易读。书从工作伦理和消费美学出发，浅析了工作、生产和消费在社会不同阶段的意义，又谈到如今穷人的处境，他们是如何被福利国家救助、被当作生产力后备军，然后又是如何被消费主义社会抛弃、被当作不合格的消费者的。看起来是对工作和消费主义的解析，不过主要的落脚点还是在… |
+| 2026-06-16 | [第一百八十万字](https://mobius.blog/24693.html) | 自从有了字数统计的插件之后，这个系列又可以恢复“每十万字一更”的栏目了，也放回了最初的分类“彭罗斯三角”里。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-16 | [猫咪友好](https://www.hecaitou.com/2026/06/Cat-Friendly.html) | 在我养猫之后，尤其是其中一只猫得了急性肾衰竭之后，鲜花和绿植的选择就锐减到有限的几项。我并没有多么喜欢玫瑰，但是玫瑰对猫咪无害，于是我家里常年只有玫瑰。 任何时令鲜花上市，在决定下单之前，我都要掏出手机来查一下：XX 对猫咪有没有毒性？很遗憾，很多时候不是有微毒，就是误食会导致呕吐。于是只能看看图片… |
 | 2026-06-16 | [zui.re 上线记：把最热两个字，变成新闻站](https://www.evan.xin/5051/) | zui.re 是我给自己做的一块信息看板。 平时会看的内容其实很散，技术、产品、热榜、论坛更新都分布在不同网站 […] |
 | 2026-06-16 | [我的吸尘器哪儿去了？](https://mobius.blog/24649.html) | 一个成年后患有 ADHD 的朋友跟我闲聊，然后我发现了一个有趣现象。他想先用吸尘器收拾家里，但是吸尘到一半时， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-16 | [极速聊 Nintendo Direct 260609](https://bluepika.life/blog/nintendo-direct-260609-quick-chat) | 简单记录一下这次 Nintendo Direct 里出现的游戏，以及直播时的一些即时感想。 |
 | 2026-06-16 | [Memos #2026-06-15](https://www.taober.blog/memos) | 15:45 今天早上 9:20 才起床，火急火燎地往公司赶，还是迟到了 10 分钟，还好不用打卡。 最近真的是睡得太晚了，加上多梦，就起床困难。 |
 | 2026-06-15 | [Beren 与 Lúthien 长眠处](https://anotherdayu.com/beren-and-lúthien/) | 周末 《指环王：中土对决》 玩的上头，想起托老的墓地就在附近。 第二天一早，天气还算清朗，骑车出门，二十多分钟后，到了 Wolvercote Cemetery。很安静的公墓，有大片草地、树木、低矮墓碑、小礼拜堂。 谷歌地图上专门标出了 “J.R.R. Tolkien’s Grave”。公墓内部也有指… |
 | 2026-06-15 | [Zine#52 - 我们都无法成为大人](https://taxodium.ink/52.html) | Zine#52 我们都无法成为大人 🎵 彗星 - 小沢健二 Zine#51 分享了小沢健二的「天使たちのシーン」，它是電影 我们都无法成为大人 的插曲，我後來去看了。「彗星」這首也是電影中的插曲，影片的叙事回到了 2020 年，主角和曾經的友人告別，坐上了出租車，車上的广播播送著： …的確是這樣，而… |
+| 2026-06-15 | [职场中的「可预期性」](https://blog.solazy.me/20260615/) | 今天说个职场上很少被提及到的一个品质 |
 | 2026-06-15 | [R#106 催办的方法](https://blog.sakanano.moe/journals/random_106) | 2026.6.9 ~ 2026.6.15 |
 | 2026-06-15 | [当你觉得哪儿哪儿都不对](https://www.hecaitou.com/2026/06/when-you-feel-everything-is-wrong.html) | 昨天我在文章《 记一次和懊恼的交道 》中写了这样一句话： 「 今天这个状态肯定不对，不要和人讲话，出门也不要开车，也不要做任何重要的决定，更不要去退货重买一台，现在做什么都是错的，不如先去做点让自己开心的事。 」 这句话我认为值得单独提出来展开谈一下。 有些时候，人一大早才起床，就会觉得今天哪儿哪儿… |
 | 2026-06-15 | [用安卓模拟器开通 giffgaff eSIM 的记录](https://blog.forecho.com/open-giffgaff-esim-with-android-emulator.html) | 引言 6 月 14 日晚上，看到几条推文和一个 YouTube 教程后，我跟着折腾了一圈，最后用电脑上的安卓模拟器申请到了英国 giffgaff eSIM。 我的主力机只有一台 iPhone 16 Pro Max，双实体卡槽。一个卡槽放老号，用来收短信和接电话；另一个卡槽放宽带送的流量卡，日常上网。… |
