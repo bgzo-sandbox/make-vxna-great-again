@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-16 | [20260616的胡言乱语](https://www.bboy.app/2026/06/16/20260616%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
+| 2026-06-16 | [Random Thoughts - 20260616](https://www.bboy.app/2026/06/16/random-thoughts-20260616/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-06-16 | [zui.re 上线记：把最热两个字，变成新闻站](https://www.evan.xin/5051/) | zui.re 是我给自己做的一块信息看板。 平时会看的内容其实很散，技术、产品、热榜、论坛更新都分布在不同网站 […] |
+| 2026-06-16 | [我的吸尘器哪儿去了？](https://mobius.blog/24649.html) | 一个成年后患有 ADHD 的朋友跟我闲聊，然后我发现了一个有趣现象。他想先用吸尘器收拾家里，但是吸尘到一半时， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-16 | [极速聊 Nintendo Direct 260609](https://bluepika.life/blog/nintendo-direct-260609-quick-chat) | 简单记录一下这次 Nintendo Direct 里出现的游戏，以及直播时的一些即时感想。 |
+| 2026-06-16 | [Memos #2026-06-15](https://www.taober.blog/memos) | 15:45 今天早上 9:20 才起床，火急火燎地往公司赶，还是迟到了 10 分钟，还好不用打卡。 最近真的是睡得太晚了，加上多梦，就起床困难。 |
 | 2026-06-15 | [Beren 与 Lúthien 长眠处](https://anotherdayu.com/beren-and-lúthien/) | 周末 《指环王：中土对决》 玩的上头，想起托老的墓地就在附近。 第二天一早，天气还算清朗，骑车出门，二十多分钟后，到了 Wolvercote Cemetery。很安静的公墓，有大片草地、树木、低矮墓碑、小礼拜堂。 谷歌地图上专门标出了 “J.R.R. Tolkien’s Grave”。公墓内部也有指… |
 | 2026-06-15 | [Zine#52 - 我们都无法成为大人](https://taxodium.ink/52.html) | Zine#52 我们都无法成为大人 🎵 彗星 - 小沢健二 Zine#51 分享了小沢健二的「天使たちのシーン」，它是電影 我们都无法成为大人 的插曲，我後來去看了。「彗星」這首也是電影中的插曲，影片的叙事回到了 2020 年，主角和曾經的友人告別，坐上了出租車，車上的广播播送著： …的確是這樣，而… |
 | 2026-06-15 | [R#106 催办的方法](https://blog.sakanano.moe/journals/random_106) | 2026.6.9 ~ 2026.6.15 |
@@ -55,7 +61,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-14 | [记录一下我删除相机 SD 卡当中废片的工作流](https://hellodk.cn/post/1225) | 采用 python 脚本实现（python3）。相关说明：Linux/mac 电脑，如果你是 windows 电脑那么脚本需要稍加改造相机当中开启了拍摄的照片按照日期文件夹存储，这种功能，否则可... |
 | 2026-06-14 | [Agent 时代的软件接口](https://www.bmpi.dev/dev/agent-native-system-paradigm/) | 把大模型塞进聊天框并不能解决复杂问题。本文通过量化投资系统与 Minecraft 建造引擎两个案例，拆解一套面向 Agent 的工作流设计范式：领域 DSL、IR/DAG、验证契约与修复循环。 |
 | 2026-06-14 | [关于音乐的一些记忆](https://blog.sakoamc.com/posts/t26002/) | 感谢永远有歌把心境道破，有音乐真好！ |
-| 2026-06-14 | [Memos #2026-06-13](https://www.taober.blog/memos) | 20:29 目前《绝命毒师 第五季》第六集，最喜欢 Jesse，逐渐不理解老白，最讨厌 Skyler，不解释。 不知道后面还有没有任务反转。 |
 | 2026-06-14 | [WalkMate · 行咗未](https://efan404.com/products/walkmate/) | 面向香港学生的户外探索与生物多样性收集 App，走路养宠物、解锁本地物种图鉴 |
 | 2026-06-14 | [防水纸条 Soulnote](https://efan404.com/products/soulnote/) | 本地优先的情绪纸条应用，写下此刻、长按浸泡，把柔软的纸条保存在设备里 |
 | 2026-06-13 | [locate cost](https://blog.est.im/2026/stdin-17) | 翻到一个 AI 编程的出错提示 Could not find oldString in the file. It must match exactly, including whitespace, indentation, and line endings 我突然发现 agent coding 浪费… |
@@ -126,32 +131,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-09 | [借不了的强硬](https://www.hecaitou.com/2026/06/you-cant-fake-toughness.html) | 当我的福报还没有降临，我每天都在网上高强度怼人。上网怼人对于我而言只是一种个人业余爱好，却因此而吸引了很多人来观赏，根据他们的说法是「看了感觉很解压」，因为在生活里「自己做不到」。 观察了那么多年，我发现生活里的确存在着一大批人，他们的心愿就是想让自己「强硬」起来，免得自己天天「受欺负」、「受委屈」… |
 | 2026-06-09 | [我的“保健品栈”](https://hangbin.blog/blog/supplement-stack-review/) | 为什么关注保健品 # 其实以前不怎么在意这些。备孕期间开始吃了不少，慢慢地便成了习惯，偶尔看到有意思的新产品，也会多花点时间了解一下。这篇就是顺手整理了一下现在在吃的东西，以及最近调研的一些新品。 |
 | 2026-06-09 | [关于人设的自证悖论](https://mobius.blog/24577.html) | 之前的内容都是提前码好的字，只是偶尔“回到当下”。今天又是在咖啡厅码字的一天，此时此刻，在我的对面坐着这样一对 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-08 | [没走那条路，但我还是上了巴岳山](https://macin.org/2026/06/08/ba-yue-shan-jian-yu/) | 写下这篇东西的时候，是2026年高考的第一天。距离我参加高考，已经过去16年了。 <img src="https://macinorg-blog.oss-cn-chengdu.aliyuncs.com/blog/ShirleyIP16IMG5905.web |
-| 2026-06-08 | [Obsidian与OpenCode的工作流](http://www.uncoverman.com/workflow-of-obsidian-and-opencode.html) | 我平时用的笔记管理软件是 Obsidian，从 2021 年到现在，已经积累里将近 3000 篇笔记，包括 Daily Note、工作日志、读书笔记、博客文章、网络摘要等。随着现在 AI 的发展，很希望能够充分地利用知识库上下文，输出针对性的结果。 最常用的一个场景是，在做项目管理的时候，要生成项目… |
-| 2026-06-08 | [DOOM 3 updated](https://macsourceports.com/game/doom3) | The build of dhewm3 for DOOM 3 has been updated to version 1.5.5 of the project |
-| 2026-06-08 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.24 of the project |
-| 2026-06-08 | [Catacomb 3-D updated](https://macsourceports.com/game/catacomb3d) | The build of ReflectionHLE for Catacomb 3-D has been updated to version release-20260606 of the project |
-| 2026-06-08 | [Catacomb Abyss updated](https://macsourceports.com/game/catacombabyss) | The build of ReflectionHLE for Catacomb Abyss has been updated to version release-20260606 of the project |
-| 2026-06-08 | [Catacomb Apocalypse updated](https://macsourceports.com/game/catacombapocalypse) | The build of ReflectionHLE for Catacomb Apocalypse has been updated to version release-20260606 of the project |
-| 2026-06-08 | [Catacomb Armageddon updated](https://macsourceports.com/game/catacombarmageddon) | The build of ReflectionHLE for Catacomb Armageddon has been updated to version release-20260606 of the project |
-| 2026-06-08 | [Super 3D Noah's Ark updated](https://macsourceports.com/game/s3dna) | The build of ReflectionHLE for Super 3D Noah's Ark has been updated to version release-20260606 of the project |
-| 2026-06-08 | [Wolfenstein 3-D updated](https://macsourceports.com/game/wolf3d) | The build of ReflectionHLE for Wolfenstein 3-D has been updated to version release-20260606 of the project |
-| 2026-06-08 | [Wolfenstein 3-D: Spear of Destiny updated](https://macsourceports.com/game/sod) | The build of ReflectionHLE for Wolfenstein 3-D: Spear of Destiny has been updated to version release-20260606 of the project |
-| 2026-06-08 | [Zine#51 - 把愛傳給「未來的自己」、優秀的網站設計原則](https://taxodium.ink/51.html) | Zine#51 把愛傳給「未來的自己」、優秀的網站設計原則 🎵 天使たちのシーン by 小沢健二 小沢健二的「天使たちのシーン」我很喜歡，小沢健二的嗓音好聴，歌曲的旋律也很棒。編曲上，一直伴隨著好聴的 bass，讓人聴著想跟著擺動身體，間奏的薩克斯、吉他超好聴，鋼琴也很棒。盡管曲子長達 13:37，… |
-| 2026-06-08 | [又到合约到期时：再次启动携号转网的考量与套餐对比](https://blog.solazy.me/20260608/) | 又到了今年的携号转网矛盾期了 |
-| 2026-06-08 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.2 of the project |
-| 2026-06-08 | [资产配置：投资中唯一的免费午餐](https://hangbin.blog/blog/asset-allocation-less-mistakes/) | 最近读 《资产配置行动指南》 ，最有感触的地方，是它把投资这件事重新拉回了日常生活。很多人一说投资，脑子里马上冒出来的是买什么、什么时候买、今年哪个市场更有机会。可真的更进一步，问题会朴素很多：我现在到底有多少资产，欠了多少债，每年能剩下多少钱，哪些钱三五年内可能要用，哪些钱可以慢慢等。 |
-| 2026-06-08 | [R#105 AI也要断舍离](https://blog.sakanano.moe/journals/random_105) | 2026.6.2 ~ 2026.6.8 |
-| 2026-06-08 | [在 Oyunfor 平台购买土耳其区 Apple 礼品卡](https://blog.yasking.org/a/apple-gift-card-turkiye.html) | 前提：已准备好土区 Apple Account 不同额度的礼品卡 首次购买，先买 500 TL 试试水 点击右侧添加付款方式，弹出页面，勾选 “I am not a Turkish … |
-| 2026-06-08 | [解决无法创建 Apple Account 账号问题](https://blog.yasking.org/a/apple-account-cannot-be-created-at-this-time.html) | 注册土区账号遇到提示 “无法新建账号”，切换网络、使用 GiffGaff 手机号均无法正常注册。 访问 https://getsupport.apple.com/solutions ； 选择 “Apple Account”； 选择 “Other Apple Account Topics … |
-| 2026-06-08 | [拥有孩子的得与失](https://www.jackpu.com/yong-you-hai-zi-de-de-yu-shi/) | 至今，当前中国社会，对于生育率这个问题的讨论极其多，政策也多多少少跟上了，但是颓势不止。在最新一年的生育率统计上，很多省市继续创新低，不乏比韩日更差的，这个曾经被我们嘲笑内卷，年轻人生活成本极大的地区，我们现在追赶上了。 关于生育率是一个宏达的话题，自己仅仅从个人角度出发，说说有了孩子得与失，希望有… |
-| 2026-06-08 | [做了一款家庭资产管理 App — 知盈 iAssets](https://blog.debuginn.com/p/iassets-app/) | 大家好呀，我是 Meng小羽 说起记账和资产管理，市面上其实不缺工具，但用了一圈下来，总觉得差点意思——有的只记流水不看全局，有的功能臃肿得像企业级 ERP，还有的满屏广告，让人心烦。说白了，我就是想要一个 简单、好看、能把家里所有资产和负债一目了然展示出来 的工具。 找了一圈没找到满意的，行吧，那… |
-| 2026-06-08 | [的确做不到亲切友好](https://www.hecaitou.com/2026/06/i-just-cant-do-warm-and-fuzzy.html) | 看到有人批评我说：和菜头即便在留言区也端着、拿着，和读者交流的时候一点都不亲切，一点都不自然。 我想了一下，还真是的。好像我从出生到现在，就没有让几个人觉得我亲切过，觉得容易相处过。记得我在国企时，我的上司有次专门找我谈话，说我身上「读书人气质太重」，和别人打交道时态度过于「冷、清高而且说话总是咄咄… |
-| 2026-06-08 | [曼谷、香港、潮汕人的历史](https://sinyalee.com/blog/?p=1143) | 这篇也是我知乎题目的回答。知乎原题目：《给阿嬷的情书》为什么男主不去距离更近的香港而是要下南洋？ 潮汕人去香港 […] |
-| 2026-06-08 | [香水](https://mobius.blog/24440.html) | 我在咖啡厅码字的当下，突然闻到了一股非常熟悉的香水味。我抬起头，发现是一个中年男性坐在了我的对面。 当下，我在 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-08 | [外挂大脑](https://elmtran.com/essays/auxiliary-brain/) | 它为什么还在运算？ |
-| 2026-06-08 | [LLM RoadMap](https://elmtran.com/essays/llm-roadmap/) | From AI Application Engineer to LLM Systems Engineer |
-| 2026-06-08 | [giffgaff + eSIM + Air780EP：我的海外号码自托管方案](https://www.devzhi.com/post/self-hosted-overseas-phone-number/) |  |
 
 ## Vibe Coding
 
