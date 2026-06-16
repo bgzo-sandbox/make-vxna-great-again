@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-16 | [孩子来美国留学，什么阶段送出来是最好的？](https://diff.im/blog/2026/06/%E5%AD%A9%E5%AD%90%E6%9D%A5%E7%BE%8E%E5%9B%BD%E7%95%99%E5%AD%A6%E4%BB%80%E4%B9%88%E9%98%B6%E6%AE%B5%E9%80%81%E5%87%BA%E6%9D%A5%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84/) | 有很多朋友问我：让孩子来美国留学，什么阶段送出来是最好的？ 我的答案很简单， 判断标准只有一个：留学结束之后，你是打算让孩子留在美国，还是打算让孩子回去？ 如果你的孩子以后打算留在美国生活，那么其实是越早越好。我个人会把八九岁当成一个比较保守的经验线。 这不是说十岁以后就一定不行，而是说，如果目标是… |
+| 2026-06-16 | [半年过去了，我和 AI Coding 的关系有什么变化？](https://www.ixiqin.com/2026/06/16/half-a-year-has-passed-what-changes-have-occurred-in-my/) | 作者回顾了半年来使用AI编程的发展，指出使用量显著增长。一个关键变化是发现并依赖VibeKanban进行多任务 […] |
 | 2026-06-16 | [2026 欧洲之旅：坐大巴](https://www.ixiqin.com/2026/06/16/2026-european-tour-by-bus/) | 欧洲游和美国旅行有一点不同的是，我的欧洲游跨越了国境线，一次性游览了两个国家。不同的国家使得自驾游欧洲这件事带 […] |
 | 2026-06-16 | [掌控节奏](https://lomus.cc/archives/787) | 今天来讲讲「节奏」对我的重要性，这个节奏指的倒不是音乐里的节奏，而是存在于我工作生活里的隐形框架。 其实这是一 […] 掌控节奏 最先出现在 Lumos's Blog 。 |
 | 2026-06-16 | [20260616的胡言乱语](https://www.bboy.app/2026/06/16/20260616%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
