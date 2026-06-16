@@ -1,5 +1,19 @@
 [
   {
+    "title": "2026 欧洲之旅：坐大巴",
+    "url": "https://www.ixiqin.com/2026/06/16/2026-european-tour-by-bus/",
+    "date": "2026-06-16T12:44:15Z",
+    "description": "欧洲游和美国旅行有一点不同的是，我的欧洲游跨越了国境线，一次性游览了两个国家。不同的国家使得自驾游欧洲这件事带 […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "掌控节奏",
+    "url": "https://lomus.cc/archives/787",
+    "date": "2026-06-16T12:16:07Z",
+    "description": "今天来讲讲「节奏」对我的重要性，这个节奏指的倒不是音乐里的节奏，而是存在于我工作生活里的隐形框架。 其实这是一 […] 掌控节奏 最先出现在 Lumos's Blog 。",
+    "source_root_domain": "lomus.cc"
+  },
+  {
     "title": "20260616的胡言乱语",
     "url": "https://www.bboy.app/2026/06/16/20260616%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
     "date": "2026-06-16T09:55:00Z",
@@ -12,6 +26,20 @@
     "date": "2026-06-16T09:55:00Z",
     "description": "Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com/bboysoulcn",
     "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "Rethinking Attention: Polynomial Alternatives to Softmax in Transformers",
+    "url": "https://mer.run/posts/rethinking-attention-polynomial-alternatives-to-softmax-in-transformers/",
+    "date": "2026-06-16T08:45:00Z",
+    "description": "作者认为softmax有效是因为它将Attention矩阵的Frobenius范数控制在了O(sqrt(N))量级，从而稳定了训练，因此提出用多项式激活代替softmax、在期望意义上实现相似的范数控制。理论推完发现这文章没中，ICLR2026得分2222，一下子就不想看下去了。感觉实验和理论都不是很好。",
+    "source_root_domain": "mer.dev"
+  },
+  {
+    "title": "密语系统崩溃恢复记录",
+    "url": "https://blog.wo0ow.com/4851.html",
+    "date": "2026-06-16T08:38:02Z",
+    "description": "解决docker容器的密算应用启动故障问题",
+    "source_root_domain": "wo0ow.com"
   },
   {
     "title": "工作、消费主义和新穷人",
@@ -66,8 +94,15 @@
     "title": "Beren 与 Lúthien 长眠处",
     "url": "https://anotherdayu.com/beren-and-lúthien/",
     "date": "2026-06-15T18:59:00Z",
-    "description": "周末 《指环王：中土对决》 玩的上头，想起托老的墓地就在附近。 第二天一早，天气还算清朗，骑车出门，二十多分钟后，到了 Wolvercote Cemetery。很安静的公墓，有大片草地、树木、低矮墓碑、小礼拜堂。 谷歌地图上专门标出了 “J.R.R. Tolkien’s Grave”。公墓内部也有指引牌，很顺利的找到了墓碑。 墓碑上除了本名和生卒年份，还刻有 Beren 与 Lúthien。Beren 对应 Tolkien，Lúthien 则对应 Edith（他的爱人）。 Beren 与 Lúthien 是 《精灵宝钻》中最核心的爱情故事之一。 Tolkien 在写给儿子 Christopher 的信中提到：Edith 曾在约克郡的一片草地上为他跳舞；而在他的故事里，Beren 与 Lúthien 也在类似的场景中相遇。 Lúthien 为爱放弃永生，选择与 Beren 共享凡人的命运。她的选择让精灵哀伤，却也让他们的爱情成为中土世界中关于希望、牺牲与超越死亡的永恒传说。 后来又去了 Exeter College。 Tolkien 年轻时曾在这里读书。喜欢学院墙壁上蔓延的藤蔓。",
+    "description": "周末 《指环王：中土对决》 玩的上头，想起托老的墓地就在附近。 第二天一早，天气还算清朗，骑车出门，二十多分钟后，到了 Wolvercote Cemetery。很安静的公墓，有大片草地、树木、低矮墓碑、小礼拜堂。 谷歌地图上专门标出了 「J.R.R. Tolkien’s Grave」，内部也有指引牌，沿着小路很顺利的找到了。 墓碑上除了本名和生卒年份，还刻有 Beren 与 Lúthien。 Beren 与 Lúthien 是 《精灵宝钻》中最核心的爱情故事之一。 Tolkien 在写给儿子 Christopher 的信中提到：Edith 曾在约克郡的一片草地上为他跳舞；而在他的故事里，Beren 与 Lúthien 也在类似的场景中相遇。 Beren 对应 Tolkien，Lúthien 则对应 Edith（他的爱人）。 Lúthien 为爱放弃永生，选择与 Beren 共享凡人的命运。她的选择让精灵哀伤，却也让他们的爱情成为中土世界中关于希望、牺牲与超越死亡的永恒传说。 后来又去了 Exeter College。 Tolkien 年轻时曾在这里读书。喜欢学院墙壁上蔓延的藤蔓。 写到",
     "source_root_domain": "anotherdayu.com"
+  },
+  {
+    "title": "wolai MCP",
+    "url": "https://elmagnifico.tech/2026/06/16/Wolai-MCP/",
+    "date": "2026-06-15T16:00:00Z",
+    "description": "Foreword wolai这几年被阿里收购以后，马锐拉似乎就不在台前了，更新节奏也从「一天一更」退化成了「一年一更（大概）」。我们刚用 wolai 那会儿正好是他还在的时候；后来他去阿里当副总裁搞 AI，我们提的意见就跟进了漂流瓶——能漂到对岸算缘分。更新说明文档一两年没认真维护，新出的 MCP 也不宣发，偷偷地，跟地下接头似的，还得自己打听才知道有这玩意儿。 前一段时间贼火的《置身钉内》，我也啃完了——7.5 万字，三易其稿，读完感觉自己也在 C6 项目室吸了两口霉味空气。马锐拉在相关文章里说过自己早已辞职；我这边则是刚把 wolai MCP 接进 Cursor 试了一圈，配置顺手记一下，踩坑也顺手记一下。 wolai MCP 开启wolai MCP 首先创建好MCP的Token，一次性展示，需要保存一下 在Cursor或者AI软件中设置MCP, mcp.json ，这里Token如上填写即可 { \"mcpServers\" : { \"mcp-server-chart\" : { \"command\" : \"npx\" , \"args\" : [ \"-y\" , \"@antv/mcp-serv",
+    "source_root_domain": "elmagnifico.tech"
   },
   {
     "title": "Zine#52 - 我们都无法成为大人",
@@ -131,6 +166,13 @@
     "date": "2026-06-15T00:28:26Z",
     "description": "《稻草人周刊》更名为《大脑充血》，不过内容的变动不大，还是继承以前的编号。名字的灵感来源于我很喜欢的一张塔罗牌「 倒吊人 」。 如你所见，周刊的结构做了调整。所有技术相关的内容被移动到了名为「茶歇」的新栏目，里面包含着一些比较轻松的技术新闻，当然也有我的观点。原来的「连接」栏目更关注相对通俗的大众话题，也涉及人文社科。 原本只有一些零碎信息的「切片」栏目代替了我的社交媒体发帖，我按照时间顺序列出了我以前会发送到社交媒体上的内容。有些东西我其实仅仅是希望表达出来，不一定要立刻收到回应。周刊当成一个缓冲区，每周发布一次这些碎片内容，可以减少我对社交媒体的依赖。 另外，你可能知道，我这周屏蔽了 Matrix 和 Fediverse 的消息，以后很长一段时间都会这样。我想我可能只会每周或者每两周看一次那边的消息。如果需要联系，请给我发电子邮件。 止语 you seem pretty sad for a girl so in love 专辑 Olivia Rodrigo Spotify NeoDB Lucida I’m a zombie in my body, I’m a train off o",
     "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "2026 欧洲之旅：资产安全",
+    "url": "https://www.ixiqin.com/2026/06/15/2026-european-tour-asset-security/",
+    "date": "2026-06-14T19:49:25Z",
+    "description": "作者在前往法国前，为防范盗窃准备了多种资产安全物品。这些物品包括用于固定行李的自行车锁、带TSA锁的行李加固带 […]",
+    "source_root_domain": "ixiqin.com"
   },
   {
     "title": "提示: 2026前端框架 不推荐新人直接学React",

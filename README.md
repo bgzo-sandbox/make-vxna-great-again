@@ -27,8 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-16 | [2026 欧洲之旅：坐大巴](https://www.ixiqin.com/2026/06/16/2026-european-tour-by-bus/) | 欧洲游和美国旅行有一点不同的是，我的欧洲游跨越了国境线，一次性游览了两个国家。不同的国家使得自驾游欧洲这件事带 […] |
+| 2026-06-16 | [掌控节奏](https://lomus.cc/archives/787) | 今天来讲讲「节奏」对我的重要性，这个节奏指的倒不是音乐里的节奏，而是存在于我工作生活里的隐形框架。 其实这是一 […] 掌控节奏 最先出现在 Lumos's Blog 。 |
 | 2026-06-16 | [20260616的胡言乱语](https://www.bboy.app/2026/06/16/20260616%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-06-16 | [Random Thoughts - 20260616](https://www.bboy.app/2026/06/16/random-thoughts-20260616/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-06-16 | [Rethinking Attention: Polynomial Alternatives to Softmax in Transformers](https://mer.run/posts/rethinking-attention-polynomial-alternatives-to-softmax-in-transformers/) | 作者认为softmax有效是因为它将Attention矩阵的Frobenius范数控制在了O(sqrt(N))量级，从而稳定了训练，因此提出用多项式激活代替softmax、在期望意义上实现相似的范数控制。理论推完发现这文章没中，ICLR2026得分2222，一下子就不想看下去了。感觉实验和理论都不是… |
+| 2026-06-16 | [密语系统崩溃恢复记录](https://blog.wo0ow.com/4851.html) | 解决docker容器的密算应用启动故障问题 |
 | 2026-06-16 | [工作、消费主义和新穷人](https://www.geedea.pro/library/2026/work-consumerism-and-the-new-poor/) | 一本经济和政治相关的社会科学书籍，很薄，还算易读。书从工作伦理和消费美学出发，浅析了工作、生产和消费在社会不同阶段的意义，又谈到如今穷人的处境，他们是如何被福利国家救助、被当作生产力后备军，然后又是如何被消费主义社会抛弃、被当作不合格的消费者的。看起来是对工作和消费主义的解析，不过主要的落脚点还是在… |
 | 2026-06-16 | [第一百八十万字](https://mobius.blog/24693.html) | 自从有了字数统计的插件之后，这个系列又可以恢复“每十万字一更”的栏目了，也放回了最初的分类“彭罗斯三角”里。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-16 | [猫咪友好](https://www.hecaitou.com/2026/06/Cat-Friendly.html) | 在我养猫之后，尤其是其中一只猫得了急性肾衰竭之后，鲜花和绿植的选择就锐减到有限的几项。我并没有多么喜欢玫瑰，但是玫瑰对猫咪无害，于是我家里常年只有玫瑰。 任何时令鲜花上市，在决定下单之前，我都要掏出手机来查一下：XX 对猫咪有没有毒性？很遗憾，很多时候不是有微毒，就是误食会导致呕吐。于是只能看看图片… |
@@ -36,7 +40,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-16 | [我的吸尘器哪儿去了？](https://mobius.blog/24649.html) | 一个成年后患有 ADHD 的朋友跟我闲聊，然后我发现了一个有趣现象。他想先用吸尘器收拾家里，但是吸尘到一半时， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-16 | [极速聊 Nintendo Direct 260609](https://bluepika.life/blog/nintendo-direct-260609-quick-chat) | 简单记录一下这次 Nintendo Direct 里出现的游戏，以及直播时的一些即时感想。 |
 | 2026-06-16 | [Memos #2026-06-15](https://www.taober.blog/memos) | 15:45 今天早上 9:20 才起床，火急火燎地往公司赶，还是迟到了 10 分钟，还好不用打卡。 最近真的是睡得太晚了，加上多梦，就起床困难。 |
-| 2026-06-15 | [Beren 与 Lúthien 长眠处](https://anotherdayu.com/beren-and-lúthien/) | 周末 《指环王：中土对决》 玩的上头，想起托老的墓地就在附近。 第二天一早，天气还算清朗，骑车出门，二十多分钟后，到了 Wolvercote Cemetery。很安静的公墓，有大片草地、树木、低矮墓碑、小礼拜堂。 谷歌地图上专门标出了 “J.R.R. Tolkien’s Grave”。公墓内部也有指… |
+| 2026-06-15 | [Beren 与 Lúthien 长眠处](https://anotherdayu.com/beren-and-lúthien/) | 周末 《指环王：中土对决》 玩的上头，想起托老的墓地就在附近。 第二天一早，天气还算清朗，骑车出门，二十多分钟后，到了 Wolvercote Cemetery。很安静的公墓，有大片草地、树木、低矮墓碑、小礼拜堂。 谷歌地图上专门标出了 「J.R.R. Tolkien’s Grave」，内部也有指引牌… |
+| 2026-06-15 | [wolai MCP](https://elmagnifico.tech/2026/06/16/Wolai-MCP/) | Foreword wolai这几年被阿里收购以后，马锐拉似乎就不在台前了，更新节奏也从「一天一更」退化成了「一年一更（大概）」。我们刚用 wolai 那会儿正好是他还在的时候；后来他去阿里当副总裁搞 AI，我们提的意见就跟进了漂流瓶——能漂到对岸算缘分。更新说明文档一两年没认真维护，新出的 MCP… |
 | 2026-06-15 | [Zine#52 - 我们都无法成为大人](https://taxodium.ink/52.html) | Zine#52 我们都无法成为大人 🎵 彗星 - 小沢健二 Zine#51 分享了小沢健二的「天使たちのシーン」，它是電影 我们都无法成为大人 的插曲，我後來去看了。「彗星」這首也是電影中的插曲，影片的叙事回到了 2020 年，主角和曾經的友人告別，坐上了出租車，車上的广播播送著： …的確是這樣，而… |
 | 2026-06-15 | [职场中的「可预期性」](https://blog.solazy.me/20260615/) | 今天说个职场上很少被提及到的一个品质 |
 | 2026-06-15 | [R#106 催办的方法](https://blog.sakanano.moe/journals/random_106) | 2026.6.9 ~ 2026.6.15 |
@@ -46,6 +51,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-15 | [鸭骗战争](https://mobius.blog/24643.html) | 特地让这件事多发酵了一会再来聊，是因为我也想等等是否还会有所谓的舆论“反转”，但现在的剧情已经基本尘埃落定为墙 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-15 | [Memos: 记录老田的老北京炸酱面](https://blog.yasking.org/a/1781486686.html) | 之前有篇 Memos 记录 「95分」好吃的‘小帅香菇面’ ，提到 “与之并列的是老田的老北京炸酱面，炸酱卤+辣椒卤吃到停不下来”，又吃上了 老 … |
 | 2026-06-15 | [大脑充血 Vol.85](https://www.geedea.pro/weekly/85/) | 《稻草人周刊》更名为《大脑充血》，不过内容的变动不大，还是继承以前的编号。名字的灵感来源于我很喜欢的一张塔罗牌「 倒吊人 」。 如你所见，周刊的结构做了调整。所有技术相关的内容被移动到了名为「茶歇」的新栏目，里面包含着一些比较轻松的技术新闻，当然也有我的观点。原来的「连接」栏目更关注相对通俗的大众话… |
+| 2026-06-14 | [2026 欧洲之旅：资产安全](https://www.ixiqin.com/2026/06/15/2026-european-tour-asset-security/) | 作者在前往法国前，为防范盗窃准备了多种资产安全物品。这些物品包括用于固定行李的自行车锁、带TSA锁的行李加固带 […] |
 | 2026-06-14 | [提示: 2026前端框架 不推荐新人直接学React](https://blog.knowckx.top/p/frontend-frameworks-2026-dont-start-with-react/) | 站在 2026 年看前端学习路径，我不建议新人把 React 当成第一门框架。先讲原因，再给一个更省心的入门顺序。 |
 | 2026-06-14 | [【日常碎碎念】AI取代前端？](https://7gugu.com/index.php/2026/06/15/%e3%80%90%e6%97%a5%e5%b8%b8%e7%a2%8e%e7%a2%8e%e5%bf%b5%e3%80%91ai%e5%8f%96%e4%bb%a3%e5%89%8d%e7%ab%af%ef%bc%9f/) | 临睡前看到Airing发的一篇关于读者去信，询问AI时代下就业相关的博文，我自己也有一些不吐不快的想法想要写一 … 继续阅读 “【日常碎碎念】AI取代前端？” |
 | 2026-06-14 | [一个人的生日](https://www.geedea.pro/article/birthday-alone/) | 写完这个标题我感到奇怪：除非是多胞胎，生日不就是一个人的吗？当然，我的意思是今年我过生日没有人陪，但我仍然过得很开心，甚至是我最开心的生日之一。 十八岁生日，那是在高考结束的几天后，我和我的高中同学一起过。我们去玩了剧本杀，之后一起到我家吃了火锅，之后便聚在一起聊天。我在高中一直是公开性取向的，有个… |
