@@ -7,6 +7,13 @@
     "source_root_domain": "7gugu.com"
   },
   {
+    "title": "对口型视频合成方案对比：Wav2Lip、VideoReTalking 与 MuseTalk",
+    "url": "https://liudon.com/posts/lip-sync-video-synthesis-comparison/",
+    "date": "2026-06-17T07:45:03Z",
+    "description": "对比 Wav2Lip、VideoReTalking 和 MuseTalk 三种开源对口型视频合成方案，从安装难度、合成效果、推理速度、画质表现和适用场景等角度进行分析。",
+    "source_root_domain": "liudon.com"
+  },
+  {
     "title": "分享一些 Zen 瀏覧器好用的功能 - Boost 自定義頁面樣式、Live Folder",
     "url": "https://taxodium.ink/share-some-zen-browser-useful-features-boost-and-live-folder.html",
     "date": "2026-06-17T07:35:00Z",
@@ -89,6 +96,13 @@
     "date": "2026-06-17T00:58:52Z",
     "description": "UniGetUI 是一款为 Windows 提供图形界面的包管理器聚合工具。它整合了 Winget、Scoop […]",
     "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "小鱼",
+    "url": "https://elmtran.com/essays/yu/",
+    "date": "2026-06-17T00:00:00Z",
+    "description": "被风拂过的夏天",
+    "source_root_domain": "elmtran.com"
   },
   {
     "title": "Star Wars Jedi Knight II: Jedi Outcast updated",

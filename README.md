@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-06-17 | [小米摄像头4 4K版接入Homekit分享](https://7gugu.com/index.php/2026/06/17/%e5%b0%8f%e7%b1%b3%e6%91%84%e5%83%8f%e5%a4%b44-4k%e7%89%88%e6%8e%a5%e5%85%a5homekit%e5%88%86%e4%ba%ab/) | 搬新家之后，买了个小米摄像头做门口的监控。最近闲下来了，刚好绿联也做了HomeAssistant的一些适配，就 … 继续阅读 “小米摄像头4 4K版接入Homekit分享” |
+| 2026-06-17 | [对口型视频合成方案对比：Wav2Lip、VideoReTalking 与 MuseTalk](https://liudon.com/posts/lip-sync-video-synthesis-comparison/) | 对比 Wav2Lip、VideoReTalking 和 MuseTalk 三种开源对口型视频合成方案，从安装难度、合成效果、推理速度、画质表现和适用场景等角度进行分析。 |
 | 2026-06-17 | [分享一些 Zen 瀏覧器好用的功能 - Boost 自定義頁面樣式、Live Folder](https://taxodium.ink/share-some-zen-browser-useful-features-boost-and-live-folder.html) | 分享一些 Zen 瀏覧器好用的功能 Boost 自定義頁面樣式、Live Folder 在 日常#8 - Zen 浏览器、白描、博客图片压缩脚本 我分享過一些 Zen 的功能，最近 Zen 又更新了一些不錯的功能，再分享一下。 Boost 图1 Zen 瀏覧器 Boost 功能截圖 Boost 可以… |
 | 2026-06-17 | [“日本人在世界杯作秀”这个结论是如何被制造出来的？](https://mobius.blog/24729.html) | 既然是世界杯，莫比乌斯就聊一些看上去和世界杯有关、却与足球毫无关系的事。 这一次，日本又“作秀”了。 跟《如何 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-17 | [Linux 服务器翻墙](https://blog.lhasa.icu/posts/technology/2026-06-17-mihomo/) | 实现 Linux 服务器翻墙，解决 Miniflux 无法订阅 YouTube 和部分墙外博客的问题 |
@@ -40,6 +41,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-17 | [Win常用命令](https://blog.wo0ow.com/36272.html) | 查询端口占用并关闭程序 <a href="https://blog.csdn.net/Anm |
 | 2026-06-17 | [ADHD 究竟是疾病还是一种“标签”？](https://mobius.blog/24656.html) | 接着《我的吸尘器哪儿去了？》展开的话题继续。 打开小红书，搜索 ADHD，你会发现进入 2026 年，这不再是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-17 | [UniGetUI —— 可能是 Windows 下最好用的应用商店](https://www.ixiqin.com/2026/06/17/unigetui-may-be-the-best-app-store-for-windows/) | UniGetUI 是一款为 Windows 提供图形界面的包管理器聚合工具。它整合了 Winget、Scoop […] |
+| 2026-06-17 | [小鱼](https://elmtran.com/essays/yu/) | 被风拂过的夏天 |
 | 2026-06-16 | [Star Wars Jedi Knight II: Jedi Outcast updated](https://macsourceports.com/game/swjk2) | The build of OpenJO (OpenJK Project, Single Player) for Star Wars Jedi Knight II: Jedi Outcast has been updated to the latest code of the project |
 | 2026-06-16 | [Star Wars Jedi Knight: Jedi Academy updated](https://macsourceports.com/game/swjkja) | The build of OpenJK (Single Player) for Star Wars Jedi Knight: Jedi Academy has been updated to the latest code of the project |
 | 2026-06-16 | [孩子来美国留学，什么阶段送出来是最好的？](https://diff.im/blog/2026/06/%E5%AD%A9%E5%AD%90%E6%9D%A5%E7%BE%8E%E5%9B%BD%E7%95%99%E5%AD%A6%E4%BB%80%E4%B9%88%E9%98%B6%E6%AE%B5%E9%80%81%E5%87%BA%E6%9D%A5%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84/) | 有很多朋友问我：让孩子来美国留学，什么阶段送出来是最好的？ 我的答案很简单， 判断标准只有一个：留学结束之后，你是打算让孩子留在美国，还是打算让孩子回去？ 如果你的孩子以后打算留在美国生活，那么其实是越早越好。我个人会把八九岁当成一个比较保守的经验线。 这不是说十岁以后就一定不行，而是说，如果目标是… |
