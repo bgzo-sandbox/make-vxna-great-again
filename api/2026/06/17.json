@@ -1,5 +1,19 @@
 [
   {
+    "title": "Give Your Camera Real GPS: A No-Internet Hardware Fix with furble",
+    "url": "https://missuo.me/posts/camera-gps-furble/",
+    "date": "2026-06-17T14:30:00Z",
+    "description": "Most cameras still ship without a GPS module, so photos come out of the card with no location data in their EXIF. The official phone apps are supposed to sync coordinates over Bluetooth, but for shoot-as-you-walk travel they fall apart: the BLE link drops when the camera sleeps, it rarely reconnects in time, and the background app gets killed by the OS. This post walks through everything I tried — Garmin GPX backfilling, low-power tracking apps, and my own Koko app built on the reverse-engineere",
+    "source_root_domain": "missuo.me"
+  },
+  {
+    "title": "The Right Way to Use WebArena Indigo",
+    "url": "https://missuo.me/posts/webarena-indigo-ipv6-gre/",
+    "date": "2026-06-17T12:00:00Z",
+    "description": "WebArena Indigo is a cheap, good-value Japanese VPS that makes a great landing node. But if you front it with a relay and push traffic over a GRE tunnel like I did, GRE over IPv4 gets rate-limited the moment you run a speed test — the connection collapses right after the first burst. This post walks through what I tried (realm public forwarding, IPv4 GRE, IPv6 GRE) and how I ruled out snell, MTU, DNS and the qdisc one by one, landing on the conclusion that only GRE over IPv6 (ip6gre) reliably es",
+    "source_root_domain": "missuo.me"
+  },
+  {
     "title": "小米摄像头4 4K版接入Homekit分享",
     "url": "https://7gugu.com/index.php/2026/06/17/%e5%b0%8f%e7%b1%b3%e6%91%84%e5%83%8f%e5%a4%b44-4k%e7%89%88%e6%8e%a5%e5%85%a5homekit%e5%88%86%e4%ba%ab/",
     "date": "2026-06-17T08:29:27Z",

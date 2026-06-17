@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-17 | [Give Your Camera Real GPS: A No-Internet Hardware Fix with furble](https://missuo.me/posts/camera-gps-furble/) | Most cameras still ship without a GPS module, so photos come out of the card with no location data in their EXIF. The official phone apps are supposed… |
+| 2026-06-17 | [The Right Way to Use WebArena Indigo](https://missuo.me/posts/webarena-indigo-ipv6-gre/) | WebArena Indigo is a cheap, good-value Japanese VPS that makes a great landing node. But if you front it with a relay and push traffic over a GRE tunn… |
 | 2026-06-17 | [小米摄像头4 4K版接入Homekit分享](https://7gugu.com/index.php/2026/06/17/%e5%b0%8f%e7%b1%b3%e6%91%84%e5%83%8f%e5%a4%b44-4k%e7%89%88%e6%8e%a5%e5%85%a5homekit%e5%88%86%e4%ba%ab/) | 搬新家之后，买了个小米摄像头做门口的监控。最近闲下来了，刚好绿联也做了HomeAssistant的一些适配，就 … 继续阅读 “小米摄像头4 4K版接入Homekit分享” |
 | 2026-06-17 | [对口型视频合成方案对比：Wav2Lip、VideoReTalking 与 MuseTalk](https://liudon.com/posts/lip-sync-video-synthesis-comparison/) | 对比 Wav2Lip、VideoReTalking 和 MuseTalk 三种开源对口型视频合成方案，从安装难度、合成效果、推理速度、画质表现和适用场景等角度进行分析。 |
 | 2026-06-17 | [分享一些 Zen 瀏覧器好用的功能 - Boost 自定義頁面樣式、Live Folder](https://taxodium.ink/share-some-zen-browser-useful-features-boost-and-live-folder.html) | 分享一些 Zen 瀏覧器好用的功能 Boost 自定義頁面樣式、Live Folder 在 日常#8 - Zen 浏览器、白描、博客图片压缩脚本 我分享過一些 Zen 的功能，最近 Zen 又更新了一些不錯的功能，再分享一下。 Boost 图1 Zen 瀏覧器 Boost 功能截圖 Boost 可以… |
