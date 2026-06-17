@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-17 | [CCometixLine 安装使用配置](https://199604.com/3585) | CCometixLine 安装使用配置 项目地址：https://github.com/Haleclipse/ […] |
+| 2026-06-17 | [City Pop 从入门到精通](https://www.hecaitou.com/2026/06/city-pop-beginner-to-expert.html) | City Pop 这种怀旧曲风已经流行了一段时间，我自己是从去年开始接触，然后就掉进了坑里，家里现在堆满了相关磁带和 CD，流媒体播放器里也收藏了各种歌单---反正 City Pop 又没有非常清晰的定义，每个人都可以建立自己的歌单，然后往里面塞进自己认为对味的歌曲。 为什么是 City Pop？因… |
+| 2026-06-17 | [ADHD 究竟是疾病还是一种“标签”？](https://mobius.blog/24656.html) | 接着《我的吸尘器哪儿去了？》展开的话题继续。 打开小红书，搜索 ADHD，你会发现进入 2026 年，这不再是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-17 | [UniGetUI —— 可能是 Windows 下最好用的应用商店](https://www.ixiqin.com/2026/06/17/unigetui-may-be-the-best-app-store-for-windows/) | UniGetUI 是一款为 Windows 提供图形界面的包管理器聚合工具。它整合了 Winget、Scoop […] |
+| 2026-06-16 | [Star Wars Jedi Knight II: Jedi Outcast updated](https://macsourceports.com/game/swjk2) | The build of OpenJO (OpenJK Project, Single Player) for Star Wars Jedi Knight II: Jedi Outcast has been updated to the latest code of the project |
+| 2026-06-16 | [Star Wars Jedi Knight: Jedi Academy updated](https://macsourceports.com/game/swjkja) | The build of OpenJK (Single Player) for Star Wars Jedi Knight: Jedi Academy has been updated to the latest code of the project |
 | 2026-06-16 | [孩子来美国留学，什么阶段送出来是最好的？](https://diff.im/blog/2026/06/%E5%AD%A9%E5%AD%90%E6%9D%A5%E7%BE%8E%E5%9B%BD%E7%95%99%E5%AD%A6%E4%BB%80%E4%B9%88%E9%98%B6%E6%AE%B5%E9%80%81%E5%87%BA%E6%9D%A5%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84/) | 有很多朋友问我：让孩子来美国留学，什么阶段送出来是最好的？ 我的答案很简单， 判断标准只有一个：留学结束之后，你是打算让孩子留在美国，还是打算让孩子回去？ 如果你的孩子以后打算留在美国生活，那么其实是越早越好。我个人会把八九岁当成一个比较保守的经验线。 这不是说十岁以后就一定不行，而是说，如果目标是… |
 | 2026-06-16 | [半年过去了，我和 AI Coding 的关系有什么变化？](https://www.ixiqin.com/2026/06/16/half-a-year-has-passed-what-changes-have-occurred-in-my/) | 作者回顾了半年来使用AI编程的发展，指出使用量显著增长。一个关键变化是发现并依赖VibeKanban进行多任务 […] |
 | 2026-06-16 | [2026 欧洲之旅：坐大巴](https://www.ixiqin.com/2026/06/16/2026-european-tour-by-bus/) | 欧洲游和美国旅行有一点不同的是，我的欧洲游跨越了国境线，一次性游览了两个国家。不同的国家使得自驾游欧洲这件事带 […] |
@@ -131,18 +137,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-10 | [非强制传承](https://www.hecaitou.com/2026/06/The-Art-of-Gentle-Legacy.html) | 前几天，我看到追 K-pop 偶像团体的小朋友在淘宝的 CD 碟店里提问：请问这些碟是放进 CD 机里播放吗？每个 CD 机都能播放吗？买的话配 CD 机吗？ 可以想象，就算是此刻，就算是在我这里，读者群也会分为两个部分。一部分年龄稍长的读者看了会笑出声来，而另一部分年龄较小的读者则是满头雾水，不能… |
 | 2026-06-10 | [为什么法律作为复仇工具时必然会失效？](https://mobius.blog/24590.html) | 最近重庆发生了一件事，大致是一个长期虐狗的人被曝光身份后，一些爱狗人士上门堵截对方，希望通过这种方式引起警方的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-10 | [烟花](https://elmtran.com/essays/fireworks/) | 那场未燃尽的烟花 |
-| 2026-06-10 | [动态](https://www.aowugong.top/posts/blog-2000-01-05/) | https://cdn.aowugong.top/gh/howie110/obsidianimg/cdnimg/springupdates.jpg |
-| 2026-06-09 | [2026年 激战2 常用网站和工具 #Guild wars 2](https://anotherdayu.com/guild-wars-2/) | 激战2 已是发布十年以上的老游戏，一些流行的工具慢慢停止维护和更新。 本文总结了 2026 年国际服仍可用且好用的相关网站，会定期维护更新。 部分资料为英文，可使用 Chrome 浏览器插件 沉浸式翻译 中英对照阅读。YouTube 视频也可用其生成中文字幕。 网站 Guild wars 2 wik… |
-| 2026-06-09 | [What is an AI Native Data System](https://victor42.eth.limo/post-en/ai-native-data-system/) | I am a power user of Excel and Google Sheets, relying on them heavily to manage both work and life . Later, I migrated some of my heavier data managem… |
-| 2026-06-09 | [什么是AI原生的数据系统？](https://victor42.eth.limo/post/ai-native-data-system/) | 我Excel/Google Sheets用得很溜， 大量用它们管理工作和生活 。 后来，我曾经把一部分较重的数据管理任务迁移到飞书多维表这样的产品里。这类东西长得很像Excel，但本质上是完全不同的东西，是可视化数据库。它们比Excel有着严格得多的数据规范，限制灵活性的同时，释放了数据库天然带来的… |
-| 2026-06-09 | [基于万形做的一些小玩意儿](https://blog.zopiya.com/wanxing-tools-73e886c7/) | 把自己的审美沉淀成一套工具之后，又做了更多开发，也尝试做了一个 MVP，但后续发现所有的想法和功能几乎与 Claude Design 完全重叠，认为继续做下去的意义不大了，就放弃了。 |
-| 2026-06-09 | [关于自律](https://blog.solazy.me/20260609/) | 你看到的这篇文章是我对于今天的不甘心 |
-| 2026-06-09 | [第一次去看陶喆演唱会](https://www.tortorse.com/archives/tao-zhe-soul-power-ii-nanjing-concert/) | 2024 年 7 月，我终于去看了一场陶喆演唱会。 |
-| 2026-06-09 | [AI 博客问题挑战](https://kaix.in/2026/0609/) | 我订阅的几个博客都参与了这个问答，我也来参与参与。 How was your first experience with AI models? Do you use AI or are you completely against using it? Do you have any preferen… |
-| 2026-06-09 | [full circle.](https://www.justzht.com/full-circle/) | 开完发布会了，和国内来的开发者朋友们吃了个饭，然后回到家，想说给父母打个电话好了，告诉他们今年我 又讲 |
-| 2026-06-09 | [借不了的强硬](https://www.hecaitou.com/2026/06/you-cant-fake-toughness.html) | 当我的福报还没有降临，我每天都在网上高强度怼人。上网怼人对于我而言只是一种个人业余爱好，却因此而吸引了很多人来观赏，根据他们的说法是「看了感觉很解压」，因为在生活里「自己做不到」。 观察了那么多年，我发现生活里的确存在着一大批人，他们的心愿就是想让自己「强硬」起来，免得自己天天「受欺负」、「受委屈」… |
-| 2026-06-09 | [我的“保健品栈”](https://hangbin.blog/blog/supplement-stack-review/) | 为什么关注保健品 # 其实以前不怎么在意这些。备孕期间开始吃了不少，慢慢地便成了习惯，偶尔看到有意思的新产品，也会多花点时间了解一下。这篇就是顺手整理了一下现在在吃的东西，以及最近调研的一些新品。 |
-| 2026-06-09 | [关于人设的自证悖论](https://mobius.blog/24577.html) | 之前的内容都是提前码好的字，只是偶尔“回到当下”。今天又是在咖啡厅码字的一天，此时此刻，在我的对面坐着这样一对 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
