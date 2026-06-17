@@ -27,14 +27,24 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-17 | [小米摄像头4 4K版接入Homekit分享](https://7gugu.com/index.php/2026/06/17/%e5%b0%8f%e7%b1%b3%e6%91%84%e5%83%8f%e5%a4%b44-4k%e7%89%88%e6%8e%a5%e5%85%a5homekit%e5%88%86%e4%ba%ab/) | 搬新家之后，买了个小米摄像头做门口的监控。最近闲下来了，刚好绿联也做了HomeAssistant的一些适配，就 … 继续阅读 “小米摄像头4 4K版接入Homekit分享” |
+| 2026-06-17 | [分享一些 Zen 瀏覧器好用的功能 - Boost 自定義頁面樣式、Live Folder](https://taxodium.ink/share-some-zen-browser-useful-features-boost-and-live-folder.html) | 分享一些 Zen 瀏覧器好用的功能 Boost 自定義頁面樣式、Live Folder 在 日常#8 - Zen 浏览器、白描、博客图片压缩脚本 我分享過一些 Zen 的功能，最近 Zen 又更新了一些不錯的功能，再分享一下。 Boost 图1 Zen 瀏覧器 Boost 功能截圖 Boost 可以… |
+| 2026-06-17 | [“日本人在世界杯作秀”这个结论是如何被制造出来的？](https://mobius.blog/24729.html) | 既然是世界杯，莫比乌斯就聊一些看上去和世界杯有关、却与足球毫无关系的事。 这一次，日本又“作秀”了。 跟《如何 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-17 | [Linux 服务器翻墙](https://blog.lhasa.icu/posts/technology/2026-06-17-mihomo/) | 实现 Linux 服务器翻墙，解决 Miniflux 无法订阅 YouTube 和部分墙外博客的问题 |
+| 2026-06-17 | [订阅新姿势](https://blog.lhasa.icu/posts/technology/2026-06-17-miniflux/) | 前几天逛网站发现一个自建订阅器：Miniflux v2... |
+| 2026-06-17 | [2026.06.17 14:21](https://kaix.in/2026/0617/) | 向 AI 模型提问：地球上曾经生活过多少人？动画闪烁，三秒钟之后，模型回应：地球上大约生活过 1170 亿人。模型很快。而且，我们甚至都无法确切知道模型反馈过程的每个瞬间，到底完成了哪些具体事务。分词、嵌入、多层注意力……上千亿个参数，到底如何影响着输出结果？ 在漫长的时间长河里，人类经历的、感怀的… |
+| 2026-06-17 | [ZUI.RE：一个域名的非典型归宿，以及我对”看新闻”这件事的重新理解](https://www.evan.xin/5054/) | zui.re（最热） 这个域名在我手里搁了挺久。 本来是想卖掉的。短域名、双拼好记，总觉得会有人要。挂了一段时 […] |
+| 2026-06-17 | [4S店靠啥赚钱](https://hux.ink/posts/4s-business-model/) | 我直觉中认为 4S 店主要是靠售后保养和事故理赔维修养活。 正好近期两次体验——一次事故出险、一次常规保养，更印证了这个想法。 上个月末去坝光赶海回来，在小区停车场与一辆对向来车狭路相逢，我为了让她先走，主动向后倒了一段距离，等间距宽了一些再换前进档，方向盘往右多打了一丢丢，结果“啪”的一声，把旁边… |
 | 2026-06-17 | [CCometixLine 安装使用配置](https://199604.com/3585) | CCometixLine 安装使用配置 项目地址：https://github.com/Haleclipse/ […] |
 | 2026-06-17 | [City Pop 从入门到精通](https://www.hecaitou.com/2026/06/city-pop-beginner-to-expert.html) | City Pop 这种怀旧曲风已经流行了一段时间，我自己是从去年开始接触，然后就掉进了坑里，家里现在堆满了相关磁带和 CD，流媒体播放器里也收藏了各种歌单---反正 City Pop 又没有非常清晰的定义，每个人都可以建立自己的歌单，然后往里面塞进自己认为对味的歌曲。 为什么是 City Pop？因… |
+| 2026-06-17 | [Win常用命令](https://blog.wo0ow.com/36272.html) | 查询端口占用并关闭程序 <a href="https://blog.csdn.net/Anm |
 | 2026-06-17 | [ADHD 究竟是疾病还是一种“标签”？](https://mobius.blog/24656.html) | 接着《我的吸尘器哪儿去了？》展开的话题继续。 打开小红书，搜索 ADHD，你会发现进入 2026 年，这不再是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-17 | [UniGetUI —— 可能是 Windows 下最好用的应用商店](https://www.ixiqin.com/2026/06/17/unigetui-may-be-the-best-app-store-for-windows/) | UniGetUI 是一款为 Windows 提供图形界面的包管理器聚合工具。它整合了 Winget、Scoop […] |
 | 2026-06-16 | [Star Wars Jedi Knight II: Jedi Outcast updated](https://macsourceports.com/game/swjk2) | The build of OpenJO (OpenJK Project, Single Player) for Star Wars Jedi Knight II: Jedi Outcast has been updated to the latest code of the project |
 | 2026-06-16 | [Star Wars Jedi Knight: Jedi Academy updated](https://macsourceports.com/game/swjkja) | The build of OpenJK (Single Player) for Star Wars Jedi Knight: Jedi Academy has been updated to the latest code of the project |
 | 2026-06-16 | [孩子来美国留学，什么阶段送出来是最好的？](https://diff.im/blog/2026/06/%E5%AD%A9%E5%AD%90%E6%9D%A5%E7%BE%8E%E5%9B%BD%E7%95%99%E5%AD%A6%E4%BB%80%E4%B9%88%E9%98%B6%E6%AE%B5%E9%80%81%E5%87%BA%E6%9D%A5%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84/) | 有很多朋友问我：让孩子来美国留学，什么阶段送出来是最好的？ 我的答案很简单， 判断标准只有一个：留学结束之后，你是打算让孩子留在美国，还是打算让孩子回去？ 如果你的孩子以后打算留在美国生活，那么其实是越早越好。我个人会把八九岁当成一个比较保守的经验线。 这不是说十岁以后就一定不行，而是说，如果目标是… |
 | 2026-06-16 | [半年过去了，我和 AI Coding 的关系有什么变化？](https://www.ixiqin.com/2026/06/16/half-a-year-has-passed-what-changes-have-occurred-in-my/) | 作者回顾了半年来使用AI编程的发展，指出使用量显著增长。一个关键变化是发现并依赖VibeKanban进行多任务 […] |
+| 2026-06-16 | [Snow——为内容创作者和开发者打造的轻量级静态站点生成器](https://honmaple.me/articles/2026/06/snow-intro.html) | 如果你想搭建一个博客、技术文档站、项目主页，或者一个可以长期维护的内容网站，你可能已经尝试过许多静态站点生成器。它们功能强大，但有时也意味着复杂的依赖、繁琐的配置和不够直观的扩展方式。 Snow 提供了另一种选择：一个用 Go 编写的、单二进制分发的静态站点生成器。它足够轻量，也足够灵活，适合从个人… |
 | 2026-06-16 | [2026 欧洲之旅：坐大巴](https://www.ixiqin.com/2026/06/16/2026-european-tour-by-bus/) | 欧洲游和美国旅行有一点不同的是，我的欧洲游跨越了国境线，一次性游览了两个国家。不同的国家使得自驾游欧洲这件事带 […] |
 | 2026-06-16 | [掌控节奏](https://lomus.cc/archives/787) | 今天来讲讲「节奏」对我的重要性，这个节奏指的倒不是音乐里的节奏，而是存在于我工作生活里的隐形框架。 其实这是一 […] 掌控节奏 最先出现在 Lumos's Blog 。 |
 | 2026-06-16 | [20260616的胡言乱语](https://www.bboy.app/2026/06/16/20260616%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
