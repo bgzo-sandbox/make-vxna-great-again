@@ -1,5 +1,19 @@
 [
   {
+    "title": "MECHREVO WUJIE14 PRO on Linux 声卡完整修复历程",
+    "url": "https://hellodk.cn/post/1226",
+    "date": "2026-06-18T08:46:00Z",
+    "description": "为了解决我的机械革命无界 14 pro 笔记本在 linux debian testing(forky) 下的自带麦克风、自带扬声器、插入 3.5mm 耳机这三个场景下，对应硬件都能正常工作的问...",
+    "source_root_domain": "hellodk.cn"
+  },
+  {
+    "title": "什么是Skill，它能迸发出什么能力",
+    "url": "https://deepzz.com/post/what-is-ai-skil.html",
+    "date": "2026-06-18T06:46:00Z",
+    "description": "1、什么是 Skill Skill（技能）本质上是 一份写给 AI 的”专业说明书” 。它用 Markdown 把某个领域的知识、流程、规范、可复用的脚本打包起来，让 AI 在遇到对应任务时，能像一个专家一样按既定方法去做事。 可以用一句话概括： Skill = 触发条件（什么时候用） + 操作指南（具体怎么做） + 配套资源（脚本、模板、参考）。 graph TD Skill((Skill 技能包)) Skill --> Trigger[触发条件 何时调用 ] Skill --> Guide[操作指南 具体怎么做 ] Skill --> Assets[配套资源 脚本/模板/参考 ] Trigger -.-> |元信息| Meta[Name / Description] Guide -.-> |执行逻辑| Logic[步骤 / 原则 / 纪律] Assets -.-> |外挂工具| Tools[代码 / 文件示例] classDef default fill:#f9f9f9,stroke:#333,stroke-width:1px; classDef core fill:#e1f5fe",
+    "source_root_domain": "deepzz.com"
+  },
+  {
     "title": "New Release: Quetoo",
     "url": "https://macsourceports.com/game/quetoo",
     "date": "2026-06-18T05:48:24Z",

@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-18 | [MECHREVO WUJIE14 PRO on Linux 声卡完整修复历程](https://hellodk.cn/post/1226) | 为了解决我的机械革命无界 14 pro 笔记本在 linux debian testing(forky) 下的自带麦克风、自带扬声器、插入 3.5mm 耳机这三个场景下，对应硬件都能正常工作的问... |
+| 2026-06-18 | [什么是Skill，它能迸发出什么能力](https://deepzz.com/post/what-is-ai-skil.html) | 1、什么是 Skill Skill（技能）本质上是 一份写给 AI 的”专业说明书” 。它用 Markdown 把某个领域的知识、流程、规范、可复用的脚本打包起来，让 AI 在遇到对应任务时，能像一个专家一样按既定方法去做事。 可以用一句话概括： Skill = 触发条件（什么时候用） + 操作指南… |
 | 2026-06-18 | [New Release: Quetoo](https://macsourceports.com/game/quetoo) | So this is interesting, I just stumbled on this randomly a few weeks back right after it was released, although it was apparently in the works for twe… |
 | 2026-06-18 | [New Release: Clockwiser](https://macsourceports.com/game/clockwiser) | Also an Amiga game from Team Hoi, Clockwiser at first appears to be a standard issue match-3 game, but the twist is not something I've seen before. Yo… |
 | 2026-06-18 | [New Release: Hoi](https://macsourceports.com/game/hoi) | Another game where you can tell it's an Amiga game just by looking at it, Hoi hails from the era when developers were filling in the gaps, as well as… |
