@@ -7,6 +7,13 @@
     "source_root_domain": "eryajf.net"
   },
   {
+    "title": "如何写出高质量的 Skill",
+    "url": "https://deepzz.com/post/how-to-write-high-quality-skills.html",
+    "date": "2026-06-18T15:53:40Z",
+    "description": "写出一个 Skill 很容易，但写出一个 高质量、稳定、可复用 的 Skill 却需要一些方法论。高质量的 Skill 就像是给 AI 制定的一套 SOP（标准作业程序），它不仅能防错，还能让 AI 的表现超出预期。 第一部分：核心心法（写好 Skill 的五大原则） 1. 精准的「触发器」设计 (Description) AI 拥有成百上千个技能，如何确保它在正确的时机调用正确的技能？关键在于元信息（YAML Header）中的 description 。 反面教材： description: 帮我写代码。 (太宽泛，随时都可能触发，干扰其他技能) 高质量示范： description: 当用户明确要求使用 React/TypeScript 编写前端组件，且需要包含单元测试时触发。 graph LR A[\"用户模糊意图\"] --> B{\"描述匹配引擎\"} B -->|\"高精准度\"| C[\"精确触发目标 Skill\"] B -->|\"低精准度\"| D[\"误触发 / 混用多个 Skill\"] style C stroke:#4caf50,stroke-width:2px style D ",
+    "source_root_domain": "deepzz.com"
+  },
+  {
     "title": "端午流水账 0618",
     "url": "https://blog.solazy.me/20260618/",
     "date": "2026-06-18T15:00:00Z",
