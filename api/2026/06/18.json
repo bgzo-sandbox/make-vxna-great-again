@@ -1,0 +1,261 @@
+[
+  {
+    "title": "越来越多的 ADHD 是现代社交媒体制造的吗？",
+    "url": "https://mobius.blog/24661.html",
+    "date": "2026-06-18T01:00:00Z",
+    "description": "接着《我的吸尘器哪儿去了？》引发的话题。今天来聊聊一个被越来越多人讨论的话题：现代人的 ADHD 是社交媒体制 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Give Your Camera Real GPS: A No-Internet Hardware Fix with furble",
+    "url": "https://missuo.me/posts/camera-gps-furble/",
+    "date": "2026-06-17T14:30:00Z",
+    "description": "Most cameras still ship without a GPS module, so photos come out of the card with no location data in their EXIF. The official phone apps are supposed to sync coordinates over Bluetooth, but for shoot-as-you-walk travel they fall apart: the BLE link drops when the camera sleeps, it rarely reconnects in time, and the background app gets killed by the OS. This post walks through everything I tried — Garmin GPX backfilling, low-power tracking apps, and my own Koko app built on the reverse-engineere",
+    "source_root_domain": "missuo.me"
+  },
+  {
+    "title": "The Right Way to Use WebArena Indigo",
+    "url": "https://missuo.me/posts/webarena-indigo-ipv6-gre/",
+    "date": "2026-06-17T12:00:00Z",
+    "description": "WebArena Indigo is a cheap, good-value Japanese VPS that makes a great landing node. But if you front it with a relay and push traffic over a GRE tunnel like I did, GRE over IPv4 gets rate-limited the moment you run a speed test — the connection collapses right after the first burst. This post walks through what I tried (realm public forwarding, IPv4 GRE, IPv6 GRE) and how I ruled out snell, MTU, DNS and the qdisc one by one, landing on the conclusion that only GRE over IPv6 (ip6gre) reliably es",
+    "source_root_domain": "missuo.me"
+  },
+  {
+    "title": "Linux下安装Nvm工具.md",
+    "url": "https://blog.wo0ow.com/17417.html",
+    "date": "2026-06-17T09:07:24Z",
+    "description": "nvm-GitHub官方发布地址",
+    "source_root_domain": "wo0ow.com"
+  },
+  {
+    "title": "小米摄像头4 4K版接入Homekit分享",
+    "url": "https://7gugu.com/index.php/2026/06/17/%e5%b0%8f%e7%b1%b3%e6%91%84%e5%83%8f%e5%a4%b44-4k%e7%89%88%e6%8e%a5%e5%85%a5homekit%e5%88%86%e4%ba%ab/",
+    "date": "2026-06-17T08:29:27Z",
+    "description": "搬新家之后，买了个小米摄像头做门口的监控。最近闲下来了，刚好绿联也做了HomeAssistant的一些适配，就 … 继续阅读 “小米摄像头4 4K版接入Homekit分享”",
+    "source_root_domain": "7gugu.com"
+  },
+  {
+    "title": "2026 年对口型视频合成方案对比：Wav2Lip、VideoReTalking 与 MuseTalk 实测",
+    "url": "https://liudon.com/posts/lip-sync-video-synthesis-comparison/",
+    "date": "2026-06-17T07:45:03Z",
+    "description": "实测对比 Wav2Lip、VideoReTalking 和 MuseTalk 三种对口型视频合成方案，分析部署难度、推理速度、画面质量和适用场景。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "分享一些 Zen 瀏覧器好用的功能 - Boost 自定義頁面樣式、Live Folder",
+    "url": "https://taxodium.ink/share-some-zen-browser-useful-features-boost-and-live-folder.html",
+    "date": "2026-06-17T07:35:00Z",
+    "description": "分享一些 Zen 瀏覧器好用的功能 Boost 自定義頁面樣式、Live Folder 在 日常#8 - Zen 浏览器、白描、博客图片压缩脚本 我分享過一些 Zen 的功能，最近 Zen 又更新了一些不錯的功能，再分享一下。 Boost 图1 Zen 瀏覧器 Boost 功能截圖 Boost 可以用於調整頁面樣式，例如切換明暗主題、調整對比度、切換字體、調整字體大小、刪除頁面元素等，它是針對域名生效的。 對我來說最常用的是切換明暗主題，我不喜歡暗色主題，黑底白字有些刺眼，有的網站也不提供切換按鈕，我就可以用 Boost 切換一下再閱讀。 給頁要添加一個主題切換功能 如果你是網站作者，建議為讀者提供一個明暗主題的切換功能，以適應不同讀者的閱讀習慣。 See also: Zine#49::Browsers Should Have a Native Control for Per-Site Color Scheme by Tyler Gaw 给博客添加 dark mode Boost 里的 Zap 功能可以用來移除任意元素，有時用來移除一些頁面广告，可以讓頁面更干净，更容易専注於文字內容。",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "“日本人在世界杯作秀”这个结论是如何被制造出来的？",
+    "url": "https://mobius.blog/24729.html",
+    "date": "2026-06-17T07:00:00Z",
+    "description": "既然是世界杯，莫比乌斯就聊一些看上去和世界杯有关、却与足球毫无关系的事。 这一次，日本又“作秀”了。 跟《如何 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Linux 服务器翻墙",
+    "url": "https://blog.lhasa.icu/posts/technology/2026-06-17-mihomo/",
+    "date": "2026-06-17T06:38:00Z",
+    "description": "实现 Linux 服务器翻墙，解决 Miniflux 无法订阅 YouTube 和部分墙外博客的问题",
+    "source_root_domain": "lhasa.icu"
+  },
+  {
+    "title": "订阅新姿势",
+    "url": "https://blog.lhasa.icu/posts/technology/2026-06-17-miniflux/",
+    "date": "2026-06-17T06:37:00Z",
+    "description": "前几天逛网站发现一个自建订阅器：Miniflux v2...",
+    "source_root_domain": "lhasa.icu"
+  },
+  {
+    "title": "2026.06.17 14:21",
+    "url": "https://kaix.in/2026/0617/",
+    "date": "2026-06-17T06:21:24Z",
+    "description": "向 AI 模型提问：地球上曾经生活过多少人？动画闪烁，三秒钟之后，模型回应：地球上大约生活过 1170 亿人。模型很快。而且，我们甚至都无法确切知道模型反馈过程的每个瞬间，到底完成了哪些具体事务。分词、嵌入、多层注意力……上千亿个参数，到底如何影响着输出结果？ 在漫长的时间长河里，人类经历的、感怀的、各种思想和肉体的碰撞、随机性、必然性……意义，我想，每个个体永远都无法知其全貌。这一切——对人类来说是碌碌终其一生——或许在更高维度的生命眼里，伴随着动画闪烁，只过去了三秒钟。然后蹦出一行字：本模型参数总量为 1170 亿。 fin. 激赏 ！ 来信 。",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "ZUI.RE：一个域名的非典型归宿，以及我对”看新闻”这件事的重新理解",
+    "url": "https://www.evan.xin/5054/",
+    "date": "2026-06-17T06:04:37Z",
+    "description": "zui.re（最热） 这个域名在我手里搁了挺久。 本来是想卖掉的。短域名、双拼好记，总觉得会有人要。挂了一段时 […]",
+    "source_root_domain": "evan.xin"
+  },
+  {
+    "title": "4S店靠啥赚钱",
+    "url": "https://hux.ink/posts/4s-business-model/",
+    "date": "2026-06-17T03:54:00Z",
+    "description": "我直觉中认为 4S 店主要是靠售后保养和事故理赔维修养活。 正好近期两次体验——一次事故出险、一次常规保养，更印证了这个想法。 上个月末去坝光赶海回来，在小区停车场与一辆对向来车狭路相逢，我为了让她先走，主动向后倒了一段距离，等间距宽了一些再换前进档，方向盘往右多打了一丢丢，结果“啪”的一声，把旁边停着的一辆宝马给“干摘牌”了——车牌直接整块掉在地上。 当时在车里听到动静，心里咯噔一下，一边下车一边嘟囔：为了让别人，把自己害惨了。打开手电筒一照，虚惊一场。对方车牌掉在地上，掉落时顺带刮蹭了前杠一条漆；我自己的车，也就右前门下方蹭掉了指甲盖大小的车衣。问题不大，找车主电话联系。绕宝马车走了一圈，没发现车主留下联系方式。于是只能打管理处电话，说明来意。管理处一听是宝马被撞，语气也瞬间紧张起来。没几分钟，女主人风风火火地赶到现场，一看这架势，咋咋呼呼地以为天塌了，十万火急地打电话把她老公喊了下来。结果男车主下楼一瞅：“嗐，小场面。” 我迅速报了保险，拍完现场照片、给保险公司录完双方信息就撤了。回家后打开微信还发现这家女主人申请添加我的微信，是怕我跑路还是咋地。 交给保险之后，我就没去理会。没",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "CCometixLine 安装使用配置",
+    "url": "https://199604.com/3585",
+    "date": "2026-06-17T03:04:51Z",
+    "description": "CCometixLine 安装使用配置 项目地址：https://github.com/Haleclipse/ […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "City Pop 从入门到精通",
+    "url": "https://www.hecaitou.com/2026/06/city-pop-beginner-to-expert.html",
+    "date": "2026-06-17T02:02:50Z",
+    "description": "City Pop 这种怀旧曲风已经流行了一段时间，我自己是从去年开始接触，然后就掉进了坑里，家里现在堆满了相关磁带和 CD，流媒体播放器里也收藏了各种歌单---反正 City Pop 又没有非常清晰的定义，每个人都可以建立自己的歌单，然后往里面塞进自己认为对味的歌曲。 为什么是 City Pop？因为曲风温暖、怀旧，又充满律动，于是即便是忧伤的歌曲也带着一股朝气，会让人感觉到希望。因为它写都市生活，写都市人的情感和状态，总是能让都市人感到熟悉，也总是能让都市夜里不眠的灵魂产生共鸣。 举个不恰当的例子，汪峰唱过那么多歌，我听过他那么多歌，让我难忘的只有他写站在北京天桥上看日落的那一首，因为那是许多北漂人身上都发生过的一幕---站在天桥上，看那车水马龙无休无止，不知道在这天地之间如何安放自己这一身。 这里有个问题，那就是我不断听，不断找City Pop 风格的歌曲，但始终都处于一种散装听歌的状态。昆明有一句恶毒的俗语来专门形容这件事：瞎子打老婆，逮到一顿算一顿。听得多了，我身上那种老式的世界观就开始发作：这种事情应该系统性地整理一下呀！ 如果能有什么资料，可以从头到尾按照时间顺序介绍一下各",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Win常用命令",
+    "url": "https://blog.wo0ow.com/36272.html",
+    "date": "2026-06-17T01:38:41Z",
+    "description": "查询端口占用并关闭程序 <a href=\"https://blog.csdn.net/Anm",
+    "source_root_domain": "wo0ow.com"
+  },
+  {
+    "title": "ADHD 究竟是疾病还是一种“标签”？",
+    "url": "https://mobius.blog/24656.html",
+    "date": "2026-06-17T01:00:00Z",
+    "description": "接着《我的吸尘器哪儿去了？》展开的话题继续。 打开小红书，搜索 ADHD，你会发现进入 2026 年，这不再是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "UniGetUI —— 可能是 Windows 下最好用的应用商店",
+    "url": "https://www.ixiqin.com/2026/06/17/unigetui-may-be-the-best-app-store-for-windows/",
+    "date": "2026-06-17T00:58:52Z",
+    "description": "UniGetUI 是一款为 Windows 提供图形界面的包管理器聚合工具。它整合了 Winget、Scoop […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "小鱼",
+    "url": "https://elmtran.com/essays/yu/",
+    "date": "2026-06-17T00:00:00Z",
+    "description": "被风拂过的夏天",
+    "source_root_domain": "elmtran.com"
+  },
+  {
+    "title": "Star Wars Jedi Knight II: Jedi Outcast updated",
+    "url": "https://macsourceports.com/game/swjk2",
+    "date": "2026-06-16T22:01:34Z",
+    "description": "The build of OpenJO (OpenJK Project, Single Player) for Star Wars Jedi Knight II: Jedi Outcast has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Star Wars Jedi Knight: Jedi Academy updated",
+    "url": "https://macsourceports.com/game/swjkja",
+    "date": "2026-06-16T22:00:56Z",
+    "description": "The build of OpenJK (Single Player) for Star Wars Jedi Knight: Jedi Academy has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "孩子来美国留学，什么阶段送出来是最好的？",
+    "url": "https://diff.im/blog/2026/06/%E5%AD%A9%E5%AD%90%E6%9D%A5%E7%BE%8E%E5%9B%BD%E7%95%99%E5%AD%A6%E4%BB%80%E4%B9%88%E9%98%B6%E6%AE%B5%E9%80%81%E5%87%BA%E6%9D%A5%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84/",
+    "date": "2026-06-16T16:38:43Z",
+    "description": "有很多朋友问我：让孩子来美国留学，什么阶段送出来是最好的？ 我的答案很简单， 判断标准只有一个：留学结束之后，你是打算让孩子留在美国，还是打算让孩子回去？ 如果你的孩子以后打算留在美国生活，那么其实是越早越好。我个人会把八九岁当成一个比较保守的经验线。 这不是说十岁以后就一定不行，而是说，如果目标是在美国长期生活，语言、学校、朋友关系和日常表达都需要时间一起长出来。有一项基于 2000 年美国 Census、用兄弟姐妹样本做比较的研究也有类似发现：孩子到达美国的年龄越晚，教育结果越容易受到影响；其中英语能力的关键年龄，大约就在 8 到 10 岁。 1 但如果孩子以后打算回到自己的国家，那就无所谓了。高中毕业之后再过来读大学，也没有问题。 为什么“毕业后是否回国”会成为一个关键的判断标准？ 因为如果你打算让孩子留在美国生活，太晚过来会面临很多挑战和不适应。 语言的挑战 虽然对任何人来说，学习一门语言在任何时候都不算难，但我这里说的语言挑战，不只是英语技能的问题。 会不会考试、能不能听懂课、有没有口音，这些当然重要。但更深一层的问题是：孩子是不是会用英语思考，能不能用英语理解一个场景，能不",
+    "source_root_domain": "diff.im"
+  },
+  {
+    "title": "半年过去了，我和 AI Coding 的关系有什么变化？",
+    "url": "https://www.ixiqin.com/2026/06/16/half-a-year-has-passed-what-changes-have-occurred-in-my/",
+    "date": "2026-06-16T15:30:22Z",
+    "description": "作者回顾了半年来使用AI编程的发展，指出使用量显著增长。一个关键变化是发现并依赖VibeKanban进行多任务 […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "Snow——为内容创作者和开发者打造的轻量级静态站点生成器",
+    "url": "https://honmaple.me/articles/2026/06/snow-intro.html",
+    "date": "2026-06-16T14:00:00Z",
+    "description": "如果你想搭建一个博客、技术文档站、项目主页，或者一个可以长期维护的内容网站，你可能已经尝试过许多静态站点生成器。它们功能强大，但有时也意味着复杂的依赖、繁琐的配置和不够直观的扩展方式。 Snow 提供了另一种选择：一个用 Go 编写的、单二进制分发的静态站点生成器。它足够轻量，也足够灵活，适合从个人博客到多语言文档站的多种场景。 开箱即用，快速开始 Snow 的使用方式非常直接。你可以通过 Homebrew 安装： 1 brew install honmaple/tap/snow 也可以直接从源码安装： 1 go install github.com...",
+    "source_root_domain": "honmaple.me"
+  },
+  {
+    "title": "2026 欧洲之旅：坐大巴",
+    "url": "https://www.ixiqin.com/2026/06/16/2026-european-tour-by-bus/",
+    "date": "2026-06-16T12:44:15Z",
+    "description": "欧洲游和美国旅行有一点不同的是，我的欧洲游跨越了国境线，一次性游览了两个国家。不同的国家使得自驾游欧洲这件事带 […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "掌控节奏",
+    "url": "https://lomus.cc/archives/787",
+    "date": "2026-06-16T12:16:07Z",
+    "description": "今天来讲讲「节奏」对我的重要性，这个节奏指的倒不是音乐里的节奏，而是存在于我工作生活里的隐形框架。 其实这是一 […] 掌控节奏 最先出现在 Lumos's Blog 。",
+    "source_root_domain": "lomus.cc"
+  },
+  {
+    "title": "20260616的胡言乱语",
+    "url": "https://www.bboy.app/2026/06/16/20260616%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
+    "date": "2026-06-16T09:55:00Z",
+    "description": "简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "Random Thoughts - 20260616",
+    "url": "https://www.bboy.app/2026/06/16/random-thoughts-20260616/",
+    "date": "2026-06-16T09:55:00Z",
+    "description": "Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "Rethinking Attention: Polynomial Alternatives to Softmax in Transformers",
+    "url": "https://mer.run/posts/rethinking-attention-polynomial-alternatives-to-softmax-in-transformers/",
+    "date": "2026-06-16T08:45:00Z",
+    "description": "作者认为softmax有效是因为它将Attention矩阵的Frobenius范数控制在了O(sqrt(N))量级，从而稳定了训练，因此提出用多项式激活代替softmax、在期望意义上实现相似的范数控制。理论推完发现这文章没中，ICLR2026得分2222，一下子就不想看下去了。感觉实验和理论都不是很好。",
+    "source_root_domain": "mer.dev"
+  },
+  {
+    "title": "密语系统崩溃恢复记录",
+    "url": "https://blog.wo0ow.com/4851.html",
+    "date": "2026-06-16T08:38:02Z",
+    "description": "解决docker容器的密算应用启动故障问题",
+    "source_root_domain": "wo0ow.com"
+  },
+  {
+    "title": "工作、消费主义和新穷人",
+    "url": "https://www.geedea.pro/library/2026/work-consumerism-and-the-new-poor/",
+    "date": "2026-06-16T07:30:56Z",
+    "description": "一本经济和政治相关的社会科学书籍，很薄，还算易读。书从工作伦理和消费美学出发，浅析了工作、生产和消费在社会不同阶段的意义，又谈到如今穷人的处境，他们是如何被福利国家救助、被当作生产力后备军，然后又是如何被消费主义社会抛弃、被当作不合格的消费者的。看起来是对工作和消费主义的解析，不过主要的落脚点还是在穷人群体身上，最后呼吁人们用「工艺伦理」代替工作伦理。 不过我其实不太明白工匠伦理（将社会从对计算、可预测性、经济增长和市场的追求中解放出来，去关注匠人之道）对书中描绘的被社会抛弃的穷人群体有什么用处，尽管它的确是我也很期待的愿景。整本书的结构有些散，章节乃至段落之间的关联不够紧密，前几章又有大量对其他哲学家、思想家观点的引用和重新叙述。总体上是一本内容尚可，但阅读体验一般的社科书籍。 由于写得散，我读得也比较散，有从头到尾读完，没有跳读，但没有仔细推敲每个段落和概念的语义，所以书评也写得相对短些，只挑我印象深刻的写写。 工作伦理与消费美学的双重影响 工业化阶段，在工厂内部上演了一场道德改革运动，人们希望通过某种手段将散漫、慵懒的工人动员起来，由此诞生了「工作伦理」。其内容大概是，人必须工作",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "第一百八十万字",
+    "url": "https://mobius.blog/24693.html",
+    "date": "2026-06-16T07:00:00Z",
+    "description": "自从有了字数统计的插件之后，这个系列又可以恢复“每十万字一更”的栏目了，也放回了最初的分类“彭罗斯三角”里。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "猫咪友好",
+    "url": "https://www.hecaitou.com/2026/06/Cat-Friendly.html",
+    "date": "2026-06-16T03:52:29Z",
+    "description": "在我养猫之后，尤其是其中一只猫得了急性肾衰竭之后，鲜花和绿植的选择就锐减到有限的几项。我并没有多么喜欢玫瑰，但是玫瑰对猫咪无害，于是我家里常年只有玫瑰。 任何时令鲜花上市，在决定下单之前，我都要掏出手机来查一下：XX 对猫咪有没有毒性？很遗憾，很多时候不是有微毒，就是误食会导致呕吐。于是只能看看图片，转身又去买玫瑰。 猫咪好养也不好养，好养是说猫咪每天没有太多要求，固定时间会拉着你要求陪着玩一会儿而已。只要能做到两大稳定，猫咪一般来说都没什么问题，一是自己情绪稳定，二是猫咪的生存环境稳定。所以，最合适猫咪的主人应该是舔狗死宅。 不好养则是因为猫咪玻璃胃，玻璃心，整天在家里钻来钻去，对什么都好奇。好奇倒也罢了，什么都想上去来一爪子或者咬上一口。为此，家里要日常清洁，而且是那种需要把每个角落里的灰尘都扫干净的那一种。家里也要把所有插座保护起来，实在不行要在附近喷猫咪讨厌的气味喷剂。 饮水和猫粮也要勤换。虽然很多猫咪自己就有用爪子捧水喝的陋习，但是他们自己不觉得水面飘着自己的毛有什么问题，飘你自己的绝对不行，对于猫咪而言这水已经被污染了。猫粮放出来超过 2 天，干燥了，氧化了，猫咪就碰都不碰",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "zui.re 上线记：把最热两个字，变成新闻站",
+    "url": "https://www.evan.xin/5051/",
+    "date": "2026-06-16T03:16:58Z",
+    "description": "zui.re 是我给自己做的一块信息看板。 平时会看的内容其实很散，技术、产品、热榜、论坛更新都分布在不同网站 […]",
+    "source_root_domain": "evan.xin"
+  },
+  {
+    "title": "我的吸尘器哪儿去了？",
+    "url": "https://mobius.blog/24649.html",
+    "date": "2026-06-16T02:55:00Z",
+    "description": "一个成年后患有 ADHD 的朋友跟我闲聊，然后我发现了一个有趣现象。他想先用吸尘器收拾家里，但是吸尘到一半时， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "极速聊 Nintendo Direct 260609",
+    "url": "https://bluepika.life/blog/nintendo-direct-260609-quick-chat",
+    "date": "2026-06-16T00:00:00Z",
+    "description": "简单记录一下这次 Nintendo Direct 里出现的游戏，以及直播时的一些即时感想。",
+    "source_root_domain": "bluepika.life"
+  },
+  {
+    "title": "Memos #2026-06-15",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-06-16T00:00:00Z",
+    "description": "15:45 今天早上 9:20 才起床，火急火燎地往公司赶，还是迟到了 10 分钟，还好不用打卡。 最近真的是睡得太晚了，加上多梦，就起床困难。",
+    "source_root_domain": "taober.blog"
+  }
+]

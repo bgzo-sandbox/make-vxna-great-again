@@ -27,10 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-18 | [越来越多的 ADHD 是现代社交媒体制造的吗？](https://mobius.blog/24661.html) | 接着《我的吸尘器哪儿去了？》引发的话题。今天来聊聊一个被越来越多人讨论的话题：现代人的 ADHD 是社交媒体制 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-17 | [Give Your Camera Real GPS: A No-Internet Hardware Fix with furble](https://missuo.me/posts/camera-gps-furble/) | Most cameras still ship without a GPS module, so photos come out of the card with no location data in their EXIF. The official phone apps are supposed… |
 | 2026-06-17 | [The Right Way to Use WebArena Indigo](https://missuo.me/posts/webarena-indigo-ipv6-gre/) | WebArena Indigo is a cheap, good-value Japanese VPS that makes a great landing node. But if you front it with a relay and push traffic over a GRE tunn… |
+| 2026-06-17 | [Linux下安装Nvm工具.md](https://blog.wo0ow.com/17417.html) | nvm-GitHub官方发布地址 |
 | 2026-06-17 | [小米摄像头4 4K版接入Homekit分享](https://7gugu.com/index.php/2026/06/17/%e5%b0%8f%e7%b1%b3%e6%91%84%e5%83%8f%e5%a4%b44-4k%e7%89%88%e6%8e%a5%e5%85%a5homekit%e5%88%86%e4%ba%ab/) | 搬新家之后，买了个小米摄像头做门口的监控。最近闲下来了，刚好绿联也做了HomeAssistant的一些适配，就 … 继续阅读 “小米摄像头4 4K版接入Homekit分享” |
-| 2026-06-17 | [对口型视频合成方案对比：Wav2Lip、VideoReTalking 与 MuseTalk](https://liudon.com/posts/lip-sync-video-synthesis-comparison/) | 对比 Wav2Lip、VideoReTalking 和 MuseTalk 三种开源对口型视频合成方案，从安装难度、合成效果、推理速度、画质表现和适用场景等角度进行分析。 |
+| 2026-06-17 | [2026 年对口型视频合成方案对比：Wav2Lip、VideoReTalking 与 MuseTalk 实测](https://liudon.com/posts/lip-sync-video-synthesis-comparison/) | 实测对比 Wav2Lip、VideoReTalking 和 MuseTalk 三种对口型视频合成方案，分析部署难度、推理速度、画面质量和适用场景。 |
 | 2026-06-17 | [分享一些 Zen 瀏覧器好用的功能 - Boost 自定義頁面樣式、Live Folder](https://taxodium.ink/share-some-zen-browser-useful-features-boost-and-live-folder.html) | 分享一些 Zen 瀏覧器好用的功能 Boost 自定義頁面樣式、Live Folder 在 日常#8 - Zen 浏览器、白描、博客图片压缩脚本 我分享過一些 Zen 的功能，最近 Zen 又更新了一些不錯的功能，再分享一下。 Boost 图1 Zen 瀏覧器 Boost 功能截圖 Boost 可以… |
 | 2026-06-17 | [“日本人在世界杯作秀”这个结论是如何被制造出来的？](https://mobius.blog/24729.html) | 既然是世界杯，莫比乌斯就聊一些看上去和世界杯有关、却与足球毫无关系的事。 这一次，日本又“作秀”了。 跟《如何 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-17 | [Linux 服务器翻墙](https://blog.lhasa.icu/posts/technology/2026-06-17-mihomo/) | 实现 Linux 服务器翻墙，解决 Miniflux 无法订阅 YouTube 和部分墙外博客的问题 |
@@ -134,23 +136,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-11 | [高考结束后的小剧场](https://mobius.blog/24612.html) | 这两天高考结束，目睹了很多“小剧场”。 花 高考结束的那天，我在车库遇到一对母子，大概是妈妈从县城接回了高考结 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-11 | [New Release: Bio Menace](https://macsourceports.com/game/biomenace) | An Apogee platformer that's a lot like Duke Nukem II but made from the Commander Keen engine, Bio Menace was never as popular as its contemporaries bu… |
 | 2026-06-11 | [我为 16 岁的女儿定制的 2026 暑期实习计划](https://diff.im/blog/2026/06/linda-%E5%AE%9E%E4%B9%A0%E8%AE%A1%E5%88%92/) | 16 岁的女儿现在读十年级，还有两年就要上大学。 暑期开始前，她在找一些快餐店/餐厅/零售店打工的机会，赚一些零花钱，也积累一些社会实践的经验。 我觉得这个想法很好，也替她感到骄傲。后来我跟她说，做这样的实习打工挺有价值的，其价值在于：能在一个真实的工作环境中，学习沟通与合作，用自己的劳动创造收入。… |
-| 2026-06-10 | [Lesson 29 量子场论 & 广义相对论](https://physnya.top/GR/lesson-29/) | 说暴涨时期怎么给宇宙提供 initial condition. 上节课我们研究了一个标量场 ϕ → ϕ 0 + δ ϕ \phi\to \phi_0+\delta\phi ϕ → ϕ 0 ​ + δ ϕ 的量子涨落，首先是写下作用量： |
-| 2026-06-10 | [AI自进化](https://elmagnifico.tech/2026/06/11/AI-Self-Iteration/) | Foreword 最近看了一个文章，有点意思，有点想法，记录下来。 AI自我迭代 https://mp.weixin.qq.com/s/AXyCo0RRwWHKLpkUx1jUg 这篇文章是 CSDN 编译的 Anthropic 长篇报告《When AI Builds Itself（当 AI 构建自… |
-| 2026-06-10 | [基于 git 的零拷贝静态web服务器](https://blog.est.im/2026/stdout-22) | 无聊，产生了个crazy的想法。 git 内部用 zlib 压缩文件内容 Content-Encoding: gzip 也是 如果web服务器输出 .git 里的 静态 内容，是不是可以减一个二次解压/压缩步骤？？？ blob sha1 直接当etag？ 跟AI较量了几轮，一开始它说做不到。因为 b… |
-| 2026-06-10 | [睡眠是第二天的预算](https://blog.solazy.me/20260610/) | 今天聊聊睡觉这件事儿 |
-| 2026-06-10 | [OpenAI 考虑大幅降价，预计将与 Anthropologie 展开用户争夺战](https://blog.rustfisher.com/news/news-openai-20260610/) | 该公司可能会降低token价格（token是衡量人工智能成本的核心单位），但相关讨论仍在进行中。 |
-| 2026-06-10 | [四五月POLG](https://yovey.me/aprmay-shots/) | 四月等车后的漫长时间，抽时间读《A Twist of the Wrist》，起初是三天打鱼两天晒网，随着工作越 … Continue reading "四五月POLG" |
-| 2026-06-10 | [RKE2 全集群 TLS 证书过期导致瘫痪的无损修复](https://199604.com/3578) | RKE2 全集群 TLS 证书过期导致瘫痪的无损修复 起因 这套 RKE2 集群跑了快 2 年零 19 天，3 […] |
-| 2026-06-10 | [服务器高性能网络调优](https://www.kawabangga.com/posts/7292) | 这篇文章写一下服务器的网络方面的调优经验。如果网络的带宽使用在 1GE，其实没有必要做调优，默认的参数基本没有 […] Continue reading... |
-| 2026-06-10 | [关于东北人的认同](https://sinyalee.com/blog/?p=1145) | 东北人是血统汉人，精神满人。 所谓日本殖民还是满洲租地，其实都是托词，这些都不是东北认同的核心。现在东北认同的 […] |
-| 2026-06-10 | [Photosuite EXIF 优化](https://blog.lhasa.icu/posts/technology/2026-06-09-photosuite-v0-5-0-beta/) | 最近写新主题，迁移旧日志文件跑测试时，发现 Photosuite 有两个严重的问题 |
-| 2026-06-10 | [VC基金收益率基准数据出炉：2021年最惨？](https://wenfeixiang.com/2026/06/the-net-tvpi-of-vc-data-by-carta/) | 美国金融科技公司 Carta 日前发布了一份关于VC基金收益率的基准测试数据：截至2026年Q1，不同年份成立 […] |
-| 2026-06-10 | [在一台 VPS 上同时提供原生和 WARP 双出口](https://yipai.me/post/2535.html) | 裸连 Shadowsocks 服务器很容易被封。建议使用 mihomo 的 dialer-proxy 功能，把 […] |
-| 2026-06-10 | [流行](https://mobius.blog/24599.html) | 小鑫买了套新衣服，说是时下最流行的款式。 但渐渐这种款式开始烂大街，山寨品也仿造得越来越像，几乎分不清楚谁才是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-10 | [Rectangle Pro 使用教程：买了之后才搞懂](https://blog.forecho.com/rectangle-pro-usage-guide.html) | 引言 之前稀里糊涂买了 Rectangle Pro ，买完之后才发现它界面全是英文，功能也比免费版多很多。放着吃灰有点浪费，所以我花了点时间把官方文档和常用功能摸了一遍。 先说结论： 免费版 Rectangle 已经够大多数人用，Rectangle Pro 的价值主要在 Window Throw、自… |
-| 2026-06-10 | [非强制传承](https://www.hecaitou.com/2026/06/The-Art-of-Gentle-Legacy.html) | 前几天，我看到追 K-pop 偶像团体的小朋友在淘宝的 CD 碟店里提问：请问这些碟是放进 CD 机里播放吗？每个 CD 机都能播放吗？买的话配 CD 机吗？ 可以想象，就算是此刻，就算是在我这里，读者群也会分为两个部分。一部分年龄稍长的读者看了会笑出声来，而另一部分年龄较小的读者则是满头雾水，不能… |
-| 2026-06-10 | [为什么法律作为复仇工具时必然会失效？](https://mobius.blog/24590.html) | 最近重庆发生了一件事，大致是一个长期虐狗的人被曝光身份后，一些爱狗人士上门堵截对方，希望通过这种方式引起警方的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-10 | [烟花](https://elmtran.com/essays/fireworks/) | 那场未燃尽的烟花 |
 
 ## Vibe Coding
 
