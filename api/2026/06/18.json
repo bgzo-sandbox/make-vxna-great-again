@@ -1,10 +1,45 @@
 [
   {
+    "title": "New Release: Quetoo",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-06-18T05:48:24Z",
+    "description": "So this is interesting, I just stumbled on this randomly a few weeks back right after it was released, although it was apparently in the works for twenty years. Quetoo is an open…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "New Release: Clockwiser",
+    "url": "https://macsourceports.com/game/clockwiser",
+    "date": "2026-06-18T05:20:26Z",
+    "description": "Also an Amiga game from Team Hoi, Clockwiser at first appears to be a standard issue match-3 game, but the twist is not something I've seen before. You are presented with two arrangements…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "New Release: Hoi",
+    "url": "https://macsourceports.com/game/hoi",
+    "date": "2026-06-18T04:42:51Z",
+    "description": "Another game where you can tell it's an Amiga game just by looking at it, Hoi hails from the era when developers were filling in the gaps, as well as the era when a commercially viable…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "越来越多的 ADHD 是现代社交媒体制造的吗？",
     "url": "https://mobius.blog/24661.html",
     "date": "2026-06-18T01:00:00Z",
     "description": "接着《我的吸尘器哪儿去了？》引发的话题。今天来聊聊一个被越来越多人讨论的话题：现代人的 ADHD 是社交媒体制 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "股票配债缴款操作指南",
+    "url": "https://programnotes.cn/stock-convertible-bond/index.html",
+    "date": "2026-06-17T16:00:00Z",
+    "description": "账户类型不同，操作略有差异，但核心要素一致： 配债代码 （公告公布，通常7或8开头）、 价格 （100元/张）、 数量 （系统显示的可配售张数）。 普通账户 缴款前准备 核对配售数量 ：T日开盘后登录账户，在”持仓”或”配债”栏目查看可配售张数，如10张。 备足资金 ：所需资金 = 张数 × 100元。10张即1000元，资金不足须在T日15:00前通过银证转账补足。 操作步骤 选择菜单 ：进入交易软件，点击 “卖出” 菜单。部分券商设有专门的”配债”入口，如有可直接使用。 配债本质是用”配股权”换债券，系统将其识别为卖出权利，因此要用”卖出”。误选”买入”一般会被拒绝。 输入配债代码 ：务必输入 配债代码 ，不要输成正股代码或申购代码。 输入价格 ：填 100 。 输入数量 ：填入系统显示的可配售张数。 确认下单 ：资金冻结即表示缴款成功。",
+    "source_root_domain": "programnotes.cn"
+  },
+  {
+    "title": "开始万豪白金挑战",
+    "url": "https://blog.solazy.me/20260617/",
+    "date": "2026-06-17T15:00:00Z",
+    "description": "最近给自己布置的一个小任务",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "Give Your Camera Real GPS: A No-Internet Hardware Fix with furble",
@@ -35,7 +70,7 @@
     "source_root_domain": "7gugu.com"
   },
   {
-    "title": "2026 年对口型视频合成方案对比：Wav2Lip、VideoReTalking 与 MuseTalk 实测",
+    "title": "2026年对口型视频合成方案对比：Wav2Lip、VideoReTalking、 MuseTalk 部署与实测",
     "url": "https://liudon.com/posts/lip-sync-video-synthesis-comparison/",
     "date": "2026-06-17T07:45:03Z",
     "description": "实测对比 Wav2Lip、VideoReTalking 和 MuseTalk 三种对口型视频合成方案，分析部署难度、推理速度、画面质量和适用场景。",
@@ -161,7 +196,14 @@
     "source_root_domain": "ixiqin.com"
   },
   {
-    "title": "Snow——为内容创作者和开发者打造的轻量级静态站点生成器",
+    "title": "咽不下的那口气，是职场的镜子",
+    "url": "https://blog.solazy.me/20260616/",
+    "date": "2026-06-16T15:00:00Z",
+    "description": "今天聊聊最近职场的一个观察，当然也是发生在我身上的一件事",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "为内容创作者和开发者打造的轻量级静态站点生成器Snow",
     "url": "https://honmaple.me/articles/2026/06/snow-intro.html",
     "date": "2026-06-16T14:00:00Z",
     "description": "如果你想搭建一个博客、技术文档站、项目主页，或者一个可以长期维护的内容网站，你可能已经尝试过许多静态站点生成器。它们功能强大，但有时也意味着复杂的依赖、繁琐的配置和不够直观的扩展方式。 Snow 提供了另一种选择：一个用 Go 编写的、单二进制分发的静态站点生成器。它足够轻量，也足够灵活，适合从个人博客到多语言文档站的多种场景。 开箱即用，快速开始 Snow 的使用方式非常直接。你可以通过 Homebrew 安装： 1 brew install honmaple/tap/snow 也可以直接从源码安装： 1 go install github.com...",

@@ -27,12 +27,17 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-18 | [New Release: Quetoo](https://macsourceports.com/game/quetoo) | So this is interesting, I just stumbled on this randomly a few weeks back right after it was released, although it was apparently in the works for twe… |
+| 2026-06-18 | [New Release: Clockwiser](https://macsourceports.com/game/clockwiser) | Also an Amiga game from Team Hoi, Clockwiser at first appears to be a standard issue match-3 game, but the twist is not something I've seen before. Yo… |
+| 2026-06-18 | [New Release: Hoi](https://macsourceports.com/game/hoi) | Another game where you can tell it's an Amiga game just by looking at it, Hoi hails from the era when developers were filling in the gaps, as well as… |
 | 2026-06-18 | [越来越多的 ADHD 是现代社交媒体制造的吗？](https://mobius.blog/24661.html) | 接着《我的吸尘器哪儿去了？》引发的话题。今天来聊聊一个被越来越多人讨论的话题：现代人的 ADHD 是社交媒体制 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-17 | [股票配债缴款操作指南](https://programnotes.cn/stock-convertible-bond/index.html) | 账户类型不同，操作略有差异，但核心要素一致： 配债代码 （公告公布，通常7或8开头）、 价格 （100元/张）、 数量 （系统显示的可配售张数）。 普通账户 缴款前准备 核对配售数量 ：T日开盘后登录账户，在”持仓”或”配债”栏目查看可配售张数，如10张。 备足资金 ：所需资金 = 张数 × 100… |
+| 2026-06-17 | [开始万豪白金挑战](https://blog.solazy.me/20260617/) | 最近给自己布置的一个小任务 |
 | 2026-06-17 | [Give Your Camera Real GPS: A No-Internet Hardware Fix with furble](https://missuo.me/posts/camera-gps-furble/) | Most cameras still ship without a GPS module, so photos come out of the card with no location data in their EXIF. The official phone apps are supposed… |
 | 2026-06-17 | [The Right Way to Use WebArena Indigo](https://missuo.me/posts/webarena-indigo-ipv6-gre/) | WebArena Indigo is a cheap, good-value Japanese VPS that makes a great landing node. But if you front it with a relay and push traffic over a GRE tunn… |
 | 2026-06-17 | [Linux下安装Nvm工具.md](https://blog.wo0ow.com/17417.html) | nvm-GitHub官方发布地址 |
 | 2026-06-17 | [小米摄像头4 4K版接入Homekit分享](https://7gugu.com/index.php/2026/06/17/%e5%b0%8f%e7%b1%b3%e6%91%84%e5%83%8f%e5%a4%b44-4k%e7%89%88%e6%8e%a5%e5%85%a5homekit%e5%88%86%e4%ba%ab/) | 搬新家之后，买了个小米摄像头做门口的监控。最近闲下来了，刚好绿联也做了HomeAssistant的一些适配，就 … 继续阅读 “小米摄像头4 4K版接入Homekit分享” |
-| 2026-06-17 | [2026 年对口型视频合成方案对比：Wav2Lip、VideoReTalking 与 MuseTalk 实测](https://liudon.com/posts/lip-sync-video-synthesis-comparison/) | 实测对比 Wav2Lip、VideoReTalking 和 MuseTalk 三种对口型视频合成方案，分析部署难度、推理速度、画面质量和适用场景。 |
+| 2026-06-17 | [2026年对口型视频合成方案对比：Wav2Lip、VideoReTalking、 MuseTalk 部署与实测](https://liudon.com/posts/lip-sync-video-synthesis-comparison/) | 实测对比 Wav2Lip、VideoReTalking 和 MuseTalk 三种对口型视频合成方案，分析部署难度、推理速度、画面质量和适用场景。 |
 | 2026-06-17 | [分享一些 Zen 瀏覧器好用的功能 - Boost 自定義頁面樣式、Live Folder](https://taxodium.ink/share-some-zen-browser-useful-features-boost-and-live-folder.html) | 分享一些 Zen 瀏覧器好用的功能 Boost 自定義頁面樣式、Live Folder 在 日常#8 - Zen 浏览器、白描、博客图片压缩脚本 我分享過一些 Zen 的功能，最近 Zen 又更新了一些不錯的功能，再分享一下。 Boost 图1 Zen 瀏覧器 Boost 功能截圖 Boost 可以… |
 | 2026-06-17 | [“日本人在世界杯作秀”这个结论是如何被制造出来的？](https://mobius.blog/24729.html) | 既然是世界杯，莫比乌斯就聊一些看上去和世界杯有关、却与足球毫无关系的事。 这一次，日本又“作秀”了。 跟《如何 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-17 | [Linux 服务器翻墙](https://blog.lhasa.icu/posts/technology/2026-06-17-mihomo/) | 实现 Linux 服务器翻墙，解决 Miniflux 无法订阅 YouTube 和部分墙外博客的问题 |
@@ -50,7 +55,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-16 | [Star Wars Jedi Knight: Jedi Academy updated](https://macsourceports.com/game/swjkja) | The build of OpenJK (Single Player) for Star Wars Jedi Knight: Jedi Academy has been updated to the latest code of the project |
 | 2026-06-16 | [孩子来美国留学，什么阶段送出来是最好的？](https://diff.im/blog/2026/06/%E5%AD%A9%E5%AD%90%E6%9D%A5%E7%BE%8E%E5%9B%BD%E7%95%99%E5%AD%A6%E4%BB%80%E4%B9%88%E9%98%B6%E6%AE%B5%E9%80%81%E5%87%BA%E6%9D%A5%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84/) | 有很多朋友问我：让孩子来美国留学，什么阶段送出来是最好的？ 我的答案很简单， 判断标准只有一个：留学结束之后，你是打算让孩子留在美国，还是打算让孩子回去？ 如果你的孩子以后打算留在美国生活，那么其实是越早越好。我个人会把八九岁当成一个比较保守的经验线。 这不是说十岁以后就一定不行，而是说，如果目标是… |
 | 2026-06-16 | [半年过去了，我和 AI Coding 的关系有什么变化？](https://www.ixiqin.com/2026/06/16/half-a-year-has-passed-what-changes-have-occurred-in-my/) | 作者回顾了半年来使用AI编程的发展，指出使用量显著增长。一个关键变化是发现并依赖VibeKanban进行多任务 […] |
-| 2026-06-16 | [Snow——为内容创作者和开发者打造的轻量级静态站点生成器](https://honmaple.me/articles/2026/06/snow-intro.html) | 如果你想搭建一个博客、技术文档站、项目主页，或者一个可以长期维护的内容网站，你可能已经尝试过许多静态站点生成器。它们功能强大，但有时也意味着复杂的依赖、繁琐的配置和不够直观的扩展方式。 Snow 提供了另一种选择：一个用 Go 编写的、单二进制分发的静态站点生成器。它足够轻量，也足够灵活，适合从个人… |
+| 2026-06-16 | [咽不下的那口气，是职场的镜子](https://blog.solazy.me/20260616/) | 今天聊聊最近职场的一个观察，当然也是发生在我身上的一件事 |
+| 2026-06-16 | [为内容创作者和开发者打造的轻量级静态站点生成器Snow](https://honmaple.me/articles/2026/06/snow-intro.html) | 如果你想搭建一个博客、技术文档站、项目主页，或者一个可以长期维护的内容网站，你可能已经尝试过许多静态站点生成器。它们功能强大，但有时也意味着复杂的依赖、繁琐的配置和不够直观的扩展方式。 Snow 提供了另一种选择：一个用 Go 编写的、单二进制分发的静态站点生成器。它足够轻量，也足够灵活，适合从个人… |
 | 2026-06-16 | [2026 欧洲之旅：坐大巴](https://www.ixiqin.com/2026/06/16/2026-european-tour-by-bus/) | 欧洲游和美国旅行有一点不同的是，我的欧洲游跨越了国境线，一次性游览了两个国家。不同的国家使得自驾游欧洲这件事带 […] |
 | 2026-06-16 | [掌控节奏](https://lomus.cc/archives/787) | 今天来讲讲「节奏」对我的重要性，这个节奏指的倒不是音乐里的节奏，而是存在于我工作生活里的隐形框架。 其实这是一 […] 掌控节奏 最先出现在 Lumos's Blog 。 |
 | 2026-06-16 | [20260616的胡言乱语](https://www.bboy.app/2026/06/16/20260616%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
