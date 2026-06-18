@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-18 | [学习周刊-总第268期-2026年第25周](https://wiki.eryajf.net/pages/14ae78/) | 如要阅读全文，点击标题跳转。 学习周刊-总第268期 &#124; DeepSeek-Reasonix &#124; hexo-theme-shiro &#124; dynamic-views &#124; next-shadcn-admin-dashboard &#124; Sensitive-lexicon &#124; easy-vibe &#124; VidB… |
+| 2026-06-18 | [端午流水账 0618](https://blog.solazy.me/20260618/) | 时隔半个月再写流水账 |
+| 2026-06-18 | [AI Agent 看板](https://smallyu.net/2026/06/18/AI-Agent%E7%9C%8B%E6%9D%BF/) | 有一个给 AI Agent 设计的看板工具叫 Multica，理念是本地部署，本地运行的 AI 比如 Codex、Claude Code、Antigravity 等都以 Agent 形式接入看板，然后你就可以给 AI Agent |
 | 2026-06-18 | [MECHREVO WUJIE14 PRO on Linux 声卡完整修复历程](https://hellodk.cn/post/1226) | 为了解决我的机械革命无界 14 pro 笔记本在 linux debian testing(forky) 下的自带麦克风、自带扬声器、插入 3.5mm 耳机这三个场景下，对应硬件都能正常工作的问... |
 | 2026-06-18 | [什么是Skill，它能迸发出什么能力](https://deepzz.com/post/what-is-ai-skil.html) | 1、什么是 Skill Skill（技能）本质上是 一份写给 AI 的”专业说明书” 。它用 Markdown 把某个领域的知识、流程、规范、可复用的脚本打包起来，让 AI 在遇到对应任务时，能像一个专家一样按既定方法去做事。 可以用一句话概括： Skill = 触发条件（什么时候用） + 操作指南… |
 | 2026-06-18 | [New Release: Quetoo](https://macsourceports.com/game/quetoo) | So this is interesting, I just stumbled on this randomly a few weeks back right after it was released, although it was apparently in the works for twe… |
