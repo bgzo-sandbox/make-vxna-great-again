@@ -1,5 +1,26 @@
 [
   {
+    "title": "AI 时代快速了解自己感兴趣的计算机辅助的“制作工艺”管线",
+    "url": "https://shansan.top/2026/06/19/learn-with-ai-friends/",
+    "date": "2026-06-19T21:55:32Z",
+    "description": "记录一次用 AI 辅助学习 Godot SRPG 单关原型、游戏开发 playground 和 3D 制作管线的实践，重点关注如何把 AI 当作导师理解完整制作流程。",
+    "source_root_domain": "shansan.top"
+  },
+  {
+    "title": "哪吒监控面板曝高危漏洞，如何应对与自查？",
+    "url": "https://blog.ensonyan.com/it/3433.html",
+    "date": "2026-06-19T05:27:55Z",
+    "description": "哪吒监控面板（Nezha Monitoring）是一款开源的一体式服务器监控与运维面板，在华人 IT 圈中非常 […]",
+    "source_root_domain": "ensonyan.com"
+  },
+  {
+    "title": "火星不是人类的重启键",
+    "url": "https://www.linggandianbo.com/newsletter-128/",
+    "date": "2026-06-19T05:00:52Z",
+    "description": "从火星殖民幻梦、AI 时代的注意力礼仪、机器写作、翻译劳动，到科技圈失去的书呆子气｜灵感电波 #128",
+    "source_root_domain": "linggandianbo.com"
+  },
+  {
     "title": "端午节快乐（2026）",
     "url": "https://www.hecaitou.com/2026/06/happy-dragon-boat-festival-2026.html",
     "date": "2026-06-19T03:57:34Z",
@@ -26,6 +47,13 @@
     "date": "2026-06-18T22:56:38Z",
     "description": "如要阅读全文，点击标题跳转。 学习周刊-总第268期 | DeepSeek-Reasonix | hexo-theme-shiro | dynamic-views | next-shadcn-admin-dashboard | Sensitive-lexicon | easy-vibe | VidBee",
     "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "第一次骨折",
+    "url": "https://elmagnifico.tech/2026/06/19/Fracture/",
+    "date": "2026-06-18T16:00:00Z",
+    "description": "Foreword 没想到两个月前的一次意外，最后发展到需要“住院”的程度，治疗晚了，恢复期也被动拉长。第一次骨折，第一次正儿八经住院，给自己留个档。 骨折 发生 四月十八的小米卡丁车活动，冲得太猛了，S弯漂出去，右手直接蹭墙。墙其实是塑料壳套轮胎，按理说“看着不硬”，但身体不这么想。当时只是小拇指有点肿、右手有点擦伤，我没当回事，甚至还继续冲了决赛一节。回家后小拇指第一指节就肿起来了，还有明显疼痛感，于是冰敷了一下。刚好赶上周末，肿了2天后疼痛明显减轻，虽然还没消肿，我就又当没事人了。 一个月后，发现小拇指无法过度弯曲，正常可以弯曲到90°+，但是我只能七八十度，而且有明显牵拉的感觉，硬按或者强压下去有疼痛感，感觉不太对劲，又正好体检，一起去医院看看。 首诊 预约医院就发现闹了乌龙，预约的是总院，但是当天去的是分院，尴尬了。还好护士说可以找个大夫加号看下，于是随便选了一个骨科医生，人家直接说这个我看不了，能给你拍片，但是得找专科看。 手脚有问题得去手足科，惊了，第一次知道，骨科是看其他部位骨折的。当天能预约的只有一个二甲医院了，先选了去看看。 这个二甲医院人贼少，刚开始我还以为自己捡到",
+    "source_root_domain": "elmagnifico.tech"
   },
   {
     "title": "如何写出高质量的 Skill",

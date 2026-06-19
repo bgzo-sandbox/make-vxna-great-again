@@ -27,10 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-19 | [AI 时代快速了解自己感兴趣的计算机辅助的“制作工艺”管线](https://shansan.top/2026/06/19/learn-with-ai-friends/) | 记录一次用 AI 辅助学习 Godot SRPG 单关原型、游戏开发 playground 和 3D 制作管线的实践，重点关注如何把 AI 当作导师理解完整制作流程。 |
+| 2026-06-19 | [哪吒监控面板曝高危漏洞，如何应对与自查？](https://blog.ensonyan.com/it/3433.html) | 哪吒监控面板（Nezha Monitoring）是一款开源的一体式服务器监控与运维面板，在华人 IT 圈中非常 […] |
+| 2026-06-19 | [火星不是人类的重启键](https://www.linggandianbo.com/newsletter-128/) | 从火星殖民幻梦、AI 时代的注意力礼仪、机器写作、翻译劳动，到科技圈失去的书呆子气｜灵感电波 #128 |
 | 2026-06-19 | [端午节快乐（2026）](https://www.hecaitou.com/2026/06/happy-dragon-boat-festival-2026.html) | 今年端午节是网络营销号捏造「端午安康」新民俗的十一周年，也是我个人在公众号撰文祝贺读者「端午节快乐」的第四年，对亲友说「端午节快乐」的第五十年。 个人在这个世界里，在时代潮流下，在汹涌人群之中，是无足轻重的存在。没有人在乎你想什么，也没有人在乎你说什么，甚至都懒得看你做什么。虽然现实如此，但是对于我… |
 | 2026-06-19 | [是谁在夺走现代人的注意力？](https://mobius.blog/24666.html) | 今天来聊聊《我的吸尘器哪儿去了？》的最后一部分，越来越多人开始出现类似 ADHD 的情况，那人们的注意力到底是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-18 | [哀乐中年 闲来拾光Vol.4](https://osnsyc.top/posts/recent-bmg-4/) | 近期的书影音游第四辑。 |
 | 2026-06-18 | [学习周刊-总第268期-2026年第25周](https://wiki.eryajf.net/pages/14ae78/) | 如要阅读全文，点击标题跳转。 学习周刊-总第268期 &#124; DeepSeek-Reasonix &#124; hexo-theme-shiro &#124; dynamic-views &#124; next-shadcn-admin-dashboard &#124; Sensitive-lexicon &#124; easy-vibe &#124; VidB… |
+| 2026-06-18 | [第一次骨折](https://elmagnifico.tech/2026/06/19/Fracture/) | Foreword 没想到两个月前的一次意外，最后发展到需要“住院”的程度，治疗晚了，恢复期也被动拉长。第一次骨折，第一次正儿八经住院，给自己留个档。 骨折 发生 四月十八的小米卡丁车活动，冲得太猛了，S弯漂出去，右手直接蹭墙。墙其实是塑料壳套轮胎，按理说“看着不硬”，但身体不这么想。当时只是小拇指有… |
 | 2026-06-18 | [如何写出高质量的 Skill](https://deepzz.com/post/how-to-write-high-quality-skills.html) | 写出一个 Skill 很容易，但写出一个 高质量、稳定、可复用 的 Skill 却需要一些方法论。高质量的 Skill 就像是给 AI 制定的一套 SOP（标准作业程序），它不仅能防错，还能让 AI 的表现超出预期。 第一部分：核心心法（写好 Skill 的五大原则） 1. 精准的「触发器」设计 (… |
 | 2026-06-18 | [端午流水账 0618](https://blog.solazy.me/20260618/) | 时隔半个月再写流水账 |
 | 2026-06-18 | [AI Agent 看板](https://smallyu.net/2026/06/18/AI-Agent%E7%9C%8B%E6%9D%BF/) | 有一个给 AI Agent 设计的看板工具叫 Multica，理念是本地部署，本地运行的 AI 比如 Codex、Claude Code、Antigravity 等都以 Agent 形式接入看板，然后你就可以给 AI Agent |
