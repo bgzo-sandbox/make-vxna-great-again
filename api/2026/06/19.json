@@ -1,0 +1,233 @@
+[
+  {
+    "title": "端午节快乐（2026）",
+    "url": "https://www.hecaitou.com/2026/06/happy-dragon-boat-festival-2026.html",
+    "date": "2026-06-19T03:57:34Z",
+    "description": "今年端午节是网络营销号捏造「端午安康」新民俗的十一周年，也是我个人在公众号撰文祝贺读者「端午节快乐」的第四年，对亲友说「端午节快乐」的第五十年。 个人在这个世界里，在时代潮流下，在汹涌人群之中，是无足轻重的存在。没有人在乎你想什么，也没有人在乎你说什么，甚至都懒得看你做什么。虽然现实如此，但是对于我个人而言，做一块茅坑里的石头这件事让我觉得有意义。 太多人怕掉队，太多人习惯去跟从，太多人生怕自己和别人不一样，太多人面对任何荒谬的质问都会忍不住心虚，恨不得立即改正然后缩进人群里。在这一刻，自我变得很小很小。等到站上了队，自我又突然变得很大很大，大到主动去纠正队伍外的人。 这样弹簧一样的自我，何时才能平静，何时才能找到平衡呢？ 连续几年祝贺读者「端午节快乐」，其实我一直想用这种方式提醒读者：端午节快乐是怎么变成了端午安康的？为什么如此轻易地遭人操纵？为什么如此轻易地接受？那么除了「端午安康」之外，自己在生活里不知不觉又接受了些什么东西？结婚一定需要钻戒？或者没有房子就不能结婚？ 有些人会觉得我多事，有些人会觉得我小题大做，有些人会认为我又在凹造型。怎么想、怎么看、怎么说，我觉得都很合理，观",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "是谁在夺走现代人的注意力？",
+    "url": "https://mobius.blog/24666.html",
+    "date": "2026-06-19T01:00:00Z",
+    "description": "今天来聊聊《我的吸尘器哪儿去了？》的最后一部分，越来越多人开始出现类似 ADHD 的情况，那人们的注意力到底是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "哀乐中年 闲来拾光Vol.4",
+    "url": "https://osnsyc.top/posts/recent-bmg-4/",
+    "date": "2026-06-18T23:55:00Z",
+    "description": "近期的书影音游第四辑。",
+    "source_root_domain": "osnsyc.top"
+  },
+  {
+    "title": "学习周刊-总第268期-2026年第25周",
+    "url": "https://wiki.eryajf.net/pages/14ae78/",
+    "date": "2026-06-18T22:56:38Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第268期 | DeepSeek-Reasonix | hexo-theme-shiro | dynamic-views | next-shadcn-admin-dashboard | Sensitive-lexicon | easy-vibe | VidBee",
+    "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "如何写出高质量的 Skill",
+    "url": "https://deepzz.com/post/how-to-write-high-quality-skills.html",
+    "date": "2026-06-18T15:53:40Z",
+    "description": "写出一个 Skill 很容易，但写出一个 高质量、稳定、可复用 的 Skill 却需要一些方法论。高质量的 Skill 就像是给 AI 制定的一套 SOP（标准作业程序），它不仅能防错，还能让 AI 的表现超出预期。 第一部分：核心心法（写好 Skill 的五大原则） 1. 精准的「触发器」设计 (Description) AI 拥有成百上千个技能，如何确保它在正确的时机调用正确的技能？关键在于元信息（YAML Header）中的 description 。 反面教材： description: 帮我写代码。 (太宽泛，随时都可能触发，干扰其他技能) 高质量示范： description: 当用户明确要求使用 React/TypeScript 编写前端组件，且需要包含单元测试时触发。 graph LR A[\"用户模糊意图\"] --> B{\"描述匹配引擎\"} B -->|\"高精准度\"| C[\"精确触发目标 Skill\"] B -->|\"低精准度\"| D[\"误触发 / 混用多个 Skill\"] style C stroke:#4caf50,stroke-width:2px style D ",
+    "source_root_domain": "deepzz.com"
+  },
+  {
+    "title": "端午流水账 0618",
+    "url": "https://blog.solazy.me/20260618/",
+    "date": "2026-06-18T15:00:00Z",
+    "description": "时隔半个月再写流水账",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "AI Agent 看板",
+    "url": "https://smallyu.net/2026/06/18/AI-Agent%E7%9C%8B%E6%9D%BF/",
+    "date": "2026-06-18T13:56:27Z",
+    "description": "有一个给 AI Agent 设计的看板工具叫 Multica，理念是本地部署，本地运行的 AI 比如 Codex、Claude Code、Antigravity 等都以 Agent 形式接入看板，然后你就可以给 AI Agent",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "MECHREVO WUJIE14 PRO on Linux 声卡完整修复历程",
+    "url": "https://hellodk.cn/post/1226",
+    "date": "2026-06-18T08:46:00Z",
+    "description": "为了解决我的机械革命无界 14 pro 笔记本在 linux debian testing(forky) 下的自带麦克风、自带扬声器、插入 3.5mm 耳机这三个场景下，对应硬件都能正常工作的问...",
+    "source_root_domain": "hellodk.cn"
+  },
+  {
+    "title": "什么是Skill，它能迸发出什么能力",
+    "url": "https://deepzz.com/post/what-is-ai-skil.html",
+    "date": "2026-06-18T06:46:00Z",
+    "description": "1、什么是 Skill Skill（技能）本质上是 一份写给 AI 的”专业说明书” 。它用 Markdown 把某个领域的知识、流程、规范、可复用的脚本打包起来，让 AI 在遇到对应任务时，能像一个专家一样按既定方法去做事。 可以用一句话概括： Skill = 触发条件（什么时候用） + 操作指南（具体怎么做） + 配套资源（脚本、模板、参考）。 graph TD Skill((Skill 技能包)) Skill --> Trigger[触发条件 何时调用 ] Skill --> Guide[操作指南 具体怎么做 ] Skill --> Assets[配套资源 脚本/模板/参考 ] Trigger -.-> |元信息| Meta[Name / Description] Guide -.-> |执行逻辑| Logic[步骤 / 原则 / 纪律] Assets -.-> |外挂工具| Tools[代码 / 文件示例] classDef default fill:#f9f9f9,stroke:#333,stroke-width:1px; classDef core fill:#e1f5fe",
+    "source_root_domain": "deepzz.com"
+  },
+  {
+    "title": "New Release: Quetoo",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-06-18T05:48:24Z",
+    "description": "So this is interesting, I just stumbled on this randomly a few weeks back right after it was released, although it was apparently in the works for twenty years. Quetoo is an open…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "New Release: Clockwiser",
+    "url": "https://macsourceports.com/game/clockwiser",
+    "date": "2026-06-18T05:20:26Z",
+    "description": "Also an Amiga game from Team Hoi, Clockwiser at first appears to be a standard issue match-3 game, but the twist is not something I've seen before. You are presented with two arrangements…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "New Release: Hoi",
+    "url": "https://macsourceports.com/game/hoi",
+    "date": "2026-06-18T04:42:51Z",
+    "description": "Another game where you can tell it's an Amiga game just by looking at it, Hoi hails from the era when developers were filling in the gaps, as well as the era when a commercially viable…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "越来越多的 ADHD 是现代社交媒体制造的吗？",
+    "url": "https://mobius.blog/24661.html",
+    "date": "2026-06-18T01:00:00Z",
+    "description": "接着《我的吸尘器哪儿去了？》引发的话题。今天来聊聊一个被越来越多人讨论的话题：现代人的 ADHD 是社交媒体制 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "股票配债缴款操作指南",
+    "url": "https://programnotes.cn/stock-convertible-bond/index.html",
+    "date": "2026-06-17T16:00:00Z",
+    "description": "账户类型不同，操作略有差异，但核心要素一致： 配债代码 （公告公布，通常7或8开头）、 价格 （100元/张）、 数量 （系统显示的可配售张数）。 普通账户 缴款前准备 核对配售数量 ：T日开盘后登录账户，在”持仓”或”配债”栏目查看可配售张数，如10张。 备足资金 ：所需资金 = 张数 × 100元。10张即1000元，资金不足须在T日15:00前通过银证转账补足。 操作步骤 选择菜单 ：进入交易软件，点击 “卖出” 菜单。部分券商设有专门的”配债”入口，如有可直接使用。 配债本质是用”配股权”换债券，系统将其识别为卖出权利，因此要用”卖出”。误选”买入”一般会被拒绝。 输入配债代码 ：务必输入 配债代码 ，不要输成正股代码或申购代码。 输入价格 ：填 100 。 输入数量 ：填入系统显示的可配售张数。 确认下单 ：资金冻结即表示缴款成功。",
+    "source_root_domain": "programnotes.cn"
+  },
+  {
+    "title": "开始万豪白金挑战",
+    "url": "https://blog.solazy.me/20260617/",
+    "date": "2026-06-17T15:00:00Z",
+    "description": "最近给自己布置的一个小任务",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Give Your Camera Real GPS: A No-Internet Hardware Fix with furble",
+    "url": "https://missuo.me/posts/camera-gps-furble/",
+    "date": "2026-06-17T14:30:00Z",
+    "description": "Most cameras still ship without a GPS module, so photos come out of the card with no location data in their EXIF. The official phone apps are supposed to sync coordinates over Bluetooth, but for shoot-as-you-walk travel they fall apart: the BLE link drops when the camera sleeps, it rarely reconnects in time, and the background app gets killed by the OS. This post walks through everything I tried — Garmin GPX backfilling, low-power tracking apps, and my own Koko app built on the reverse-engineere",
+    "source_root_domain": "missuo.me"
+  },
+  {
+    "title": "The Right Way to Use WebArena Indigo",
+    "url": "https://missuo.me/posts/webarena-indigo-ipv6-gre/",
+    "date": "2026-06-17T12:00:00Z",
+    "description": "WebArena Indigo is a cheap, good-value Japanese VPS that makes a great landing node. But if you front it with a relay and push traffic over a GRE tunnel like I did, GRE over IPv4 gets rate-limited the moment you run a speed test — the connection collapses right after the first burst. This post walks through what I tried (realm public forwarding, IPv4 GRE, IPv6 GRE) and how I ruled out snell, MTU, DNS and the qdisc one by one, landing on the conclusion that only GRE over IPv6 (ip6gre) reliably es",
+    "source_root_domain": "missuo.me"
+  },
+  {
+    "title": "Linux下安装Nvm工具.md",
+    "url": "https://blog.wo0ow.com/17417.html",
+    "date": "2026-06-17T09:07:24Z",
+    "description": "nvm-GitHub官方发布地址",
+    "source_root_domain": "wo0ow.com"
+  },
+  {
+    "title": "小米摄像头4 4K版接入Homekit分享",
+    "url": "https://7gugu.com/index.php/2026/06/17/%e5%b0%8f%e7%b1%b3%e6%91%84%e5%83%8f%e5%a4%b44-4k%e7%89%88%e6%8e%a5%e5%85%a5homekit%e5%88%86%e4%ba%ab/",
+    "date": "2026-06-17T08:29:27Z",
+    "description": "搬新家之后，买了个小米摄像头做门口的监控。最近闲下来了，刚好绿联也做了HomeAssistant的一些适配，就 … 继续阅读 “小米摄像头4 4K版接入Homekit分享”",
+    "source_root_domain": "7gugu.com"
+  },
+  {
+    "title": "2026年对口型视频合成方案对比：Wav2Lip、VideoReTalking、 MuseTalk 部署与实测",
+    "url": "https://liudon.com/posts/lip-sync-video-synthesis-comparison/",
+    "date": "2026-06-17T07:45:03Z",
+    "description": "实测对比 Wav2Lip、VideoReTalking 和 MuseTalk 三种对口型视频合成方案，分析部署难度、推理速度、画面质量和适用场景。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "分享一些 Zen 瀏覧器好用的功能 - Boost 自定義頁面樣式、Live Folder",
+    "url": "https://taxodium.ink/share-some-zen-browser-useful-features-boost-and-live-folder.html",
+    "date": "2026-06-17T07:35:00Z",
+    "description": "分享一些 Zen 瀏覧器好用的功能 Boost 自定義頁面樣式、Live Folder 在 日常#8 - Zen 浏览器、白描、博客图片压缩脚本 我分享過一些 Zen 的功能，最近 Zen 又更新了一些不錯的功能，再分享一下。 Boost 图1 Zen 瀏覧器 Boost 功能截圖 Boost 可以用於調整頁面樣式，例如切換明暗主題、調整對比度、切換字體、調整字體大小、刪除頁面元素等，它是針對域名生效的。 對我來說最常用的是切換明暗主題，我不喜歡暗色主題，黑底白字有些刺眼，有的網站也不提供切換按鈕，我就可以用 Boost 切換一下再閱讀。 給頁要添加一個主題切換功能 如果你是網站作者，建議為讀者提供一個明暗主題的切換功能，以適應不同讀者的閱讀習慣。 See also: Zine#49::Browsers Should Have a Native Control for Per-Site Color Scheme by Tyler Gaw 给博客添加 dark mode Boost 里的 Zap 功能可以用來移除任意元素，有時用來移除一些頁面广告，可以讓頁面更干净，更容易専注於文字內容。",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "“日本人在世界杯作秀”这个结论是如何被制造出来的？",
+    "url": "https://mobius.blog/24729.html",
+    "date": "2026-06-17T07:00:00Z",
+    "description": "既然是世界杯，莫比乌斯就聊一些看上去和世界杯有关、却与足球毫无关系的事。 这一次，日本又“作秀”了。 跟《如何 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Linux 服务器翻墙",
+    "url": "https://blog.lhasa.icu/posts/technology/2026-06-17-mihomo/",
+    "date": "2026-06-17T06:38:00Z",
+    "description": "实现 Linux 服务器翻墙，解决 Miniflux 无法订阅 YouTube 和部分墙外博客的问题",
+    "source_root_domain": "lhasa.icu"
+  },
+  {
+    "title": "订阅新姿势",
+    "url": "https://blog.lhasa.icu/posts/technology/2026-06-17-miniflux/",
+    "date": "2026-06-17T06:37:00Z",
+    "description": "前几天逛网站发现一个自建订阅器：Miniflux v2...",
+    "source_root_domain": "lhasa.icu"
+  },
+  {
+    "title": "2026.06.17 14:21",
+    "url": "https://kaix.in/2026/0617/",
+    "date": "2026-06-17T06:21:24Z",
+    "description": "向 AI 模型提问：地球上曾经生活过多少人？动画闪烁，三秒钟之后，模型回应：地球上大约生活过 1170 亿人。模型很快。而且，我们甚至都无法确切知道模型反馈过程的每个瞬间，到底完成了哪些具体事务。分词、嵌入、多层注意力……上千亿个参数，到底如何影响着输出结果？ 在漫长的时间长河里，人类经历的、感怀的、各种思想和肉体的碰撞、随机性、必然性……意义，我想，每个个体永远都无法知其全貌。这一切——对人类来说是碌碌终其一生——或许在更高维度的生命眼里，伴随着动画闪烁，只过去了三秒钟。然后蹦出一行字：本模型参数总量为 1170 亿。 fin. 激赏 ！ 来信 。",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "ZUI.RE：一个域名的非典型归宿，以及我对”看新闻”这件事的重新理解",
+    "url": "https://www.evan.xin/5054/",
+    "date": "2026-06-17T06:04:37Z",
+    "description": "zui.re（最热） 这个域名在我手里搁了挺久。 本来是想卖掉的。短域名、双拼好记，总觉得会有人要。挂了一段时 […]",
+    "source_root_domain": "evan.xin"
+  },
+  {
+    "title": "4S店靠啥赚钱",
+    "url": "https://hux.ink/posts/4s-business-model/",
+    "date": "2026-06-17T03:54:00Z",
+    "description": "我直觉中认为 4S 店主要是靠售后保养和事故理赔维修养活。 正好近期两次体验——一次事故出险、一次常规保养，更印证了这个想法。 上个月末去坝光赶海回来，在小区停车场与一辆对向来车狭路相逢，我为了让她先走，主动向后倒了一段距离，等间距宽了一些再换前进档，方向盘往右多打了一丢丢，结果“啪”的一声，把旁边停着的一辆宝马给“干摘牌”了——车牌直接整块掉在地上。 当时在车里听到动静，心里咯噔一下，一边下车一边嘟囔：为了让别人，把自己害惨了。打开手电筒一照，虚惊一场。对方车牌掉在地上，掉落时顺带刮蹭了前杠一条漆；我自己的车，也就右前门下方蹭掉了指甲盖大小的车衣。问题不大，找车主电话联系。绕宝马车走了一圈，没发现车主留下联系方式。于是只能打管理处电话，说明来意。管理处一听是宝马被撞，语气也瞬间紧张起来。没几分钟，女主人风风火火地赶到现场，一看这架势，咋咋呼呼地以为天塌了，十万火急地打电话把她老公喊了下来。结果男车主下楼一瞅：“嗐，小场面。” 我迅速报了保险，拍完现场照片、给保险公司录完双方信息就撤了。回家后打开微信还发现这家女主人申请添加我的微信，是怕我跑路还是咋地。 交给保险之后，我就没去理会。没",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "CCometixLine 安装使用配置",
+    "url": "https://199604.com/3585",
+    "date": "2026-06-17T03:04:51Z",
+    "description": "CCometixLine 安装使用配置 项目地址：https://github.com/Haleclipse/ […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "City Pop 从入门到精通",
+    "url": "https://www.hecaitou.com/2026/06/city-pop-beginner-to-expert.html",
+    "date": "2026-06-17T02:02:50Z",
+    "description": "City Pop 这种怀旧曲风已经流行了一段时间，我自己是从去年开始接触，然后就掉进了坑里，家里现在堆满了相关磁带和 CD，流媒体播放器里也收藏了各种歌单---反正 City Pop 又没有非常清晰的定义，每个人都可以建立自己的歌单，然后往里面塞进自己认为对味的歌曲。 为什么是 City Pop？因为曲风温暖、怀旧，又充满律动，于是即便是忧伤的歌曲也带着一股朝气，会让人感觉到希望。因为它写都市生活，写都市人的情感和状态，总是能让都市人感到熟悉，也总是能让都市夜里不眠的灵魂产生共鸣。 举个不恰当的例子，汪峰唱过那么多歌，我听过他那么多歌，让我难忘的只有他写站在北京天桥上看日落的那一首，因为那是许多北漂人身上都发生过的一幕---站在天桥上，看那车水马龙无休无止，不知道在这天地之间如何安放自己这一身。 这里有个问题，那就是我不断听，不断找City Pop 风格的歌曲，但始终都处于一种散装听歌的状态。昆明有一句恶毒的俗语来专门形容这件事：瞎子打老婆，逮到一顿算一顿。听得多了，我身上那种老式的世界观就开始发作：这种事情应该系统性地整理一下呀！ 如果能有什么资料，可以从头到尾按照时间顺序介绍一下各",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Win常用命令",
+    "url": "https://blog.wo0ow.com/36272.html",
+    "date": "2026-06-17T01:38:41Z",
+    "description": "查询端口占用并关闭程序 <a href=\"https://blog.csdn.net/Anm",
+    "source_root_domain": "wo0ow.com"
+  },
+  {
+    "title": "ADHD 究竟是疾病还是一种“标签”？",
+    "url": "https://mobius.blog/24656.html",
+    "date": "2026-06-17T01:00:00Z",
+    "description": "接着《我的吸尘器哪儿去了？》展开的话题继续。 打开小红书，搜索 ADHD，你会发现进入 2026 年，这不再是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "UniGetUI —— 可能是 Windows 下最好用的应用商店",
+    "url": "https://www.ixiqin.com/2026/06/17/unigetui-may-be-the-best-app-store-for-windows/",
+    "date": "2026-06-17T00:58:52Z",
+    "description": "UniGetUI 是一款为 Windows 提供图形界面的包管理器聚合工具。它整合了 Winget、Scoop […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "小鱼",
+    "url": "https://elmtran.com/essays/yu/",
+    "date": "2026-06-17T00:00:00Z",
+    "description": "被风拂过的夏天",
+    "source_root_domain": "elmtran.com"
+  }
+]
