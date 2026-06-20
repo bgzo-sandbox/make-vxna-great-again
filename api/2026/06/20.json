@@ -1,5 +1,33 @@
 [
   {
+    "title": "云南系列｜Day 4 剑川古城记录",
+    "url": "https://blog.yasking.org/a/series-yunnan-travel-day4.html",
+    "date": "2026-06-20T13:28:07Z",
+    "description": "早上不知道吃什么，那就再来份米线吧～ 习惯了独立汤包，塑料袋装汤还真是不方便。 剑川我们计划只待一小天，作为去沙溪 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "Elfeed 4.0.0 使用分享",
+    "url": "https://taxodium.ink/elfeed-4-0-0-usage-sharing.html",
+    "date": "2026-06-20T12:50:00Z",
+    "description": "Elfeed 4.0.0 使用分享 Elfeed 是一個 Emacs 里的 RSS 閲讀器，關於 Elfeed 之前寫過一篇 在 Emacs 中用 Elfeed 阅读订阅流 ，那篇文章没怎麼展示 Elfeed 的使用，更多還是在分享一些工具函数。前陣子 Elfeed 也更新到了 4.0.0 ，新增了很多方便的功能，我最近也用的很多，所以再分享一下它的使用，或許你會想嘗試一下它。 為了更直觀了解，我录󠄃了個視頻，也可以看看： YouTube: Elfeed 4.0.0 使用分享 Bilibili: Elfeed 4.0.0 使用分享 有點囉嗦，推薦 1.5 倍速看。 視頻濱示中的配置 ( defconst is-a-mac (eq system-type 'darwin)) ;;; 设置 mac 的快捷键 ( when is-a-mac ( setq mac-command-modifier 'meta mac-option-modifier 'super)) ;;; 設置默認字體大小 (set-face-attribute 'default nil :height 250) ;;; 添",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "使用 Docker 部署 Github Actions Self Hosted Runner",
+    "url": "https://www.ixiqin.com/2026/06/20/use-dock-deployment-github-actions-self-hosted/",
+    "date": "2026-06-20T12:28:57Z",
+    "description": "近些年来，我的个人项目基本上也是托管在 Github 上的。主要的原因一方面是 Github 身边的 Git […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "云南系列｜Day 3 周城扎染 & 抵达剑川",
+    "url": "https://blog.yasking.org/a/series-yunnan-travel-day3.html",
+    "date": "2026-06-20T10:32:34Z",
+    "description": "清晨醒的早，在阳台上看日出。 洗漱后到洱海边可以看到水面波光粼粼，这个时候不热，估计紫外线也不少。 回来后拍了一张 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
     "title": "问Gemini的问题备份 20260620",
     "url": "https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260620/",
     "date": "2026-06-20T05:50:46Z",
@@ -31,7 +59,7 @@
     "title": "MacOS 快速插入当前时间",
     "url": "https://blog.est.im/2026/stdout-23",
     "date": "2026-06-20T04:06:22Z",
-    "description": "第一步：创建快捷指令 打开 Shortcuts 。 点击右上角 + 新建快捷指令。 添加动作 1：日期 搜索： 日期 添加 「日期（Current Date）」 动作，它默认就是当前时间。也可以直接在后面的文本动作里使用内置的 Current Date 变量。([Apple Support][1]) 添加动作 2：格式化日期 搜索： 格式化日期 添加 「格式化日期」 。 设置： 日期：选择「当前日期」 日期格式： 自定义 自定义格式填： yyyy-MM-dd HH:mm:ss 注意： yyyy 年 MM 月（大写） dd 日 HH 24小时 mm 分钟（小写） ss 秒（小写） 这样输出就是： 2026-06-20 14:37:52 添加动作 3：Applescript on run {input, parameters} -- 稍微延长一点延迟，确保触发快捷键的手指已经离开键盘 delay 0.1 -- display dialog \"Current date\" -- 将 Shortcuts 传入的 list 转换为字符串 set ts to item 1 of input as s",
+    "description": "第一步：创建快捷指令 打开 Shortcuts 。 点击右上角 + 新建快捷指令。 添加动作 1：日期 搜 添加 日期（Current Date） 动作，默认为当前时间 添加动作 2：格式化日期 添加 格式化日期，日期格式 自定义，填 yyyy-MM-dd HH:mm:ss 添加动作 3：Applescript on run {input, parameters} -- 稍微延长一点延迟，确保触发快捷键的手指已经离开键盘 delay 0.1 -- display dialog \"Current date\" -- 将 Shortcuts 传入的 list 转换为字符串 set ts to item 1 of input as string tell application \"System Events\" -- 释放可能被系统残留挂起的修饰键状态 -- 键盘区数字的 Key Code 分布是乱序的 set keyCodeMap to {29, 18, 19, 20, 21, 23, 22, 26, 28, 25} key up command key up option key up co",
     "source_root_domain": "feedburner.com"
   },
   {
@@ -75,6 +103,13 @@
     "date": "2026-06-19T21:55:32Z",
     "description": "记录一次用 AI 辅助学习 Godot SRPG 单关原型、游戏开发 playground 和 3D 制作管线的实践，重点关注如何把 AI 当作导师理解完整制作流程。",
     "source_root_domain": "shansan.top"
+  },
+  {
+    "title": "电影院和耳机",
+    "url": "https://blog.solazy.me/20260619/",
+    "date": "2026-06-19T15:00:00Z",
+    "description": "今天记录一个非常离奇但又非常合理的脑洞",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "哪吒监控面板曝高危漏洞，如何应对与自查？",

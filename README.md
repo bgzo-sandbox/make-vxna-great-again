@@ -27,17 +27,22 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-20 | [云南系列｜Day 4 剑川古城记录](https://blog.yasking.org/a/series-yunnan-travel-day4.html) | 早上不知道吃什么，那就再来份米线吧～ 习惯了独立汤包，塑料袋装汤还真是不方便。 剑川我们计划只待一小天，作为去沙溪 … |
+| 2026-06-20 | [Elfeed 4.0.0 使用分享](https://taxodium.ink/elfeed-4-0-0-usage-sharing.html) | Elfeed 4.0.0 使用分享 Elfeed 是一個 Emacs 里的 RSS 閲讀器，關於 Elfeed 之前寫過一篇 在 Emacs 中用 Elfeed 阅读订阅流 ，那篇文章没怎麼展示 Elfeed 的使用，更多還是在分享一些工具函数。前陣子 Elfeed 也更新到了 4.0.0 ，新增了… |
+| 2026-06-20 | [使用 Docker 部署 Github Actions Self Hosted Runner](https://www.ixiqin.com/2026/06/20/use-dock-deployment-github-actions-self-hosted/) | 近些年来，我的个人项目基本上也是托管在 Github 上的。主要的原因一方面是 Github 身边的 Git […] |
+| 2026-06-20 | [云南系列｜Day 3 周城扎染 & 抵达剑川](https://blog.yasking.org/a/series-yunnan-travel-day3.html) | 清晨醒的早，在阳台上看日出。 洗漱后到洱海边可以看到水面波光粼粼，这个时候不热，估计紫外线也不少。 回来后拍了一张 … |
 | 2026-06-20 | [问Gemini的问题备份 20260620](https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260620/) | 「时间戳。」 |
 | 2026-06-20 | [最近惦念 20260605](https://z.arlmy.me/posts/TILs/thoughts/20260605_Recently/) | 「不参与表演。」 |
 | 2026-06-20 | [最近惦念 20260522](https://z.arlmy.me/posts/TILs/thoughts/20260522_Recently/) | 「前深线与双螺旋。」 |
 | 2026-06-20 | [为什么越来越懒得解释](https://www.hecaitou.com/2026/06/why-i-no-longer-bother-to-explain-myself.html) | 关于自己的事情，我越来越懒得和人解释。原因是随着年纪增长，我对于人性有了新的认识。这种新认识告诉我：别费那个劲了。 现在，手头刚好有一个例子，可以给大家做参考。 前几天我的网络小店新发布了一款产品：鸡枞油卤腐。在文章中，我说「 里面能够看到黑色的油浸鸡枞丝」。很快就有两位读者留言，提出了疑问。一位说… |
-| 2026-06-20 | [MacOS 快速插入当前时间](https://blog.est.im/2026/stdout-23) | 第一步：创建快捷指令 打开 Shortcuts 。 点击右上角 + 新建快捷指令。 添加动作 1：日期 搜索： 日期 添加 「日期（Current Date）」 动作，它默认就是当前时间。也可以直接在后面的文本动作里使用内置的 Current Date 变量。([Apple Support][1])… |
+| 2026-06-20 | [MacOS 快速插入当前时间](https://blog.est.im/2026/stdout-23) | 第一步：创建快捷指令 打开 Shortcuts 。 点击右上角 + 新建快捷指令。 添加动作 1：日期 搜 添加 日期（Current Date） 动作，默认为当前时间 添加动作 2：格式化日期 添加 格式化日期，日期格式 自定义，填 yyyy-MM-dd HH:mm:ss 添加动作 3：Apple… |
 | 2026-06-20 | [The Elder Scrolls III: Morrowind updated](https://macsourceports.com/game/morrowind) | The build of OpenMW for The Elder Scrolls III: Morrowind has been updated to version openmw-0.51.0 of the project |
 | 2026-06-20 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo for Quetoo has been updated to the latest code of the project |
 | 2026-06-20 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.25 of the project |
 | 2026-06-20 | [快乐份子](https://mobius.blog/24805.html) | 这两天，大量的快乐份子被抓了，因为端午只能搭配安康。 紧急着，份子分子也被抓了，因为应该用“分子”。 快乐分子 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-20 | [Memos #2026-06-19](https://www.taober.blog/memos) | 10:33 荒诞的一个晚上… |
 | 2026-06-19 | [AI 时代快速了解自己感兴趣的计算机辅助的“制作工艺”管线](https://shansan.top/2026/06/19/learn-with-ai-friends/) | 记录一次用 AI 辅助学习 Godot SRPG 单关原型、游戏开发 playground 和 3D 制作管线的实践，重点关注如何把 AI 当作导师理解完整制作流程。 |
+| 2026-06-19 | [电影院和耳机](https://blog.solazy.me/20260619/) | 今天记录一个非常离奇但又非常合理的脑洞 |
 | 2026-06-19 | [哪吒监控面板曝高危漏洞，如何应对与自查？](https://blog.ensonyan.com/it/3433.html) | 哪吒监控面板（Nezha Monitoring）是一款开源的一体式服务器监控与运维面板，在华人 IT 圈中非常 […] |
 | 2026-06-19 | [火星不是人类的重启键](https://www.linggandianbo.com/newsletter-128/) | 从火星殖民幻梦、AI 时代的注意力礼仪、机器写作、翻译劳动，到科技圈失去的书呆子气｜灵感电波 #128 |
 | 2026-06-19 | [端午节快乐（2026）](https://www.hecaitou.com/2026/06/happy-dragon-boat-festival-2026.html) | 今年端午节是网络营销号捏造「端午安康」新民俗的十一周年，也是我个人在公众号撰文祝贺读者「端午节快乐」的第四年，对亲友说「端午节快乐」的第五十年。 个人在这个世界里，在时代潮流下，在汹涌人群之中，是无足轻重的存在。没有人在乎你想什么，也没有人在乎你说什么，甚至都懒得看你做什么。虽然现实如此，但是对于我… |
