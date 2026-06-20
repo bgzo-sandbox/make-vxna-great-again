@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-20 | [The Elder Scrolls III: Morrowind updated](https://macsourceports.com/game/morrowind) | The build of OpenMW for The Elder Scrolls III: Morrowind has been updated to version openmw-0.51.0 of the project |
+| 2026-06-20 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo for Quetoo has been updated to the latest code of the project |
+| 2026-06-20 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.25 of the project |
+| 2026-06-20 | [快乐份子](https://mobius.blog/24805.html) | 这两天，大量的快乐份子被抓了，因为端午只能搭配安康。 紧急着，份子分子也被抓了，因为应该用“分子”。 快乐分子 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-20 | [Memos #2026-06-19](https://www.taober.blog/memos) | 10:33 荒诞的一个晚上… |
 | 2026-06-19 | [AI 时代快速了解自己感兴趣的计算机辅助的“制作工艺”管线](https://shansan.top/2026/06/19/learn-with-ai-friends/) | 记录一次用 AI 辅助学习 Godot SRPG 单关原型、游戏开发 playground 和 3D 制作管线的实践，重点关注如何把 AI 当作导师理解完整制作流程。 |
 | 2026-06-19 | [哪吒监控面板曝高危漏洞，如何应对与自查？](https://blog.ensonyan.com/it/3433.html) | 哪吒监控面板（Nezha Monitoring）是一款开源的一体式服务器监控与运维面板，在华人 IT 圈中非常 […] |
 | 2026-06-19 | [火星不是人类的重启键](https://www.linggandianbo.com/newsletter-128/) | 从火星殖民幻梦、AI 时代的注意力礼仪、机器写作、翻译劳动，到科技圈失去的书呆子气｜灵感电波 #128 |
@@ -40,10 +45,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-18 | [AI Agent 看板](https://smallyu.net/2026/06/18/AI-Agent%E7%9C%8B%E6%9D%BF/) | 有一个给 AI Agent 设计的看板工具叫 Multica，理念是本地部署，本地运行的 AI 比如 Codex、Claude Code、Antigravity 等都以 Agent 形式接入看板，然后你就可以给 AI Agent |
 | 2026-06-18 | [MECHREVO WUJIE14 PRO on Linux 声卡完整修复历程](https://hellodk.cn/post/1226) | 为了解决我的机械革命无界 14 pro 笔记本在 linux debian testing(forky) 下的自带麦克风、自带扬声器、插入 3.5mm 耳机这三个场景下，对应硬件都能正常工作的问... |
 | 2026-06-18 | [什么是Skill，它能迸发出什么能力](https://deepzz.com/post/what-is-ai-skil.html) | 1、什么是 Skill Skill（技能）本质上是 一份写给 AI 的”专业说明书” 。它用 Markdown 把某个领域的知识、流程、规范、可复用的脚本打包起来，让 AI 在遇到对应任务时，能像一个专家一样按既定方法去做事。 可以用一句话概括： Skill = 触发条件（什么时候用） + 操作指南… |
-| 2026-06-18 | [New Release: Quetoo](https://macsourceports.com/game/quetoo) | So this is interesting, I just stumbled on this randomly a few weeks back right after it was released, although it was apparently in the works for twe… |
 | 2026-06-18 | [New Release: Clockwiser](https://macsourceports.com/game/clockwiser) | Also an Amiga game from Team Hoi, Clockwiser at first appears to be a standard issue match-3 game, but the twist is not something I've seen before. Yo… |
 | 2026-06-18 | [New Release: Hoi](https://macsourceports.com/game/hoi) | Another game where you can tell it's an Amiga game just by looking at it, Hoi hails from the era when developers were filling in the gaps, as well as… |
 | 2026-06-18 | [越来越多的 ADHD 是现代社交媒体制造的吗？](https://mobius.blog/24661.html) | 接着《我的吸尘器哪儿去了？》引发的话题。今天来聊聊一个被越来越多人讨论的话题：现代人的 ADHD 是社交媒体制 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-18 | [逐渐关闭的大门：香港券商收紧的背后](https://hangbin.blog/blog/hk-brokers-mainland-investors-offshore-allocation/) | 当年我在澳大利亚留学，毕业后逐渐注销或关闭了银行、commonsec账户。最近几年，准备做一些国际的资产配置，才发现中国对金融的管控，十年间逐渐升级到了难以想象的程度。 就说上个月，中国的证监会要求香港券商清理大陆存量的客户账户。富途、老虎这类跨境互联网券商，早在十年前的2016年就被监管点过名。那… |
 | 2026-06-17 | [股票配债缴款操作指南](https://programnotes.cn/stock-convertible-bond/index.html) | 账户类型不同，操作略有差异，但核心要素一致： 配债代码 （公告公布，通常7或8开头）、 价格 （100元/张）、 数量 （系统显示的可配售张数）。 普通账户 缴款前准备 核对配售数量 ：T日开盘后登录账户，在”持仓”或”配债”栏目查看可配售张数，如10张。 备足资金 ：所需资金 = 张数 × 100… |
 | 2026-06-17 | [开始万豪白金挑战](https://blog.solazy.me/20260617/) | 最近给自己布置的一个小任务 |
 | 2026-06-17 | [Give Your Camera Real GPS: A No-Internet Hardware Fix with furble](https://missuo.me/posts/camera-gps-furble/) | Most cameras still ship without a GPS module, so photos come out of the card with no location data in their EXIF. The official phone apps are supposed… |
@@ -82,7 +87,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-16 | [zui.re 上线记：把最热两个字，变成新闻站](https://www.evan.xin/5051/) | zui.re 是我给自己做的一块信息看板。 平时会看的内容其实很散，技术、产品、热榜、论坛更新都分布在不同网站 […] |
 | 2026-06-16 | [我的吸尘器哪儿去了？](https://mobius.blog/24649.html) | 一个成年后患有 ADHD 的朋友跟我闲聊，然后我发现了一个有趣现象。他想先用吸尘器收拾家里，但是吸尘到一半时， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-16 | [极速聊 Nintendo Direct 260609](https://bluepika.life/blog/nintendo-direct-260609-quick-chat) | 简单记录一下这次 Nintendo Direct 里出现的游戏，以及直播时的一些即时感想。 |
-| 2026-06-16 | [Memos #2026-06-15](https://www.taober.blog/memos) | 15:45 今天早上 9:20 才起床，火急火燎地往公司赶，还是迟到了 10 分钟，还好不用打卡。 最近真的是睡得太晚了，加上多梦，就起床困难。 |
 | 2026-06-15 | [Beren 与 Lúthien 长眠处](https://anotherdayu.com/beren-and-lúthien/) | 周末 《指环王：中土对决》 玩的上头，想起托老的墓地就在附近。 第二天一早，天气还算清朗，骑车出门，二十多分钟后，到了 Wolvercote Cemetery。很安静的公墓，有大片草地、树木、低矮墓碑、小礼拜堂。 谷歌地图上专门标出了 「J.R.R. Tolkien’s Grave」，内部也有指引牌… |
 | 2026-06-15 | [wolai MCP](https://elmagnifico.tech/2026/06/16/Wolai-MCP/) | Foreword wolai这几年被阿里收购以后，马锐拉似乎就不在台前了，更新节奏也从「一天一更」退化成了「一年一更（大概）」。我们刚用 wolai 那会儿正好是他还在的时候；后来他去阿里当副总裁搞 AI，我们提的意见就跟进了漂流瓶——能漂到对岸算缘分。更新说明文档一两年没认真维护，新出的 MCP… |
 | 2026-06-15 | [Zine#52 - 我们都无法成为大人](https://taxodium.ink/52.html) | Zine#52 我们都无法成为大人 🎵 彗星 - 小沢健二 Zine#51 分享了小沢健二的「天使たちのシーン」，它是電影 我们都无法成为大人 的插曲，我後來去看了。「彗星」這首也是電影中的插曲，影片的叙事回到了 2020 年，主角和曾經的友人告別，坐上了出租車，車上的广播播送著： …的確是這樣，而… |
@@ -126,21 +130,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-13 | [《上伊那牡丹，酒醉身姿似百合花般》圣地巡礼之杂司谷旧传教士馆](https://www.wikimoe.com/post/b-tgiqgzvs) | 2026年6月12日，天气晴，午后雷阵雨。 今天去位于东京都丰岛区杂司谷的杂司谷旧传教士馆。 这里是动画《上伊那牡丹，酒醉身姿似百合花般》的宿舍取景地。 关于杂司谷旧传教士馆 这栋建筑是由美国传教士J・M・麦凯莱布于明治四十年（1907年）建造的。麦凯莱布直到昭和十六年（1941年）回国为止，在这所… |
 | 2026-06-13 | [杜邦分解：从ROE看懂利润率、周转率与财务杠杆](https://elmtran.com/essays/dupont-analysis/) | 一篇面向股票研究与交易实操的杜邦分析笔记，覆盖三因素和五因素拆解、计算案例、典型公司以及如何把分析结果放进交易流程。 |
 | 2026-06-13 | [胜率、赔率与交易优势：一张可执行的交易决策卡片](https://elmtran.com/essays/trading-edge-framework/) | 一套把胜率、盈亏比、期望值、盈利因子、连续亏损和凯利仓位转化为实盘决策参考的Trading Edge Framework。 |
-| 2026-06-12 | [没有成为钢琴家的天分，为什么还要让孩子坚持学钢琴？](https://diff.im/blog/2026/06/%E6%B2%A1%E6%9C%89%E6%88%90%E4%B8%BA%E9%92%A2%E7%90%B4%E5%AE%B6%E7%9A%84%E5%A4%A9%E5%88%86%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%A6%81%E8%AE%A9%E5%AD%A9%E5%AD%90%E5%9D%9A%E6%8C%81%E5%AD%A6%E9%92%A2%E7%90%B4/) | 所谓天分，很多时候是一个相对的概念。这个孩子可能比那个孩子更有音乐感，节奏更稳，手指条件更好。 但是，当你见过那些真正有天赋的人，就会知道，天分对不同人来说，是数量级的差别。 就我们家孩子来说，我不觉得他们有成为专业钢琴家的天分。 但他们有足够强的学习能力，有领受的能力，也有不错的技巧。对我们家来说… |
-| 2026-06-12 | [数字人民币和支付宝、微信支付有什么区别？](https://yfzz.net/?p=132) | 不是一回事，支付宝以及微信支付属于“线上支付”，这事“云闪付”就能干，而数字人民币从名字就能看出来，是通过现代... |
-| 2026-06-12 | [语言是思想的 KV Cache](https://luweiqing.com/gossip/language-as-KV-Cache.html) | 语言是思想的 KV Cache，使用人数和时间更长的语言，会有一些优势语言像 KV Cache 的地方维度语言KV Cache作用保存和传递上下文保存和复用推理上下文价值让思考可以连续累积让模型... |
-| 2026-06-12 | [记一次出差时的 AirPods 巡回](https://blog.solazy.me/20260612/) | 找回了我的 AirPods |
-| 2026-06-12 | [Linux Desktop 使用 NVIDIA 独显驱动 Google Earth Pro 和 WeChat](https://hellodk.cn/post/1224) | 原理NVIDIA 官方提供了 PRIME Render Offload 机制，通过环境变量让指定程序走独显渲染：NVPRIMERENDEROFFLOAD=1 — 告诉 NVIDIA 驱... |
-| 2026-06-12 | [K3s 集群证书过期紧急轮换笔记](https://199604.com/3582) | K3s 集群证书过期紧急轮换笔记 前言/背景 最近 Prometheus 突然弹出一个 warning 告警， […] |
-| 2026-06-12 | [Lesson 30 复习](https://physnya.top/GR/lesson-30-review/) | Minkowski 度规： d s 2 = η α β d x α d x β \mathrm{d}s^2=\eta_{\alpha\beta}\mathrm{d}x^\alpha\mathrm{d}x^\beta d s 2 = η α β ​ d x α d x β . Lorentz 变换做的… |
-| 2026-06-12 | [罗马-佛罗伦萨-梵蒂冈之旅（四）](https://eduardoqian.com/archives/luo-ma-fo-luo-lun-sa-fan-di-gang-zhi-lu-si) | 从佛罗伦萨返回梵蒂冈，这是我本次旅行的最后一天，旅游目的地只有梵蒂冈。当天天气不大太好，在我下午回到梵蒂冈，找到酒店住上之后，我便绕着梵蒂冈走了走，去圣彼得大教堂排队。 排队进入圣彼得大教堂之后，不由得为其中的瑰丽景色而赞叹。相比于其他的教堂，圣彼得大教堂非常的庄严壮丽。 |
-| 2026-06-12 | [车祸 XIII](https://mobius.blog/24607.html) | （2026-全国卷）下列哪些是提升电动车品牌效应的方法： A、通过分析起火/爆炸事故数据，改进电池安全； B、 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-12 | [幻火轮观工作](https://www.hecaitou.com/2026/06/the-illusion-of-the-fire-wheel-a-vision-of-work.html) | 工作有点像是玩火艺人手中耍出来的火轮，打工人就有点像是这位艺人。 工作有光鲜的，有幕后的，有轻松的，也有辛苦的，更有少数成功的，以及更多失败的。但都不妨把它们视为一个旋转的火轮，看起来是一个燃烧的圆形，其实只有打工人此时手中控制着的这一刻。火轮，只是看起来如此，并不真实存在。 对于打工人而言，愿不愿… |
-| 2026-06-12 | [酷态科、绿联、倍思、海备思，中国数码配件的四张面孔](https://www.iyeslogo.com/china-digital-accessories-brand/) | 数码配件行业品牌忠诚度低，品牌如何立足？酷态科以技术实力实现降维打击，绿联从数据线起步构建连接方案，倍思实用美学突围，海备思专注小众连接需求。四品牌代表不同路径：技术极客、大众心智、审美升级、小众壁垒。在透明供应链时代，品牌核心竞争力在于讲述并持续沉淀独特故事。 |
-| 2026-06-12 | [我想和真人说话](https://www.linggandianbo.com/newsletter-127/) | 从 AI 答案疲劳、上班时“什么都不做”、多巴胺压裂、疗愈为何无效，到 SpaceX 为火星建立的长期赌局｜灵感电波 #127 |
-| 2026-06-12 | [如何高雅地扣帽子？ I](https://mobius.blog/24619.html) | 没错，标题里的“扣帽子”，指的就是那个常见的人身攻击手段：通过贴标签的方式，使他人对被贴标签对象产生“先入为主 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-12 | [国际足联是怎样挣钱的？3年营收130亿美元](https://wenfeixiang.com/2026/06/how-fifa-makes-money/) | 2026世界杯即将开始，看到一张信息图，和大家分享： 最新数据显示，2023–2026年国际足联 FIFA总收 […] |
-| 2026-06-12 | [当 AI 拿走一切之后](https://ursb.me/posts/after-ai-takes-everything/) | 最近一个月我陆续收到了三封咨询来信，来信的是三位素未谋面的软件研发，或是基础架构的前端或是数据部分的运维，但这三封信其实困惑其实是同一个问题。 第一封信问我：“你觉得我们以后，全部都会交给 AI 做吗？如果是，code review 这些，还需要人吗？” 我的回答是：很快。年底或明年，最迟后年。 第… |
 
 ## Vibe Coding
 
