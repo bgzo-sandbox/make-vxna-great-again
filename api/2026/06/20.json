@@ -1,5 +1,40 @@
 [
   {
+    "title": "问Gemini的问题备份 20260620",
+    "url": "https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260620/",
+    "date": "2026-06-20T05:50:46Z",
+    "description": "「时间戳。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "最近惦念 20260605",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260605_Recently/",
+    "date": "2026-06-20T05:35:27Z",
+    "description": "「不参与表演。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "最近惦念 20260522",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260522_Recently/",
+    "date": "2026-06-20T05:32:27Z",
+    "description": "「前深线与双螺旋。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "为什么越来越懒得解释",
+    "url": "https://www.hecaitou.com/2026/06/why-i-no-longer-bother-to-explain-myself.html",
+    "date": "2026-06-20T04:35:57Z",
+    "description": "关于自己的事情，我越来越懒得和人解释。原因是随着年纪增长，我对于人性有了新的认识。这种新认识告诉我：别费那个劲了。 现在，手头刚好有一个例子，可以给大家做参考。 前几天我的网络小店新发布了一款产品：鸡枞油卤腐。在文章中，我说「 里面能够看到黑色的油浸鸡枞丝」。很快就有两位读者留言，提出了疑问。一位说：XX 美食节目大咖做的鸡枞月饼里，被揭发用的是黑皮鸡枞。 另外一位更直接，说：「正好看到另外一个号说的黑皮鸡枞和鸡枞不能误用，就像姬松茸和松茸不能误用一样」；随即又表示说：「所以很遗憾，精神洁癖的我取关了」。 在这个例子里，前一位读者是可以做解释的对象，后一位则完全没有这个必要。 前者之所以可以解释，是因为他的心未定，只是提出个人疑问而已。而且，提问的方式很委婉，用了旁敲侧击的方式，这说明在心中最基本的信任并没有失去。 所以可以向他解释，鸡枞自身会缓慢氧化，刚做出来的成品是漂亮的金黄色，但是随着时间推移会逐渐变为褐色乃至黑色。也可以解释，做卤腐的合作厂商舍不得放鸡枞，所以是我们自己提供原料，因为我们每年都在做大量油浸鸡枞。还可以解释，黑皮鸡枞不是鸡枞，如果我肯用它来充当真正的鸡枞，那么我要",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "MacOS 快速插入当前时间",
+    "url": "https://blog.est.im/2026/stdout-23",
+    "date": "2026-06-20T04:06:22Z",
+    "description": "第一步：创建快捷指令 打开 Shortcuts 。 点击右上角 + 新建快捷指令。 添加动作 1：日期 搜索： 日期 添加 「日期（Current Date）」 动作，它默认就是当前时间。也可以直接在后面的文本动作里使用内置的 Current Date 变量。([Apple Support][1]) 添加动作 2：格式化日期 搜索： 格式化日期 添加 「格式化日期」 。 设置： 日期：选择「当前日期」 日期格式： 自定义 自定义格式填： yyyy-MM-dd HH:mm:ss 注意： yyyy 年 MM 月（大写） dd 日 HH 24小时 mm 分钟（小写） ss 秒（小写） 这样输出就是： 2026-06-20 14:37:52 添加动作 3：Applescript on run {input, parameters} -- 稍微延长一点延迟，确保触发快捷键的手指已经离开键盘 delay 0.1 -- display dialog \"Current date\" -- 将 Shortcuts 传入的 list 转换为字符串 set ts to item 1 of input as s",
+    "source_root_domain": "feedburner.com"
+  },
+  {
     "title": "The Elder Scrolls III: Morrowind updated",
     "url": "https://macsourceports.com/game/morrowind",
     "date": "2026-06-20T03:17:29Z",

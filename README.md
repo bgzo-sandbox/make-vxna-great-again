@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-20 | [问Gemini的问题备份 20260620](https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260620/) | 「时间戳。」 |
+| 2026-06-20 | [最近惦念 20260605](https://z.arlmy.me/posts/TILs/thoughts/20260605_Recently/) | 「不参与表演。」 |
+| 2026-06-20 | [最近惦念 20260522](https://z.arlmy.me/posts/TILs/thoughts/20260522_Recently/) | 「前深线与双螺旋。」 |
+| 2026-06-20 | [为什么越来越懒得解释](https://www.hecaitou.com/2026/06/why-i-no-longer-bother-to-explain-myself.html) | 关于自己的事情，我越来越懒得和人解释。原因是随着年纪增长，我对于人性有了新的认识。这种新认识告诉我：别费那个劲了。 现在，手头刚好有一个例子，可以给大家做参考。 前几天我的网络小店新发布了一款产品：鸡枞油卤腐。在文章中，我说「 里面能够看到黑色的油浸鸡枞丝」。很快就有两位读者留言，提出了疑问。一位说… |
+| 2026-06-20 | [MacOS 快速插入当前时间](https://blog.est.im/2026/stdout-23) | 第一步：创建快捷指令 打开 Shortcuts 。 点击右上角 + 新建快捷指令。 添加动作 1：日期 搜索： 日期 添加 「日期（Current Date）」 动作，它默认就是当前时间。也可以直接在后面的文本动作里使用内置的 Current Date 变量。([Apple Support][1])… |
 | 2026-06-20 | [The Elder Scrolls III: Morrowind updated](https://macsourceports.com/game/morrowind) | The build of OpenMW for The Elder Scrolls III: Morrowind has been updated to version openmw-0.51.0 of the project |
 | 2026-06-20 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo for Quetoo has been updated to the latest code of the project |
 | 2026-06-20 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.25 of the project |
