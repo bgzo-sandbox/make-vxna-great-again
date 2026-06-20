@@ -10,7 +10,7 @@
     "title": "Elfeed 4.0.0 使用分享",
     "url": "https://taxodium.ink/elfeed-4-0-0-usage-sharing.html",
     "date": "2026-06-20T12:50:00Z",
-    "description": "Elfeed 4.0.0 使用分享 Elfeed 是一個 Emacs 里的 RSS 閲讀器，關於 Elfeed 之前寫過一篇 在 Emacs 中用 Elfeed 阅读订阅流 ，那篇文章没怎麼展示 Elfeed 的使用，更多還是在分享一些工具函数。前陣子 Elfeed 也更新到了 4.0.0 ，新增了很多方便的功能，我最近也用的很多，所以再分享一下它的使用，或許你會想嘗試一下它。 為了更直觀了解，我录󠄃了個視頻，也可以看看： YouTube: Elfeed 4.0.0 使用分享 Bilibili: Elfeed 4.0.0 使用分享 有點囉嗦，推薦 1.5 倍速看。 視頻濱示中的配置 ( defconst is-a-mac (eq system-type 'darwin)) ;;; 设置 mac 的快捷键 ( when is-a-mac ( setq mac-command-modifier 'meta mac-option-modifier 'super)) ;;; 設置默認字體大小 (set-face-attribute 'default nil :height 250) ;;; 添",
+    "description": "Elfeed 4.0.0 使用分享 Elfeed 是一個 Emacs 里的 RSS 閲讀器，關於 Elfeed 之前寫過一篇 在 Emacs 中用 Elfeed 阅读订阅流 ，那篇文章没怎麼展示 Elfeed 的使用，更多還是在分享一些工具函数。前陣子 Elfeed 也更新到了 4.0.0 ，新增了很多方便的功能，我最近也用的很多，所以再分享一下它的使用，或許你會想嘗試一下它。 為了更直觀了解，我录󠄃了個視頻，也可以看看： YouTube: Elfeed 4.0.0 使用分享 Bilibili: Elfeed 4.0.0 使用分享 有點囉嗦，推薦 1.5 倍速看。 視頻演示中的配置 ( defconst is-a-mac (eq system-type 'darwin)) ;;; 设置 mac 的快捷键 ( when is-a-mac ( setq mac-command-modifier 'meta mac-option-modifier 'super)) ;;; 設置默認字體大小 (set-face-attribute 'default nil :height 250) ;;; 添",
     "source_root_domain": "taxodium.ink"
   },
   {
