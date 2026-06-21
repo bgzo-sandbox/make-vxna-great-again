@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-21 | [我做了一个免费的在线图片压缩工具——VeryPixel](https://veryjack.com/technique/verypixel/) | 平时写博客，我总需要先压缩配图、转换格式，然后再上传。网上的图片压缩工具虽然多，但用起来总不太顺手：有的需要下载客户端甚至收费，有的直接传到服务器存在隐私风险。我之前常用在线工具 Squoosh，压缩效果很不错，但它一次只能处理一张图片，如果一篇游记有几十张照片，逐一上传调整参数，实在太折磨人。 我… |
 | 2026-06-21 | [西雅图 2 日自驾游 - 旅行随拍](https://blog.ensonyan.com/photographing/3446.html) | 在加拿大温哥华居住的这几年，我还从未向南边的西雅图进发过，只有数个在此匆匆转机的经历。趁着这周没有太多繁杂琐事 […] |
 | 2026-06-21 | [摘：波德莱尔《Enivrez-Vous/沉醉/Get Drunk》](https://z.arlmy.me/posts/Note/Note_CharlesBaudelaire_EnivrezVous/) | 「快去沉醉于诗，沉醉于美，沉醉于酒。。」 |
 | 2026-06-21 | [Toots 424 2026 Jun.14 - Jun.20](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260620/) | 「短檐侧自处，天际看鸿飞。」 |

@@ -1,5 +1,12 @@
 [
   {
+    "title": "我做了一个免费的在线图片压缩工具——VeryPixel",
+    "url": "https://veryjack.com/technique/verypixel/",
+    "date": "2026-06-21T11:09:27Z",
+    "description": "平时写博客，我总需要先压缩配图、转换格式，然后再上传。网上的图片压缩工具虽然多，但用起来总不太顺手：有的需要下载客户端甚至收费，有的直接传到服务器存在隐私风险。我之前常用在线工具 Squoosh，压缩效果很不错，但它一次只能处理一张图片，如果一篇游记有几十张照片，逐一上传调整参数，实在太折磨人。 我做了一个免费的在线图片压缩工具——VeryPixel 最先出现在 Jack's Space 。",
+    "source_root_domain": "veryjack.com"
+  },
+  {
     "title": "西雅图 2 日自驾游 - 旅行随拍",
     "url": "https://blog.ensonyan.com/photographing/3446.html",
     "date": "2026-06-21T07:44:51Z",
