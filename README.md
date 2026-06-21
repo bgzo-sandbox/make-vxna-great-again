@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-21 | [286、夏至](https://1900.live/286-xia-zhi/) | null 蝉声初沸，白昼始极，天地在极致与转折之间，悄悄按下了一个惊叹号。 太阳行至黄经90°，夏至——夏之第四序。 蝉鸣撕开长夏，声声如锯，把日子锯成最漫长的一截光；荷塘铺满绿盖，菡萏探出了第一支胭脂色的笔，蘸着正午的烈阳，准备写一封给远秋的信；而午后的雷雨，来得急去得也急，把天地洗成一面澄澈的镜… |
+| 2026-06-21 | [这一周莫比乌斯环转到了哪里？](https://mobius.blog/24674.html) | 大概还是需要一个“创刊号”，原因是我关闭了博客发布文章时的 Newsletter，但是我又真的很他妈讨厌“周报”这玩意儿，所以就折中一下。与其汇报这周做了什么、看了什么、想到了什么，不如聊聊这一周莫比乌斯环转到了哪里。 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或… |
+| 2026-06-21 | [Memos #2026-06-20](https://www.taober.blog/memos) | 20:32 灵芝公园 4km，自律一波，晚上看比赛！ |
 | 2026-06-20 | [幼稚的女拳师](https://sinyalee.com/blog/?p=1170) | 很多女拳师，到现在攻击我，还是只会重复那套你长得丑，没人爱你。挂一个典型女拳师的回答给你们看看。本来想举报的， […] |
 | 2026-06-20 | [当电影在黑暗中寻找光](https://blog.solazy.me/20260620/) | 今天听播客萌生了一个话题，索性展开聊聊 |
 | 2026-06-20 | [云南系列｜Day 4 剑川古城记录](https://blog.yasking.org/a/series-yunnan-travel-day4.html) | 早上不知道吃什么，那就再来份米线吧～ 习惯了独立汤包，塑料袋装汤还真是不方便。 剑川我们计划只待一小天，作为去沙溪 … |
@@ -42,7 +45,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-20 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo for Quetoo has been updated to the latest code of the project |
 | 2026-06-20 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.25 of the project |
 | 2026-06-20 | [快乐份子](https://mobius.blog/24805.html) | 这两天，大量的快乐份子被抓了，因为端午只能搭配安康。 紧急着，份子分子也被抓了，因为应该用“分子”。 快乐分子 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-20 | [Memos #2026-06-19](https://www.taober.blog/memos) | 10:33 荒诞的一个晚上… |
 | 2026-06-19 | [AI 时代快速了解自己感兴趣的计算机辅助的“制作工艺”管线](https://shansan.top/2026/06/19/learn-with-ai-friends/) | 记录一次用 AI 辅助学习 Godot SRPG 单关原型、游戏开发 playground 和 3D 制作管线的实践，重点关注如何把 AI 当作导师理解完整制作流程。 |
 | 2026-06-19 | [电影院和耳机](https://blog.solazy.me/20260619/) | 今天记录一个非常离奇但又非常合理的脑洞 |
 | 2026-06-19 | [哪吒监控面板曝高危漏洞，如何应对与自查？](https://blog.ensonyan.com/it/3433.html) | 哪吒监控面板（Nezha Monitoring）是一款开源的一体式服务器监控与运维面板，在华人 IT 圈中非常 […] |
@@ -130,18 +132,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-14 | [记录一下我删除相机 SD 卡当中废片的工作流](https://hellodk.cn/post/1225) | 采用 python 脚本实现（python3）。相关说明：Linux/mac 电脑，如果你是 windows 电脑那么脚本需要稍加改造相机当中开启了拍摄的照片按照日期文件夹存储，这种功能，否则可... |
 | 2026-06-14 | [Agent 时代的软件接口](https://www.bmpi.dev/dev/agent-native-system-paradigm/) | 把大模型塞进聊天框并不能解决复杂问题。本文通过量化投资系统与 Minecraft 建造引擎两个案例，拆解一套面向 Agent 的工作流设计范式：领域 DSL、IR/DAG、验证契约与修复循环。 |
 | 2026-06-14 | [关于音乐的一些记忆](https://blog.sakoamc.com/posts/t26002/) | 感谢永远有歌把心境道破，有音乐真好！ |
-| 2026-06-14 | [WalkMate · 行咗未](https://efan404.com/products/walkmate/) | 面向香港学生的户外探索与生物多样性收集 App，走路养宠物、解锁本地物种图鉴 |
-| 2026-06-14 | [防水纸条 Soulnote](https://efan404.com/products/soulnote/) | 本地优先的情绪纸条应用，写下此刻、长按浸泡，把柔软的纸条保存在设备里 |
-| 2026-06-13 | [locate cost](https://blog.est.im/2026/stdin-17) | 翻到一个 AI 编程的出错提示 Could not find oldString in the file. It must match exactly, including whitespace, indentation, and line endings 我突然发现 agent coding 浪费… |
-| 2026-06-13 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.5 of the project |
-| 2026-06-13 | [低频但高质量的友谊](https://blog.solazy.me/20260613/) | 从和一个很久没联系的朋友见面说起…… |
-| 2026-06-13 | [成熟设计师的顶级自律，把书读薄，把人读厚，把心读静](https://www.iyeslogo.com/designer-and-books/) | 在这个信息爆炸的时代，设计师需要顶级自律而非张扬才华。 |
-| 2026-06-13 | [明镜荡｜上海出发一小时的宝藏湖荡露营地](https://blog.ops-coffee.com/r/city-china-jiangsu-suzhou-kunshan-mingjingdang.html) |  |
-| 2026-06-13 | [数学和阅读的用处](https://www.hecaitou.com/2026/06/What-Use-Is-Math-and-Reading.html) | 我数学不行，但还是喜欢，有点类似舔狗。以前遇到过一个问题，「毕业之后数学还有什么用」，一时间回答不了，心态崩了，有点类似舔狗无法捍卫女神而感到无力。 99% 的人不需要会解偏微分方程也可以安稳顺利幸福地度过一生，而在菜市场只需要小学三年级以下的数学尤其是心算就够了，所以我想不出什么理由来反驳。 现在… |
-| 2026-06-13 | [如何高雅地扣帽子？II](https://mobius.blog/24637.html) | 继续“扣帽子”的话题。 今天从一个有趣的案例说起。前两天，我在 X 上看到一群日本人在讨论一段监控画面： 一位 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-13 | [《上伊那牡丹，酒醉身姿似百合花般》圣地巡礼之杂司谷旧传教士馆](https://www.wikimoe.com/post/b-tgiqgzvs) | 2026年6月12日，天气晴，午后雷阵雨。 今天去位于东京都丰岛区杂司谷的杂司谷旧传教士馆。 这里是动画《上伊那牡丹，酒醉身姿似百合花般》的宿舍取景地。 关于杂司谷旧传教士馆 这栋建筑是由美国传教士J・M・麦凯莱布于明治四十年（1907年）建造的。麦凯莱布直到昭和十六年（1941年）回国为止，在这所… |
-| 2026-06-13 | [杜邦分解：从ROE看懂利润率、周转率与财务杠杆](https://elmtran.com/essays/dupont-analysis/) | 一篇面向股票研究与交易实操的杜邦分析笔记，覆盖三因素和五因素拆解、计算案例、典型公司以及如何把分析结果放进交易流程。 |
-| 2026-06-13 | [胜率、赔率与交易优势：一张可执行的交易决策卡片](https://elmtran.com/essays/trading-edge-framework/) | 一套把胜率、盈亏比、期望值、盈利因子、连续亏损和凯利仓位转化为实盘决策参考的Trading Edge Framework。 |
 
 ## Vibe Coding
 

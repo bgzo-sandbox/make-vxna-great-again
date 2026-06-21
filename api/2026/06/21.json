@@ -1,0 +1,170 @@
+[
+  {
+    "title": "286、夏至",
+    "url": "https://1900.live/286-xia-zhi/",
+    "date": "2026-06-21T02:54:25Z",
+    "description": "null 蝉声初沸，白昼始极，天地在极致与转折之间，悄悄按下了一个惊叹号。 太阳行至黄经90°，夏至——夏之第四序。 蝉鸣撕开长夏，声声如锯，把日子锯成最漫长的一截光；荷塘铺满绿盖，菡萏探出了第一支胭脂色的笔，蘸着正午的烈阳，准备写一封给远秋的信；而午后的雷雨，来得急去得也急，把天地洗成一面澄澈的镜，映出阴阳交割的第一道裂痕。 天地以\"极\"为警，以\"至\"为界；阳极而阴生，方得循环。 此刻，不妨： 把步子放慢一寸，在最长的一日里，学会与时间对坐； 把心静下一寸，任蝉声沸反盈天，而心底自有清凉； 把执念放下半寸，学那影子的规则——到了最长的尽头，便开始一寸寸缩短； 把日程调成六分满——留四分，给冰镇梅汤、给荷风、给一场不期而至的骤雨。 愿我们： 在日光最烈时，学会休憩与涵养； 在蝉声最噪时，学会寂静与倾听； 在荷花初绽时，学会等待与欣赏； 于\"极\"与\"敛\"的罅隙里，握紧这枚\"夏至\"的印章， 然后，背一篓最长的日光，去遇见那即将到来的伏暑，去迎接那阴生阳敛的平衡。 ——DeepSeek v4 flash",
+    "source_root_domain": "1900.live"
+  },
+  {
+    "title": "这一周莫比乌斯环转到了哪里？",
+    "url": "https://mobius.blog/24674.html",
+    "date": "2026-06-21T01:00:00Z",
+    "description": "大概还是需要一个“创刊号”，原因是我关闭了博客发布文章时的 Newsletter，但是我又真的很他妈讨厌“周报”这玩意儿，所以就折中一下。与其汇报这周做了什么、看了什么、想到了什么，不如聊聊这一周莫比乌斯环转到了哪里。 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Memos #2026-06-20",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-06-21T00:00:00Z",
+    "description": "20:32 灵芝公园 4km，自律一波，晚上看比赛！",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "幼稚的女拳师",
+    "url": "https://sinyalee.com/blog/?p=1170",
+    "date": "2026-06-20T19:15:25Z",
+    "description": "很多女拳师，到现在攻击我，还是只会重复那套你长得丑，没人爱你。挂一个典型女拳师的回答给你们看看。本来想举报的， […]",
+    "source_root_domain": "sinyalee.com"
+  },
+  {
+    "title": "当电影在黑暗中寻找光",
+    "url": "https://blog.solazy.me/20260620/",
+    "date": "2026-06-20T15:00:00Z",
+    "description": "今天听播客萌生了一个话题，索性展开聊聊",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "云南系列｜Day 4 剑川古城记录",
+    "url": "https://blog.yasking.org/a/series-yunnan-travel-day4.html",
+    "date": "2026-06-20T13:28:07Z",
+    "description": "早上不知道吃什么，那就再来份米线吧～ 习惯了独立汤包，塑料袋装汤还真是不方便。 剑川我们计划只待一小天，作为去沙溪 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "Elfeed 4.0.0 使用分享",
+    "url": "https://taxodium.ink/elfeed-4-0-0-usage-sharing.html",
+    "date": "2026-06-20T12:50:00Z",
+    "description": "Elfeed 4.0.0 使用分享 Elfeed 是一個 Emacs 里的 RSS 閲讀器，關於 Elfeed 之前寫過一篇 在 Emacs 中用 Elfeed 阅读订阅流 ，那篇文章没怎麼展示 Elfeed 的使用，更多還是在分享一些工具函数。前陣子 Elfeed 也更新到了 4.0.0 ，新增了很多方便的功能，我最近也用的很多，所以再分享一下它的使用，或許你會想嘗試一下它。 為了更直觀了解，我录󠄃了個視頻，也可以看看： YouTube: Elfeed 4.0.0 使用分享 Bilibili: Elfeed 4.0.0 使用分享 有點囉嗦，推薦 1.5 倍速看。 視頻演示中的配置 ( defconst is-a-mac (eq system-type 'darwin)) ;;; 设置 mac 的快捷键 ( when is-a-mac ( setq mac-command-modifier 'meta mac-option-modifier 'super)) ;;; 設置默認字體大小 (set-face-attribute 'default nil :height 250) ;;; 添",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "使用 Docker 部署 Github Actions Self Hosted Runner",
+    "url": "https://www.ixiqin.com/2026/06/20/use-dock-deployment-github-actions-self-hosted/",
+    "date": "2026-06-20T12:28:57Z",
+    "description": "近些年来，我的个人项目基本上也是托管在 Github 上的。主要的原因一方面是 Github 身边的 Git […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "云南系列｜Day 3 周城扎染 & 抵达剑川",
+    "url": "https://blog.yasking.org/a/series-yunnan-travel-day3.html",
+    "date": "2026-06-20T10:32:34Z",
+    "description": "清晨醒的早，在阳台上看日出。 洗漱后到洱海边可以看到水面波光粼粼，这个时候不热，估计紫外线也不少。 回来后拍了一张 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "问Gemini的问题备份 20260620",
+    "url": "https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260620/",
+    "date": "2026-06-20T05:50:46Z",
+    "description": "「时间戳。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "最近惦念 20260605",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260605_Recently/",
+    "date": "2026-06-20T05:35:27Z",
+    "description": "「不参与表演。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "最近惦念 20260522",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260522_Recently/",
+    "date": "2026-06-20T05:32:27Z",
+    "description": "「前深线与双螺旋。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "为什么越来越懒得解释",
+    "url": "https://www.hecaitou.com/2026/06/why-i-no-longer-bother-to-explain-myself.html",
+    "date": "2026-06-20T04:35:57Z",
+    "description": "关于自己的事情，我越来越懒得和人解释。原因是随着年纪增长，我对于人性有了新的认识。这种新认识告诉我：别费那个劲了。 现在，手头刚好有一个例子，可以给大家做参考。 前几天我的网络小店新发布了一款产品：鸡枞油卤腐。在文章中，我说「 里面能够看到黑色的油浸鸡枞丝」。很快就有两位读者留言，提出了疑问。一位说：XX 美食节目大咖做的鸡枞月饼里，被揭发用的是黑皮鸡枞。 另外一位更直接，说：「正好看到另外一个号说的黑皮鸡枞和鸡枞不能误用，就像姬松茸和松茸不能误用一样」；随即又表示说：「所以很遗憾，精神洁癖的我取关了」。 在这个例子里，前一位读者是可以做解释的对象，后一位则完全没有这个必要。 前者之所以可以解释，是因为他的心未定，只是提出个人疑问而已。而且，提问的方式很委婉，用了旁敲侧击的方式，这说明在心中最基本的信任并没有失去。 所以可以向他解释，鸡枞自身会缓慢氧化，刚做出来的成品是漂亮的金黄色，但是随着时间推移会逐渐变为褐色乃至黑色。也可以解释，做卤腐的合作厂商舍不得放鸡枞，所以是我们自己提供原料，因为我们每年都在做大量油浸鸡枞。还可以解释，黑皮鸡枞不是鸡枞，如果我肯用它来充当真正的鸡枞，那么我要",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "MacOS 快速插入当前时间",
+    "url": "https://blog.est.im/2026/stdout-23",
+    "date": "2026-06-20T04:06:22Z",
+    "description": "第一步：创建快捷指令 打开 Shortcuts 。 点击右上角 + 新建快捷指令。 添加动作 1：日期 搜 添加 日期（Current Date） 动作，默认为当前时间 添加动作 2：格式化日期 添加 格式化日期，日期格式 自定义，填 yyyy-MM-dd HH:mm:ss 添加动作 3：Applescript on run {input, parameters} -- 稍微延长一点延迟，确保触发快捷键的手指已经离开键盘 delay 0.1 -- display dialog \"Current date\" -- 将 Shortcuts 传入的 list 转换为字符串 set ts to item 1 of input as string tell application \"System Events\" -- 释放可能被系统残留挂起的修饰键状态 -- 键盘区数字的 Key Code 分布是乱序的 set keyCodeMap to {29, 18, 19, 20, 21, 23, 22, 26, 28, 25} key up command key up option key up co",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "The Elder Scrolls III: Morrowind updated",
+    "url": "https://macsourceports.com/game/morrowind",
+    "date": "2026-06-20T03:17:29Z",
+    "description": "The build of OpenMW for The Elder Scrolls III: Morrowind has been updated to version openmw-0.51.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-06-20T03:16:42Z",
+    "description": "The build of Quetoo for Quetoo has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Plants vs. Zombies updated",
+    "url": "https://macsourceports.com/game/pvz",
+    "date": "2026-06-20T03:15:55Z",
+    "description": "The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.25 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "快乐份子",
+    "url": "https://mobius.blog/24805.html",
+    "date": "2026-06-20T00:00:00Z",
+    "description": "这两天，大量的快乐份子被抓了，因为端午只能搭配安康。 紧急着，份子分子也被抓了，因为应该用“分子”。 快乐分子 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "AI 时代快速了解自己感兴趣的计算机辅助的“制作工艺”管线",
+    "url": "https://shansan.top/2026/06/19/learn-with-ai-friends/",
+    "date": "2026-06-19T21:55:32Z",
+    "description": "记录一次用 AI 辅助学习 Godot SRPG 单关原型、游戏开发 playground 和 3D 制作管线的实践，重点关注如何把 AI 当作导师理解完整制作流程。",
+    "source_root_domain": "shansan.top"
+  },
+  {
+    "title": "电影院和耳机",
+    "url": "https://blog.solazy.me/20260619/",
+    "date": "2026-06-19T15:00:00Z",
+    "description": "今天记录一个非常离奇但又非常合理的脑洞",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "哪吒监控面板曝高危漏洞，如何应对与自查？",
+    "url": "https://blog.ensonyan.com/it/3433.html",
+    "date": "2026-06-19T05:27:55Z",
+    "description": "哪吒监控面板（Nezha Monitoring）是一款开源的一体式服务器监控与运维面板，在华人 IT 圈中非常 […]",
+    "source_root_domain": "ensonyan.com"
+  },
+  {
+    "title": "火星不是人类的重启键",
+    "url": "https://www.linggandianbo.com/newsletter-128/",
+    "date": "2026-06-19T05:00:52Z",
+    "description": "从火星殖民幻梦、AI 时代的注意力礼仪、机器写作、翻译劳动，到科技圈失去的书呆子气｜灵感电波 #128",
+    "source_root_domain": "linggandianbo.com"
+  },
+  {
+    "title": "端午节快乐（2026）",
+    "url": "https://www.hecaitou.com/2026/06/happy-dragon-boat-festival-2026.html",
+    "date": "2026-06-19T03:57:34Z",
+    "description": "今年端午节是网络营销号捏造「端午安康」新民俗的十一周年，也是我个人在公众号撰文祝贺读者「端午节快乐」的第四年，对亲友说「端午节快乐」的第五十年。 个人在这个世界里，在时代潮流下，在汹涌人群之中，是无足轻重的存在。没有人在乎你想什么，也没有人在乎你说什么，甚至都懒得看你做什么。虽然现实如此，但是对于我个人而言，做一块茅坑里的石头这件事让我觉得有意义。 太多人怕掉队，太多人习惯去跟从，太多人生怕自己和别人不一样，太多人面对任何荒谬的质问都会忍不住心虚，恨不得立即改正然后缩进人群里。在这一刻，自我变得很小很小。等到站上了队，自我又突然变得很大很大，大到主动去纠正队伍外的人。 这样弹簧一样的自我，何时才能平静，何时才能找到平衡呢？ 连续几年祝贺读者「端午节快乐」，其实我一直想用这种方式提醒读者：端午节快乐是怎么变成了端午安康的？为什么如此轻易地遭人操纵？为什么如此轻易地接受？那么除了「端午安康」之外，自己在生活里不知不觉又接受了些什么东西？结婚一定需要钻戒？或者没有房子就不能结婚？ 有些人会觉得我多事，有些人会觉得我小题大做，有些人会认为我又在凹造型。怎么想、怎么看、怎么说，我觉得都很合理，观",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "是谁在夺走现代人的注意力？",
+    "url": "https://mobius.blog/24666.html",
+    "date": "2026-06-19T01:00:00Z",
+    "description": "今天来聊聊《我的吸尘器哪儿去了？》的最后一部分，越来越多人开始出现类似 ADHD 的情况，那人们的注意力到底是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  }
+]
