@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-21 | [「安康警察」和「逆风警察」](https://blog.solazy.me/20260621/) | 今天碰巧看到好友的博客多年前的一篇文章，引发了我的共鸣 |
+| 2026-06-21 | [富途、老虎之后，大陆用户还能怎么买美股：我会试试 Bitget 美股代币](https://blog.forecho.com/buy-us-stocks-with-usdt-bitget-stock-tokens.html) | 引言 最近总有人问我同一个问题：富途、老虎之后，大陆身份还能怎么买美股？ 传统券商这条路没断，但门槛肉眼可见地变高。要海外地址证明，要银行卡跨境入金，到账等一两个工作日，还要扛汇兑损耗。我自己开美国期货账户的时候，光一个「补地址证明」就卡了很久。 所以我开始看另一条路：用 USDT 直接买美股代币。… |
 | 2026-06-21 | [我做了一个免费的在线图片压缩工具——VeryPixel](https://veryjack.com/technique/verypixel/) | 平时写博客，我总需要先压缩配图、转换格式，然后再上传。网上的图片压缩工具虽然多，但用起来总不太顺手：有的需要下载客户端甚至收费，有的直接传到服务器存在隐私风险。我之前常用在线工具 Squoosh，压缩效果很不错，但它一次只能处理一张图片，如果一篇游记有几十张照片，逐一上传调整参数，实在太折磨人。 我… |
 | 2026-06-21 | [西雅图 2 日自驾游 - 旅行随拍](https://blog.ensonyan.com/photographing/3446.html) | 在加拿大温哥华居住的这几年，我还从未向南边的西雅图进发过，只有数个在此匆匆转机的经历。趁着这周没有太多繁杂琐事 […] |
 | 2026-06-21 | [摘：波德莱尔《Enivrez-Vous/沉醉/Get Drunk》](https://z.arlmy.me/posts/Note/Note_CharlesBaudelaire_EnivrezVous/) | 「快去沉醉于诗，沉醉于美，沉醉于酒。。」 |
@@ -37,6 +39,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-21 | [这一周莫比乌斯环转到了哪里？](https://mobius.blog/24674.html) | 大概还是需要一个“创刊号”，原因是我关闭了博客发布文章时的 Newsletter，但是我又真的很他妈讨厌“周报”这玩意儿，所以就折中一下。与其汇报这周做了什么、看了什么、想到了什么，不如聊聊这一周莫比乌斯环转到了哪里。 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或… |
 | 2026-06-21 | [Memos #2026-06-20](https://www.taober.blog/memos) | 20:32 灵芝公园 4km，自律一波，晚上看比赛！ |
 | 2026-06-20 | [幼稚的女拳师](https://sinyalee.com/blog/?p=1170) | 很多女拳师，到现在攻击我，还是只会重复那套你长得丑，没人爱你。挂一个典型女拳师的回答给你们看看。本来想举报的， […] |
+| 2026-06-20 | [天台国清寺一日游](http://www.uncoverman.com/guoqing-temple.html) | 假期下雨，去了趟天台国清寺遛娃兼游览，免费的 5A 级景区，底蕴深厚，且晴雨不论，都可游览。路上借着豆包听了好多故事。 景区入口看到的隋塔，又名报恩塔，是隋炀帝下诏建的，六面九级空心楼阁式砖塔，约 60m 高，是浙江省最高的古塔之一。以前内部有木梯，可以登高望远，后来都损毁了。外观上，相比北宋时期建… |
 | 2026-06-20 | [当电影在黑暗中寻找光](https://blog.solazy.me/20260620/) | 今天听播客萌生了一个话题，索性展开聊聊 |
 | 2026-06-20 | [云南系列｜Day 4 剑川古城记录](https://blog.yasking.org/a/series-yunnan-travel-day4.html) | 早上不知道吃什么，那就再来份米线吧～ 习惯了独立汤包，塑料袋装汤还真是不方便。 剑川我们计划只待一小天，作为去沙溪 … |
 | 2026-06-20 | [Elfeed 4.0.0 使用分享](https://taxodium.ink/elfeed-4-0-0-usage-sharing.html) | Elfeed 4.0.0 使用分享 Elfeed 是一個 Emacs 里的 RSS 閲讀器，關於 Elfeed 之前寫過一篇 在 Emacs 中用 Elfeed 阅读订阅流 ，那篇文章没怎麼展示 Elfeed 的使用，更多還是在分享一些工具函数。前陣子 Elfeed 也更新到了 4.0.0 ，新增了… |
@@ -52,6 +55,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-20 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.25 of the project |
 | 2026-06-20 | [快乐份子](https://mobius.blog/24805.html) | 这两天，大量的快乐份子被抓了，因为端午只能搭配安康。 紧急着，份子分子也被抓了，因为应该用“分子”。 快乐分子 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-19 | [AI 时代快速了解自己感兴趣的计算机辅助的“制作工艺”管线](https://shansan.top/2026/06/19/learn-with-ai-friends/) | 记录一次用 AI 辅助学习 Godot SRPG 单关原型、游戏开发 playground 和 3D 制作管线的实践，重点关注如何把 AI 当作导师理解完整制作流程。 |
+| 2026-06-19 | [解决Fish Shell中使用vfox报错,Lacks hook support](https://programnotes.cn/fish-vfox-lack-hook/index.html) | 本文记录了在 Fish Shell 中使用 vfox use -p 命令时出现 Warning: The current shell lacks hook support or configuration 警告的原因及解决方法。 |
 | 2026-06-19 | [电影院和耳机](https://blog.solazy.me/20260619/) | 今天记录一个非常离奇但又非常合理的脑洞 |
 | 2026-06-19 | [哪吒监控面板曝高危漏洞，如何应对与自查？](https://blog.ensonyan.com/it/3433.html) | 哪吒监控面板（Nezha Monitoring）是一款开源的一体式服务器监控与运维面板，在华人 IT 圈中非常 […] |
 | 2026-06-19 | [火星不是人类的重启键](https://www.linggandianbo.com/newsletter-128/) | 从火星殖民幻梦、AI 时代的注意力礼仪、机器写作、翻译劳动，到科技圈失去的书呆子气｜灵感电波 #128 |
