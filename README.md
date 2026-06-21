@@ -30,6 +30,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-21 | [「安康警察」和「逆风警察」](https://blog.solazy.me/20260621/) | 今天碰巧看到好友的博客多年前的一篇文章，引发了我的共鸣 |
 | 2026-06-21 | [富途、老虎之后，大陆用户还能怎么买美股：我会试试 Bitget 美股代币](https://blog.forecho.com/buy-us-stocks-with-usdt-bitget-stock-tokens.html) | 引言 最近总有人问我同一个问题：富途、老虎之后，大陆身份还能怎么买美股？ 传统券商这条路没断，但门槛肉眼可见地变高。要海外地址证明，要银行卡跨境入金，到账等一两个工作日，还要扛汇兑损耗。我自己开美国期货账户的时候，光一个「补地址证明」就卡了很久。 所以我开始看另一条路：用 USDT 直接买美股代币。… |
 | 2026-06-21 | [我做了一个免费的在线图片压缩工具——VeryPixel](https://veryjack.com/technique/verypixel/) | 平时写博客，我总需要先压缩配图、转换格式，然后再上传。网上的图片压缩工具虽然多，但用起来总不太顺手：有的需要下载客户端甚至收费，有的直接传到服务器存在隐私风险。我之前常用在线工具 Squoosh，压缩效果很不错，但它一次只能处理一张图片，如果一篇游记有几十张照片，逐一上传调整参数，实在太折磨人。 我… |
+| 2026-06-21 | [Vol.108 BestBlogs精选周刊百期特刊：六大主题回顾两年AI关键变化](https://liduos.com/weekly/the-weekly-gradient-108) | 本期内容为BestBlogs精选周刊第100期特刊，从6400多篇内容中精选100篇，按模型层、AI Coding、工程范式、Agent、产品与商业、领袖与思想六个主题回顾两年AI发展脉络，核心观点是答案变得便宜，提对问题、做对判断、为结果负责更重要。 |
 | 2026-06-21 | [西雅图 2 日自驾游 - 旅行随拍](https://blog.ensonyan.com/photographing/3446.html) | 在加拿大温哥华居住的这几年，我还从未向南边的西雅图进发过，只有数个在此匆匆转机的经历。趁着这周没有太多繁杂琐事 […] |
 | 2026-06-21 | [摘：波德莱尔《Enivrez-Vous/沉醉/Get Drunk》](https://z.arlmy.me/posts/Note/Note_CharlesBaudelaire_EnivrezVous/) | 「快去沉醉于诗，沉醉于美，沉醉于酒。。」 |
 | 2026-06-21 | [Toots 424 2026 Jun.14 - Jun.20](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260620/) | 「短檐侧自处，天际看鸿飞。」 |
