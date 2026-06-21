@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-21 | [Pharaoh updated](https://macsourceports.com/game/pharaoh) | The build of Akhenaten for Pharaoh has been updated to version 0.27 of the project |
 | 2026-06-21 | [「安康警察」和「逆风警察」](https://blog.solazy.me/20260621/) | 今天碰巧看到好友的博客多年前的一篇文章，引发了我的共鸣 |
 | 2026-06-21 | [富途、老虎之后，大陆用户还能怎么买美股：我会试试 Bitget 美股代币](https://blog.forecho.com/buy-us-stocks-with-usdt-bitget-stock-tokens.html) | 引言 最近总有人问我同一个问题：富途、老虎之后，大陆身份还能怎么买美股？ 传统券商这条路没断，但门槛肉眼可见地变高。要海外地址证明，要银行卡跨境入金，到账等一两个工作日，还要扛汇兑损耗。我自己开美国期货账户的时候，光一个「补地址证明」就卡了很久。 所以我开始看另一条路：用 USDT 直接买美股代币。… |
 | 2026-06-21 | [我做了一个免费的在线图片压缩工具——VeryPixel](https://veryjack.com/technique/verypixel/) | 平时写博客，我总需要先压缩配图、转换格式，然后再上传。网上的图片压缩工具虽然多，但用起来总不太顺手：有的需要下载客户端甚至收费，有的直接传到服务器存在隐私风险。我之前常用在线工具 Squoosh，压缩效果很不错，但它一次只能处理一张图片，如果一篇游记有几十张照片，逐一上传调整参数，实在太折磨人。 我… |
