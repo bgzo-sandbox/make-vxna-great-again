@@ -1,0 +1,233 @@
+[
+  {
+    "title": "微信小程序境外支付",
+    "url": "https://blog.196000.xyz/2025/2025-06-29-develop-weixin-miniprogram-pay.html",
+    "date": "2026-06-22T12:00:00Z",
+    "description": "```php class WechatPayV3 { // 支付 public static function pay($body, $sn, $money, $openid, $notify_url) { $mchid = ‘你的商户号’;",
+    "source_root_domain": "196000.xyz"
+  },
+  {
+    "title": "大脑充血 Vol.86",
+    "url": "https://www.geedea.pro/weekly/86/",
+    "date": "2026-06-22T03:11:53Z",
+    "description": "各位早上好，这里是终于上完这辈子所有的课不必再听老登吹牛的 Eltrac，端午假期好好地在家躺了三天（指背靠在人体工学椅上没日没夜地玩《饥荒》），现在一不小心又把节律打乱，正在让大脑强制开机。当然，另一个好消息是，现在可以（暂时）全心全意地关注自己，然后准备继续投简历和面试了。 止语 Il aurait suffi Le Rouge et Le Noir Apple Music Spotify Lucida La raison dit oui 理性说是 Le cœur n’y est pas 心却不在场 Unis pour la vie 为生活联合 Faut-il faire comme si ? 我们应该如此吗？ D’autres font comme ça 就像众人一样 连接 Simple Made Easy 📺 “Simple Made Easy” - Rich Hickey (2011) Clojure 作者 Rich Hickey 在 2011 年 Strange Loop Conference 上发表的演讲，内容是为何以及如何创造简明（Simple）的软件系统，而不只是关注",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "把手机图标改成黑白真的能避免手机成瘾吗？",
+    "url": "https://mobius.blog/24700.html",
+    "date": "2026-06-22T01:00:00Z",
+    "description": "前几天把手机的图标改成黑白风格之后，我好像突然对手机出现了“延迟感”，不仅仅是突然找不到自己想用的软件在哪里， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "边想边聊 Vol.5",
+    "url": "https://bluepika.life/blog/thinking-out-loud-5",
+    "date": "2026-06-22T00:00:00Z",
+    "description": "纯主观，想到哪聊到哪，聊到作品的内容可能会涉及剧透。",
+    "source_root_domain": "bluepika.life"
+  },
+  {
+    "title": "Pharaoh updated",
+    "url": "https://macsourceports.com/game/pharaoh",
+    "date": "2026-06-21T20:38:40Z",
+    "description": "The build of Akhenaten for Pharaoh has been updated to version 0.27 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "「安康警察」和「逆风警察」",
+    "url": "https://blog.solazy.me/20260621/",
+    "date": "2026-06-21T15:00:00Z",
+    "description": "今天碰巧看到好友的博客多年前的一篇文章，引发了我的共鸣",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "富途、老虎之后，大陆用户还能怎么买美股：我会试试 Bitget 美股代币",
+    "url": "https://blog.forecho.com/buy-us-stocks-with-usdt-bitget-stock-tokens.html",
+    "date": "2026-06-21T14:00:00Z",
+    "description": "引言 最近总有人问我同一个问题：富途、老虎之后，大陆身份还能怎么买美股？ 传统券商这条路没断，但门槛肉眼可见地变高。要海外地址证明，要银行卡跨境入金，到账等一两个工作日，还要扛汇兑损耗。我自己开美国期货账户的时候，光一个「补地址证明」就卡了很久。 所以我开始看另一条路：用 USDT 直接买美股代币。先把话说在前面，Bitget 的美股 2.0 是我目前看过最完整的方案，但它 本质是 1:1 映射美股的 RWA 代币，不是让你在美国券商真实开户持股 。这条边界搞不清楚，后面很容易用错。 文中注册链接是我的专属渠道链接。美股相关产品价格波动大，这篇只是我的研究笔记，不构成投资建议。 你买到的到底是什么 这点我想放最前面讲，因为太多人会想当然。 Bitget 美股代币，比如 rAAPL 、 rTSLA ，价格、流动性、分红、拆股都按 1:1 映射传统美股。但你手里拿的是链上代币化的「受益权凭证」，不是底层股票的直接所有权。 把链路拆开看就清楚了。底层股票由 FINRA 注册、SIPC 成员的托管经纪商持有，最终在 DTCC 登记。这部分股票装在一个独立的破产隔离 SPV 里，唯一用途就是 1",
+    "source_root_domain": "forecho.com"
+  },
+  {
+    "title": "我做了一个免费的在线图片压缩工具——VeryPixel",
+    "url": "https://veryjack.com/technique/verypixel/",
+    "date": "2026-06-21T11:09:27Z",
+    "description": "平时写博客，我总需要先压缩配图、转换格式，然后再上传。网上的图片压缩工具虽然多，但用起来总不太顺手：有的需要下载客户端甚至收费，有的直接传到服务器存在隐私风险。我之前常用在线工具 Squoosh，压缩效果很不错，但它一次只能处理一张图片，如果一篇游记有几十张照片，逐一上传调整参数，实在太折磨人。 我做了一个免费的在线图片压缩工具——VeryPixel 最先出现在 Jack's Space 。",
+    "source_root_domain": "veryjack.com"
+  },
+  {
+    "title": "Vol.108 BestBlogs精选周刊百期特刊：六大主题回顾两年AI关键变化",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-108",
+    "date": "2026-06-21T08:00:00Z",
+    "description": "本期内容为BestBlogs精选周刊第100期特刊，从6400多篇内容中精选100篇，按模型层、AI Coding、工程范式、Agent、产品与商业、领袖与思想六个主题回顾两年AI发展脉络，核心观点是答案变得便宜，提对问题、做对判断、为结果负责更重要。",
+    "source_root_domain": "liduos.com"
+  },
+  {
+    "title": "西雅图 2 日自驾游 - 旅行随拍",
+    "url": "https://blog.ensonyan.com/photographing/3446.html",
+    "date": "2026-06-21T07:44:51Z",
+    "description": "在加拿大温哥华居住的这几年，我还从未向南边的西雅图进发过，只有数个在此匆匆转机的经历。趁着这周没有太多繁杂琐事 […]",
+    "source_root_domain": "ensonyan.com"
+  },
+  {
+    "title": "摘：波德莱尔《Enivrez-Vous/沉醉/Get Drunk》",
+    "url": "https://z.arlmy.me/posts/Note/Note_CharlesBaudelaire_EnivrezVous/",
+    "date": "2026-06-21T05:30:46Z",
+    "description": "「快去沉醉于诗，沉醉于美，沉醉于酒。。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Toots 424 2026 Jun.14 - Jun.20",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260620/",
+    "date": "2026-06-21T05:24:27Z",
+    "description": "「短檐侧自处，天际看鸿飞。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "哪吒监控安全事件 - 从中招到复盘",
+    "url": "https://moreality.net/posts/62186/",
+    "date": "2026-06-21T05:10:00Z",
+    "description": "近期哪吒监控安全事件提醒我们，带远程执行能力的监控面板一旦暴露公网，风险远不止信息泄露。",
+    "source_root_domain": "moreality.net"
+  },
+  {
+    "title": "爹在父亲节突然降临",
+    "url": "https://www.hecaitou.com/2026/06/dad-dropped-in-on-fathers-day.html",
+    "date": "2026-06-21T04:34:26Z",
+    "description": "今天夏至，也是父亲节。一大早就有位爹降临我文章的留言区，劈头就问： 「不是不是。菜头你有没发现，是你还停留在十多年前靠粉丝带货的阶段？一个人可以不思进取躺在过去的成绩上吃一辈子吗？」 如果我现在三十岁左右，看到这句话之后估计从尾椎开始，顺着我的一整根人蝎子，自下而上，脊背皮肤上的汗毛会根根立起，然后焦虑的大火球就会在我胸膛里熊熊燃烧，让我根本坐不住。 可惜我过了那个年纪，这样的话语对我没有任何效果。 十多年来，我见过了太多想要做大做强的人从网上彻底销声匿迹，自己背负巨额债务，想要讲任何一句话都要被人翻旧账。我也见过了太多人们眼中做大做强的人离不开江湖，身不由己，说自己都不信的话，做自己都反感的事，而且必须在各种时刻按照所谓「粉丝」的要求不断表态。 我还能想写什么就写什么，不想写什么还可以保持沉默，而且还能每天日更，我认为这一切多亏了我的不思进取，让我从网络江湖里撤离，离开那些人和人之间的恩怨情仇，离开那些刀头舔血的日常生活，离开那些「食得咸鱼抵得渴」的默默忍受和自我异化。 因此，我反问那位空降爹：进取？要我进取去哪里？进取到进去吗？还是进取到下去？ 等我打了一座回来，他已经删除了留言，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "286、夏至",
+    "url": "https://1900.live/286-xia-zhi/",
+    "date": "2026-06-21T02:54:25Z",
+    "description": "null 蝉声初沸，白昼始极，天地在极致与转折之间，悄悄按下了一个惊叹号。 太阳行至黄经90°，夏至——夏之第四序。 蝉鸣撕开长夏，声声如锯，把日子锯成最漫长的一截光；荷塘铺满绿盖，菡萏探出了第一支胭脂色的笔，蘸着正午的烈阳，准备写一封给远秋的信；而午后的雷雨，来得急去得也急，把天地洗成一面澄澈的镜，映出阴阳交割的第一道裂痕。 天地以\"极\"为警，以\"至\"为界；阳极而阴生，方得循环。 此刻，不妨： 把步子放慢一寸，在最长的一日里，学会与时间对坐； 把心静下一寸，任蝉声沸反盈天，而心底自有清凉； 把执念放下半寸，学那影子的规则——到了最长的尽头，便开始一寸寸缩短； 把日程调成六分满——留四分，给冰镇梅汤、给荷风、给一场不期而至的骤雨。 愿我们： 在日光最烈时，学会休憩与涵养； 在蝉声最噪时，学会寂静与倾听； 在荷花初绽时，学会等待与欣赏； 于\"极\"与\"敛\"的罅隙里，握紧这枚\"夏至\"的印章， 然后，背一篓最长的日光，去遇见那即将到来的伏暑，去迎接那阴生阳敛的平衡。 ——DeepSeek v4 flash",
+    "source_root_domain": "1900.live"
+  },
+  {
+    "title": "这一周莫比乌斯环转到了哪里？",
+    "url": "https://mobius.blog/24674.html",
+    "date": "2026-06-21T01:00:00Z",
+    "description": "大概还是需要一个“创刊号”，原因是我关闭了博客发布文章时的 Newsletter，但是我又真的很他妈讨厌“周报”这玩意儿，所以就折中一下。与其汇报这周做了什么、看了什么、想到了什么，不如聊聊这一周莫比乌斯环转到了哪里。 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Memos #2026-06-20",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-06-21T00:00:00Z",
+    "description": "20:32 灵芝公园 4km，自律一波，晚上看比赛！",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "幼稚的女拳师",
+    "url": "https://sinyalee.com/blog/?p=1170",
+    "date": "2026-06-20T19:15:25Z",
+    "description": "很多女拳师，到现在攻击我，还是只会重复那套你长得丑，没人爱你。挂一个典型女拳师的回答给你们看看。本来想举报的， […]",
+    "source_root_domain": "sinyalee.com"
+  },
+  {
+    "title": "天台国清寺一日游",
+    "url": "http://www.uncoverman.com/guoqing-temple.html",
+    "date": "2026-06-20T16:00:00Z",
+    "description": "假期下雨，去了趟天台国清寺遛娃兼游览，免费的 5A 级景区，底蕴深厚，且晴雨不论，都可游览。路上借着豆包听了好多故事。 景区入口看到的隋塔，又名报恩塔，是隋炀帝下诏建的，六面九级空心楼阁式砖塔，约 60m 高，是浙江省最高的古塔之一。以前内部有木梯，可以登高望远，后来都损毁了。外观上，相比北宋时期建在苏州的虎丘斜塔是八面七层，工艺不一样。 沿着人行道在树荫之下径直走，看到寺院门口橙黄古墙上写着四个大字「教观总持」，「教」指理论，「观」指实践，「总持」指全部、持续掌握，是天台宗的核心思想，大意是指佛法要理论实践相结合，不断坚持迭代，融合贯通。「纸上得来终觉浅，绝知此事要躬行」， 看来，知识学习的理念都是相通的。 走到国清寺第二个门口，看到两座石狮子是汉白玉做的，一雌一雄，镇守古刹，是 70 年代周总理批示故宫调拨的，随着岁月流逝，部分石材已经逐渐附上了一层青苔和石灰。但汉白玉的手感，上手去摸仍能感觉它的温润。 <img src=\"https://i.see.you/2026/06/21/en0V/DSC04190.jpeg\" alt=\"DSC04",
+    "source_root_domain": "uncoverman.com"
+  },
+  {
+    "title": "当电影在黑暗中寻找光",
+    "url": "https://blog.solazy.me/20260620/",
+    "date": "2026-06-20T15:00:00Z",
+    "description": "今天听播客萌生了一个话题，索性展开聊聊",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "云南系列｜Day 4 剑川古城记录",
+    "url": "https://blog.yasking.org/a/series-yunnan-travel-day4.html",
+    "date": "2026-06-20T13:28:07Z",
+    "description": "早上不知道吃什么，那就再来份米线吧～ 习惯了独立汤包，塑料袋装汤还真是不方便。 剑川我们计划只待一小天，作为去沙溪 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "Elfeed 4.0.0 使用分享",
+    "url": "https://taxodium.ink/elfeed-4-0-0-usage-sharing.html",
+    "date": "2026-06-20T12:50:00Z",
+    "description": "Elfeed 4.0.0 使用分享 Elfeed 是一個 Emacs 里的 RSS 閲讀器，關於 Elfeed 之前寫過一篇 在 Emacs 中用 Elfeed 阅读订阅流 ，那篇文章没怎麼展示 Elfeed 的使用，更多還是在分享一些工具函数。前陣子 Elfeed 也更新到了 4.0.0 ，新增了很多方便的功能，我最近也用的很多，所以再分享一下它的使用，或許你會想嘗試一下它。 為了更直觀了解，我录󠄃了個視頻，也可以看看： YouTube: Elfeed 4.0.0 使用分享 Bilibili: Elfeed 4.0.0 使用分享 有點囉嗦，推薦 1.5 倍速看。 視頻演示中的配置 ( defconst is-a-mac (eq system-type 'darwin)) ;;; 设置 mac 的快捷键 ( when is-a-mac ( setq mac-command-modifier 'meta mac-option-modifier 'super)) ;;; 設置默認字體大小 (set-face-attribute 'default nil :height 250) ;;; 添",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "使用 Docker 部署 Github Actions Self Hosted Runner",
+    "url": "https://www.ixiqin.com/2026/06/20/use-dock-deployment-github-actions-self-hosted/",
+    "date": "2026-06-20T12:28:57Z",
+    "description": "近些年来，我的个人项目基本上也是托管在 Github 上的。主要的原因一方面是 Github 身边的 Git […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "云南系列｜Day 3 周城扎染 & 抵达剑川",
+    "url": "https://blog.yasking.org/a/series-yunnan-travel-day3.html",
+    "date": "2026-06-20T10:32:34Z",
+    "description": "清晨醒的早，在阳台上看日出。 洗漱后到洱海边可以看到水面波光粼粼，这个时候不热，估计紫外线也不少。 回来后拍了一张 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "问Gemini的问题备份 20260620",
+    "url": "https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260620/",
+    "date": "2026-06-20T05:50:46Z",
+    "description": "「时间戳。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "最近惦念 20260605",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260605_Recently/",
+    "date": "2026-06-20T05:35:27Z",
+    "description": "「不参与表演。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "最近惦念 20260522",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260522_Recently/",
+    "date": "2026-06-20T05:32:27Z",
+    "description": "「前深线与双螺旋。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "为什么越来越懒得解释",
+    "url": "https://www.hecaitou.com/2026/06/why-i-no-longer-bother-to-explain-myself.html",
+    "date": "2026-06-20T04:35:57Z",
+    "description": "关于自己的事情，我越来越懒得和人解释。原因是随着年纪增长，我对于人性有了新的认识。这种新认识告诉我：别费那个劲了。 现在，手头刚好有一个例子，可以给大家做参考。 前几天我的网络小店新发布了一款产品：鸡枞油卤腐。在文章中，我说「 里面能够看到黑色的油浸鸡枞丝」。很快就有两位读者留言，提出了疑问。一位说：XX 美食节目大咖做的鸡枞月饼里，被揭发用的是黑皮鸡枞。 另外一位更直接，说：「正好看到另外一个号说的黑皮鸡枞和鸡枞不能误用，就像姬松茸和松茸不能误用一样」；随即又表示说：「所以很遗憾，精神洁癖的我取关了」。 在这个例子里，前一位读者是可以做解释的对象，后一位则完全没有这个必要。 前者之所以可以解释，是因为他的心未定，只是提出个人疑问而已。而且，提问的方式很委婉，用了旁敲侧击的方式，这说明在心中最基本的信任并没有失去。 所以可以向他解释，鸡枞自身会缓慢氧化，刚做出来的成品是漂亮的金黄色，但是随着时间推移会逐渐变为褐色乃至黑色。也可以解释，做卤腐的合作厂商舍不得放鸡枞，所以是我们自己提供原料，因为我们每年都在做大量油浸鸡枞。还可以解释，黑皮鸡枞不是鸡枞，如果我肯用它来充当真正的鸡枞，那么我要",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "MacOS 快速插入当前时间",
+    "url": "https://blog.est.im/2026/stdout-23",
+    "date": "2026-06-20T04:06:22Z",
+    "description": "第一步：创建快捷指令 打开 Shortcuts 。 点击右上角 + 新建快捷指令。 添加动作 1：日期 搜 添加 日期（Current Date） 动作，默认为当前时间 添加动作 2：格式化日期 添加 格式化日期，日期格式 自定义，填 yyyy-MM-dd HH:mm:ss 添加动作 3：Applescript on run {input, parameters} -- 稍微延长一点延迟，确保触发快捷键的手指已经离开键盘 delay 0.1 -- display dialog \"Current date\" -- 将 Shortcuts 传入的 list 转换为字符串 set ts to item 1 of input as string tell application \"System Events\" -- 释放可能被系统残留挂起的修饰键状态 -- 键盘区数字的 Key Code 分布是乱序的 set keyCodeMap to {29, 18, 19, 20, 21, 23, 22, 26, 28, 25} key up command key up option key up co",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "The Elder Scrolls III: Morrowind updated",
+    "url": "https://macsourceports.com/game/morrowind",
+    "date": "2026-06-20T03:17:29Z",
+    "description": "The build of OpenMW for The Elder Scrolls III: Morrowind has been updated to version openmw-0.51.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-06-20T03:16:42Z",
+    "description": "The build of Quetoo for Quetoo has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Plants vs. Zombies updated",
+    "url": "https://macsourceports.com/game/pvz",
+    "date": "2026-06-20T03:15:55Z",
+    "description": "The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.25 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "快乐份子",
+    "url": "https://mobius.blog/24805.html",
+    "date": "2026-06-20T00:00:00Z",
+    "description": "这两天，大量的快乐份子被抓了，因为端午只能搭配安康。 紧急着，份子分子也被抓了，因为应该用“分子”。 快乐分子 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  }
+]

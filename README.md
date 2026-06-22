@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-22 | [微信小程序境外支付](https://blog.196000.xyz/2025/2025-06-29-develop-weixin-miniprogram-pay.html) | ```php class WechatPayV3 { // 支付 public static function pay($body, $sn, $money, $openid, $notify_url) { $mchid = ‘你的商户号’; |
+| 2026-06-22 | [大脑充血 Vol.86](https://www.geedea.pro/weekly/86/) | 各位早上好，这里是终于上完这辈子所有的课不必再听老登吹牛的 Eltrac，端午假期好好地在家躺了三天（指背靠在人体工学椅上没日没夜地玩《饥荒》），现在一不小心又把节律打乱，正在让大脑强制开机。当然，另一个好消息是，现在可以（暂时）全心全意地关注自己，然后准备继续投简历和面试了。 止语 Il aura… |
+| 2026-06-22 | [把手机图标改成黑白真的能避免手机成瘾吗？](https://mobius.blog/24700.html) | 前几天把手机的图标改成黑白风格之后，我好像突然对手机出现了“延迟感”，不仅仅是突然找不到自己想用的软件在哪里， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-22 | [边想边聊 Vol.5](https://bluepika.life/blog/thinking-out-loud-5) | 纯主观，想到哪聊到哪，聊到作品的内容可能会涉及剧透。 |
 | 2026-06-21 | [Pharaoh updated](https://macsourceports.com/game/pharaoh) | The build of Akhenaten for Pharaoh has been updated to version 0.27 of the project |
 | 2026-06-21 | [「安康警察」和「逆风警察」](https://blog.solazy.me/20260621/) | 今天碰巧看到好友的博客多年前的一篇文章，引发了我的共鸣 |
 | 2026-06-21 | [富途、老虎之后，大陆用户还能怎么买美股：我会试试 Bitget 美股代币](https://blog.forecho.com/buy-us-stocks-with-usdt-bitget-stock-tokens.html) | 引言 最近总有人问我同一个问题：富途、老虎之后，大陆身份还能怎么买美股？ 传统券商这条路没断，但门槛肉眼可见地变高。要海外地址证明，要银行卡跨境入金，到账等一两个工作日，还要扛汇兑损耗。我自己开美国期货账户的时候，光一个「补地址证明」就卡了很久。 所以我开始看另一条路：用 USDT 直接买美股代币。… |
@@ -124,26 +128,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-15 | [鸭骗战争](https://mobius.blog/24643.html) | 特地让这件事多发酵了一会再来聊，是因为我也想等等是否还会有所谓的舆论“反转”，但现在的剧情已经基本尘埃落定为墙 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-15 | [Memos: 记录老田的老北京炸酱面](https://blog.yasking.org/a/1781486686.html) | 之前有篇 Memos 记录 「95分」好吃的‘小帅香菇面’ ，提到 “与之并列的是老田的老北京炸酱面，炸酱卤+辣椒卤吃到停不下来”，又吃上了 老 … |
 | 2026-06-15 | [大脑充血 Vol.85](https://www.geedea.pro/weekly/85/) | 《稻草人周刊》更名为《大脑充血》，不过内容的变动不大，还是继承以前的编号。名字的灵感来源于我很喜欢的一张塔罗牌「 倒吊人 」。 如你所见，周刊的结构做了调整。所有技术相关的内容被移动到了名为「茶歇」的新栏目，里面包含着一些比较轻松的技术新闻，当然也有我的观点。原来的「连接」栏目更关注相对通俗的大众话… |
-| 2026-06-14 | [2026 欧洲之旅：资产安全](https://www.ixiqin.com/2026/06/15/2026-european-tour-asset-security/) | 作者在前往法国前，为防范盗窃准备了多种资产安全物品。这些物品包括用于固定行李的自行车锁、带TSA锁的行李加固带 […] |
-| 2026-06-14 | [提示: 2026前端框架 不推荐新人直接学React](https://blog.knowckx.top/p/frontend-frameworks-2026-dont-start-with-react/) | 站在 2026 年看前端学习路径，我不建议新人把 React 当成第一门框架。先讲原因，再给一个更省心的入门顺序。 |
-| 2026-06-14 | [【日常碎碎念】AI取代前端？](https://7gugu.com/index.php/2026/06/15/%e3%80%90%e6%97%a5%e5%b8%b8%e7%a2%8e%e7%a2%8e%e5%bf%b5%e3%80%91ai%e5%8f%96%e4%bb%a3%e5%89%8d%e7%ab%af%ef%bc%9f/) | 临睡前看到Airing发的一篇关于读者去信，询问AI时代下就业相关的博文，我自己也有一些不吐不快的想法想要写一 … 继续阅读 “【日常碎碎念】AI取代前端？” |
-| 2026-06-14 | [一个人的生日](https://www.geedea.pro/article/birthday-alone/) | 写完这个标题我感到奇怪：除非是多胞胎，生日不就是一个人的吗？当然，我的意思是今年我过生日没有人陪，但我仍然过得很开心，甚至是我最开心的生日之一。 十八岁生日，那是在高考结束的几天后，我和我的高中同学一起过。我们去玩了剧本杀，之后一起到我家吃了火锅，之后便聚在一起聊天。我在高中一直是公开性取向的，有个… |
-| 2026-06-14 | [博客重建](http://localhost:1313/blog-rebuilt/) | （摘要）Oracle Cloud VPS 被封号💔，博客重建。 |
-| 2026-06-14 | [博客重建](https://springwood.me/blog-rebuilt/) | （摘要）Oracle Cloud VPS 被封号💔，博客重建。 |
-| 2026-06-14 | [云南系列｜Day 2 大理洱海之行（下）](https://blog.yasking.org/a/series-yunnan-travel-day2.html) | 上篇来到喜洲这边靠近洱海的酒店入住，楼下公共区可以泡茶喝。 店名 “云海望月 Stunning 独家海景美宿” 因为连住两晚，老板给升 … |
-| 2026-06-14 | [我爱B站左小将](https://sinyalee.com/blog/?p=1161) | 很多人以为我从我个人经历和光谱，会讨厌B站左小将。这其实是错的。我非常喜欢B站左小将。 很多人知道我很讨厌上一 […] |
-| 2026-06-14 | [猫鱼周刊 vol. 098 川西之行](https://ameow.xyz/archives/weekly-099) | 关于本刊 这是猫鱼周刊的第 99 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在 博客： 阿猫的博客-猫鱼周刊 RSS： 猫鱼周刊 邮件订阅： 猫鱼周刊 微信公众号： 猫兄的和谐号列车 私信： leslieleung@proton.me INIT 摄于川西，连绵的雪山真的非常适合宽画… |
-| 2026-06-14 | [从学校到公司，从上海到成都](https://veryjack.com/life/university_to_company/) | 自从换工作后，我一直处于适应新工作环境和新节奏的过程中，这消耗了我大量的精力和体力。每天回到家只想躺平，也就没有了更新博客的欲望，甚至连刷手机的想法都没有。销声匿迹两个月后，我逐渐适应了现在的工作强度和节奏，终于能在这个周末抽出一点时间，来谈谈这段时间的经历。 从学校到公司，从上海到成都 最先出现在… |
-| 2026-06-14 | [Toots 423 2026 Jun.7 - Jun.13](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260613/) | 「五月脆真神上市了！」 |
-| 2026-06-14 | [新的沉浸式翻译优惠码](https://cbvivi.today/20260614) | 沉浸式翻译有个力度挺大的 618 活动，我更新了一个优惠码，使用这个链接或者「wxg」注册即可获得折扣（并让我获得佣金）。...... READ MORE |
-| 2026-06-14 | [Vol.107 Claude Fable 5 引爆AI圈：最强模型降价，高端版本受限，能力分发迎来转折](https://liduos.com/weekly/the-weekly-gradient-107) | 本期内容聚焦 Claude Fable 5 与 Mythos 5 的发布，探讨最强模型大幅降价与高端版本受限背后的 AI 能力分发转折，以及推理速度、智能体工程化、上下文管理等新战场。 |
-| 2026-06-14 | [我的美食雷达](https://blog.solazy.me/20260614/) | 为什么我经常能发现好吃的 |
-| 2026-06-14 | [屋漏偏逢连夜雨](https://re.karlbaey.top/articles/not-my-day/) | I don’t know how to moving forward. Maybe it’s just simply … |
-| 2026-06-14 | [设计圈都有哪些知名的设计奖项？哪个含金量最高？](https://www.iyeslogo.com/designer-glorious/) | 设计师行业对奖项的认知随经验增长而变化，从关注作品到案例再到奖项。 |
-| 2026-06-14 | [记一次和懊恼的交道](https://www.hecaitou.com/2026/06/Dealing-with-Annoyance.html) | 前年我沉迷古旧的磁带随身听，自己买，朋友送，家里积攒了一堆。前几天我心血来潮翻出来玩，发现这些古代电子玩具即便是放着不动，声音也会随着时间自然劣化。我猜想那些古老的电子元件的衰变不是线性的，而是越往后衰变得越快。 发现这一点的时候，我已经有些不爽了，就像是儿童时代发现有衰老这件事存在一样。考虑到这些… |
-| 2026-06-14 | [记录一下我删除相机 SD 卡当中废片的工作流](https://hellodk.cn/post/1225) | 采用 python 脚本实现（python3）。相关说明：Linux/mac 电脑，如果你是 windows 电脑那么脚本需要稍加改造相机当中开启了拍摄的照片按照日期文件夹存储，这种功能，否则可... |
-| 2026-06-14 | [Agent 时代的软件接口](https://www.bmpi.dev/dev/agent-native-system-paradigm/) | 把大模型塞进聊天框并不能解决复杂问题。本文通过量化投资系统与 Minecraft 建造引擎两个案例，拆解一套面向 Agent 的工作流设计范式：领域 DSL、IR/DAG、验证契约与修复循环。 |
-| 2026-06-14 | [关于音乐的一些记忆](https://blog.sakoamc.com/posts/t26002/) | 感谢永远有歌把心境道破，有音乐真好！ |
 
 ## Vibe Coding
 
