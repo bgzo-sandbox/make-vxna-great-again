@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-06-22T09:56:54Z
-modified: 2026-06-22T09:56:54Z
+created: 2026-06-22T15:31:46Z
+modified: 2026-06-22T15:31:46Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,11 +11,11 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-06-22T09:56:54Z
+Generated at: 2026-06-22T15:31:46Z
 
 Total sources: 484
-Successful: 367
-Failed: 117
+Successful: 366
+Failed: 118
 
 | Status | Source | Feed | Origin | Articles | Error |
 | --- | --- | --- | --- | ---: | --- |
@@ -117,6 +117,7 @@ Failed: 117
 | Failed | [#476] V2EX › 泽梦记 | [https://blog.100fails.com/rss.xml](https://blog.100fails.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/476) | 0 | [Errno -2] Name or service not known |
 | Failed | [#478] V2EX › FSpark | [https://fspark.me/feed](https://fspark.me/feed) | [Origin](https://www.v2ex.com/xna/s/478) | 0 | Client error '403 Forbidden' for url 'https://fspark.me/feed' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#47] V2EX › 搞机男 | [https://www.gaojinan.com/feed](https://www.gaojinan.com/feed) | [Origin](https://www.v2ex.com/xna/s/47) | 0 | The read operation timed out |
+| Failed | [#498] V2EX › 重庆崽儿 Brand | [https://www.brandhuang.com/rss.xml](https://www.brandhuang.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/498) | 0 | Server error '500 Internal Server Error' for url 'https://www.brandhuang.com/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500 |
 | Failed | [#4] V2EX › Airwolf Space | [https://airwolfspace.eth.limo/planet.json](https://airwolfspace.eth.limo/planet.json) | [Origin](https://www.v2ex.com/xna/s/4) | 0 | Client error '404 Not Found' for url 'https://airwolfspace.eth.limo/planet.json' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#508] V2EX › hekou 写字的地方 | [https://www.hekouwangyutian.com/atom.xml](https://www.hekouwangyutian.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/508) | 0 | [Errno 101] Network is unreachable |
 | Failed | [#50] V2EX › 码农明明桑 | [https://isming.me/index.xml](https://isming.me/index.xml) | [Origin](https://www.v2ex.com/xna/s/50) | 0 | Client error '403 Forbidden' for url 'https://isming.me/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
@@ -186,7 +187,7 @@ Failed: 117
 | Success | [#16] V2EX › rqdmap | [https://rqdmap.top/index.xml](https://rqdmap.top/index.xml) | [Origin](https://www.v2ex.com/xna/s/16) | 115 | - |
 | Success | [#170] V2EX › ShanSan | [https://shansan.top/rss2.xml](https://shansan.top/rss2.xml) | [Origin](https://www.v2ex.com/xna/s/170) | 175 | - |
 | Success | [#171] V2EX › Usubeni Fantasy | [https://ssshooter.com/rss.xml](https://ssshooter.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/171) | 20 | - |
-| Success | [#172] V2EX › Debug 客栈 | [https://blog.debuginn.com/index.xml](https://blog.debuginn.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/172) | 198 | - |
+| Success | [#172] V2EX › Debug 客栈 | [https://blog.debuginn.com/index.xml](https://blog.debuginn.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/172) | 199 | - |
 | Success | [#173] V2EX › Shadow Walker 松烟阁 | [https://www.edony.ink/rss](https://www.edony.ink/rss) | [Origin](https://www.v2ex.com/xna/s/173) | 20 | - |
 | Success | [#175] V2EX › forecho's Blog | [https://blog.forecho.com/atom.xml](https://blog.forecho.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/175) | 20 | - |
 | Success | [#176] V2EX › 易怪兽 | [https://yi.gs/feed](https://yi.gs/feed) | [Origin](https://www.v2ex.com/xna/s/176) | 10 | - |
@@ -382,7 +383,7 @@ Failed: 117
 | Success | [#443] V2EX › Rokcso's Blog | [https://rokcso.com/index.xml](https://rokcso.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/443) | 10 | - |
 | Success | [#444] V2EX › 我与我周旋久 | [https://write.laily.net/zh-cn/index.xml](https://write.laily.net/zh-cn/index.xml) | [Origin](https://www.v2ex.com/xna/s/444) | 20 | - |
 | Success | [#445] V2EX › Lumos's Blog | [https://lomus.cc/feed](https://lomus.cc/feed) | [Origin](https://www.v2ex.com/xna/s/445) | 10 | - |
-| Success | [#447] V2EX › 神仙鱼不吃鱼鱼 | [https://blog.sakoamc.com/atom.xml](https://blog.sakoamc.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/447) | 98 | - |
+| Success | [#447] V2EX › 神仙鱼不吃鱼鱼 | [https://blog.sakoamc.com/atom.xml](https://blog.sakoamc.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/447) | 99 | - |
 | Success | [#449] V2EX › Bluepikachu | [https://bluepika.life/rss.xml](https://bluepika.life/rss.xml) | [Origin](https://www.v2ex.com/xna/s/449) | 114 | - |
 | Success | [#44] V2EX › 天地一沙鸥 | [https://haoluobo.com/feed/](https://haoluobo.com/feed/) | [Origin](https://www.v2ex.com/xna/s/44) | 10 | - |
 | Success | [#450] V2EX › 醒石 | [https://leonscave.com/index.xml](https://leonscave.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/450) | 20 | - |
@@ -424,7 +425,6 @@ Failed: 117
 | Success | [#495] V2EX › 莫尔索 | [https://liduos.com/atom.xml](https://liduos.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/495) | 129 | - |
 | Success | [#496] V2EX › Deepzz | [https://deepzz.com/rss.html](https://deepzz.com/rss.html) | [Origin](https://www.v2ex.com/xna/s/496) | 20 | - |
 | Success | [#497] V2EX › Tomyail 的记忆现场 | [https://blog.tomyail.com/atom.xml](https://blog.tomyail.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/497) | 27 | - |
-| Success | [#498] V2EX › 重庆崽儿 Brand | [https://www.brandhuang.com/rss.xml](https://www.brandhuang.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/498) | 10 | - |
 | Success | [#499] V2EX › Airing | [https://blog.ursb.me/feed.xml](https://blog.ursb.me/feed.xml) | [Origin](https://www.v2ex.com/xna/s/499) | 80 | - |
 | Success | [#49] V2EX › Mengke's blog | [https://www.mengke.me/feed.xml](https://www.mengke.me/feed.xml) | [Origin](https://www.v2ex.com/xna/s/49) | 53 | - |
 | Success | [#500] V2EX › Ghost_chu | [https://www.ghostchu.com/feed/](https://www.ghostchu.com/feed/) | [Origin](https://www.v2ex.com/xna/s/500) | 10 | - |

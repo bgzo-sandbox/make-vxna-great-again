@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-22 | [渣打银行内地见证开户攻略](https://blog.debuginn.com/p/bank-sc/) | 大家好呀，我是 Meng小羽。 之前写过一篇《 港卡开卡指南 》，主要是分享我亲自去香港办卡的过程。后来又写了《 蚂蚁银行（澳门）开户指南 》，给大家补了一个澳门数字银行的选择。 文章发出去之后，后台陆续有朋友问我： 有没有一种方式，不用专门跑香港或者澳门，也能开一个相对正规的境外银行账户？ 还真有… |
 | 2026-06-22 | [20260622的胡言乱语](https://www.bboy.app/2026/06/22/20260622%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-06-22 | [Random Thoughts - 20260622](https://www.bboy.app/2026/06/22/random-thoughts-20260622/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
 | 2026-06-22 | [微信小程序境外支付](https://blog.196000.xyz/2025/2025-06-29-develop-weixin-miniprogram-pay.html) | ```php class WechatPayV3 { // 支付 public static function pay($body, $sn, $money, $openid, $notify_url) { $mchid = ‘你的商户号’; |
@@ -38,8 +39,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-22 | [大脑充血 Vol.86](https://www.geedea.pro/weekly/86/) | 各位早上好，这里是终于上完这辈子所有的课不必再听老登吹牛的 Eltrac，端午假期好好地在家躺了三天（指背靠在人体工学椅上没日没夜地玩《饥荒》），现在一不小心又把节律打乱，正在让大脑强制开机。当然，另一个好消息是，现在可以（暂时）全心全意地关注自己，然后准备继续投简历和面试了。 止语 Il aura… |
 | 2026-06-22 | [把手机图标改成黑白真的能避免手机成瘾吗？](https://mobius.blog/24700.html) | 前几天把手机的图标改成黑白风格之后，我好像突然对手机出现了“延迟感”，不仅仅是突然找不到自己想用的软件在哪里， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-22 | [iPhone ICCID Carrier Unlock: Activation Ticket Backup and Restore](https://blog.qzydustin.com/posts/iphone-iccid-carrier-unlock-activation-ticket-backup-and-restore/) | ICCID activation was once a popular way to work around carrier locks on iPhones. If a previously activated device is jailbreakable, its activation tic… |
+| 2026-06-22 | [2026年第24、25周](https://blog.sakoamc.com/posts/262425/) | 题记：二零二六年的第二十四、五周，如无必要，勿增；如有必要，则删。 |
 | 2026-06-22 | [边想边聊 Vol.5](https://bluepika.life/blog/thinking-out-loud-5) | 纯主观，想到哪聊到哪，聊到作品的内容可能会涉及剧透。 |
 | 2026-06-21 | [Pharaoh updated](https://macsourceports.com/game/pharaoh) | The build of Akhenaten for Pharaoh has been updated to version 0.27 of the project |
+| 2026-06-21 | [园区的猫](https://tianheg.co/posts/park-cat/) | 时常见到工业区里的一只猫 猫在园区里游荡 一会儿在宿舍楼下 一会儿在工厂楼下 四处游荡并不怕人 曾经她来到我五楼的家 对着我喵喵地叫 以为她饿给她火腿肠 不吃 只是在叫 语言不通真恼人 为何人和猫不能对话 为何人和人能对话 但好像隔了层磨砂玻璃 |
 | 2026-06-21 | [「安康警察」和「逆风警察」](https://blog.solazy.me/20260621/) | 今天碰巧看到好友的博客多年前的一篇文章，引发了我的共鸣 |
 | 2026-06-21 | [我做了一个免费的在线图片压缩工具——VeryPixel](https://veryjack.com/technique/verypixel/) | 平时写博客，我总需要先压缩配图、转换格式，然后再上传。网上的图片压缩工具虽然多，但用起来总不太顺手：有的需要下载客户端甚至收费，有的直接传到服务器存在隐私风险。我之前常用在线工具 Squoosh，压缩效果很不错，但它一次只能处理一张图片，如果一篇游记有几十张照片，逐一上传调整参数，实在太折磨人。 我… |
 | 2026-06-21 | [Vol.108 BestBlogs精选周刊百期特刊：六大主题回顾两年AI关键变化](https://liduos.com/weekly/the-weekly-gradient-108) | 本期内容为BestBlogs精选周刊第100期特刊，从6400多篇内容中精选100篇，按模型层、AI Coding、工程范式、Agent、产品与商业、领袖与思想六个主题回顾两年AI发展脉络，核心观点是答案变得便宜，提对问题、做对判断、为结果负责更重要。 |
