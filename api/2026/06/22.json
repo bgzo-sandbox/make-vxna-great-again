@@ -1,10 +1,59 @@
 [
   {
+    "title": "20260622的胡言乱语",
+    "url": "https://www.bboy.app/2026/06/22/20260622%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
+    "date": "2026-06-22T14:06:54Z",
+    "description": "简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "Random Thoughts - 20260622",
+    "url": "https://www.bboy.app/2026/06/22/random-thoughts-20260622/",
+    "date": "2026-06-22T14:06:54Z",
+    "description": "Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
     "title": "微信小程序境外支付",
     "url": "https://blog.196000.xyz/2025/2025-06-29-develop-weixin-miniprogram-pay.html",
     "date": "2026-06-22T12:00:00Z",
     "description": "```php class WechatPayV3 { // 支付 public static function pay($body, $sn, $money, $openid, $notify_url) { $mchid = ‘你的商户号’;",
     "source_root_domain": "196000.xyz"
+  },
+  {
+    "title": "AI 存储的真正机会在推理，但训练远未到天花板",
+    "url": "https://luweiqing.com/gossip/The-real-opportunity-for-AI-lies-in-inference-but-training-is-far-from-reaching-its-ceiling.html",
+    "date": "2026-06-22T09:20:00Z",
+    "description": "在投资视角下，仅关注存储总容量的增长远远不够。决定企业价值的核心，是存储被用于何处。下表清晰对比了各存储层级在容量与市场价值上的错配。层级存储容量占比市场价值占比增长驱动力训练存储高中模型训练与...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "emacs-将org-table导出到buffer",
+    "url": "https://blog.prayhand13013.top/20260622T151205--emacs-将org-table导出到buffer__blog.html",
+    "date": "2026-06-22T07:12:00Z",
+    "description": "",
+    "source_root_domain": "tomoemami.github.io"
+  },
+  {
+    "title": "临时解决 Codex Trace 日志导致大量磁盘写入的问题",
+    "url": "https://blog.zebedy.com/post/8a41f688.html",
+    "date": "2026-06-22T06:22:29Z",
+    "description": "早在 2026 年 4 月 OpenAI Codex 仓库中出现了一个值得关注的 issue: #17320 问题很具体: Codex IDE 在 app-server 中会持续向本地 SQLite 日志文件 ~/.codex/logs_2.sqlite-wal 写入大量数据。 并且从后续的 issue: #28224 来看，这已经不只是一个 “日志太多” 的小问题，而是可能影响磁盘寿命的大问题。",
+    "source_root_domain": "zebedy.com"
+  },
+  {
+    "title": "富途、老虎之后，大陆用户还能怎么买美股：我会试试 Bitget 美股代币",
+    "url": "https://blog.forecho.com/buy-us-stocks-with-usdt-bitget-stock-tokens.html",
+    "date": "2026-06-22T06:00:00Z",
+    "description": "引言 最近总有人问我同一个问题：富途、老虎之后，大陆身份还能怎么买美股？ 传统券商这条路没断，但门槛肉眼可见地变高。要海外地址证明，要银行卡跨境入金，到账等一两个工作日，还要扛汇兑损耗。我自己开美国期货账户的时候，光一个「补地址证明」就卡了很久。 所以我开始看另一条路：用 USDT 直接买美股代币。先把话说在前面，Bitget 的美股 2.0 是我目前看过最完整的方案，但它 本质是 1:1 映射美股的 RWA 代币，不是让你在美国券商真实开户持股 。这条边界搞不清楚，后面很容易用错。 文中注册链接是我的专属渠道链接。美股相关产品价格波动大，这篇只是我的研究笔记，不构成投资建议。 你买到的到底是什么 这点我想放最前面讲，因为太多人会想当然。 Bitget 美股代币，比如 rAAPL 、 rTSLA ，价格、流动性、分红、拆股都按 1:1 映射传统美股。但你手里拿的是链上代币化的「受益权凭证」，不是底层股票的直接所有权。 把链路拆开看就清楚了。底层股票由 FINRA 注册、SIPC 成员的托管经纪商持有，最终在 DTCC 登记。这部分股票装在一个独立的破产隔离 SPV 里，唯一用途就是 1",
+    "source_root_domain": "forecho.com"
+  },
+  {
+    "title": "究竟什么时候高兴才合适",
+    "url": "https://www.hecaitou.com/2026/06/the-right-time-to-be-happy.html",
+    "date": "2026-06-22T04:50:54Z",
+    "description": "我说这个夏天是自我北漂十多年以来最舒服的一个，就有一堆读者跑来纠正我，说是其实还没有到热的时候。有一位最特别的，告诉我说：别高兴太早。 在网上，人和人之间的沟通就有那么难。 作为前气象预报专业毕业生，前民航持证中级气象预报工程师，我实在不明白这种问题为什么会有争议。北京每年 6 月份的气温统计数据是公开的，分析一下历史数据，阅读一下多年统计报告，今年 6 月份的气温究竟有没有偏离统计均值，朝着哪个方向偏离，偏离多少，这种事情能有多难？ 但这是我自己的问题。因为每个人大脑里的操作系统不一样，因此每个人面对同一句话，同一个问题时的想法也就不一样。看图表，看数据，做分析对比这种思路，应该不是那么普及。我认为问题应该这么解才对，在别人那里则未必然。尤其是北京、夏天、舒服几个单词连在一起出现，也许很多人才看了一眼就开始觉得不舒服，本能地要反驳一下。 操作系统很难升级，所以这种事情就只能由得他去，各自用自己的系统就行，反正又不是不能过活。不过，「别高兴太早」这句话就要比之前的所有反驳更深一些，和它相关的已经不是操作系统，而是涉及到了一个人的底层代码。 当时我回复说：「那不是高兴太早，就是高兴太晚，",
+    "source_root_domain": "hecaitou.com"
   },
   {
     "title": "大脑充血 Vol.86",
@@ -19,6 +68,13 @@
     "date": "2026-06-22T01:00:00Z",
     "description": "前几天把手机的图标改成黑白风格之后，我好像突然对手机出现了“延迟感”，不仅仅是突然找不到自己想用的软件在哪里， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "iPhone ICCID Carrier Unlock: Activation Ticket Backup and Restore",
+    "url": "https://blog.qzydustin.com/posts/iphone-iccid-carrier-unlock-activation-ticket-backup-and-restore/",
+    "date": "2026-06-22T00:00:00Z",
+    "description": "ICCID activation was once a popular way to work around carrier locks on iPhones. If a previously activated device is jailbreakable, its activation ticket can be backed up and restored after a reset, iOS downgrade, or DFU restore. The ticket is device-specific and only preserves activation on the iPhone from which it was saved. Here I use my iPhone 5s (A1453, au/KDDI Japan model) as an example.",
+    "source_root_domain": "qzydustin.com"
   },
   {
     "title": "边想边聊 Vol.5",
@@ -40,13 +96,6 @@
     "date": "2026-06-21T15:00:00Z",
     "description": "今天碰巧看到好友的博客多年前的一篇文章，引发了我的共鸣",
     "source_root_domain": "solazy.me"
-  },
-  {
-    "title": "富途、老虎之后，大陆用户还能怎么买美股：我会试试 Bitget 美股代币",
-    "url": "https://blog.forecho.com/buy-us-stocks-with-usdt-bitget-stock-tokens.html",
-    "date": "2026-06-21T14:00:00Z",
-    "description": "引言 最近总有人问我同一个问题：富途、老虎之后，大陆身份还能怎么买美股？ 传统券商这条路没断，但门槛肉眼可见地变高。要海外地址证明，要银行卡跨境入金，到账等一两个工作日，还要扛汇兑损耗。我自己开美国期货账户的时候，光一个「补地址证明」就卡了很久。 所以我开始看另一条路：用 USDT 直接买美股代币。先把话说在前面，Bitget 的美股 2.0 是我目前看过最完整的方案，但它 本质是 1:1 映射美股的 RWA 代币，不是让你在美国券商真实开户持股 。这条边界搞不清楚，后面很容易用错。 文中注册链接是我的专属渠道链接。美股相关产品价格波动大，这篇只是我的研究笔记，不构成投资建议。 你买到的到底是什么 这点我想放最前面讲，因为太多人会想当然。 Bitget 美股代币，比如 rAAPL 、 rTSLA ，价格、流动性、分红、拆股都按 1:1 映射传统美股。但你手里拿的是链上代币化的「受益权凭证」，不是底层股票的直接所有权。 把链路拆开看就清楚了。底层股票由 FINRA 注册、SIPC 成员的托管经纪商持有，最终在 DTCC 登记。这部分股票装在一个独立的破产隔离 SPV 里，唯一用途就是 1",
-    "source_root_domain": "forecho.com"
   },
   {
     "title": "我做了一个免费的在线图片压缩工具——VeryPixel",
@@ -117,6 +166,13 @@
     "date": "2026-06-21T00:00:00Z",
     "description": "20:32 灵芝公园 4km，自律一波，晚上看比赛！",
     "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "尝个鲜  — 健民辣丝",
+    "url": "https://www.ixiqin.com/2026/06/21/try-a-fresh-jianmin-spicy-silk/",
+    "date": "2026-06-20T22:09:00Z",
+    "description": "尝个鲜系列是我尝试开启的一个新的系列，记录一些我吃的好玩的，不太「日常」的东西。 忘了在哪里刷到了健民辣丝，在 […]",
+    "source_root_domain": "ixiqin.com"
   },
   {
     "title": "幼稚的女拳师",

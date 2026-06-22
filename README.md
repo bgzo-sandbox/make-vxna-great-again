@@ -27,13 +27,20 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-22 | [20260622的胡言乱语](https://www.bboy.app/2026/06/22/20260622%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
+| 2026-06-22 | [Random Thoughts - 20260622](https://www.bboy.app/2026/06/22/random-thoughts-20260622/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
 | 2026-06-22 | [微信小程序境外支付](https://blog.196000.xyz/2025/2025-06-29-develop-weixin-miniprogram-pay.html) | ```php class WechatPayV3 { // 支付 public static function pay($body, $sn, $money, $openid, $notify_url) { $mchid = ‘你的商户号’; |
+| 2026-06-22 | [AI 存储的真正机会在推理，但训练远未到天花板](https://luweiqing.com/gossip/The-real-opportunity-for-AI-lies-in-inference-but-training-is-far-from-reaching-its-ceiling.html) | 在投资视角下，仅关注存储总容量的增长远远不够。决定企业价值的核心，是存储被用于何处。下表清晰对比了各存储层级在容量与市场价值上的错配。层级存储容量占比市场价值占比增长驱动力训练存储高中模型训练与... |
+| 2026-06-22 | [emacs-将org-table导出到buffer](https://blog.prayhand13013.top/20260622T151205--emacs-将org-table导出到buffer__blog.html) |  |
+| 2026-06-22 | [临时解决 Codex Trace 日志导致大量磁盘写入的问题](https://blog.zebedy.com/post/8a41f688.html) | 早在 2026 年 4 月 OpenAI Codex 仓库中出现了一个值得关注的 issue: #17320 问题很具体: Codex IDE 在 app-server 中会持续向本地 SQLite 日志文件 ~/.codex/logs_2.sqlite-wal 写入大量数据。 并且从后续的 iss… |
+| 2026-06-22 | [富途、老虎之后，大陆用户还能怎么买美股：我会试试 Bitget 美股代币](https://blog.forecho.com/buy-us-stocks-with-usdt-bitget-stock-tokens.html) | 引言 最近总有人问我同一个问题：富途、老虎之后，大陆身份还能怎么买美股？ 传统券商这条路没断，但门槛肉眼可见地变高。要海外地址证明，要银行卡跨境入金，到账等一两个工作日，还要扛汇兑损耗。我自己开美国期货账户的时候，光一个「补地址证明」就卡了很久。 所以我开始看另一条路：用 USDT 直接买美股代币。… |
+| 2026-06-22 | [究竟什么时候高兴才合适](https://www.hecaitou.com/2026/06/the-right-time-to-be-happy.html) | 我说这个夏天是自我北漂十多年以来最舒服的一个，就有一堆读者跑来纠正我，说是其实还没有到热的时候。有一位最特别的，告诉我说：别高兴太早。 在网上，人和人之间的沟通就有那么难。 作为前气象预报专业毕业生，前民航持证中级气象预报工程师，我实在不明白这种问题为什么会有争议。北京每年 6 月份的气温统计数据是… |
 | 2026-06-22 | [大脑充血 Vol.86](https://www.geedea.pro/weekly/86/) | 各位早上好，这里是终于上完这辈子所有的课不必再听老登吹牛的 Eltrac，端午假期好好地在家躺了三天（指背靠在人体工学椅上没日没夜地玩《饥荒》），现在一不小心又把节律打乱，正在让大脑强制开机。当然，另一个好消息是，现在可以（暂时）全心全意地关注自己，然后准备继续投简历和面试了。 止语 Il aura… |
 | 2026-06-22 | [把手机图标改成黑白真的能避免手机成瘾吗？](https://mobius.blog/24700.html) | 前几天把手机的图标改成黑白风格之后，我好像突然对手机出现了“延迟感”，不仅仅是突然找不到自己想用的软件在哪里， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-22 | [iPhone ICCID Carrier Unlock: Activation Ticket Backup and Restore](https://blog.qzydustin.com/posts/iphone-iccid-carrier-unlock-activation-ticket-backup-and-restore/) | ICCID activation was once a popular way to work around carrier locks on iPhones. If a previously activated device is jailbreakable, its activation tic… |
 | 2026-06-22 | [边想边聊 Vol.5](https://bluepika.life/blog/thinking-out-loud-5) | 纯主观，想到哪聊到哪，聊到作品的内容可能会涉及剧透。 |
 | 2026-06-21 | [Pharaoh updated](https://macsourceports.com/game/pharaoh) | The build of Akhenaten for Pharaoh has been updated to version 0.27 of the project |
 | 2026-06-21 | [「安康警察」和「逆风警察」](https://blog.solazy.me/20260621/) | 今天碰巧看到好友的博客多年前的一篇文章，引发了我的共鸣 |
-| 2026-06-21 | [富途、老虎之后，大陆用户还能怎么买美股：我会试试 Bitget 美股代币](https://blog.forecho.com/buy-us-stocks-with-usdt-bitget-stock-tokens.html) | 引言 最近总有人问我同一个问题：富途、老虎之后，大陆身份还能怎么买美股？ 传统券商这条路没断，但门槛肉眼可见地变高。要海外地址证明，要银行卡跨境入金，到账等一两个工作日，还要扛汇兑损耗。我自己开美国期货账户的时候，光一个「补地址证明」就卡了很久。 所以我开始看另一条路：用 USDT 直接买美股代币。… |
 | 2026-06-21 | [我做了一个免费的在线图片压缩工具——VeryPixel](https://veryjack.com/technique/verypixel/) | 平时写博客，我总需要先压缩配图、转换格式，然后再上传。网上的图片压缩工具虽然多，但用起来总不太顺手：有的需要下载客户端甚至收费，有的直接传到服务器存在隐私风险。我之前常用在线工具 Squoosh，压缩效果很不错，但它一次只能处理一张图片，如果一篇游记有几十张照片，逐一上传调整参数，实在太折磨人。 我… |
 | 2026-06-21 | [Vol.108 BestBlogs精选周刊百期特刊：六大主题回顾两年AI关键变化](https://liduos.com/weekly/the-weekly-gradient-108) | 本期内容为BestBlogs精选周刊第100期特刊，从6400多篇内容中精选100篇，按模型层、AI Coding、工程范式、Agent、产品与商业、领袖与思想六个主题回顾两年AI发展脉络，核心观点是答案变得便宜，提对问题、做对判断、为结果负责更重要。 |
 | 2026-06-21 | [西雅图 2 日自驾游 - 旅行随拍](https://blog.ensonyan.com/photographing/3446.html) | 在加拿大温哥华居住的这几年，我还从未向南边的西雅图进发过，只有数个在此匆匆转机的经历。趁着这周没有太多繁杂琐事 […] |
@@ -44,6 +51,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-21 | [286、夏至](https://1900.live/286-xia-zhi/) | null 蝉声初沸，白昼始极，天地在极致与转折之间，悄悄按下了一个惊叹号。 太阳行至黄经90°，夏至——夏之第四序。 蝉鸣撕开长夏，声声如锯，把日子锯成最漫长的一截光；荷塘铺满绿盖，菡萏探出了第一支胭脂色的笔，蘸着正午的烈阳，准备写一封给远秋的信；而午后的雷雨，来得急去得也急，把天地洗成一面澄澈的镜… |
 | 2026-06-21 | [这一周莫比乌斯环转到了哪里？](https://mobius.blog/24674.html) | 大概还是需要一个“创刊号”，原因是我关闭了博客发布文章时的 Newsletter，但是我又真的很他妈讨厌“周报”这玩意儿，所以就折中一下。与其汇报这周做了什么、看了什么、想到了什么，不如聊聊这一周莫比乌斯环转到了哪里。 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或… |
 | 2026-06-21 | [Memos #2026-06-20](https://www.taober.blog/memos) | 20:32 灵芝公园 4km，自律一波，晚上看比赛！ |
+| 2026-06-20 | [尝个鲜  — 健民辣丝](https://www.ixiqin.com/2026/06/21/try-a-fresh-jianmin-spicy-silk/) | 尝个鲜系列是我尝试开启的一个新的系列，记录一些我吃的好玩的，不太「日常」的东西。 忘了在哪里刷到了健民辣丝，在 […] |
 | 2026-06-20 | [幼稚的女拳师](https://sinyalee.com/blog/?p=1170) | 很多女拳师，到现在攻击我，还是只会重复那套你长得丑，没人爱你。挂一个典型女拳师的回答给你们看看。本来想举报的， […] |
 | 2026-06-20 | [天台国清寺一日游](http://www.uncoverman.com/guoqing-temple.html) | 假期下雨，去了趟天台国清寺遛娃兼游览，免费的 5A 级景区，底蕴深厚，且晴雨不论，都可游览。路上借着豆包听了好多故事。 景区入口看到的隋塔，又名报恩塔，是隋炀帝下诏建的，六面九级空心楼阁式砖塔，约 60m 高，是浙江省最高的古塔之一。以前内部有木梯，可以登高望远，后来都损毁了。外观上，相比北宋时期建… |
 | 2026-06-20 | [当电影在黑暗中寻找光](https://blog.solazy.me/20260620/) | 今天听播客萌生了一个话题，索性展开聊聊 |
