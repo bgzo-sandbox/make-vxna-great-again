@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-22 | [R#107 短暂一游](https://blog.sakanano.moe/journals/random_107) | 2026.6.16 ~ 2026.6.22 |
 | 2026-06-22 | [渣打银行内地见证开户攻略](https://blog.debuginn.com/p/bank-sc/) | 大家好呀，我是 Meng小羽。 之前写过一篇《 港卡开卡指南 》，主要是分享我亲自去香港办卡的过程。后来又写了《 蚂蚁银行（澳门）开户指南 》，给大家补了一个澳门数字银行的选择。 文章发出去之后，后台陆续有朋友问我： 有没有一种方式，不用专门跑香港或者澳门，也能开一个相对正规的境外银行账户？ 还真有… |
 | 2026-06-22 | [20260622的胡言乱语](https://www.bboy.app/2026/06/22/20260622%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-06-22 | [Random Thoughts - 20260622](https://www.bboy.app/2026/06/22/random-thoughts-20260622/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
