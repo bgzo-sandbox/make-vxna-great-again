@@ -27,8 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-23 | [告别摄影](https://anotherdayu.com/bye-photograph/) | 期望 韩炳哲在《爱欲之死》里提到：如果说有一样东西需要对当今社会日益频繁发生的「失望」负责，那么它不是不断升华的想象力，而是不断提高的期望值。 过去，人们先经历，再留下记忆和图像。现在，我们还没有真正进入一个地方，就已经在观看它最漂亮的样子：最好的光线，最干净的构图，最适合发布的角度。 经验反过来变… |
+| 2026-06-23 | [从 iClaw 到 Palvia：七次提交、六次拒审，差点死在 Apple 的时间流速里的 App](https://shadowmov.com/posts/palvia-now-available-on-app-store/) | 做了一个 iOS 原生 BYOK Agent App。 最初叫 iClaw，后来改名成了 Palvia。 功能大概是多 Agent、记忆、技能、端侧 JS Sandbox、浏览器工具， |
+| 2026-06-23 | [2026 欧洲之旅：在意大利打车](https://www.ixiqin.com/2026/06/23/2026-european-tour-taking-a-taxi-in-italy/) | 看到标题，你可能会好奇，诶？为什么是【在意大利打车】？在意大利打车和其他地方有什么不同么？ 是的，不同的。在意大利，你并不能像我们在国内这样方便的使用 App 打车！在法国，你可以直接使用 Uber 打 … |
+| 2026-06-23 | [准备给猫咪换减肥猫粮](https://blog.solazy.me/20260623/) | 猫咪又要开始减重了 |
 | 2026-06-23 | [AgentMesh：“Agent 虚拟组网 + 能力结算”的基础设施产品](https://luweiqing.com/gossip/AgentMesh-infra.html) | 一、项目背景与执行摘要1.1 项目背景驱动因素：外部趋势： AI Agent 爆发式增长，单一 Agent 能力有限，多 Agent 协作成为必然；现有网络架构无法支撑 Agent 间的自动发现... |
 | 2026-06-23 | [中、日、英、法的摄影展馆](https://anotherdayu.com/4-photograph/) | 这几年陆续去了几个摄影艺术中心：上海摄影艺术中心、Fotografiska、东京都写真美术馆、伦敦 The Photographers’ Gallery，以及巴黎 MEP。它们都以摄影为核心，但给人的感觉很不同。 上海 上海摄影艺术中心（SCOP）现在已经停业，是我摄影爱好的起点。在上海摄影和艺术市… |
+| 2026-06-23 | [2026 欧洲之旅：酒店](https://www.ixiqin.com/2026/06/23/2026-european-tour-hotel/) | 由于是我的第二次出国旅行，再加上这次的行程有很多不确定性的，所以这次订酒店和上次美国之旅有所不同，上次我少量入住了万豪/IHG的酒店，这次则是大量入住了万豪系的酒店。 实际上这次只有在巴黎住的酒店 … |
 | 2026-06-23 | [微信 AI 小微初体验](https://www.hecaitou.com/2026/06/n-initial-experience-with-wechat-ai-xiao-wei.html) | 昨天我的微信左上角突然蹦出两个绿色的小圆点，点开是个隐私协议，让我授权之后开启「微信小微」。 江湖早有传闻，微信正在暗中开发自己的 AI 大模型，而且会以自己的方式嵌入微信本体，昨天我终于看到传说变为现实。之前，我已经体验过滴滴嵌入的 AI 打车助手，体验过闲鱼和淘宝的淘货 AI 助手，也体验过微博… |
 | 2026-06-23 | [New Release: Moon Child](https://macsourceports.com/game/moonchild) | In Team Hoi's final side scroller, Moon Child is probably the most Amiga game to never be released on the Amiga, jumping instead to Windows 95. You pl… |
 | 2026-06-23 | [看懂 z 说交易的「缺口」：那根线到底画在哪](https://blog.forecho.com/price-action-gap-zshuo-trading.html) | 引言 最近在 B 站看 z 说交易 的价格行为视频，他反复讲一个东西叫「缺口」。弹幕和评论里问得最多的也是这个：他画缺口的时候，找的那几根 K 线好像和我们理解的不太一样，那根线到底是怎么画出来的。 我一开始也没看懂，盯着屏幕找那块「空出来的价格」，怎么都对不上。后来把缺口一、二两期反复看了几遍，才… |
@@ -43,6 +48,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-22 | [茶店老街，也快没有住户了...](https://macin.org/2026/06/22/cha-dian-lao-jie/) | 去大安的这天正好是生日，出发前先去开了一个会，到大安的时候快晌午了。 豆花饭端上来，豆花是那种嫩得站不住的，在辣椒碟子里蘸一下，放进嘴里，烫，但没有停下来的意思。旁边几桌坐着几个本地人，吃饭摆龙门阵，电视开着也没人看。吃完问老板娘老街怎么走。她用下巴朝外努了努 |
 | 2026-06-22 | [夸孩子，别急着说他聪明](https://diff.im/blog/2026/06/%E5%A4%B8%E5%AD%A9%E5%AD%90%E5%88%AB%E6%80%A5%E7%9D%80%E8%AF%B4%E4%BB%96%E8%81%AA%E6%98%8E/) | 和很多华人父母一样，我其实不是一个很习惯夸孩子的人。 很多时候，我更习惯指出问题，提醒孩子哪里做得还不够好。好像这样才是在帮助她进步。可是我也发现， 即使到了我愿意夸孩子的时候，我也很容易用错方式。 比如，孩子考得不错，我可能会说：“宝贝，你太聪明了。” 孩子画了一幅画，我可能会说：“你好厉害，你真… |
 | 2026-06-22 | [R#107 短暂一游](https://blog.sakanano.moe/journals/random_107) | 2026.6.16 ~ 2026.6.22 |
+| 2026-06-22 | [反诈骚扰](https://blog.solazy.me/20260622/) | 最近经常接到 96110 的来电 |
 | 2026-06-22 | [渣打银行内地见证开户攻略](https://blog.debuginn.com/p/bank-sc/) | 大家好呀，我是 Meng小羽。 之前写过一篇《 港卡开卡指南 》，主要是分享我亲自去香港办卡的过程。后来又写了《 蚂蚁银行（澳门）开户指南 》，给大家补了一个澳门数字银行的选择。 文章发出去之后，后台陆续有朋友问我： 有没有一种方式，不用专门跑香港或者澳门，也能开一个相对正规的境外银行账户？ 还真有… |
 | 2026-06-22 | [20260622的胡言乱语](https://www.bboy.app/2026/06/22/20260622%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-06-22 | [Random Thoughts - 20260622](https://www.bboy.app/2026/06/22/random-thoughts-20260622/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
