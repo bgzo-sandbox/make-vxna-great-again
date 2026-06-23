@@ -27,8 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-23 | [中、日、英、法的摄影展馆](https://anotherdayu.com/4-photograph/) | 这几年陆续去了几个摄影艺术中心：上海摄影艺术中心、Fotografiska、东京都写真美术馆、伦敦 The Photographers’ Gallery，以及巴黎 MEP。它们都以摄影为核心，但给人的感觉很不同。 上海 上海摄影艺术中心（SCOP）现在已经停业，是我摄影爱好的起点。在上海摄影和艺术市… |
 | 2026-06-23 | [微信 AI 小微初体验](https://www.hecaitou.com/2026/06/n-initial-experience-with-wechat-ai-xiao-wei.html) | 昨天我的微信左上角突然蹦出两个绿色的小圆点，点开是个隐私协议，让我授权之后开启「微信小微」。 江湖早有传闻，微信正在暗中开发自己的 AI 大模型，而且会以自己的方式嵌入微信本体，昨天我终于看到传说变为现实。之前，我已经体验过滴滴嵌入的 AI 打车助手，体验过闲鱼和淘宝的淘货 AI 助手，也体验过微博… |
 | 2026-06-23 | [New Release: Moon Child](https://macsourceports.com/game/moonchild) | In Team Hoi's final side scroller, Moon Child is probably the most Amiga game to never be released on the Amiga, jumping instead to Windows 95. You pl… |
+| 2026-06-23 | [看懂 z 说交易的「缺口」：那根线到底画在哪](https://blog.forecho.com/price-action-gap-zshuo-trading.html) | 引言 最近在 B 站看 z 说交易 的价格行为视频，他反复讲一个东西叫「缺口」。弹幕和评论里问得最多的也是这个：他画缺口的时候，找的那几根 K 线好像和我们理解的不太一样，那根线到底是怎么画出来的。 我一开始也没看懂，盯着屏幕找那块「空出来的价格」，怎么都对不上。后来把缺口一、二两期反复看了几遍，才… |
 | 2026-06-23 | [Hoi updated](https://macsourceports.com/game/hoi) | The build of Hoi for Hoi has been updated to the latest code of the project |
 | 2026-06-23 | [Clockwiser updated](https://macsourceports.com/game/clockwiser) | The build of Clockwiser for Clockwiser has been updated to the latest code of the project |
 | 2026-06-23 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo for Quetoo has been updated to the latest code of the project |
