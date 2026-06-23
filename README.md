@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-23 | [AgentMesh：“Agent 虚拟组网 + 能力结算”的基础设施产品](https://luweiqing.com/gossip/AgentMesh-infra.html) | 一、项目背景与执行摘要1.1 项目背景驱动因素：外部趋势： AI Agent 爆发式增长，单一 Agent 能力有限，多 Agent 协作成为必然；现有网络架构无法支撑 Agent 间的自动发现... |
 | 2026-06-23 | [中、日、英、法的摄影展馆](https://anotherdayu.com/4-photograph/) | 这几年陆续去了几个摄影艺术中心：上海摄影艺术中心、Fotografiska、东京都写真美术馆、伦敦 The Photographers’ Gallery，以及巴黎 MEP。它们都以摄影为核心，但给人的感觉很不同。 上海 上海摄影艺术中心（SCOP）现在已经停业，是我摄影爱好的起点。在上海摄影和艺术市… |
 | 2026-06-23 | [微信 AI 小微初体验](https://www.hecaitou.com/2026/06/n-initial-experience-with-wechat-ai-xiao-wei.html) | 昨天我的微信左上角突然蹦出两个绿色的小圆点，点开是个隐私协议，让我授权之后开启「微信小微」。 江湖早有传闻，微信正在暗中开发自己的 AI 大模型，而且会以自己的方式嵌入微信本体，昨天我终于看到传说变为现实。之前，我已经体验过滴滴嵌入的 AI 打车助手，体验过闲鱼和淘宝的淘货 AI 助手，也体验过微博… |
 | 2026-06-23 | [New Release: Moon Child](https://macsourceports.com/game/moonchild) | In Team Hoi's final side scroller, Moon Child is probably the most Amiga game to never be released on the Amiga, jumping instead to Windows 95. You pl… |
@@ -36,8 +37,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-23 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo for Quetoo has been updated to the latest code of the project |
 | 2026-06-23 | [[字体故事]修悦体，最有温度的手创字体](https://www.iyeslogo.com/duct-tape/) | 这些不完美的手工字体比电脑字体更具生命力，每一道切口都保留着人类的温度。 |
 | 2026-06-23 | [如何最快地驯化认知？](https://mobius.blog/24705.html) | 接着昨天的话题，先来聊聊认知是否可以被驯化——我认为是可以的，而且比我们想象的要简单——甚至它正无时无刻地发生 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-23 | [登别之夜](https://elmtran.com/essays/the-onsen-night/) | 远离城市的一个夜晚 |
 | 2026-06-23 | [Memos #2026-06-22](https://www.taober.blog/memos) | 02:10 最近熬夜追比赛破坏了我的生物钟，却也见证了这令人动容的时刻。 祝大家梦想成真！ |
 | 2026-06-22 | [尖塔之外的教堂](https://anotherdayu.com/beyond-the-spire/) | 尖塔、穹顶、彩窗、雕塑是许多名胜教堂的标志性符号。它们确实令人震撼和赞叹，但让我印象最深刻的却是这两个。 一座是 Bath Bradford-on-Avon 的 Saxon Church of St Laurence，另一座是 Bristol 的 Clifton Cathedral。 Bradfor… |
+| 2026-06-22 | [茶店老街，也快没有住户了...](https://macin.org/2026/06/22/cha-dian-lao-jie/) | 去大安的这天正好是生日，出发前先去开了一个会，到大安的时候快晌午了。 豆花饭端上来，豆花是那种嫩得站不住的，在辣椒碟子里蘸一下，放进嘴里，烫，但没有停下来的意思。旁边几桌坐着几个本地人，吃饭摆龙门阵，电视开着也没人看。吃完问老板娘老街怎么走。她用下巴朝外努了努 |
 | 2026-06-22 | [夸孩子，别急着说他聪明](https://diff.im/blog/2026/06/%E5%A4%B8%E5%AD%A9%E5%AD%90%E5%88%AB%E6%80%A5%E7%9D%80%E8%AF%B4%E4%BB%96%E8%81%AA%E6%98%8E/) | 和很多华人父母一样，我其实不是一个很习惯夸孩子的人。 很多时候，我更习惯指出问题，提醒孩子哪里做得还不够好。好像这样才是在帮助她进步。可是我也发现， 即使到了我愿意夸孩子的时候，我也很容易用错方式。 比如，孩子考得不错，我可能会说：“宝贝，你太聪明了。” 孩子画了一幅画，我可能会说：“你好厉害，你真… |
 | 2026-06-22 | [R#107 短暂一游](https://blog.sakanano.moe/journals/random_107) | 2026.6.16 ~ 2026.6.22 |
 | 2026-06-22 | [渣打银行内地见证开户攻略](https://blog.debuginn.com/p/bank-sc/) | 大家好呀，我是 Meng小羽。 之前写过一篇《 港卡开卡指南 》，主要是分享我亲自去香港办卡的过程。后来又写了《 蚂蚁银行（澳门）开户指南 》，给大家补了一个澳门数字银行的选择。 文章发出去之后，后台陆续有朋友问我： 有没有一种方式，不用专门跑香港或者澳门，也能开一个相对正规的境外银行账户？ 还真有… |
