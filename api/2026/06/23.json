@@ -1,5 +1,40 @@
 [
   {
+    "title": "微信 AI 小微初体验",
+    "url": "https://www.hecaitou.com/2026/06/n-initial-experience-with-wechat-ai-xiao-wei.html",
+    "date": "2026-06-23T04:27:07Z",
+    "description": "昨天我的微信左上角突然蹦出两个绿色的小圆点，点开是个隐私协议，让我授权之后开启「微信小微」。 江湖早有传闻，微信正在暗中开发自己的 AI 大模型，而且会以自己的方式嵌入微信本体，昨天我终于看到传说变为现实。之前，我已经体验过滴滴嵌入的 AI 打车助手，体验过闲鱼和淘宝的淘货 AI 助手，也体验过微博的智能搜索助手。但是以体量大小和涉及日常生活之深，微信小微还是第一家。 作为曾经的产品经理，接下来我想按照我的视角谈一下个人使用体验： 小微用的是标准微信起手式，1、不打搅用户，在微信的角落里新增一个入口。2、用户上手简单，基本使用方式和沟通方式是语音，确保文盲也可以使用，小白用户也无需学习直接开始。3、无缝隙融入微信自有生态系统，对既存功能提供加成，使得平台整体能力提升。 4、从最简单最基本的功能开始，不提供更多功能选项，让用户通过聚焦而熟悉适应。 所以一眼看上去，微信小微的界面非常简单，就是早期微信对讲机的延伸，只不过这一次对讲的对象是个 AI，不再是个人。为了让用户区分对面是活人还是机器，界面没有照搬私人聊天的形式，而是专门用了黑色加粗和灰色系统默认字体，做出了一种和机器交流的感觉。 ",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "New Release: Moon Child",
+    "url": "https://macsourceports.com/game/moonchild",
+    "date": "2026-06-23T02:48:49Z",
+    "description": "In Team Hoi's final side scroller, Moon Child is probably the most Amiga game to never be released on the Amiga, jumping instead to Windows 95. You play as a green elf sent from the moon to…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Hoi updated",
+    "url": "https://macsourceports.com/game/hoi",
+    "date": "2026-06-23T01:51:59Z",
+    "description": "The build of Hoi for Hoi has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Clockwiser updated",
+    "url": "https://macsourceports.com/game/clockwiser",
+    "date": "2026-06-23T01:50:59Z",
+    "description": "The build of Clockwiser for Clockwiser has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-06-23T01:49:59Z",
+    "description": "The build of Quetoo for Quetoo has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "[字体故事]修悦体，最有温度的手创字体",
     "url": "https://www.iyeslogo.com/duct-tape/",
     "date": "2026-06-23T01:24:35Z",

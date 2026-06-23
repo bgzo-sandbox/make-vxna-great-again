@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-23 | [微信 AI 小微初体验](https://www.hecaitou.com/2026/06/n-initial-experience-with-wechat-ai-xiao-wei.html) | 昨天我的微信左上角突然蹦出两个绿色的小圆点，点开是个隐私协议，让我授权之后开启「微信小微」。 江湖早有传闻，微信正在暗中开发自己的 AI 大模型，而且会以自己的方式嵌入微信本体，昨天我终于看到传说变为现实。之前，我已经体验过滴滴嵌入的 AI 打车助手，体验过闲鱼和淘宝的淘货 AI 助手，也体验过微博… |
+| 2026-06-23 | [New Release: Moon Child](https://macsourceports.com/game/moonchild) | In Team Hoi's final side scroller, Moon Child is probably the most Amiga game to never be released on the Amiga, jumping instead to Windows 95. You pl… |
+| 2026-06-23 | [Hoi updated](https://macsourceports.com/game/hoi) | The build of Hoi for Hoi has been updated to the latest code of the project |
+| 2026-06-23 | [Clockwiser updated](https://macsourceports.com/game/clockwiser) | The build of Clockwiser for Clockwiser has been updated to the latest code of the project |
+| 2026-06-23 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo for Quetoo has been updated to the latest code of the project |
 | 2026-06-23 | [[字体故事]修悦体，最有温度的手创字体](https://www.iyeslogo.com/duct-tape/) | 这些不完美的手工字体比电脑字体更具生命力，每一道切口都保留着人类的温度。 |
 | 2026-06-23 | [如何最快地驯化认知？](https://mobius.blog/24705.html) | 接着昨天的话题，先来聊聊认知是否可以被驯化——我认为是可以的，而且比我们想象的要简单——甚至它正无时无刻地发生 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-23 | [Memos #2026-06-22](https://www.taober.blog/memos) | 02:10 最近熬夜追比赛破坏了我的生物钟，却也见证了这令人动容的时刻。 祝大家梦想成真！ |
@@ -73,7 +78,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-20 | [为什么越来越懒得解释](https://www.hecaitou.com/2026/06/why-i-no-longer-bother-to-explain-myself.html) | 关于自己的事情，我越来越懒得和人解释。原因是随着年纪增长，我对于人性有了新的认识。这种新认识告诉我：别费那个劲了。 现在，手头刚好有一个例子，可以给大家做参考。 前几天我的网络小店新发布了一款产品：鸡枞油卤腐。在文章中，我说「 里面能够看到黑色的油浸鸡枞丝」。很快就有两位读者留言，提出了疑问。一位说… |
 | 2026-06-20 | [MacOS 快速插入当前时间](https://blog.est.im/2026/stdout-23) | 第一步：创建快捷指令 打开 Shortcuts 。 点击右上角 + 新建快捷指令。 添加动作 1：日期 搜 添加 日期（Current Date） 动作，默认为当前时间 添加动作 2：格式化日期 添加 格式化日期，日期格式 自定义，填 yyyy-MM-dd HH:mm:ss 添加动作 3：Apple… |
 | 2026-06-20 | [The Elder Scrolls III: Morrowind updated](https://macsourceports.com/game/morrowind) | The build of OpenMW for The Elder Scrolls III: Morrowind has been updated to version openmw-0.51.0 of the project |
-| 2026-06-20 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo for Quetoo has been updated to the latest code of the project |
 | 2026-06-20 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.25 of the project |
 | 2026-06-20 | [快乐份子](https://mobius.blog/24805.html) | 这两天，大量的快乐份子被抓了，因为端午只能搭配安康。 紧急着，份子分子也被抓了，因为应该用“分子”。 快乐分子 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-19 | [AI 时代快速了解自己感兴趣的计算机辅助的“制作工艺”管线](https://shansan.top/2026/06/19/learn-with-ai-friends/) | 记录一次用 AI 辅助学习 Godot SRPG 单关原型、游戏开发 playground 和 3D 制作管线的实践，重点关注如何把 AI 当作导师理解完整制作流程。 |
@@ -91,8 +95,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-18 | [AI Agent 看板](https://smallyu.net/2026/06/18/AI-Agent%E7%9C%8B%E6%9D%BF/) | 有一个给 AI Agent 设计的看板工具叫 Multica，理念是本地部署，本地运行的 AI 比如 Codex、Claude Code、Antigravity 等都以 Agent 形式接入看板，然后你就可以给 AI Agent |
 | 2026-06-18 | [MECHREVO WUJIE14 PRO on Linux 声卡完整修复历程](https://hellodk.cn/post/1226) | 为了解决我的机械革命无界 14 pro 笔记本在 linux debian testing(forky) 下的自带麦克风、自带扬声器、插入 3.5mm 耳机这三个场景下，对应硬件都能正常工作的问... |
 | 2026-06-18 | [什么是Skill，它能迸发出什么能力](https://deepzz.com/post/what-is-ai-skil.html) | 1、什么是 Skill Skill（技能）本质上是 一份写给 AI 的”专业说明书” 。它用 Markdown 把某个领域的知识、流程、规范、可复用的脚本打包起来，让 AI 在遇到对应任务时，能像一个专家一样按既定方法去做事。 可以用一句话概括： Skill = 触发条件（什么时候用） + 操作指南… |
-| 2026-06-18 | [New Release: Clockwiser](https://macsourceports.com/game/clockwiser) | Also an Amiga game from Team Hoi, Clockwiser at first appears to be a standard issue match-3 game, but the twist is not something I've seen before. Yo… |
-| 2026-06-18 | [New Release: Hoi](https://macsourceports.com/game/hoi) | Another game where you can tell it's an Amiga game just by looking at it, Hoi hails from the era when developers were filling in the gaps, as well as… |
 | 2026-06-18 | [越来越多的 ADHD 是现代社交媒体制造的吗？](https://mobius.blog/24661.html) | 接着《我的吸尘器哪儿去了？》引发的话题。今天来聊聊一个被越来越多人讨论的话题：现代人的 ADHD 是社交媒体制 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-18 | [逐渐关闭的大门：香港券商收紧的背后](https://hangbin.blog/blog/hk-brokers-mainland-investors-offshore-allocation/) | 当年我在澳大利亚留学，毕业后逐渐注销或关闭了银行、commonsec账户。最近几年，准备做一些国际的资产配置，才发现中国对金融的管控，十年间逐渐升级到了难以想象的程度。 就说上个月，中国的证监会要求香港券商清理大陆存量的客户账户。富途、老虎这类跨境互联网券商，早在十年前的2016年就被监管点过名。那… |
 | 2026-06-17 | [股票配债缴款操作指南](https://programnotes.cn/stock-convertible-bond/index.html) | 账户类型不同，操作略有差异，但核心要素一致： 配债代码 （公告公布，通常7或8开头）、 价格 （100元/张）、 数量 （系统显示的可配售张数）。 普通账户 缴款前准备 核对配售数量 ：T日开盘后登录账户，在”持仓”或”配债”栏目查看可配售张数，如10张。 备足资金 ：所需资金 = 张数 × 100… |
