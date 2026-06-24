@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-24 | [“现在上网哪有隐私？”](https://www.geedea.pro/article/online-privacy/) | 如果你在互联网上讨论隐私问题，尤其是在那些评论、交流没有任何门槛，任何人都可以不假思索地抛下一句风凉话的平台，那么你大概听过本文标题所写的这句话。发言者往往对信息技术的了解浅薄，听从权威（就算不是官方，也可能是某些意见领袖），相信有神秘的力量控制着一切，想象有人无时无刻盯着天文数字般的网络报文审查，… |
+| 2026-06-24 | [T2I 文生图的新秀Ideogram 4体验和评价](https://eduardoqian.com/archives/t2i-wen-sheng-tu-de-xin-xiu-ideogram-4ti-yan-he-ping-jie) | 考完试后，除了做一些Research Assistant的工作，我惊喜的发现了AI生图开源模型里又来了一个新秀ideogram 4。上一个给我如此惊喜震撼的还是z-image，而细究起来，我对ideogram4的表现以及未来更有信心一些，尤其是考虑到z-image几乎被阿里给砍了，edit模型迟迟不 |
+| 2026-06-24 | [我的 AI Coding Guide](https://www.ixiqin.com/2026/06/24/my-ai-coding-guide/) | 最新更新于 2026 年 6 月 24 日 这个指南是我自己的 AI Coding 的经验总结，我认为在实际使用 AI Coding 的过程中，应该注意和遵循的规则。 精力管理 当你开始使用 AI Agent 来辅助编程后，你很快会发现， … |
 | 2026-06-24 | [疲惫的人们不再配合演出](https://www.hecaitou.com/2026/06/Too-Tired-to-Play-Along.html) | 最近我发现人们普遍比较疲惫，对什么都兴趣不高。人在这种状态下会失去耐心，很容易发脾气，比如说这几天人们就和「面」干了起来。在街头摊档吃热干面，不行。在舞台上呼吁老少爷们「走个面」，更不行。人们毫不客气，一点面子都不给，直接就给撅回去。 以前不是这样的。以前你在演，我知道你在演。然后你知道我知道你在演… |
 | 2026-06-24 | [机械革命泰钽 plus linux Debian Wayland 独显直连调优全记录](https://hellodk.cn/post/1227) | 机械革命泰钽 Plus 游戏本在 Linux Debian GNOME Wayland 下流畅使用诊断艰辛历程一、软硬件配置硬件项目规格型号MECHREVO Taitan Series GM7T... |
 | 2026-06-24 | [大脑对手机上瘾，或许是一种惯性](https://mobius.blog/24711.html) | 昨天聊了如何最快速的驯化一个的认知，今天就顺着这种驯化的过程，来聊聊“成瘾”问题——不仅仅是多巴胺的刺激，很有 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
