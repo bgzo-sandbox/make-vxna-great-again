@@ -35,6 +35,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-24 | [机械革命泰钽 plus linux Debian Wayland 独显直连调优全记录](https://hellodk.cn/post/1227) | 机械革命泰钽 Plus 游戏本在 Linux Debian GNOME Wayland 下流畅使用诊断艰辛历程一、软硬件配置硬件项目规格型号MECHREVO Taitan Series GM7T... |
 | 2026-06-24 | [大脑对手机上瘾，或许是一种惯性](https://mobius.blog/24711.html) | 昨天聊了如何最快速的驯化一个的认知，今天就顺着这种驯化的过程，来聊聊“成瘾”问题——不仅仅是多巴胺的刺激，很有 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-23 | [告别摄影](https://anotherdayu.com/bye-photograph/) | 期望 韩炳哲在《爱欲之死》里提到：如果说有一样东西需要对当今社会日益频繁发生的「失望」负责，那么它不是不断升华的想象力，而是不断提高的期望值。 过去，人们先经历，再留下记忆和图像。现在，我们还没有真正进入一个地方，就已经在观看它最漂亮的样子：最好的光线，最干净的构图，最适合发布的角度。 经验反过来变… |
+| 2026-06-23 | [我思](https://tianheg.co/posts/me-thinking/) | 思考不必局限于形式。我开始写下心中所想。 病痛往往会让人思考自己的处境，我的处境让我有些麻木和难受。咳嗽的毛病到今天已经六天，当拖到无可再拖时，我终于选择去医院看看。挂号，医生问了情况，让去拍CT、抽血化验。拍CT的仪器以前从未见过，好像一个甜甜圈。抽血时当针头刺进血管那一刻，我感受到轻微的刺痛，好… |
 | 2026-06-23 | [从 iClaw 到 Palvia：七次提交、六次拒审，差点死在 Apple 的时间流速里的 App](https://shadowmov.com/posts/palvia-now-available-on-app-store/) | 做了一个 iOS 原生 BYOK Agent App。 最初叫 iClaw，后来改名成了 Palvia。 功能大概是多 Agent、记忆、技能、端侧 JS Sandbox、浏览器工具， |
 | 2026-06-23 | [2026 欧洲之旅：在意大利打车](https://www.ixiqin.com/2026/06/23/2026-european-tour-taking-a-taxi-in-italy/) | 在意大利无法像在其他国家那样使用Uber X等网约车服务，需要下载专门的本地应用。appTaxi在佛罗伦萨覆盖率较高，而ItTaxi适用于罗马等地，范围更广。 计费从司机接单驶向乘客时便开始，上车前可能已有费用 … |
 | 2026-06-23 | [准备给猫咪换减肥猫粮](https://blog.solazy.me/20260623/) | 猫咪又要开始减重了 |
