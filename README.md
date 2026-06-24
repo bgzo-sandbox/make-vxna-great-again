@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-24 | [Databricks Genie 战略解读：从数据平台到上下文平台的跃迁](https://luweiqing.com/gossip/Databricks-Genie.html) | 核心观点：企业 AI 的竞争焦点已从数据基础设施（Data Infrastructure）转向上下文基础设施（Context Infrastructure）。一、战略背景：为什么是现在？Data... |
 | 2026-06-24 | [“现在上网哪有隐私？”](https://www.geedea.pro/article/online-privacy/) | 如果你在互联网上讨论隐私问题，尤其是在那些评论、交流没有任何门槛，任何人都可以不假思索地抛下一句风凉话的平台，那么你大概听过本文标题所写的这句话。发言者往往对信息技术的了解浅薄，听从权威（就算不是官方，也可能是某些意见领袖），相信有神秘的力量控制着一切，想象有人无时无刻盯着天文数字般的网络报文审查，… |
 | 2026-06-24 | [T2I 文生图的新秀Ideogram 4体验和评价](https://eduardoqian.com/archives/t2i-wen-sheng-tu-de-xin-xiu-ideogram-4ti-yan-he-ping-jie) | 考完试后，除了做一些Research Assistant的工作，我惊喜的发现了AI生图开源模型里又来了一个新秀ideogram 4。上一个给我如此惊喜震撼的还是z-image，而细究起来，我对ideogram4的表现以及未来更有信心一些，尤其是考虑到z-image几乎被阿里给砍了，edit模型迟迟不 |
 | 2026-06-24 | [我的 AI Coding Guide](https://www.ixiqin.com/2026/06/24/my-ai-coding-guide/) | 最新更新于 2026 年 6 月 24 日 这个指南是我自己的 AI Coding 的经验总结，我认为在实际使用 AI Coding 的过程中，应该注意和遵循的规则。 精力管理 当你开始使用 AI Agent 来辅助编程后，你很快会发现， … |
