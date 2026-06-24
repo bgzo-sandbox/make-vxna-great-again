@@ -27,13 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-24 | [机械革命泰钽 plus linux Debian Wayland 独显直连调优全记录](https://hellodk.cn/post/1227) | 机械革命泰钽 Plus 游戏本在 Linux Debian GNOME Wayland 下流畅使用诊断艰辛历程一、软硬件配置硬件项目规格型号MECHREVO Taitan Series GM7T... |
+| 2026-06-24 | [大脑对手机上瘾，或许是一种惯性](https://mobius.blog/24711.html) | 昨天聊了如何最快速的驯化一个的认知，今天就顺着这种驯化的过程，来聊聊“成瘾”问题——不仅仅是多巴胺的刺激，很有 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-23 | [告别摄影](https://anotherdayu.com/bye-photograph/) | 期望 韩炳哲在《爱欲之死》里提到：如果说有一样东西需要对当今社会日益频繁发生的「失望」负责，那么它不是不断升华的想象力，而是不断提高的期望值。 过去，人们先经历，再留下记忆和图像。现在，我们还没有真正进入一个地方，就已经在观看它最漂亮的样子：最好的光线，最干净的构图，最适合发布的角度。 经验反过来变… |
 | 2026-06-23 | [从 iClaw 到 Palvia：七次提交、六次拒审，差点死在 Apple 的时间流速里的 App](https://shadowmov.com/posts/palvia-now-available-on-app-store/) | 做了一个 iOS 原生 BYOK Agent App。 最初叫 iClaw，后来改名成了 Palvia。 功能大概是多 Agent、记忆、技能、端侧 JS Sandbox、浏览器工具， |
-| 2026-06-23 | [2026 欧洲之旅：在意大利打车](https://www.ixiqin.com/2026/06/23/2026-european-tour-taking-a-taxi-in-italy/) | 看到标题，你可能会好奇，诶？为什么是【在意大利打车】？在意大利打车和其他地方有什么不同么？ 是的，不同的。在意大利，你并不能像我们在国内这样方便的使用 App 打车！在法国，你可以直接使用 Uber 打 … |
+| 2026-06-23 | [2026 欧洲之旅：在意大利打车](https://www.ixiqin.com/2026/06/23/2026-european-tour-taking-a-taxi-in-italy/) | 在意大利无法像在其他国家那样使用Uber X等网约车服务，需要下载专门的本地应用。appTaxi在佛罗伦萨覆盖率较高，而ItTaxi适用于罗马等地，范围更广。 计费从司机接单驶向乘客时便开始，上车前可能已有费用 … |
 | 2026-06-23 | [准备给猫咪换减肥猫粮](https://blog.solazy.me/20260623/) | 猫咪又要开始减重了 |
 | 2026-06-23 | [AgentMesh：“Agent 虚拟组网 + 能力结算”的基础设施产品](https://luweiqing.com/gossip/AgentMesh-infra.html) | 一、项目背景与执行摘要1.1 项目背景驱动因素：外部趋势： AI Agent 爆发式增长，单一 Agent 能力有限，多 Agent 协作成为必然；现有网络架构无法支撑 Agent 间的自动发现... |
 | 2026-06-23 | [中、日、英、法的摄影展馆](https://anotherdayu.com/4-photograph/) | 这几年陆续去了几个摄影艺术中心：上海摄影艺术中心、Fotografiska、东京都写真美术馆、伦敦 The Photographers’ Gallery，以及巴黎 MEP。它们都以摄影为核心，但给人的感觉很不同。 上海 上海摄影艺术中心（SCOP）现在已经停业，是我摄影爱好的起点。在上海摄影和艺术市… |
-| 2026-06-23 | [2026 欧洲之旅：酒店](https://www.ixiqin.com/2026/06/23/2026-european-tour-hotel/) | 由于是我的第二次出国旅行，再加上这次的行程有很多不确定性的，所以这次订酒店和上次美国之旅有所不同，上次我少量入住了万豪/IHG的酒店，这次则是大量入住了万豪系的酒店。 实际上这次只有在巴黎住的酒店 … |
+| 2026-06-23 | [2026 欧洲之旅：酒店](https://www.ixiqin.com/2026/06/23/2026-european-tour-hotel/) | 作者第二次出国旅行时主要入住万豪系酒店，全程使用万豪App预订以便灵活调整行程。巴黎酒店房间和电梯偏小但价格划算，里昂万豪虽大且舒适但位置偏远，尼斯和佛罗伦萨的酒店位置尚可，罗马的AC酒店则过于偏 … |
 | 2026-06-23 | [微信 AI 小微初体验](https://www.hecaitou.com/2026/06/n-initial-experience-with-wechat-ai-xiao-wei.html) | 昨天我的微信左上角突然蹦出两个绿色的小圆点，点开是个隐私协议，让我授权之后开启「微信小微」。 江湖早有传闻，微信正在暗中开发自己的 AI 大模型，而且会以自己的方式嵌入微信本体，昨天我终于看到传说变为现实。之前，我已经体验过滴滴嵌入的 AI 打车助手，体验过闲鱼和淘宝的淘货 AI 助手，也体验过微博… |
 | 2026-06-23 | [New Release: Moon Child](https://macsourceports.com/game/moonchild) | In Team Hoi's final side scroller, Moon Child is probably the most Amiga game to never be released on the Amiga, jumping instead to Windows 95. You pl… |
 | 2026-06-23 | [看懂 z 说交易的「缺口」：那根线到底画在哪](https://blog.forecho.com/price-action-gap-zshuo-trading.html) | 引言 最近在 B 站看 z 说交易 的价格行为视频，他反复讲一个东西叫「缺口」。弹幕和评论里问得最多的也是这个：他画缺口的时候，找的那几根 K 线好像和我们理解的不太一样，那根线到底是怎么画出来的。 我一开始也没看懂，盯着屏幕找那块「空出来的价格」，怎么都对不上。后来把缺口一、二两期反复看了几遍，才… |
@@ -128,24 +130,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-17 | [ADHD 究竟是疾病还是一种“标签”？](https://mobius.blog/24656.html) | 接着《我的吸尘器哪儿去了？》展开的话题继续。 打开小红书，搜索 ADHD，你会发现进入 2026 年，这不再是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-17 | [UniGetUI —— 可能是 Windows 下最好用的应用商店](https://www.ixiqin.com/2026/06/17/unigetui-may-be-the-best-app-store-for-windows/) | UniGetUI 是一款为 Windows 提供图形界面的包管理器聚合工具。它整合了 Winget、Scoop […] |
 | 2026-06-17 | [小鱼](https://elmtran.com/essays/yu/) | 被风拂过的夏天 |
-| 2026-06-16 | [Star Wars Jedi Knight II: Jedi Outcast updated](https://macsourceports.com/game/swjk2) | The build of OpenJO (OpenJK Project, Single Player) for Star Wars Jedi Knight II: Jedi Outcast has been updated to the latest code of the project |
-| 2026-06-16 | [Star Wars Jedi Knight: Jedi Academy updated](https://macsourceports.com/game/swjkja) | The build of OpenJK (Single Player) for Star Wars Jedi Knight: Jedi Academy has been updated to the latest code of the project |
-| 2026-06-16 | [孩子来美国留学，什么阶段送出来是最好的？](https://diff.im/blog/2026/06/%E5%AD%A9%E5%AD%90%E6%9D%A5%E7%BE%8E%E5%9B%BD%E7%95%99%E5%AD%A6%E4%BB%80%E4%B9%88%E9%98%B6%E6%AE%B5%E9%80%81%E5%87%BA%E6%9D%A5%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84/) | 有很多朋友问我：让孩子来美国留学，什么阶段送出来是最好的？ 我的答案很简单， 判断标准只有一个：留学结束之后，你是打算让孩子留在美国，还是打算让孩子回去？ 如果你的孩子以后打算留在美国生活，那么其实是越早越好。我个人会把八九岁当成一个比较保守的经验线。 这不是说十岁以后就一定不行，而是说，如果目标是… |
-| 2026-06-16 | [半年过去了，我和 AI Coding 的关系有什么变化？](https://www.ixiqin.com/2026/06/16/half-a-year-has-passed-what-changes-have-occurred-in-my/) | 作者回顾了半年来使用AI编程的发展，指出使用量显著增长。一个关键变化是发现并依赖VibeKanban进行多任务 […] |
-| 2026-06-16 | [咽不下的那口气，是职场的镜子](https://blog.solazy.me/20260616/) | 今天聊聊最近职场的一个观察，当然也是发生在我身上的一件事 |
-| 2026-06-16 | [为内容创作者和开发者打造的轻量级静态站点生成器Snow](https://honmaple.me/articles/2026/06/snow-intro.html) | 如果你想搭建一个博客、技术文档站、项目主页，或者一个可以长期维护的内容网站，你可能已经尝试过许多静态站点生成器。它们功能强大，但有时也意味着复杂的依赖、繁琐的配置和不够直观的扩展方式。 Snow 提供了另一种选择：一个用 Go 编写的、单二进制分发的静态站点生成器。它足够轻量，也足够灵活，适合从个人… |
-| 2026-06-16 | [2026 欧洲之旅：坐大巴](https://www.ixiqin.com/2026/06/16/2026-european-tour-by-bus/) | 欧洲游和美国旅行有一点不同的是，我的欧洲游跨越了国境线，一次性游览了两个国家。不同的国家使得自驾游欧洲这件事带 […] |
-| 2026-06-16 | [掌控节奏](https://lomus.cc/archives/787) | 今天来讲讲「节奏」对我的重要性，这个节奏指的倒不是音乐里的节奏，而是存在于我工作生活里的隐形框架。 其实这是一 […] 掌控节奏 最先出现在 Lumos's Blog 。 |
-| 2026-06-16 | [20260616的胡言乱语](https://www.bboy.app/2026/06/16/20260616%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
-| 2026-06-16 | [Random Thoughts - 20260616](https://www.bboy.app/2026/06/16/random-thoughts-20260616/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
-| 2026-06-16 | [Rethinking Attention: Polynomial Alternatives to Softmax in Transformers](https://mer.run/posts/rethinking-attention-polynomial-alternatives-to-softmax-in-transformers/) | 作者认为softmax有效是因为它将Attention矩阵的Frobenius范数控制在了O(sqrt(N))量级，从而稳定了训练，因此提出用多项式激活代替softmax、在期望意义上实现相似的范数控制。理论推完发现这文章没中，ICLR2026得分2222，一下子就不想看下去了。感觉实验和理论都不是… |
-| 2026-06-16 | [密语系统崩溃恢复记录](https://blog.wo0ow.com/4851.html) | 解决docker容器的密算应用启动故障问题 |
-| 2026-06-16 | [工作、消费主义和新穷人](https://www.geedea.pro/library/2026/work-consumerism-and-the-new-poor/) | 一本经济和政治相关的社会科学书籍，很薄，还算易读。书从工作伦理和消费美学出发，浅析了工作、生产和消费在社会不同阶段的意义，又谈到如今穷人的处境，他们是如何被福利国家救助、被当作生产力后备军，然后又是如何被消费主义社会抛弃、被当作不合格的消费者的。看起来是对工作和消费主义的解析，不过主要的落脚点还是在… |
-| 2026-06-16 | [第一百八十万字](https://mobius.blog/24693.html) | 自从有了字数统计的插件之后，这个系列又可以恢复“每十万字一更”的栏目了，也放回了最初的分类“彭罗斯三角”里。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-16 | [猫咪友好](https://www.hecaitou.com/2026/06/Cat-Friendly.html) | 在我养猫之后，尤其是其中一只猫得了急性肾衰竭之后，鲜花和绿植的选择就锐减到有限的几项。我并没有多么喜欢玫瑰，但是玫瑰对猫咪无害，于是我家里常年只有玫瑰。 任何时令鲜花上市，在决定下单之前，我都要掏出手机来查一下：XX 对猫咪有没有毒性？很遗憾，很多时候不是有微毒，就是误食会导致呕吐。于是只能看看图片… |
-| 2026-06-16 | [zui.re 上线记：把最热两个字，变成新闻站](https://www.evan.xin/5051/) | zui.re 是我给自己做的一块信息看板。 平时会看的内容其实很散，技术、产品、热榜、论坛更新都分布在不同网站 […] |
-| 2026-06-16 | [我的吸尘器哪儿去了？](https://mobius.blog/24649.html) | 一个成年后患有 ADHD 的朋友跟我闲聊，然后我发现了一个有趣现象。他想先用吸尘器收拾家里，但是吸尘到一半时， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-16 | [极速聊 Nintendo Direct 260609](https://bluepika.life/blog/nintendo-direct-260609-quick-chat) | 简单记录一下这次 Nintendo Direct 里出现的游戏，以及直播时的一些即时感想。 |
 
 ## Vibe Coding
 
