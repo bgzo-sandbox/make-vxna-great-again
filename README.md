@@ -28,6 +28,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-06-25 | [学习周刊-总第269期-2026年第26周](https://wiki.eryajf.net/pages/0e5d11/) | 如要阅读全文，点击标题跳转。 学习周刊-总第269期 &#124; JsonStudio &#124; panel &#124; momei &#124; metapi &#124; arbor &#124; sub2api &#124; ruanyf-weekly-issue-browser |
+| 2026-06-25 | [从 10 万到 80 元的「学费」](https://blog.solazy.me/20260625/) | 从十万骗局到八十元停车费，聊聊我如何用「转念」终止内耗。 |
+| 2026-06-25 | [香港和台湾给我的两种感觉](https://www.tortorse.com/archives/hong-kong-taiwan-travel-impressions/) | 今天听机核的节目，里面聊出差，也聊到了香港和台湾。 |
 | 2026-06-25 | [一款基于Pengu Loader的全服可用英雄联盟客户端增强插件–Sona](https://www.cheshirex.com/10542.html) | Sona是一款插件，需要先安装运行Pengu Loader程序，然后加载运行Sona插件。这个插件有挺多功能 […] |
 | 2026-06-25 | [无聊的小事](https://www.hecaitou.com/2026/06/the-trivial-and-the-mundane.html) | 自从我开始玩公众号贴图功能以来，在我日常发布的那些天空照片的留言区，已经变成了全国乃至全世界读者交换本地天空的所在。人们会跑来张贴自己眼前的天空，然后点赞或者是评论他人发布的照片。 专注于每日文章流量的人可以来看看，这种天空贴图的阅读量不高，参与的人也不多。但这种事情我几乎每天都要搞，流量高还是低都… |
 | 2026-06-25 | [我们的博客是花园，花园里的花儿吵翻天](https://mobius.blog/24837.html) | 特地到现在才想起聊聊这件事——聊“个站商店”这件事是具有风险的，因为我一定是“两边都得罪”的态度。 当然，我一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
