@@ -1,5 +1,19 @@
 [
   {
+    "title": "Ambermoon updated",
+    "url": "https://macsourceports.com/game/ambermoon",
+    "date": "2026-06-25T22:00:03Z",
+    "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.13.6 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-06-25T21:59:10Z",
+    "description": "The build of Quetoo for Quetoo has been updated to version v1.0.54 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "学习周刊-总第269期-2026年第26周",
     "url": "https://wiki.eryajf.net/pages/0e5d11/",
     "date": "2026-06-25T21:55:37Z",
@@ -206,21 +220,14 @@
     "title": "Hoi updated",
     "url": "https://macsourceports.com/game/hoi",
     "date": "2026-06-23T01:51:59Z",
-    "description": "The build of Hoi for Hoi has been updated to the latest code of the project",
+    "description": "The build of Hoi for Hoi has been updated to version 1.0 of the project",
     "source_root_domain": "macsourceports.com"
   },
   {
     "title": "Clockwiser updated",
     "url": "https://macsourceports.com/game/clockwiser",
     "date": "2026-06-23T01:50:59Z",
-    "description": "The build of Clockwiser for Clockwiser has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "Quetoo updated",
-    "url": "https://macsourceports.com/game/quetoo",
-    "date": "2026-06-23T01:49:59Z",
-    "description": "The build of Quetoo for Quetoo has been updated to the latest code of the project",
+    "description": "The build of Clockwiser for Clockwiser has been updated to version 1.0 of the project",
     "source_root_domain": "macsourceports.com"
   },
   {

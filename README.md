@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-25 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.6 of the project |
+| 2026-06-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo for Quetoo has been updated to version v1.0.54 of the project |
 | 2026-06-25 | [学习周刊-总第269期-2026年第26周](https://wiki.eryajf.net/pages/0e5d11/) | 如要阅读全文，点击标题跳转。 学习周刊-总第269期 &#124; JsonStudio &#124; panel &#124; momei &#124; metapi &#124; arbor &#124; sub2api &#124; ruanyf-weekly-issue-browser |
 | 2026-06-25 | [从 10 万到 80 元的「学费」](https://blog.solazy.me/20260625/) | 从十万骗局到八十元停车费，聊聊我如何用「转念」终止内耗。 |
 | 2026-06-25 | [香港和台湾给我的两种感觉](https://www.tortorse.com/archives/hong-kong-taiwan-travel-impressions/) | 今天听机核的节目，里面聊出差，也聊到了香港和台湾。 |
@@ -56,9 +58,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-23 | [微信 AI 小微初体验](https://www.hecaitou.com/2026/06/n-initial-experience-with-wechat-ai-xiao-wei.html) | 昨天我的微信左上角突然蹦出两个绿色的小圆点，点开是个隐私协议，让我授权之后开启「微信小微」。 江湖早有传闻，微信正在暗中开发自己的 AI 大模型，而且会以自己的方式嵌入微信本体，昨天我终于看到传说变为现实。之前，我已经体验过滴滴嵌入的 AI 打车助手，体验过闲鱼和淘宝的淘货 AI 助手，也体验过微博… |
 | 2026-06-23 | [New Release: Moon Child](https://macsourceports.com/game/moonchild) | In Team Hoi's final side scroller, Moon Child is probably the most Amiga game to never be released on the Amiga, jumping instead to Windows 95. You pl… |
 | 2026-06-23 | [看懂 z 说交易的「缺口」：那根线到底画在哪](https://blog.forecho.com/price-action-gap-zshuo-trading.html) | 引言 最近在 B 站看 z 说交易 的价格行为视频，他反复讲一个东西叫「缺口」。弹幕和评论里问得最多的也是这个：他画缺口的时候，找的那几根 K 线好像和我们理解的不太一样，那根线到底是怎么画出来的。 我一开始也没看懂，盯着屏幕找那块「空出来的价格」，怎么都对不上。后来把缺口一、二两期反复看了几遍，才… |
-| 2026-06-23 | [Hoi updated](https://macsourceports.com/game/hoi) | The build of Hoi for Hoi has been updated to the latest code of the project |
-| 2026-06-23 | [Clockwiser updated](https://macsourceports.com/game/clockwiser) | The build of Clockwiser for Clockwiser has been updated to the latest code of the project |
-| 2026-06-23 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo for Quetoo has been updated to the latest code of the project |
+| 2026-06-23 | [Hoi updated](https://macsourceports.com/game/hoi) | The build of Hoi for Hoi has been updated to version 1.0 of the project |
+| 2026-06-23 | [Clockwiser updated](https://macsourceports.com/game/clockwiser) | The build of Clockwiser for Clockwiser has been updated to version 1.0 of the project |
 | 2026-06-23 | [[字体故事]修悦体，最有温度的手创字体](https://www.iyeslogo.com/duct-tape/) | 这些不完美的手工字体比电脑字体更具生命力，每一道切口都保留着人类的温度。 |
 | 2026-06-23 | [如何最快地驯化认知？](https://mobius.blog/24705.html) | 接着昨天的话题，先来聊聊认知是否可以被驯化——我认为是可以的，而且比我们想象的要简单——甚至它正无时无刻地发生 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-23 | [登别之夜](https://elmtran.com/essays/the-onsen-night/) | 远离城市的一个夜晚 |
