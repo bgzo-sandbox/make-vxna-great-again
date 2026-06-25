@@ -1,5 +1,12 @@
 [
   {
+    "title": "学习周刊-总第269期-2026年第26周",
+    "url": "https://wiki.eryajf.net/pages/0e5d11/",
+    "date": "2026-06-25T21:55:37Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第269期 | JsonStudio | panel | momei | metapi | arbor | sub2api | ruanyf-weekly-issue-browser",
+    "source_root_domain": "eryajf.net"
+  },
+  {
     "title": "一款基于Pengu Loader的全服可用英雄联盟客户端增强插件–Sona",
     "url": "https://www.cheshirex.com/10542.html",
     "date": "2026-06-25T07:26:05Z",
@@ -40,6 +47,13 @@
     "date": "2026-06-24T20:43:31Z",
     "description": "一回来就开始忙着上班，趁着中午微波炉加热东西的时候写写。 WWDC 的一周结束了，发生了不少好玩的事情，周四晚",
     "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "在 iOS 上同时使用代理和内网",
+    "url": "https://blog.ooooo.space/p/%E5%9C%A8-ios-%E4%B8%8A%E5%90%8C%E6%97%B6%E4%BD%BF%E7%94%A8%E4%BB%A3%E7%90%86%E5%92%8C%E5%86%85%E7%BD%91/",
+    "date": "2026-06-24T16:00:00Z",
+    "description": "问题 iOS 只能同时运行一个 VPN。这意味着如果你全天开着代理（比如 Loon、Surge、Stash），就没法同时挂着 Tailscale 访问家里内网。 一种思路是用 Surge/Stash 配合 WireGuard 配一个 Tailscale 网关节点来访问内网，Surge Mac 也支持内置的 Tailscale 协议。如果用的是 Loon，或者想保持更灵活的控制，可以让代理隧道直接通到内网。 在 VPS 或家里的服务器上搭一个代理服务端（Shadowsocks / Hysteria2 之类），iOS 上的 Loon 连过去，然后在 Loon 里配规则——只有内网域名走这条代理隧道，其余流量照常出站。 这样同时得到了： 代理常驻（蜂窝下代理不断） 内网可达（DNS 由代理服务端负责解析） 不需要额外 VPN 开销 一、Loon 配置 节点 你只需要一个能访问你内网的代理节点。以 Shadowsocks-rust 为例： 1 ss-rust = shadowsocks, , 55483, \"2022-blake3-aes-256-gcm\", \" \", udp=false 如果",
+    "source_root_domain": "ooooo.space"
   },
   {
     "title": "我的被骗史",

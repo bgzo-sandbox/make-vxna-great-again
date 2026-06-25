@@ -27,12 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-25 | [学习周刊-总第269期-2026年第26周](https://wiki.eryajf.net/pages/0e5d11/) | 如要阅读全文，点击标题跳转。 学习周刊-总第269期 &#124; JsonStudio &#124; panel &#124; momei &#124; metapi &#124; arbor &#124; sub2api &#124; ruanyf-weekly-issue-browser |
 | 2026-06-25 | [一款基于Pengu Loader的全服可用英雄联盟客户端增强插件–Sona](https://www.cheshirex.com/10542.html) | Sona是一款插件，需要先安装运行Pengu Loader程序，然后加载运行Sona插件。这个插件有挺多功能 […] |
 | 2026-06-25 | [无聊的小事](https://www.hecaitou.com/2026/06/the-trivial-and-the-mundane.html) | 自从我开始玩公众号贴图功能以来，在我日常发布的那些天空照片的留言区，已经变成了全国乃至全世界读者交换本地天空的所在。人们会跑来张贴自己眼前的天空，然后点赞或者是评论他人发布的照片。 专注于每日文章流量的人可以来看看，这种天空贴图的阅读量不高，参与的人也不多。但这种事情我几乎每天都要搞，流量高还是低都… |
 | 2026-06-25 | [我们的博客是花园，花园里的花儿吵翻天](https://mobius.blog/24837.html) | 特地到现在才想起聊聊这件事——聊“个站商店”这件事是具有风险的，因为我一定是“两边都得罪”的态度。 当然，我一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-25 | [自由意志其实只有 0.5 秒？](https://mobius.blog/24717.html) | 我因为将手机的软件配色替换成了黑白配色，我这段时间在打开软件之前，大脑试图给它上色——哪怕只有这 0.5 秒的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-24 | [我的背包](https://anotherdayu.com/my-backpack/) | 背包可能是除了电脑之外，我最看重的通勤装备。过去用的是 Bellroy，起了换包的念头，是因为几次大雨把包淋透之后，开始有点担心里面的电子产品。英国的雨来的太不讲道理。 新背包现在用了 10 个月，非常满意，是 21L 的 Able Carry Daily Plus。这个容量很适合通勤，不会显得臃肿… |
 | 2026-06-24 | [2026.6.24](https://www.justzht.com/2026-6-24/) | 一回来就开始忙着上班，趁着中午微波炉加热东西的时候写写。 WWDC 的一周结束了，发生了不少好玩的事情，周四晚 |
+| 2026-06-24 | [在 iOS 上同时使用代理和内网](https://blog.ooooo.space/p/%E5%9C%A8-ios-%E4%B8%8A%E5%90%8C%E6%97%B6%E4%BD%BF%E7%94%A8%E4%BB%A3%E7%90%86%E5%92%8C%E5%86%85%E7%BD%91/) | 问题 iOS 只能同时运行一个 VPN。这意味着如果你全天开着代理（比如 Loon、Surge、Stash），就没法同时挂着 Tailscale 访问家里内网。 一种思路是用 Surge/Stash 配合 WireGuard 配一个 Tailscale 网关节点来访问内网，Surge Mac 也支持… |
 | 2026-06-24 | [我的被骗史](https://blog.solazy.me/20260624/) | 今天讲讲我之前是如何被骗的 |
 | 2026-06-24 | [Databricks Genie 战略解读：从数据平台到上下文平台的跃迁](https://luweiqing.com/gossip/Databricks-Genie.html) | 核心观点：企业 AI 的竞争焦点已从数据基础设施（Data Infrastructure）转向上下文基础设施（Context Infrastructure）。一、战略背景：为什么是现在？Data... |
 | 2026-06-24 | [“现在上网哪有隐私？”](https://www.geedea.pro/article/online-privacy/) | 如果你在互联网上讨论隐私问题，尤其是在那些评论、交流没有任何门槛，任何人都可以不假思索地抛下一句风凉话的平台，那么你大概听过本文标题所写的这句话。发言者往往对信息技术的了解浅薄，听从权威（就算不是官方，也可能是某些意见领袖），相信有神秘的力量控制着一切，想象有人无时无刻盯着天文数字般的网络报文审查，… |
