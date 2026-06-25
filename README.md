@@ -27,9 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-25 | [无聊的小事](https://www.hecaitou.com/2026/06/the-trivial-and-the-mundane.html) | 自从我开始玩公众号贴图功能以来，在我日常发布的那些天空照片的留言区，已经变成了全国乃至全世界读者交换本地天空的所在。人们会跑来张贴自己眼前的天空，然后点赞或者是评论他人发布的照片。 专注于每日文章流量的人可以来看看，这种天空贴图的阅读量不高，参与的人也不多。但这种事情我几乎每天都要搞，流量高还是低都… |
+| 2026-06-25 | [我们的博客是花园，花园里的花儿吵翻天](https://mobius.blog/24837.html) | 特地到现在才想起聊聊这件事——聊“个站商店”这件事是具有风险的，因为我一定是“两边都得罪”的态度。 当然，我一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-25 | [自由意志其实只有 0.5 秒？](https://mobius.blog/24717.html) | 我因为将手机的软件配色替换成了黑白配色，我这段时间在打开软件之前，大脑试图给它上色——哪怕只有这 0.5 秒的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-24 | [我的背包](https://anotherdayu.com/my-backpack/) | 背包可能是除了电脑之外，我最看重的通勤装备。过去用的是 Bellroy，起了换包的念头，是因为几次大雨把包淋透之后，开始有点担心里面的电子产品。英国的雨来的太不讲道理。 新背包现在用了 10 个月，非常满意，是 21L 的 Able Carry Daily Plus。这个容量很适合通勤，不会显得臃肿… |
 | 2026-06-24 | [2026.6.24](https://www.justzht.com/2026-6-24/) | 一回来就开始忙着上班，趁着中午微波炉加热东西的时候写写。 WWDC 的一周结束了，发生了不少好玩的事情，周四晚 |
+| 2026-06-24 | [我的被骗史](https://blog.solazy.me/20260624/) | 今天讲讲我之前是如何被骗的 |
 | 2026-06-24 | [Databricks Genie 战略解读：从数据平台到上下文平台的跃迁](https://luweiqing.com/gossip/Databricks-Genie.html) | 核心观点：企业 AI 的竞争焦点已从数据基础设施（Data Infrastructure）转向上下文基础设施（Context Infrastructure）。一、战略背景：为什么是现在？Data... |
 | 2026-06-24 | [“现在上网哪有隐私？”](https://www.geedea.pro/article/online-privacy/) | 如果你在互联网上讨论隐私问题，尤其是在那些评论、交流没有任何门槛，任何人都可以不假思索地抛下一句风凉话的平台，那么你大概听过本文标题所写的这句话。发言者往往对信息技术的了解浅薄，听从权威（就算不是官方，也可能是某些意见领袖），相信有神秘的力量控制着一切，想象有人无时无刻盯着天文数字般的网络报文审查，… |
 | 2026-06-24 | [T2I 文生图的新秀Ideogram 4体验和评价](https://eduardoqian.com/archives/t2i-wen-sheng-tu-de-xin-xiu-ideogram-4ti-yan-he-ping-jie) | 考完试后，除了做一些Research Assistant的工作，我惊喜的发现了AI生图开源模型里又来了一个新秀ideogram 4。上一个给我如此惊喜震撼的还是z-image，而细究起来，我对ideogram4的表现以及未来更有信心一些，尤其是考虑到z-image几乎被阿里给砍了，edit模型迟迟不 |
@@ -54,6 +57,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-23 | [[字体故事]修悦体，最有温度的手创字体](https://www.iyeslogo.com/duct-tape/) | 这些不完美的手工字体比电脑字体更具生命力，每一道切口都保留着人类的温度。 |
 | 2026-06-23 | [如何最快地驯化认知？](https://mobius.blog/24705.html) | 接着昨天的话题，先来聊聊认知是否可以被驯化——我认为是可以的，而且比我们想象的要简单——甚至它正无时无刻地发生 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-23 | [登别之夜](https://elmtran.com/essays/the-onsen-night/) | 远离城市的一个夜晚 |
+| 2026-06-23 | [Movie Night in New York &#124; 纽约夜场电影](https://cheng.st/2026/06/23/2026-06-23/) | It was such a good way to reconnect with an old Seattle-era friend in New York: watching Crazy Thunder Road with a few "strangers," in a setting where… |
 | 2026-06-23 | [Memos #2026-06-22](https://www.taober.blog/memos) | 02:10 最近熬夜追比赛破坏了我的生物钟，却也见证了这令人动容的时刻。 祝大家梦想成真！ |
 | 2026-06-22 | [尖塔之外的教堂](https://anotherdayu.com/beyond-the-spire/) | 尖塔、穹顶、彩窗、雕塑是许多名胜教堂的标志性符号。它们确实令人震撼和赞叹，但让我印象最深刻的却是这两个。 一座是 Bath Bradford-on-Avon 的 Saxon Church of St Laurence，另一座是 Bristol 的 Clifton Cathedral。 Bradfor… |
 | 2026-06-22 | [茶店老街，也快没有住户了...](https://macin.org/2026/06/22/cha-dian-lao-jie/) | 去大安的这天正好是生日，出发前先去开了一个会，到大安的时候快晌午了。 豆花饭端上来，豆花是那种嫩得站不住的，在辣椒碟子里蘸一下，放进嘴里，烫，但没有停下来的意思。旁边几桌坐着几个本地人，吃饭摆龙门阵，电视开着也没人看。吃完问老板娘老街怎么走。她用下巴朝外努了努 |

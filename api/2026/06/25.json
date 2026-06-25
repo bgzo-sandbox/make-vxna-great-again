@@ -1,5 +1,19 @@
 [
   {
+    "title": "无聊的小事",
+    "url": "https://www.hecaitou.com/2026/06/the-trivial-and-the-mundane.html",
+    "date": "2026-06-25T04:38:20Z",
+    "description": "自从我开始玩公众号贴图功能以来，在我日常发布的那些天空照片的留言区，已经变成了全国乃至全世界读者交换本地天空的所在。人们会跑来张贴自己眼前的天空，然后点赞或者是评论他人发布的照片。 专注于每日文章流量的人可以来看看，这种天空贴图的阅读量不高，参与的人也不多。但这种事情我几乎每天都要搞，流量高还是低都要搞。 专注于生活意义的人也可以来看看，这种天空贴图看不出什么意义来，就是天空的样子，云团的样子，当然，还有光影的样子。想要从中「格物致知」，大概率什么都格不出来。 更多人也可以来看看，不过，我猜想观后感应该只有两个字：无聊。这种个人判断很敏锐，的确是一种无聊，参与的人也的确在做一件无聊小事。但我又以为，许多人的心病是从无聊在生活中退场开始的。一定要有趣有料有意义，这是一种很沉重的生活日常背负，时间久了人就会从内部被一点点压垮。 天空就是天空，云团就是云团，没有多少解读的空间，最多可以讨论一下云团的形状像什么。因为事情如此简单直接，所以会显得无聊。然而也正因为无聊，奔马瀑流一样的心念撞击在天空和云团上会因此停下，因为再也没有了去处。所以我很能理解，为什么有人看到之后会气哼哼地骂一句「无聊」，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "我们的博客是花园，花园里的花儿吵翻天",
+    "url": "https://mobius.blog/24837.html",
+    "date": "2026-06-25T03:16:43Z",
+    "description": "特地到现在才想起聊聊这件事——聊“个站商店”这件事是具有风险的，因为我一定是“两边都得罪”的态度。 当然，我一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
     "title": "自由意志其实只有 0.5 秒？",
     "url": "https://mobius.blog/24717.html",
     "date": "2026-06-25T01:00:00Z",
@@ -19,6 +33,13 @@
     "date": "2026-06-24T20:43:31Z",
     "description": "一回来就开始忙着上班，趁着中午微波炉加热东西的时候写写。 WWDC 的一周结束了，发生了不少好玩的事情，周四晚",
     "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "我的被骗史",
+    "url": "https://blog.solazy.me/20260624/",
+    "date": "2026-06-24T15:00:00Z",
+    "description": "今天讲讲我之前是如何被骗的",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "Databricks Genie 战略解读：从数据平台到上下文平台的跃迁",
@@ -58,7 +79,7 @@
   {
     "title": "机械革命泰钽 plus linux Debian Wayland 独显直连调优全记录",
     "url": "https://hellodk.cn/post/1227",
-    "date": "2026-06-24T02:21:42Z",
+    "date": "2026-06-24T02:21:00Z",
     "description": "机械革命泰钽 Plus 游戏本在 Linux Debian GNOME Wayland 下流畅使用诊断艰辛历程一、软硬件配置硬件项目规格型号MECHREVO Taitan Series GM7T...",
     "source_root_domain": "hellodk.cn"
   },
@@ -168,6 +189,13 @@
     "source_root_domain": "macsourceports.com"
   },
   {
+    "title": "[字体故事]修悦体，最有温度的手创字体",
+    "url": "https://www.iyeslogo.com/duct-tape/",
+    "date": "2026-06-23T01:24:35Z",
+    "description": "这些不完美的手工字体比电脑字体更具生命力，每一道切口都保留着人类的温度。",
+    "source_root_domain": "iyeslogo.com"
+  },
+  {
     "title": "如何最快地驯化认知？",
     "url": "https://mobius.blog/24705.html",
     "date": "2026-06-23T01:00:00Z",
@@ -180,6 +208,13 @@
     "date": "2026-06-23T00:00:00Z",
     "description": "远离城市的一个夜晚",
     "source_root_domain": "elmtran.com"
+  },
+  {
+    "title": "Movie Night in New York | 纽约夜场电影",
+    "url": "https://cheng.st/2026/06/23/2026-06-23/",
+    "date": "2026-06-23T00:00:00Z",
+    "description": "It was such a good way to reconnect with an old Seattle-era friend in New York: watching Crazy Thunder Road with a few \"strangers,\" in a setting where I probably would never have watched this film otherwise. It also gave me an excuse to think about the movie itself and to let some random thoughts spill out along the way. 能用 这样一种特别的方式 和曾经的虾头旧友在纽约重逢——与几个“陌生人”看一部“如果没有这个机缘可能永远不会看”的电影 《狂雷街区》 ，感觉很不错。顺带也给了我一个机会，借着回顾这部电影本身，随便扯扯。 能用 这样一种特别的方式 和曾经的虾头旧友在纽约重逢——与几个“陌生人”看一部“如果没有这个机缘可能永远不会看”的电影 《狂雷街区》 ，感觉很不错。顺",
+    "source_root_domain": "cheng.st"
   },
   {
     "title": "Memos #2026-06-22",
