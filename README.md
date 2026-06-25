@@ -27,12 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-25 | [自由意志其实只有 0.5 秒？](https://mobius.blog/24717.html) | 我因为将手机的软件配色替换成了黑白配色，我这段时间在打开软件之前，大脑试图给它上色——哪怕只有这 0.5 秒的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-24 | [我的背包](https://anotherdayu.com/my-backpack/) | 背包可能是除了电脑之外，我最看重的通勤装备。过去用的是 Bellroy，起了换包的念头，是因为几次大雨把包淋透之后，开始有点担心里面的电子产品。英国的雨来的太不讲道理。 新背包现在用了 10 个月，非常满意，是 21L 的 Able Carry Daily Plus。这个容量很适合通勤，不会显得臃肿… |
 | 2026-06-24 | [2026.6.24](https://www.justzht.com/2026-6-24/) | 一回来就开始忙着上班，趁着中午微波炉加热东西的时候写写。 WWDC 的一周结束了，发生了不少好玩的事情，周四晚 |
 | 2026-06-24 | [Databricks Genie 战略解读：从数据平台到上下文平台的跃迁](https://luweiqing.com/gossip/Databricks-Genie.html) | 核心观点：企业 AI 的竞争焦点已从数据基础设施（Data Infrastructure）转向上下文基础设施（Context Infrastructure）。一、战略背景：为什么是现在？Data... |
 | 2026-06-24 | [“现在上网哪有隐私？”](https://www.geedea.pro/article/online-privacy/) | 如果你在互联网上讨论隐私问题，尤其是在那些评论、交流没有任何门槛，任何人都可以不假思索地抛下一句风凉话的平台，那么你大概听过本文标题所写的这句话。发言者往往对信息技术的了解浅薄，听从权威（就算不是官方，也可能是某些意见领袖），相信有神秘的力量控制着一切，想象有人无时无刻盯着天文数字般的网络报文审查，… |
 | 2026-06-24 | [T2I 文生图的新秀Ideogram 4体验和评价](https://eduardoqian.com/archives/t2i-wen-sheng-tu-de-xin-xiu-ideogram-4ti-yan-he-ping-jie) | 考完试后，除了做一些Research Assistant的工作，我惊喜的发现了AI生图开源模型里又来了一个新秀ideogram 4。上一个给我如此惊喜震撼的还是z-image，而细究起来，我对ideogram4的表现以及未来更有信心一些，尤其是考虑到z-image几乎被阿里给砍了，edit模型迟迟不 |
-| 2026-06-24 | [我的 AI Coding Guide](https://www.ixiqin.com/2026/06/24/my-ai-coding-guide/) | 最新更新于 2026 年 6 月 24 日 这个指南是我自己的 AI Coding 的经验总结，我认为在实际使用 AI Coding 的过程中，应该注意和遵循的规则。 精力管理 当你开始使用 AI Agent 来辅助编程后，你很快会发现， … |
+| 2026-06-24 | [我的 AI Coding Guide](https://www.ixiqin.com/2026/06/24/my-ai-coding-guide/) | 最新更新于 2026 年 6 月 24 日 这个指南是我自己的 AI Coding 的经验总结，我认为在实际使用 AI Coding 的过程中，应该注意和遵循的规则。 这篇文章是我实践后高度总结出来的结论，如果你想看更细致的内容 … |
 | 2026-06-24 | [疲惫的人们不再配合演出](https://www.hecaitou.com/2026/06/Too-Tired-to-Play-Along.html) | 最近我发现人们普遍比较疲惫，对什么都兴趣不高。人在这种状态下会失去耐心，很容易发脾气，比如说这几天人们就和「面」干了起来。在街头摊档吃热干面，不行。在舞台上呼吁老少爷们「走个面」，更不行。人们毫不客气，一点面子都不给，直接就给撅回去。 以前不是这样的。以前你在演，我知道你在演。然后你知道我知道你在演… |
 | 2026-06-24 | [机械革命泰钽 plus linux Debian Wayland 独显直连调优全记录](https://hellodk.cn/post/1227) | 机械革命泰钽 Plus 游戏本在 Linux Debian GNOME Wayland 下流畅使用诊断艰辛历程一、软硬件配置硬件项目规格型号MECHREVO Taitan Series GM7T... |
 | 2026-06-24 | [大脑对手机上瘾，或许是一种惯性](https://mobius.blog/24711.html) | 昨天聊了如何最快速的驯化一个的认知，今天就顺着这种驯化的过程，来聊聊“成瘾”问题——不仅仅是多巴胺的刺激，很有 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -119,26 +120,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-18 | [什么是Skill，它能迸发出什么能力](https://deepzz.com/post/what-is-ai-skil.html) | 1、什么是 Skill Skill（技能）本质上是 一份写给 AI 的”专业说明书” 。它用 Markdown 把某个领域的知识、流程、规范、可复用的脚本打包起来，让 AI 在遇到对应任务时，能像一个专家一样按既定方法去做事。 可以用一句话概括： Skill = 触发条件（什么时候用） + 操作指南… |
 | 2026-06-18 | [越来越多的 ADHD 是现代社交媒体制造的吗？](https://mobius.blog/24661.html) | 接着《我的吸尘器哪儿去了？》引发的话题。今天来聊聊一个被越来越多人讨论的话题：现代人的 ADHD 是社交媒体制 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-18 | [逐渐关闭的大门：香港券商收紧的背后](https://hangbin.blog/blog/hk-brokers-mainland-investors-offshore-allocation/) | 当年我在澳大利亚留学，毕业后逐渐注销或关闭了银行、commonsec账户。最近几年，准备做一些国际的资产配置，才发现中国对金融的管控，十年间逐渐升级到了难以想象的程度。 就说上个月，中国的证监会要求香港券商清理大陆存量的客户账户。富途、老虎这类跨境互联网券商，早在十年前的2016年就被监管点过名。那… |
-| 2026-06-17 | [股票配债缴款操作指南](https://programnotes.cn/stock-convertible-bond/index.html) | 账户类型不同，操作略有差异，但核心要素一致： 配债代码 （公告公布，通常7或8开头）、 价格 （100元/张）、 数量 （系统显示的可配售张数）。 普通账户 缴款前准备 核对配售数量 ：T日开盘后登录账户，在”持仓”或”配债”栏目查看可配售张数，如10张。 备足资金 ：所需资金 = 张数 × 100… |
-| 2026-06-17 | [开始万豪白金挑战](https://blog.solazy.me/20260617/) | 最近给自己布置的一个小任务 |
-| 2026-06-17 | [Give Your Camera Real GPS: A No-Internet Hardware Fix with furble](https://missuo.me/posts/camera-gps-furble/) | Most cameras still ship without a GPS module, so photos come out of the card with no location data in their EXIF. The official phone apps are supposed… |
-| 2026-06-17 | [The Right Way to Use WebArena Indigo](https://missuo.me/posts/webarena-indigo-ipv6-gre/) | WebArena Indigo is a cheap, good-value Japanese VPS that makes a great landing node. But if you front it with a relay and push traffic over a GRE tunn… |
-| 2026-06-17 | [Linux下安装Nvm工具.md](https://blog.wo0ow.com/17417.html) | nvm-GitHub官方发布地址 |
-| 2026-06-17 | [小米摄像头4 4K版接入Homekit分享](https://7gugu.com/index.php/2026/06/17/%e5%b0%8f%e7%b1%b3%e6%91%84%e5%83%8f%e5%a4%b44-4k%e7%89%88%e6%8e%a5%e5%85%a5homekit%e5%88%86%e4%ba%ab/) | 搬新家之后，买了个小米摄像头做门口的监控。最近闲下来了，刚好绿联也做了HomeAssistant的一些适配，就 … 继续阅读 “小米摄像头4 4K版接入Homekit分享” |
-| 2026-06-17 | [2026年对口型视频合成方案对比：Wav2Lip、VideoReTalking、 MuseTalk 部署与实测](https://liudon.com/posts/lip-sync-video-synthesis-comparison/) | 实测对比 Wav2Lip、VideoReTalking 和 MuseTalk 三种对口型视频合成方案，分析部署难度、推理速度、画面质量和适用场景。 |
-| 2026-06-17 | [分享一些 Zen 瀏覧器好用的功能 - Boost 自定義頁面樣式、Live Folder](https://taxodium.ink/share-some-zen-browser-useful-features-boost-and-live-folder.html) | 分享一些 Zen 瀏覧器好用的功能 Boost 自定義頁面樣式、Live Folder 在 日常#8 - Zen 浏览器、白描、博客图片压缩脚本 我分享過一些 Zen 的功能，最近 Zen 又更新了一些不錯的功能，再分享一下。 Boost 图1 Zen 瀏覧器 Boost 功能截圖 Boost 可以… |
-| 2026-06-17 | [“日本人在世界杯作秀”这个结论是如何被制造出来的？](https://mobius.blog/24729.html) | 既然是世界杯，莫比乌斯就聊一些看上去和世界杯有关、却与足球毫无关系的事。 这一次，日本又“作秀”了。 跟《如何 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-17 | [Linux 服务器翻墙](https://blog.lhasa.icu/posts/technology/2026-06-17-mihomo/) | 实现 Linux 服务器翻墙，解决 Miniflux 无法订阅 YouTube 和部分墙外博客的问题 |
-| 2026-06-17 | [订阅新姿势](https://blog.lhasa.icu/posts/technology/2026-06-17-miniflux/) | 前几天逛网站发现一个自建订阅器：Miniflux v2... |
-| 2026-06-17 | [2026.06.17 14:21](https://kaix.in/2026/0617/) | 向 AI 模型提问：地球上曾经生活过多少人？动画闪烁，三秒钟之后，模型回应：地球上大约生活过 1170 亿人。模型很快。而且，我们甚至都无法确切知道模型反馈过程的每个瞬间，到底完成了哪些具体事务。分词、嵌入、多层注意力……上千亿个参数，到底如何影响着输出结果？ 在漫长的时间长河里，人类经历的、感怀的… |
-| 2026-06-17 | [ZUI.RE：一个域名的非典型归宿，以及我对”看新闻”这件事的重新理解](https://www.evan.xin/5054/) | zui.re（最热） 这个域名在我手里搁了挺久。 本来是想卖掉的。短域名、双拼好记，总觉得会有人要。挂了一段时 […] |
-| 2026-06-17 | [4S店靠啥赚钱](https://hux.ink/posts/4s-business-model/) | 我直觉中认为 4S 店主要是靠售后保养和事故理赔维修养活。 正好近期两次体验——一次事故出险、一次常规保养，更印证了这个想法。 上个月末去坝光赶海回来，在小区停车场与一辆对向来车狭路相逢，我为了让她先走，主动向后倒了一段距离，等间距宽了一些再换前进档，方向盘往右多打了一丢丢，结果“啪”的一声，把旁边… |
-| 2026-06-17 | [CCometixLine 安装使用配置](https://199604.com/3585) | CCometixLine 安装使用配置 项目地址：https://github.com/Haleclipse/ […] |
-| 2026-06-17 | [City Pop 从入门到精通](https://www.hecaitou.com/2026/06/city-pop-beginner-to-expert.html) | City Pop 这种怀旧曲风已经流行了一段时间，我自己是从去年开始接触，然后就掉进了坑里，家里现在堆满了相关磁带和 CD，流媒体播放器里也收藏了各种歌单---反正 City Pop 又没有非常清晰的定义，每个人都可以建立自己的歌单，然后往里面塞进自己认为对味的歌曲。 为什么是 City Pop？因… |
-| 2026-06-17 | [Win常用命令](https://blog.wo0ow.com/36272.html) | 查询端口占用并关闭程序 <a href="https://blog.csdn.net/Anm |
-| 2026-06-17 | [ADHD 究竟是疾病还是一种“标签”？](https://mobius.blog/24656.html) | 接着《我的吸尘器哪儿去了？》展开的话题继续。 打开小红书，搜索 ADHD，你会发现进入 2026 年，这不再是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-17 | [UniGetUI —— 可能是 Windows 下最好用的应用商店](https://www.ixiqin.com/2026/06/17/unigetui-may-be-the-best-app-store-for-windows/) | UniGetUI 是一款为 Windows 提供图形界面的包管理器聚合工具。它整合了 Winget、Scoop […] |
-| 2026-06-17 | [小鱼](https://elmtran.com/essays/yu/) | 被风拂过的夏天 |
 
 ## Vibe Coding
 
