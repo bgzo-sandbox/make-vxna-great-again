@@ -1,5 +1,12 @@
 [
   {
+    "title": "AI Infra：Token 工厂的商业模式研究",
+    "url": "https://luweiqing.com/gossip/Token-Factory-business.html",
+    "date": "2026-06-26T09:30:09Z",
+    "description": "别再叫它 API 聚合了，它正在控制 AI 世界的“石油管道”上周和一个做投资的朋友聊天，他抱怨说现在看 AI 项目看到头秃。基础模型那波已经卷成麻花，应用层又虚头巴脑，找不到护城河。我给他画了...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
     "title": "换电扇",
     "url": "https://www.hecaitou.com/2026/06/changing-the-electric-fan.html",
     "date": "2026-06-26T04:47:59Z",
@@ -35,6 +42,13 @@
     "source_root_domain": "feedburner.com"
   },
   {
+    "title": "AI Coding 的人文思考",
+    "url": "https://ceynri.cn/blog/thoughts-in-ai-coding/",
+    "date": "2026-06-26T00:00:00Z",
+    "description": "当 Coding 的终局指向高度的去人类化，我们还能做什么？",
+    "source_root_domain": "ceynri.cn"
+  },
+  {
     "title": "归因偏差",
     "url": "https://www.linggandianbo.com/newsletter-129/",
     "date": "2026-06-25T23:30:18Z",
@@ -68,6 +82,13 @@
     "date": "2026-06-25T16:00:00Z",
     "description": "上一篇文章 记录了 轻糖 将数据层从 Supabase Swift SDK 下沉到 KMP shared/ 模块的过程。但当时我们留了一个尾巴——ViewModels 原封不动地留在 iOS 侧用 @Observable ，承诺\"暂不迁移\"。 后来发生的事情是：我们食言了。 随着 Android 版本的开发推进，23 个 ViewModel 中有 21 个需要双端共用。继续在 iOS 侧维护一套 Swift ViewModel、Android 侧再来一套 Kotlin ViewModel 显然不可持续——同一段业务逻辑（拉取今日血糖、构建时间线、计算 PGRS），凭什么写两遍？ 这篇文章接着第一篇往下写： ViewModels 如何下沉到 KMP ，以及在这个过程中遇到的本地存储、平台抽象、订阅管理和 Swift-Kotlin 桥接问题。 📱 ViewModel 下沉：打破\"暂不迁移\"的承诺 第一篇的迁移策略第 4 条写的是\"ViewModel 暂不迁移，保留 @Observable 维持 SwiftUI 响应式体验\"。这个决策在当时是合理的——Kotlin/Native 编译出的 S",
     "source_root_domain": "youngxhui.top"
+  },
+  {
+    "title": "用 Cloudflare Workers 把机场订阅转成「带 Token 鉴权 + 自定义域名」的 Clash/Mihomo 订阅",
+    "url": "https://www.qtter.com/2026/cloudflare-worker-subscription-converter/",
+    "date": "2026-06-25T16:00:00Z",
+    "description": "本文把一条原始的机场订阅链接，通过一个 Cloudflare Worker，转换成形如 https://sub.example.com/?token=YOUR_TOKEN 的可访问地址：访问时实时拉取机场订阅、 解析节点、套上你自己定制的一整套 Mihomo 规则（DNS / 分流 / TUN），并用 Token 做访问鉴权。 全程零服务器、免费额度足够个人使用。文中所有敏感信息已脱敏，替换为占位符。",
+    "source_root_domain": "qtter.com"
   },
   {
     "title": "从 10 万到 80 元的「学费」",
