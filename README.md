@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-26 | [时间管理或许是伪命题 V](https://mobius.blog/24845.html) | 停更在去年 3 月份的《时间管理或许是伪命题》系列，我一直在讨论一个问题：真正需要管理的究竟是不是时间？ 这一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-26 | [我的 Vibe Coding 最佳实践——ADR文档](https://blog.est.im/2026/stdout-24) | 工作和业余也用AI写代码，大大小小项目都经历了。从 rules, skills, spec, agent 到 harness 都玩过了 从AI嘴里发现一条比较稳的套路——ADR文档 rule, skills, spec 这些东西最大的问题就是瞎jb指挥。ADR 的好处是记录why，以及决策演变历史。… |
+| 2026-06-26 | [Node.js 环境安装](https://blog.196000.xyz/2026/2026-06-26-node.js-install.html) | 使用 https://nodejs.org/zh-cn/about/previous-releases 或者 Node.js 官方网站（https://nodejs.org/）下载 Windows 安装包（.msi）。 |
+| 2026-06-26 | [科技爱好者周刊（第 401 期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 在中国南方，人们穿戴巨型荷叶制作的防晒面罩。（ via ） 如何赚到10亿美元 保罗·格雷厄姆（Paul… |
+| 2026-06-25 | [归因偏差](https://www.linggandianbo.com/newsletter-129/) | 从 meritocracy 到坏新闻、呼吸、育儿和屏幕色域，我们如何误把环境塑造出来的选择，认作个人能力或失败 &#124; 灵感电波 #129 |
 | 2026-06-25 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.6 of the project |
 | 2026-06-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo for Quetoo has been updated to version v1.0.54 of the project |
 | 2026-06-25 | [学习周刊-总第269期-2026年第26周](https://wiki.eryajf.net/pages/0e5d11/) | 如要阅读全文，点击标题跳转。 学习周刊-总第269期 &#124; JsonStudio &#124; panel &#124; momei &#124; metapi &#124; arbor &#124; sub2api &#124; ruanyf-weekly-issue-browser |
@@ -39,11 +44,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-24 | [我的背包](https://anotherdayu.com/my-backpack/) | 背包可能是除了电脑之外，我最看重的通勤装备。过去用的是 Bellroy，起了换包的念头，是因为几次大雨把包淋透之后，开始有点担心里面的电子产品。英国的雨来的太不讲道理。 新背包现在用了 10 个月，非常满意，是 21L 的 Able Carry Daily Plus。这个容量很适合通勤，不会显得臃肿… |
 | 2026-06-24 | [2026.6.24](https://www.justzht.com/2026-6-24/) | 一回来就开始忙着上班，趁着中午微波炉加热东西的时候写写。 WWDC 的一周结束了，发生了不少好玩的事情，周四晚 |
 | 2026-06-24 | [在 iOS 上同时使用代理和内网](https://blog.ooooo.space/p/%E5%9C%A8-ios-%E4%B8%8A%E5%90%8C%E6%97%B6%E4%BD%BF%E7%94%A8%E4%BB%A3%E7%90%86%E5%92%8C%E5%86%85%E7%BD%91/) | 问题 iOS 只能同时运行一个 VPN。这意味着如果你全天开着代理（比如 Loon、Surge、Stash），就没法同时挂着 Tailscale 访问家里内网。 一种思路是用 Surge/Stash 配合 WireGuard 配一个 Tailscale 网关节点来访问内网，Surge Mac 也支持… |
+| 2026-06-24 | [日本小学数学（一年级）](https://springwood.me/jp-elementary-school-math-1/) | （摘要）主要区别：数字学习上超前（突破了100），计算学习上滞后（100以内有进退位的加减法放到了二年级）。另外，关于“时间”相关的知识学习大幅度提前。 |
 | 2026-06-24 | [我的被骗史](https://blog.solazy.me/20260624/) | 今天讲讲我之前是如何被骗的 |
 | 2026-06-24 | [Databricks Genie 战略解读：从数据平台到上下文平台的跃迁](https://luweiqing.com/gossip/Databricks-Genie.html) | 核心观点：企业 AI 的竞争焦点已从数据基础设施（Data Infrastructure）转向上下文基础设施（Context Infrastructure）。一、战略背景：为什么是现在？Data... |
 | 2026-06-24 | [“现在上网哪有隐私？”](https://www.geedea.pro/article/online-privacy/) | 如果你在互联网上讨论隐私问题，尤其是在那些评论、交流没有任何门槛，任何人都可以不假思索地抛下一句风凉话的平台，那么你大概听过本文标题所写的这句话。发言者往往对信息技术的了解浅薄，听从权威（就算不是官方，也可能是某些意见领袖），相信有神秘的力量控制着一切，想象有人无时无刻盯着天文数字般的网络报文审查，… |
 | 2026-06-24 | [T2I 文生图的新秀Ideogram 4体验和评价](https://eduardoqian.com/archives/t2i-wen-sheng-tu-de-xin-xiu-ideogram-4ti-yan-he-ping-jie) | 考完试后，除了做一些Research Assistant的工作，我惊喜的发现了AI生图开源模型里又来了一个新秀ideogram 4。上一个给我如此惊喜震撼的还是z-image，而细究起来，我对ideogram4的表现以及未来更有信心一些，尤其是考虑到z-image几乎被阿里给砍了，edit模型迟迟不 |
-| 2026-06-24 | [我的 AI Coding Guide](https://www.ixiqin.com/2026/06/24/my-ai-coding-guide/) | 最新更新于 2026 年 6 月 24 日 这个指南是我自己的 AI Coding 的经验总结，我认为在实际使用 AI Coding 的过程中，应该注意和遵循的规则。 这篇文章是我实践后高度总结出来的结论，如果你想看更细致的内容 … |
+| 2026-06-24 | [我的 AI Coding Guide](https://www.ixiqin.com/2026/06/24/my-ai-coding-guide/) | 最新更新于 2026 年 6 月 26 日 这个指南是我自己的 AI Coding 的经验总结，我认为在实际使用 AI Coding 的过程中，应该注意和遵循的规则。 这篇文章是我实践后高度总结出来的结论，如果你想看更细致的内容 … |
 | 2026-06-24 | [疲惫的人们不再配合演出](https://www.hecaitou.com/2026/06/Too-Tired-to-Play-Along.html) | 最近我发现人们普遍比较疲惫，对什么都兴趣不高。人在这种状态下会失去耐心，很容易发脾气，比如说这几天人们就和「面」干了起来。在街头摊档吃热干面，不行。在舞台上呼吁老少爷们「走个面」，更不行。人们毫不客气，一点面子都不给，直接就给撅回去。 以前不是这样的。以前你在演，我知道你在演。然后你知道我知道你在演… |
 | 2026-06-24 | [机械革命泰钽 plus linux Debian Wayland 独显直连调优全记录](https://hellodk.cn/post/1227) | 机械革命泰钽 Plus 游戏本在 Linux Debian GNOME Wayland 下流畅使用诊断艰辛历程一、软硬件配置硬件项目规格型号MECHREVO Taitan Series GM7T... |
 | 2026-06-24 | [大脑对手机上瘾，或许是一种惯性](https://mobius.blog/24711.html) | 昨天聊了如何最快速的驯化一个的认知，今天就顺着这种驯化的过程，来聊聊“成瘾”问题——不仅仅是多巴胺的刺激，很有 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -120,16 +126,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-19 | [火星不是人类的重启键](https://www.linggandianbo.com/newsletter-128/) | 从火星殖民幻梦、AI 时代的注意力礼仪、机器写作、翻译劳动，到科技圈失去的书呆子气｜灵感电波 #128 |
 | 2026-06-19 | [端午节快乐（2026）](https://www.hecaitou.com/2026/06/happy-dragon-boat-festival-2026.html) | 今年端午节是网络营销号捏造「端午安康」新民俗的十一周年，也是我个人在公众号撰文祝贺读者「端午节快乐」的第四年，对亲友说「端午节快乐」的第五十年。 个人在这个世界里，在时代潮流下，在汹涌人群之中，是无足轻重的存在。没有人在乎你想什么，也没有人在乎你说什么，甚至都懒得看你做什么。虽然现实如此，但是对于我… |
 | 2026-06-19 | [是谁在夺走现代人的注意力？](https://mobius.blog/24666.html) | 今天来聊聊《我的吸尘器哪儿去了？》的最后一部分，越来越多人开始出现类似 ADHD 的情况，那人们的注意力到底是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-18 | [哀乐中年 闲来拾光Vol.4](https://osnsyc.top/posts/recent-bmg-4/) | 近期的书影音游第四辑。 |
-| 2026-06-18 | [学习周刊-总第268期-2026年第25周](https://wiki.eryajf.net/pages/14ae78/) | 如要阅读全文，点击标题跳转。 学习周刊-总第268期 &#124; DeepSeek-Reasonix &#124; hexo-theme-shiro &#124; dynamic-views &#124; next-shadcn-admin-dashboard &#124; Sensitive-lexicon &#124; easy-vibe &#124; VidB… |
-| 2026-06-18 | [第一次骨折](https://elmagnifico.tech/2026/06/19/Fracture/) | Foreword 没想到两个月前的一次意外，最后发展到需要“住院”的程度，治疗晚了，恢复期也被动拉长。第一次骨折，第一次正儿八经住院，给自己留个档。 骨折 发生 四月十八的小米卡丁车活动，冲得太猛了，S弯漂出去，右手直接蹭墙。墙其实是塑料壳套轮胎，按理说“看着不硬”，但身体不这么想。当时只是小拇指有… |
-| 2026-06-18 | [如何写出高质量的 Skill](https://deepzz.com/post/how-to-write-high-quality-skills.html) | 写出一个 Skill 很容易，但写出一个 高质量、稳定、可复用 的 Skill 却需要一些方法论。高质量的 Skill 就像是给 AI 制定的一套 SOP（标准作业程序），它不仅能防错，还能让 AI 的表现超出预期。 第一部分：核心心法（写好 Skill 的五大原则） 1. 精准的「触发器」设计 (… |
-| 2026-06-18 | [端午流水账 0618](https://blog.solazy.me/20260618/) | 时隔半个月再写流水账 |
-| 2026-06-18 | [AI Agent 看板](https://smallyu.net/2026/06/18/AI-Agent%E7%9C%8B%E6%9D%BF/) | 有一个给 AI Agent 设计的看板工具叫 Multica，理念是本地部署，本地运行的 AI 比如 Codex、Claude Code、Antigravity 等都以 Agent 形式接入看板，然后你就可以给 AI Agent |
-| 2026-06-18 | [MECHREVO WUJIE14 PRO on Linux 声卡完整修复历程](https://hellodk.cn/post/1226) | 为了解决我的机械革命无界 14 pro 笔记本在 linux debian testing(forky) 下的自带麦克风、自带扬声器、插入 3.5mm 耳机这三个场景下，对应硬件都能正常工作的问... |
-| 2026-06-18 | [什么是Skill，它能迸发出什么能力](https://deepzz.com/post/what-is-ai-skil.html) | 1、什么是 Skill Skill（技能）本质上是 一份写给 AI 的”专业说明书” 。它用 Markdown 把某个领域的知识、流程、规范、可复用的脚本打包起来，让 AI 在遇到对应任务时，能像一个专家一样按既定方法去做事。 可以用一句话概括： Skill = 触发条件（什么时候用） + 操作指南… |
-| 2026-06-18 | [越来越多的 ADHD 是现代社交媒体制造的吗？](https://mobius.blog/24661.html) | 接着《我的吸尘器哪儿去了？》引发的话题。今天来聊聊一个被越来越多人讨论的话题：现代人的 ADHD 是社交媒体制 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-18 | [逐渐关闭的大门：香港券商收紧的背后](https://hangbin.blog/blog/hk-brokers-mainland-investors-offshore-allocation/) | 当年我在澳大利亚留学，毕业后逐渐注销或关闭了银行、commonsec账户。最近几年，准备做一些国际的资产配置，才发现中国对金融的管控，十年间逐渐升级到了难以想象的程度。 就说上个月，中国的证监会要求香港券商清理大陆存量的客户账户。富途、老虎这类跨境互联网券商，早在十年前的2016年就被监管点过名。那… |
 
 ## Vibe Coding
 

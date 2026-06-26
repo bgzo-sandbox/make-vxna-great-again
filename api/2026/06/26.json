@@ -1,0 +1,184 @@
+[
+  {
+    "title": "时间管理或许是伪命题 V",
+    "url": "https://mobius.blog/24845.html",
+    "date": "2026-06-26T02:40:18Z",
+    "description": "停更在去年 3 月份的《时间管理或许是伪命题》系列，我一直在讨论一个问题：真正需要管理的究竟是不是时间？ 这一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "我的 Vibe Coding 最佳实践——ADR文档",
+    "url": "https://blog.est.im/2026/stdout-24",
+    "date": "2026-06-26T01:40:00Z",
+    "description": "工作和业余也用AI写代码，大大小小项目都经历了。从 rules, skills, spec, agent 到 harness 都玩过了 从AI嘴里发现一条比较稳的套路——ADR文档 rule, skills, spec 这些东西最大的问题就是瞎jb指挥。ADR 的好处是记录why，以及决策演变历史。 贴一段 我整理的 ADR 文档 就明白了： --- title: 如何使用 ADR id: ADR-001 date: 2026-06-26 09:01:21 status: accepted --- ADR ADR（Architecture Decision Record，架构决策记录）的核心目标很简单： 记录为什么做出了某个重要技术决策，而不是记录系统长什么样。 目前比较常见的是 MADR、Nygard ADR 两种风格，但组织方式都大同小异。 一个团队通常会按下面几个层次组织。 1. 一个 ADR 对应一个决策 不要一个 ADR 写整个系统设计。 好的粒度例如： ADR-001 使用 PostgreSQL 作为主数据库 ADR-002 API 使用 REST 而不是 GraphQL ",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "Node.js 环境安装",
+    "url": "https://blog.196000.xyz/2026/2026-06-26-node.js-install.html",
+    "date": "2026-06-26T01:00:00Z",
+    "description": "使用 https://nodejs.org/zh-cn/about/previous-releases 或者 Node.js 官方网站（https://nodejs.org/）下载 Windows 安装包（.msi）。",
+    "source_root_domain": "196000.xyz"
+  },
+  {
+    "title": "科技爱好者周刊（第 401 期）：如何赚到10亿美元",
+    "url": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
+    "date": "2026-06-26T00:05:38Z",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 在中国南方，人们穿戴巨型荷叶制作的防晒面罩。（ via ） 如何赚到10亿美元 保罗·格雷厄姆（Paul Graham）是美国最大的创业孵化器 Y Combinator 的创始人，公认的创业导师，《黑客与画家》的作者。 他现在已经退休了，离开硅谷，住在英国乡下。 今年6月10日，他应牛津大学的学生社团邀请，做了 一次演讲 ，题目非常炸裂\"如何赚到10亿美元\"。 我觉得，内容挺有意思，做了一些摘录。 1、 有些人似乎认为，赚到10亿美元是不可能的，除非使用非法的、不道德的手段。 在我看来，赚到10亿美元确实很困难，但并非不可能，而且机会比大家想象的大。 2、 21年前的2005年，我们创办了孵化器 Y Combinator，至今已经投资了大约6500家创业公司。 目前为止，这些公司的创始人之中，大约有30人已经成为10亿美元级别的富翁。而且，还有更多的人正在快速接近这个目标。 6500家公司，假",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "归因偏差",
+    "url": "https://www.linggandianbo.com/newsletter-129/",
+    "date": "2026-06-25T23:30:18Z",
+    "description": "从 meritocracy 到坏新闻、呼吸、育儿和屏幕色域，我们如何误把环境塑造出来的选择，认作个人能力或失败 | 灵感电波 #129",
+    "source_root_domain": "linggandianbo.com"
+  },
+  {
+    "title": "Ambermoon updated",
+    "url": "https://macsourceports.com/game/ambermoon",
+    "date": "2026-06-25T22:00:03Z",
+    "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.13.6 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-06-25T21:59:10Z",
+    "description": "The build of Quetoo for Quetoo has been updated to version v1.0.54 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "学习周刊-总第269期-2026年第26周",
+    "url": "https://wiki.eryajf.net/pages/0e5d11/",
+    "date": "2026-06-25T21:55:37Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第269期 | JsonStudio | panel | momei | metapi | arbor | sub2api | ruanyf-weekly-issue-browser",
+    "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "从 10 万到 80 元的「学费」",
+    "url": "https://blog.solazy.me/20260625/",
+    "date": "2026-06-25T15:00:00Z",
+    "description": "从十万骗局到八十元停车费，聊聊我如何用「转念」终止内耗。",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "香港和台湾给我的两种感觉",
+    "url": "https://www.tortorse.com/archives/hong-kong-taiwan-travel-impressions/",
+    "date": "2026-06-25T13:32:50Z",
+    "description": "今天听机核的节目，里面聊出差，也聊到了香港和台湾。",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "一款基于Pengu Loader的全服可用英雄联盟客户端增强插件–Sona",
+    "url": "https://www.cheshirex.com/10542.html",
+    "date": "2026-06-25T07:26:05Z",
+    "description": "Sona是一款插件，需要先安装运行Pengu Loader程序，然后加载运行Sona插件。这个插件有挺多功能 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "无聊的小事",
+    "url": "https://www.hecaitou.com/2026/06/the-trivial-and-the-mundane.html",
+    "date": "2026-06-25T04:38:20Z",
+    "description": "自从我开始玩公众号贴图功能以来，在我日常发布的那些天空照片的留言区，已经变成了全国乃至全世界读者交换本地天空的所在。人们会跑来张贴自己眼前的天空，然后点赞或者是评论他人发布的照片。 专注于每日文章流量的人可以来看看，这种天空贴图的阅读量不高，参与的人也不多。但这种事情我几乎每天都要搞，流量高还是低都要搞。 专注于生活意义的人也可以来看看，这种天空贴图看不出什么意义来，就是天空的样子，云团的样子，当然，还有光影的样子。想要从中「格物致知」，大概率什么都格不出来。 更多人也可以来看看，不过，我猜想观后感应该只有两个字：无聊。这种个人判断很敏锐，的确是一种无聊，参与的人也的确在做一件无聊小事。但我又以为，许多人的心病是从无聊在生活中退场开始的。一定要有趣有料有意义，这是一种很沉重的生活日常背负，时间久了人就会从内部被一点点压垮。 天空就是天空，云团就是云团，没有多少解读的空间，最多可以讨论一下云团的形状像什么。因为事情如此简单直接，所以会显得无聊。然而也正因为无聊，奔马瀑流一样的心念撞击在天空和云团上会因此停下，因为再也没有了去处。所以我很能理解，为什么有人看到之后会气哼哼地骂一句「无聊」，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "我们的博客是花园，花园里的花儿吵翻天",
+    "url": "https://mobius.blog/24837.html",
+    "date": "2026-06-25T03:16:43Z",
+    "description": "特地到现在才想起聊聊这件事——聊“个站商店”这件事是具有风险的，因为我一定是“两边都得罪”的态度。 当然，我一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "自由意志其实只有 0.5 秒？",
+    "url": "https://mobius.blog/24717.html",
+    "date": "2026-06-25T01:00:00Z",
+    "description": "我因为将手机的软件配色替换成了黑白配色，我这段时间在打开软件之前，大脑试图给它上色——哪怕只有这 0.5 秒的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "我的背包",
+    "url": "https://anotherdayu.com/my-backpack/",
+    "date": "2026-06-24T21:06:00Z",
+    "description": "背包可能是除了电脑之外，我最看重的通勤装备。过去用的是 Bellroy，起了换包的念头，是因为几次大雨把包淋透之后，开始有点担心里面的电子产品。英国的雨来的太不讲道理。 新背包现在用了 10 个月，非常满意，是 21L 的 Able Carry Daily Plus。这个容量很适合通勤，不会显得臃肿，也足够放下日常所需。 它的外观比较内敛，但又与常规电脑包不同，没那么中规中矩，保留了一些辨识度。 我比较喜欢它的几个地方： 用料扎实，电脑仓有离地间隙，能比较随意的放在地上。 X-Pac材料，防水。 空包也很立体，不塌。 肩带厚实，背负体验好。 收纳位足够，快取袋很深，日常拿东西比较方便。 隐藏式水壶仓，让背包外观比较整齐圆润。 相比于 Aer，国内没那么多假货，能比较放心的在淘宝买。 主力设备是 MacBook Pro m2pro，偶尔会带上 iPad mini 看书。 因为更看重电脑防护，所以我没有选择轻量化背包，而是把减重放在内部收纳上。现在会尽量使用 Cuben Fiber 材料的小物件，既轻，也不太吸水，清理起来比较方便，还能多一道防水层保护电子产品。 EDC 小袋子 下班后买菜",
+    "source_root_domain": "anotherdayu.com"
+  },
+  {
+    "title": "2026.6.24",
+    "url": "https://www.justzht.com/2026-6-24/",
+    "date": "2026-06-24T20:43:31Z",
+    "description": "一回来就开始忙着上班，趁着中午微波炉加热东西的时候写写。 WWDC 的一周结束了，发生了不少好玩的事情，周四晚",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "在 iOS 上同时使用代理和内网",
+    "url": "https://blog.ooooo.space/p/%E5%9C%A8-ios-%E4%B8%8A%E5%90%8C%E6%97%B6%E4%BD%BF%E7%94%A8%E4%BB%A3%E7%90%86%E5%92%8C%E5%86%85%E7%BD%91/",
+    "date": "2026-06-24T16:00:00Z",
+    "description": "问题 iOS 只能同时运行一个 VPN。这意味着如果你全天开着代理（比如 Loon、Surge、Stash），就没法同时挂着 Tailscale 访问家里内网。 一种思路是用 Surge/Stash 配合 WireGuard 配一个 Tailscale 网关节点来访问内网，Surge Mac 也支持内置的 Tailscale 协议。如果用的是 Loon，或者想保持更灵活的控制，可以让代理隧道直接通到内网。 在 VPS 或家里的服务器上搭一个代理服务端（Shadowsocks / Hysteria2 之类），iOS 上的 Loon 连过去，然后在 Loon 里配规则——只有内网域名走这条代理隧道，其余流量照常出站。 这样同时得到了： 代理常驻（蜂窝下代理不断） 内网可达（DNS 由代理服务端负责解析） 不需要额外 VPN 开销 一、Loon 配置 节点 你只需要一个能访问你内网的代理节点。以 Shadowsocks-rust 为例： 1 ss-rust = shadowsocks, , 55483, \"2022-blake3-aes-256-gcm\", \" \", udp=false 如果",
+    "source_root_domain": "ooooo.space"
+  },
+  {
+    "title": "日本小学数学（一年级）",
+    "url": "https://springwood.me/jp-elementary-school-math-1/",
+    "date": "2026-06-24T15:00:00Z",
+    "description": "（摘要）主要区别：数字学习上超前（突破了100），计算学习上滞后（100以内有进退位的加减法放到了二年级）。另外，关于“时间”相关的知识学习大幅度提前。",
+    "source_root_domain": "springwood.me"
+  },
+  {
+    "title": "我的被骗史",
+    "url": "https://blog.solazy.me/20260624/",
+    "date": "2026-06-24T15:00:00Z",
+    "description": "今天讲讲我之前是如何被骗的",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Databricks Genie 战略解读：从数据平台到上下文平台的跃迁",
+    "url": "https://luweiqing.com/gossip/Databricks-Genie.html",
+    "date": "2026-06-24T10:58:22Z",
+    "description": "核心观点：企业 AI 的竞争焦点已从数据基础设施（Data Infrastructure）转向上下文基础设施（Context Infrastructure）。一、战略背景：为什么是现在？Data...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "“现在上网哪有隐私？”",
+    "url": "https://www.geedea.pro/article/online-privacy/",
+    "date": "2026-06-24T10:25:31Z",
+    "description": "如果你在互联网上讨论隐私问题，尤其是在那些评论、交流没有任何门槛，任何人都可以不假思索地抛下一句风凉话的平台，那么你大概听过本文标题所写的这句话。发言者往往对信息技术的了解浅薄，听从权威（就算不是官方，也可能是某些意见领袖），相信有神秘的力量控制着一切，想象有人无时无刻盯着天文数字般的网络报文审查，有人能直接查看所有平台的“后台”数据——就像阴谋论者一样。 不会不等于不可能 在正式讨论之前，需要先区分三个概念——隐私、匿名和安全。这其实也是陈词滥调了，不过我要引用安德烈·纪德的话： Toutes choses sont dites déjà ; mais comme personne n’écoute, il faut toujours recommencer. 一切都已经被言说过；但由于没有人听，我们总是要从头再说。 1 隐私（Privacy），是指个体或团体 隔离 自己或有关自己的信息的 能力 ，也就是说，隐私使得他们能够 选择性地 表达自己。 2 具体来讲，我们要谈的数字隐私，还可以被进一步划分。首先是 信息隐私 ，或者说数据保护，一般是指网络服务商收集、分发、使用和销毁用户数据",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "T2I 文生图的新秀Ideogram 4体验和评价",
+    "url": "https://eduardoqian.com/archives/t2i-wen-sheng-tu-de-xin-xiu-ideogram-4ti-yan-he-ping-jie",
+    "date": "2026-06-24T10:07:00Z",
+    "description": "考完试后，除了做一些Research Assistant的工作，我惊喜的发现了AI生图开源模型里又来了一个新秀ideogram 4。上一个给我如此惊喜震撼的还是z-image，而细究起来，我对ideogram4的表现以及未来更有信心一些，尤其是考虑到z-image几乎被阿里给砍了，edit模型迟迟不",
+    "source_root_domain": "eduardoqian.com"
+  },
+  {
+    "title": "我的 AI Coding Guide",
+    "url": "https://www.ixiqin.com/2026/06/24/my-ai-coding-guide/",
+    "date": "2026-06-24T10:06:29Z",
+    "description": "最新更新于 2026 年 6 月 26 日 这个指南是我自己的 AI Coding 的经验总结，我认为在实际使用 AI Coding 的过程中，应该注意和遵循的规则。 这篇文章是我实践后高度总结出来的结论，如果你想看更细致的内容 …",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "疲惫的人们不再配合演出",
+    "url": "https://www.hecaitou.com/2026/06/Too-Tired-to-Play-Along.html",
+    "date": "2026-06-24T04:09:20Z",
+    "description": "最近我发现人们普遍比较疲惫，对什么都兴趣不高。人在这种状态下会失去耐心，很容易发脾气，比如说这几天人们就和「面」干了起来。在街头摊档吃热干面，不行。在舞台上呼吁老少爷们「走个面」，更不行。人们毫不客气，一点面子都不给，直接就给撅回去。 以前不是这样的。以前你在演，我知道你在演。然后你知道我知道你在演，我也知道你知道我知道你在演---双方非常了解对方，相互打个配合，虽然明知道是在演，并不妨碍大家送上掌声和欢呼，就像是共同完成一台戏，台上台下都是演员。 现在的问题是台上的人还活在过去的经验里，但是台下的人已经不再配合演出了。 真实的原因可能要留待社会学家和历史学家去分析，我个人的看法是人们现在太疲惫，疲惫的人就很容易露出真实本相，就像是刚刚开始接触的青年男女需要安排一次远足一样，在旅途中后段等大家都进入精疲力竭的状态，就能看到对方最真实的一面，衣着谈吐审美趣味妆容都无法掩盖。 这种毫不客气，根本不耐烦的状态，我认为更接近真实。 为什么感到深深疲惫？我认为是之前的消耗太多，太厉害。比如说之前电影市场200% 狂热的时候，我看到很多普通观众卷入其中，自己 N 刷电影不说，还要在网上造声势，不断",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "机械革命泰钽 plus linux Debian Wayland 独显直连调优全记录",
+    "url": "https://hellodk.cn/post/1227",
+    "date": "2026-06-24T02:21:00Z",
+    "description": "机械革命泰钽 Plus 游戏本在 Linux Debian GNOME Wayland 下流畅使用诊断艰辛历程一、软硬件配置硬件项目规格型号MECHREVO Taitan Series GM7T...",
+    "source_root_domain": "hellodk.cn"
+  },
+  {
+    "title": "大脑对手机上瘾，或许是一种惯性",
+    "url": "https://mobius.blog/24711.html",
+    "date": "2026-06-24T01:00:00Z",
+    "description": "昨天聊了如何最快速的驯化一个的认知，今天就顺着这种驯化的过程，来聊聊“成瘾”问题——不仅仅是多巴胺的刺激，很有 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  }
+]
