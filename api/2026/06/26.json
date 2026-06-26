@@ -1,5 +1,19 @@
 [
   {
+    "title": "我和阿恩的故事",
+    "url": "https://sinyalee.com/blog/?p=1189",
+    "date": "2026-06-26T14:17:47Z",
+    "description": "阿恩是我高二高三的同班同学。来自潮阳西胪，是《给阿嬷的情书》导演蓝鸿春的老乡。她家里都信基督教，名字的恩应该是 […]",
+    "source_root_domain": "sinyalee.com"
+  },
+  {
+    "title": "Zine#53 - 第一次录󠄃製視頻、要請作者喝咖啡嗎？",
+    "url": "https://taxodium.ink/53.html",
+    "date": "2026-06-26T12:00:00Z",
+    "description": "Zine#53 第一次录󠄃製視頻、要請作者喝咖啡嗎？ 🎶 Timely!! - 杏里 (あんり) 炎炎夏日，給大家分享一張 City Pop 専輯，杏里的《Timely!!》。這張専輯有著活泼的律動，精致的編曲，甜美的歌聲，封面會讓我想到海邊和沙滩，整張専輯充滿活力，還蠻適合夏天的。選了専輯中的 WINDY SUMMER 作為封面歌詞，希望大家也能拥有一個 WINDY SUMMER！！ 前陣子寫了 Elfeed 4.0.0 使用分享 ，考慮到更直観地讓讀者看到 Elfeed 的功能，於是就嘗試了录󠄃視頻。這是第一次录󠄃這類視頻，本以為一口氣講完录󠄃完就行，但實際操作下來還是花了不少時間，經歷了几次重录󠄃，主要因為： 录󠄃制過程中會碰到一些意外問題，导致需要花時間处理，擾亂了視頻的節奏。 我大體上是按照博客的脉絡講的，但文章里可能存在缺漏，意識到之後又會导致我中斷下來。 不過儘管重录󠄃了好几次，但這個過程也帮我查漏补缺，讓我更清楚要呈現什麼，怎麼呈現。我懶得剪輯，不然也可以分段录󠄃制拼接，不用總是重录󠄃，還可以塞點喜歡的音樂进去。不剪也是好的，讀者可以看到我碰到的問題以及如何解决的，如果",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
     "title": "AI Infra：Token 工厂的商业模式研究",
     "url": "https://luweiqing.com/gossip/Token-Factory-business.html",
     "date": "2026-06-26T09:30:09Z",
@@ -82,6 +96,13 @@
     "date": "2026-06-25T16:00:00Z",
     "description": "上一篇文章 记录了 轻糖 将数据层从 Supabase Swift SDK 下沉到 KMP shared/ 模块的过程。但当时我们留了一个尾巴——ViewModels 原封不动地留在 iOS 侧用 @Observable ，承诺\"暂不迁移\"。 后来发生的事情是：我们食言了。 随着 Android 版本的开发推进，23 个 ViewModel 中有 21 个需要双端共用。继续在 iOS 侧维护一套 Swift ViewModel、Android 侧再来一套 Kotlin ViewModel 显然不可持续——同一段业务逻辑（拉取今日血糖、构建时间线、计算 PGRS），凭什么写两遍？ 这篇文章接着第一篇往下写： ViewModels 如何下沉到 KMP ，以及在这个过程中遇到的本地存储、平台抽象、订阅管理和 Swift-Kotlin 桥接问题。 📱 ViewModel 下沉：打破\"暂不迁移\"的承诺 第一篇的迁移策略第 4 条写的是\"ViewModel 暂不迁移，保留 @Observable 维持 SwiftUI 响应式体验\"。这个决策在当时是合理的——Kotlin/Native 编译出的 S",
     "source_root_domain": "youngxhui.top"
+  },
+  {
+    "title": "AI工作流",
+    "url": "https://elmagnifico.tech/2026/06/26/Agent-Workflow/",
+    "date": "2026-06-25T16:00:00Z",
+    "description": "Foreword 前段时间在 wolai 里把一套「一个人带 Agent 做产品」的流程摸清楚了，顺手画了一张图，又写了一份更偏团队协作的 Agent 方案。下文先展开独自开发（AIO）如何把产品、开发、测试、总负责人压缩成「你 + Agent」；再讲团队版（FTM）如何拆回四个岗位。文档怎么流转、人在哪几步必须插手、以及怎么把踩过的坑固化成 Skill，两家共用。 AIO，All-in-one FTM，Four man team 为什么要先定工作流 AI 写代码很快，快到你还没来得及想清楚需求，它已经给你造了三层抽象、两个 Design Pattern 和一个你根本没要的缓存层。没有流程约束，Agent 就像个热情过头的实习生：活干得猛，方向全靠猜，你没规范的内容往往走出了意想不到的呈现方式。 所以我现在的原则是： 先文档、后代码；先评审、后构建；缺陷不只改代码，还要反向更新文档。 文档全部放在 wolai，暂时不进 Git 仓库——wolai 自带版本历史，需求和工程文档跟代码解耦，Agent 通过 MCP 读写文档，人负责拍板。 开发分为好几种 从0开始的，业务是全新的，不需要理",
+    "source_root_domain": "elmagnifico.tech"
   },
   {
     "title": "用 Cloudflare Workers 把机场订阅转成「带 Token 鉴权 + 自定义域名」的 Clash/Mihomo 订阅",
