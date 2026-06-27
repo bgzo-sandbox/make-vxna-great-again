@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-27 | [您受累，搞个大新闻儿！](https://mobius.blog/24866.html) | 最近很多自媒体都在讨论“韩红塌房”的新闻。简中媒体比较有趣的是，大家都知道是什么原因，但大家因为内容敏感而不能 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-26 | [我和阿恩的故事](https://sinyalee.com/blog/?p=1189) | 阿恩是我高二高三的同班同学。来自潮阳西胪，是《给阿嬷的情书》导演蓝鸿春的老乡。她家里都信基督教，名字的恩应该是 […] |
 | 2026-06-26 | [Zine#53 - 第一次录󠄃製視頻、要請作者喝咖啡嗎？](https://taxodium.ink/53.html) | Zine#53 第一次录󠄃製視頻、要請作者喝咖啡嗎？ 🎶 Timely!! - 杏里 (あんり) 炎炎夏日，給大家分享一張 City Pop 専輯，杏里的《Timely!!》。這張専輯有著活泼的律動，精致的編曲，甜美的歌聲，封面會讓我想到海邊和沙滩，整張専輯充滿活力，還蠻適合夏天的。選了専輯中的 W… |
 | 2026-06-26 | [AI Infra：Token 工厂的商业模式研究](https://luweiqing.com/gossip/Token-Factory-business.html) | 别再叫它 API 聚合了，它正在控制 AI 世界的“石油管道”上周和一个做投资的朋友聊天，他抱怨说现在看 AI 项目看到头秃。基础模型那波已经卷成麻花，应用层又虚头巴脑，找不到护城河。我给他画了... |
@@ -127,13 +128,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-20 | [The Elder Scrolls III: Morrowind updated](https://macsourceports.com/game/morrowind) | The build of OpenMW for The Elder Scrolls III: Morrowind has been updated to version openmw-0.51.0 of the project |
 | 2026-06-20 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.25 of the project |
 | 2026-06-20 | [快乐份子](https://mobius.blog/24805.html) | 这两天，大量的快乐份子被抓了，因为端午只能搭配安康。 紧急着，份子分子也被抓了，因为应该用“分子”。 快乐分子 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-19 | [AI 时代快速了解自己感兴趣的计算机辅助的“制作工艺”管线](https://shansan.top/2026/06/19/learn-with-ai-friends/) | 记录一次用 AI 辅助学习 Godot SRPG 单关原型、游戏开发 playground 和 3D 制作管线的实践，重点关注如何把 AI 当作导师理解完整制作流程。 |
-| 2026-06-19 | [解决Fish Shell中使用vfox报错,Lacks hook support](https://programnotes.cn/fish-vfox-lack-hook/index.html) | 本文记录了在 Fish Shell 中使用 vfox use -p 命令时出现 Warning: The current shell lacks hook support or configuration 警告的原因及解决方法。 |
-| 2026-06-19 | [电影院和耳机](https://blog.solazy.me/20260619/) | 今天记录一个非常离奇但又非常合理的脑洞 |
-| 2026-06-19 | [哪吒监控面板曝高危漏洞，如何应对与自查？](https://blog.ensonyan.com/it/3433.html) | 哪吒监控面板（Nezha Monitoring）是一款开源的一体式服务器监控与运维面板，在华人 IT 圈中非常 […] |
-| 2026-06-19 | [火星不是人类的重启键](https://www.linggandianbo.com/newsletter-128/) | 从火星殖民幻梦、AI 时代的注意力礼仪、机器写作、翻译劳动，到科技圈失去的书呆子气｜灵感电波 #128 |
-| 2026-06-19 | [端午节快乐（2026）](https://www.hecaitou.com/2026/06/happy-dragon-boat-festival-2026.html) | 今年端午节是网络营销号捏造「端午安康」新民俗的十一周年，也是我个人在公众号撰文祝贺读者「端午节快乐」的第四年，对亲友说「端午节快乐」的第五十年。 个人在这个世界里，在时代潮流下，在汹涌人群之中，是无足轻重的存在。没有人在乎你想什么，也没有人在乎你说什么，甚至都懒得看你做什么。虽然现实如此，但是对于我… |
-| 2026-06-19 | [是谁在夺走现代人的注意力？](https://mobius.blog/24666.html) | 今天来聊聊《我的吸尘器哪儿去了？》的最后一部分，越来越多人开始出现类似 ADHD 的情况，那人们的注意力到底是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
