@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-27 | [为什么我只跟练帕梅拉？](https://www.geedea.pro/article/pamela-reif/) | 我的健身理念是，应当全面发展身体机能，而我主要关注四个方面：心肺能力、核心稳定性、肌肉力量和柔韧性。它们分别对应四种训练：有氧运动、核心训练、力量训练和拉伸。对我来说，唯一需要视频跟练的只有有氧运动，因为核心训练、力量训练以及拉伸，都有固定的几种体式，比方说平板支撑和 折刀式 可以锻炼核心；力量训练… |
 | 2026-06-27 | [我花 25 块钱，把 10 年前的矿机买回来了：重走 BTC 之路](https://blog.renfei.net/posts/1626402130325676141) | 花 25 元买回十年前的蚂蚁矿机 U3，实测 CPU、RTX 2080 Ti、Bitaxe Gamma 601 参与 BTCC SHA-256 挖矿，并对比 PPLNS、SOLO 与 AIRDROP 矿池玩法。 |
 | 2026-06-27 | [新商标法将于2027年正式施行，那些商标代理商可能要慌了](https://www.iyeslogo.com/shangbiaofa-2027/) | 商标法完成第五次修订 |
 | 2026-06-27 | [AI Infra：企业 Token 精炼厂是企业 AI 落地的下一阶段](https://luweiqing.com/gossip/AI-Infra-Token-AI.html) | 从模型军备竞赛到业务语义战争过去两年，企业AI的讨论始终围绕三个关键词展开：更大的模型、更便宜的推理、更长的Context。这三个方向本质上都是在优化「大模型处理通用信息的能力」，而当GPU算力... |
@@ -34,6 +35,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-27 | [手段刚好是考试而已](https://www.hecaitou.com/2026/06/an-exam-is-merely-the-means.html) | 每年我写的文章都会被老师拿去做成阅读理解题，每年也都会有小同学跑到我这里抱怨，因此我每年都要向小同学道歉。 有人猜测我心中暗喜，不过是表面上装作歉意的样子，是一种不大高明的凡尔赛演出，其实脚上木屐的齿都因为心花怒放而不留神折断了。爱怎么想就怎么想吧，自己高兴就行。 不过对于语文考试或者说阅读理解，我… |
 | 2026-06-27 | [您受累，搞个大新闻儿！](https://mobius.blog/24866.html) | 最近很多自媒体都在讨论“韩红塌房”的新闻。简中媒体比较有趣的是，大家都知道是什么原因，但大家因为内容敏感而不能 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-27 | [Python 潮流周刊#156：Pydantic 接管 httpx 始末](https://pythoncat.top/posts/2026-06-27-weekly/) | 分享了 12 篇文章，12 个开源项目 |
+| 2026-06-26 | [鼠标垫与垃圾袋](https://blog.solazy.me/20260626/) | 最近住酒店有一些启发，索性写一些 |
 | 2026-06-26 | [我和阿恩的故事](https://sinyalee.com/blog/?p=1189) | 阿恩是我高二高三的同班同学。来自潮阳西胪，是《给阿嬷的情书》导演蓝鸿春的老乡。她家里都信基督教，名字的恩应该是 […] |
 | 2026-06-26 | [Zine#53 - 第一次录󠄃製視頻、要請作者喝咖啡嗎？](https://taxodium.ink/53.html) | Zine#53 第一次录󠄃製視頻、要請作者喝咖啡嗎？ 🎶 Timely!! - 杏里 (あんり) 炎炎夏日，給大家分享一張 City Pop 専輯，杏里的《Timely!!》。這張専輯有著活泼的律動，精致的編曲，甜美的歌聲，封面會讓我想到海邊和沙滩，整張専輯充滿活力，還蠻適合夏天的。選了専輯中的 W… |
 | 2026-06-26 | [AI Infra：Token 工厂的商业模式研究](https://luweiqing.com/gossip/Token-Factory-business.html) | 别再叫它 API 聚合了，它正在控制 AI 世界的“石油管道”上周和一个做投资的朋友聊天，他抱怨说现在看 AI 项目看到头秃。基础模型那波已经卷成麻花，应用层又虚头巴脑，找不到护城河。我给他画了... |
