@@ -28,6 +28,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-06-28 | [领克900半年使用体验](https://blog.keepchen.com/a/Half-Year-Experience-with-the-Lynk-&-Co-900.html) | 从2026年1月4号提车到现在，已经有半年的时间了，和这台大玩具相处下来，对它的优缺点也逐渐有了清晰的认识。 |
+| 2026-06-28 | [Workspace：从文件仓库到Token提炼车间](https://luweiqing.com/gossip/Workspace-to-token-factory.html) | Workspace里面存放着文档、代码、SQL、配置文件、日志和Git仓库。它的作用，是将这些文件组织起来，方便团队协作。对于Agent而言，Workspace不再只是一个文件系统，而是一个持续... |
+| 2026-06-28 | [云南系列｜Day 5、6 在沙溪古镇的两天](https://blog.yasking.org/a/series-yunnan-travel-day5-6.html) | 在沙溪住了两晚，本篇二合一记录在沙溪旅程。 我们在沙溪住的民宿，下雨时站在房檐下赏雨很有趣，雨从屋檐落下，拍打在 … |
+| 2026-06-28 | [AirPods 一个月丢三次](https://blog.solazy.me/20260628/) | 很难相信这种事情接二连三发生在我身上 |
 | 2026-06-28 | [Pensieve: 2606](https://xiaket.github.io/2026/pensieve-2606.html) | 所读所观所玩 |
 | 2026-06-28 | [怎样让 AI 指导维修设备](https://www.hecaitou.com/2026/06/how-to-have-ai-guide-your-device-repairs.html) | 应读者的要求，今天我想分享一下我让 AI 帮助我维修电子产品的个人经验。 其实这是一个很古老的话题了，关于如何提问这件事之前我应该写过文章。AI 只是一个新工具，新对象而已，这跟你向一位医生、一位老师、一位工程师求教没有任何不同，所需要的技巧、规则也没有任何不同。唯一的差异大概是 AI 比人类要耐心… |
 | 2026-06-28 | [中国必须停止歧视汉人](https://sinyalee.com/blog/?p=1191) | 本人李新野，34岁，汉人，美国公民。在这里实名要求中国立刻停止所有对汉人的歧视政策。 – 汉人在中 […] |
