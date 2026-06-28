@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-28 | [最近惦念 20260615](https://z.arlmy.me/posts/TILs/thoughts/20260615_Recently/) | 「Always be drunk.」 |
+| 2026-06-28 | [Toots 425 2026 Jun.21 - Jun.27](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260627/) | 「记，是浪费和耗散的证明，高光，是身体的记和体验。」 |
+| 2026-06-28 | [这一周莫比乌斯环转到了哪里？](https://mobius.blog/24853.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-27 | [为什么我只跟练帕梅拉？](https://www.geedea.pro/article/pamela-reif/) | 我的健身理念是，应当全面发展身体机能，而我主要关注四个方面：心肺能力、核心稳定性、肌肉力量和柔韧性。它们分别对应四种训练：有氧运动、核心训练、力量训练和拉伸。对我来说，唯一需要视频跟练的只有有氧运动，因为核心训练、力量训练以及拉伸，都有固定的几种体式，比方说平板支撑和 折刀式 可以锻炼核心；力量训练… |
 | 2026-06-27 | [我花 25 块钱，把 10 年前的矿机买回来了：重走 BTC 之路](https://blog.renfei.net/posts/1626402130325676141) | 花 25 元买回十年前的蚂蚁矿机 U3，实测 CPU、RTX 2080 Ti、Bitaxe Gamma 601 参与 BTCC SHA-256 挖矿，并对比 PPLNS、SOLO 与 AIRDROP 矿池玩法。 |
 | 2026-06-27 | [新商标法将于2027年正式施行，那些商标代理商可能要慌了](https://www.iyeslogo.com/shangbiaofa-2027/) | 商标法完成第五次修订 |
@@ -120,22 +123,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-21 | [爹在父亲节突然降临](https://www.hecaitou.com/2026/06/dad-dropped-in-on-fathers-day.html) | 今天夏至，也是父亲节。一大早就有位爹降临我文章的留言区，劈头就问： 「不是不是。菜头你有没发现，是你还停留在十多年前靠粉丝带货的阶段？一个人可以不思进取躺在过去的成绩上吃一辈子吗？」 如果我现在三十岁左右，看到这句话之后估计从尾椎开始，顺着我的一整根人蝎子，自下而上，脊背皮肤上的汗毛会根根立起，然后… |
 | 2026-06-21 | [286、夏至](https://1900.live/286-xia-zhi/) | null 蝉声初沸，白昼始极，天地在极致与转折之间，悄悄按下了一个惊叹号。 太阳行至黄经90°，夏至——夏之第四序。 蝉鸣撕开长夏，声声如锯，把日子锯成最漫长的一截光；荷塘铺满绿盖，菡萏探出了第一支胭脂色的笔，蘸着正午的烈阳，准备写一封给远秋的信；而午后的雷雨，来得急去得也急，把天地洗成一面澄澈的镜… |
 | 2026-06-21 | [这一周莫比乌斯环转到了哪里？](https://mobius.blog/24674.html) | 大概还是需要一个“创刊号”，原因是我关闭了博客发布文章时的 Newsletter，但是我又真的很他妈讨厌“周报”这玩意儿，所以就折中一下。与其汇报这周做了什么、看了什么、想到了什么，不如聊聊这一周莫比乌斯环转到了哪里。 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或… |
-| 2026-06-20 | [尝个鲜  — 健民辣丝](https://www.ixiqin.com/2026/06/21/try-a-fresh-jianmin-spicy-silk/) | 尝个鲜系列是我尝试开启的一个新的系列，记录一些我吃的好玩的，不太「日常」的东西。 忘了在哪里刷到了健民辣丝，在 […] |
-| 2026-06-20 | [幼稚的女拳师](https://sinyalee.com/blog/?p=1170) | 很多女拳师，到现在攻击我，还是只会重复那套你长得丑，没人爱你。挂一个典型女拳师的回答给你们看看。本来想举报的， […] |
-| 2026-06-20 | [天台国清寺一日游](http://www.uncoverman.com/guoqing-temple.html) | 假期下雨，去了趟天台国清寺遛娃兼游览，免费的 5A 级景区，底蕴深厚，且晴雨不论，都可游览。路上借着豆包听了好多故事。 景区入口看到的隋塔，又名报恩塔，是隋炀帝下诏建的，六面九级空心楼阁式砖塔，约 60m 高，是浙江省最高的古塔之一。以前内部有木梯，可以登高望远，后来都损毁了。外观上，相比北宋时期建… |
-| 2026-06-20 | [当电影在黑暗中寻找光](https://blog.solazy.me/20260620/) | 今天听播客萌生了一个话题，索性展开聊聊 |
-| 2026-06-20 | [云南系列｜Day 4 剑川古城记录](https://blog.yasking.org/a/series-yunnan-travel-day4.html) | 早上不知道吃什么，那就再来份米线吧～ 习惯了独立汤包，塑料袋装汤还真是不方便。 剑川我们计划只待一小天，作为去沙溪 … |
-| 2026-06-20 | [Elfeed 4.0.0 使用分享](https://taxodium.ink/elfeed-4-0-0-usage-sharing.html) | Elfeed 4.0.0 使用分享 Elfeed 是一個 Emacs 里的 RSS 閲讀器，關於 Elfeed 之前寫過一篇 在 Emacs 中用 Elfeed 阅读订阅流 ，那篇文章没怎麼展示 Elfeed 的使用，更多還是在分享一些工具函数。前陣子 Elfeed 也更新到了 4.0.0 ，新增了… |
-| 2026-06-20 | [使用 Docker 部署 Github Actions Self Hosted Runner](https://www.ixiqin.com/2026/06/20/use-dock-deployment-github-actions-self-hosted/) | 近些年来，我的个人项目基本上也是托管在 Github 上的。主要的原因一方面是 Github 身边的 Git […] |
-| 2026-06-20 | [云南系列｜Day 3 周城扎染 & 抵达剑川](https://blog.yasking.org/a/series-yunnan-travel-day3.html) | 清晨醒的早，在阳台上看日出。 洗漱后到洱海边可以看到水面波光粼粼，这个时候不热，估计紫外线也不少。 回来后拍了一张 … |
-| 2026-06-20 | [问Gemini的问题备份 20260620](https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260620/) | 「时间戳。」 |
-| 2026-06-20 | [最近惦念 20260605](https://z.arlmy.me/posts/TILs/thoughts/20260605_Recently/) | 「不参与表演。」 |
-| 2026-06-20 | [最近惦念 20260522](https://z.arlmy.me/posts/TILs/thoughts/20260522_Recently/) | 「前深线与双螺旋。」 |
-| 2026-06-20 | [为什么越来越懒得解释](https://www.hecaitou.com/2026/06/why-i-no-longer-bother-to-explain-myself.html) | 关于自己的事情，我越来越懒得和人解释。原因是随着年纪增长，我对于人性有了新的认识。这种新认识告诉我：别费那个劲了。 现在，手头刚好有一个例子，可以给大家做参考。 前几天我的网络小店新发布了一款产品：鸡枞油卤腐。在文章中，我说「 里面能够看到黑色的油浸鸡枞丝」。很快就有两位读者留言，提出了疑问。一位说… |
-| 2026-06-20 | [MacOS 快速插入当前时间](https://blog.est.im/2026/stdout-23) | 第一步：创建快捷指令 打开 Shortcuts 。 点击右上角 + 新建快捷指令。 添加动作 1：日期 搜 添加 日期（Current Date） 动作，默认为当前时间 添加动作 2：格式化日期 添加 格式化日期，日期格式 自定义，填 yyyy-MM-dd HH:mm:ss 添加动作 3：Apple… |
-| 2026-06-20 | [The Elder Scrolls III: Morrowind updated](https://macsourceports.com/game/morrowind) | The build of OpenMW for The Elder Scrolls III: Morrowind has been updated to version openmw-0.51.0 of the project |
-| 2026-06-20 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.25 of the project |
-| 2026-06-20 | [快乐份子](https://mobius.blog/24805.html) | 这两天，大量的快乐份子被抓了，因为端午只能搭配安康。 紧急着，份子分子也被抓了，因为应该用“分子”。 快乐分子 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
