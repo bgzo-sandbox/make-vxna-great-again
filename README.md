@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-28 | [领克900半年使用体验](https://blog.keepchen.com/a/Half-Year-Experience-with-the-Lynk-&-Co-900.html) | 从2026年1月4号提车到现在，已经有半年的时间了，和这台大玩具相处下来，对它的优缺点也逐渐有了清晰的认识。 |
+| 2026-06-28 | [Pensieve: 2606](https://xiaket.github.io/2026/pensieve-2606.html) | 所读所观所玩 |
+| 2026-06-28 | [怎样让 AI 指导维修设备](https://www.hecaitou.com/2026/06/how-to-have-ai-guide-your-device-repairs.html) | 应读者的要求，今天我想分享一下我让 AI 帮助我维修电子产品的个人经验。 其实这是一个很古老的话题了，关于如何提问这件事之前我应该写过文章。AI 只是一个新工具，新对象而已，这跟你向一位医生、一位老师、一位工程师求教没有任何不同，所需要的技巧、规则也没有任何不同。唯一的差异大概是 AI 比人类要耐心… |
+| 2026-06-28 | [中国必须停止歧视汉人](https://sinyalee.com/blog/?p=1191) | 本人李新野，34岁，汉人，美国公民。在这里实名要求中国立刻停止所有对汉人的歧视政策。 – 汉人在中 […] |
+| 2026-06-28 | [普通](https://z.arlmy.me/posts/Poems/2026/20260621_PuTong/) | 「普通。」 |
 | 2026-06-28 | [最近惦念 20260615](https://z.arlmy.me/posts/TILs/thoughts/20260615_Recently/) | 「Always be drunk.」 |
 | 2026-06-28 | [Toots 425 2026 Jun.21 - Jun.27](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260627/) | 「记，是浪费和耗散的证明，高光，是身体的记和体验。」 |
 | 2026-06-28 | [这一周莫比乌斯环转到了哪里？](https://mobius.blog/24853.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
