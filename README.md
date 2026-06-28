@@ -35,6 +35,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-28 | [云南系列｜Day 5、6 在沙溪古镇的两天](https://blog.yasking.org/a/series-yunnan-travel-day5-6.html) | 在沙溪住了两晚，本篇二合一记录在沙溪旅程。 我们在沙溪住的民宿，下雨时站在房檐下赏雨很有趣，雨从屋檐落下，拍打在 … |
 | 2026-06-28 | [AirPods 一个月丢三次](https://blog.solazy.me/20260628/) | 很难相信这种事情接二连三发生在我身上 |
 | 2026-06-28 | [静待植物生长](https://jubeny.com/2026/06/watch-the-plants-grow/) | 第一天埋下种子，第二天就希望它发芽，这种不切实际的盼望，是否是每个初侍花草之人的必经之路呢？ 植物有自己的规律，即便每日殷勤探望，它也不会回应你的期待，只会在土里默默生根，等时间一到，自然会破土而出，冒出那代表着生命也不负你期望的绿芽。 |
+| 2026-06-28 | [Vol.109 慢下来才能更快：AI编程的下一个瓶颈是验证与审查](https://liduos.com/weekly/the-weekly-gradient-109) | 本期内容聚焦AI编程提速后的真正瓶颈——验证、审查与判断，涵盖代码评审工程化、Agent协作、安全攻防、评估与知识底座、底层基建及产品哲学。 |
 | 2026-06-28 | [Pensieve: 2606](https://xiaket.github.io/2026/pensieve-2606.html) | 所读所观所玩 |
 | 2026-06-28 | [怎样让 AI 指导维修设备](https://www.hecaitou.com/2026/06/how-to-have-ai-guide-your-device-repairs.html) | 应读者的要求，今天我想分享一下我让 AI 帮助我维修电子产品的个人经验。 其实这是一个很古老的话题了，关于如何提问这件事之前我应该写过文章。AI 只是一个新工具，新对象而已，这跟你向一位医生、一位老师、一位工程师求教没有任何不同，所需要的技巧、规则也没有任何不同。唯一的差异大概是 AI 比人类要耐心… |
 | 2026-06-28 | [中国必须停止歧视汉人](https://sinyalee.com/blog/?p=1191) | 本人李新野，34岁，汉人，美国公民。在这里实名要求中国立刻停止所有对汉人的歧视政策。 – 汉人在中 […] |
@@ -43,6 +44,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-28 | [Toots 425 2026 Jun.21 - Jun.27](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260627/) | 「记，是浪费和耗散的证明，高光，是身体的记和体验。」 |
 | 2026-06-28 | [这一周莫比乌斯环转到了哪里？](https://mobius.blog/24853.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-27 | [为什么我只跟练帕梅拉？](https://www.geedea.pro/article/pamela-reif/) | 我的健身理念是，应当全面发展身体机能，而我主要关注四个方面：心肺能力、核心稳定性、肌肉力量和柔韧性。它们分别对应四种训练：有氧运动、核心训练、力量训练和拉伸。对我来说，唯一需要视频跟练的只有有氧运动，因为核心训练、力量训练以及拉伸，都有固定的几种体式，比方说平板支撑和 折刀式 可以锻炼核心；力量训练… |
+| 2026-06-27 | [别把道德当武器](https://blog.solazy.me/20260627/) | 今天随便聊聊，不想写流水账了 |
 | 2026-06-27 | [我花 25 块钱，把 10 年前的矿机买回来了：重走 BTC 之路](https://blog.renfei.net/posts/1626402130325676141) | 花 25 元买回十年前的蚂蚁矿机 U3，实测 CPU、RTX 2080 Ti、Bitaxe Gamma 601 参与 BTCC SHA-256 挖矿，并对比 PPLNS、SOLO 与 AIRDROP 矿池玩法。 |
 | 2026-06-27 | [新商标法将于2027年正式施行，那些商标代理商可能要慌了](https://www.iyeslogo.com/shangbiaofa-2027/) | 商标法完成第五次修订 |
 | 2026-06-27 | [AI Infra：企业 Token 精炼厂是企业 AI 落地的下一阶段](https://luweiqing.com/gossip/AI-Infra-Token-AI.html) | 从模型军备竞赛到业务语义战争过去两年，企业AI的讨论始终围绕三个关键词展开：更大的模型、更便宜的推理、更长的Context。这三个方向本质上都是在优化「大模型处理通用信息的能力」，而当GPU算力... |
