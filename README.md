@@ -27,10 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-28 | [猫鱼周刊 vol. 099 第 100 期撒花！](https://ameow.xyz/archives/weekly-099) | 关于本刊 这是猫鱼周刊的第 100 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在 博客： 阿猫的博客-猫鱼周刊 RSS： 猫鱼周刊 邮件订阅： 猫鱼周刊 微信公众号： 猫兄的和谐号列车 私信： leslieleung@proton.me INIT Ta-da！这居然是猫鱼周刊的第… |
+| 2026-06-28 | [旅行日记·葫芦岛-兴城](https://moreality.net/posts/34210/) | 冷冷清清的一座海滨县城 |
 | 2026-06-28 | [领克900半年使用体验](https://blog.keepchen.com/a/Half-Year-Experience-with-the-Lynk-&-Co-900.html) | 从2026年1月4号提车到现在，已经有半年的时间了，和这台大玩具相处下来，对它的优缺点也逐渐有了清晰的认识。 |
+| 2026-06-28 | [CB500SF 夏日走过山间](https://yovey.me/cb500sf-26-summer-moto-touring/) | 端午摩旅，新车小短途，三天跑了600KM，跑完正好做首保。之前说过提车后每个周末跑个几十公里，意犹未尽，心心念 … Continue reading "CB500SF 夏日走过山间" |
 | 2026-06-28 | [Workspace：从文件仓库到Token提炼车间](https://luweiqing.com/gossip/Workspace-to-token-factory.html) | Workspace里面存放着文档、代码、SQL、配置文件、日志和Git仓库。它的作用，是将这些文件组织起来，方便团队协作。对于Agent而言，Workspace不再只是一个文件系统，而是一个持续... |
 | 2026-06-28 | [云南系列｜Day 5、6 在沙溪古镇的两天](https://blog.yasking.org/a/series-yunnan-travel-day5-6.html) | 在沙溪住了两晚，本篇二合一记录在沙溪旅程。 我们在沙溪住的民宿，下雨时站在房檐下赏雨很有趣，雨从屋檐落下，拍打在 … |
 | 2026-06-28 | [AirPods 一个月丢三次](https://blog.solazy.me/20260628/) | 很难相信这种事情接二连三发生在我身上 |
+| 2026-06-28 | [静待植物生长](https://jubeny.com/2026/06/watch-the-plants-grow/) | 第一天埋下种子，第二天就希望它发芽，这种不切实际的盼望，是否是每个初侍花草之人的必经之路呢？ 植物有自己的规律，即便每日殷勤探望，它也不会回应你的期待，只会在土里默默生根，等时间一到，自然会破土而出，冒出那代表着生命也不负你期望的绿芽。 |
 | 2026-06-28 | [Pensieve: 2606](https://xiaket.github.io/2026/pensieve-2606.html) | 所读所观所玩 |
 | 2026-06-28 | [怎样让 AI 指导维修设备](https://www.hecaitou.com/2026/06/how-to-have-ai-guide-your-device-repairs.html) | 应读者的要求，今天我想分享一下我让 AI 帮助我维修电子产品的个人经验。 其实这是一个很古老的话题了，关于如何提问这件事之前我应该写过文章。AI 只是一个新工具，新对象而已，这跟你向一位医生、一位老师、一位工程师求教没有任何不同，所需要的技巧、规则也没有任何不同。唯一的差异大概是 AI 比人类要耐心… |
 | 2026-06-28 | [中国必须停止歧视汉人](https://sinyalee.com/blog/?p=1191) | 本人李新野，34岁，汉人，美国公民。在这里实名要求中国立刻停止所有对汉人的歧视政策。 – 汉人在中 […] |
