@@ -52,6 +52,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-28 | [普通](https://z.arlmy.me/posts/Poems/2026/20260621_PuTong/) | 「普通。」 |
 | 2026-06-28 | [最近惦念 20260615](https://z.arlmy.me/posts/TILs/thoughts/20260615_Recently/) | 「Always be drunk.」 |
 | 2026-06-28 | [Toots 425 2026 Jun.21 - Jun.27](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260627/) | 「记，是浪费和耗散的证明，高光，是身体的记和体验。」 |
+| 2026-06-28 | [New Release: Heretic II](https://macsourceports.com/game/heretic2) | First there was Heretic , then there was Hexen , then there was Hexen II , and finally...… |
 | 2026-06-28 | [这一周莫比乌斯环转到了哪里？](https://mobius.blog/24853.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-27 | [为什么我只跟练帕梅拉？](https://www.geedea.pro/article/pamela-reif/) | 我的健身理念是，应当全面发展身体机能，而我主要关注四个方面：心肺能力、核心稳定性、肌肉力量和柔韧性。它们分别对应四种训练：有氧运动、核心训练、力量训练和拉伸。对我来说，唯一需要视频跟练的只有有氧运动，因为核心训练、力量训练以及拉伸，都有固定的几种体式，比方说平板支撑和 折刀式 可以锻炼核心；力量训练… |
 | 2026-06-27 | [别把道德当武器](https://blog.solazy.me/20260627/) | 今天随便聊聊，不想写流水账了 |
