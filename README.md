@@ -27,9 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-29 | [为什么 DM KOL 的 GTM 策略一定是 “对” 的](https://smallyu.net/2026/06/29/%E4%B8%BA%E4%BB%80%E4%B9%88DM-KOL%E7%9A%84GTM%E7%AD%96%E7%95%A5%E4%B8%80%E5%AE%9A%E6%98%AF%E2%80%9C%E5%AF%B9%E2%80%9D%E7%9A%84/) | 团队的项目在 Go to Market 环节遇到了困难，所以找了有经验的 BD（商务拓展）来提供指导意见。对方给出的策略是：每个人都去 DM KOL 谈合作。 具体做法是直接在 X 上找到相关领域的 |
+| 2026-06-29 | [牛犊马驹](https://www.hecaitou.com/2026/06/Little-Workhorses.html) | 最近有机会连续观察了一下朋友家的孩子，可以说是印象极为深刻。 上周大家见了一面，刚好是端午假期的最后一天。一整个下午两位小朋友都电力充沛，心情和胃口同样好，当着我的面吃掉了6 枚冰激凌。然而，等到大家收队返程，两个小朋友就开始在哀嚎「为什么明天要上学啊」。不是嚎一下撂爪就忘的那种，而是一路嚎回了家，… |
 | 2026-06-29 | [AI Infra：解构 DSpark，Speculative Decoding 的三层逻辑](https://luweiqing.com/gossip/DSpar-Speculative-Decoding.html) | DSpark 底层采用"空间换时间"的设计，通过预测、并行执行、验证、回滚四个步骤，将串行 Token 生成转换为块级并行执行；在预测和验证阶段，利用 KV Cache 对 Transforme... |
 | 2026-06-29 | [大脑充血 Vol.87](https://www.geedea.pro/weekly/87/) | 水分很多的一起周刊，读完三篇为数不多的文评之后你将发现，这个页面有一半都是我的碎碎念…… 嗯，我或许该思考要不要单独开一个日常系列了。 止语 Undertale Soundtrack 专辑 Toby Fox NeoDB 如果有人偷窥我的 last.fm 记录的话，就会发现我这几天老是在听《Spear… |
 | 2026-06-29 | [男性同样也遭受性别歧视？](https://mobius.blog/24875.html) | 接下来要聊的话题可能会很敏感，甚至会引起“对立”，但我需要先开宗明义强调——聊以男性作为主体视角的话题，并不是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-06-29 | [蓝调时分](https://elmtran.com/essays/blue-hour/) | 北海道旅行的一些碎片：函馆篇 |
 | 2026-06-28 | [猫鱼周刊 vol. 099 第 100 期撒花！](https://ameow.xyz/archives/weekly-099) | 关于本刊 这是猫鱼周刊的第 100 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在 博客： 阿猫的博客-猫鱼周刊 RSS： 猫鱼周刊 邮件订阅： 猫鱼周刊 微信公众号： 猫兄的和谐号列车 私信： leslieleung@proton.me INIT Ta-da！这居然是猫鱼周刊的第… |
 | 2026-06-28 | [旅行日记·葫芦岛-兴城](https://moreality.net/posts/34210/) | 冷冷清清的一座海滨县城 |
 | 2026-06-28 | [领克900半年使用体验](https://blog.keepchen.com/a/Half-Year-Experience-with-the-Lynk-&-Co-900.html) | 从2026年1月4号提车到现在，已经有半年的时间了，和这台大玩具相处下来，对它的优缺点也逐渐有了清晰的认识。 |
