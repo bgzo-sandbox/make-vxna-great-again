@@ -28,6 +28,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-06-29 | [舟山朱家尖亲子自驾4天3晚](https://victor42.eth.limo/post/trip-to-zhoushan/) | 照片相册： 查看本篇相册 赶在暑假来临前，带家人去舟山玩海吃海。收起我的研究天性，只感受，只欣赏，不动脑，纯玩。 第1天中午才出发，白天基本都在路上。晚上在酒店旁吃了第一顿海鲜。 第2天：南沙海滩 随车带齐了玩沙、游泳装备，开车直奔朱家尖南端，南沙海滩。 浙江大陆沿岸完全没有蓝色的海，都是这样，充斥… |
+| 2026-06-29 | [AirPods 追回记](https://blog.solazy.me/20260629/) | 书接上回，今天主要是 AirPods 巡回记 |
+| 2026-06-29 | [生活来在一个包里](https://www.kawabangga.com/posts/7314) | 时间过得真快，Rick and Morty 已经播出 13 年了。 在试播集的时候，Rick 说的这句话——「 […] Continue reading... |
+| 2026-06-29 | [重启定投恒科](https://hux.ink/posts/013171/) | 恒生互联网科技指数今年累计下跌 30%，我原先持有该指数的 ETF，在 5 月 15 日的时候实在跌得受不了了，选择了清仓卖出。 没想到在清仓过后的一个半月时间里，竟然又跌了 18%。 果真强者恒强，弱者恒科。 已经跌了这么多，恒科现在要底部反转了吗？当然不是，从 K 线图来看，仍旧标准的下跌趋势，… |
 | 2026-06-29 | [为什么 DM KOL 的 GTM 策略一定是 “对” 的](https://smallyu.net/2026/06/29/%E4%B8%BA%E4%BB%80%E4%B9%88DM-KOL%E7%9A%84GTM%E7%AD%96%E7%95%A5%E4%B8%80%E5%AE%9A%E6%98%AF%E2%80%9C%E5%AF%B9%E2%80%9D%E7%9A%84/) | 团队的项目在 Go to Market 环节遇到了困难，所以找了有经验的 BD（商务拓展）来提供指导意见。对方给出的策略是：每个人都去 DM KOL 谈合作。 具体做法是直接在 X 上找到相关领域的 |
 | 2026-06-29 | [牛犊马驹](https://www.hecaitou.com/2026/06/Little-Workhorses.html) | 最近有机会连续观察了一下朋友家的孩子，可以说是印象极为深刻。 上周大家见了一面，刚好是端午假期的最后一天。一整个下午两位小朋友都电力充沛，心情和胃口同样好，当着我的面吃掉了6 枚冰激凌。然而，等到大家收队返程，两个小朋友就开始在哀嚎「为什么明天要上学啊」。不是嚎一下撂爪就忘的那种，而是一路嚎回了家，… |
 | 2026-06-29 | [AI Infra：解构 DSpark，Speculative Decoding 的三层逻辑](https://luweiqing.com/gossip/DSpar-Speculative-Decoding.html) | DSpark 底层采用"空间换时间"的设计，通过预测、并行执行、验证、回滚四个步骤，将串行 Token 生成转换为块级并行执行；在预测和验证阶段，利用 KV Cache 对 Transforme... |
