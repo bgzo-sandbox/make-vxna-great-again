@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-29 | [不懂代码的独立开发者，如何去指挥 AI 干活？](https://diff.im/blog/2026/06/%E4%B8%8D%E6%87%82%E4%BB%A3%E7%A0%81%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%A6%82%E4%BD%95%E5%8E%BB%E6%8C%87%E6%8C%A5-ai-%E5%B9%B2%E6%B4%BB/) | 作为不懂开发、不懂代码的独立开发者，在和 AI 沟通时，我个人有这么几个技巧可以分享。 如果你之前做过老板或管理者，带过业务团队，那么过往的背景会对你和 AI 的沟通很有帮助。因为很多时候老板、管理者或业务负责人并不懂技术，那要如何与技术人员沟通呢？ 核心就在于： 你要传达清晰的意图，了解实施的过程… |
 | 2026-06-29 | [舟山朱家尖亲子自驾4天3晚](https://victor42.eth.limo/post/trip-to-zhoushan/) | 照片相册： 查看本篇相册 赶在暑假来临前，带家人去舟山玩海吃海。收起我的研究天性，只感受，只欣赏，不动脑，纯玩。 第1天中午才出发，白天基本都在路上。晚上在酒店旁吃了第一顿海鲜。 第2天：南沙海滩 随车带齐了玩沙、游泳装备，开车直奔朱家尖南端，南沙海滩。 浙江大陆沿岸完全没有蓝色的海，都是这样，充斥… |
 | 2026-06-29 | [AirPods 追回记](https://blog.solazy.me/20260629/) | 书接上回，今天主要是 AirPods 巡回记 |
 | 2026-06-29 | [生活来在一个包里](https://www.kawabangga.com/posts/7314) | 时间过得真快，Rick and Morty 已经播出 13 年了。 在试播集的时候，Rick 说的这句话——「 […] Continue reading... |
