@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-29 | [AI Infra：解构 DSpark，Speculative Decoding 的三层逻辑](https://luweiqing.com/gossip/DSpar-Speculative-Decoding.html) | DSpark 底层采用"空间换时间"的设计，通过预测、并行执行、验证、回滚四个步骤，将串行 Token 生成转换为块级并行执行；在预测和验证阶段，利用 KV Cache 对 Transforme... |
+| 2026-06-29 | [大脑充血 Vol.87](https://www.geedea.pro/weekly/87/) | 水分很多的一起周刊，读完三篇为数不多的文评之后你将发现，这个页面有一半都是我的碎碎念…… 嗯，我或许该思考要不要单独开一个日常系列了。 止语 Undertale Soundtrack 专辑 Toby Fox NeoDB 如果有人偷窥我的 last.fm 记录的话，就会发现我这几天老是在听《Spear… |
+| 2026-06-29 | [男性同样也遭受性别歧视？](https://mobius.blog/24875.html) | 接下来要聊的话题可能会很敏感，甚至会引起“对立”，但我需要先开宗明义强调——聊以男性作为主体视角的话题，并不是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-28 | [猫鱼周刊 vol. 099 第 100 期撒花！](https://ameow.xyz/archives/weekly-099) | 关于本刊 这是猫鱼周刊的第 100 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在 博客： 阿猫的博客-猫鱼周刊 RSS： 猫鱼周刊 邮件订阅： 猫鱼周刊 微信公众号： 猫兄的和谐号列车 私信： leslieleung@proton.me INIT Ta-da！这居然是猫鱼周刊的第… |
 | 2026-06-28 | [旅行日记·葫芦岛-兴城](https://moreality.net/posts/34210/) | 冷冷清清的一座海滨县城 |
 | 2026-06-28 | [领克900半年使用体验](https://blog.keepchen.com/a/Half-Year-Experience-with-the-Lynk-&-Co-900.html) | 从2026年1月4号提车到现在，已经有半年的时间了，和这台大玩具相处下来，对它的优缺点也逐渐有了清晰的认识。 |
@@ -125,18 +128,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-22 | [iPhone ICCID Carrier Unlock: Activation Ticket Backup and Restore](https://blog.qzydustin.com/posts/iphone-iccid-carrier-unlock-activation-ticket-backup-and-restore/) | ICCID activation was once a popular way to work around carrier locks on iPhones. If a previously activated device is jailbreakable, its activation tic… |
 | 2026-06-22 | [2026年第24、25周](https://blog.sakoamc.com/posts/262425/) | 题记：二零二六年的第二十四、五周，如无必要，勿增；如有必要，则删。 |
 | 2026-06-22 | [边想边聊 Vol.5](https://bluepika.life/blog/thinking-out-loud-5) | 纯主观，想到哪聊到哪，聊到作品的内容可能会涉及剧透。 |
-| 2026-06-21 | [Pharaoh updated](https://macsourceports.com/game/pharaoh) | The build of Akhenaten for Pharaoh has been updated to version 0.27 of the project |
-| 2026-06-21 | [园区的猫](https://tianheg.co/posts/park-cat/) | 时常见到工业区里的一只猫 猫在园区里游荡 一会儿在宿舍楼下 一会儿在工厂楼下 四处游荡并不怕人 曾经她来到我五楼的家 对着我喵喵地叫 以为她饿给她火腿肠 不吃 只是在叫 语言不通真恼人 为何人和猫不能对话 为何人和人能对话 但好像隔了层磨砂玻璃 |
-| 2026-06-21 | [「安康警察」和「逆风警察」](https://blog.solazy.me/20260621/) | 今天碰巧看到好友的博客多年前的一篇文章，引发了我的共鸣 |
-| 2026-06-21 | [我做了一个免费的在线图片压缩工具——VeryPixel](https://veryjack.com/technique/verypixel/) | 平时写博客，我总需要先压缩配图、转换格式，然后再上传。网上的图片压缩工具虽然多，但用起来总不太顺手：有的需要下载客户端甚至收费，有的直接传到服务器存在隐私风险。我之前常用在线工具 Squoosh，压缩效果很不错，但它一次只能处理一张图片，如果一篇游记有几十张照片，逐一上传调整参数，实在太折磨人。 我… |
-| 2026-06-21 | [Vol.108 BestBlogs精选周刊百期特刊：六大主题回顾两年AI关键变化](https://liduos.com/weekly/the-weekly-gradient-108) | 本期内容为BestBlogs精选周刊第100期特刊，从6400多篇内容中精选100篇，按模型层、AI Coding、工程范式、Agent、产品与商业、领袖与思想六个主题回顾两年AI发展脉络，核心观点是答案变得便宜，提对问题、做对判断、为结果负责更重要。 |
-| 2026-06-21 | [西雅图 2 日自驾游 - 旅行随拍](https://blog.ensonyan.com/photographing/3446.html) | 在加拿大温哥华居住的这几年，我还从未向南边的西雅图进发过，只有数个在此匆匆转机的经历。趁着这周没有太多繁杂琐事 […] |
-| 2026-06-21 | [摘：波德莱尔《Enivrez-Vous/沉醉/Get Drunk》](https://z.arlmy.me/posts/Note/Note_CharlesBaudelaire_EnivrezVous/) | 「快去沉醉于诗，沉醉于美，沉醉于酒。。」 |
-| 2026-06-21 | [Toots 424 2026 Jun.14 - Jun.20](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260620/) | 「短檐侧自处，天际看鸿飞。」 |
-| 2026-06-21 | [哪吒监控安全事件 - 从中招到复盘](https://moreality.net/posts/62186/) | 近期哪吒监控安全事件提醒我们，带远程执行能力的监控面板一旦暴露公网，风险远不止信息泄露。 |
-| 2026-06-21 | [爹在父亲节突然降临](https://www.hecaitou.com/2026/06/dad-dropped-in-on-fathers-day.html) | 今天夏至，也是父亲节。一大早就有位爹降临我文章的留言区，劈头就问： 「不是不是。菜头你有没发现，是你还停留在十多年前靠粉丝带货的阶段？一个人可以不思进取躺在过去的成绩上吃一辈子吗？」 如果我现在三十岁左右，看到这句话之后估计从尾椎开始，顺着我的一整根人蝎子，自下而上，脊背皮肤上的汗毛会根根立起，然后… |
-| 2026-06-21 | [286、夏至](https://1900.live/286-xia-zhi/) | null 蝉声初沸，白昼始极，天地在极致与转折之间，悄悄按下了一个惊叹号。 太阳行至黄经90°，夏至——夏之第四序。 蝉鸣撕开长夏，声声如锯，把日子锯成最漫长的一截光；荷塘铺满绿盖，菡萏探出了第一支胭脂色的笔，蘸着正午的烈阳，准备写一封给远秋的信；而午后的雷雨，来得急去得也急，把天地洗成一面澄澈的镜… |
-| 2026-06-21 | [这一周莫比乌斯环转到了哪里？](https://mobius.blog/24674.html) | 大概还是需要一个“创刊号”，原因是我关闭了博客发布文章时的 Newsletter，但是我又真的很他妈讨厌“周报”这玩意儿，所以就折中一下。与其汇报这周做了什么、看了什么、想到了什么，不如聊聊这一周莫比乌斯环转到了哪里。 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或… |
 
 ## Vibe Coding
 

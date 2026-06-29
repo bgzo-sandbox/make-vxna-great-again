@@ -1,0 +1,198 @@
+[
+  {
+    "title": "AI Infra：解构 DSpark，Speculative Decoding 的三层逻辑",
+    "url": "https://luweiqing.com/gossip/DSpar-Speculative-Decoding.html",
+    "date": "2026-06-29T03:36:38Z",
+    "description": "DSpark 底层采用\"空间换时间\"的设计，通过预测、并行执行、验证、回滚四个步骤，将串行 Token 生成转换为块级并行执行；在预测和验证阶段，利用 KV Cache 对 Transforme...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "大脑充血 Vol.87",
+    "url": "https://www.geedea.pro/weekly/87/",
+    "date": "2026-06-29T01:44:41Z",
+    "description": "水分很多的一起周刊，读完三篇为数不多的文评之后你将发现，这个页面有一半都是我的碎碎念…… 嗯，我或许该思考要不要单独开一个日常系列了。 止语 Undertale Soundtrack 专辑 Toby Fox NeoDB 如果有人偷窥我的 last.fm 记录的话，就会发现我这几天老是在听《Spear of Justice》和《Death by Glamour》，因为不想听能跟唱的，还想要思考。 另外，游戏原声带貌似都很容易让人集中注意力呢。 连接 在时间中瘫痪 📜 Do you lose your whole day to one appointment? ‘Waiting mode’ may be why 不少神经特异者（尤其是 ADHD、读写困难和自闭症）感受时间的方式有所不同，如果有某件事情即将发生，他们可能会陷入「等待模式」——坐立难安，一直在脑中估算时间和预演可能发生的事情，什么也做不了。这种现象在临床上的名称是「时盲」（Time blindness）和「时间扩张」（Time Dilation）等等，不过指代的对象更广。 触发等待模式的时间不一定重要、令人压力山大，可能只是一",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "男性同样也遭受性别歧视？",
+    "url": "https://mobius.blog/24875.html",
+    "date": "2026-06-29T01:00:00Z",
+    "description": "接下来要聊的话题可能会很敏感，甚至会引起“对立”，但我需要先开宗明义强调——聊以男性作为主体视角的话题，并不是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "猫鱼周刊 vol. 099 第 100 期撒花！",
+    "url": "https://ameow.xyz/archives/weekly-099",
+    "date": "2026-06-28T12:38:42Z",
+    "description": "关于本刊 这是猫鱼周刊的第 100 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在 博客： 阿猫的博客-猫鱼周刊 RSS： 猫鱼周刊 邮件订阅： 猫鱼周刊 微信公众号： 猫兄的和谐号列车 私信： leslieleung@proton.me INIT Ta-da！这居然是猫鱼周刊的第 100 期了（本刊是从 vol. 000 开始的）， 简单庆祝一下。 STDIN 当 AI 拿走一切之后 原文链接 一篇很有深度的长文，我觉得我难以三言两句概括，说实话有些地方我也没有完全理解或者想通，建议大家读读原文。我谈谈我浅显的看法。 文章的主题是「当 AI 拿走一切之后」，其实简单地说就是「AI 有什么地方不能取代人」。其实这个问题我有一个脱口而出的答案：创作。我很早就说过，所有的大模型本质上都是照猫画虎，只是这几年的发展让它从一开始的有点四不像，到现在顶尖的模型比一般人都画得像。我发表一个暴论：大模型爆发这几年，感觉受影响最大的职业就是程序员，到处都在哀嚎裁员、前端已死、如何如何被取代，说明大部分人在「程序员」这个岗位上干的事情并非创作活动，就像我上期所说的，只是重复机械劳作罢了。",
+    "source_root_domain": "ameow.xyz"
+  },
+  {
+    "title": "旅行日记·葫芦岛-兴城",
+    "url": "https://moreality.net/posts/34210/",
+    "date": "2026-06-28T12:31:57Z",
+    "description": "冷冷清清的一座海滨县城",
+    "source_root_domain": "moreality.net"
+  },
+  {
+    "title": "领克900半年使用体验",
+    "url": "https://blog.keepchen.com/a/Half-Year-Experience-with-the-Lynk-&-Co-900.html",
+    "date": "2026-06-28T12:25:59Z",
+    "description": "从2026年1月4号提车到现在，已经有半年的时间了，和这台大玩具相处下来，对它的优缺点也逐渐有了清晰的认识。",
+    "source_root_domain": "keepchen.com"
+  },
+  {
+    "title": "CB500SF 夏日走过山间",
+    "url": "https://yovey.me/cb500sf-26-summer-moto-touring/",
+    "date": "2026-06-28T11:13:53Z",
+    "description": "端午摩旅，新车小短途，三天跑了600KM，跑完正好做首保。之前说过提车后每个周末跑个几十公里，意犹未尽，心心念 … Continue reading \"CB500SF 夏日走过山间\"",
+    "source_root_domain": "yovey.me"
+  },
+  {
+    "title": "Workspace：从文件仓库到Token提炼车间",
+    "url": "https://luweiqing.com/gossip/Workspace-to-token-factory.html",
+    "date": "2026-06-28T10:02:00Z",
+    "description": "Workspace里面存放着文档、代码、SQL、配置文件、日志和Git仓库。它的作用，是将这些文件组织起来，方便团队协作。对于Agent而言，Workspace不再只是一个文件系统，而是一个持续...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "云南系列｜Day 5、6 在沙溪古镇的两天",
+    "url": "https://blog.yasking.org/a/series-yunnan-travel-day5-6.html",
+    "date": "2026-06-28T09:48:53Z",
+    "description": "在沙溪住了两晚，本篇二合一记录在沙溪旅程。 我们在沙溪住的民宿，下雨时站在房檐下赏雨很有趣，雨从屋檐落下，拍打在 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "AirPods 一个月丢三次",
+    "url": "https://blog.solazy.me/20260628/",
+    "date": "2026-06-28T09:30:00Z",
+    "description": "很难相信这种事情接二连三发生在我身上",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "静待植物生长",
+    "url": "https://jubeny.com/2026/06/watch-the-plants-grow/",
+    "date": "2026-06-28T08:26:11Z",
+    "description": "第一天埋下种子，第二天就希望它发芽，这种不切实际的盼望，是否是每个初侍花草之人的必经之路呢？ 植物有自己的规律，即便每日殷勤探望，它也不会回应你的期待，只会在土里默默生根，等时间一到，自然会破土而出，冒出那代表着生命也不负你期望的绿芽。",
+    "source_root_domain": "jubeny.com"
+  },
+  {
+    "title": "Vol.109 慢下来才能更快：AI编程的下一个瓶颈是验证与审查",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-109",
+    "date": "2026-06-28T08:00:00Z",
+    "description": "本期内容聚焦AI编程提速后的真正瓶颈——验证、审查与判断，涵盖代码评审工程化、Agent协作、安全攻防、评估与知识底座、底层基建及产品哲学。",
+    "source_root_domain": "liduos.com"
+  },
+  {
+    "title": "Pensieve: 2606",
+    "url": "https://xiaket.github.io/2026/pensieve-2606.html",
+    "date": "2026-06-28T06:38:00Z",
+    "description": "所读所观所玩",
+    "source_root_domain": "xiaket.org"
+  },
+  {
+    "title": "怎样让 AI 指导维修设备",
+    "url": "https://www.hecaitou.com/2026/06/how-to-have-ai-guide-your-device-repairs.html",
+    "date": "2026-06-28T05:17:56Z",
+    "description": "应读者的要求，今天我想分享一下我让 AI 帮助我维修电子产品的个人经验。 其实这是一个很古老的话题了，关于如何提问这件事之前我应该写过文章。AI 只是一个新工具，新对象而已，这跟你向一位医生、一位老师、一位工程师求教没有任何不同，所需要的技巧、规则也没有任何不同。唯一的差异大概是 AI 比人类要耐心得多，而我却不知道这是福是祸。 当时我遇见的情况是 CD 随身听坏了。前一天都还在正常使用，第二天就无法开机，没有任何通电的迹象。于是，我就去问 AI：我的 CD 机坏了，你告诉我怎么修--- 这不可能是我会说的话，多年前在 BBS，在工作场所，我早就反复经历过多次训练，不可以这样提问。因为这种提问方式里信息量几乎为零，对方根本无法凭借这点信息去做任何判断。按照今天的话来讲，这叫做「索取情绪价值」，我们古人一般说「撒娇」。 事实上，我对 AI 说了一整段话： 我的 索尼 D-NE800 便携式 CD 播放器现在无法通电。这是一台日本原产 CD 机，我使用两节口香糖电池供电。昨天工作一切正常，但是今天无法开机，屏幕不亮，按键无任何反应，一直处于不通电状态。我把电池换到其它 CD 机上，工作正常",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "中国必须停止歧视汉人",
+    "url": "https://sinyalee.com/blog/?p=1191",
+    "date": "2026-06-28T04:39:27Z",
+    "description": "本人李新野，34岁，汉人，美国公民。在这里实名要求中国立刻停止所有对汉人的歧视政策。 – 汉人在中 […]",
+    "source_root_domain": "sinyalee.com"
+  },
+  {
+    "title": "普通",
+    "url": "https://z.arlmy.me/posts/Poems/2026/20260621_PuTong/",
+    "date": "2026-06-28T03:49:27Z",
+    "description": "「普通。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "最近惦念 20260615",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260615_Recently/",
+    "date": "2026-06-28T02:39:27Z",
+    "description": "「Always be drunk.」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Toots 425 2026 Jun.21 - Jun.27",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260627/",
+    "date": "2026-06-28T02:34:27Z",
+    "description": "「记，是浪费和耗散的证明，高光，是身体的记和体验。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "这一周莫比乌斯环转到了哪里？",
+    "url": "https://mobius.blog/24853.html",
+    "date": "2026-06-28T01:00:00Z",
+    "description": "—— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "为什么我只跟练帕梅拉？",
+    "url": "https://www.geedea.pro/article/pamela-reif/",
+    "date": "2026-06-27T15:24:07Z",
+    "description": "我的健身理念是，应当全面发展身体机能，而我主要关注四个方面：心肺能力、核心稳定性、肌肉力量和柔韧性。它们分别对应四种训练：有氧运动、核心训练、力量训练和拉伸。对我来说，唯一需要视频跟练的只有有氧运动，因为核心训练、力量训练以及拉伸，都有固定的几种体式，比方说平板支撑和 折刀式 可以锻炼核心；力量训练则要根据肌群确定具体动作；拉伸也一样，如果不追求高级体式，拉伸的步骤和动作其实可以确定下来，很少变更。 有氧训练不同，至少对我而言，有氧应该是大口呼吸、畅快流汗的运动。做有氧时，我只想要关注呼吸节奏和保持心率，不想要思考太多，能跟着练最好。有氧训练也是我发泄情绪的方式之一，因为其他三种训练都在某种程度上让我痛苦。事实就是，肌肉发力很痛，力竭时很痛，第二天起床也会酸痛；核心稳定性也涉及到对核心肌群的调动，腰腹时常有撕裂的痛觉；拉伸要好一些，但要尽力把头放在膝盖上（甚至膝盖里面或者膝盖后面），把脚掰到脑袋后面，并不是什么舒适的体验。这三种锻炼固然能很好的锻炼必要的身体机能，我不希望我老了之后搬不动东西、走不动路，不希望捡个东西就闪到腰，不希望我像某些笨重的肌肉男一样不能在手碰到脚底时不弯曲膝盖，",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "别把道德当武器",
+    "url": "https://blog.solazy.me/20260627/",
+    "date": "2026-06-27T15:00:00Z",
+    "description": "今天随便聊聊，不想写流水账了",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "我花 25 块钱，把 10 年前的矿机买回来了：重走 BTC 之路",
+    "url": "https://blog.renfei.net/posts/1626402130325676141",
+    "date": "2026-06-27T14:54:32Z",
+    "description": "花 25 元买回十年前的蚂蚁矿机 U3，实测 CPU、RTX 2080 Ti、Bitaxe Gamma 601 参与 BTCC SHA-256 挖矿，并对比 PPLNS、SOLO 与 AIRDROP 矿池玩法。",
+    "source_root_domain": "renfei.net"
+  },
+  {
+    "title": "新商标法将于2027年正式施行，那些商标代理商可能要慌了",
+    "url": "https://www.iyeslogo.com/shangbiaofa-2027/",
+    "date": "2026-06-27T10:45:46Z",
+    "description": "商标法完成第五次修订",
+    "source_root_domain": "iyeslogo.com"
+  },
+  {
+    "title": "AI Infra：企业 Token 精炼厂是企业 AI 落地的下一阶段",
+    "url": "https://luweiqing.com/gossip/AI-Infra-Token-AI.html",
+    "date": "2026-06-27T08:55:42Z",
+    "description": "从模型军备竞赛到业务语义战争过去两年，企业AI的讨论始终围绕三个关键词展开：更大的模型、更便宜的推理、更长的Context。这三个方向本质上都是在优化「大模型处理通用信息的能力」，而当GPU算力...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "Je déteste la vi(ll)e",
+    "url": "https://www.geedea.pro/article/je-deteste-la-ville/",
+    "date": "2026-06-27T08:40:03Z",
+    "description": "读加缪的戏剧《误会》时，我竟与一位反派共鸣甚深。女子玛尔塔与母亲经营一家旅店，因位置偏僻，生意不好，她们常干杀人的行当，在夜里把房客迷晕，偷走行李，再把人扔进河里，与其他落水鬼同眠。她们这样安慰自己：生活待他们更差，和生活一对比，我们干的事情就没那么罪恶了。 玛尔塔痛恨这个小镇，那里离海很远，照不到阳光，一切都是灰暗无聊的。她要和母亲再干一笔，拿到足够的钱去海边开启新生活。不巧的是，她们的最后一次犯罪，受害者是她失散多年的哥哥若望，连母亲也没能和儿子相认。若望的妻子玛丽亚前往寻找丈夫，得知噩耗后，幸福地生活在海边的女人和梦想着逃离灰暗小镇的女人发疯地争执，只不过是两种完全不同的疯狂。她们无法相互理解，玛丽亚沉浸在失去丈夫的痛苦中，玛尔塔的母亲，也因为错手杀了儿子投河自尽。 母亲前往河边时，玛尔塔站在窗口歇斯底里地喊叫： 不！我并没有守护哥哥的责任，可是现在，我却被流放在自己的家园，连母亲也把我抛弃了。然而，我并没有守护哥哥的责任，这是欺辱无辜，这是不公道的。现在，他终于得到了他想要的东西 1 ，而我却孤苦伶仃，同我渴望的大海天各一方。噢！我恨他。我终生等待会把我载走的波涛，现在知道它不",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "手段刚好是考试而已",
+    "url": "https://www.hecaitou.com/2026/06/an-exam-is-merely-the-means.html",
+    "date": "2026-06-27T04:48:08Z",
+    "description": "每年我写的文章都会被老师拿去做成阅读理解题，每年也都会有小同学跑到我这里抱怨，因此我每年都要向小同学道歉。 有人猜测我心中暗喜，不过是表面上装作歉意的样子，是一种不大高明的凡尔赛演出，其实脚上木屐的齿都因为心花怒放而不留神折断了。爱怎么想就怎么想吧，自己高兴就行。 不过对于语文考试或者说阅读理解，我这里还是想谈一点个人看法。 对语文考试的诟病很多，对阅读理解有标准答案这件事诟病更多。我当年也一点都不喜欢，觉得这种考试，这种标准答案毫无任何意义。不过，现在的我释然了，因为上学这种事需要一种手段来检查成果，这种手段刚好是考试而已。 我原先的想法问题出在哪里呢？现在我认为答案是我把文学审美和考试需求混淆在了一起。从文学审美的角度来说，背诵默写这种事情毫无意义，一篇文章有阅读理解的标准答案更是匪夷所思，简直是斯文扫地。但文学审美是私事，是家里的事，是和朋友饭桌上的事。但考试不是如此，考试需要的根本不理会审美，只考虑用难度拉开分值，用来区分学生的水平。 可以这么说，一个人的文学审美是终身之事，考试和考试所需的一切只是暂时的要求，很快就会从生命中消失。两者的关联很少，最基础的关联是因为要考试，迫使",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "您受累，搞个大新闻儿！",
+    "url": "https://mobius.blog/24866.html",
+    "date": "2026-06-27T01:00:00Z",
+    "description": "最近很多自媒体都在讨论“韩红塌房”的新闻。简中媒体比较有趣的是，大家都知道是什么原因，但大家因为内容敏感而不能 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Python 潮流周刊#156：Pydantic 接管 httpx 始末",
+    "url": "https://pythoncat.top/posts/2026-06-27-weekly/",
+    "date": "2026-06-27T00:00:00Z",
+    "description": "分享了 12 篇文章，12 个开源项目",
+    "source_root_domain": "pythoncat.top"
+  }
+]
