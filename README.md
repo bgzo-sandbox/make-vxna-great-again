@@ -36,6 +36,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-30 | [男性有资格认为自己被“歧视”了吗？](https://mobius.blog/24881.html) | 对男性造成“伤害”的歧视有哪些？ 在开始今天的话题之前，昨天留下了一个关于“歧视”更侧重行为的定义：因歧视在行 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-29 | [不懂代码的独立开发者，如何去指挥 AI 干活？](https://diff.im/blog/2026/06/%E4%B8%8D%E6%87%82%E4%BB%A3%E7%A0%81%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%A6%82%E4%BD%95%E5%8E%BB%E6%8C%87%E6%8C%A5-ai-%E5%B9%B2%E6%B4%BB/) | 作为不懂开发、不懂代码的独立开发者，在和 AI 沟通时，我个人有这么几个技巧可以分享。 如果你之前做过老板或管理者，带过业务团队，那么过往的背景会对你和 AI 的沟通很有帮助。因为很多时候老板、管理者或业务负责人并不懂技术，那要如何与技术人员沟通呢？ 核心就在于： 你要传达清晰的意图，了解实施的过程… |
 | 2026-06-29 | [舟山朱家尖亲子自驾4天3晚](https://victor42.eth.limo/post/trip-to-zhoushan/) | 照片相册： 查看本篇相册 赶在暑假来临前，带家人去舟山玩海吃海。收起我的研究天性，只感受，只欣赏，不动脑，纯玩。 第1天中午才出发，白天基本都在路上。晚上在酒店旁吃了第一顿海鲜。 第2天：南沙海滩 随车带齐了玩沙、游泳装备，开车直奔朱家尖南端，南沙海滩。 浙江大陆沿岸完全没有蓝色的海，都是这样，充斥… |
+| 2026-06-29 | [天宝寺遗址：从那条路去，过这座桥来](https://macin.org/2026/06/29/fu-ling-tian-bao-si/) | 从重庆主城出发，单程七十公里能到遗址。 <img src="https://macinorg-blog.oss-cn-chengdu.aliyuncs.com/blog/ShirleyIP16_61982.JPG?x-oss-process=style/wec |
 | 2026-06-29 | [PCE 游戏：双截龙二代（Double Dragon 2）重制版](https://springwood.me/pce-double-dragon-2/) | （摘要）PCE介于8位机和16位机之间。PCE版双截龙二代以大家最熟悉的FC版为基础重制，过场动画带有真人配音。 |
 | 2026-06-29 | [R#108 继续系统化](https://blog.sakanano.moe/journals/random_108) | 2026.6.23 ~ 2026.6.29 |
 | 2026-06-29 | [AirPods 追回记](https://blog.solazy.me/20260629/) | 书接上回，今天主要是 AirPods 巡回记 |
