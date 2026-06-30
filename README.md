@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-30 | [Tracker 停服三个月，收到 MarkScan 的 DMCA 邮件](https://www.ghostchu.com/tracker-%e5%81%9c%e6%9c%8d%e4%b8%89%e4%b8%aa%e6%9c%88%ef%bc%8c%e6%94%b6%e5%88%b0-markscan-%e7%9a%84-dmca-%e9%82%ae%e4%bb%b6/) | 任何 Tracker 维护者应该都听说过 MarkScan 的臭名： 简单来说，这是一家位于印度的公司，从大的 […] Tracker 停服三个月，收到 MarkScan 的 DMCA 邮件 最先出现在 Ghost_chu's Blog 。 |
+| 2026-06-30 | [创业这件小事儿](https://www.iyeslogo.com/hahahahaha/) | 创业早期需要摒弃浪漫幻想，学会'笨'方法 |
 | 2026-06-30 | [走捷径成瘾](https://www.hecaitou.com/2026/06/Hooked-on-Shortcuts.html) | 有个陌生网友找到我：菜头，有没有发现最近用 AI 写的文章流量越来越差，我这里有个一键转成人工文顺利过审的 AI，你要不要试一下？ 我不要。 这几年为了保住我的功德池水位，我很少公开做出任何批评，但是看完这条消息之后，我决定今天就是我的偶尔奔放日： 写字这点屁事，我是真不理解哪里玩出来的那么多花样。… |
 | 2026-06-30 | [Dario Amodei：AI 开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html) | 下面是 Anthropic 公司创始人 Dario Amodei 的 言论 。 大家看看，是否认同他的说法，还是觉得这是混淆视听，胡说八道。 他说，AI 模型就算公开，你也看不到它的内部运作，所以业界不把它叫做"开源"（open source），而叫做"开放权重"（open weights）。 传统… |
 | 2026-06-30 | [AI Infra：市场缺少 Token 运维服务（Token Runtime Platform）](https://luweiqing.com/gossip/AI-Infra-Token-Token-Runtime-Platform.html) | Token Runtime Platform 将像云时代的 CMP+APM+FinOps 一样，成为 AI Native 企业的软件新基础设施，只是管理对象从计算资源变为 Token Runti... |
