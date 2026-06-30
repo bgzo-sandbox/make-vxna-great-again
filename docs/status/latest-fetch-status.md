@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-06-29T23:02:50Z
-modified: 2026-06-29T23:02:50Z
+created: 2026-06-30T03:33:33Z
+modified: 2026-06-30T03:33:33Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,11 +11,11 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-06-29T23:02:50Z
+Generated at: 2026-06-30T03:33:33Z
 
 Total sources: 484
-Successful: 367
-Failed: 117
+Successful: 366
+Failed: 118
 
 | Status | Source | Feed | Origin | Articles | Error |
 | --- | --- | --- | --- | ---: | --- |
@@ -99,6 +99,7 @@ Failed: 117
 | Failed | [#421] V2EX › Data Honor | [https://datahonor.com/feed_rss_created](https://datahonor.com/feed_rss_created) | [Origin](https://www.v2ex.com/xna/s/421) | 0 | Client error '404 Not Found' for url 'https://mathewshen.me/legacyblog/feed_rss_created' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#423] V2EX › 谢乾坤 | [https://kingname.info/atom.xml](https://kingname.info/atom.xml) | [Origin](https://www.v2ex.com/xna/s/423) | 0 | Client error '429 Too Many Requests' for url 'https://kingname.info/atom.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 |
 | Failed | [#424] V2EX › 缘生笔记 | [https://ysicing.me/feed/rss](https://ysicing.me/feed/rss) | [Origin](https://www.v2ex.com/xna/s/424) | 0 | Client error '403 Forbidden' for url 'https://ysicing.me/feed/rss' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
+| Failed | [#427] V2EX › 雾语 | [https://foglog.cn/feed/](https://foglog.cn/feed/) | [Origin](https://www.v2ex.com/xna/s/427) | 0 | The read operation timed out |
 | Failed | [#433] V2EX › 猫猫博客 | [https://catcat.blog/feed](https://catcat.blog/feed) | [Origin](https://www.v2ex.com/xna/s/433) | 0 | Client error '403 Forbidden' for url 'https://catcat.blog/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#434] V2EX › 枫林灯语 | [https://blog.mfwt.top/index.php/feed/](https://blog.mfwt.top/index.php/feed/) | [Origin](https://www.v2ex.com/xna/s/434) | 0 | Client error '403 Forbidden' for url 'https://blog.mfwt.top/index.php/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#436] V2EX › Design Scenes | [https://fenx.work/rss/](https://fenx.work/rss/) | [Origin](https://www.v2ex.com/xna/s/436) | 0 | Client error '403 Forbidden' for url 'https://fenx.work/rss/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
@@ -370,7 +371,6 @@ Failed: 117
 | Success | [#422] V2EX › Xavier | [https://predicate.pro/rss.xml](https://predicate.pro/rss.xml) | [Origin](https://www.v2ex.com/xna/s/422) | 95 | - |
 | Success | [#425] V2EX › 逍遥客 | [https://11010.net/index.xml](https://11010.net/index.xml) | [Origin](https://www.v2ex.com/xna/s/425) | 79 | - |
 | Success | [#426] V2EX › Jet's Notes | [https://jetyu.me/atom.xml](https://jetyu.me/atom.xml) | [Origin](https://www.v2ex.com/xna/s/426) | 20 | - |
-| Success | [#427] V2EX › 雾语 | [https://foglog.cn/feed/](https://foglog.cn/feed/) | [Origin](https://www.v2ex.com/xna/s/427) | 9 | - |
 | Success | [#428] V2EX › 逻辑拾光 | [https://fuguebit.com/index.xml](https://fuguebit.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/428) | 10 | - |
 | Success | [#429] V2EX › 慢读时光 | [https://wujie.me/feed/](https://wujie.me/feed/) | [Origin](https://www.v2ex.com/xna/s/429) | 10 | - |
 | Success | [#42] V2EX › Meekdai | [https://blog.meekdai.com/rss.xml](https://blog.meekdai.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/42) | 62 | - |
@@ -452,7 +452,7 @@ Failed: 117
 | Success | [#526] V2EX › 余弦の博客 | [https://ysx.cosine.ren/atom.xml](https://ysx.cosine.ren/atom.xml) | [Origin](https://www.v2ex.com/xna/s/526) | 20 | - |
 | Success | [#527] V2EX › 一只会飞的旺旺 | [https://www.wangwangit.com/atom.xml](https://www.wangwangit.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/527) | 20 | - |
 | Success | [#529] V2EX › Taober | [https://www.taober.blog/feed.xml](https://www.taober.blog/feed.xml) | [Origin](https://www.v2ex.com/xna/s/529) | 43 | - |
-| Success | [#52] V2EX › 沉舟侧畔 | [https://springwood.me/feed/](https://springwood.me/feed/) | [Origin](https://www.v2ex.com/xna/s/52) | 5 | - |
+| Success | [#52] V2EX › 沉舟侧畔 | [https://springwood.me/feed/](https://springwood.me/feed/) | [Origin](https://www.v2ex.com/xna/s/52) | 7 | - |
 | Success | [#530] V2EX › Rocx | [https://www.qtter.com/rss.xml](https://www.qtter.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/530) | 20 | - |
 | Success | [#531] V2EX › Leo 的技术日志 | [https://jksoftcn.com/index.xml](https://jksoftcn.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/531) | 12 | - |
 | Success | [#532] V2EX › Korbin's Blog | [https://www.vhcffh.com/rss.xml](https://www.vhcffh.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/532) | 153 | - |

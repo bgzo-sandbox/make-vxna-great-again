@@ -27,8 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-06-30 | [AI Infra：市场缺少 Token 运维服务（Token Runtime Platform）](https://luweiqing.com/gossip/AI-Infra-Token-Token-Runtime-Platform.html) | Token Runtime Platform 将像云时代的 CMP+APM+FinOps 一样，成为 AI Native 企业的软件新基础设施，只是管理对象从计算资源变为 Token Runti... |
+| 2026-06-30 | [男性有资格认为自己被“歧视”了吗？](https://mobius.blog/24881.html) | 对男性造成“伤害”的歧视有哪些？ 在开始今天的话题之前，昨天留下了一个关于“歧视”更侧重行为的定义：因歧视在行 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-29 | [不懂代码的独立开发者，如何去指挥 AI 干活？](https://diff.im/blog/2026/06/%E4%B8%8D%E6%87%82%E4%BB%A3%E7%A0%81%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%A6%82%E4%BD%95%E5%8E%BB%E6%8C%87%E6%8C%A5-ai-%E5%B9%B2%E6%B4%BB/) | 作为不懂开发、不懂代码的独立开发者，在和 AI 沟通时，我个人有这么几个技巧可以分享。 如果你之前做过老板或管理者，带过业务团队，那么过往的背景会对你和 AI 的沟通很有帮助。因为很多时候老板、管理者或业务负责人并不懂技术，那要如何与技术人员沟通呢？ 核心就在于： 你要传达清晰的意图，了解实施的过程… |
 | 2026-06-29 | [舟山朱家尖亲子自驾4天3晚](https://victor42.eth.limo/post/trip-to-zhoushan/) | 照片相册： 查看本篇相册 赶在暑假来临前，带家人去舟山玩海吃海。收起我的研究天性，只感受，只欣赏，不动脑，纯玩。 第1天中午才出发，白天基本都在路上。晚上在酒店旁吃了第一顿海鲜。 第2天：南沙海滩 随车带齐了玩沙、游泳装备，开车直奔朱家尖南端，南沙海滩。 浙江大陆沿岸完全没有蓝色的海，都是这样，充斥… |
+| 2026-06-29 | [PCE 游戏：双截龙二代（Double Dragon 2）重制版](https://springwood.me/pce-double-dragon-2/) | （摘要）PCE介于8位机和16位机之间。PCE版双截龙二代以大家最熟悉的FC版为基础重制，过场动画带有真人配音。 |
+| 2026-06-29 | [R#108 继续系统化](https://blog.sakanano.moe/journals/random_108) | 2026.6.23 ~ 2026.6.29 |
 | 2026-06-29 | [AirPods 追回记](https://blog.solazy.me/20260629/) | 书接上回，今天主要是 AirPods 巡回记 |
 | 2026-06-29 | [生活来在一个包里](https://www.kawabangga.com/posts/7314) | 时间过得真快，Rick and Morty 已经播出 13 年了。 在试播集的时候，Rick 说的这句话——「 […] Continue reading... |
 | 2026-06-29 | [重启定投恒科](https://hux.ink/posts/013171/) | 恒生互联网科技指数今年累计下跌 30%，我原先持有该指数的 ETF，在 5 月 15 日的时候实在跌得受不了了，选择了清仓卖出。 没想到在清仓过后的一个半月时间里，竟然又跌了 18%。 果真强者恒强，弱者恒科。 已经跌了这么多，恒科现在要底部反转了吗？当然不是，从 K 线图来看，仍旧标准的下跌趋势，… |
@@ -117,26 +121,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-23 | [登别之夜](https://elmtran.com/essays/the-onsen-night/) | 远离城市的一个夜晚 |
 | 2026-06-23 | [Movie Night in New York &#124; 纽约夜场电影](https://cheng.st/2026/06/23/2026-06-23/) | It was such a good way to reconnect with an old Seattle-era friend in New York: watching Crazy Thunder Road with a few "strangers," in a setting where… |
 | 2026-06-23 | [Memos #2026-06-22](https://www.taober.blog/memos) | 02:10 最近熬夜追比赛破坏了我的生物钟，却也见证了这令人动容的时刻。 祝大家梦想成真！ |
-| 2026-06-22 | [尖塔之外的教堂](https://anotherdayu.com/beyond-the-spire/) | 尖塔、穹顶、彩窗、雕塑是许多名胜教堂的标志性符号。它们确实令人震撼和赞叹，但让我印象最深刻的却是这两个。 一座是 Bath Bradford-on-Avon 的 Saxon Church of St Laurence，另一座是 Bristol 的 Clifton Cathedral。 Bradfor… |
-| 2026-06-22 | [茶店老街，也快没有住户了...](https://macin.org/2026/06/22/cha-dian-lao-jie/) | 去大安的这天正好是生日，出发前先去开了一个会，到大安的时候快晌午了。 豆花饭端上来，豆花是那种嫩得站不住的，在辣椒碟子里蘸一下，放进嘴里，烫，但没有停下来的意思。旁边几桌坐着几个本地人，吃饭摆龙门阵，电视开着也没人看。吃完问老板娘老街怎么走。她用下巴朝外努了努 |
-| 2026-06-22 | [夸孩子，别急着说他聪明](https://diff.im/blog/2026/06/%E5%A4%B8%E5%AD%A9%E5%AD%90%E5%88%AB%E6%80%A5%E7%9D%80%E8%AF%B4%E4%BB%96%E8%81%AA%E6%98%8E/) | 和很多华人父母一样，我其实不是一个很习惯夸孩子的人。 很多时候，我更习惯指出问题，提醒孩子哪里做得还不够好。好像这样才是在帮助她进步。可是我也发现， 即使到了我愿意夸孩子的时候，我也很容易用错方式。 比如，孩子考得不错，我可能会说：“宝贝，你太聪明了。” 孩子画了一幅画，我可能会说：“你好厉害，你真… |
-| 2026-06-22 | [知识花园：构建你的第二大脑](https://blog.zopiya.com/knowledge-garden-book-68f62572/) | 我之前提到过自己写了一本书，这次就来聊聊它。这是一本知识管理主题的工具书，是我把这些年积累的经验一点点整理、总结、打磨出来的一套思想和方法论。 |
-| 2026-06-22 | [R#107 短暂一游](https://blog.sakanano.moe/journals/random_107) | 2026.6.16 ~ 2026.6.22 |
-| 2026-06-22 | [反诈骚扰](https://blog.solazy.me/20260622/) | 最近经常接到 96110 的来电 |
-| 2026-06-22 | [渣打银行内地见证开户攻略](https://blog.debuginn.com/p/bank-sc/) | 大家好呀，我是 Meng小羽。 之前写过一篇《 港卡开卡指南 》，主要是分享我亲自去香港办卡的过程。后来又写了《 蚂蚁银行（澳门）开户指南 》，给大家补了一个澳门数字银行的选择。 文章发出去之后，后台陆续有朋友问我： 有没有一种方式，不用专门跑香港或者澳门，也能开一个相对正规的境外银行账户？ 还真有… |
-| 2026-06-22 | [20260622的胡言乱语](https://www.bboy.app/2026/06/22/20260622%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
-| 2026-06-22 | [Random Thoughts - 20260622](https://www.bboy.app/2026/06/22/random-thoughts-20260622/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
-| 2026-06-22 | [微信小程序境外支付](https://blog.196000.xyz/2025/2025-06-29-develop-weixin-miniprogram-pay.html) | ```php class WechatPayV3 { // 支付 public static function pay($body, $sn, $money, $openid, $notify_url) { $mchid = ‘你的商户号’; |
-| 2026-06-22 | [AI 存储的真正机会在推理，但训练远未到天花板](https://luweiqing.com/gossip/The-real-opportunity-for-AI-lies-in-inference-but-training-is-far-from-reaching-its-ceiling.html) | 在投资视角下，仅关注存储总容量的增长远远不够。决定企业价值的核心，是存储被用于何处。下表清晰对比了各存储层级在容量与市场价值上的错配。层级存储容量占比市场价值占比增长驱动力训练存储高中模型训练与... |
-| 2026-06-22 | [emacs-将org-table导出到buffer](https://blog.prayhand13013.top/20260622T151205--emacs-将org-table导出到buffer__blog.html) |  |
-| 2026-06-22 | [临时解决 Codex Trace 日志导致大量磁盘写入的问题](https://blog.zebedy.com/post/8a41f688.html) | 早在 2026 年 4 月 OpenAI Codex 仓库中出现了一个值得关注的 issue: #17320 问题很具体: Codex IDE 在 app-server 中会持续向本地 SQLite 日志文件 ~/.codex/logs_2.sqlite-wal 写入大量数据。 并且从后续的 iss… |
-| 2026-06-22 | [富途、老虎之后，大陆用户还能怎么买美股：我会试试 Bitget 美股代币](https://blog.forecho.com/buy-us-stocks-with-usdt-bitget-stock-tokens.html) | 引言 最近总有人问我同一个问题：富途、老虎之后，大陆身份还能怎么买美股？ 传统券商这条路没断，但门槛肉眼可见地变高。要海外地址证明，要银行卡跨境入金，到账等一两个工作日，还要扛汇兑损耗。我自己开美国期货账户的时候，光一个「补地址证明」就卡了很久。 所以我开始看另一条路：用 USDT 直接买美股代币。… |
-| 2026-06-22 | [究竟什么时候高兴才合适](https://www.hecaitou.com/2026/06/the-right-time-to-be-happy.html) | 我说这个夏天是自我北漂十多年以来最舒服的一个，就有一堆读者跑来纠正我，说是其实还没有到热的时候。有一位最特别的，告诉我说：别高兴太早。 在网上，人和人之间的沟通就有那么难。 作为前气象预报专业毕业生，前民航持证中级气象预报工程师，我实在不明白这种问题为什么会有争议。北京每年 6 月份的气温统计数据是… |
-| 2026-06-22 | [大脑充血 Vol.86](https://www.geedea.pro/weekly/86/) | 各位早上好，这里是终于上完这辈子所有的课不必再听老登吹牛的 Eltrac，端午假期好好地在家躺了三天（指背靠在人体工学椅上没日没夜地玩《饥荒》），现在一不小心又把节律打乱，正在让大脑强制开机。当然，另一个好消息是，现在可以（暂时）全心全意地关注自己，然后准备继续投简历和面试了。 止语 Il aura… |
-| 2026-06-22 | [把手机图标改成黑白真的能避免手机成瘾吗？](https://mobius.blog/24700.html) | 前几天把手机的图标改成黑白风格之后，我好像突然对手机出现了“延迟感”，不仅仅是突然找不到自己想用的软件在哪里， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-22 | [iPhone ICCID Carrier Unlock: Activation Ticket Backup and Restore](https://blog.qzydustin.com/posts/iphone-iccid-carrier-unlock-activation-ticket-backup-and-restore/) | ICCID activation was once a popular way to work around carrier locks on iPhones. If a previously activated device is jailbreakable, its activation tic… |
-| 2026-06-22 | [2026年第24、25周](https://blog.sakoamc.com/posts/262425/) | 题记：二零二六年的第二十四、五周，如无必要，勿增；如有必要，则删。 |
-| 2026-06-22 | [边想边聊 Vol.5](https://bluepika.life/blog/thinking-out-loud-5) | 纯主观，想到哪聊到哪，聊到作品的内容可能会涉及剧透。 |
 
 ## Vibe Coding
 
