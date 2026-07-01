@@ -27,8 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-01 | [配料表干净](https://kaix.in/2026/0701/) | 我讨厌「配料表干净」这个新近流行起来的说法。人们发现什么「好用」就一定要把它用到烂似的，发现这个宣传点好用，任何商品就都一下子变成了配料表干净了。不管真假、不管产品特性，一律配料表干净。只有浓缩苹果汁的苹果汁到底叫不叫配料表干净呢？再配合上其它伎俩比如名字叫 NFC 而不是真的 NFC，不但配料表不… |
+| 2026-07-01 | [为什么说 Anthropic 是邪恶的？](https://1q43.blog/post/12498/) | 偏见与歧视是有区别的，Anthropic 是后者。 |
+| 2026-07-01 | [资产一个亿以下，不要娶高学历国女](https://sinyalee.com/blog/?p=1211) | 很多兄弟们，一直对这一代中国女人还有幻想。他们发明了所谓“傅首尔”面相，幻想那些长相好、学历好、或者家境好的国 […] |
+| 2026-07-01 | [一些闲话](https://www.hecaitou.com/2026/07/Some-Casual-Chats.html) | 以下的文字发在我的公众号每月总结里，这里单独抽取出来，做个备份存档： 6 月最受欢迎的文章是《 过度投入 》，算是讨论当时的热点事件---长文《置身钉内》。不过写法和网络上的时评文字还是有点不同，就事论事，让网友通过文章找到一个情绪宣泄出口这种事情，我很早就不做了。当然，写这样的文章会很热闹，有利于… |
+| 2026-07-01 | [Heroes of Might and Magic II updated](https://macsourceports.com/game/homm2) | The build of fheroes2 for Heroes of Might and Magic II has been updated to version 1.1.17 of the project |
+| 2026-07-01 | [东京之旅 Part 2](https://blog.thetbw.xyz/archives/tokyo-travel-part-2) | 接上文 这两天会有台风，所以天气一直不好，在来日本之前，还买了一个偶像演出的票，因为天气原因取消了，没办法，我看天气预报东京这一周都有雨，其实也没下几天。 Day 3 今天去看了东京天空树，因为天气的原因，能见度其实很差，本来想着晚上的夜景，灯光可以稍微穿透点雾气，结果我是只带了充电宝，没有带手机，… |
 | 2026-07-01 | [男性正在遭遇的“系统性”歧视](https://mobius.blog/24886.html) | 昨天在提到的女性遭遇的系统性歧视，是因为制度 + 权力 + 历史结构共同塑造的。例如女性在实际的教育机会、职业 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-01 | [Memos #2026-06-30](https://www.taober.blog/memos) | 11:12 还是要保留随手记/拍的好习惯，这些都是回忆的宝贵资产，那些看起来潦草的，过时的也要比没有强。 17:26 买个零食回来天塌了 |
+| 2026-06-30 | [AirPods 找回合影](https://blog.solazy.me/20260630/) | 今天报个喜 |
 | 2026-06-30 | [Tracker 停服三个月，收到 MarkScan 的 DMCA 邮件](https://www.ghostchu.com/tracker-%e5%81%9c%e6%9c%8d%e4%b8%89%e4%b8%aa%e6%9c%88%ef%bc%8c%e6%94%b6%e5%88%b0-markscan-%e7%9a%84-dmca-%e9%82%ae%e4%bb%b6/) | 任何 Tracker 维护者应该都听说过 MarkScan 的臭名： 简单来说，这是一家位于印度的公司，从大的 […] Tracker 停服三个月，收到 MarkScan 的 DMCA 邮件 最先出现在 Ghost_chu's Blog 。 |
 | 2026-06-30 | [创业这件小事儿](https://www.iyeslogo.com/hahahahaha/) | 创业早期需要摒弃浪漫幻想，学会'笨'方法 |
 | 2026-06-30 | [走捷径成瘾](https://www.hecaitou.com/2026/06/Hooked-on-Shortcuts.html) | 有个陌生网友找到我：菜头，有没有发现最近用 AI 写的文章流量越来越差，我这里有个一键转成人工文顺利过审的 AI，你要不要试一下？ 我不要。 这几年为了保住我的功德池水位，我很少公开做出任何批评，但是看完这条消息之后，我决定今天就是我的偶尔奔放日： 写字这点屁事，我是真不理解哪里玩出来的那么多花样。… |
