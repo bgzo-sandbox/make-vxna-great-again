@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-01 | [How I drove a rental Mazda across America in 59 hours](https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/) | 在夏威夷的时候写了个稿子，回来之后录了些 talking head，林林总总剪了一个视频，算是对 cannonball 的一个总结？也算是一个月 |
 | 2026-07-01 | [阅读阿伦特如何帮我理解后室和架空文学](https://www.geedea.pro/article/all-human-condition/) | 笔者《人的境况》阅读进度只有四分之一，但是已经有好几篇文章反复提及阿伦特了。本文依旧借用（甚至算是挪用）阿伦特的哲学概念讨论和解构我关心的文化现象，如你所见，今天的对象是网络怪谈《后室》（The Backrooms）。 本文是我头脑风暴的产物，像是我大脑的呕吐物，有些哲学思考但不多，不建议严肃阅读。… |
 | 2026-07-01 | [对平台存在敬畏](https://www.ixiqin.com/2026/07/01/respect-for-the-platform/) | 我曾经一度对于「平台产品经理」是没感觉的。毕竟大家都是产品经理，做平台有什么了不起的？大家干的不都是产品经理的活么？你有什么差异。 但，后面，发生了一件事，让我记忆犹新，从而对于「平台产品经理 … |
 | 2026-07-01 | [免费制作属于自己的电话二维码（挪车码）](https://blog.prayhand13013.top/20260701T164110--免费制作属于自己的电话二维码（挪车码）__blog.html) |  |
