@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-01 | [男性正在遭遇的“系统性”歧视](https://mobius.blog/24886.html) | 昨天在提到的女性遭遇的系统性歧视，是因为制度 + 权力 + 历史结构共同塑造的。例如女性在实际的教育机会、职业 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-01 | [Memos #2026-06-30](https://www.taober.blog/memos) | 11:12 还是要保留随手记/拍的好习惯，这些都是回忆的宝贵资产，那些看起来潦草的，过时的也要比没有强。 17:26 买个零食回来天塌了 |
 | 2026-06-30 | [Tracker 停服三个月，收到 MarkScan 的 DMCA 邮件](https://www.ghostchu.com/tracker-%e5%81%9c%e6%9c%8d%e4%b8%89%e4%b8%aa%e6%9c%88%ef%bc%8c%e6%94%b6%e5%88%b0-markscan-%e7%9a%84-dmca-%e9%82%ae%e4%bb%b6/) | 任何 Tracker 维护者应该都听说过 MarkScan 的臭名： 简单来说，这是一家位于印度的公司，从大的 […] Tracker 停服三个月，收到 MarkScan 的 DMCA 邮件 最先出现在 Ghost_chu's Blog 。 |
 | 2026-06-30 | [创业这件小事儿](https://www.iyeslogo.com/hahahahaha/) | 创业早期需要摒弃浪漫幻想，学会'笨'方法 |
 | 2026-06-30 | [走捷径成瘾](https://www.hecaitou.com/2026/06/Hooked-on-Shortcuts.html) | 有个陌生网友找到我：菜头，有没有发现最近用 AI 写的文章流量越来越差，我这里有个一键转成人工文顺利过审的 AI，你要不要试一下？ 我不要。 这几年为了保住我的功德池水位，我很少公开做出任何批评，但是看完这条消息之后，我决定今天就是我的偶尔奔放日： 写字这点屁事，我是真不理解哪里玩出来的那么多花样。… |
@@ -109,24 +111,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-24 | [疲惫的人们不再配合演出](https://www.hecaitou.com/2026/06/Too-Tired-to-Play-Along.html) | 最近我发现人们普遍比较疲惫，对什么都兴趣不高。人在这种状态下会失去耐心，很容易发脾气，比如说这几天人们就和「面」干了起来。在街头摊档吃热干面，不行。在舞台上呼吁老少爷们「走个面」，更不行。人们毫不客气，一点面子都不给，直接就给撅回去。 以前不是这样的。以前你在演，我知道你在演。然后你知道我知道你在演… |
 | 2026-06-24 | [机械革命泰钽 plus linux Debian Wayland 独显直连调优全记录](https://hellodk.cn/post/1227) | 机械革命泰钽 Plus 游戏本在 Linux Debian GNOME Wayland 下流畅使用诊断艰辛历程一、软硬件配置硬件项目规格型号MECHREVO Taitan Series GM7T... |
 | 2026-06-24 | [大脑对手机上瘾，或许是一种惯性](https://mobius.blog/24711.html) | 昨天聊了如何最快速的驯化一个的认知，今天就顺着这种驯化的过程，来聊聊“成瘾”问题——不仅仅是多巴胺的刺激，很有 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-23 | [告别摄影](https://anotherdayu.com/bye-photograph/) | 期望 韩炳哲在《爱欲之死》里聊到：如果说有一样东西需要对当今社会日益频繁发生的「失望」负责，那么它不是不断升华的想象力，而是不断提高的期望值。 过去，人们先经历，再留下记忆和图像。现在，我们还没有真正进入一个地方，就已经在观看它最漂亮的样子：最好的光线，最干净的构图，最适合发布的角度。 经验反过来变… |
-| 2026-06-23 | [我思](https://tianheg.co/posts/me-thinking/) | 思考不必局限于形式。我开始写下心中所想。 病痛往往会让人思考自己的处境，我的处境让我有些麻木和难受。咳嗽的毛病到今天已经六天，当拖到无可再拖时，我终于选择去医院看看。挂号，医生问了情况，让去拍CT、抽血化验。拍CT的仪器以前从未见过，好像一个甜甜圈。抽血时当针头刺进血管那一刻，我感受到轻微的刺痛，好… |
-| 2026-06-23 | [从 iClaw 到 Palvia：七次提交、六次拒审，差点死在 Apple 的时间流速里的 App](https://shadowmov.com/posts/palvia-now-available-on-app-store/) | 做了一个 iOS 原生 BYOK Agent App。 最初叫 iClaw，后来改名成了 Palvia。 功能大概是多 Agent、记忆、技能、端侧 JS Sandbox、浏览器工具， |
-| 2026-06-23 | [2026 欧洲之旅：在意大利打车](https://www.ixiqin.com/2026/06/23/2026-european-tour-taking-a-taxi-in-italy/) | 在意大利无法像在其他国家那样使用Uber X等网约车服务，需要下载专门的本地应用。appTaxi在佛罗伦萨覆盖率较高，而ItTaxi适用于罗马等地，范围更广。 计费从司机接单驶向乘客时便开始，上车前可能已有费用 … |
-| 2026-06-23 | [准备给猫咪换减肥猫粮](https://blog.solazy.me/20260623/) | 猫咪又要开始减重了 |
-| 2026-06-23 | [AgentMesh：“Agent 虚拟组网 + 能力结算”的基础设施产品](https://luweiqing.com/gossip/AgentMesh-infra.html) | 一、项目背景与执行摘要1.1 项目背景驱动因素：外部趋势： AI Agent 爆发式增长，单一 Agent 能力有限，多 Agent 协作成为必然；现有网络架构无法支撑 Agent 间的自动发现... |
-| 2026-06-23 | [中、日、英、法的摄影展馆](https://anotherdayu.com/4-photograph/) | 这几年陆续去了几个摄影艺术中心：上海摄影艺术中心、Fotografiska、东京都写真美术馆、伦敦 The Photographers’ Gallery，以及巴黎 MEP。它们都以摄影为核心，但给人的感觉很不同。 上海 上海摄影艺术中心（SCOP）现在已经停业，是我摄影爱好的起点。在上海摄影和艺术市… |
-| 2026-06-23 | [2026 欧洲之旅：酒店](https://www.ixiqin.com/2026/06/23/2026-european-tour-hotel/) | 作者第二次出国旅行时主要入住万豪系酒店，全程使用万豪App预订以便灵活调整行程。巴黎酒店房间和电梯偏小但价格划算，里昂万豪虽大且舒适但位置偏远，尼斯和佛罗伦萨的酒店位置尚可，罗马的AC酒店则过于偏 … |
-| 2026-06-23 | [微信 AI 小微初体验](https://www.hecaitou.com/2026/06/n-initial-experience-with-wechat-ai-xiao-wei.html) | 昨天我的微信左上角突然蹦出两个绿色的小圆点，点开是个隐私协议，让我授权之后开启「微信小微」。 江湖早有传闻，微信正在暗中开发自己的 AI 大模型，而且会以自己的方式嵌入微信本体，昨天我终于看到传说变为现实。之前，我已经体验过滴滴嵌入的 AI 打车助手，体验过闲鱼和淘宝的淘货 AI 助手，也体验过微博… |
-| 2026-06-23 | [New Release: Moon Child](https://macsourceports.com/game/moonchild) | In Team Hoi's final side scroller, Moon Child is probably the most Amiga game to never be released on the Amiga, jumping instead to Windows 95. You pl… |
-| 2026-06-23 | [看懂 z 说交易的「缺口」：那根线到底画在哪](https://blog.forecho.com/price-action-gap-zshuo-trading.html) | 引言 最近在 B 站看 z 说交易 的价格行为视频，他反复讲一个东西叫「缺口」。弹幕和评论里问得最多的也是这个：他画缺口的时候，找的那几根 K 线好像和我们理解的不太一样，那根线到底是怎么画出来的。 我一开始也没看懂，盯着屏幕找那块「空出来的价格」，怎么都对不上。后来把缺口一、二两期反复看了几遍，才… |
-| 2026-06-23 | [Hoi updated](https://macsourceports.com/game/hoi) | The build of Hoi for Hoi has been updated to version 1.0 of the project |
-| 2026-06-23 | [Clockwiser updated](https://macsourceports.com/game/clockwiser) | The build of Clockwiser for Clockwiser has been updated to version 1.0 of the project |
-| 2026-06-23 | [[字体故事]修悦体，最有温度的手创字体](https://www.iyeslogo.com/duct-tape/) | 这些不完美的手工字体比电脑字体更具生命力，每一道切口都保留着人类的温度。 |
-| 2026-06-23 | [如何最快地驯化认知？](https://mobius.blog/24705.html) | 接着昨天的话题，先来聊聊认知是否可以被驯化——我认为是可以的，而且比我们想象的要简单——甚至它正无时无刻地发生 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-23 | [登别之夜](https://elmtran.com/essays/the-onsen-night/) | 远离城市的一个夜晚 |
-| 2026-06-23 | [Movie Night in New York &#124; 纽约夜场电影](https://cheng.st/2026/06/23/2026-06-23/) | It was such a good way to reconnect with an old Seattle-era friend in New York: watching Crazy Thunder Road with a few "strangers," in a setting where… |
-| 2026-06-23 | [Memos #2026-06-22](https://www.taober.blog/memos) | 02:10 最近熬夜追比赛破坏了我的生物钟，却也见证了这令人动容的时刻。 祝大家梦想成真！ |
 
 ## Vibe Coding
 
