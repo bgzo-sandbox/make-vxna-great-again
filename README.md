@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-07-02 | [Random Thoughts - 20260702](https://www.bboy.app/2026/07/02/random-thoughts-20260702/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-07-02 | [用交易平台风控设置改掉逆市加仓这个坏习惯](https://blog.forecho.com/platform-risk-settings-stop-revenge-trading.html) | 引言 最近打 PA（Price Action，价格行为交易）的自营考试号，本来差 300 刀就通过了，结果又爆仓了。 复盘下来，问题很清楚：做反了方向，逆市加仓，想打平，最后遇到突破行情，亏损越滚越大。这个问题表面上是技术判断错误，底层其实是交易纪律失效。 我现在越来越觉得，靠意志力改掉“上头加仓”… |
 | 2026-07-02 | [不做结论](https://www.geedea.pro/article/inconclusive/) | 不少简体中文博客（即便排除了纯技术内容），最近让我感到厌倦。他们的洞察和文字是真实的，要表达的东西也很明确（甚至有些太明确了），也让我有了些思考，但我就是觉得无聊。许多英文博客也是一样，不过由于母语羞涩的缺席，还能读得下去。 我在思考原因，我想这是因为作者从一开始就在迫切地得出、解释和证明一个结论。… |
 | 2026-07-02 | [20260702的胡言乱语](https://www.bboy.app/2026/07/02/20260702%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-07-02 | [唯物主义「天命」论](https://blog.est.im/2026/stderr-22) | 看到一篇雄文《 明末士大夫为什么毫无气节纷纷变节投降满清？ 》大受启发，想看原文的可以点开链接，下面是精简和摘录: 因为程朱理学在理论存面存在漏洞，被鞑子无意之间利用了，事实上大部分的鞑子统治者在这方面，也都是知其然而不知所以然。 不否认明末也有很多了不起的仁人志士，但如果你对中国历史有些疑惑，觉得… |
@@ -40,6 +41,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-01 | [How I drove a rental Mazda across America in 59 hours](https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/) | 在夏威夷的时候写了个稿子，回来之后录了些 talking head，林林总总剪了一个视频，算是对 cannonball 的一个总结？也算是一个月 |
 | 2026-07-01 | [理想的AI工作流](https://elmagnifico.tech/2026/07/02/Agent-Workflow2/) | Foreword 上一篇 那套 Agent 工作流其实并不完善，它只是当下 妥协 出来的一套流程——文档先行、人卡在几个关口审一审、 task.md 记着进度。说白了，是拿「流程纪律」硬填 Agent 接不进现有工程链路的坑。 那理想的工作流长啥样？光有纪律不够，还得往下再走一层： 把调试、测试、联… |
 | 2026-07-01 | [阅读阿伦特如何帮我理解后室和架空文学](https://www.geedea.pro/article/all-human-condition/) | 笔者《人的境况》阅读进度只有四分之一，但是已经有好几篇文章反复提及阿伦特了。本文依旧借用（甚至算是挪用）阿伦特的哲学概念讨论和解构我关心的文化现象，如你所见，今天的对象是网络怪谈《后室》（The Backrooms）。 本文是我头脑风暴的产物，像是我大脑的呕吐物，有些哲学思考但不多，不建议严肃阅读。… |
+| 2026-07-01 | [洗手间里的社交退路](https://blog.solazy.me/20260701/) | 今天突然想到一个上厕所的话题 |
 | 2026-07-01 | [对平台存在敬畏](https://www.ixiqin.com/2026/07/01/respect-for-the-platform/) | 我曾经一度对于「平台产品经理」是没感觉的。毕竟大家都是产品经理，做平台有什么了不起的？大家干的不都是产品经理的活么？你有什么差异。 但，后面，发生了一件事，让我记忆犹新，从而对于「平台产品经理 … |
 | 2026-07-01 | [免费制作属于自己的电话二维码（挪车码）](https://blog.prayhand13013.top/20260701T164110--免费制作属于自己的电话二维码（挪车码）__blog.html) |  |
 | 2026-07-01 | [配料表干净](https://kaix.in/2026/0701/) | 我讨厌「配料表干净」这个新近流行起来的说法。人们发现什么「好用」就一定要把它用到烂似的，发现这个宣传点好用，任何商品就都一下子变成了配料表干净了。不管真假、不管产品特性，一律配料表干净。只有浓缩苹果汁的苹果汁到底叫不叫配料表干净呢？再配合上其它伎俩——比如名字叫 NFC 而不是真的 NFC ，不但配… |
