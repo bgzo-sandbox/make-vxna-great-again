@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-02 | [学习周刊-总第270期-2026年第27周](https://wiki.eryajf.net/pages/0ef849/) | 如要阅读全文，点击标题跳转。 学习周刊-总第270期 &#124; neordm &#124; browser &#124; page-agent &#124; MeowCLI &#124; TablePro &#124; OpenCodeUI &#124; clash-for-linux-install |
 | 2026-07-02 | [Random Thoughts - 20260702](https://www.bboy.app/2026/07/02/random-thoughts-20260702/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
 | 2026-07-02 | [用交易平台风控设置改掉逆市加仓这个坏习惯](https://blog.forecho.com/platform-risk-settings-stop-revenge-trading.html) | 引言 最近打 PA（Price Action，价格行为交易）的自营考试号，本来差 300 刀就通过了，结果又爆仓了。 复盘下来，问题很清楚：做反了方向，逆市加仓，想打平，最后遇到突破行情，亏损越滚越大。这个问题表面上是技术判断错误，底层其实是交易纪律失效。 我现在越来越觉得，靠意志力改掉“上头加仓”… |
 | 2026-07-02 | [不做结论](https://www.geedea.pro/article/inconclusive/) | 不少简体中文博客（即便排除了纯技术内容），最近让我感到厌倦。他们的洞察和文字是真实的，要表达的东西也很明确（甚至有些太明确了），也让我有了些思考，但我就是觉得无聊。许多英文博客也是一样，不过由于母语羞涩的缺席，还能读得下去。 我在思考原因，我想这是因为作者从一开始就在迫切地得出、解释和证明一个结论。… |
