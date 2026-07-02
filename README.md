@@ -29,8 +29,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | --- | --- | --- |
 | 2026-07-02 | [Random Thoughts - 20260702](https://www.bboy.app/2026/07/02/random-thoughts-20260702/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
 | 2026-07-02 | [20260702的胡言乱语](https://www.bboy.app/2026/07/02/20260702%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
+| 2026-07-02 | [Memos: Upyun CDN 下线 HTTP/3 支持](https://blog.yasking.org/a/1782972796.html) | 为什么我知道这个 ‘更新’ 呢，因为偶然间打开博客发现在国内无法访问。 排查发现 DNSPod CNAME 解析到的 http3.aicdn.com. 无响应。到控制台设 … |
+| 2026-07-02 | [Nexus配置Docker私库.md](https://blog.wo0ow.com/2128.html) | 参考博客-使用nexus作为私库进行代理docker，进行上传和下载镜像 |
+| 2026-07-02 | [鸡枞在雨季重来](https://www.hecaitou.com/2026/07/jizong-reborn-in-the-rain.html) | 今天我的云南同事告诉我，邮寄了两份今年的油浸鸡枞样品来北京。我突然意识到时间过得好快，上周我还用去年那一罐里的残油炒菜，没想到这么快就续上了，也没想到一年时间过得那么快，2026 年的雨季就这么到了。 严格说起来，并不是什么「就这么」。往年的雨季要更晚一些，鸡枞大批量上市的时间点一般都在八月中。今年… |
+| 2026-07-02 | [MindMux.ai 与 BRAIN.md：对企业和个人认知资产化的产品试验](https://luweiqing.com/resources/MindMux-ai-BRAIN-md.html) | https://mindmux.ai/ & https://projectbrain.md/我的 typecho 老友们，https://segmentfault.com/ 团队的又一次产品试... |
 | 2026-07-02 | [谁在惩戒那些偏离预期性别角色的人？](https://mobius.blog/24892.html) | 这段时间正在世界杯，我和一个喜欢踢足球的男性朋友在聊赛事。我们并没有很深入地聊喜欢哪个球星，但恰好我又因为一代 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-01 | [How I drove a rental Mazda across America in 59 hours](https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/) | 在夏威夷的时候写了个稿子，回来之后录了些 talking head，林林总总剪了一个视频，算是对 cannonball 的一个总结？也算是一个月 |
+| 2026-07-01 | [理想的AI工作流](https://elmagnifico.tech/2026/07/02/Agent-Workflow2/) | Foreword 上一篇 那套 Agent 工作流其实并不完善，它只是当下 妥协 出来的一套流程——文档先行、人卡在几个关口审一审、 task.md 记着进度。说白了，是拿「流程纪律」硬填 Agent 接不进现有工程链路的坑。 那理想的工作流长啥样？光有纪律不够，还得往下再走一层： 把调试、测试、联… |
 | 2026-07-01 | [阅读阿伦特如何帮我理解后室和架空文学](https://www.geedea.pro/article/all-human-condition/) | 笔者《人的境况》阅读进度只有四分之一，但是已经有好几篇文章反复提及阿伦特了。本文依旧借用（甚至算是挪用）阿伦特的哲学概念讨论和解构我关心的文化现象，如你所见，今天的对象是网络怪谈《后室》（The Backrooms）。 本文是我头脑风暴的产物，像是我大脑的呕吐物，有些哲学思考但不多，不建议严肃阅读。… |
 | 2026-07-01 | [对平台存在敬畏](https://www.ixiqin.com/2026/07/01/respect-for-the-platform/) | 我曾经一度对于「平台产品经理」是没感觉的。毕竟大家都是产品经理，做平台有什么了不起的？大家干的不都是产品经理的活么？你有什么差异。 但，后面，发生了一件事，让我记忆犹新，从而对于「平台产品经理 … |
 | 2026-07-01 | [免费制作属于自己的电话二维码（挪车码）](https://blog.prayhand13013.top/20260701T164110--免费制作属于自己的电话二维码（挪车码）__blog.html) |  |
@@ -44,6 +49,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-01 | [澳洲签证又涨价了，155签证直接从490刀暴涨到1475刀](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/07/01/australia-visa-fees-increase-2026.html) | 今天是2026年7月1日，新财年的第一天。 |
 | 2026-07-01 | [6.24 散步随想](https://blog.sakoamc.com/posts/26sx002/) | 题记：我喜欢实体的触感，至少真实的体验感起码胜过无感。 |
 | 2026-07-01 | [Memos #2026-06-30](https://www.taober.blog/memos) | 11:12 还是要保留随手记/拍的好习惯，这些都是回忆的宝贵资产，那些看起来潦草的，过时的也要比没有强。 17:26 买个零食回来天塌了 |
+| 2026-06-30 | [2026夏：放弃幻想 准备斗争](https://macin.org/2026/06/30/202604/) | 4月 今天看了一个视频勾起对这本<a href="https://book.douban.com/subject/27194805/" |
 | 2026-06-30 | [AirPods 找回合影](https://blog.solazy.me/20260630/) | 今天报个喜 |
 | 2026-06-30 | [Tracker 停服三个月，收到 MarkScan 的 DMCA 邮件](https://www.ghostchu.com/tracker-%e5%81%9c%e6%9c%8d%e4%b8%89%e4%b8%aa%e6%9c%88%ef%bc%8c%e6%94%b6%e5%88%b0-markscan-%e7%9a%84-dmca-%e9%82%ae%e4%bb%b6/) | 任何 Tracker 维护者应该都听说过 MarkScan 的臭名： 简单来说，这是一家位于印度的公司，从大的 […] Tracker 停服三个月，收到 MarkScan 的 DMCA 邮件 最先出现在 Ghost_chu's Blog 。 |
 | 2026-06-30 | [创业这件小事儿](https://www.iyeslogo.com/hahahahaha/) | 创业早期需要摒弃浪漫幻想，学会'笨'方法 |
