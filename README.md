@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-02 | [Random Thoughts - 20260702](https://www.bboy.app/2026/07/02/random-thoughts-20260702/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-07-02 | [20260702的胡言乱语](https://www.bboy.app/2026/07/02/20260702%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
+| 2026-07-02 | [谁在惩戒那些偏离预期性别角色的人？](https://mobius.blog/24892.html) | 这段时间正在世界杯，我和一个喜欢踢足球的男性朋友在聊赛事。我们并没有很深入地聊喜欢哪个球星，但恰好我又因为一代 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-01 | [How I drove a rental Mazda across America in 59 hours](https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/) | 在夏威夷的时候写了个稿子，回来之后录了些 talking head，林林总总剪了一个视频，算是对 cannonball 的一个总结？也算是一个月 |
 | 2026-07-01 | [阅读阿伦特如何帮我理解后室和架空文学](https://www.geedea.pro/article/all-human-condition/) | 笔者《人的境况》阅读进度只有四分之一，但是已经有好几篇文章反复提及阿伦特了。本文依旧借用（甚至算是挪用）阿伦特的哲学概念讨论和解构我关心的文化现象，如你所见，今天的对象是网络怪谈《后室》（The Backrooms）。 本文是我头脑风暴的产物，像是我大脑的呕吐物，有些哲学思考但不多，不建议严肃阅读。… |
 | 2026-07-01 | [对平台存在敬畏](https://www.ixiqin.com/2026/07/01/respect-for-the-platform/) | 我曾经一度对于「平台产品经理」是没感觉的。毕竟大家都是产品经理，做平台有什么了不起的？大家干的不都是产品经理的活么？你有什么差异。 但，后面，发生了一件事，让我记忆犹新，从而对于「平台产品经理 … |
@@ -112,18 +115,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-25 | [无聊的小事](https://www.hecaitou.com/2026/06/the-trivial-and-the-mundane.html) | 自从我开始玩公众号贴图功能以来，在我日常发布的那些天空照片的留言区，已经变成了全国乃至全世界读者交换本地天空的所在。人们会跑来张贴自己眼前的天空，然后点赞或者是评论他人发布的照片。 专注于每日文章流量的人可以来看看，这种天空贴图的阅读量不高，参与的人也不多。但这种事情我几乎每天都要搞，流量高还是低都… |
 | 2026-06-25 | [我们的博客是花园，花园里的花儿吵翻天](https://mobius.blog/24837.html) | 特地到现在才想起聊聊这件事——聊“个站商店”这件事是具有风险的，因为我一定是“两边都得罪”的态度。 当然，我一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-25 | [自由意志其实只有 0.5 秒？](https://mobius.blog/24717.html) | 我因为将手机的软件配色替换成了黑白配色，我这段时间在打开软件之前，大脑试图给它上色——哪怕只有这 0.5 秒的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-24 | [我的背包](https://anotherdayu.com/my-backpack/) | 背包可能是除了电脑之外，我最看重的通勤装备。过去用的是 Bellroy，起了换包的念头，是因为几次大雨把包淋透之后，开始有点担心里面的电子产品。英国的雨来的太不讲道理。 新背包现在用了 10 个月，非常满意，是 21L 的 Able Carry Daily Plus。这个容量很适合通勤，不会显得臃肿… |
-| 2026-06-24 | [2026.6.24](https://www.justzht.com/2026-6-24/) | 一回来就开始忙着上班，趁着中午微波炉加热东西的时候写写。 WWDC 的一周结束了，发生了不少好玩的事情，周四晚 |
-| 2026-06-24 | [在 iOS 上同时使用代理和内网](https://blog.ooooo.space/p/%E5%9C%A8-ios-%E4%B8%8A%E5%90%8C%E6%97%B6%E4%BD%BF%E7%94%A8%E4%BB%A3%E7%90%86%E5%92%8C%E5%86%85%E7%BD%91/) | 问题 iOS 只能同时运行一个 VPN。这意味着如果你全天开着代理（比如 Loon、Surge、Stash），就没法同时挂着 Tailscale 访问家里内网。 一种思路是用 Surge/Stash 配合 WireGuard 配一个 Tailscale 网关节点来访问内网，Surge Mac 也支持… |
-| 2026-06-24 | [日本小学数学（一年级）](https://springwood.me/jp-elementary-school-math-1/) | （摘要）主要区别：数字学习上超前（突破了100），计算学习上滞后（100以内有进退位的加减法放到了二年级）。另外，关于“时间”相关的知识学习大幅度提前。 |
-| 2026-06-24 | [我的被骗史](https://blog.solazy.me/20260624/) | 今天讲讲我之前是如何被骗的 |
-| 2026-06-24 | [Databricks Genie 战略解读：从数据平台到上下文平台的跃迁](https://luweiqing.com/gossip/Databricks-Genie.html) | 核心观点：企业 AI 的竞争焦点已从数据基础设施（Data Infrastructure）转向上下文基础设施（Context Infrastructure）。一、战略背景：为什么是现在？Data... |
-| 2026-06-24 | [“现在上网哪有隐私？”](https://www.geedea.pro/article/online-privacy/) | 如果你在互联网上讨论隐私问题，尤其是在那些评论、交流没有任何门槛，任何人都可以不假思索地抛下一句风凉话的平台，那么你大概听过本文标题所写的这句话。发言者往往对信息技术的了解浅薄，听从权威（就算不是官方，也可能是某些意见领袖），相信有神秘的力量控制着一切，想象有人无时无刻盯着天文数字般的网络报文审查，… |
-| 2026-06-24 | [T2I 文生图的新秀Ideogram 4体验和评价](https://eduardoqian.com/archives/t2i-wen-sheng-tu-de-xin-xiu-ideogram-4ti-yan-he-ping-jie) | 考完试后，除了做一些Research Assistant的工作，我惊喜的发现了AI生图开源模型里又来了一个新秀ideogram 4。上一个给我如此惊喜震撼的还是z-image，而细究起来，我对ideogram4的表现以及未来更有信心一些，尤其是考虑到z-image几乎被阿里给砍了，edit模型迟迟不 |
-| 2026-06-24 | [我的 AI Coding Guide](https://www.ixiqin.com/2026/06/24/my-ai-coding-guide/) | 最新更新于 2026 年 6 月 26 日 这个指南是我自己的 AI Coding 的经验总结，我认为在实际使用 AI Coding 的过程中，应该注意和遵循的规则。 这篇文章是我实践后高度总结出来的结论，如果你想看更细致的内容 … |
-| 2026-06-24 | [疲惫的人们不再配合演出](https://www.hecaitou.com/2026/06/Too-Tired-to-Play-Along.html) | 最近我发现人们普遍比较疲惫，对什么都兴趣不高。人在这种状态下会失去耐心，很容易发脾气，比如说这几天人们就和「面」干了起来。在街头摊档吃热干面，不行。在舞台上呼吁老少爷们「走个面」，更不行。人们毫不客气，一点面子都不给，直接就给撅回去。 以前不是这样的。以前你在演，我知道你在演。然后你知道我知道你在演… |
-| 2026-06-24 | [机械革命泰钽 plus linux Debian Wayland 独显直连调优全记录](https://hellodk.cn/post/1227) | 机械革命泰钽 Plus 游戏本在 Linux Debian GNOME Wayland 下流畅使用诊断艰辛历程一、软硬件配置硬件项目规格型号MECHREVO Taitan Series GM7T... |
-| 2026-06-24 | [大脑对手机上瘾，或许是一种惯性](https://mobius.blog/24711.html) | 昨天聊了如何最快速的驯化一个的认知，今天就顺着这种驯化的过程，来聊聊“成瘾”问题——不仅仅是多巴胺的刺激，很有 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
