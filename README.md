@@ -28,7 +28,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-07-02 | [Random Thoughts - 20260702](https://www.bboy.app/2026/07/02/random-thoughts-20260702/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-07-02 | [不做结论](https://www.geedea.pro/article/inconclusive/) | 不少简体中文博客（即便排除了纯技术内容），最近让我感到厌倦。他们的洞察和文字是真实的，要表达的东西也很明确（甚至有些太明确了），也让我有了些思考，但我就是觉得无聊。许多英文博客也是一样，不过由于母语羞涩的缺席，还能读得下去。 我在思考原因，我想这是因为作者从一开始就在迫切地得出、解释和证明一个结论。… |
 | 2026-07-02 | [20260702的胡言乱语](https://www.bboy.app/2026/07/02/20260702%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
+| 2026-07-02 | [唯物主义「天命」论](https://blog.est.im/2026/stderr-22) | 看到一篇雄文《 明末士大夫为什么毫无气节纷纷变节投降满清？ 》大受启发，想看原文的可以点开链接，下面是精简和摘录: 因为程朱理学在理论存面存在漏洞，被鞑子无意之间利用了，事实上大部分的鞑子统治者在这方面，也都是知其然而不知所以然。 不否认明末也有很多了不起的仁人志士，但如果你对中国历史有些疑惑，觉得… |
+| 2026-07-02 | [SeeDNorm: Self-Rescaled Dynamic Normalization](https://mer.run/posts/seednorm-self-rescaled-dynamic-normalization/) | 有实验有理论，主要是想把RMSNorm丢掉的长度信息用温和的方式补充回去，看起来效果也还可以。实验里面有小模型测试的东西，之后可以学一下他们的setup。另外里面关于方差的一些分析感觉可以挪用到AsyncT上去。 |
 | 2026-07-02 | [Memos: Upyun CDN 下线 HTTP/3 支持](https://blog.yasking.org/a/1782972796.html) | 为什么我知道这个 ‘更新’ 呢，因为偶然间打开博客发现在国内无法访问。 排查发现 DNSPod CNAME 解析到的 http3.aicdn.com. 无响应。到控制台设 … |
 | 2026-07-02 | [Nexus配置Docker私库.md](https://blog.wo0ow.com/2128.html) | 参考博客-使用nexus作为私库进行代理docker，进行上传和下载镜像 |
 | 2026-07-02 | [鸡枞在雨季重来](https://www.hecaitou.com/2026/07/jizong-reborn-in-the-rain.html) | 今天我的云南同事告诉我，邮寄了两份今年的油浸鸡枞样品来北京。我突然意识到时间过得好快，上周我还用去年那一罐里的残油炒菜，没想到这么快就续上了，也没想到一年时间过得那么快，2026 年的雨季就这么到了。 严格说起来，并不是什么「就这么」。往年的雨季要更晚一些，鸡枞大批量上市的时间点一般都在八月中。今年… |
