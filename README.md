@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-03 | [视角、立场与新闻业](https://mobius.blog/24922.html) | 上周末，我在完成本周定时发送的有关“男性歧视”的话题之后，在频道上感慨了一下： 这段时间我都在解构“新闻”这件 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-02 | [科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 内蒙古乌兰察布的"草原方舟"，内部是一个文化空间，举办艺术展览、文化交流、商业活动等。（ via ） 我… |
 | 2026-07-02 | [学习周刊-总第270期-2026年第27周](https://wiki.eryajf.net/pages/0ef849/) | 如要阅读全文，点击标题跳转。 学习周刊-总第270期 &#124; neordm &#124; browser &#124; page-agent &#124; MeowCLI &#124; TablePro &#124; OpenCodeUI &#124; clash-for-linux-install |
 | 2026-07-02 | [Random Thoughts - 20260702](https://www.bboy.app/2026/07/02/random-thoughts-20260702/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
 | 2026-07-02 | [用交易平台风控设置改掉逆市加仓这个坏习惯](https://blog.forecho.com/platform-risk-settings-stop-revenge-trading.html) | 引言 最近打 PA（Price Action，价格行为交易）的自营考试号，本来差 300 刀就通过了，结果又爆仓了。 复盘下来，问题很清楚：做反了方向，逆市加仓，想打平，最后遇到突破行情，亏损越滚越大。这个问题表面上是技术判断错误，底层其实是交易纪律失效。 我现在越来越觉得，靠意志力改掉“上头加仓”… |
@@ -114,19 +116,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-26 | [Node.js 环境安装](https://blog.196000.xyz/2026/2026-06-26-node.js-install.html) | 使用 https://nodejs.org/zh-cn/about/previous-releases 或者 Node.js 官方网站（https://nodejs.org/）下载 Windows 安装包（.msi）。 |
 | 2026-06-26 | [科技爱好者周刊（第 401 期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 在中国南方，人们穿戴巨型荷叶制作的防晒面罩。（ via ） 如何赚到10亿美元 保罗·格雷厄姆（Paul… |
 | 2026-06-26 | [AI Coding 的人文思考](https://ceynri.cn/blog/thoughts-in-ai-coding/) | 当 Coding 的终局指向高度的去人类化，我们还能做什么？ |
-| 2026-06-25 | [归因偏差](https://www.linggandianbo.com/newsletter-129/) | 从 meritocracy 到坏新闻、呼吸、育儿和屏幕色域，我们如何误把环境塑造出来的选择，认作个人能力或失败 &#124; 灵感电波 #129 |
-| 2026-06-25 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.6 of the project |
-| 2026-06-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo for Quetoo has been updated to version v1.0.54 of the project |
-| 2026-06-25 | [学习周刊-总第269期-2026年第26周](https://wiki.eryajf.net/pages/0e5d11/) | 如要阅读全文，点击标题跳转。 学习周刊-总第269期 &#124; JsonStudio &#124; panel &#124; momei &#124; metapi &#124; arbor &#124; sub2api &#124; ruanyf-weekly-issue-browser |
-| 2026-06-25 | [轻糖的 KMP 渐进式迁移实践（二）：ViewModel、本地存储与平台抽象](https://youngxhui.top/2026/06/sugarlite-kmp-migration-2/) | 上一篇文章 记录了 轻糖 将数据层从 Supabase Swift SDK 下沉到 KMP shared/ 模块的过程。但当时我们留了一个尾巴——ViewModels 原封不动地留在 iOS 侧用 @Observable ，承诺"暂不迁移"。 后来发生的事情是：我们食言了。 随着 Android 版… |
-| 2026-06-25 | [AI工作流](https://elmagnifico.tech/2026/06/26/Agent-Workflow/) | Foreword 前段时间在 wolai 里把一套「一个人带 Agent 做产品」的流程摸清楚了，顺手画了一张图，又写了一份更偏团队协作的 Agent 方案。下文先展开独自开发（AIO）如何把产品、开发、测试、总负责人压缩成「你 + Agent」；再讲团队版（FTM）如何拆回四个岗位。文档怎么流转、… |
-| 2026-06-25 | [用 Cloudflare Workers 把机场订阅转成「带 Token 鉴权 + 自定义域名」的 Clash/Mihomo 订阅](https://www.qtter.com/2026/cloudflare-worker-subscription-converter/) | 本文把一条原始的机场订阅链接，通过一个 Cloudflare Worker，转换成形如 https://sub.example.com/?token=YOUR_TOKEN 的可访问地址：访问时实时拉取机场订阅、 解析节点、套上你自己定制的一整套 Mihomo 规则（DNS / 分流 / TUN），并… |
-| 2026-06-25 | [从 10 万到 80 元的「学费」](https://blog.solazy.me/20260625/) | 从十万骗局到八十元停车费，聊聊我如何用「转念」终止内耗。 |
-| 2026-06-25 | [香港和台湾给我的两种感觉](https://www.tortorse.com/archives/hong-kong-taiwan-travel-impressions/) | 今天听机核的节目，里面聊出差，也聊到了香港和台湾。 |
-| 2026-06-25 | [一款基于Pengu Loader的全服可用英雄联盟客户端增强插件–Sona](https://www.cheshirex.com/10542.html) | Sona是一款插件，需要先安装运行Pengu Loader程序，然后加载运行Sona插件。这个插件有挺多功能 […] |
-| 2026-06-25 | [无聊的小事](https://www.hecaitou.com/2026/06/the-trivial-and-the-mundane.html) | 自从我开始玩公众号贴图功能以来，在我日常发布的那些天空照片的留言区，已经变成了全国乃至全世界读者交换本地天空的所在。人们会跑来张贴自己眼前的天空，然后点赞或者是评论他人发布的照片。 专注于每日文章流量的人可以来看看，这种天空贴图的阅读量不高，参与的人也不多。但这种事情我几乎每天都要搞，流量高还是低都… |
-| 2026-06-25 | [我们的博客是花园，花园里的花儿吵翻天](https://mobius.blog/24837.html) | 特地到现在才想起聊聊这件事——聊“个站商店”这件事是具有风险的，因为我一定是“两边都得罪”的态度。 当然，我一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-25 | [自由意志其实只有 0.5 秒？](https://mobius.blog/24717.html) | 我因为将手机的软件配色替换成了黑白配色，我这段时间在打开软件之前，大脑试图给它上色——哪怕只有这 0.5 秒的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
