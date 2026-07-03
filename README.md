@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-03 | [省力的解释，不等于答案](https://www.linggandianbo.com/newsletter-130/) | AI 并非普通工具，棉花糖不是德性测验，自然也不是道德法庭｜灵感电波 #130 |
 | 2026-07-03 | [翻译-现实拥有令人惊讶的丰富细节](https://blog.prayhand13013.top/20260703T142420--翻译-现实拥有令人惊讶的丰富细节__blog.html) |  |
 | 2026-07-03 | [野狗](https://mobius.blog/24974.html) | 小区有条野狗，住在冬暖夏凉的车库里，但这只狗没人专门喂它，它也全是靠蹭投喂给流浪猫的食物过日子，猫吃完了它才去 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-03 | [在辅导孩子之前，自己先去做个心理辅导](https://www.hecaitou.com/2026/07/want-to-tutor-your-kids-start-with-therapy.html) | 在过去的两周，我在网上频繁地看到一道几何题，每一次在留言区都会引发大战。这道题本身很简单，但是无数成人会泾渭分明地分成两个阵营，一方坚持答案是 15° 角，另一方则认定是 30° 角。重点是，当第一个人开始贴出答案，两帮人马就会纷纷下场，相互攻击对方。 其中，双方都高频使用的一句话是这样的：就你这样… |
