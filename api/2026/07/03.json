@@ -1,10 +1,52 @@
 [
   {
+    "title": "翻译-现实拥有令人惊讶的丰富细节",
+    "url": "https://blog.prayhand13013.top/20260703T142420--翻译-现实拥有令人惊讶的丰富细节__blog.html",
+    "date": "2026-07-03T06:24:00Z",
+    "description": "",
+    "source_root_domain": "tomoemami.github.io"
+  },
+  {
+    "title": "野狗",
+    "url": "https://mobius.blog/24974.html",
+    "date": "2026-07-03T05:01:01Z",
+    "description": "小区有条野狗，住在冬暖夏凉的车库里，但这只狗没人专门喂它，它也全是靠蹭投喂给流浪猫的食物过日子，猫吃完了它才去 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "在辅导孩子之前，自己先去做个心理辅导",
+    "url": "https://www.hecaitou.com/2026/07/want-to-tutor-your-kids-start-with-therapy.html",
+    "date": "2026-07-03T04:21:11Z",
+    "description": "在过去的两周，我在网上频繁地看到一道几何题，每一次在留言区都会引发大战。这道题本身很简单，但是无数成人会泾渭分明地分成两个阵营，一方坚持答案是 15° 角，另一方则认定是 30° 角。重点是，当第一个人开始贴出答案，两帮人马就会纷纷下场，相互攻击对方。 其中，双方都高频使用的一句话是这样的：就你这样，以后最好还是不要辅导孩子了。 我把这道题转到了我的公众号，非常自信地发布了一篇《 这道题两周里我看到了 N次 》。因为我认为我的读者经过了我多年的筛选，应该和那些热衷吵架的网友有所不同。但是残酷的现实打了我的脸，我把留言区从头看到尾，现场的惨烈程度和别处没有多少区别。 🚪传送门：《 这道题两周里我看到了 N次 》 很多读者应该猜到今天我会就此写一篇文章，其中有些人甚至会猜想我要写人和人的沟通多么艰难，或者猜想我要写为什么人会出现思维上的盲区却不能自觉，又或者是写今昔对比，讨论网络的氛围为什么会变成今天这个样子。 都不是，我一遍又一遍地看，起初还笑得出来，然而看的次数越多，看到卷入的人越多，我心里就越发觉得难过。因为我注意到，很多人都很快越过了讨论数学题，迅速地进入人身攻击阶段，而且是极为熟",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "ChatGPT K12-Team账号绕过手机验证登录并使用CodeX",
+    "url": "https://www.cheshirex.com/10621.html",
+    "date": "2026-07-03T02:51:56Z",
+    "description": "前面发了使用Gmail开通ChatGPT K12-Team账号的教程，现在发下怎么登陆codex。 有两种方式 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "使用Gmail开通ChatGPT K12-Team账号Plus会员",
+    "url": "https://www.cheshirex.com/10615.html",
+    "date": "2026-07-03T01:45:18Z",
+    "description": "后面可能很快封锁注册渠道，如果看到文章，就马上注册一个吧。 请注意不要使用大号注册，防止封号影响。 OpenA […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
     "title": "视角、立场与新闻业",
     "url": "https://mobius.blog/24922.html",
     "date": "2026-07-03T01:00:00Z",
     "description": "上周末，我在完成本周定时发送的有关“男性歧视”的话题之后，在频道上感慨了一下： 这段时间我都在解构“新闻”这件 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Cloudflare Tunnel 命令行使用教程",
+    "url": "https://blog.oofo.cc/posts/cloudflare-tunnel-cli",
+    "date": "2026-07-03T00:00:00Z",
+    "description": "## 概述 Cloudflare Tunnel 可以把你电脑或内网里的服务通过 Cloudflare 暴露到公网。它的好处是：本机不需要公网 IP，也不需要在路由器上做端口转发；`cloudflared` 会从本机主动连到 Cloudflare，再由 Cloudflare 把访问流量转发回来。 这篇文章主要记录命令行用法。示例里会保留少量 Windows 路径；macOS 和 Linux 用...",
+    "source_root_domain": "oofo.cc"
   },
   {
     "title": "科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）",

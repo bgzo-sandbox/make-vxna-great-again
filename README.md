@@ -27,7 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-03 | [翻译-现实拥有令人惊讶的丰富细节](https://blog.prayhand13013.top/20260703T142420--翻译-现实拥有令人惊讶的丰富细节__blog.html) |  |
+| 2026-07-03 | [野狗](https://mobius.blog/24974.html) | 小区有条野狗，住在冬暖夏凉的车库里，但这只狗没人专门喂它，它也全是靠蹭投喂给流浪猫的食物过日子，猫吃完了它才去 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-03 | [在辅导孩子之前，自己先去做个心理辅导](https://www.hecaitou.com/2026/07/want-to-tutor-your-kids-start-with-therapy.html) | 在过去的两周，我在网上频繁地看到一道几何题，每一次在留言区都会引发大战。这道题本身很简单，但是无数成人会泾渭分明地分成两个阵营，一方坚持答案是 15° 角，另一方则认定是 30° 角。重点是，当第一个人开始贴出答案，两帮人马就会纷纷下场，相互攻击对方。 其中，双方都高频使用的一句话是这样的：就你这样… |
+| 2026-07-03 | [ChatGPT K12-Team账号绕过手机验证登录并使用CodeX](https://www.cheshirex.com/10621.html) | 前面发了使用Gmail开通ChatGPT K12-Team账号的教程，现在发下怎么登陆codex。 有两种方式 […] |
+| 2026-07-03 | [使用Gmail开通ChatGPT K12-Team账号Plus会员](https://www.cheshirex.com/10615.html) | 后面可能很快封锁注册渠道，如果看到文章，就马上注册一个吧。 请注意不要使用大号注册，防止封号影响。 OpenA […] |
 | 2026-07-03 | [视角、立场与新闻业](https://mobius.blog/24922.html) | 上周末，我在完成本周定时发送的有关“男性歧视”的话题之后，在频道上感慨了一下： 这段时间我都在解构“新闻”这件 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-03 | [Cloudflare Tunnel 命令行使用教程](https://blog.oofo.cc/posts/cloudflare-tunnel-cli) | ## 概述 Cloudflare Tunnel 可以把你电脑或内网里的服务通过 Cloudflare 暴露到公网。它的好处是：本机不需要公网 IP，也不需要在路由器上做端口转发；`cloudflared` 会从本机主动连到 Cloudflare，再由 Cloudflare 把访问流量转发回来。 这篇… |
 | 2026-07-02 | [科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 内蒙古乌兰察布的"草原方舟"，内部是一个文化空间，举办艺术展览、文化交流、商业活动等。（ via ） 我… |
 | 2026-07-02 | [学习周刊-总第270期-2026年第27周](https://wiki.eryajf.net/pages/0ef849/) | 如要阅读全文，点击标题跳转。 学习周刊-总第270期 &#124; neordm &#124; browser &#124; page-agent &#124; MeowCLI &#124; TablePro &#124; OpenCodeUI &#124; clash-for-linux-install |
 | 2026-07-02 | [Random Thoughts - 20260702](https://www.bboy.app/2026/07/02/random-thoughts-20260702/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
