@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-07-03T10:40:39Z
-modified: 2026-07-03T10:40:39Z
+created: 2026-07-03T14:04:40Z
+modified: 2026-07-03T14:04:40Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,7 +11,7 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-07-03T10:40:39Z
+Generated at: 2026-07-03T14:04:40Z
 
 Total sources: 484
 Successful: 365
@@ -452,7 +452,7 @@ Failed: 119
 | Success | [#526] V2EX › 余弦の博客 | [https://ysx.cosine.ren/atom.xml](https://ysx.cosine.ren/atom.xml) | [Origin](https://www.v2ex.com/xna/s/526) | 20 | - |
 | Success | [#527] V2EX › 一只会飞的旺旺 | [https://www.wangwangit.com/atom.xml](https://www.wangwangit.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/527) | 20 | - |
 | Success | [#529] V2EX › Taober | [https://www.taober.blog/feed.xml](https://www.taober.blog/feed.xml) | [Origin](https://www.v2ex.com/xna/s/529) | 31 | - |
-| Success | [#52] V2EX › 沉舟侧畔 | [https://springwood.me/feed/](https://springwood.me/feed/) | [Origin](https://www.v2ex.com/xna/s/52) | 7 | - |
+| Success | [#52] V2EX › 沉舟侧畔 | [https://springwood.me/feed/](https://springwood.me/feed/) | [Origin](https://www.v2ex.com/xna/s/52) | 8 | - |
 | Success | [#530] V2EX › Rocx | [https://www.qtter.com/rss.xml](https://www.qtter.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/530) | 20 | - |
 | Success | [#531] V2EX › Leo 的技术日志 | [https://jksoftcn.com/index.xml](https://jksoftcn.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/531) | 12 | - |
 | Success | [#532] V2EX › Korbin's Blog | [https://www.vhcffh.com/rss.xml](https://www.vhcffh.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/532) | 153 | - |
