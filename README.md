@@ -30,6 +30,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-04 | [BMAD Loop：把开发循环的控制权，交还给确定性代码](https://gptkit.eth.limo/EB5A909F-7AF2-4464-BF3E-6EF4ADCFDE7A/) | 如果你看过我之前那篇 Story Automator 上手实录 ，应该还记得我最后的结论： 白天手工跑，目前还是自己手工跑会更快。但睡前把一批 Story 交给它过夜跑，这个场景它真的挺合适。 那篇文章里我留了个没回答的问题—— 为什么它跑得比人手工还慢？ 我当时说"还没仔细分析它的实现原理"。 现… |
 | 2026-07-04 | [在闲鱼找卖家](https://www.hecaitou.com/2026/07/the-art-of-spotting-good-sellers-on-xianyu.html) | 经过我这几年的实践，我认为如果要论购物的乐趣，一堆电商平台加起来都不够闲鱼一只手打的。只有闲鱼同时满足了买家的三大购物需求：1、捡便宜。2、发现新玩意儿。3、和卖家讨价还价，相互拉扯。 这里我想讨论的是隐藏乐趣，也就是在鱼龙混杂的海鲜市场里，如何能找出靠谱的卖家。之所以会成为一种乐趣，是因为每一个中… |
 | 2026-07-04 | [Memos #2026-07-03](https://www.taober.blog/memos) | 10:08 “写了一半，这种内容最好不要让 AI 写，但我又觉得自己根本想不出来应该怎么写。” 23:00 终于明白老白的货为什么这么畅销，用了两天 Fable 5，感觉 Opus 4.8 的纯度不够了。 |
+| 2026-07-03 | [完成比完美更诚实](https://blog.solazy.me/20260703/) | 日更最难的不是挤出字数，而是承认今天的水平就到这儿。放过对完美的执念，诚实地完成它。 |
 | 2026-07-03 | [下班以后](https://yinji.org/life-after-work.html) | 工作两年多，心性发生了不小的变化。 刚参加工作那会儿，总觉得“忙”是一件很可怕的事情。不能准时下班可怕，月底月初更可怕。今天忙，就担心明天会更忙；今天没做完，就焦虑以后是不是都要这样过。那时候的生活，总像是在追赶一辆永远追不上的列车。 有时候很晚才回到住处，为了给自己多留一点放松的时间，匆匆洗完澡，… |
 | 2026-07-03 | [省力的解释，不等于答案](https://www.linggandianbo.com/newsletter-130/) | AI 并非普通工具，棉花糖不是德性测验，自然也不是道德法庭｜灵感电波 #130 |
 | 2026-07-03 | [翻译-现实拥有令人惊讶的丰富细节](https://blog.prayhand13013.top/20260703T142420--翻译-现实拥有令人惊讶的丰富细节__blog.html) |  |
@@ -41,6 +42,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-03 | [Cloudflare Tunnel 命令行使用教程](https://blog.oofo.cc/posts/cloudflare-tunnel-cli) | ## 概述 Cloudflare Tunnel 可以把你电脑或内网里的服务通过 Cloudflare 暴露到公网。它的好处是：本机不需要公网 IP，也不需要在路由器上做端口转发；`cloudflared` 会从本机主动连到 Cloudflare，再由 Cloudflare 把访问流量转发回来。 这篇… |
 | 2026-07-02 | [科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 内蒙古乌兰察布的"草原方舟"，内部是一个文化空间，举办艺术展览、文化交流、商业活动等。（ via ） 我… |
 | 2026-07-02 | [学习周刊-总第270期-2026年第27周](https://wiki.eryajf.net/pages/0ef849/) | 如要阅读全文，点击标题跳转。 学习周刊-总第270期 &#124; neordm &#124; browser &#124; page-agent &#124; MeowCLI &#124; TablePro &#124; OpenCodeUI &#124; clash-for-linux-install |
+| 2026-07-02 | [职场上的靠谱，就是不让人猜](https://blog.solazy.me/20260702/) | 其实职场上做一个靠谱的人远没有那么难 |
 | 2026-07-02 | [Random Thoughts - 20260702](https://www.bboy.app/2026/07/02/random-thoughts-20260702/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
 | 2026-07-02 | [用交易平台风控设置改掉逆市加仓这个坏习惯](https://blog.forecho.com/platform-risk-settings-stop-revenge-trading.html) | 引言 最近打 PA（Price Action，价格行为交易）的自营考试号，本来差 300 刀就通过了，结果又爆仓了。 复盘下来，问题很清楚：做反了方向，逆市加仓，想打平，最后遇到突破行情，亏损越滚越大。这个问题表面上是技术判断错误，底层其实是交易纪律失效。 我现在越来越觉得，靠意志力改掉“上头加仓”… |
 | 2026-07-02 | [不做结论](https://www.geedea.pro/article/inconclusive/) | 不少简体中文博客（即便排除了纯技术内容），最近让我感到厌倦。他们的洞察和文字是真实的，要表达的东西也很明确（甚至有些太明确了），也让我有了些思考，但我就是觉得无聊。许多英文博客也是一样，不过由于母语羞涩的缺席，还能读得下去。 我在思考原因，我想这是因为作者从一开始就在迫切地得出、解释和证明一个结论。… |
