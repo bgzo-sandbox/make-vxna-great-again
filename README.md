@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-04 | [分享一个 Polymarket 的 BTC 5分钟策略](https://smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/) | <a href="#免责声明" class="headerlink" |
 | 2026-07-04 | [周末流水账 0704](https://blog.solazy.me/20260704/) | 今天给大脑放个假，写一写流水账 |
 | 2026-07-04 | [试图使用 Ungoogled Chromium](https://re.karlbaey.top/articles/rocky-road/ungoogled-chromium/) | 由于一次次地被谷歌激怒，我打算把这个 Google 厚颜无耻地打包好的、充满各种与 Google 服务器通讯的、让人勃然 … |
 | 2026-07-04 | [BMAD Loop：把开发循环的控制权，交还给确定性代码](https://gptkit.eth.limo/EB5A909F-7AF2-4464-BF3E-6EF4ADCFDE7A/) | 如果你看过我之前那篇 Story Automator 上手实录 ，应该还记得我最后的结论： 白天手工跑，目前还是自己手工跑会更快。但睡前把一批 Story 交给它过夜跑，这个场景它真的挺合适。 那篇文章里我留了个没回答的问题—— 为什么它跑得比人手工还慢？ 我当时说"还没仔细分析它的实现原理"。 现… |
