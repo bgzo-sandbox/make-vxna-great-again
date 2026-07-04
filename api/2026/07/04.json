@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bear Blog Theme: Vermilion",
+    "url": "https://anotherdayu.com/vermilion/",
+    "date": "2026-07-04T21:47:00Z",
+    "description": "最近给博客换了一套适配 Bear Blog 的自制主题，取名 Vermilion（朱砂）。 正文用衬线字体窄栏排版，行距放宽，适合中英文混排阅读，背景模拟了泛黄旧书的质感。 截图留念： 完整 CSS： / ============================================================ Vermilion — Bear Blog theme from https://anotherdayu.com/ Eggshell-gray paper / ink text / cinnabar seal accents / narrow airy column Usage: paste into Dashboard → Themes → Edit theme CSS ============================================================ / :root { --paper: #f4f3ef; / Sketch paper: cool-toned eggshell gray / --ink: #2d2b28; ",
+    "source_root_domain": "anotherdayu.com"
+  },
+  {
     "title": "分享一个 Polymarket 的 BTC 5分钟策略",
     "url": "https://smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/",
     "date": "2026-07-04T17:32:20Z",

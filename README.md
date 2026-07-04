@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-04 | [Bear Blog Theme: Vermilion](https://anotherdayu.com/vermilion/) | 最近给博客换了一套适配 Bear Blog 的自制主题，取名 Vermilion（朱砂）。 正文用衬线字体窄栏排版，行距放宽，适合中英文混排阅读，背景模拟了泛黄旧书的质感。 截图留念： 完整 CSS： / ===============================================… |
 | 2026-07-04 | [分享一个 Polymarket 的 BTC 5分钟策略](https://smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/) | <a href="#免责声明" class="headerlink" |
 | 2026-07-04 | [周末流水账 0704](https://blog.solazy.me/20260704/) | 今天给大脑放个假，写一写流水账 |
 | 2026-07-04 | [试图使用 Ungoogled Chromium](https://re.karlbaey.top/articles/rocky-road/ungoogled-chromium/) | 由于一次次地被谷歌激怒，我打算把这个 Google 厚颜无耻地打包好的、充满各种与 Google 服务器通讯的、让人勃然 … |
