@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-04 | [Memos #2026-07-03](https://www.taober.blog/memos) | 10:08 “写了一半，这种内容最好不要让 AI 写，但我又觉得自己根本想不出来应该怎么写。” 23:00 终于明白老白的货为什么这么畅销，用了两天 Fable 5，感觉 Opus 4.8 的纯度不够了。 |
 | 2026-07-03 | [下班以后](https://yinji.org/life-after-work.html) | 工作两年多，心性发生了不小的变化。 刚参加工作那会儿，总觉得“忙”是一件很可怕的事情。不能准时下班可怕，月底月初更可怕。今天忙，就担心明天会更忙；今天没做完，就焦虑以后是不是都要这样过。那时候的生活，总像是在追赶一辆永远追不上的列车。 有时候很晚才回到住处，为了给自己多留一点放松的时间，匆匆洗完澡，… |
 | 2026-07-03 | [省力的解释，不等于答案](https://www.linggandianbo.com/newsletter-130/) | AI 并非普通工具，棉花糖不是德性测验，自然也不是道德法庭｜灵感电波 #130 |
 | 2026-07-03 | [翻译-现实拥有令人惊讶的丰富细节](https://blog.prayhand13013.top/20260703T142420--翻译-现实拥有令人惊讶的丰富细节__blog.html) |  |
@@ -64,7 +65,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-01 | [男性正在遭遇的“系统性”歧视](https://mobius.blog/24886.html) | 昨天在提到的女性遭遇的系统性歧视，是因为制度 + 权力 + 历史结构共同塑造的。例如女性在实际的教育机会、职业 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-01 | [澳洲签证又涨价了，155签证直接从490刀暴涨到1475刀](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/07/01/australia-visa-fees-increase-2026.html) | 今天是2026年7月1日，新财年的第一天。 |
 | 2026-07-01 | [6.24 散步随想](https://blog.sakoamc.com/posts/26sx002/) | 题记：我喜欢实体的触感，至少真实的体验感起码胜过无感。 |
-| 2026-07-01 | [Memos #2026-06-30](https://www.taober.blog/memos) | 11:12 还是要保留随手记/拍的好习惯，这些都是回忆的宝贵资产，那些看起来潦草的，过时的也要比没有强。 17:26 买个零食回来天塌了 |
 | 2026-06-30 | [2026夏：放弃幻想 准备斗争](https://macin.org/2026/06/30/202604/) | 4月 今天看了一个视频勾起对这本<a href="https://book.douban.com/subject/27194805/" |
 | 2026-06-30 | [AirPods 找回合影](https://blog.solazy.me/20260630/) | 今天报个喜 |
 | 2026-06-30 | [Tracker 停服三个月，收到 MarkScan 的 DMCA 邮件](https://www.ghostchu.com/tracker-%e5%81%9c%e6%9c%8d%e4%b8%89%e4%b8%aa%e6%9c%88%ef%bc%8c%e6%94%b6%e5%88%b0-markscan-%e7%9a%84-dmca-%e9%82%ae%e4%bb%b6/) | 任何 Tracker 维护者应该都听说过 MarkScan 的臭名： 简单来说，这是一家位于印度的公司，从大的 […] Tracker 停服三个月，收到 MarkScan 的 DMCA 邮件 最先出现在 Ghost_chu's Blog 。 |
@@ -114,16 +114,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-27 | [手段刚好是考试而已](https://www.hecaitou.com/2026/06/an-exam-is-merely-the-means.html) | 每年我写的文章都会被老师拿去做成阅读理解题，每年也都会有小同学跑到我这里抱怨，因此我每年都要向小同学道歉。 有人猜测我心中暗喜，不过是表面上装作歉意的样子，是一种不大高明的凡尔赛演出，其实脚上木屐的齿都因为心花怒放而不留神折断了。爱怎么想就怎么想吧，自己高兴就行。 不过对于语文考试或者说阅读理解，我… |
 | 2026-06-27 | [您受累，搞个大新闻儿！](https://mobius.blog/24866.html) | 最近很多自媒体都在讨论“韩红塌房”的新闻。简中媒体比较有趣的是，大家都知道是什么原因，但大家因为内容敏感而不能 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-06-27 | [Python 潮流周刊#156：Pydantic 接管 httpx 始末](https://pythoncat.top/posts/2026-06-27-weekly/) | 分享了 12 篇文章，12 个开源项目 |
-| 2026-06-26 | [鼠标垫与垃圾袋](https://blog.solazy.me/20260626/) | 最近住酒店有一些启发，索性写一些 |
-| 2026-06-26 | [我和阿恩的故事](https://sinyalee.com/blog/?p=1189) | 阿恩是我高二高三的同班同学。来自潮阳西胪，是《给阿嬷的情书》导演蓝鸿春的老乡。她家里都信基督教，名字的恩应该是 […] |
-| 2026-06-26 | [Zine#53 - 第一次录󠄃製視頻、要請作者喝咖啡嗎？](https://taxodium.ink/53.html) | Zine#53 第一次录󠄃製視頻、要請作者喝咖啡嗎？ 🎶 Timely!! - 杏里 (あんり) 炎炎夏日，給大家分享一張 City Pop 専輯，杏里的《Timely!!》。這張専輯有著活泼的律動，精致的編曲，甜美的歌聲，封面會讓我想到海邊和沙滩，整張専輯充滿活力，還蠻適合夏天的。選了専輯中的 W… |
-| 2026-06-26 | [AI Infra：Token 工厂的商业模式研究](https://luweiqing.com/gossip/Token-Factory-business.html) | 别再叫它 API 聚合了，它正在控制 AI 世界的“石油管道”上周和一个做投资的朋友聊天，他抱怨说现在看 AI 项目看到头秃。基础模型那波已经卷成麻花，应用层又虚头巴脑，找不到护城河。我给他画了... |
-| 2026-06-26 | [换电扇](https://www.hecaitou.com/2026/06/changing-the-electric-fan.html) | 昨天换了一台电扇。两台都来自某著名大厂，前一台购于两年前的五月份，昨天电机突然发出了可怕的「嘶嘶滋滋」声。这种事情我在七八十年代经历过许多次，当电器发出这种声音的时候，距离「砰」地一声，然后冒烟烧毁甚至摧毁整栋楼的保险丝就已经不远了。所以，我的第一个念头就是扔掉，赶紧换一台新的。 当初买的时候我就已… |
-| 2026-06-26 | [时间管理或许是伪命题 V](https://mobius.blog/24845.html) | 停更在去年 3 月份的《时间管理或许是伪命题》系列，我一直在讨论一个问题：真正需要管理的究竟是不是时间？ 这一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-26 | [我的 Vibe Coding 最佳实践——ADR文档](https://blog.est.im/2026/stdout-24) | 工作和业余也用AI写代码，大大小小项目都经历了。从 rules, skills, spec, agent 到 harness 都玩过了 从AI嘴里发现一条比较稳的套路——ADR文档 rule, skills, spec 这些东西最大的问题就是瞎jb指挥。ADR 的好处是记录why，以及决策演变历史。… |
-| 2026-06-26 | [Node.js 环境安装](https://blog.196000.xyz/2026/2026-06-26-node.js-install.html) | 使用 https://nodejs.org/zh-cn/about/previous-releases 或者 Node.js 官方网站（https://nodejs.org/）下载 Windows 安装包（.msi）。 |
-| 2026-06-26 | [科技爱好者周刊（第 401 期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 在中国南方，人们穿戴巨型荷叶制作的防晒面罩。（ via ） 如何赚到10亿美元 保罗·格雷厄姆（Paul… |
-| 2026-06-26 | [AI Coding 的人文思考](https://ceynri.cn/blog/thoughts-in-ai-coding/) | 当 Coding 的终局指向高度的去人类化，我们还能做什么？ |
 
 ## Vibe Coding
 
