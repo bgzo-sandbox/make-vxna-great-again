@@ -27,8 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-04 | [周末流水账 0704](https://blog.solazy.me/20260704/) | 今天给大脑放个假，写一写流水账 |
+| 2026-07-04 | [试图使用 Ungoogled Chromium](https://re.karlbaey.top/articles/rocky-road/ungoogled-chromium/) | 由于一次次地被谷歌激怒，我打算把这个 Google 厚颜无耻地打包好的、充满各种与 Google 服务器通讯的、让人勃然 … |
 | 2026-07-04 | [BMAD Loop：把开发循环的控制权，交还给确定性代码](https://gptkit.eth.limo/EB5A909F-7AF2-4464-BF3E-6EF4ADCFDE7A/) | 如果你看过我之前那篇 Story Automator 上手实录 ，应该还记得我最后的结论： 白天手工跑，目前还是自己手工跑会更快。但睡前把一批 Story 交给它过夜跑，这个场景它真的挺合适。 那篇文章里我留了个没回答的问题—— 为什么它跑得比人手工还慢？ 我当时说"还没仔细分析它的实现原理"。 现… |
 | 2026-07-04 | [在闲鱼找卖家](https://www.hecaitou.com/2026/07/the-art-of-spotting-good-sellers-on-xianyu.html) | 经过我这几年的实践，我认为如果要论购物的乐趣，一堆电商平台加起来都不够闲鱼一只手打的。只有闲鱼同时满足了买家的三大购物需求：1、捡便宜。2、发现新玩意儿。3、和卖家讨价还价，相互拉扯。 这里我想讨论的是隐藏乐趣，也就是在鱼龙混杂的海鲜市场里，如何能找出靠谱的卖家。之所以会成为一种乐趣，是因为每一个中… |
+| 2026-07-04 | [Python 潮流周刊#157：CPython JIT 的开发计划](https://pythoncat.top/posts/2026-07-04-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-07-04 | [Memos #2026-07-03](https://www.taober.blog/memos) | 10:08 “写了一半，这种内容最好不要让 AI 写，但我又觉得自己根本想不出来应该怎么写。” 23:00 终于明白老白的货为什么这么畅销，用了两天 Fable 5，感觉 Opus 4.8 的纯度不够了。 |
 | 2026-07-03 | [完成比完美更诚实](https://blog.solazy.me/20260703/) | 日更最难的不是挤出字数，而是承认今天的水平就到这儿。放过对完美的执念，诚实地完成它。 |
 | 2026-07-03 | [下班以后](https://yinji.org/life-after-work.html) | 工作两年多，心性发生了不小的变化。 刚参加工作那会儿，总觉得“忙”是一件很可怕的事情。不能准时下班可怕，月底月初更可怕。今天忙，就担心明天会更忙；今天没做完，就焦虑以后是不是都要这样过。那时候的生活，总像是在追赶一辆永远追不上的列车。 有时候很晚才回到住处，为了给自己多留一点放松的时间，匆匆洗完澡，… |
