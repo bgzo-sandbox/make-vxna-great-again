@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-07-05 | [游记｜吹17度江风，吃地道豆腐包，建德3天2晚散漫自驾](https://blog.ops-coffee.com/r/city-china-zhejiang-hangzhou-jiande-yanzhougucheng.html) |  |
+| 2026-07-05 | [声画共生：黄贯中的摇滚美学宇宙](https://chengpeiquan.com/article/paul-wong-sound-and-image-coexistence) | 今年第一次在周末踏出家门，来看阿 Paul 的画展。 这个美术馆离我其实很近，但是加班和下雨，整整两个多月，在临近闭展的最后一周才过来。 回到了 1997 踏进美术馆的那一刻，脑海里就自动响起 BGM ： 这是谁的路，难为你讨好 今天带著问号，投入你怀抱 回到了 1997 年前后《回家》、《大时代》… |
 | 2026-07-05 | [AI Infra：数据库没有过时，只是被 Agent 推动重构](https://luweiqing.com/resources/The-database-is-not-outdated-it-is-just-being-refactored-by-agents.html) | 最近，智能体（Agent）概念热度极高，其影响力之大，以至于各类基础软件若未能与之结合，便仿佛面临被时代淘汰的风险。一种典型论调随之涌现：“在 Agent 时代，传统数据库与存储系统将被彻底颠覆... |
 | 2026-07-05 | [2026.7.5](https://www.justzht.com/2026-7-5/) | 现在是周日的早上三点十二。电视机里还在滚着极乐迪斯科的制作人员名单，想看看滚完会不会有什么特别的东西 |
 | 2026-07-05 | [互联网规则偏爱那些随时准备走的人](https://blog.solazy.me/20260705/) | 聊聊今天「一号店」续费的事儿 |
