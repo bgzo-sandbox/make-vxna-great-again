@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-05 | [互联网规则偏爱那些随时准备走的人](https://blog.solazy.me/20260705/) | 聊聊今天「一号店」续费的事儿 |
+| 2026-07-05 | [恒生银行内地见证开户攻略](https://blog.debuginn.com/p/bank-hang-seng/) | 大家好呀，我是 Meng小羽。 之前写过《 渣打银行内地见证开户攻略 》，分享了通过渣打中国做内地见证开港户的方案。文章发出去之后，后台陆续有朋友问我： 除了渣打，还有没有别的银行可以不用跑香港就能开港卡？ 有的。这篇聊聊另一个同样支持内地见证开户的银行—— 恒生银行 。 恒生对一些朋友来说可能稍微… |
 | 2026-07-05 | [使用迷你小主机作为本地服务器部署rss等信息流](https://dsx2016.com/use-a-mini-pc-as-a-local-server-to-host-rss-feeds-and-other-information-streams/) | 迷你小主机 目前云vps服务器，有一个还有半个月就要到期了，内存只有2G，无法满足我当前的服务器需求 还有一个... 使用迷你小主机作为本地服务器部署rss等信息流 最先出现在 大师兄2016 。 |
 | 2026-07-05 | [迷你小主机零刻EQ59设置WSL2+Ubuntu24.04 server部署docker rss](https://dsx2016.com/deploying-docker-rss-on-wsl2-ubuntu-24-04-server/) | docker desktop 问题记录 优先在迷你小主机的windows系统上安装了docker deskto... 迷你小主机零刻EQ59设置WSL2+Ubuntu24.04 server部署docker rss 最先出现在 大师兄2016 。 |
 | 2026-07-05 | [给了孩子就是他的](https://www.hecaitou.com/2026/07/once-given-its-theirs.html) | 这些年行走江湖遇见过很多人，大多都是现代浪人，远离了土地和家乡在外地谋生、扎根，变成一代移民。虽然大家的生活千差万别，但是谈到家乡的时候都会有一个共同的伤感话题：自己曾经的痕迹被抹掉了。 要么是自己的旧物被悄然处理掉，要么是自己的房间被改头换面，要么是自己的老房子在变卖之后才得到通知。 这里所有的「… |
