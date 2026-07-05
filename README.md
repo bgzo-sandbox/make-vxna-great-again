@@ -27,7 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-05 | [使用迷你小主机作为本地服务器部署rss等信息流](https://dsx2016.com/use-a-mini-pc-as-a-local-server-to-host-rss-feeds-and-other-information-streams/) | 迷你小主机 目前云vps服务器，有一个还有半个月就要到期了，内存只有2G，无法满足我当前的服务器需求 还有一个... 使用迷你小主机作为本地服务器部署rss等信息流 最先出现在 大师兄2016 。 |
+| 2026-07-05 | [迷你小主机零刻EQ59设置WSL2+Ubuntu24.04 server部署docker rss](https://dsx2016.com/deploying-docker-rss-on-wsl2-ubuntu-24-04-server/) | docker desktop 问题记录 优先在迷你小主机的windows系统上安装了docker deskto... 迷你小主机零刻EQ59设置WSL2+Ubuntu24.04 server部署docker rss 最先出现在 大师兄2016 。 |
+| 2026-07-05 | [给了孩子就是他的](https://www.hecaitou.com/2026/07/once-given-its-theirs.html) | 这些年行走江湖遇见过很多人，大多都是现代浪人，远离了土地和家乡在外地谋生、扎根，变成一代移民。虽然大家的生活千差万别，但是谈到家乡的时候都会有一个共同的伤感话题：自己曾经的痕迹被抹掉了。 要么是自己的旧物被悄然处理掉，要么是自己的房间被改头换面，要么是自己的老房子在变卖之后才得到通知。 这里所有的「… |
 | 2026-07-05 | [≡ 003｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/24963.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-05 | [最近惦念 20260625](https://z.arlmy.me/posts/TILs/thoughts/20260625_Recently/) | 「成为人类亚种。」 |
+| 2026-07-05 | [Toots 426 2026 Jun.27 - Jul.4](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260704/) | 「心学的表征。」 |
 | 2026-07-05 | [云南系列｜Day 7 返程前在丽江的一天](https://blog.yasking.org/a/series-yunnan-travel-day7.html) | 云南旅行系列 1 大理洱海之行（上） 2 大理洱海之行（下） 3 周城扎染 & 抵达剑川 4 剑川古城记录 5-6 在沙溪古镇的两天 7 返程 … |
 | 2026-07-04 | [Bear Blog Theme: Vermilion](https://anotherdayu.com/vermilion/) | 最近给博客换了一套适配 Bear Blog 的自制主题，取名 Vermilion（朱砂）。 正文用衬线字体窄栏排版，行距放宽，适合中英文混排阅读，背景模拟了泛黄旧书的质感。 截图留念： 完整 CSS： / ===============================================… |
 | 2026-07-04 | [分享一个 Polymarket 的 BTC 5分钟策略](https://smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/) | <a href="#免责声明" class="headerlink" |
@@ -42,6 +47,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-03 | [下班以后](https://yinji.org/life-after-work.html) | 工作两年多，心性发生了不小的变化。 刚参加工作那会儿，总觉得“忙”是一件很可怕的事情。不能准时下班可怕，月底月初更可怕。今天忙，就担心明天会更忙；今天没做完，就焦虑以后是不是都要这样过。那时候的生活，总像是在追赶一辆永远追不上的列车。 有时候很晚才回到住处，为了给自己多留一点放松的时间，匆匆洗完澡，… |
 | 2026-07-03 | [省力的解释，不等于答案](https://www.linggandianbo.com/newsletter-130/) | AI 并非普通工具，棉花糖不是德性测验，自然也不是道德法庭｜灵感电波 #130 |
 | 2026-07-03 | [翻译-现实拥有令人惊讶的丰富细节](https://blog.prayhand13013.top/20260703T142420--翻译-现实拥有令人惊讶的丰富细节__blog.html) |  |
+| 2026-07-03 | [树莓派，旧电脑，无显卡，纯cpu驱动的ai低配方案](https://dsx2016.com/a-low-end-ai-setup-driven-purely-by-the-cpuusing-a-raspberry-pi-or-an-old-pc-without-a-dedicated-graphics-card/) | cpu 本文主要梳理，仅cpu可运行的ai本地方案 可运行在没有显卡的电脑，旧笔记本，甚至是树莓派等嵌入式小型... 树莓派，旧电脑，无显卡，纯cpu驱动的ai低配方案 最先出现在 大师兄2016 。 |
 | 2026-07-03 | [野狗](https://mobius.blog/24974.html) | 小区有条野狗，住在冬暖夏凉的车库里，但这只狗没人专门喂它，它也全是靠蹭投喂给流浪猫的食物过日子，猫吃完了它才去 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-03 | [在辅导孩子之前，自己先去做个心理辅导](https://www.hecaitou.com/2026/07/want-to-tutor-your-kids-start-with-therapy.html) | 在过去的两周，我在网上频繁地看到一道几何题，每一次在留言区都会引发大战。这道题本身很简单，但是无数成人会泾渭分明地分成两个阵营，一方坚持答案是 15° 角，另一方则认定是 30° 角。重点是，当第一个人开始贴出答案，两帮人马就会纷纷下场，相互攻击对方。 其中，双方都高频使用的一句话是这样的：就你这样… |
 | 2026-07-03 | [ChatGPT K12-Team账号绕过手机验证登录并使用CodeX](https://www.cheshirex.com/10621.html) | 前面发了使用Gmail开通ChatGPT K12-Team账号的教程，现在发下怎么登陆codex。 有两种方式 […] |

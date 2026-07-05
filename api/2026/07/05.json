@@ -1,10 +1,45 @@
 [
   {
+    "title": "使用迷你小主机作为本地服务器部署rss等信息流",
+    "url": "https://dsx2016.com/use-a-mini-pc-as-a-local-server-to-host-rss-feeds-and-other-information-streams/",
+    "date": "2026-07-05T06:16:32Z",
+    "description": "迷你小主机 目前云vps服务器，有一个还有半个月就要到期了，内存只有2G，无法满足我当前的服务器需求 还有一个... 使用迷你小主机作为本地服务器部署rss等信息流 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "迷你小主机零刻EQ59设置WSL2+Ubuntu24.04 server部署docker rss",
+    "url": "https://dsx2016.com/deploying-docker-rss-on-wsl2-ubuntu-24-04-server/",
+    "date": "2026-07-05T06:13:56Z",
+    "description": "docker desktop 问题记录 优先在迷你小主机的windows系统上安装了docker deskto... 迷你小主机零刻EQ59设置WSL2+Ubuntu24.04 server部署docker rss 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "给了孩子就是他的",
+    "url": "https://www.hecaitou.com/2026/07/once-given-its-theirs.html",
+    "date": "2026-07-05T04:57:02Z",
+    "description": "这些年行走江湖遇见过很多人，大多都是现代浪人，远离了土地和家乡在外地谋生、扎根，变成一代移民。虽然大家的生活千差万别，但是谈到家乡的时候都会有一个共同的伤感话题：自己曾经的痕迹被抹掉了。 要么是自己的旧物被悄然处理掉，要么是自己的房间被改头换面，要么是自己的老房子在变卖之后才得到通知。 这里所有的「自己的」都要打上一个引号，因为这是一个人的执念，对自我的执着，而不是一个事实。 事实是父母没有义务在自己家里为你永久保存旧物，如果你当真心爱无比，那么你一定会走到哪里带到哪里去。而那间房是父母当初在抚养你成长时，专门划分给你的一间而已，但房子是属于他们的，他们有权处置自己的房子，自己的家，并不需要征得孩子同意。 但这并不影响伤感，也不影响受伤。 昨天我看到一个非常鲜活的案例，读者中的一位母亲觉得孩子已经长大，想要挂闲鱼卖掉家里的旧绘本，然而孩子说了一句很古怪的话：那上面不会有人买的。 母亲是按照字面理解，问我是不是真的。我用阅读潜台词的方式理解，认为孩子真实的想法是不要卖，但是又不能和母亲直接对抗，所以就说出了自己的期待：虽然挂上去了，但是没有人来买。这样一来，自己还是可以保留下那些自己童年",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
     "title": "≡ 003｜这一周莫比乌斯环转到了哪里？",
     "url": "https://mobius.blog/24963.html",
     "date": "2026-07-05T01:00:00Z",
     "description": "—— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "最近惦念 20260625",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260625_Recently/",
+    "date": "2026-07-05T00:35:27Z",
+    "description": "「成为人类亚种。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Toots 426 2026 Jun.27 - Jul.4",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260704/",
+    "date": "2026-07-05T00:26:27Z",
+    "description": "「心学的表征。」",
+    "source_root_domain": "arlmy.me"
   },
   {
     "title": "云南系列｜Day 7 返程前在丽江的一天",
@@ -103,6 +138,13 @@
     "date": "2026-07-03T06:24:00Z",
     "description": "",
     "source_root_domain": "tomoemami.github.io"
+  },
+  {
+    "title": "树莓派，旧电脑，无显卡，纯cpu驱动的ai低配方案",
+    "url": "https://dsx2016.com/a-low-end-ai-setup-driven-purely-by-the-cpuusing-a-raspberry-pi-or-an-old-pc-without-a-dedicated-graphics-card/",
+    "date": "2026-07-03T05:52:31Z",
+    "description": "cpu 本文主要梳理，仅cpu可运行的ai本地方案 可运行在没有显卡的电脑，旧笔记本，甚至是树莓派等嵌入式小型... 树莓派，旧电脑，无显卡，纯cpu驱动的ai低配方案 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
   },
   {
     "title": "野狗",
