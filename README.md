@@ -29,6 +29,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | --- | --- | --- |
 | 2026-07-05 | [AI Infra：数据库没有过时，只是被 Agent 推动重构](https://luweiqing.com/resources/The-database-is-not-outdated-it-is-just-being-refactored-by-agents.html) | 最近，智能体（Agent）概念热度极高，其影响力之大，以至于各类基础软件若未能与之结合，便仿佛面临被时代淘汰的风险。一种典型论调随之涌现：“在 Agent 时代，传统数据库与存储系统将被彻底颠覆... |
 | 2026-07-05 | [2026.7.5](https://www.justzht.com/2026-7-5/) | 现在是周日的早上三点十二。电视机里还在滚着极乐迪斯科的制作人员名单，想看看滚完会不会有什么特别的东西 |
+| 2026-07-05 | [游记｜吹17度江风，吃地道豆腐包，建德3天2晚散漫自驾](https://blog.ops-coffee.com/r/city-china-zhejiang-hangzhou-jiande-yanzhougucheng.html) |  |
 | 2026-07-05 | [互联网规则偏爱那些随时准备走的人](https://blog.solazy.me/20260705/) | 聊聊今天「一号店」续费的事儿 |
 | 2026-07-05 | [恒生银行内地见证开户攻略](https://blog.debuginn.com/p/bank-hang-seng/) | 大家好呀，我是 Meng小羽。 之前写过《 渣打银行内地见证开户攻略 》，分享了通过渣打中国做内地见证开港户的方案。文章发出去之后，后台陆续有朋友问我： 除了渣打，还有没有别的银行可以不用跑香港就能开港卡？ 有的。这篇聊聊另一个同样支持内地见证开户的银行—— 恒生银行 。 恒生对一些朋友来说可能稍微… |
 | 2026-07-05 | [使用迷你小主机作为本地服务器部署rss等信息流](https://dsx2016.com/use-a-mini-pc-as-a-local-server-to-host-rss-feeds-and-other-information-streams/) | 迷你小主机 目前云vps服务器，有一个还有半个月就要到期了，内存只有2G，无法满足我当前的服务器需求 还有一个... 使用迷你小主机作为本地服务器部署rss等信息流 最先出现在 大师兄2016 。 |
@@ -38,6 +39,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-05 | [最近惦念 20260625](https://z.arlmy.me/posts/TILs/thoughts/20260625_Recently/) | 「成为人类亚种。」 |
 | 2026-07-05 | [Toots 426 2026 Jun.27 - Jul.4](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260704/) | 「心学的表征。」 |
 | 2026-07-05 | [云南系列｜Day 7 返程前在丽江的一天](https://blog.yasking.org/a/series-yunnan-travel-day7.html) | 云南旅行系列 1 大理洱海之行（上） 2 大理洱海之行（下） 3 周城扎染 & 抵达剑川 4 剑川古城记录 5-6 在沙溪古镇的两天 7 返程 … |
+| 2026-07-05 | [2026年第26、27周：抬头看天边飘过云海](https://blog.sakoamc.com/posts/262627/) | 题记：电子物件的寿命真的好短，世界也真是个草台班子。 |
 | 2026-07-04 | [Bear Blog Theme: Vermilion](https://anotherdayu.com/vermilion/) | 最近给博客换了一套适配 Bear Blog 的自制主题，取名 Vermilion（朱砂）。 正文用衬线字体窄栏排版，行距放宽，适合中英文混排阅读，背景模拟了泛黄旧书的质感。 截图留念： 完整 CSS： / ===============================================… |
 | 2026-07-04 | [分享一个 Polymarket 的 BTC 5分钟策略](https://smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/) | <a href="#免责声明" class="headerlink" |
 | 2026-07-04 | [夏雨](https://tianheg.co/posts/summer-rain/) | 七点十一起床，七点二十六开始跑步，跑了四十分钟，7.02 公里。和上周日比起来，这次跑前二十分钟要轻松一些，后二十分钟有些突破极限了，因为我的腰部开始有痛的感觉，这不是病痛，而是当跑步没有成为习惯时的一种身体反应。当我继续跑时，那种痛感自然消退了。 我的运气还算不错，当我跑完走路休息时，开始下雨了。… |
