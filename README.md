@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-05 | [AI Infra：数据库没有过时，只是被 Agent 推动重构](https://luweiqing.com/resources/The-database-is-not-outdated-it-is-just-being-refactored-by-agents.html) | 最近，智能体（Agent）概念热度极高，其影响力之大，以至于各类基础软件若未能与之结合，便仿佛面临被时代淘汰的风险。一种典型论调随之涌现：“在 Agent 时代，传统数据库与存储系统将被彻底颠覆... |
+| 2026-07-05 | [2026.7.5](https://www.justzht.com/2026-7-5/) | 现在是周日的早上三点十二。电视机里还在滚着极乐迪斯科的制作人员名单，想看看滚完会不会有什么特别的东西 |
 | 2026-07-05 | [互联网规则偏爱那些随时准备走的人](https://blog.solazy.me/20260705/) | 聊聊今天「一号店」续费的事儿 |
 | 2026-07-05 | [恒生银行内地见证开户攻略](https://blog.debuginn.com/p/bank-hang-seng/) | 大家好呀，我是 Meng小羽。 之前写过《 渣打银行内地见证开户攻略 》，分享了通过渣打中国做内地见证开港户的方案。文章发出去之后，后台陆续有朋友问我： 除了渣打，还有没有别的银行可以不用跑香港就能开港卡？ 有的。这篇聊聊另一个同样支持内地见证开户的银行—— 恒生银行 。 恒生对一些朋友来说可能稍微… |
 | 2026-07-05 | [使用迷你小主机作为本地服务器部署rss等信息流](https://dsx2016.com/use-a-mini-pc-as-a-local-server-to-host-rss-feeds-and-other-information-streams/) | 迷你小主机 目前云vps服务器，有一个还有半个月就要到期了，内存只有2G，无法满足我当前的服务器需求 还有一个... 使用迷你小主机作为本地服务器部署rss等信息流 最先出现在 大师兄2016 。 |
