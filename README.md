@@ -27,8 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-05 | [≡ 003｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/24963.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-05 | [云南系列｜Day 7 返程前在丽江的一天](https://blog.yasking.org/a/series-yunnan-travel-day7.html) | 云南旅行系列 1 大理洱海之行（上） 2 大理洱海之行（下） 3 周城扎染 & 抵达剑川 4 剑川古城记录 5-6 在沙溪古镇的两天 7 返程 … |
 | 2026-07-04 | [Bear Blog Theme: Vermilion](https://anotherdayu.com/vermilion/) | 最近给博客换了一套适配 Bear Blog 的自制主题，取名 Vermilion（朱砂）。 正文用衬线字体窄栏排版，行距放宽，适合中英文混排阅读，背景模拟了泛黄旧书的质感。 截图留念： 完整 CSS： / ===============================================… |
 | 2026-07-04 | [分享一个 Polymarket 的 BTC 5分钟策略](https://smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/) | <a href="#免责声明" class="headerlink" |
+| 2026-07-04 | [夏雨](https://tianheg.co/posts/summer-rain/) | 七点十一起床，七点二十六开始跑步，跑了四十分钟，7.02 公里。和上周日比起来，这次跑前二十分钟要轻松一些，后二十分钟有些突破极限了，因为我的腰部开始有痛的感觉，这不是病痛，而是当跑步没有成为习惯时的一种身体反应。当我继续跑时，那种痛感自然消退了。 我的运气还算不错，当我跑完走路休息时，开始下雨了。… |
 | 2026-07-04 | [周末流水账 0704](https://blog.solazy.me/20260704/) | 今天给大脑放个假，写一写流水账 |
 | 2026-07-04 | [试图使用 Ungoogled Chromium](https://re.karlbaey.top/articles/rocky-road/ungoogled-chromium/) | 由于一次次地被谷歌激怒，我打算把这个 Google 厚颜无耻地打包好的、充满各种与 Google 服务器通讯的、让人勃然 … |
 | 2026-07-04 | [BMAD Loop：把开发循环的控制权，交还给确定性代码](https://gptkit.eth.limo/EB5A909F-7AF2-4464-BF3E-6EF4ADCFDE7A/) | 如果你看过我之前那篇 Story Automator 上手实录 ，应该还记得我最后的结论： 白天手工跑，目前还是自己手工跑会更快。但睡前把一批 Story 交给它过夜跑，这个场景它真的挺合适。 那篇文章里我留了个没回答的问题—— 为什么它跑得比人手工还慢？ 我当时说"还没仔细分析它的实现原理"。 现… |
@@ -114,15 +117,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-28 | [Toots 425 2026 Jun.21 - Jun.27](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260627/) | 「记，是浪费和耗散的证明，高光，是身体的记和体验。」 |
 | 2026-06-28 | [New Release: Heretic II](https://macsourceports.com/game/heretic2) | First there was Heretic , then there was Hexen , then there was Hexen II , and finally...… |
 | 2026-06-28 | [这一周莫比乌斯环转到了哪里？](https://mobius.blog/24853.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-27 | [为什么我只跟练帕梅拉？](https://www.geedea.pro/article/pamela-reif/) | 我的健身理念是，应当全面发展身体机能，而我主要关注四个方面：心肺能力、核心稳定性、肌肉力量和柔韧性。它们分别对应四种训练：有氧运动、核心训练、力量训练和拉伸。对我来说，唯一需要视频跟练的只有有氧运动，因为核心训练、力量训练以及拉伸，都有固定的几种体式，比方说平板支撑和 折刀式 可以锻炼核心；力量训练… |
-| 2026-06-27 | [别把道德当武器](https://blog.solazy.me/20260627/) | 今天随便聊聊，不想写流水账了 |
-| 2026-06-27 | [我花 25 块钱，把 10 年前的矿机买回来了：重走 BTC 之路](https://blog.renfei.net/posts/1626402130325676141) | 花 25 元买回十年前的蚂蚁矿机 U3，实测 CPU、RTX 2080 Ti、Bitaxe Gamma 601 参与 BTCC SHA-256 挖矿，并对比 PPLNS、SOLO 与 AIRDROP 矿池玩法。 |
-| 2026-06-27 | [新商标法将于2027年正式施行，那些商标代理商可能要慌了](https://www.iyeslogo.com/shangbiaofa-2027/) | 商标法完成第五次修订 |
-| 2026-06-27 | [AI Infra：企业 Token 精炼厂是企业 AI 落地的下一阶段](https://luweiqing.com/gossip/AI-Infra-Token-AI.html) | 从模型军备竞赛到业务语义战争过去两年，企业AI的讨论始终围绕三个关键词展开：更大的模型、更便宜的推理、更长的Context。这三个方向本质上都是在优化「大模型处理通用信息的能力」，而当GPU算力... |
-| 2026-06-27 | [Je déteste la vi(ll)e](https://www.geedea.pro/article/je-deteste-la-ville/) | 读加缪的戏剧《误会》时，我竟与一位反派共鸣甚深。女子玛尔塔与母亲经营一家旅店，因位置偏僻，生意不好，她们常干杀人的行当，在夜里把房客迷晕，偷走行李，再把人扔进河里，与其他落水鬼同眠。她们这样安慰自己：生活待他们更差，和生活一对比，我们干的事情就没那么罪恶了。 玛尔塔痛恨这个小镇，那里离海很远，照不到… |
-| 2026-06-27 | [手段刚好是考试而已](https://www.hecaitou.com/2026/06/an-exam-is-merely-the-means.html) | 每年我写的文章都会被老师拿去做成阅读理解题，每年也都会有小同学跑到我这里抱怨，因此我每年都要向小同学道歉。 有人猜测我心中暗喜，不过是表面上装作歉意的样子，是一种不大高明的凡尔赛演出，其实脚上木屐的齿都因为心花怒放而不留神折断了。爱怎么想就怎么想吧，自己高兴就行。 不过对于语文考试或者说阅读理解，我… |
-| 2026-06-27 | [您受累，搞个大新闻儿！](https://mobius.blog/24866.html) | 最近很多自媒体都在讨论“韩红塌房”的新闻。简中媒体比较有趣的是，大家都知道是什么原因，但大家因为内容敏感而不能 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-27 | [Python 潮流周刊#156：Pydantic 接管 httpx 始末](https://pythoncat.top/posts/2026-06-27-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 
 ## Vibe Coding
 

@@ -1,0 +1,149 @@
+[
+  {
+    "title": "≡ 003｜这一周莫比乌斯环转到了哪里？",
+    "url": "https://mobius.blog/24963.html",
+    "date": "2026-07-05T01:00:00Z",
+    "description": "—— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "云南系列｜Day 7 返程前在丽江的一天",
+    "url": "https://blog.yasking.org/a/series-yunnan-travel-day7.html",
+    "date": "2026-07-05T00:01:40Z",
+    "description": "云南旅行系列 1 大理洱海之行（上） 2 大理洱海之行（下） 3 周城扎染 & 抵达剑川 4 剑川古城记录 5-6 在沙溪古镇的两天 7 返程 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "Bear Blog Theme: Vermilion",
+    "url": "https://anotherdayu.com/vermilion/",
+    "date": "2026-07-04T21:47:00Z",
+    "description": "最近给博客换了一套适配 Bear Blog 的自制主题，取名 Vermilion（朱砂）。 正文用衬线字体窄栏排版，行距放宽，适合中英文混排阅读，背景模拟了泛黄旧书的质感。 截图留念： 完整 CSS： / ============================================================ Vermilion — Bear Blog theme from https://anotherdayu.com/ Eggshell-gray paper / ink text / cinnabar seal accents / narrow airy column Usage: paste into Dashboard → Themes → Edit theme CSS ============================================================ / :root { --paper: #f4f3ef; / Sketch paper: cool-toned eggshell gray / --ink: #2d2b28; ",
+    "source_root_domain": "anotherdayu.com"
+  },
+  {
+    "title": "分享一个 Polymarket 的 BTC 5分钟策略",
+    "url": "https://smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/",
+    "date": "2026-07-04T17:32:20Z",
+    "description": "<a href=\"#免责声明\" class=\"headerlink\"",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "夏雨",
+    "url": "https://tianheg.co/posts/summer-rain/",
+    "date": "2026-07-04T16:00:00Z",
+    "description": "七点十一起床，七点二十六开始跑步，跑了四十分钟，7.02 公里。和上周日比起来，这次跑前二十分钟要轻松一些，后二十分钟有些突破极限了，因为我的腰部开始有痛的感觉，这不是病痛，而是当跑步没有成为习惯时的一种身体反应。当我继续跑时，那种痛感自然消退了。 我的运气还算不错，当我跑完走路休息时，开始下雨了。雨一开始几滴，几分钟后开始下毛毛雨，再过一分钟雨越下越急，再然后雨就大了起来。我在雨中走着，满是凉意的雨滴在我滚烫的手臂脸上身上，好舒服啊。在这深圳的夏天，有什么能比跑一场大汗淋漓的步后被雨洗澡更快乐的事情呢！ 走在雨中，望向远处的湖，我想要不要拍个照呢？犹豫间身体已经走过去，在大雨下，我拿着淋雨的手机拍了两张湖面下雨的照片，留下一张看着更大的。 看到雨中有人仍在跑步，我突然好奇：雨中跑步什么感觉呢？于是，开始跑，跑了一段路，畅快无比。雨中跑步同样别有一番滋味啊。",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "周末流水账 0704",
+    "url": "https://blog.solazy.me/20260704/",
+    "date": "2026-07-04T15:00:00Z",
+    "description": "今天给大脑放个假，写一写流水账",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "试图使用 Ungoogled Chromium",
+    "url": "https://re.karlbaey.top/articles/rocky-road/ungoogled-chromium/",
+    "date": "2026-07-04T13:50:31Z",
+    "description": "由于一次次地被谷歌激怒，我打算把这个 Google 厚颜无耻地打包好的、充满各种与 Google 服务器通讯的、让人勃然 …",
+    "source_root_domain": "karlbaey.top"
+  },
+  {
+    "title": "BMAD Loop：把开发循环的控制权，交还给确定性代码",
+    "url": "https://gptkit.eth.limo/EB5A909F-7AF2-4464-BF3E-6EF4ADCFDE7A/",
+    "date": "2026-07-04T06:22:11Z",
+    "description": "如果你看过我之前那篇 Story Automator 上手实录 ，应该还记得我最后的结论： 白天手工跑，目前还是自己手工跑会更快。但睡前把一批 Story 交给它过夜跑，这个场景它真的挺合适。 那篇文章里我留了个没回答的问题—— 为什么它跑得比人手工还慢？ 我当时说\"还没仔细分析它的实现原理\"。 现在 BMAD 6.10 把这套东西重写了一遍，改名 BMAD Loop ，也顺手把那个问题接上了。答案只有一句话，但它是理解整个设计的钥匙： 控制环里，不应该放 LLM。 先纠正一个最容易踩的误解 很多人第一次接触 BMAD Loop，会以为它是几个新 skill： bmad-loop-setup 、 bmad-loop-sweep 、 bmad-loop-resolve 、 bmad-dev-auto 。 不是。这几个 skill 本身什么也不做。 真正驱动循环的，是一个用 uv 从 Git 装进来的 Python 工具 —— bmad-loop 包（仓库在 bmad-code-org/bmad-loop ）。那几个 skill 只是编排器在循环的不同阶段会去调用的\"基本操作\"（官方文档里",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "在闲鱼找卖家",
+    "url": "https://www.hecaitou.com/2026/07/the-art-of-spotting-good-sellers-on-xianyu.html",
+    "date": "2026-07-04T04:23:15Z",
+    "description": "经过我这几年的实践，我认为如果要论购物的乐趣，一堆电商平台加起来都不够闲鱼一只手打的。只有闲鱼同时满足了买家的三大购物需求：1、捡便宜。2、发现新玩意儿。3、和卖家讨价还价，相互拉扯。 这里我想讨论的是隐藏乐趣，也就是在鱼龙混杂的海鲜市场里，如何能找出靠谱的卖家。之所以会成为一种乐趣，是因为每一个中国人生下来就不断接受教育，学习如何避开骗子，属于出生点自动赋予的种族加成。这就像是学会骑自行车之后，在拥挤的老街上顺利骑行一段所获得的内心满足感，远远超过在空无一人的车道里骑十公里。 首先，我认为应该避开一切文案写得很好，很动人，情绪很饱满的卖家。我自己是文字工作者，天然偏好用文字判断一个人，结果在闲鱼上过最多的当都是因为文案。 后来我总结了两点解释。第一，当一个人试图骗人的时候，话就会特别多一些，就喜欢赌咒发誓放狠话，只有高段位骗子才知道如何使用沉默这种高级诈骗手段，让买家自行脑补。第二，当一个人对自己的货品很自信，或者在这个领域内很专业的时候，他要么不屑于自证，要么不屑于科普小白，而且这种人通常没有时间可以浪费在文案上。 其次我认为应该考察卖家个人信用资料。一是看看成交了多少笔，然后评价",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Python 潮流周刊#157：CPython JIT 的开发计划",
+    "url": "https://pythoncat.top/posts/2026-07-04-weekly/",
+    "date": "2026-07-04T00:00:00Z",
+    "description": "分享了 12 篇文章，12 个开源项目",
+    "source_root_domain": "pythoncat.top"
+  },
+  {
+    "title": "Memos #2026-07-03",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-07-04T00:00:00Z",
+    "description": "10:08 “写了一半，这种内容最好不要让 AI 写，但我又觉得自己根本想不出来应该怎么写。” 23:00 终于明白老白的货为什么这么畅销，用了两天 Fable 5，感觉 Opus 4.8 的纯度不够了。",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "完成比完美更诚实",
+    "url": "https://blog.solazy.me/20260703/",
+    "date": "2026-07-03T15:00:00Z",
+    "description": "日更最难的不是挤出字数，而是承认今天的水平就到这儿。放过对完美的执念，诚实地完成它。",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "下班以后",
+    "url": "https://yinji.org/life-after-work.html",
+    "date": "2026-07-03T14:41:24Z",
+    "description": "工作两年多，心性发生了不小的变化。 刚参加工作那会儿，总觉得“忙”是一件很可怕的事情。不能准时下班可怕，月底月初更可怕。今天忙，就担心明天会更忙；今天没做完，就焦虑以后是不是都要这样过。那时候的生活，总像是在追赶一辆永远追不上的列车。 有时候很晚才回到住处，为了给自己多留一点放松的时间，匆匆洗完澡，躺在床上刷视频。眼睛一边盯着时间，一边告诉自己“再看五分钟”，直到不得不放下手机，生怕睡得太晚，第二天起不来。 现在还是一样忙。 月初月底照样加班，下班回家后属于自己的时间依然不多。但心态已经不一样了。 回到家，从冰箱里拿出一罐冰镇啤酒，磕点瓜子，吃点花生和辣条，打开电视，能看一集是一集，看一集就算...... 继续阅读»»»",
+    "source_root_domain": "yinji.org"
+  },
+  {
+    "title": "省力的解释，不等于答案",
+    "url": "https://www.linggandianbo.com/newsletter-130/",
+    "date": "2026-07-03T08:12:48Z",
+    "description": "AI 并非普通工具，棉花糖不是德性测验，自然也不是道德法庭｜灵感电波 #130",
+    "source_root_domain": "linggandianbo.com"
+  },
+  {
+    "title": "翻译-现实拥有令人惊讶的丰富细节",
+    "url": "https://blog.prayhand13013.top/20260703T142420--翻译-现实拥有令人惊讶的丰富细节__blog.html",
+    "date": "2026-07-03T06:24:00Z",
+    "description": "",
+    "source_root_domain": "tomoemami.github.io"
+  },
+  {
+    "title": "野狗",
+    "url": "https://mobius.blog/24974.html",
+    "date": "2026-07-03T05:01:01Z",
+    "description": "小区有条野狗，住在冬暖夏凉的车库里，但这只狗没人专门喂它，它也全是靠蹭投喂给流浪猫的食物过日子，猫吃完了它才去 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "在辅导孩子之前，自己先去做个心理辅导",
+    "url": "https://www.hecaitou.com/2026/07/want-to-tutor-your-kids-start-with-therapy.html",
+    "date": "2026-07-03T04:21:11Z",
+    "description": "在过去的两周，我在网上频繁地看到一道几何题，每一次在留言区都会引发大战。这道题本身很简单，但是无数成人会泾渭分明地分成两个阵营，一方坚持答案是 15° 角，另一方则认定是 30° 角。重点是，当第一个人开始贴出答案，两帮人马就会纷纷下场，相互攻击对方。 其中，双方都高频使用的一句话是这样的：就你这样，以后最好还是不要辅导孩子了。 我把这道题转到了我的公众号，非常自信地发布了一篇《 这道题两周里我看到了 N次 》。因为我认为我的读者经过了我多年的筛选，应该和那些热衷吵架的网友有所不同。但是残酷的现实打了我的脸，我把留言区从头看到尾，现场的惨烈程度和别处没有多少区别。 🚪传送门：《 这道题两周里我看到了 N次 》 很多读者应该猜到今天我会就此写一篇文章，其中有些人甚至会猜想我要写人和人的沟通多么艰难，或者猜想我要写为什么人会出现思维上的盲区却不能自觉，又或者是写今昔对比，讨论网络的氛围为什么会变成今天这个样子。 都不是，我一遍又一遍地看，起初还笑得出来，然而看的次数越多，看到卷入的人越多，我心里就越发觉得难过。因为我注意到，很多人都很快越过了讨论数学题，迅速地进入人身攻击阶段，而且是极为熟",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "ChatGPT K12-Team账号绕过手机验证登录并使用CodeX",
+    "url": "https://www.cheshirex.com/10621.html",
+    "date": "2026-07-03T02:51:56Z",
+    "description": "前面发了使用Gmail开通ChatGPT K12-Team账号的教程，现在发下怎么登陆codex。 有两种方式 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "使用Gmail开通ChatGPT K12-Team账号Plus会员",
+    "url": "https://www.cheshirex.com/10615.html",
+    "date": "2026-07-03T01:45:18Z",
+    "description": "后面可能很快封锁注册渠道，如果看到文章，就马上注册一个吧。 请注意不要使用大号注册，防止封号影响。 OpenA […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "视角、立场与新闻业",
+    "url": "https://mobius.blog/24922.html",
+    "date": "2026-07-03T01:00:00Z",
+    "description": "上周末，我在完成本周定时发送的有关“男性歧视”的话题之后，在频道上感慨了一下： 这段时间我都在解构“新闻”这件 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Cloudflare Tunnel 命令行使用教程",
+    "url": "https://blog.oofo.cc/posts/cloudflare-tunnel-cli",
+    "date": "2026-07-03T00:00:00Z",
+    "description": "## 概述 Cloudflare Tunnel 可以把你电脑或内网里的服务通过 Cloudflare 暴露到公网。它的好处是：本机不需要公网 IP，也不需要在路由器上做端口转发；`cloudflared` 会从本机主动连到 Cloudflare，再由 Cloudflare 把访问流量转发回来。 这篇文章主要记录命令行用法。示例里会保留少量 Windows 路径；macOS 和 Linux 用...",
+    "source_root_domain": "oofo.cc"
+  }
+]
