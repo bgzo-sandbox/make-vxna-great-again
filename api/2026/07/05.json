@@ -1,5 +1,12 @@
 [
   {
+    "title": "游记｜吹17度江风，吃地道豆腐包，建德3天2晚散漫自驾",
+    "url": "https://blog.ops-coffee.com/r/city-china-zhejiang-hangzhou-jiande-yanzhougucheng.html",
+    "date": "2026-07-05T18:08:22Z",
+    "description": "",
+    "source_root_domain": "ops-coffee.cn"
+  },
+  {
     "title": "AI Infra：数据库没有过时，只是被 Agent 推动重构",
     "url": "https://luweiqing.com/resources/The-database-is-not-outdated-it-is-just-being-refactored-by-agents.html",
     "date": "2026-07-05T12:50:49Z",
@@ -14,18 +21,18 @@
     "source_root_domain": "justzht.com"
   },
   {
-    "title": "游记｜吹17度江风，吃地道豆腐包，建德3天2晚散漫自驾",
-    "url": "https://blog.ops-coffee.com/r/city-china-zhejiang-hangzhou-jiande-yanzhougucheng.html",
-    "date": "2026-07-05T10:08:22Z",
-    "description": "",
-    "source_root_domain": "ops-coffee.cn"
-  },
-  {
     "title": "互联网规则偏爱那些随时准备走的人",
     "url": "https://blog.solazy.me/20260705/",
     "date": "2026-07-05T09:00:00Z",
     "description": "聊聊今天「一号店」续费的事儿",
     "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Vol.110 AI能力飙升背后，谁为智能买单？成本与价值的博弈",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-110",
+    "date": "2026-07-05T08:00:00Z",
+    "description": "本期内容探讨AI能力提升背后的真实成本：API价格、推理延迟、组织适应成本等，分析如何让智能转化为价值而非负担。",
+    "source_root_domain": "liduos.com"
   },
   {
     "title": "恒生银行内地见证开户攻略",
