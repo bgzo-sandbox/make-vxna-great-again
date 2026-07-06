@@ -1,5 +1,26 @@
 [
   {
+    "title": "被Fable抛弃的人",
+    "url": "https://mazzzystar.com/2026/07/06/fable-5/",
+    "date": "2026-07-06T16:41:22Z",
+    "description": "Claude Fable 5 回来了 ， 在回归前两天 Anthropic 针对中国用户大规模封号<span",
+    "source_root_domain": "mazzzystar.github.io"
+  },
+  {
+    "title": "为什么 AArch64 获取符号地址总是采用 ADRP + ADD 的形式",
+    "url": "https://i.hsfzxjy.site/aarch64-gas-pic-syntax/",
+    "date": "2026-07-06T12:37:00Z",
+    "description": "刚接触 AArch64 汇编的人往往会对编译器生成的一类代码感到困惑。 考虑下面这样一个简单的 C 函数： <div class=\"gk-code-disp",
+    "source_root_domain": "hsfzxjy.site"
+  },
+  {
+    "title": "或许「数羊」真是个有效的入睡法",
+    "url": "https://blog.est.im/2026/stderr-23",
+    "date": "2026-07-06T07:51:00Z",
+    "description": "无聊刷博客，《 AI如何导致和修复了我的失眠问题 》 这老哥真猛，通过统计规律发现自己 失眠 的罪魁祸首。（不剧透。感兴趣点开阅读） 我自己也写过 快速入睡的技巧和原理 以及 强行入睡方法 v2.0 其实我都忘记这个 2.0 方法了。都不知道自己当时怎么想到这个办法的，原来自己写的东西也能常看常新（老登健忘症😂），所以还是要多写，多记录 本文章的讨论都是基于这个 2.0方法的，接着看之前请务必点开 2.0 那个链接，不长，一会儿就看完。 然后我就无聊让AI 评价一下这个 2.0 方法是不是真的，然后AI说真有学者在搞类似的，关键词 ： 睡前“认知打断 / imagery distraction cognitive shuffle serial diverse imagining (SDI) 然后我去搜了下 TikTok和Instagram上爆火的“认知洗牌法”，火到连医生都开始推荐。选一个随机的单词（比如 cake，蛋糕），专注于这个词的第一个字母（C），然后列出一串以这个字母开头的词：cat（猫）、carrot（胡萝卜）、calendar（日历）等等，一边列举，一边在脑中想象这些词的",
+    "source_root_domain": "feedburner.com"
+  },
+  {
     "title": "大脑充血 Vol.88",
     "url": "https://www.geedea.pro/weekly/88/",
     "date": "2026-07-06T07:32:45Z",
@@ -12,6 +33,13 @@
     "date": "2026-07-06T03:56:00Z",
     "description": "ATM（Agent Token Manager）是一个面向AI Agent的Token管理平台。它并非传统API Gateway或LLM Proxy，而是围绕Token构建统一的计量、治理、结算...",
     "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "Agent 安全：环境变量泄露",
+    "url": "https://blog.singee.me/2026/07/06/395f4bee3ed780dd9246fbf1e2507b5f/",
+    "date": "2026-07-06T02:00:00Z",
+    "description": "最近在做一个 简单的 Agent 产品 ，这个产品的定位是个人自部署，所以初期并没有做太高的安全隔离设计（也没有使用现成的 Sandbox）。但临近发",
+    "source_root_domain": "singee.me"
   },
   {
     "title": "一扇罗生门",
@@ -122,7 +150,7 @@
     "title": "用 100U 开实盘：给价格行为学习交一次答卷",
     "url": "https://blog.forecho.com/bitget-100u-price-action-real-money-test.html",
     "date": "2026-07-05T02:00:00Z",
-    "description": "引言 过去一年多，我在 Prop Firm（自营交易考试平台）上买账号买了差不多一千多美金。反复挑战、反复爆仓、反复重买，中间就考过一次，一次都没出金。 心里一直卡着一个问题： 到底是 Prop Firm 的规则问题，还是我自己有问题？ Prop Firm 我暂时还不打算停 —— 毕竟成本低、练技术划算。但我想开一个实盘账户，掏 100U 到 Bitget，用价格行为跑一段时间，看看这一年多学的东西到底能不能落到自己的钱上。 AMP 拒了我，反倒是件好事 其实一开始我不是打算走这条路的。 前段时间我在申请美国的 AMP 期货账户，想走一条「正经」的路。表格里「职业」那一栏我随手填了「退休」 —— 当时刚好没工作，脑子一抽觉得这个词最省事，其实更准确的说法是「待业」。后来 AMP 客服邮件核实资料，我按流程补正，最后还是被判 KYC 不通过。 被拒的那一刻我挺轻松的，因为 AMP 那条路我本来就走得不太情愿： 出入金要走跨境银行卡 ，SWIFT 一等就是一两个工作日，而且还要被银行收一笔手续费 换汇一次收 30 美元手续费 ：一旦想做日经这种非美元品种就得换汇，来回一趟光手续费就 60 ",
+    "description": "引言 过去一年多，我一直在学 价格行为学（Price Action） ，练手场主要是 Prop Firm（自营交易考试平台）。买账号买了差不多一千多美金，反复挑战、反复爆仓、反复重买，中间就考过一次，一次都没出金。 心里一直卡着一个问题： 到底是 Prop Firm 的规则问题，还是我自己有问题？ Prop Firm 我暂时还不打算停 —— 毕竟成本低、练技术划算。但我想再开一个实盘账户，掏 100U 到 Bitget， 用的还是同一套价格行为技术分析，只是换到币圈合约做短线 ，跑一段时间看看这一年多学的东西到底能不能落到自己的钱上。 AMP 拒了我，反倒是件好事 其实一开始我不是打算走这条路的。 前段时间我在申请美国的 AMP 期货账户，想走一条「正经」的路。表格里「职业」那一栏我随手填了「退休」 —— 当时刚好没工作，脑子一抽觉得这个词最省事，其实更准确的说法是「待业」。后来 AMP 客服邮件核实资料，我按流程补正，最后还是被判 KYC 不通过。 被拒的那一刻我挺轻松的，因为 AMP 那条路我本来就走得不太情愿： 出入金要走跨境银行卡 ，SWIFT 一等就是一两个工作日，而且还要被",
     "source_root_domain": "forecho.com"
   },
   {

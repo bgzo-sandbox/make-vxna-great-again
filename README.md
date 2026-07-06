@@ -27,8 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-06 | [被Fable抛弃的人](https://mazzzystar.com/2026/07/06/fable-5/) | Claude Fable 5 回来了 ， 在回归前两天 Anthropic 针对中国用户大规模封号<span |
+| 2026-07-06 | [为什么 AArch64 获取符号地址总是采用 ADRP + ADD 的形式](https://i.hsfzxjy.site/aarch64-gas-pic-syntax/) | 刚接触 AArch64 汇编的人往往会对编译器生成的一类代码感到困惑。 考虑下面这样一个简单的 C 函数： <div class="gk-code-disp |
+| 2026-07-06 | [或许「数羊」真是个有效的入睡法](https://blog.est.im/2026/stderr-23) | 无聊刷博客，《 AI如何导致和修复了我的失眠问题 》 这老哥真猛，通过统计规律发现自己 失眠 的罪魁祸首。（不剧透。感兴趣点开阅读） 我自己也写过 快速入睡的技巧和原理 以及 强行入睡方法 v2.0 其实我都忘记这个 2.0 方法了。都不知道自己当时怎么想到这个办法的，原来自己写的东西也能常看常新（… |
 | 2026-07-06 | [大脑充血 Vol.88](https://www.geedea.pro/weekly/88/) | 下午好，这里是被实训课关在机房写 Java 和 Spring，审查组员提的 Pull Requests，合并和解决代码冲突到晕头转向的 Eltrac。这个天真的小男孩曾以为自己拿到了 Golang 岗位的 Offer 之后就再也不用写 Java 这种东西了，没想到，生活只会给他一拳又一拳的重击，拳打… |
 | 2026-07-06 | [AI Infra：ATM — 清程极智的Token管理平台（CC Switch类本地Gateway + Token FinOps）](https://luweiqing.com/resources/AI-Infra-ATM-Token-CC-Switch-Gateway-Token-FinOps.html) | ATM（Agent Token Manager）是一个面向AI Agent的Token管理平台。它并非传统API Gateway或LLM Proxy，而是围绕Token构建统一的计量、治理、结算... |
+| 2026-07-06 | [Agent 安全：环境变量泄露](https://blog.singee.me/2026/07/06/395f4bee3ed780dd9246fbf1e2507b5f/) | 最近在做一个 简单的 Agent 产品 ，这个产品的定位是个人自部署，所以初期并没有做太高的安全隔离设计（也没有使用现成的 Sandbox）。但临近发 |
 | 2026-07-06 | [一扇罗生门](https://mobius.blog/24945.html) | 今天在咖啡厅码字时，有一个意外插曲。 我在打开咖啡厅大门时，扑面而来一股夏天特有的酸臭味。我在进入其中时，就看 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-06 | [回归初心，文字为王](https://u.sb/writing-first/) | 这篇文章从一次博客重构说起，反思这些年从 WordPress、静态博客到 AI vibe coding 的不断折腾。技术和工具当然能让博客更快、更漂亮，但它们终究只是载体。真正能留下来的，不是框架、封面图或动画，而是一个人真实写下的文字和思考。与其追逐每一个新工具，不如回归初心，慢慢写博客，让文字重… |
 | 2026-07-06 | [Memos #2026-07-05](https://www.taober.blog/memos) | 14:27 牛肉的一百种做法。 |
@@ -44,7 +48,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-05 | [使用迷你小主机作为本地服务器部署rss等信息流](https://dsx2016.com/use-a-mini-pc-as-a-local-server-to-host-rss-feeds-and-other-information-streams/) | 迷你小主机 目前云vps服务器，有一个还有半个月就要到期了，内存只有2G，无法满足我当前的服务器需求 还有一个... 使用迷你小主机作为本地服务器部署rss等信息流 最先出现在 大师兄2016 。 |
 | 2026-07-05 | [迷你小主机零刻EQ59设置WSL2+Ubuntu24.04 server部署docker rss](https://dsx2016.com/deploying-docker-rss-on-wsl2-ubuntu-24-04-server/) | docker desktop 问题记录 优先在迷你小主机的windows系统上安装了docker deskto... 迷你小主机零刻EQ59设置WSL2+Ubuntu24.04 server部署docker rss 最先出现在 大师兄2016 。 |
 | 2026-07-05 | [给了孩子就是他的](https://www.hecaitou.com/2026/07/once-given-its-theirs.html) | 这些年行走江湖遇见过很多人，大多都是现代浪人，远离了土地和家乡在外地谋生、扎根，变成一代移民。虽然大家的生活千差万别，但是谈到家乡的时候都会有一个共同的伤感话题：自己曾经的痕迹被抹掉了。 要么是自己的旧物被悄然处理掉，要么是自己的房间被改头换面，要么是自己的老房子在变卖之后才得到通知。 这里所有的「… |
-| 2026-07-05 | [用 100U 开实盘：给价格行为学习交一次答卷](https://blog.forecho.com/bitget-100u-price-action-real-money-test.html) | 引言 过去一年多，我在 Prop Firm（自营交易考试平台）上买账号买了差不多一千多美金。反复挑战、反复爆仓、反复重买，中间就考过一次，一次都没出金。 心里一直卡着一个问题： 到底是 Prop Firm 的规则问题，还是我自己有问题？ Prop Firm 我暂时还不打算停 —— 毕竟成本低、练技术… |
+| 2026-07-05 | [用 100U 开实盘：给价格行为学习交一次答卷](https://blog.forecho.com/bitget-100u-price-action-real-money-test.html) | 引言 过去一年多，我一直在学 价格行为学（Price Action） ，练手场主要是 Prop Firm（自营交易考试平台）。买账号买了差不多一千多美金，反复挑战、反复爆仓、反复重买，中间就考过一次，一次都没出金。 心里一直卡着一个问题： 到底是 Prop Firm 的规则问题，还是我自己有问题？… |
 | 2026-07-05 | [≡ 003｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/24963.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-05 | [最近惦念 20260625](https://z.arlmy.me/posts/TILs/thoughts/20260625_Recently/) | 「成为人类亚种。」 |
 | 2026-07-05 | [Toots 426 2026 Jun.27 - Jul.4](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260704/) | 「心学的表征。」 |
