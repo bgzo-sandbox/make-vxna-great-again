@@ -28,9 +28,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-07-06 | [被Fable抛弃的人](https://mazzzystar.com/2026/07/06/fable-5/) | Claude Fable 5 回来了 ， 在回归前两天 Anthropic 针对中国用户大规模封号<span |
+| 2026-07-06 | [R#109 屏幕好多](https://blog.sakanano.moe/journals/random_109) | 2026.6.30 ~ 2026.7.6 |
+| 2026-07-06 | [树莓派zerow选什么系统好？](https://dsx2016.com/which-operating-system-is-best-for-the-raspberry-pi-zero-w/) | 树莓派zerow 我手上有一个树莓派zerow，关于系统选择梳理 树莓派 Zero W 用的是： CPU：BC... 树莓派zerow选什么系统好？ 最先出现在 大师兄2016 。 |
 | 2026-07-06 | [为什么 AArch64 获取符号地址总是采用 ADRP + ADD 的形式](https://i.hsfzxjy.site/aarch64-gas-pic-syntax/) | 刚接触 AArch64 汇编的人往往会对编译器生成的一类代码感到困惑。 考虑下面这样一个简单的 C 函数： <div class="gk-code-disp |
 | 2026-07-06 | [或许「数羊」真是个有效的入睡法](https://blog.est.im/2026/stderr-23) | 无聊刷博客，《 AI如何导致和修复了我的失眠问题 》 这老哥真猛，通过统计规律发现自己 失眠 的罪魁祸首。（不剧透。感兴趣点开阅读） 我自己也写过 快速入睡的技巧和原理 以及 强行入睡方法 v2.0 其实我都忘记这个 2.0 方法了。都不知道自己当时怎么想到这个办法的，原来自己写的东西也能常看常新（… |
 | 2026-07-06 | [大脑充血 Vol.88](https://www.geedea.pro/weekly/88/) | 下午好，这里是被实训课关在机房写 Java 和 Spring，审查组员提的 Pull Requests，合并和解决代码冲突到晕头转向的 Eltrac。这个天真的小男孩曾以为自己拿到了 Golang 岗位的 Offer 之后就再也不用写 Java 这种东西了，没想到，生活只会给他一拳又一拳的重击，拳打… |
+| 2026-07-06 | [低成本折腾：2026 树莓派玩转 PVE 虚拟化、边缘智能（Edge AI）与轻量 NAS 避坑指南](https://dsx2016.com/raspberry-pi-2026/) | 树莓派 家里有几个闲置的树莓派一直在吃灰，我整理了一些树莓派项目 homeassistant 先从软件开始 优... 低成本折腾：2026 树莓派玩转 PVE 虚拟化、边缘智能（Edge AI）与轻量 NAS 避坑指南 最先出现在 大师兄2016 。 |
 | 2026-07-06 | [AI Infra：ATM — 清程极智的Token管理平台（CC Switch类本地Gateway + Token FinOps）](https://luweiqing.com/resources/AI-Infra-ATM-Token-CC-Switch-Gateway-Token-FinOps.html) | ATM（Agent Token Manager）是一个面向AI Agent的Token管理平台。它并非传统API Gateway或LLM Proxy，而是围绕Token构建统一的计量、治理、结算... |
 | 2026-07-06 | [Agent 安全：环境变量泄露](https://blog.singee.me/2026/07/06/395f4bee3ed780dd9246fbf1e2507b5f/) | 最近在做一个 简单的 Agent 产品 ，这个产品的定位是个人自部署，所以初期并没有做太高的安全隔离设计（也没有使用现成的 Sandbox）。但临近发 |
 | 2026-07-06 | [一扇罗生门](https://mobius.blog/24945.html) | 今天在咖啡厅码字时，有一个意外插曲。 我在打开咖啡厅大门时，扑面而来一股夏天特有的酸臭味。我在进入其中时，就看 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
