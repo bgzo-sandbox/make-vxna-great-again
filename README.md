@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-07-06 | [被Fable抛弃的人](https://mazzzystar.com/2026/07/06/fable-5/) | Claude Fable 5 回来了 ， 在回归前两天 Anthropic 针对中国用户大规模封号<span |
+| 2026-07-06 | [荐《给阿嬷的情书》](https://tianheg.co/posts/recommend-dear-you/) | 看过电影，时间已经临近十二点，我走在回家的路上，不禁思绪万千。我要说些什么？说与谁听呢？不知道从哪里听来的：表达是有对象的。当我在写这篇文章时，我希望写给谁？ 曾经写文章只为我自己，因为我是个怀旧的人，当自己韶华已逝之时，我希望自己有些东西可以缅怀。 如今我发现可以真正分享自己的情绪给对方，让她感受… |
 | 2026-07-06 | [R#109 屏幕好多](https://blog.sakanano.moe/journals/random_109) | 2026.6.30 ~ 2026.7.6 |
 | 2026-07-06 | [树莓派zerow选什么系统好？](https://dsx2016.com/which-operating-system-is-best-for-the-raspberry-pi-zero-w/) | 树莓派zerow 我手上有一个树莓派zerow，关于系统选择梳理 树莓派 Zero W 用的是： CPU：BC... 树莓派zerow选什么系统好？ 最先出现在 大师兄2016 。 |
 | 2026-07-06 | [为什么 AArch64 获取符号地址总是采用 ADRP + ADD 的形式](https://i.hsfzxjy.site/aarch64-gas-pic-syntax/) | 刚接触 AArch64 汇编的人往往会对编译器生成的一类代码感到困惑。 考虑下面这样一个简单的 C 函数： <div class="gk-code-disp |
