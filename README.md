@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-07 | [当 Token 每月成本超过 2 名全职投行分析师的工资，看这家 AI 原生投行如何选择？](https://wenfeixiang.com/2026/07/token-is-high-and-hign/) | Token 是今年最热的话题。对大模型而言，是进入到 Token变现周期；对于我们这样的小企业而言， Toke […] |
+| 2026-07-07 | [副业是一场独谋](https://blog.solazy.me/20260707/) | 最近突然有好多人找我「搞副业」 |
 | 2026-07-07 | [Goodbye Hugo: I Rebuilt My Blog with Astro Overnight](https://missuo.me/posts/hugo-to-astro/) | After four or five years on Hugo, I rewrote this blog on AstroPaper — by typing /goal in Claude Code before bed and reviewing a working site the next… |
 | 2026-07-07 | [287、小暑](https://1900.live/287-xiao-shu/) | null 蝉声正炽，热风初凝，天地在攀升与酝酿之间，悬起一柄颤动的火旗。 太阳行至黄经105°，小暑——夏之第五序。 温风拂过大地，不再带一丝清凉，而是推着热浪一浪高过一浪；蟋蟀躲进屋檐，把鸣声收进砖缝的暗处，不敢与正午的日光硬碰；鹰隼振翅高飞，在灼热的气流中练习更锋利的俯冲——它们都知道，真正的暑… |
 | 2026-07-07 | [浪人无所依](https://www.hecaitou.com/2026/07/nowhere-to-lean-nowhere-to-belong.html) | 记得很多年前我看过一篇文章，作者移居北京多年，在文章中深情写道「北京是我的城」。转眼间，我也北漂，但我一丁点都没有这种感觉。就像我在这个夏天每天拍摄北京的天空一样，我喜欢这里的蓝天，我喜欢这里的云朵，但我不认为这是「我的天空」，我没有鸟儿飞在这天空中的感觉。 然而我也渐渐不能说昆明是我的城，毕竟我离… |
@@ -38,7 +40,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-07 | [Memos #2026-07-06](https://www.taober.blog/memos) | 23:38 今天猛练了 40 分钟无氧，现在躺在床上，真饿啊！ 要是今天是周五，我保准点夜宵了… |
 | 2026-07-06 | [那个从不看球的人开始看球](https://anotherdayu.com/football2026/) | 过去几十年，我大概只凑热闹看过个位数场次球赛，但最近天天看赛程，期待着晚上看球。 时差是一个很重要的原因。在欧洲看世界杯，大多数比赛都在下班后，偶尔才需要熬夜。 最初的是苏格兰闯入世界杯，想支持一下。对来自格拉斯哥的罗伯逊印象很深，看了很多他和利物浦的故事。 后来又想，既然自己人在英格兰，那也看看英… |
 | 2026-07-06 | [如何使用umami查看astrojs博客单个文章的数据统计？](https://dsx2016.com/how-to-view-analytics-for-a-single-astrojs-blog-post-using-umami/) | 数据分析 我需要astrojs的博客也可以像wordpress后台管理一样 可以有表格查看当前文章对应的总访问... 如何使用umami查看astrojs博客单个文章的数据统计？ 最先出现在 大师兄2016 。 |
-| 2026-07-06 | [被Fable抛弃的人](https://mazzzystar.com/2026/07/06/fable-5/) | Claude Fable 5 回来了 ， 在回归前两天 Anthropic 针对中国用户大规模封号<span |
+| 2026-07-06 | [被Fable抛弃的人](https://mazzzystar.com/2026/07/06/fable-5/) | Claude Fable 5 回归，但它太强也太贵：封号、按量计费把大部分中国人挡在门外。我担心它正在制造一种 K 型分化——用得起的人被加速狂奔，其余的人被甩开。 |
 | 2026-07-06 | [荐《给阿嬷的情书》](https://tianheg.co/posts/recommend-dear-you/) | 看过电影，时间已经临近十二点，我走在回家的路上，不禁思绪万千。我要说些什么？说与谁听呢？不知道从哪里听来的：表达是有对象的。当我在写这篇文章时，我希望写给谁？ 曾经写文章只为我自己，因为我是个怀旧的人，当自己韶华已逝之时，我希望自己有些东西可以缅怀。 如今我发现可以真正分享自己的情绪给对方，让她感受… |
 | 2026-07-06 | [R#109 屏幕好多](https://blog.sakanano.moe/journals/random_109) | 2026.6.30 ~ 2026.7.6 |
 | 2026-07-06 | [树莓派zerow选什么系统好？](https://dsx2016.com/which-operating-system-is-best-for-the-raspberry-pi-zero-w/) | 树莓派zerow 我手上有一个树莓派zerow，关于系统选择梳理 树莓派 Zero W 用的是： CPU：BC... 树莓派zerow选什么系统好？ 最先出现在 大师兄2016 。 |
