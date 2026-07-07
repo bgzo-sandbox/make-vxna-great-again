@@ -27,7 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-07 | [浪人无所依](https://www.hecaitou.com/2026/07/nowhere-to-lean-nowhere-to-belong.html) | 记得很多年前我看过一篇文章，作者移居北京多年，在文章中深情写道「北京是我的城」。转眼间，我也北漂，但我一丁点都没有这种感觉。就像我在这个夏天每天拍摄北京的天空一样，我喜欢这里的蓝天，我喜欢这里的云朵，但我不认为这是「我的天空」，我没有鸟儿飞在这天空中的感觉。 然而我也渐渐不能说昆明是我的城，毕竟我离… |
+| 2026-07-07 | [日本小学《道德》课程（一年级）](https://springwood.me/jp-elementary-school-morality-1/) | （摘要）日本小学一年级的《道德》课程内容，包含34个小故事，每周一课。 |
+| 2026-07-07 | [Bohrium领免费服务器2核4G内存100G磁盘](https://www.cheshirex.com/10668.html) | Bohrium玻尔智算可以用谷歌登陆开一个2核4G内存100G磁盘的容器。无需实名认证和绑定手机。 端口可用： […] |
 | 2026-07-07 | [窗管团队 wiki - 基础知识](https://blog.mkacg.com/2026/07/07/%E7%AA%97%E7%AE%A1%E5%9B%A2%E9%98%9F-wiki-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/) | <a href="#显示服务器" class="headerlink" |
+| 2026-07-07 | [腾讯云国内版EdgeOne CDN领取4个免费套餐](https://www.cheshirex.com/10657.html) | 国内版本的EdgeOne通过下面4个活动链接直接领。 领取地址 每地址可以领取一个。 https […] |
 | 2026-07-07 | [知了](https://mobius.blog/24998.html) | 前几天，我终于刚好听到了今年的第一声知了叫。我在热浪里停住了许久，才确定不是幻觉。 这是一个贯穿在坚持写作中的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-07 | [Memos #2026-07-06](https://www.taober.blog/memos) | 23:38 今天猛练了 40 分钟无氧，现在躺在床上，真饿啊！ 要是今天是周五，我保准点夜宵了… |
 | 2026-07-06 | [那个从不看球的人开始看球](https://anotherdayu.com/football2026/) | 过去几十年，我大概只凑热闹看过个位数场次球赛，但最近天天看赛程，期待着晚上看球。 时差是一个很重要的原因。在欧洲看世界杯，大多数比赛都在下班后，偶尔才需要熬夜。 最初的是苏格兰闯入世界杯，想支持一下。对来自格拉斯哥的罗伯逊印象很深，看了很多他和利物浦的故事。 后来又想，既然自己人在英格兰，那也看看英… |
@@ -41,6 +45,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-06 | [大脑充血 Vol.88](https://www.geedea.pro/weekly/88/) | 下午好，这里是被实训课关在机房写 Java 和 Spring，审查组员提的 Pull Requests，合并和解决代码冲突到晕头转向的 Eltrac。这个天真的小男孩曾以为自己拿到了 Golang 岗位的 Offer 之后就再也不用写 Java 这种东西了，没想到，生活只会给他一拳又一拳的重击，拳打… |
 | 2026-07-06 | [低成本折腾：2026 树莓派玩转 PVE 虚拟化、边缘智能（Edge AI）与轻量 NAS 避坑指南](https://dsx2016.com/raspberry-pi-2026/) | 树莓派 家里有几个闲置的树莓派一直在吃灰，我整理了一些树莓派项目 homeassistant 先从软件开始 优... 低成本折腾：2026 树莓派玩转 PVE 虚拟化、边缘智能（Edge AI）与轻量 NAS 避坑指南 最先出现在 大师兄2016 。 |
 | 2026-07-06 | [AI Infra：ATM — 清程极智的Token管理平台（CC Switch类本地Gateway + Token FinOps）](https://luweiqing.com/resources/AI-Infra-ATM-Token-CC-Switch-Gateway-Token-FinOps.html) | ATM（Agent Token Manager）是一个面向AI Agent的Token管理平台。它并非传统API Gateway或LLM Proxy，而是围绕Token构建统一的计量、治理、结算... |
+| 2026-07-06 | [考得不理想之后](https://www.hecaitou.com/2026/07/after-an-unsatisfactory-exam.html) | 这几天已经开始有读者向我报喜，说是已经考上心仪的大学。与此同时，也有人发私信来倾诉，说是自己或者自己的子女这一回没有考好。完全没考上的人则一个都没有，可能是因为招生尚未完全结束。 对于那些没有考好的考生和家长，我不知道该如何安慰。说「没事的」，显得很轻佻。给各种建议，显得极为不负责。所以，我就只能说… |
 | 2026-07-06 | [Agent 安全：环境变量泄露](https://blog.singee.me/2026/07/06/395f4bee3ed780dd9246fbf1e2507b5f/) | 最近在做一个 简单的 Agent 产品 ，这个产品的定位是个人自部署，所以初期并没有做太高的安全隔离设计（也没有使用现成的 Sandbox）。但临近发 |
 | 2026-07-06 | [一扇罗生门](https://mobius.blog/24945.html) | 今天在咖啡厅码字时，有一个意外插曲。 我在打开咖啡厅大门时，扑面而来一股夏天特有的酸臭味。我在进入其中时，就看 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-06 | [回归初心，文字为王](https://u.sb/writing-first/) | 这篇文章从一次博客重构说起，反思这些年从 WordPress、静态博客到 AI vibe coding 的不断折腾。技术和工具当然能让博客更快、更漂亮，但它们终究只是载体。真正能留下来的，不是框架、封面图或动画，而是一个人真实写下的文字和思考。与其追逐每一个新工具，不如回归初心，慢慢写博客，让文字重… |
