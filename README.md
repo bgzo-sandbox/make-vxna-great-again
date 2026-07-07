@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-07 | [Your Flight Almost Never Flies the Great Circle](https://missuo.me/posts/why-planes-dont-fly-great-circles/) | The great circle is the provably shortest path between two airports — and airlines almost never fly it. I checked 107 of my own flights against their… |
+| 2026-07-07 | [Linux 磁盘空间不释放问题排查（lsof 定位已删除仍被占用文件）](https://199604.com/3588) | Linux 磁盘空间不释放问题排查（lsof 定位已删除仍被占用文件） 问题现象 生产环境中经常遇到这类场景： […] |
 | 2026-07-07 | [当 Token 每月成本超过 2 名全职投行分析师的工资，看这家 AI 原生投行如何选择？](https://wenfeixiang.com/2026/07/token-is-high-and-hign/) | Token 是今年最热的话题。对大模型而言，是进入到 Token变现周期；对于我们这样的小企业而言， Toke […] |
 | 2026-07-07 | [副业是一场独谋](https://blog.solazy.me/20260707/) | 最近突然有好多人找我「搞副业」 |
 | 2026-07-07 | [Goodbye Hugo: I Rebuilt My Blog with Astro Overnight](https://missuo.me/posts/hugo-to-astro/) | After four or five years on Hugo, I rewrote this blog on AstroPaper — by typing /goal in Claude Code before bed and reviewing a working site the next… |
@@ -44,6 +46,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-06 | [荐《给阿嬷的情书》](https://tianheg.co/posts/recommend-dear-you/) | 看过电影，时间已经临近十二点，我走在回家的路上，不禁思绪万千。我要说些什么？说与谁听呢？不知道从哪里听来的：表达是有对象的。当我在写这篇文章时，我希望写给谁？ 曾经写文章只为我自己，因为我是个怀旧的人，当自己韶华已逝之时，我希望自己有些东西可以缅怀。 如今我发现可以真正分享自己的情绪给对方，让她感受… |
 | 2026-07-06 | [R#109 屏幕好多](https://blog.sakanano.moe/journals/random_109) | 2026.6.30 ~ 2026.7.6 |
 | 2026-07-06 | [树莓派zerow选什么系统好？](https://dsx2016.com/which-operating-system-is-best-for-the-raspberry-pi-zero-w/) | 树莓派zerow 我手上有一个树莓派zerow，关于系统选择梳理 树莓派 Zero W 用的是： CPU：BC... 树莓派zerow选什么系统好？ 最先出现在 大师兄2016 。 |
+| 2026-07-06 | [完成了万豪白金挑战](https://blog.solazy.me/20260706/) | 嘿嘿 |
 | 2026-07-06 | [为什么 AArch64 获取符号地址总是采用 ADRP + ADD 的形式](https://i.hsfzxjy.site/aarch64-gas-pic-syntax/) | 刚接触 AArch64 汇编的人往往会对编译器生成的一类代码感到困惑。 考虑下面这样一个简单的 C 函数： <div class="gk-code-disp |
 | 2026-07-06 | [或许「数羊」真是个有效的入睡法](https://blog.est.im/2026/stderr-23) | 无聊刷博客，《 AI如何导致和修复了我的失眠问题 》 这老哥真猛，通过统计规律发现自己 失眠 的罪魁祸首。（不剧透。感兴趣点开阅读） 我自己也写过 快速入睡的技巧和原理 以及 强行入睡方法 v2.0 其实我都忘记这个 2.0 方法了。都不知道自己当时怎么想到这个办法的，原来自己写的东西也能常看常新（… |
 | 2026-07-06 | [大脑充血 Vol.88](https://www.geedea.pro/weekly/88/) | 下午好，这里是被实训课关在机房写 Java 和 Spring，审查组员提的 Pull Requests，合并和解决代码冲突到晕头转向的 Eltrac。这个天真的小男孩曾以为自己拿到了 Golang 岗位的 Offer 之后就再也不用写 Java 这种东西了，没想到，生活只会给他一拳又一拳的重击，拳打… |

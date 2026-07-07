@@ -1,5 +1,19 @@
 [
   {
+    "title": "Your Flight Almost Never Flies the Great Circle",
+    "url": "https://missuo.me/posts/why-planes-dont-fly-great-circles/",
+    "date": "2026-07-07T17:00:00Z",
+    "description": "The great circle is the provably shortest path between two airports — and airlines almost never fly it. I checked 107 of my own flights against their actual ADS-B tracks: on average they flew 12.9% farther than the great circle, and one hop came in 44% over. Here's why the shortest route is mostly a fiction.",
+    "source_root_domain": "missuo.me"
+  },
+  {
+    "title": "Linux 磁盘空间不释放问题排查（lsof 定位已删除仍被占用文件）",
+    "url": "https://199604.com/3588",
+    "date": "2026-07-07T14:53:24Z",
+    "description": "Linux 磁盘空间不释放问题排查（lsof 定位已删除仍被占用文件） 问题现象 生产环境中经常遇到这类场景： […]",
+    "source_root_domain": "199604.com"
+  },
+  {
     "title": "当 Token 每月成本超过 2 名全职投行分析师的工资，看这家 AI 原生投行如何选择？",
     "url": "https://wenfeixiang.com/2026/07/token-is-high-and-hign/",
     "date": "2026-07-07T14:10:18Z",
@@ -117,6 +131,13 @@
     "date": "2026-07-06T15:29:01Z",
     "description": "树莓派zerow 我手上有一个树莓派zerow，关于系统选择梳理 树莓派 Zero W 用的是： CPU：BC... 树莓派zerow选什么系统好？ 最先出现在 大师兄2016 。",
     "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "完成了万豪白金挑战",
+    "url": "https://blog.solazy.me/20260706/",
+    "date": "2026-07-06T15:00:00Z",
+    "description": "嘿嘿",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "为什么 AArch64 获取符号地址总是采用 ADRP + ADD 的形式",
