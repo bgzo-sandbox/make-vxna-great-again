@@ -27,7 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-07 | [窗管团队 wiki - 基础知识](https://blog.mkacg.com/2026/07/07/%E7%AA%97%E7%AE%A1%E5%9B%A2%E9%98%9F-wiki-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/) | <a href="#显示服务器" class="headerlink" |
+| 2026-07-07 | [知了](https://mobius.blog/24998.html) | 前几天，我终于刚好听到了今年的第一声知了叫。我在热浪里停住了许久，才确定不是幻觉。 这是一个贯穿在坚持写作中的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-07 | [Memos #2026-07-06](https://www.taober.blog/memos) | 23:38 今天猛练了 40 分钟无氧，现在躺在床上，真饿啊！ 要是今天是周五，我保准点夜宵了… |
 | 2026-07-06 | [那个从不看球的人开始看球](https://anotherdayu.com/football2026/) | 过去几十年，我大概只凑热闹看过个位数场次球赛，但最近天天看赛程，期待着晚上看球。 时差是一个很重要的原因。在欧洲看世界杯，大多数比赛都在下班后，偶尔才需要熬夜。 最初的是苏格兰闯入世界杯，想支持一下。对来自格拉斯哥的罗伯逊印象很深，看了很多他和利物浦的故事。 后来又想，既然自己人在英格兰，那也看看英… |
+| 2026-07-06 | [如何使用umami查看astrojs博客单个文章的数据统计？](https://dsx2016.com/how-to-view-analytics-for-a-single-astrojs-blog-post-using-umami/) | 数据分析 我需要astrojs的博客也可以像wordpress后台管理一样 可以有表格查看当前文章对应的总访问... 如何使用umami查看astrojs博客单个文章的数据统计？ 最先出现在 大师兄2016 。 |
 | 2026-07-06 | [被Fable抛弃的人](https://mazzzystar.com/2026/07/06/fable-5/) | Claude Fable 5 回来了 ， 在回归前两天 Anthropic 针对中国用户大规模封号<span |
 | 2026-07-06 | [荐《给阿嬷的情书》](https://tianheg.co/posts/recommend-dear-you/) | 看过电影，时间已经临近十二点，我走在回家的路上，不禁思绪万千。我要说些什么？说与谁听呢？不知道从哪里听来的：表达是有对象的。当我在写这篇文章时，我希望写给谁？ 曾经写文章只为我自己，因为我是个怀旧的人，当自己韶华已逝之时，我希望自己有些东西可以缅怀。 如今我发现可以真正分享自己的情绪给对方，让她感受… |
 | 2026-07-06 | [R#109 屏幕好多](https://blog.sakanano.moe/journals/random_109) | 2026.6.30 ~ 2026.7.6 |
@@ -40,7 +44,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-06 | [Agent 安全：环境变量泄露](https://blog.singee.me/2026/07/06/395f4bee3ed780dd9246fbf1e2507b5f/) | 最近在做一个 简单的 Agent 产品 ，这个产品的定位是个人自部署，所以初期并没有做太高的安全隔离设计（也没有使用现成的 Sandbox）。但临近发 |
 | 2026-07-06 | [一扇罗生门](https://mobius.blog/24945.html) | 今天在咖啡厅码字时，有一个意外插曲。 我在打开咖啡厅大门时，扑面而来一股夏天特有的酸臭味。我在进入其中时，就看 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-06 | [回归初心，文字为王](https://u.sb/writing-first/) | 这篇文章从一次博客重构说起，反思这些年从 WordPress、静态博客到 AI vibe coding 的不断折腾。技术和工具当然能让博客更快、更漂亮，但它们终究只是载体。真正能留下来的，不是框架、封面图或动画，而是一个人真实写下的文字和思考。与其追逐每一个新工具，不如回归初心，慢慢写博客，让文字重… |
-| 2026-07-06 | [Memos #2026-07-05](https://www.taober.blog/memos) | 14:27 牛肉的一百种做法。 |
 | 2026-07-05 | [《亿高》注疏一：从曾加的“反驳”说起](https://sinyalee.com/blog/?p=1245) | 这篇是对《资产一个亿以下，不要娶高学历国女》一文的注解。 曾加在知乎写了一篇回答。说我讲的不对。然后他说他是数 […] |
 | 2026-07-05 | [Plog 7 乱序生活](https://anotherdayu.com/plog7/) | 英国的盛夏，热的睡不着，结果隔壁养老院着火了… 好久没去动物园，还挺开心的。 Cotswolds 的微缩小镇，在 Bourton-on-the-Water 闲逛是真的很舒服，不愧为英国最美乡村。 玛莎和 Kew Garden 联名的饮料，好喝！ 第一次看到这么小的南瓜。 意料之外好吃的薯片，特别上头… |
 | 2026-07-05 | [游记｜吹17度江风，吃地道豆腐包，建德3天2晚散漫自驾](https://blog.ops-coffee.com/r/city-china-zhejiang-hangzhou-jiande-yanzhougucheng.html) |  |
@@ -110,26 +113,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-06-30 | [2026夏：放弃幻想 准备斗争](https://macin.org/2026/06/30/202604/) | 4月 今天看了一个视频勾起对这本<a href="https://book.douban.com/subject/27194805/" |
 | 2026-06-30 | [AirPods 找回合影](https://blog.solazy.me/20260630/) | 今天报个喜 |
 | 2026-06-30 | [Tracker 停服三个月，收到 MarkScan 的 DMCA 邮件](https://www.ghostchu.com/tracker-%e5%81%9c%e6%9c%8d%e4%b8%89%e4%b8%aa%e6%9c%88%ef%bc%8c%e6%94%b6%e5%88%b0-markscan-%e7%9a%84-dmca-%e9%82%ae%e4%bb%b6/) | 任何 Tracker 维护者应该都听说过 MarkScan 的臭名： 简单来说，这是一家位于印度的公司，从大的 […] Tracker 停服三个月，收到 MarkScan 的 DMCA 邮件 最先出现在 Ghost_chu's Blog 。 |
-| 2026-06-30 | [创业这件小事儿](https://www.iyeslogo.com/hahahahaha/) | 创业早期需要摒弃浪漫幻想，学会'笨'方法 |
 | 2026-06-30 | [走捷径成瘾](https://www.hecaitou.com/2026/06/Hooked-on-Shortcuts.html) | 有个陌生网友找到我：菜头，有没有发现最近用 AI 写的文章流量越来越差，我这里有个一键转成人工文顺利过审的 AI，你要不要试一下？ 我不要。 这几年为了保住我的功德池水位，我很少公开做出任何批评，但是看完这条消息之后，我决定今天就是我的偶尔奔放日： 写字这点屁事，我是真不理解哪里玩出来的那么多花样。… |
 | 2026-06-30 | [Dario Amodei：AI 开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html) | 下面是 Anthropic 公司创始人 Dario Amodei 的 言论 。 大家看看，是否认同他的说法，还是觉得这是混淆视听，胡说八道。 他说，AI 模型就算公开，你也看不到它的内部运作，所以业界不把它叫做"开源"（open source），而叫做"开放权重"（open weights）。 传统… |
 | 2026-06-30 | [AI Infra：市场缺少 Token 运维服务（Token Runtime Platform）](https://luweiqing.com/gossip/AI-Infra-Token-Token-Runtime-Platform.html) | Token Runtime Platform 将像云时代的 CMP+APM+FinOps 一样，成为 AI Native 企业的软件新基础设施，只是管理对象从计算资源变为 Token Runti... |
 | 2026-06-30 | [日本之旅 Part 1](https://blog.thetbw.xyz/archives/tokyo-travel-part-1) | 趁着这次少有的时间，去了之前一直打算去的日本，之前计划了318和日本，打算先去日本看看然后再去318，事实证明我的选择还是很正确，日本的签证费用从7/1后涨价了。 因为现在中日关系紧张的缘故，直飞日本的飞机的航班少了很多，我是从香港中转的，虽然上海也有少量直飞的航班，不过不太符合我的时间安排，我还是… |
 | 2026-06-30 | [男性有资格认为自己被“歧视”了吗？](https://mobius.blog/24881.html) | 对男性造成“伤害”的歧视有哪些？ 在开始今天的话题之前，昨天留下了一个关于“歧视”更侧重行为的定义：因歧视在行 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-29 | [不懂代码的独立开发者，如何去指挥 AI 干活？](https://diff.im/blog/2026/06/%E4%B8%8D%E6%87%82%E4%BB%A3%E7%A0%81%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%A6%82%E4%BD%95%E5%8E%BB%E6%8C%87%E6%8C%A5-ai-%E5%B9%B2%E6%B4%BB/) | 作为不懂开发、不懂代码的独立开发者，在和 AI 沟通时，我个人有这么几个技巧可以分享。 如果你之前做过老板或管理者，带过业务团队，那么过往的背景会对你和 AI 的沟通很有帮助。因为很多时候老板、管理者或业务负责人并不懂技术，那要如何与技术人员沟通呢？ 核心就在于： 你要传达清晰的意图，了解实施的过程… |
-| 2026-06-29 | [舟山朱家尖亲子自驾4天3晚](https://victor42.eth.limo/post/trip-to-zhoushan/) | 照片相册： 查看本篇相册 赶在暑假来临前，带家人去舟山玩海吃海。收起我的研究天性，只感受，只欣赏，不动脑，纯玩。 第1天中午才出发，白天基本都在路上。晚上在酒店旁吃了第一顿海鲜。 第2天：南沙海滩 随车带齐了玩沙、游泳装备，开车直奔朱家尖南端，南沙海滩。 浙江大陆沿岸完全没有蓝色的海，都是这样，充斥… |
-| 2026-06-29 | [天宝寺遗址：从那条路去，过这座桥来](https://macin.org/2026/06/29/fu-ling-tian-bao-si/) | 从重庆主城出发，单程七十公里能到遗址。 <img src="https://macinorg-blog.oss-cn-chengdu.aliyuncs.com/blog/ShirleyIP16_61982.JPG?x-oss-process=style/wec |
-| 2026-06-29 | [PCE 游戏：双截龙二代（Double Dragon 2）重制版](https://springwood.me/pce-double-dragon-2/) | （摘要）PCE介于8位机和16位机之间。PCE版双截龙二代以大家最熟悉的FC版为基础重制，过场动画带有真人配音。 |
-| 2026-06-29 | [R#108 继续系统化](https://blog.sakanano.moe/journals/random_108) | 2026.6.23 ~ 2026.6.29 |
-| 2026-06-29 | [AirPods 追回记](https://blog.solazy.me/20260629/) | 书接上回，今天主要是 AirPods 巡回记 |
-| 2026-06-29 | [生活来在一个包里](https://www.kawabangga.com/posts/7314) | 时间过得真快，Rick and Morty 已经播出 13 年了。 在试播集的时候，Rick 说的这句话——「 […] Continue reading... |
-| 2026-06-29 | [重启定投恒科](https://hux.ink/posts/013171/) | 恒生互联网科技指数今年累计下跌 30%，我原先持有该指数的 ETF，在 5 月 15 日的时候实在跌得受不了了，选择了清仓卖出。 没想到在清仓过后的一个半月时间里，竟然又跌了 18%。 果真强者恒强，弱者恒科。 已经跌了这么多，恒科现在要底部反转了吗？当然不是，从 K 线图来看，仍旧标准的下跌趋势，… |
-| 2026-06-29 | [为什么 DM KOL 的 GTM 策略一定是 “对” 的](https://smallyu.net/2026/06/29/%E4%B8%BA%E4%BB%80%E4%B9%88DM-KOL%E7%9A%84GTM%E7%AD%96%E7%95%A5%E4%B8%80%E5%AE%9A%E6%98%AF%E2%80%9C%E5%AF%B9%E2%80%9D%E7%9A%84/) | 团队的项目在 Go to Market 环节遇到了困难，所以找了有经验的 BD（商务拓展）来提供指导意见。对方给出的策略是：每个人都去 DM KOL 谈合作。 具体做法是直接在 X 上找到相关领域的 |
-| 2026-06-29 | [牛犊马驹](https://www.hecaitou.com/2026/06/Little-Workhorses.html) | 最近有机会连续观察了一下朋友家的孩子，可以说是印象极为深刻。 上周大家见了一面，刚好是端午假期的最后一天。一整个下午两位小朋友都电力充沛，心情和胃口同样好，当着我的面吃掉了6 枚冰激凌。然而，等到大家收队返程，两个小朋友就开始在哀嚎「为什么明天要上学啊」。不是嚎一下撂爪就忘的那种，而是一路嚎回了家，… |
-| 2026-06-29 | [AI Infra：解构 DSpark，Speculative Decoding 的三层逻辑](https://luweiqing.com/gossip/DSpar-Speculative-Decoding.html) | DSpark 底层采用"空间换时间"的设计，通过预测、并行执行、验证、回滚四个步骤，将串行 Token 生成转换为块级并行执行；在预测和验证阶段，利用 KV Cache 对 Transforme... |
-| 2026-06-29 | [大脑充血 Vol.87](https://www.geedea.pro/weekly/87/) | 水分很多的一起周刊，读完三篇为数不多的文评之后你将发现，这个页面有一半都是我的碎碎念…… 嗯，我或许该思考要不要单独开一个日常系列了。 止语 Undertale Soundtrack 专辑 Toby Fox NeoDB 如果有人偷窥我的 last.fm 记录的话，就会发现我这几天老是在听《Spear… |
-| 2026-06-29 | [男性同样也遭受性别歧视？](https://mobius.blog/24875.html) | 接下来要聊的话题可能会很敏感，甚至会引起“对立”，但我需要先开宗明义强调——聊以男性作为主体视角的话题，并不是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-06-29 | [蓝调时分](https://elmtran.com/essays/blue-hour/) | 北海道旅行的一些碎片：函馆篇 |
 
 ## Vibe Coding
 
