@@ -1,5 +1,19 @@
 [
   {
+    "title": "Goodbye Hugo: I Rebuilt My Blog with Astro Overnight",
+    "url": "https://missuo.me/posts/hugo-to-astro/",
+    "date": "2026-07-07T10:30:00Z",
+    "description": "After four or five years on Hugo, I rewrote this blog on AstroPaper — by typing /goal in Claude Code before bed and reviewing a working site the next morning. Three weeks and ~50 small commits later, every pixel is customized, down to a comment system that is entirely my own implementation.",
+    "source_root_domain": "missuo.me"
+  },
+  {
+    "title": "287、小暑",
+    "url": "https://1900.live/287-xiao-shu/",
+    "date": "2026-07-07T09:00:01Z",
+    "description": "null 蝉声正炽，热风初凝，天地在攀升与酝酿之间，悬起一柄颤动的火旗。 太阳行至黄经105°，小暑——夏之第五序。 温风拂过大地，不再带一丝清凉，而是推着热浪一浪高过一浪；蟋蟀躲进屋檐，把鸣声收进砖缝的暗处，不敢与正午的日光硬碰；鹰隼振翅高飞，在灼热的气流中练习更锋利的俯冲——它们都知道，真正的暑热还在后面，此刻不过是序曲。 荷塘已满，花褪残红结出青绿的莲蓬；雷雨来得更勤了，砸在瓦上噼啪作响，蒸腾起泥土的气息，却不曾把暑气压下半分。天地以“小”为名，以“炎”为实；暑气初临，未及巅峰，方得从容。 此刻，不妨： 把心放慢一刻，在热浪蒸腾前，先给自己沏一壶茶； 把脚步放轻一点，追着清晨或黄昏的微风，去摘几片荷叶； 把急躁收进阴凉，学着蟋蟀——躲在最暗的地方，唱自己的歌； 把期待调成微温——留三分给即将到来的伏日，留七分给眼前可握的清凉。 愿我们： 在暑气初升时，学会沉淀与积蓄； 在蝉声喧闹时，学会专注与安然； 在莲蓬初结时，学会耐心与等待； 于“温”与“炽”的过渡里，握住这盏“小暑”的清茶， 然后，敛一身初伏的热气，去迎接那日渐浓烈的盛夏，去拥抱那即将成熟的秋天。 ——deepseek v",
+    "source_root_domain": "1900.live"
+  },
+  {
     "title": "浪人无所依",
     "url": "https://www.hecaitou.com/2026/07/nowhere-to-lean-nowhere-to-belong.html",
     "date": "2026-07-07T04:04:20Z",

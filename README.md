@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-07 | [Goodbye Hugo: I Rebuilt My Blog with Astro Overnight](https://missuo.me/posts/hugo-to-astro/) | After four or five years on Hugo, I rewrote this blog on AstroPaper — by typing /goal in Claude Code before bed and reviewing a working site the next… |
+| 2026-07-07 | [287、小暑](https://1900.live/287-xiao-shu/) | null 蝉声正炽，热风初凝，天地在攀升与酝酿之间，悬起一柄颤动的火旗。 太阳行至黄经105°，小暑——夏之第五序。 温风拂过大地，不再带一丝清凉，而是推着热浪一浪高过一浪；蟋蟀躲进屋檐，把鸣声收进砖缝的暗处，不敢与正午的日光硬碰；鹰隼振翅高飞，在灼热的气流中练习更锋利的俯冲——它们都知道，真正的暑… |
 | 2026-07-07 | [浪人无所依](https://www.hecaitou.com/2026/07/nowhere-to-lean-nowhere-to-belong.html) | 记得很多年前我看过一篇文章，作者移居北京多年，在文章中深情写道「北京是我的城」。转眼间，我也北漂，但我一丁点都没有这种感觉。就像我在这个夏天每天拍摄北京的天空一样，我喜欢这里的蓝天，我喜欢这里的云朵，但我不认为这是「我的天空」，我没有鸟儿飞在这天空中的感觉。 然而我也渐渐不能说昆明是我的城，毕竟我离… |
 | 2026-07-07 | [日本小学《道德》课程（一年级）](https://springwood.me/jp-elementary-school-morality-1/) | （摘要）日本小学一年级的《道德》课程内容，包含34个小故事，每周一课。 |
 | 2026-07-07 | [Bohrium领免费服务器2核4G内存100G磁盘](https://www.cheshirex.com/10668.html) | Bohrium玻尔智算可以用谷歌登陆开一个2核4G内存100G磁盘的容器。无需实名认证和绑定手机。 端口可用： […] |
