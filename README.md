@@ -27,11 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-08 | [The People Fable Left Behind](https://mazzzystar.com/2026/07/08/fable-5-en/) | Fable 5 is the first model whose limits I can't feel. Some people have no access, most can't afford it — but the divide it creates runs deeper than pr… |
+| 2026-07-08 | [论梦](https://mobius.blog/25008.html) | 这两天睡眠乱七八糟，早上又都刚好在“快速动眼”的区间内醒来，所以刚好都记得醒来之前的“梦”。我似乎很少完全相信 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-07 | [Your Flight Almost Never Flies the Great Circle](https://missuo.me/posts/why-planes-dont-fly-great-circles/) | The great circle is the provably shortest path between two airports — and airlines almost never fly it. I checked 107 of my own flights against their… |
 | 2026-07-07 | [Linux 磁盘空间不释放问题排查（lsof 定位已删除仍被占用文件）](https://199604.com/3588) | Linux 磁盘空间不释放问题排查（lsof 定位已删除仍被占用文件） 问题现象 生产环境中经常遇到这类场景： […] |
 | 2026-07-07 | [当 Token 每月成本超过 2 名全职投行分析师的工资，看这家 AI 原生投行如何选择？](https://wenfeixiang.com/2026/07/token-is-high-and-hign/) | Token 是今年最热的话题。对大模型而言，是进入到 Token变现周期；对于我们这样的小企业而言， Toke […] |
 | 2026-07-07 | [副业是一场独谋](https://blog.solazy.me/20260707/) | 最近突然有好多人找我「搞副业」 |
 | 2026-07-07 | [Goodbye Hugo: I Rebuilt My Blog with Astro Overnight](https://missuo.me/posts/hugo-to-astro/) | After four or five years on Hugo, I rewrote this blog on AstroPaper — by typing /goal in Claude Code before bed and reviewing a working site the next… |
+| 2026-07-07 | [蒲江：除了耙耙柑，还有这么多唐宋石刻](https://macin.org/2026/07/07/pu-jiang-shi-ke/) | 去蒲江是因为一个约。五年没见的朋友定在成都见面，之前还有半个下午和一个夜晚空着，便想着既然来了，就去蒲江看看。成都平原往西南走，茶马古道上的小县城看起来平平无奇。 头疼的事情来自电车。租了电车就得找充电桩，城区住宿吃饭都便利，偏偏充电这件事情最难。好容易在某政 |
 | 2026-07-07 | [287、小暑](https://1900.live/287-xiao-shu/) | null 蝉声正炽，热风初凝，天地在攀升与酝酿之间，悬起一柄颤动的火旗。 太阳行至黄经105°，小暑——夏之第五序。 温风拂过大地，不再带一丝清凉，而是推着热浪一浪高过一浪；蟋蟀躲进屋檐，把鸣声收进砖缝的暗处，不敢与正午的日光硬碰；鹰隼振翅高飞，在灼热的气流中练习更锋利的俯冲——它们都知道，真正的暑… |
 | 2026-07-07 | [浪人无所依](https://www.hecaitou.com/2026/07/nowhere-to-lean-nowhere-to-belong.html) | 记得很多年前我看过一篇文章，作者移居北京多年，在文章中深情写道「北京是我的城」。转眼间，我也北漂，但我一丁点都没有这种感觉。就像我在这个夏天每天拍摄北京的天空一样，我喜欢这里的蓝天，我喜欢这里的云朵，但我不认为这是「我的天空」，我没有鸟儿飞在这天空中的感觉。 然而我也渐渐不能说昆明是我的城，毕竟我离… |
 | 2026-07-07 | [日本小学《道德》课程（一年级）](https://springwood.me/jp-elementary-school-morality-1/) | （摘要）日本小学一年级的《道德》课程内容，包含34个小故事，每周一课。 |
@@ -122,14 +125,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-01 | [男性正在遭遇的“系统性”歧视](https://mobius.blog/24886.html) | 昨天在提到的女性遭遇的系统性歧视，是因为制度 + 权力 + 历史结构共同塑造的。例如女性在实际的教育机会、职业 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-01 | [澳洲签证又涨价了，155签证直接从490刀暴涨到1475刀](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/07/01/australia-visa-fees-increase-2026.html) | 今天是2026年7月1日，新财年的第一天。 |
 | 2026-07-01 | [6.24 散步随想](https://blog.sakoamc.com/posts/26sx002/) | 题记：我喜欢实体的触感，至少真实的体验感起码胜过无感。 |
-| 2026-06-30 | [2026夏：放弃幻想 准备斗争](https://macin.org/2026/06/30/202604/) | 4月 今天看了一个视频勾起对这本<a href="https://book.douban.com/subject/27194805/" |
-| 2026-06-30 | [AirPods 找回合影](https://blog.solazy.me/20260630/) | 今天报个喜 |
-| 2026-06-30 | [Tracker 停服三个月，收到 MarkScan 的 DMCA 邮件](https://www.ghostchu.com/tracker-%e5%81%9c%e6%9c%8d%e4%b8%89%e4%b8%aa%e6%9c%88%ef%bc%8c%e6%94%b6%e5%88%b0-markscan-%e7%9a%84-dmca-%e9%82%ae%e4%bb%b6/) | 任何 Tracker 维护者应该都听说过 MarkScan 的臭名： 简单来说，这是一家位于印度的公司，从大的 […] Tracker 停服三个月，收到 MarkScan 的 DMCA 邮件 最先出现在 Ghost_chu's Blog 。 |
-| 2026-06-30 | [走捷径成瘾](https://www.hecaitou.com/2026/06/Hooked-on-Shortcuts.html) | 有个陌生网友找到我：菜头，有没有发现最近用 AI 写的文章流量越来越差，我这里有个一键转成人工文顺利过审的 AI，你要不要试一下？ 我不要。 这几年为了保住我的功德池水位，我很少公开做出任何批评，但是看完这条消息之后，我决定今天就是我的偶尔奔放日： 写字这点屁事，我是真不理解哪里玩出来的那么多花样。… |
-| 2026-06-30 | [Dario Amodei：AI 开源是伪命题](http://www.ruanyifeng.com/blog/2026/06/anthropic.html) | 下面是 Anthropic 公司创始人 Dario Amodei 的 言论 。 大家看看，是否认同他的说法，还是觉得这是混淆视听，胡说八道。 他说，AI 模型就算公开，你也看不到它的内部运作，所以业界不把它叫做"开源"（open source），而叫做"开放权重"（open weights）。 传统… |
-| 2026-06-30 | [AI Infra：市场缺少 Token 运维服务（Token Runtime Platform）](https://luweiqing.com/gossip/AI-Infra-Token-Token-Runtime-Platform.html) | Token Runtime Platform 将像云时代的 CMP+APM+FinOps 一样，成为 AI Native 企业的软件新基础设施，只是管理对象从计算资源变为 Token Runti... |
-| 2026-06-30 | [日本之旅 Part 1](https://blog.thetbw.xyz/archives/tokyo-travel-part-1) | 趁着这次少有的时间，去了之前一直打算去的日本，之前计划了318和日本，打算先去日本看看然后再去318，事实证明我的选择还是很正确，日本的签证费用从7/1后涨价了。 因为现在中日关系紧张的缘故，直飞日本的飞机的航班少了很多，我是从香港中转的，虽然上海也有少量直飞的航班，不过不太符合我的时间安排，我还是… |
-| 2026-06-30 | [男性有资格认为自己被“歧视”了吗？](https://mobius.blog/24881.html) | 对男性造成“伤害”的歧视有哪些？ 在开始今天的话题之前，昨天留下了一个关于“歧视”更侧重行为的定义：因歧视在行 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
