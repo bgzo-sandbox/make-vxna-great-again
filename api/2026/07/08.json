@@ -7,6 +7,27 @@
     "source_root_domain": "mazzzystar.github.io"
   },
   {
+    "title": "20260708的胡言乱语",
+    "url": "https://www.bboy.app/2026/07/08/20260708%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
+    "date": "2026-07-08T10:05:00Z",
+    "description": "简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "Random Thoughts - 20260708",
+    "url": "https://www.bboy.app/2026/07/08/random-thoughts-20260708/",
+    "date": "2026-07-08T10:05:00Z",
+    "description": "Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "[AI] curl -NT. 导致100% CPU原因",
+    "url": "https://blog.est.im/2026/stdout-25",
+    "date": "2026-07-08T08:05:00Z",
+    "description": "有AI就是好使，搁以前自己得盯半天也看不明白。。。 问题确认 curl -NT. 在连接一个持续推送数据的 streaming 服务器时，会产生一个 紧密的 pause/unpause 循环 ，导致 100% CPU。 根因分析 -T. （注意是点号，不是减号）将 stdin 设为 非阻塞模式 ，然后依赖 EAGAIN + CURLREADFUNCPAUSE 机制来避免阻塞。核心循环发生在三个回调之间： 第一步 — 上传尝试失败 （ src/toolcbrea.c ）： { rc = read(per->infd, buffer, sz nmemb); if(rc readbusy = TRUE; return CURLREADFUNCPAUSE; } / since sizet is unsigned we cannot return negative values fine / rc = 0; } } stdin 没数据 → read() 返回 EAGAIN → 设 readbusy=TRUE → 暂停上传。 第二步 — 下载数据到达立刻解除暂停 （ src/toolcbwrt.c",
+    "source_root_domain": "feedburner.com"
+  },
+  {
     "title": "有时候我也忍不住想要找个老公",
     "url": "https://www.hecaitou.com/2026/07/sometimes-i-too-want-a-husband.html",
     "date": "2026-07-08T04:34:11Z",

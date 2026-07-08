@@ -28,6 +28,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-07-08 | [The People Fable Left Behind](https://mazzzystar.com/2026/07/08/fable-5-en/) | Fable 5 is the first model whose limits I can't feel. Some people have no access, most can't afford it — but the divide it creates runs deeper than pr… |
+| 2026-07-08 | [20260708的胡言乱语](https://www.bboy.app/2026/07/08/20260708%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
+| 2026-07-08 | [Random Thoughts - 20260708](https://www.bboy.app/2026/07/08/random-thoughts-20260708/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-07-08 | [[AI] curl -NT. 导致100% CPU原因](https://blog.est.im/2026/stdout-25) | 有AI就是好使，搁以前自己得盯半天也看不明白。。。 问题确认 curl -NT. 在连接一个持续推送数据的 streaming 服务器时，会产生一个 紧密的 pause/unpause 循环 ，导致 100% CPU。 根因分析 -T. （注意是点号，不是减号）将 stdin 设为 非阻塞模式 ，然… |
 | 2026-07-08 | [有时候我也忍不住想要找个老公](https://www.hecaitou.com/2026/07/sometimes-i-too-want-a-husband.html) | 我的电脑多，一张桌子放不下，更何况还是前前任房东留下的梳妆台，每天只能把腿卡在它夸张的巴洛克浮雕饰板上的波谷，打字就像是在受一种古怪的刑罚。于是朋友送了我一张电动升降桌，我自己也一狠心再买了一张。 上周日桌子到了，如果需要师傅上门安装，则需要再约时间。我盘算了一下，决定自己上手，这种简单家具又能难到… |
 | 2026-07-08 | [论梦](https://mobius.blog/25008.html) | 这两天睡眠乱七八糟，早上又都刚好在“快速动眼”的区间内醒来，所以刚好都记得醒来之前的“梦”。我似乎很少完全相信 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-07 | [Your Flight Almost Never Flies the Great Circle](https://missuo.me/posts/why-planes-dont-fly-great-circles/) | The great circle is the provably shortest path between two airports — and airlines almost never fly it. I checked 107 of my own flights against their… |
