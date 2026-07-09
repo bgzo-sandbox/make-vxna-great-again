@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-09 | [写作能力和 locate cost](https://blog.est.im/2026/stderr-24) | 自从自个儿琢磨出 locate cost 之后便开始关注这方面问题。最近看到两篇喷 harness 问题的 第一个是 Can Bölük https://blog.can.ac/2026/02/12/the-harness-problem/ 今年2月的时候发现： Codex uses applypa… |
 | 2026-07-09 | [Theme Hospital updated](https://macsourceports.com/game/themehospital) | The build of CorsixTH for Theme Hospital has been updated to version v0.70.0 of the project |
 | 2026-07-09 | [MOSS-TTS-Nano ONNX：轻量级离线语音合成 懒人整合包](https://dsx2016.com/moss-tts-nano-onnx-lightweight-offline-speech-synthesis/) | MOSS-TTS-Nano ONNX：轻量级离线语音合成方案 MOSS-TTS-Nano 是由 MO... MOSS-TTS-Nano ONNX：轻量级离线语音合成 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-09 | [Vosk：开源离线语音识别 懒人整合包](https://dsx2016.com/vosk-open-source-offline-speech-recognition/) | 认识 Vosk：轻量级开源离线语音识别引擎 Vosk 是一个开源的离线语音识别（ASR）工具包。简单... Vosk：开源离线语音识别 懒人整合包 最先出现在 大师兄2016 。 |
@@ -37,6 +38,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-09 | [运维排查神器：ss 命令](https://199604.com/3592) | 运维排查神器：ss 命令 一、ss 是什么，为什么用它 ss（Socket Statistics）来自 ipr […] |
 | 2026-07-09 | [集团翻译应用交互优化实践案例分享（上）](https://lrd.im/blog/2026-07-09) | 这篇文章将分享我在翻译应用交互优化方面的一些实践经验和思考。文章分上下两篇，上篇分享两个优化点：目标语言自动切换机制、自动聚焦策略扩展与优化。 |
 | 2026-07-09 | [TV Time关停！用九年追剧数据做个存档网站](https://zhcn.xyz/article/tv-time-is-closing-my-data-archive-project) | 2026年7月初知道TV Time 宣布关停。这个消息来得突然，但更让我措手不及的是，九年积攒的追剧记录 —— 153 部剧、1141 部电影、2655 集已看 |
+| 2026-07-09 | [我把 Google Search Console 接进了 Claude Code](https://coreychiu.com/blogs/connect-google-search-console-to-claude-code) | 简单六步，只需五分钟，让 AI 直接查你的真实 GSC 数据，帮你做 SEO 分析 |
 | 2026-07-09 | [Memos #2026-07-08](https://www.taober.blog/memos) | 07:51 梦里发生的一切真美好啊。 |
 | 2026-07-08 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.35.0 of the project |
 | 2026-07-08 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.26 of the project |

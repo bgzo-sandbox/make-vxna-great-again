@@ -1,5 +1,12 @@
 [
   {
+    "title": "写作能力和 locate cost",
+    "url": "https://blog.est.im/2026/stderr-24",
+    "date": "2026-07-09T15:01:00Z",
+    "description": "自从自个儿琢磨出 locate cost 之后便开始关注这方面问题。最近看到两篇喷 harness 问题的 第一个是 Can Bölük https://blog.can.ac/2026/02/12/the-harness-problem/ 今年2月的时候发现： Codex uses applypatch : It takes a string as input, which is essentially an OpenAI-flavored diff, and instead of relying on a structured schema, the harness just expects this blob to follow a strict set of rules Claude Code (and most others) use strreplace : find the exact old text, swap in the new text. Very simple to think about. But the model must reproduce every",
+    "source_root_domain": "feedburner.com"
+  },
+  {
     "title": "Theme Hospital updated",
     "url": "https://macsourceports.com/game/themehospital",
     "date": "2026-07-09T13:44:57Z",
@@ -68,6 +75,13 @@
     "date": "2026-07-09T00:00:00Z",
     "description": "2026年7月初知道TV Time 宣布关停。这个消息来得突然，但更让我措手不及的是，九年积攒的追剧记录 —— 153 部剧、1141 部电影、2655 集已看",
     "source_root_domain": "zhcn.xyz"
+  },
+  {
+    "title": "我把 Google Search Console 接进了 Claude Code",
+    "url": "https://coreychiu.com/blogs/connect-google-search-console-to-claude-code",
+    "date": "2026-07-09T00:00:00Z",
+    "description": "简单六步，只需五分钟，让 AI 直接查你的真实 GSC 数据，帮你做 SEO 分析",
+    "source_root_domain": "coreychiu.com"
   },
   {
     "title": "Memos #2026-07-08",
