@@ -1,5 +1,12 @@
 [
   {
+    "title": "Theme Hospital updated",
+    "url": "https://macsourceports.com/game/themehospital",
+    "date": "2026-07-09T13:44:57Z",
+    "description": "The build of CorsixTH for Theme Hospital has been updated to version v0.70.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "MOSS-TTS-Nano ONNX：轻量级离线语音合成 懒人整合包",
     "url": "https://dsx2016.com/moss-tts-nano-onnx-lightweight-offline-speech-synthesis/",
     "date": "2026-07-09T09:26:30Z",
@@ -47,6 +54,13 @@
     "date": "2026-07-09T00:52:53Z",
     "description": "运维排查神器：ss 命令 一、ss 是什么，为什么用它 ss（Socket Statistics）来自 ipr […]",
     "source_root_domain": "199604.com"
+  },
+  {
+    "title": "集团翻译应用交互优化实践案例分享（上）",
+    "url": "https://lrd.im/blog/2026-07-09",
+    "date": "2026-07-09T00:00:00Z",
+    "description": "这篇文章将分享我在翻译应用交互优化方面的一些实践经验和思考。文章分上下两篇，上篇分享两个优化点：目标语言自动切换机制、自动聚焦策略扩展与优化。",
+    "source_root_domain": "lrd.im"
   },
   {
     "title": "TV Time关停！用九年追剧数据做个存档网站",

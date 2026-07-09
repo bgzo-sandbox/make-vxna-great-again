@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-09 | [Theme Hospital updated](https://macsourceports.com/game/themehospital) | The build of CorsixTH for Theme Hospital has been updated to version v0.70.0 of the project |
 | 2026-07-09 | [MOSS-TTS-Nano ONNX：轻量级离线语音合成 懒人整合包](https://dsx2016.com/moss-tts-nano-onnx-lightweight-offline-speech-synthesis/) | MOSS-TTS-Nano ONNX：轻量级离线语音合成方案 MOSS-TTS-Nano 是由 MO... MOSS-TTS-Nano ONNX：轻量级离线语音合成 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-09 | [Vosk：开源离线语音识别 懒人整合包](https://dsx2016.com/vosk-open-source-offline-speech-recognition/) | 认识 Vosk：轻量级开源离线语音识别引擎 Vosk 是一个开源的离线语音识别（ASR）工具包。简单... Vosk：开源离线语音识别 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-09 | [野猫与公鸡](https://mobius.blog/25016.html) | 写下这个标题我才意识到我是不是开了个“黄腔”。 现实可比黄腔精彩多了。 前两天遛狗时，在小区拍到一张野猫抓到麻 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -34,6 +35,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-09 | [grep vs sqlite 谁更适合微信聊天记录？](https://blog.est.im/2026/stdout-26) | 一个爆火的讨论 云风 @cloudwu 2026-06-29 微信的开发人员根本就不懂该怎么储存数据。这种聊天软件，文本和媒体文件分开存，文本根本就不应该保存在什么数据库(sqlite)里, 一个对话一个文本文件追加就可以了。需要搜索的时候 grep 一下性能完全符合需求。一个对话能有多少文本？一秒… |
 | 2026-07-09 | [Piper TTS 离线语音合成 懒人整合包](https://dsx2016.com/piper-tts-offline-speech-synthesis-all-in-one-package-for-easy-setup/) | Piper TTS 简介 Piper1-gpl 是一个快速、离线、且支持本地运行的神经网络文本转语音... Piper TTS 离线语音合成 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-09 | [运维排查神器：ss 命令](https://199604.com/3592) | 运维排查神器：ss 命令 一、ss 是什么，为什么用它 ss（Socket Statistics）来自 ipr […] |
+| 2026-07-09 | [集团翻译应用交互优化实践案例分享（上）](https://lrd.im/blog/2026-07-09) | 这篇文章将分享我在翻译应用交互优化方面的一些实践经验和思考。文章分上下两篇，上篇分享两个优化点：目标语言自动切换机制、自动聚焦策略扩展与优化。 |
 | 2026-07-09 | [TV Time关停！用九年追剧数据做个存档网站](https://zhcn.xyz/article/tv-time-is-closing-my-data-archive-project) | 2026年7月初知道TV Time 宣布关停。这个消息来得突然，但更让我措手不及的是，九年积攒的追剧记录 —— 153 部剧、1141 部电影、2655 集已看 |
 | 2026-07-09 | [Memos #2026-07-08](https://www.taober.blog/memos) | 07:51 梦里发生的一切真美好啊。 |
 | 2026-07-08 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.35.0 of the project |

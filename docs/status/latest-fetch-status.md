@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-07-09T10:59:45Z
-modified: 2026-07-09T10:59:45Z
+created: 2026-07-09T15:00:55Z
+modified: 2026-07-09T15:00:55Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,7 +11,7 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-07-09T10:59:45Z
+Generated at: 2026-07-09T15:00:55Z
 
 Total sources: 484
 Successful: 363
@@ -85,7 +85,7 @@ Failed: 121
 | Failed | [#366] V2EX › Heggria | [https://heggria.site/feed.xml](https://heggria.site/feed.xml) | [Origin](https://www.v2ex.com/xna/s/366) | 0 | [Errno -5] No address associated with hostname |
 | Failed | [#371] V2EX › 通灵卡片 Psychic Paper | [https://www.yuqiqin.me/feed.xml](https://www.yuqiqin.me/feed.xml) | [Origin](https://www.v2ex.com/xna/s/371) | 0 | Client error '403 Forbidden' for url 'https://www.yuqiqin.me/feed.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#377] V2EX › 泠泫凝的运维笔记 | [https://lxnchan.cn/atom.xml](https://lxnchan.cn/atom.xml) | [Origin](https://www.v2ex.com/xna/s/377) | 0 | Client error '403 Forbidden' for url 'https://lxnchan.cn/atom.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
-| Failed | [#37] V2EX › 自我成长 | [https://www.yanxizhu.com/index.php/feed/](https://www.yanxizhu.com/index.php/feed/) | [Origin](https://www.v2ex.com/xna/s/37) | 0 | Client error '404 Not Found' for url 'https://www.yanxizhu.com/index.php/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
+| Failed | [#37] V2EX › 自我成长 | [https://www.yanxizhu.com/index.php/feed/](https://www.yanxizhu.com/index.php/feed/) | [Origin](https://www.v2ex.com/xna/s/37) | 0 | The read operation timed out |
 | Failed | [#384] V2EX › Flyan Lu's Blog | [https://fanlumaster.github.io/atom.xml](https://fanlumaster.github.io/atom.xml) | [Origin](https://www.v2ex.com/xna/s/384) | 0 | Client error '404 Not Found' for url 'https://fanlumaster.github.io/atom.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#385] V2EX › 空鸣深语 | [https://blog.deepchirp.com/atom.xml](https://blog.deepchirp.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/385) | 0 | Client error '403 Forbidden' for url 'https://blog.deepchirp.com/atom.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#394] V2EX › JiaoYuan | [https://yuanj.top/index.xml](https://yuanj.top/index.xml) | [Origin](https://www.v2ex.com/xna/s/394) | 0 | [Errno -5] No address associated with hostname |
@@ -217,7 +217,7 @@ Failed: 121
 | Success | [#198] V2EX › 渚碧 | [https://jubeny.com/feed.xml](https://jubeny.com/feed.xml) | [Origin](https://www.v2ex.com/xna/s/198) | 15 | - |
 | Success | [#199] V2EX › Alan Lee | [https://alanlee.fun/atom.xml](https://alanlee.fun/atom.xml) | [Origin](https://www.v2ex.com/xna/s/199) | 20 | - |
 | Success | [#19] V2EX › 7gugu | [https://7gugu.com/index.php/feed/](https://7gugu.com/index.php/feed/) | [Origin](https://www.v2ex.com/xna/s/19) | 10 | - |
-| Success | [#200] V2EX › 李瑞东的设计博客 | [https://lrd.im/feed.xml](https://lrd.im/feed.xml) | [Origin](https://www.v2ex.com/xna/s/200) | 57 | - |
+| Success | [#200] V2EX › 李瑞东的设计博客 | [https://lrd.im/feed.xml](https://lrd.im/feed.xml) | [Origin](https://www.v2ex.com/xna/s/200) | 58 | - |
 | Success | [#203] V2EX › Yuanji | [https://blog.gimo.me/index.xml](https://blog.gimo.me/index.xml) | [Origin](https://www.v2ex.com/xna/s/203) | 10 | - |
 | Success | [#204] V2EX › 船长の部落格 | [https://captainofphb.me/rss.xml](https://captainofphb.me/rss.xml) | [Origin](https://www.v2ex.com/xna/s/204) | 47 | - |
 | Success | [#207] V2EX › 偕臧 | [https://xmuli.tech/atom.xml](https://xmuli.tech/atom.xml) | [Origin](https://www.v2ex.com/xna/s/207) | 20 | - |
