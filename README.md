@@ -27,8 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-09 | [Vosk：开源离线语音识别 懒人整合包](https://dsx2016.com/vosk-open-source-offline-speech-recognition/) | 认识 Vosk：轻量级开源离线语音识别引擎 Vosk 是一个开源的离线语音识别（ASR）工具包。简单... Vosk：开源离线语音识别 懒人整合包 最先出现在 大师兄2016 。 |
+| 2026-07-09 | [野猫与公鸡](https://mobius.blog/25016.html) | 写下这个标题我才意识到我是不是开了个“黄腔”。 现实可比黄腔精彩多了。 前两天遛狗时，在小区拍到一张野猫抓到麻 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-09 | [你不能总是把考试放在生命的正中](https://www.hecaitou.com/2026/07/you-cant-always-put-exams-at-the-center-of-your-life.html) | 我推荐了一篇短文，说是文字很好，结果立即就有人留言说：如果中考高考作文的评判标准也像如此朴素、真实、简单就好很好呀（此处原文照抄，标点符号都没有改）。 看完让我有点噎，也有点惊。我只是请大家看一篇美好的文字，为什么会条件反射式地联想到考试，联想到评分标准呢？这天就有点聊不下去了，而这种类似本能的反应… |
+| 2026-07-09 | [grep vs sqlite 谁更适合微信聊天记录？](https://blog.est.im/2026/stdout-26) | 一个爆火的讨论 云风 @cloudwu 2026-06-29 微信的开发人员根本就不懂该怎么储存数据。这种聊天软件，文本和媒体文件分开存，文本根本就不应该保存在什么数据库(sqlite)里, 一个对话一个文本文件追加就可以了。需要搜索的时候 grep 一下性能完全符合需求。一个对话能有多少文本？一秒… |
 | 2026-07-09 | [Piper TTS 离线语音合成 懒人整合包](https://dsx2016.com/piper-tts-offline-speech-synthesis-all-in-one-package-for-easy-setup/) | Piper TTS 简介 Piper1-gpl 是一个快速、离线、且支持本地运行的神经网络文本转语音... Piper TTS 离线语音合成 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-09 | [运维排查神器：ss 命令](https://199604.com/3592) | 运维排查神器：ss 命令 一、ss 是什么，为什么用它 ss（Socket Statistics）来自 ipr […] |
+| 2026-07-09 | [TV Time关停！用九年追剧数据做个存档网站](https://zhcn.xyz/article/tv-time-is-closing-my-data-archive-project) | 2026年7月初知道TV Time 宣布关停。这个消息来得突然，但更让我措手不及的是，九年积攒的追剧记录 —— 153 部剧、1141 部电影、2655 集已看 |
 | 2026-07-09 | [Memos #2026-07-08](https://www.taober.blog/memos) | 07:51 梦里发生的一切真美好啊。 |
 | 2026-07-08 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.35.0 of the project |
 | 2026-07-08 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.26 of the project |
@@ -36,6 +41,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-08 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.3 of the project |
 | 2026-07-08 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo for Quetoo has been updated to version v1.0.55 of the project |
 | 2026-07-08 | [边缘端语音全能王 sherpa-onnx 懒人整合包](https://dsx2016.com/sherpa-onnx-the-all-in-one-edge-side-speech-solution-ready-to-use-package/) | 边缘端语音全能王：Sherpa-ONNX 深度介绍 sherpa-onnx 是一个基于 O... 边缘端语音全能王 sherpa-onnx 懒人整合包 最先出现在 大师兄2016 。 |
+| 2026-07-08 | [职场中的投诉](https://blog.solazy.me/20260708/) | 今天聊聊职场中关于投诉的话题 |
 | 2026-07-08 | [The People Fable Left Behind](https://mazzzystar.com/2026/07/08/fable-5-en/) | Fable 5 is the first model whose limits I can't feel. Some people have no access, most can't afford it — but the divide it creates runs deeper than pr… |
 | 2026-07-08 | [20260708的胡言乱语](https://www.bboy.app/2026/07/08/20260708%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-07-08 | [Random Thoughts - 20260708](https://www.bboy.app/2026/07/08/random-thoughts-20260708/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
