@@ -27,6 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-09 | [Piper TTS 离线语音合成 懒人整合包](https://dsx2016.com/piper-tts-offline-speech-synthesis-all-in-one-package-for-easy-setup/) | Piper TTS 简介 Piper1-gpl 是一个快速、离线、且支持本地运行的神经网络文本转语音... Piper TTS 离线语音合成 懒人整合包 最先出现在 大师兄2016 。 |
+| 2026-07-09 | [运维排查神器：ss 命令](https://199604.com/3592) | 运维排查神器：ss 命令 一、ss 是什么，为什么用它 ss（Socket Statistics）来自 ipr […] |
+| 2026-07-09 | [Memos #2026-07-08](https://www.taober.blog/memos) | 07:51 梦里发生的一切真美好啊。 |
+| 2026-07-08 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.35.0 of the project |
+| 2026-07-08 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.26 of the project |
+| 2026-07-08 | [FreeSpace 2 updated](https://macsourceports.com/game/freespace2) | The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version release260_0 of the project |
+| 2026-07-08 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.3 of the project |
+| 2026-07-08 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo for Quetoo has been updated to version v1.0.55 of the project |
 | 2026-07-08 | [边缘端语音全能王 sherpa-onnx 懒人整合包](https://dsx2016.com/sherpa-onnx-the-all-in-one-edge-side-speech-solution-ready-to-use-package/) | 边缘端语音全能王：Sherpa-ONNX 深度介绍 sherpa-onnx 是一个基于 O... 边缘端语音全能王 sherpa-onnx 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-08 | [The People Fable Left Behind](https://mazzzystar.com/2026/07/08/fable-5-en/) | Fable 5 is the first model whose limits I can't feel. Some people have no access, most can't afford it — but the divide it creates runs deeper than pr… |
 | 2026-07-08 | [20260708的胡言乱语](https://www.bboy.app/2026/07/08/20260708%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
@@ -48,7 +56,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-07 | [窗管团队 wiki - 基础知识](https://blog.mkacg.com/2026/07/07/%E7%AA%97%E7%AE%A1%E5%9B%A2%E9%98%9F-wiki-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/) | <a href="#显示服务器" class="headerlink" |
 | 2026-07-07 | [腾讯云国内版EdgeOne CDN领取4个免费套餐](https://www.cheshirex.com/10657.html) | 国内版本的EdgeOne通过下面4个活动链接直接领。 领取地址 每地址可以领取一个。 https […] |
 | 2026-07-07 | [知了](https://mobius.blog/24998.html) | 前几天，我终于刚好听到了今年的第一声知了叫。我在热浪里停住了许久，才确定不是幻觉。 这是一个贯穿在坚持写作中的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-07 | [Memos #2026-07-06](https://www.taober.blog/memos) | 23:38 今天猛练了 40 分钟无氧，现在躺在床上，真饿啊！ 要是今天是周五，我保准点夜宵了… |
 | 2026-07-06 | [那个从不看球的人开始看球](https://anotherdayu.com/football2026/) | 过去几十年，我大概只凑热闹看过个位数场次球赛，但最近天天看赛程，期待着晚上看球。 时差是一个很重要的原因。在欧洲看世界杯，大多数比赛都在下班后，偶尔才需要熬夜。 最初的是苏格兰闯入世界杯，想支持一下。对来自格拉斯哥的罗伯逊印象很深，看了很多他和利物浦的故事。 后来又想，既然自己人在英格兰，那也看看英… |
 | 2026-07-06 | [如何使用umami查看astrojs博客单个文章的数据统计？](https://dsx2016.com/how-to-view-analytics-for-a-single-astrojs-blog-post-using-umami/) | 数据分析 我需要astrojs的博客也可以像wordpress后台管理一样 可以有表格查看当前文章对应的总访问... 如何使用umami查看astrojs博客单个文章的数据统计？ 最先出现在 大师兄2016 。 |
 | 2026-07-06 | [被Fable抛弃的人](https://mazzzystar.com/2026/07/06/fable-5/) | Claude Fable 5 回归，但它太强也太贵：封号、按量计费把大部分中国人挡在门外。我担心它正在制造一种 K 型分化——用得起的人被加速狂奔，其余的人被甩开。 |
@@ -115,21 +122,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-02 | [鸡枞在雨季重来](https://www.hecaitou.com/2026/07/jizong-reborn-in-the-rain.html) | 今天我的云南同事告诉我，邮寄了两份今年的油浸鸡枞样品来北京。我突然意识到时间过得好快，上周我还用去年那一罐里的残油炒菜，没想到这么快就续上了，也没想到一年时间过得那么快，2026 年的雨季就这么到了。 严格说起来，并不是什么「就这么」。往年的雨季要更晚一些，鸡枞大批量上市的时间点一般都在八月中。今年… |
 | 2026-07-02 | [MindMux.ai 与 BRAIN.md：对企业和个人认知资产化的产品试验](https://luweiqing.com/resources/MindMux-ai-BRAIN-md.html) | https://mindmux.ai/ & https://projectbrain.md/我的 typecho 老友们，https://segmentfault.com/ 团队的又一次产品试... |
 | 2026-07-02 | [谁在惩戒那些偏离预期性别角色的人？](https://mobius.blog/24892.html) | 这段时间正在世界杯，我和一个喜欢踢足球的男性朋友在聊赛事。我们并没有很深入地聊喜欢哪个球星，但恰好我又因为一代 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-01 | [How I drove a rental Mazda across America in 59 hours](https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/) | 在夏威夷的时候写了个稿子，回来之后录了些 talking head，林林总总剪了一个视频，算是对 cannonball 的一个总结？也算是一个月 |
-| 2026-07-01 | [理想的AI工作流](https://elmagnifico.tech/2026/07/02/Agent-Workflow2/) | Foreword 上一篇 那套 Agent 工作流其实并不完善，它只是当下 妥协 出来的一套流程——文档先行、人卡在几个关口审一审、 task.md 记着进度。说白了，是拿「流程纪律」硬填 Agent 接不进现有工程链路的坑。 那理想的工作流长啥样？光有纪律不够，还得往下再走一层： 把调试、测试、联… |
-| 2026-07-01 | [阅读阿伦特如何帮我理解后室和架空文学](https://www.geedea.pro/article/all-human-condition/) | 笔者《人的境况》阅读进度只有四分之一，但是已经有好几篇文章反复提及阿伦特了。本文依旧借用（甚至算是挪用）阿伦特的哲学概念讨论和解构我关心的文化现象，如你所见，今天的对象是网络怪谈《后室》（The Backrooms）。 本文是我头脑风暴的产物，像是我大脑的呕吐物，有些哲学思考但不多，不建议严肃阅读。… |
-| 2026-07-01 | [洗手间里的社交退路](https://blog.solazy.me/20260701/) | 今天突然想到一个上厕所的话题 |
-| 2026-07-01 | [对平台存在敬畏](https://www.ixiqin.com/2026/07/01/respect-for-the-platform/) | 我曾经一度对于「平台产品经理」是没感觉的。毕竟大家都是产品经理，做平台有什么了不起的？大家干的不都是产品经理的活么？你有什么差异。 但，后面，发生了一件事，让我记忆犹新，从而对于「平台产品经理 … |
-| 2026-07-01 | [免费制作属于自己的电话二维码（挪车码）](https://blog.prayhand13013.top/20260701T164110--免费制作属于自己的电话二维码（挪车码）__blog.html) |  |
-| 2026-07-01 | [配料表干净](https://kaix.in/2026/0701/) | 我讨厌「配料表干净」这个新近流行起来的说法。人们发现什么「好用」就一定要把它用到烂似的，发现这个宣传点好用，任何商品就都一下子变成了配料表干净了。不管真假、不管产品特性，一律配料表干净。只有浓缩苹果汁的苹果汁到底叫不叫配料表干净呢？再配合上其它伎俩——比如名字叫 NFC 而不是真的 NFC ，不但配… |
-| 2026-07-01 | [为什么说 Anthropic 是邪恶的？](https://1q43.blog/post/12498/) | 偏见与歧视是有区别的，Anthropic 是后者。 |
-| 2026-07-01 | [资产一个亿以下，不要娶高学历国女](https://sinyalee.com/blog/?p=1211) | 很多兄弟们，一直对这一代中国女人还有幻想。他们发明了所谓“傅首尔”面相，幻想那些长相好、学历好、或者家境好的国 […] |
-| 2026-07-01 | [一些闲话](https://www.hecaitou.com/2026/07/Some-Casual-Chats.html) | 以下的文字发在我的公众号每月总结里，这里单独抽取出来，做个备份存档： 6 月最受欢迎的文章是《 过度投入 》，算是讨论当时的热点事件---长文《置身钉内》。不过写法和网络上的时评文字还是有点不同，就事论事，让网友通过文章找到一个情绪宣泄出口这种事情，我很早就不做了。当然，写这样的文章会很热闹，有利于… |
-| 2026-07-01 | [Heroes of Might and Magic II updated](https://macsourceports.com/game/homm2) | The build of fheroes2 for Heroes of Might and Magic II has been updated to version 1.1.17 of the project |
-| 2026-07-01 | [东京之旅 Part 2](https://blog.thetbw.xyz/archives/tokyo-travel-part-2) | 接上文 这两天会有台风，所以天气一直不好，在来日本之前，还买了一个偶像演出的票，因为天气原因取消了，没办法，我看天气预报东京这一周都有雨，其实也没下几天。 Day 3 今天去看了东京天空树，因为天气的原因，能见度其实很差，本来想着晚上的夜景，灯光可以稍微穿透点雾气，结果我是只带了充电宝，没有带手机，… |
-| 2026-07-01 | [男性正在遭遇的“系统性”歧视](https://mobius.blog/24886.html) | 昨天在提到的女性遭遇的系统性歧视，是因为制度 + 权力 + 历史结构共同塑造的。例如女性在实际的教育机会、职业 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-01 | [澳洲签证又涨价了，155签证直接从490刀暴涨到1475刀](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/07/01/australia-visa-fees-increase-2026.html) | 今天是2026年7月1日，新财年的第一天。 |
-| 2026-07-01 | [6.24 散步随想](https://blog.sakoamc.com/posts/26sx002/) | 题记：我喜欢实体的触感，至少真实的体验感起码胜过无感。 |
 
 ## Vibe Coding
 

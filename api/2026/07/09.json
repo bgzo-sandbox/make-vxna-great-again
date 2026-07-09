@@ -1,0 +1,205 @@
+[
+  {
+    "title": "Piper TTS 离线语音合成 懒人整合包",
+    "url": "https://dsx2016.com/piper-tts-offline-speech-synthesis-all-in-one-package-for-easy-setup/",
+    "date": "2026-07-09T02:44:44Z",
+    "description": "Piper TTS 简介 Piper1-gpl 是一个快速、离线、且支持本地运行的神经网络文本转语音... Piper TTS 离线语音合成 懒人整合包 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "运维排查神器：ss 命令",
+    "url": "https://199604.com/3592",
+    "date": "2026-07-09T00:52:53Z",
+    "description": "运维排查神器：ss 命令 一、ss 是什么，为什么用它 ss（Socket Statistics）来自 ipr […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "Memos #2026-07-08",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-07-09T00:00:00Z",
+    "description": "07:51 梦里发生的一切真美好啊。",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "Quake updated",
+    "url": "https://macsourceports.com/game/quake",
+    "date": "2026-07-08T22:53:58Z",
+    "description": "The build of vkQuake for Quake has been updated to version 1.35.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Plants vs. Zombies updated",
+    "url": "https://macsourceports.com/game/pvz",
+    "date": "2026-07-08T22:53:32Z",
+    "description": "The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.26 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "FreeSpace 2 updated",
+    "url": "https://macsourceports.com/game/freespace2",
+    "date": "2026-07-08T22:51:39Z",
+    "description": "The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version release260_0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "RollerCoaster Tycoon 2 updated",
+    "url": "https://macsourceports.com/game/rct2",
+    "date": "2026-07-08T22:50:34Z",
+    "description": "The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.3 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-07-08T22:49:41Z",
+    "description": "The build of Quetoo for Quetoo has been updated to version v1.0.55 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "边缘端语音全能王 sherpa-onnx 懒人整合包",
+    "url": "https://dsx2016.com/sherpa-onnx-the-all-in-one-edge-side-speech-solution-ready-to-use-package/",
+    "date": "2026-07-08T20:17:22Z",
+    "description": "边缘端语音全能王：Sherpa-ONNX 深度介绍 sherpa-onnx 是一个基于 O... 边缘端语音全能王 sherpa-onnx 懒人整合包 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "The People Fable Left Behind",
+    "url": "https://mazzzystar.com/2026/07/08/fable-5-en/",
+    "date": "2026-07-08T11:00:00Z",
+    "description": "Fable 5 is the first model whose limits I can't feel. Some people have no access, most can't afford it — but the divide it creates runs deeper than price.",
+    "source_root_domain": "mazzzystar.github.io"
+  },
+  {
+    "title": "20260708的胡言乱语",
+    "url": "https://www.bboy.app/2026/07/08/20260708%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
+    "date": "2026-07-08T10:05:00Z",
+    "description": "简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "Random Thoughts - 20260708",
+    "url": "https://www.bboy.app/2026/07/08/random-thoughts-20260708/",
+    "date": "2026-07-08T10:05:00Z",
+    "description": "Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "[AI] curl -NT. 导致100% CPU原因",
+    "url": "https://blog.est.im/2026/stdout-25",
+    "date": "2026-07-08T08:05:00Z",
+    "description": "有AI就是好使，搁以前自己得盯半天也看不明白。。。 问题确认 curl -NT. 在连接一个持续推送数据的 streaming 服务器时，会产生一个 紧密的 pause/unpause 循环 ，导致 100% CPU。 根因分析 -T. （注意是点号，不是减号）将 stdin 设为 非阻塞模式 ，然后依赖 EAGAIN + CURLREADFUNCPAUSE 机制来避免阻塞。核心循环发生在三个回调之间： 第一步 — 上传尝试失败 （ src/toolcbrea.c ）： { rc = read(per->infd, buffer, sz nmemb); if(rc readbusy = TRUE; return CURLREADFUNCPAUSE; } / since sizet is unsigned we cannot return negative values fine / rc = 0; } } stdin 没数据 → read() 返回 EAGAIN → 设 readbusy=TRUE → 暂停上传。 第二步 — 下载数据到达立刻解除暂停 （ src/toolcbwrt.c",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "有时候我也忍不住想要找个老公",
+    "url": "https://www.hecaitou.com/2026/07/sometimes-i-too-want-a-husband.html",
+    "date": "2026-07-08T04:34:11Z",
+    "description": "我的电脑多，一张桌子放不下，更何况还是前前任房东留下的梳妆台，每天只能把腿卡在它夸张的巴洛克浮雕饰板上的波谷，打字就像是在受一种古怪的刑罚。于是朋友送了我一张电动升降桌，我自己也一狠心再买了一张。 上周日桌子到了，如果需要师傅上门安装，则需要再约时间。我盘算了一下，决定自己上手，这种简单家具又能难到哪里去？的确不难，不过要把长 180 厘米重达几十千克的桌面安装好，然后再把整张桌子翻起来，这件事就是另外一个概念了。 它得一气呵成，还要小心不要在过程中折断了桌腿，更要注意不要蹭坏了墙面。所以在视觉效果上，是我在书房里大汗淋漓裸绞一张桌子。桌子反复对我说：算了吧，你算了吧，你还是去找个师傅。我反复对桌子说：嘘，别说话，你别说话，很快就好了，就一下，一下就好了。 全部弄完是两个小时之后，我瘫坐在一堆塑料泡沫和纸板纸箱里，先是庆幸没有闪到老腰，没有碰坏墙面，没有折断桌角。但转念一想还要收拾这堆包装，再走去小区里的垃圾站扔掉，一路享受北京桑拿天的护肤效果，我就觉得眼前阵阵发黑。 千种情绪在心头涌起，最后我对朋友只说了一句话，一句话道尽我所有的感受： 「 有时候我也忍不住想要找个老公」。 说完我就",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "论梦",
+    "url": "https://mobius.blog/25008.html",
+    "date": "2026-07-08T01:42:32Z",
+    "description": "这两天睡眠乱七八糟，早上又都刚好在“快速动眼”的区间内醒来，所以刚好都记得醒来之前的“梦”。我似乎很少完全相信 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Your Flight Almost Never Flies the Great Circle",
+    "url": "https://missuo.me/posts/why-planes-dont-fly-great-circles/",
+    "date": "2026-07-07T17:00:00Z",
+    "description": "The great circle is the provably shortest path between two airports — and airlines almost never fly it. I checked 107 of my own flights against their actual ADS-B tracks: on average they flew 12.9% farther than the great circle, and one hop came in 44% over. Here's why the shortest route is mostly a fiction.",
+    "source_root_domain": "missuo.me"
+  },
+  {
+    "title": "Linux 磁盘空间不释放问题排查（lsof 定位已删除仍被占用文件）",
+    "url": "https://199604.com/3588",
+    "date": "2026-07-07T14:53:24Z",
+    "description": "Linux 磁盘空间不释放问题排查（lsof 定位已删除仍被占用文件） 问题现象 生产环境中经常遇到这类场景： […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "当 Token 每月成本超过 2 名全职投行分析师的工资，看这家 AI 原生投行如何选择？",
+    "url": "https://wenfeixiang.com/2026/07/token-is-high-and-hign/",
+    "date": "2026-07-07T14:10:18Z",
+    "description": "Token 是今年最热的话题。对大模型而言，是进入到 Token变现周期；对于我们这样的小企业而言， Toke […]",
+    "source_root_domain": "wenfeixiang.com"
+  },
+  {
+    "title": "副业是一场独谋",
+    "url": "https://blog.solazy.me/20260707/",
+    "date": "2026-07-07T13:00:00Z",
+    "description": "最近突然有好多人找我「搞副业」",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Goodbye Hugo: I Rebuilt My Blog with Astro Overnight",
+    "url": "https://missuo.me/posts/hugo-to-astro/",
+    "date": "2026-07-07T10:30:00Z",
+    "description": "After four or five years on Hugo, I rewrote this blog on AstroPaper — by typing /goal in Claude Code before bed and reviewing a working site the next morning. Three weeks and ~50 small commits later, every pixel is customized, down to a comment system that is entirely my own implementation.",
+    "source_root_domain": "missuo.me"
+  },
+  {
+    "title": "蒲江：除了耙耙柑，还有这么多唐宋石刻",
+    "url": "https://macin.org/2026/07/07/pu-jiang-shi-ke/",
+    "date": "2026-07-07T09:03:43Z",
+    "description": "去蒲江是因为一个约。五年没见的朋友定在成都见面，之前还有半个下午和一个夜晚空着，便想着既然来了，就去蒲江看看。成都平原往西南走，茶马古道上的小县城看起来平平无奇。 头疼的事情来自电车。租了电车就得找充电桩，城区住宿吃饭都便利，偏偏充电这件事情最难。好容易在某政",
+    "source_root_domain": "macin.org"
+  },
+  {
+    "title": "287、小暑",
+    "url": "https://1900.live/287-xiao-shu/",
+    "date": "2026-07-07T09:00:01Z",
+    "description": "null 蝉声正炽，热风初凝，天地在攀升与酝酿之间，悬起一柄颤动的火旗。 太阳行至黄经105°，小暑——夏之第五序。 温风拂过大地，不再带一丝清凉，而是推着热浪一浪高过一浪；蟋蟀躲进屋檐，把鸣声收进砖缝的暗处，不敢与正午的日光硬碰；鹰隼振翅高飞，在灼热的气流中练习更锋利的俯冲——它们都知道，真正的暑热还在后面，此刻不过是序曲。 荷塘已满，花褪残红结出青绿的莲蓬；雷雨来得更勤了，砸在瓦上噼啪作响，蒸腾起泥土的气息，却不曾把暑气压下半分。天地以“小”为名，以“炎”为实；暑气初临，未及巅峰，方得从容。 此刻，不妨： 把心放慢一刻，在热浪蒸腾前，先给自己沏一壶茶； 把脚步放轻一点，追着清晨或黄昏的微风，去摘几片荷叶； 把急躁收进阴凉，学着蟋蟀——躲在最暗的地方，唱自己的歌； 把期待调成微温——留三分给即将到来的伏日，留七分给眼前可握的清凉。 愿我们： 在暑气初升时，学会沉淀与积蓄； 在蝉声喧闹时，学会专注与安然； 在莲蓬初结时，学会耐心与等待； 于“温”与“炽”的过渡里，握住这盏“小暑”的清茶， 然后，敛一身初伏的热气，去迎接那日渐浓烈的盛夏，去拥抱那即将成熟的秋天。 ——deepseek v",
+    "source_root_domain": "1900.live"
+  },
+  {
+    "title": "浪人无所依",
+    "url": "https://www.hecaitou.com/2026/07/nowhere-to-lean-nowhere-to-belong.html",
+    "date": "2026-07-07T04:04:20Z",
+    "description": "记得很多年前我看过一篇文章，作者移居北京多年，在文章中深情写道「北京是我的城」。转眼间，我也北漂，但我一丁点都没有这种感觉。就像我在这个夏天每天拍摄北京的天空一样，我喜欢这里的蓝天，我喜欢这里的云朵，但我不认为这是「我的天空」，我没有鸟儿飞在这天空中的感觉。 然而我也渐渐不能说昆明是我的城，毕竟我离开太久了，我熟悉的那个昆明城只存在于我的记忆之中，偶尔也在老友的面庞上一闪而过。小时候，昆明是舍不得让我在夏日淋湿的一座城，要用盖满街道上空的梧桐叶片为我遮雨。但现在它的叶片伸不到两千公里之外，只是时常会在我的梦中继续遮天蔽日，醒来后眼前依然是钢筋混凝土的屋顶和梁。 这就是做浪人的代价，感觉自己不属于任何地方，也并不真正身在任何地方，头顶和脚下尽是虚空。 当我白日里看着窗外风景发呆，脑海里自己却穿行在熟悉的小街小巷，再次伸手去触摸吸满雨水的丁香花瓣上的冰凉水珠，此时我既不在北京，也不在昆明，更不在此刻。当我重返老街上的旧家，站在院子里抬头看，昏黄的灯光下是新住客的身影忙忙碌碌。转身眺望，街道和建筑早已经变了模样，根本找不到我熟悉的那条城市天际线，此时我到了昆明，却又像根本不在那里，而是站在流",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "日本小学《道德》课程（一年级）",
+    "url": "https://springwood.me/jp-elementary-school-morality-1/",
+    "date": "2026-07-07T03:25:00Z",
+    "description": "（摘要）日本小学一年级的《道德》课程内容，包含34个小故事，每周一课。",
+    "source_root_domain": "springwood.me"
+  },
+  {
+    "title": "Bohrium领免费服务器2核4G内存100G磁盘",
+    "url": "https://www.cheshirex.com/10668.html",
+    "date": "2026-07-07T02:47:20Z",
+    "description": "Bohrium玻尔智算可以用谷歌登陆开一个2核4G内存100G磁盘的容器。无需实名认证和绑定手机。 端口可用： […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "回归初心，文字为王",
+    "url": "https://u.sb/writing-first/",
+    "date": "2026-07-07T02:00:00Z",
+    "description": "这篇文章从一次博客重构说起，反思这些年从 WordPress、静态博客到 AI vibe coding 的不断折腾。技术和工具当然能让博客更快、更漂亮，但它们终究只是载体。真正能留下来的，不是框架、封面图或动画，而是一个人真实写下的文字和思考。与其追逐每一个新工具，不如回归初心，慢慢写博客，让文字重新成为博客的核心。",
+    "source_root_domain": "u.sb"
+  },
+  {
+    "title": "窗管团队 wiki - 基础知识",
+    "url": "https://blog.mkacg.com/2026/07/07/%E7%AA%97%E7%AE%A1%E5%9B%A2%E9%98%9F-wiki-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/",
+    "date": "2026-07-07T02:00:00Z",
+    "description": "<a href=\"#显示服务器\" class=\"headerlink\"",
+    "source_root_domain": "mkacg.com"
+  },
+  {
+    "title": "腾讯云国内版EdgeOne CDN领取4个免费套餐",
+    "url": "https://www.cheshirex.com/10657.html",
+    "date": "2026-07-07T01:50:06Z",
+    "description": "国内版本的EdgeOne通过下面4个活动链接直接领。 领取地址 每地址可以领取一个。 https […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "知了",
+    "url": "https://mobius.blog/24998.html",
+    "date": "2026-07-07T01:00:00Z",
+    "description": "前几天，我终于刚好听到了今年的第一声知了叫。我在热浪里停住了许久，才确定不是幻觉。 这是一个贯穿在坚持写作中的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  }
+]
