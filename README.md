@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-09 | [MOSS-TTS-Nano ONNX：轻量级离线语音合成 懒人整合包](https://dsx2016.com/moss-tts-nano-onnx-lightweight-offline-speech-synthesis/) | MOSS-TTS-Nano ONNX：轻量级离线语音合成方案 MOSS-TTS-Nano 是由 MO... MOSS-TTS-Nano ONNX：轻量级离线语音合成 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-09 | [Vosk：开源离线语音识别 懒人整合包](https://dsx2016.com/vosk-open-source-offline-speech-recognition/) | 认识 Vosk：轻量级开源离线语音识别引擎 Vosk 是一个开源的离线语音识别（ASR）工具包。简单... Vosk：开源离线语音识别 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-09 | [野猫与公鸡](https://mobius.blog/25016.html) | 写下这个标题我才意识到我是不是开了个“黄腔”。 现实可比黄腔精彩多了。 前两天遛狗时，在小区拍到一张野猫抓到麻 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-09 | [你不能总是把考试放在生命的正中](https://www.hecaitou.com/2026/07/you-cant-always-put-exams-at-the-center-of-your-life.html) | 我推荐了一篇短文，说是文字很好，结果立即就有人留言说：如果中考高考作文的评判标准也像如此朴素、真实、简单就好很好呀（此处原文照抄，标点符号都没有改）。 看完让我有点噎，也有点惊。我只是请大家看一篇美好的文字，为什么会条件反射式地联想到考试，联想到评分标准呢？这天就有点聊不下去了，而这种类似本能的反应… |
