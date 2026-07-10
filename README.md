@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-10 | [学习周刊-总第271期-2026年第28周](https://wiki.eryajf.net/pages/87cbc1/) | 如要阅读全文，点击标题跳转。 学习周刊-总第271期 &#124; TaskTick &#124; FluxMonitor &#124; Clawith &#124; DeepSeek-GUI &#124; plain-app &#124; EasyAIConfig &#124; eve |
+| 2026-07-10 | [公开目标，可能会让人更难开始](https://mobius.blog/25028.html) | 最近的博客几乎都是我在“当下”引发的极其“当下”的思考，不是为了偷懒，是因为我在陆续推进小说初稿时，实在没力气 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-10 | [iostat + iotop 搞定磁盘 IO 故障](https://199604.com/3594) | iostat + iotop 搞定磁盘 IO 故障 核心思路：先用 iostat 定位“哪块盘”有瓶颈，再用 […] |
 | 2026-07-09 | [写作能力和 locate cost](https://blog.est.im/2026/stderr-24) | 自从自个儿琢磨出 locate cost 之后便开始关注这方面问题。最近看到两篇喷 harness 问题的 第一个是 Can Bölük https://blog.can.ac/2026/02/12/the-harness-problem/ 今年2月的时候发现： Codex uses applypa… |
 | 2026-07-09 | [Theme Hospital updated](https://macsourceports.com/game/themehospital) | The build of CorsixTH for Theme Hospital has been updated to version v0.70.0 of the project |
 | 2026-07-09 | [MOSS-TTS-Nano ONNX：轻量级离线语音合成 懒人整合包](https://dsx2016.com/moss-tts-nano-onnx-lightweight-offline-speech-synthesis/) | MOSS-TTS-Nano ONNX：轻量级离线语音合成方案 MOSS-TTS-Nano 是由 MO... MOSS-TTS-Nano ONNX：轻量级离线语音合成 懒人整合包 最先出现在 大师兄2016 。 |
@@ -119,20 +122,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-03 | [使用Gmail开通ChatGPT K12-Team账号Plus会员](https://www.cheshirex.com/10615.html) | 后面可能很快封锁注册渠道，如果看到文章，就马上注册一个吧。 请注意不要使用大号注册，防止封号影响。 OpenA […] |
 | 2026-07-03 | [视角、立场与新闻业](https://mobius.blog/24922.html) | 上周末，我在完成本周定时发送的有关“男性歧视”的话题之后，在频道上感慨了一下： 这段时间我都在解构“新闻”这件 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-03 | [Cloudflare Tunnel 命令行使用教程](https://blog.oofo.cc/posts/cloudflare-tunnel-cli) | ## 概述 Cloudflare Tunnel 可以把你电脑或内网里的服务通过 Cloudflare 暴露到公网。它的好处是：本机不需要公网 IP，也不需要在路由器上做端口转发；`cloudflared` 会从本机主动连到 Cloudflare，再由 Cloudflare 把访问流量转发回来。 这篇… |
-| 2026-07-02 | [科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 内蒙古乌兰察布的"草原方舟"，内部是一个文化空间，举办艺术展览、文化交流、商业活动等。（ via ） 我… |
-| 2026-07-02 | [学习周刊-总第270期-2026年第27周](https://wiki.eryajf.net/pages/0ef849/) | 如要阅读全文，点击标题跳转。 学习周刊-总第270期 &#124; neordm &#124; browser &#124; page-agent &#124; MeowCLI &#124; TablePro &#124; OpenCodeUI &#124; clash-for-linux-install |
-| 2026-07-02 | [职场上的靠谱，就是不让人猜](https://blog.solazy.me/20260702/) | 其实职场上做一个靠谱的人远没有那么难 |
-| 2026-07-02 | [Random Thoughts - 20260702](https://www.bboy.app/2026/07/02/random-thoughts-20260702/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
-| 2026-07-02 | [用交易平台风控设置改掉逆市加仓这个坏习惯](https://blog.forecho.com/platform-risk-settings-stop-revenge-trading.html) | 引言 最近打 PA（Price Action，价格行为交易）的自营考试号，本来差 300 刀就通过了，结果又爆仓了。 复盘下来，问题很清楚：做反了方向，逆市加仓，想打平，最后遇到突破行情，亏损越滚越大。这个问题表面上是技术判断错误，底层其实是交易纪律失效。 我现在越来越觉得，靠意志力改掉“上头加仓”… |
-| 2026-07-02 | [不做结论](https://www.geedea.pro/article/inconclusive/) | 不少简体中文博客（即便排除了纯技术内容），最近让我感到厌倦。他们的洞察和文字是真实的，要表达的东西也很明确（甚至有些太明确了），也让我有了些思考，但我就是觉得无聊。许多英文博客也是一样，不过由于母语羞涩的缺席，还能读得下去。 我在思考原因，我想这是因为作者从一开始就在迫切地得出、解释和证明一个结论。… |
-| 2026-07-02 | [20260702的胡言乱语](https://www.bboy.app/2026/07/02/20260702%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
-| 2026-07-02 | [唯物主义「天命」论](https://blog.est.im/2026/stderr-22) | 看到一篇雄文《 明末士大夫为什么毫无气节纷纷变节投降满清？ 》大受启发，想看原文的可以点开链接，下面是精简和摘录: 因为程朱理学在理论存面存在漏洞，被鞑子无意之间利用了，事实上大部分的鞑子统治者在这方面，也都是知其然而不知所以然。 不否认明末也有很多了不起的仁人志士，但如果你对中国历史有些疑惑，觉得… |
-| 2026-07-02 | [SeeDNorm: Self-Rescaled Dynamic Normalization](https://mer.run/posts/seednorm-self-rescaled-dynamic-normalization/) | 有实验有理论，主要是想把RMSNorm丢掉的长度信息用温和的方式补充回去，看起来效果也还可以。实验里面有小模型测试的东西，之后可以学一下他们的setup。另外里面关于方差的一些分析感觉可以挪用到AsyncT上去。 |
-| 2026-07-02 | [Memos: Upyun CDN 下线 HTTP/3 支持](https://blog.yasking.org/a/1782972796.html) | 为什么我知道这个 ‘更新’ 呢，因为偶然间打开博客发现在国内无法访问。 排查发现 DNSPod CNAME 解析到的 http3.aicdn.com. 无响应。到控制台设 … |
-| 2026-07-02 | [Nexus配置Docker私库.md](https://blog.wo0ow.com/2128.html) | 参考博客-使用nexus作为私库进行代理docker，进行上传和下载镜像 |
-| 2026-07-02 | [鸡枞在雨季重来](https://www.hecaitou.com/2026/07/jizong-reborn-in-the-rain.html) | 今天我的云南同事告诉我，邮寄了两份今年的油浸鸡枞样品来北京。我突然意识到时间过得好快，上周我还用去年那一罐里的残油炒菜，没想到这么快就续上了，也没想到一年时间过得那么快，2026 年的雨季就这么到了。 严格说起来，并不是什么「就这么」。往年的雨季要更晚一些，鸡枞大批量上市的时间点一般都在八月中。今年… |
-| 2026-07-02 | [MindMux.ai 与 BRAIN.md：对企业和个人认知资产化的产品试验](https://luweiqing.com/resources/MindMux-ai-BRAIN-md.html) | https://mindmux.ai/ & https://projectbrain.md/我的 typecho 老友们，https://segmentfault.com/ 团队的又一次产品试... |
-| 2026-07-02 | [谁在惩戒那些偏离预期性别角色的人？](https://mobius.blog/24892.html) | 这段时间正在世界杯，我和一个喜欢踢足球的男性朋友在聊赛事。我们并没有很深入地聊喜欢哪个球星，但恰好我又因为一代 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 

@@ -1,0 +1,205 @@
+[
+  {
+    "title": "学习周刊-总第271期-2026年第28周",
+    "url": "https://wiki.eryajf.net/pages/87cbc1/",
+    "date": "2026-07-10T08:57:16Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第271期 | TaskTick | FluxMonitor | Clawith | DeepSeek-GUI | plain-app | EasyAIConfig | eve",
+    "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "公开目标，可能会让人更难开始",
+    "url": "https://mobius.blog/25028.html",
+    "date": "2026-07-10T01:35:00Z",
+    "description": "最近的博客几乎都是我在“当下”引发的极其“当下”的思考，不是为了偷懒，是因为我在陆续推进小说初稿时，实在没力气 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "iostat + iotop 搞定磁盘 IO 故障",
+    "url": "https://199604.com/3594",
+    "date": "2026-07-10T01:22:12Z",
+    "description": "iostat + iotop 搞定磁盘 IO 故障 核心思路：先用 iostat 定位“哪块盘”有瓶颈，再用 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "写作能力和 locate cost",
+    "url": "https://blog.est.im/2026/stderr-24",
+    "date": "2026-07-09T15:01:00Z",
+    "description": "自从自个儿琢磨出 locate cost 之后便开始关注这方面问题。最近看到两篇喷 harness 问题的 第一个是 Can Bölük https://blog.can.ac/2026/02/12/the-harness-problem/ 今年2月的时候发现： Codex uses applypatch : It takes a string as input, which is essentially an OpenAI-flavored diff, and instead of relying on a structured schema, the harness just expects this blob to follow a strict set of rules Claude Code (and most others) use strreplace : find the exact old text, swap in the new text. Very simple to think about. But the model must reproduce every",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "Theme Hospital updated",
+    "url": "https://macsourceports.com/game/themehospital",
+    "date": "2026-07-09T13:44:57Z",
+    "description": "The build of CorsixTH for Theme Hospital has been updated to version v0.70.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "MOSS-TTS-Nano ONNX：轻量级离线语音合成 懒人整合包",
+    "url": "https://dsx2016.com/moss-tts-nano-onnx-lightweight-offline-speech-synthesis/",
+    "date": "2026-07-09T09:26:30Z",
+    "description": "MOSS-TTS-Nano ONNX：轻量级离线语音合成方案 MOSS-TTS-Nano 是由 MO... MOSS-TTS-Nano ONNX：轻量级离线语音合成 懒人整合包 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "Vosk：开源离线语音识别 懒人整合包",
+    "url": "https://dsx2016.com/vosk-open-source-offline-speech-recognition/",
+    "date": "2026-07-09T07:31:31Z",
+    "description": "认识 Vosk：轻量级开源离线语音识别引擎 Vosk 是一个开源的离线语音识别（ASR）工具包。简单... Vosk：开源离线语音识别 懒人整合包 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "野猫与公鸡",
+    "url": "https://mobius.blog/25016.html",
+    "date": "2026-07-09T07:27:22Z",
+    "description": "写下这个标题我才意识到我是不是开了个“黄腔”。 现实可比黄腔精彩多了。 前两天遛狗时，在小区拍到一张野猫抓到麻 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "你不能总是把考试放在生命的正中",
+    "url": "https://www.hecaitou.com/2026/07/you-cant-always-put-exams-at-the-center-of-your-life.html",
+    "date": "2026-07-09T05:04:41Z",
+    "description": "我推荐了一篇短文，说是文字很好，结果立即就有人留言说：如果中考高考作文的评判标准也像如此朴素、真实、简单就好很好呀（此处原文照抄，标点符号都没有改）。 看完让我有点噎，也有点惊。我只是请大家看一篇美好的文字，为什么会条件反射式地联想到考试，联想到评分标准呢？这天就有点聊不下去了，而这种类似本能的反应更是让我吃惊。因为它总是会暴露出人最真实最深刻的一面，而一个人究竟经历了些什么，才会和考试如此牢牢绑定呢？ 费曼教授是我非常喜欢的物理学家，也是我非常喜欢的作者。我至今对他自传里的一幕记忆犹新：当时，经过了漫长而痛苦的治疗，他深爱的妻子阿莲还是撒手人寰。时日流逝，费曼觉得一切都已经过去，一切都已经平复。 有一天，他在街角的商店橱窗里看到一套漂亮的女装，于是一个念头油然而生：如果阿莲穿上该有多好看啊！在下一瞬间，他突然意识到阿莲早已经辞世，他为自己那一瞬间的念头泪如雨下。 这就是本能反应，费曼的本能反应说明他依然深爱阿莲，从未接受过她已经不在的这个事实。我看过的所有怀人文字里，这一段最为动人。 看到美好的文字，立即想到考试，这也是一种本能反应。对此，我的回答是：你不能总是把考试放在生命的正中。",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "grep vs sqlite 谁更适合微信聊天记录？",
+    "url": "https://blog.est.im/2026/stdout-26",
+    "date": "2026-07-09T03:02:00Z",
+    "description": "一个爆火的讨论 云风 @cloudwu 2026-06-29 微信的开发人员根本就不懂该怎么储存数据。这种聊天软件，文本和媒体文件分开存，文本根本就不应该保存在什么数据库(sqlite)里, 一个对话一个文本文件追加就可以了。需要搜索的时候 grep 一下性能完全符合需求。一个对话能有多少文本？一秒一个字 24 小时不间断，一年也就 30M 个字。 网上的争论都是猜测，我呢，决定让 opus 跑一局。 首先让AI去搜微信聊录表结构 微信（Android）聊天记录存储在加密 SQLite 数据库 EnMicroMsg.db 中，使用 SQLCipher（AES-256-CBC，PBKDF2 256000 轮派生密钥）。核心 message 表： CREATE TABLE message ( msgId INTEGER PRIMARY KEY, -- 本地自增 ID msgSvrId INTEGER, -- 服务器消息 ID type INTEGER, -- 1=文字, 3=图片, 34=语音, 43=视频 isSend INTEGER, -- 0=接收, 1=发送 createTime ",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "Piper TTS 离线语音合成 懒人整合包",
+    "url": "https://dsx2016.com/piper-tts-offline-speech-synthesis-all-in-one-package-for-easy-setup/",
+    "date": "2026-07-09T02:44:44Z",
+    "description": "Piper TTS 简介 Piper1-gpl 是一个快速、离线、且支持本地运行的神经网络文本转语音... Piper TTS 离线语音合成 懒人整合包 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "运维排查神器：ss 命令",
+    "url": "https://199604.com/3592",
+    "date": "2026-07-09T00:52:53Z",
+    "description": "运维排查神器：ss 命令 一、ss 是什么，为什么用它 ss（Socket Statistics）来自 ipr […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "集团翻译应用交互优化实践案例分享（上）",
+    "url": "https://lrd.im/blog/2026-07-09",
+    "date": "2026-07-09T00:00:00Z",
+    "description": "这篇文章将分享我在翻译应用交互优化方面的一些实践经验和思考。文章分上下两篇，上篇分享两个优化点：目标语言自动切换机制、自动聚焦策略扩展与优化。",
+    "source_root_domain": "lrd.im"
+  },
+  {
+    "title": "TV Time关停！用九年追剧数据做个存档网站",
+    "url": "https://zhcn.xyz/article/tv-time-is-closing-my-data-archive-project",
+    "date": "2026-07-09T00:00:00Z",
+    "description": "2026年7月初知道TV Time 宣布关停。这个消息来得突然，但更让我措手不及的是，九年积攒的追剧记录 —— 153 部剧、1141 部电影、2655 集已看",
+    "source_root_domain": "zhcn.xyz"
+  },
+  {
+    "title": "我把 Google Search Console 接进了 Claude Code",
+    "url": "https://coreychiu.com/blogs/connect-google-search-console-to-claude-code",
+    "date": "2026-07-09T00:00:00Z",
+    "description": "简单六步，只需五分钟，让 AI 直接查你的真实 GSC 数据，帮你做 SEO 分析",
+    "source_root_domain": "coreychiu.com"
+  },
+  {
+    "title": "Memos #2026-07-08",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-07-09T00:00:00Z",
+    "description": "07:51 梦里发生的一切真美好啊。",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "Quake updated",
+    "url": "https://macsourceports.com/game/quake",
+    "date": "2026-07-08T22:53:58Z",
+    "description": "The build of vkQuake for Quake has been updated to version 1.35.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Plants vs. Zombies updated",
+    "url": "https://macsourceports.com/game/pvz",
+    "date": "2026-07-08T22:53:32Z",
+    "description": "The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.26 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "FreeSpace 2 updated",
+    "url": "https://macsourceports.com/game/freespace2",
+    "date": "2026-07-08T22:51:39Z",
+    "description": "The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version release260_0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "RollerCoaster Tycoon 2 updated",
+    "url": "https://macsourceports.com/game/rct2",
+    "date": "2026-07-08T22:50:34Z",
+    "description": "The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.3 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-07-08T22:49:41Z",
+    "description": "The build of Quetoo for Quetoo has been updated to version v1.0.55 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "边缘端语音全能王 sherpa-onnx 懒人整合包",
+    "url": "https://dsx2016.com/sherpa-onnx-the-all-in-one-edge-side-speech-solution-ready-to-use-package/",
+    "date": "2026-07-08T20:17:22Z",
+    "description": "边缘端语音全能王：Sherpa-ONNX 深度介绍 sherpa-onnx 是一个基于 O... 边缘端语音全能王 sherpa-onnx 懒人整合包 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "职场中的投诉",
+    "url": "https://blog.solazy.me/20260708/",
+    "date": "2026-07-08T15:00:00Z",
+    "description": "今天聊聊职场中关于投诉的话题",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "The People Fable Left Behind",
+    "url": "https://mazzzystar.com/2026/07/08/fable-5-en/",
+    "date": "2026-07-08T11:00:00Z",
+    "description": "Fable 5 is the first model whose limits I can't feel. Some people have no access, most can't afford it — but the divide it creates runs deeper than price.",
+    "source_root_domain": "mazzzystar.github.io"
+  },
+  {
+    "title": "20260708的胡言乱语",
+    "url": "https://www.bboy.app/2026/07/08/20260708%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
+    "date": "2026-07-08T10:05:00Z",
+    "description": "简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "Random Thoughts - 20260708",
+    "url": "https://www.bboy.app/2026/07/08/random-thoughts-20260708/",
+    "date": "2026-07-08T10:05:00Z",
+    "description": "Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "[AI] curl -NT. 导致100% CPU原因",
+    "url": "https://blog.est.im/2026/stdout-25",
+    "date": "2026-07-08T08:05:00Z",
+    "description": "有AI就是好使，搁以前自己得盯半天也看不明白。。。 问题确认 curl -NT. 在连接一个持续推送数据的 streaming 服务器时，会产生一个 紧密的 pause/unpause 循环 ，导致 100% CPU。 根因分析 -T. （注意是点号，不是减号）将 stdin 设为 非阻塞模式 ，然后依赖 EAGAIN + CURLREADFUNCPAUSE 机制来避免阻塞。核心循环发生在三个回调之间： 第一步 — 上传尝试失败 （ src/toolcbrea.c ）： { rc = read(per->infd, buffer, sz nmemb); if(rc readbusy = TRUE; return CURLREADFUNCPAUSE; } / since sizet is unsigned we cannot return negative values fine / rc = 0; } } stdin 没数据 → read() 返回 EAGAIN → 设 readbusy=TRUE → 暂停上传。 第二步 — 下载数据到达立刻解除暂停 （ src/toolcbwrt.c",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "有时候我也忍不住想要找个老公",
+    "url": "https://www.hecaitou.com/2026/07/sometimes-i-too-want-a-husband.html",
+    "date": "2026-07-08T04:34:11Z",
+    "description": "我的电脑多，一张桌子放不下，更何况还是前前任房东留下的梳妆台，每天只能把腿卡在它夸张的巴洛克浮雕饰板上的波谷，打字就像是在受一种古怪的刑罚。于是朋友送了我一张电动升降桌，我自己也一狠心再买了一张。 上周日桌子到了，如果需要师傅上门安装，则需要再约时间。我盘算了一下，决定自己上手，这种简单家具又能难到哪里去？的确不难，不过要把长 180 厘米重达几十千克的桌面安装好，然后再把整张桌子翻起来，这件事就是另外一个概念了。 它得一气呵成，还要小心不要在过程中折断了桌腿，更要注意不要蹭坏了墙面。所以在视觉效果上，是我在书房里大汗淋漓裸绞一张桌子。桌子反复对我说：算了吧，你算了吧，你还是去找个师傅。我反复对桌子说：嘘，别说话，你别说话，很快就好了，就一下，一下就好了。 全部弄完是两个小时之后，我瘫坐在一堆塑料泡沫和纸板纸箱里，先是庆幸没有闪到老腰，没有碰坏墙面，没有折断桌角。但转念一想还要收拾这堆包装，再走去小区里的垃圾站扔掉，一路享受北京桑拿天的护肤效果，我就觉得眼前阵阵发黑。 千种情绪在心头涌起，最后我对朋友只说了一句话，一句话道尽我所有的感受： 「 有时候我也忍不住想要找个老公」。 说完我就",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "论梦",
+    "url": "https://mobius.blog/25008.html",
+    "date": "2026-07-08T01:42:32Z",
+    "description": "这两天睡眠乱七八糟，早上又都刚好在“快速动眼”的区间内醒来，所以刚好都记得醒来之前的“梦”。我似乎很少完全相信 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  }
+]
