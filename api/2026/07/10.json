@@ -7,6 +7,20 @@
     "source_root_domain": "eryajf.net"
   },
   {
+    "title": "On Children",
+    "url": "https://www.kawabangga.com/posts/7328",
+    "date": "2026-07-10T04:34:30Z",
+    "description": "by Kahlil Gibran Your children are not your children.Th […] Continue reading...",
+    "source_root_domain": "kawabangga.com"
+  },
+  {
+    "title": "抛弃糟糠妻与剑斩意中人",
+    "url": "https://www.hecaitou.com/2026/07/abandoning-wife-of-adversity-slaying-beloved.html",
+    "date": "2026-07-10T04:29:24Z",
+    "description": "其实这几年我一直没弄懂中文互联网上的一句流行语：上岸第一剑，先斩意中人。怎么读，觉得怎么就有那么怪。 昨天我在网上看到了一条解释，说是讨论这种表述背后的人心人性都是想多了，不如先考虑一下基本的中文素养问题。讲这句话的人明显无法在中文语义上分辨「糟糠妻」和「意中人」的巨大差异，认为它们就是一回事。 以上的话是引述，不是我说的！以上的话是引述，不是我说的！以上的话是引述，不是我说的！ 我个人倾向于这种解释：把意中人当做糟糠妻来用。「意中人」在我理解里，属于还需要踮起脚尖努力够一下的人物。在当下，自己只是 著意对方而已，只是觊觎对方而已，所以说是「意中」，并未得手，所以才让人牵肠挂肚。 「我的意中人是一位盖世英雄，有一天他会身披金甲、脚踏祥云来娶我」，这句台词里就是这种用法，说这句话的时候盖世英雄来了吗？并没有。所以最后真的到来时，才会那么动人。 上岸的意思是达成理想，功成名就，这时候去斩「意中人」，我就觉得很古怪，怀疑这人是不是有点反社会心理，还是心理扭曲根本是个变态。一般人是得不到的东西宁可自己毁了，这种好容易能够得到了却要毁掉的心态，我认为当事人当地的居委会和所在学校、单位需要密切关注",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
     "title": "公开目标，可能会让人更难开始",
     "url": "https://mobius.blog/25028.html",
     "date": "2026-07-10T01:35:00Z",
@@ -19,6 +33,13 @@
     "date": "2026-07-10T01:22:12Z",
     "description": "iostat + iotop 搞定磁盘 IO 故障 核心思路：先用 iostat 定位“哪块盘”有瓶颈，再用 […]",
     "source_root_domain": "199604.com"
+  },
+  {
+    "title": "科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功",
+    "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html",
+    "date": "2026-07-10T00:05:31Z",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 贵州修文县的\"穹岛·天坑咖啡\"，咖啡店建在巨大的溶洞之中。（ via ） 为什么 Dropbox 不成功 Dropbox，大家都知道吧？ 它成立于2007年，创始人是麻省理工学院的学生，经常丢失 U 盘，于是想到可以把文件上传到服务器。 他就创业了，做出了世界第一个\"云盘\"，当时是革命性产品。 这就是 Dropbox 的来历，它成立后快速走红，成为最早的头部 SaaS 服务\"云公司\"。 但是，出道即巅峰，这家公司后来的发展并不顺利，最近几年完全停滞不前，知道它的人也越来越少。 上面是它的历史股价走势图，2018上市那一年就是历史最高价39块，后来再也没有到。将近十年了，现在还是20多块。 也就是说，过去十年的互联网大发展，Dropbox 不仅没有发展，反而萎缩了。 它目前的市值（公司的价值）略高于60亿美元，相比之下，同期成立、当年声势还不如它的 Airbnb，现在的市值是850亿美元，更不要",
+    "source_root_domain": "feedburner.com"
   },
   {
     "title": "写作能力和 locate cost",
@@ -89,6 +110,13 @@
     "date": "2026-07-09T00:00:00Z",
     "description": "这篇文章将分享我在翻译应用交互优化方面的一些实践经验和思考。文章分上下两篇，上篇分享两个优化点：目标语言自动切换机制、自动聚焦策略扩展与优化。",
     "source_root_domain": "lrd.im"
+  },
+  {
+    "title": "[转载]iOS 定位修改 · 小白保姆级教程（Shadowrocket 小火箭）",
+    "url": "https://zhcn.xyz/article/ios-location-spoofing-guide-beginners",
+    "date": "2026-07-09T00:00:00Z",
+    "description": "本教程教你用 Shadowrocket（小火箭） 把 iPhone 的定位改到世界任何地方，无需越狱、无需电脑、无需开发者账号。跟着一步步做即可。",
+    "source_root_domain": "zhcn.xyz"
   },
   {
     "title": "TV Time关停！用九年追剧数据做个存档网站",

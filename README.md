@@ -28,8 +28,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-07-10 | [学习周刊-总第271期-2026年第28周](https://wiki.eryajf.net/pages/87cbc1/) | 如要阅读全文，点击标题跳转。 学习周刊-总第271期 &#124; TaskTick &#124; FluxMonitor &#124; Clawith &#124; DeepSeek-GUI &#124; plain-app &#124; EasyAIConfig &#124; eve |
+| 2026-07-10 | [On Children](https://www.kawabangga.com/posts/7328) | by Kahlil Gibran Your children are not your children.Th […] Continue reading... |
+| 2026-07-10 | [抛弃糟糠妻与剑斩意中人](https://www.hecaitou.com/2026/07/abandoning-wife-of-adversity-slaying-beloved.html) | 其实这几年我一直没弄懂中文互联网上的一句流行语：上岸第一剑，先斩意中人。怎么读，觉得怎么就有那么怪。 昨天我在网上看到了一条解释，说是讨论这种表述背后的人心人性都是想多了，不如先考虑一下基本的中文素养问题。讲这句话的人明显无法在中文语义上分辨「糟糠妻」和「意中人」的巨大差异，认为它们就是一回事。 以… |
 | 2026-07-10 | [公开目标，可能会让人更难开始](https://mobius.blog/25028.html) | 最近的博客几乎都是我在“当下”引发的极其“当下”的思考，不是为了偷懒，是因为我在陆续推进小说初稿时，实在没力气 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-10 | [iostat + iotop 搞定磁盘 IO 故障](https://199604.com/3594) | iostat + iotop 搞定磁盘 IO 故障 核心思路：先用 iostat 定位“哪块盘”有瓶颈，再用 […] |
+| 2026-07-10 | [科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 贵州修文县的"穹岛·天坑咖啡"，咖啡店建在巨大的溶洞之中。（ via ） 为什么 Dropbox 不成功… |
 | 2026-07-09 | [写作能力和 locate cost](https://blog.est.im/2026/stderr-24) | 自从自个儿琢磨出 locate cost 之后便开始关注这方面问题。最近看到两篇喷 harness 问题的 第一个是 Can Bölük https://blog.can.ac/2026/02/12/the-harness-problem/ 今年2月的时候发现： Codex uses applypa… |
 | 2026-07-09 | [Theme Hospital updated](https://macsourceports.com/game/themehospital) | The build of CorsixTH for Theme Hospital has been updated to version v0.70.0 of the project |
 | 2026-07-09 | [MOSS-TTS-Nano ONNX：轻量级离线语音合成 懒人整合包](https://dsx2016.com/moss-tts-nano-onnx-lightweight-offline-speech-synthesis/) | MOSS-TTS-Nano ONNX：轻量级离线语音合成方案 MOSS-TTS-Nano 是由 MO... MOSS-TTS-Nano ONNX：轻量级离线语音合成 懒人整合包 最先出现在 大师兄2016 。 |
@@ -40,6 +43,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-09 | [Piper TTS 离线语音合成 懒人整合包](https://dsx2016.com/piper-tts-offline-speech-synthesis-all-in-one-package-for-easy-setup/) | Piper TTS 简介 Piper1-gpl 是一个快速、离线、且支持本地运行的神经网络文本转语音... Piper TTS 离线语音合成 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-09 | [运维排查神器：ss 命令](https://199604.com/3592) | 运维排查神器：ss 命令 一、ss 是什么，为什么用它 ss（Socket Statistics）来自 ipr […] |
 | 2026-07-09 | [集团翻译应用交互优化实践案例分享（上）](https://lrd.im/blog/2026-07-09) | 这篇文章将分享我在翻译应用交互优化方面的一些实践经验和思考。文章分上下两篇，上篇分享两个优化点：目标语言自动切换机制、自动聚焦策略扩展与优化。 |
+| 2026-07-09 | [[转载]iOS 定位修改 · 小白保姆级教程（Shadowrocket 小火箭）](https://zhcn.xyz/article/ios-location-spoofing-guide-beginners) | 本教程教你用 Shadowrocket（小火箭） 把 iPhone 的定位改到世界任何地方，无需越狱、无需电脑、无需开发者账号。跟着一步步做即可。 |
 | 2026-07-09 | [TV Time关停！用九年追剧数据做个存档网站](https://zhcn.xyz/article/tv-time-is-closing-my-data-archive-project) | 2026年7月初知道TV Time 宣布关停。这个消息来得突然，但更让我措手不及的是，九年积攒的追剧记录 —— 153 部剧、1141 部电影、2655 集已看 |
 | 2026-07-09 | [我把 Google Search Console 接进了 Claude Code](https://coreychiu.com/blogs/connect-google-search-console-to-claude-code) | 简单六步，只需五分钟，让 AI 直接查你的真实 GSC 数据，帮你做 SEO 分析 |
 | 2026-07-09 | [Memos #2026-07-08](https://www.taober.blog/memos) | 07:51 梦里发生的一切真美好啊。 |
