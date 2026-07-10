@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-10 | [RapidOCR cpu可用 懒人整合包](https://dsx2016.com/rapidocr-is-compatible-with-cpu/) | RapidOCR：轻量、高速、跨平台的开源 OCR 引擎 RapidOCR 是由 RapidAI 社... RapidOCR cpu可用 懒人整合包 最先出现在 大师兄2016 。 |
+| 2026-07-10 | [Memos: 使用 rtk-ai/rtk 一个多月后的统计](https://blog.yasking.org/a/1783675324.html) | 10000+ 自动工具调用，节省 3770 万 Token，效果喜人。 最初是一个多月前发的 Memos： 推荐安装 Codegraph 和 rtk 减少 Token 消耗 后开始使用，再推荐下 Codegraph，很 … |
+| 2026-07-10 | [Memos: 大意了！1.5x2.0 米的床](https://blog.yasking.org/a/1783672287.html) | 老家房子出租出去，前几天租客跟我说次卧床垫子塌陷，翻个面用过段时间还是塌。 我就计划在闲鱼淘一个二手床垫，床是 … |
 | 2026-07-10 | [学习周刊-总第271期-2026年第28周](https://wiki.eryajf.net/pages/87cbc1/) | 如要阅读全文，点击标题跳转。 学习周刊-总第271期 &#124; TaskTick &#124; FluxMonitor &#124; Clawith &#124; DeepSeek-GUI &#124; plain-app &#124; EasyAIConfig &#124; eve |
 | 2026-07-10 | [On Children](https://www.kawabangga.com/posts/7328) | by Kahlil Gibran Your children are not your children.Th […] Continue reading... |
 | 2026-07-10 | [抛弃糟糠妻与剑斩意中人](https://www.hecaitou.com/2026/07/abandoning-wife-of-adversity-slaying-beloved.html) | 其实这几年我一直没弄懂中文互联网上的一句流行语：上岸第一剑，先斩意中人。怎么读，觉得怎么就有那么怪。 昨天我在网上看到了一条解释，说是讨论这种表述背后的人心人性都是想多了，不如先考虑一下基本的中文素养问题。讲这句话的人明显无法在中文语义上分辨「糟糠妻」和「意中人」的巨大差异，认为它们就是一回事。 以… |
