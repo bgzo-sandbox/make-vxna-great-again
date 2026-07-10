@@ -1,5 +1,47 @@
 [
   {
+    "title": "Real-ESRGAN：经典开源 AI 图像与视频超分辨率 懒人整合包",
+    "url": "https://dsx2016.com/real-esrgan-classic-open-source-ai-for-image-and-video-super-resolution/",
+    "date": "2026-07-10T14:06:29Z",
+    "description": "Real-ESRGAN：经典开源 AI 图像与视频超分辨率修复引擎 Real-ESRGAN 是一个基... Real-ESRGAN：经典开源 AI 图像与视频超分辨率 懒人整合包 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "宝塔完全卸载Docker",
+    "url": "https://foglog.cn/p/bt-uninstall-docker",
+    "date": "2026-07-10T13:30:00Z",
+    "description": "注意：不要直接 rm -rf /www/server/panel，那是卸载宝塔面板本身。步骤一：通过宝塔面板停止并删除 Docker 服务步骤二：手动清理残留即使通过宝塔卸载，有时仍可能残留一些...",
+    "source_root_domain": "foglog.cn"
+  },
+  {
+    "title": "Marker：高质量 PDF 转 Markdown 懒人整合包",
+    "url": "https://dsx2016.com/marker-high-quality-pdf-to-markdown-conversion/",
+    "date": "2026-07-10T13:25:47Z",
+    "description": "Marker：高质量 PDF 转 Markdown 的开源神器 Marker 是一个开源的文档转换工... Marker：高质量 PDF 转 Markdown 懒人整合包 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "做 Polymarket 项目踩的坑",
+    "url": "https://smallyu.net/2026/07/10/%E5%81%9APolymarket%E9%A1%B9%E7%9B%AE%E8%B8%A9%E7%9A%84%E5%9D%91/",
+    "date": "2026-07-10T11:53:28Z",
+    "description": "钱包设施的选择 现在做 Crypto 方向的项目，一般会选择 <a",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "流量阴谋论",
+    "url": "https://www.geedea.pro/article/clout-conspiracy-theory/",
+    "date": "2026-07-10T11:20:45Z",
+    "description": "笔者厌人症发作时会试图理解人类的行事逻辑，尽管大多数人做事没有逻辑，但至少能找到背后的动因，而动因往往是丑陋的。幸好我生活在 审丑 的现代社会中。上次更新《人类观察日志》系列，竟然是去年，我今年对人类的兴趣骤减，大多数时间都在阅读哲学、文学，享受探索新技术的智识体验。不过我想，我的确需要重新开始思考有关人的问题了，毕竟我读的不少哲学家都驱使我做这件事。 我有一两个月的时间处在求职的焦虑中，尽管学校安排的考试和实训对我而言很简单，但依旧让我痛苦。琐碎的细节就不在此多言了。最近我的生活总算平静了下来，拿到了 Offer，即将前往新的城市，学校的杂事也不再限制我了。本以为我有了更多阅读的时间，可我竟然有一个月没读完一本书了，而不知不觉地，曾经嗤之以鼻的软件又出现在了我的手机上，我的屏幕时间直线上升，又被卷入信息流了。 其实对我而言，信息并不是最令人焦虑和烦恼的，互联网最坏的部分是那些无法清晰地表达自我的人，也就是说，差不多 90% 的网民。我其实能理解大多数人做的任何事情，比方说，我能理解有人为自己的偶像在社交平台上骂人，因为在他们的生活里，对偶像的爱占了很大一部分，其他人的言辞侵犯了他们生",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Tesseract OCR：经典开源离线文字识别引擎 懒人整合包",
+    "url": "https://dsx2016.com/tesseract-ocr-classic-open-source-offline-text-recognition/",
+    "date": "2026-07-10T11:15:18Z",
+    "description": "Tesseract OCR：经典开源离线文字识别引擎 Tesseract OCR 是一个开源的光学字... Tesseract OCR：经典开源离线文字识别引擎 懒人整合包 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
     "title": "RapidOCR cpu可用 懒人整合包",
     "url": "https://dsx2016.com/rapidocr-is-compatible-with-cpu/",
     "date": "2026-07-10T10:08:35Z",

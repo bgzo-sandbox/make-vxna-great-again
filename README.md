@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-10 | [Real-ESRGAN：经典开源 AI 图像与视频超分辨率 懒人整合包](https://dsx2016.com/real-esrgan-classic-open-source-ai-for-image-and-video-super-resolution/) | Real-ESRGAN：经典开源 AI 图像与视频超分辨率修复引擎 Real-ESRGAN 是一个基... Real-ESRGAN：经典开源 AI 图像与视频超分辨率 懒人整合包 最先出现在 大师兄2016 。 |
+| 2026-07-10 | [宝塔完全卸载Docker](https://foglog.cn/p/bt-uninstall-docker) | 注意：不要直接 rm -rf /www/server/panel，那是卸载宝塔面板本身。步骤一：通过宝塔面板停止并删除 Docker 服务步骤二：手动清理残留即使通过宝塔卸载，有时仍可能残留一些... |
+| 2026-07-10 | [Marker：高质量 PDF 转 Markdown 懒人整合包](https://dsx2016.com/marker-high-quality-pdf-to-markdown-conversion/) | Marker：高质量 PDF 转 Markdown 的开源神器 Marker 是一个开源的文档转换工... Marker：高质量 PDF 转 Markdown 懒人整合包 最先出现在 大师兄2016 。 |
+| 2026-07-10 | [做 Polymarket 项目踩的坑](https://smallyu.net/2026/07/10/%E5%81%9APolymarket%E9%A1%B9%E7%9B%AE%E8%B8%A9%E7%9A%84%E5%9D%91/) | 钱包设施的选择 现在做 Crypto 方向的项目，一般会选择 <a |
+| 2026-07-10 | [流量阴谋论](https://www.geedea.pro/article/clout-conspiracy-theory/) | 笔者厌人症发作时会试图理解人类的行事逻辑，尽管大多数人做事没有逻辑，但至少能找到背后的动因，而动因往往是丑陋的。幸好我生活在 审丑 的现代社会中。上次更新《人类观察日志》系列，竟然是去年，我今年对人类的兴趣骤减，大多数时间都在阅读哲学、文学，享受探索新技术的智识体验。不过我想，我的确需要重新开始思考… |
+| 2026-07-10 | [Tesseract OCR：经典开源离线文字识别引擎 懒人整合包](https://dsx2016.com/tesseract-ocr-classic-open-source-offline-text-recognition/) | Tesseract OCR：经典开源离线文字识别引擎 Tesseract OCR 是一个开源的光学字... Tesseract OCR：经典开源离线文字识别引擎 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-10 | [RapidOCR cpu可用 懒人整合包](https://dsx2016.com/rapidocr-is-compatible-with-cpu/) | RapidOCR：轻量、高速、跨平台的开源 OCR 引擎 RapidOCR 是由 RapidAI 社... RapidOCR cpu可用 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-10 | [Memos: 使用 rtk-ai/rtk 一个多月后的统计](https://blog.yasking.org/a/1783675324.html) | 10000+ 自动工具调用，节省 3770 万 Token，效果喜人。 最初是一个多月前发的 Memos： 推荐安装 Codegraph 和 rtk 减少 Token 消耗 后开始使用，再推荐下 Codegraph，很 … |
 | 2026-07-10 | [Memos: 大意了！1.5x2.0 米的床](https://blog.yasking.org/a/1783672287.html) | 老家房子出租出去，前几天租客跟我说次卧床垫子塌陷，翻个面用过段时间还是塌。 我就计划在闲鱼淘一个二手床垫，床是 … |
