@@ -1,5 +1,33 @@
 [
   {
+    "title": "DeOldify：旧照片上色 懒人整合包",
+    "url": "https://dsx2016.com/colorizing-old-photos-with-deoldify/",
+    "date": "2026-07-10T15:59:39Z",
+    "description": "DeOldify：基于深度学习的黑白照片与老电影自动上色神器 DeOldify 是一个基于深度学习的... DeOldify：旧照片上色 懒人整合包 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "GFPGAN：开源人脸修复与增强 懒人整合包",
+    "url": "https://dsx2016.com/gfpgan-open-source-face-restoration-and-enhancement/",
+    "date": "2026-07-10T15:49:19Z",
+    "description": "GFPGAN：开源人脸修复与增强 AI 模型 GFPGAN（Generative Facial Prior G... GFPGAN：开源人脸修复与增强 懒人整合包 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "【好物分享】 小林制药 一滴消臭元",
+    "url": "https://7gugu.com/index.php/2026/07/10/%e3%80%90%e5%a5%bd%e7%89%a9%e5%88%86%e4%ba%ab%e3%80%91-%e5%b0%8f%e6%9e%97%e5%88%b6%e8%8d%af-%e4%b8%80%e6%bb%b4%e6%b6%88%e8%87%ad%e5%85%83/",
+    "date": "2026-07-10T15:01:05Z",
+    "description": "序 这个东西纯粹是在Youtube Shorts上偶然刷到的。之前一直在刷日本有啥好物可以买，偶然看到了这个小 … 继续阅读 “【好物分享】 小林制药 一滴消臭元”",
+    "source_root_domain": "7gugu.com"
+  },
+  {
+    "title": "即使是 Single-User 也遇到 FATAL: “timescaledb” already loaded with a different version 报错的解决方式记录",
+    "url": "https://www.ghostchu.com/%e5%8d%b3%e4%bd%bf%e6%98%af-single-user-%e4%b9%9f%e9%81%87%e5%88%b0-fatal-timescaledb-already-loaded-with-a-different-version-%e6%8a%a5%e9%94%99%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e5%bc%8f/",
+    "date": "2026-07-10T14:51:21Z",
+    "description": "今天例行为服务器上的 PostgreSQL 及其扩展升级时，在操作 timescaledb 扩展时遇到了一个奇 […] 即使是 Single-User 也遇到 FATAL: “timescaledb” already loaded with a different version 报错的解决方式记录 最先出现在 Ghost_chu's Blog 。",
+    "source_root_domain": "ghostchu.com"
+  },
+  {
     "title": "Real-ESRGAN：经典开源 AI 图像与视频超分辨率 懒人整合包",
     "url": "https://dsx2016.com/real-esrgan-classic-open-source-ai-for-image-and-video-super-resolution/",
     "date": "2026-07-10T14:06:29Z",

@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-10 | [DeOldify：旧照片上色 懒人整合包](https://dsx2016.com/colorizing-old-photos-with-deoldify/) | DeOldify：基于深度学习的黑白照片与老电影自动上色神器 DeOldify 是一个基于深度学习的... DeOldify：旧照片上色 懒人整合包 最先出现在 大师兄2016 。 |
+| 2026-07-10 | [GFPGAN：开源人脸修复与增强 懒人整合包](https://dsx2016.com/gfpgan-open-source-face-restoration-and-enhancement/) | GFPGAN：开源人脸修复与增强 AI 模型 GFPGAN（Generative Facial Prior G... GFPGAN：开源人脸修复与增强 懒人整合包 最先出现在 大师兄2016 。 |
+| 2026-07-10 | [【好物分享】 小林制药 一滴消臭元](https://7gugu.com/index.php/2026/07/10/%e3%80%90%e5%a5%bd%e7%89%a9%e5%88%86%e4%ba%ab%e3%80%91-%e5%b0%8f%e6%9e%97%e5%88%b6%e8%8d%af-%e4%b8%80%e6%bb%b4%e6%b6%88%e8%87%ad%e5%85%83/) | 序 这个东西纯粹是在Youtube Shorts上偶然刷到的。之前一直在刷日本有啥好物可以买，偶然看到了这个小 … 继续阅读 “【好物分享】 小林制药 一滴消臭元” |
+| 2026-07-10 | [即使是 Single-User 也遇到 FATAL: “timescaledb” already loaded with a different version 报错的解决方式记录](https://www.ghostchu.com/%e5%8d%b3%e4%bd%bf%e6%98%af-single-user-%e4%b9%9f%e9%81%87%e5%88%b0-fatal-timescaledb-already-loaded-with-a-different-version-%e6%8a%a5%e9%94%99%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e5%bc%8f/) | 今天例行为服务器上的 PostgreSQL 及其扩展升级时，在操作 timescaledb 扩展时遇到了一个奇 […] 即使是 Single-User 也遇到 FATAL: “timescaledb” already loaded with a different version 报错的解决方式记录… |
 | 2026-07-10 | [Real-ESRGAN：经典开源 AI 图像与视频超分辨率 懒人整合包](https://dsx2016.com/real-esrgan-classic-open-source-ai-for-image-and-video-super-resolution/) | Real-ESRGAN：经典开源 AI 图像与视频超分辨率修复引擎 Real-ESRGAN 是一个基... Real-ESRGAN：经典开源 AI 图像与视频超分辨率 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-10 | [宝塔完全卸载Docker](https://foglog.cn/p/bt-uninstall-docker) | 注意：不要直接 rm -rf /www/server/panel，那是卸载宝塔面板本身。步骤一：通过宝塔面板停止并删除 Docker 服务步骤二：手动清理残留即使通过宝塔卸载，有时仍可能残留一些... |
 | 2026-07-10 | [Marker：高质量 PDF 转 Markdown 懒人整合包](https://dsx2016.com/marker-high-quality-pdf-to-markdown-conversion/) | Marker：高质量 PDF 转 Markdown 的开源神器 Marker 是一个开源的文档转换工... Marker：高质量 PDF 转 Markdown 懒人整合包 最先出现在 大师兄2016 。 |
