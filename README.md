@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-11 | [Memos: 快跑！说美国豆包是过誉了](https://blog.yasking.org/a/1783782377.html) | “ 我是 Gemini，一个由 Google 训练的大型语言模型。 ” 这盲测输出，一样的，就蠢蠢的。 |
+| 2026-07-11 | [「随便」才是最贵的](https://blog.solazy.me/20260711/) | 算是昨天话题的姊妹篇吧，今天聊聊「随便」 |
 | 2026-07-11 | [博客大联盟：一个给独立博客的收录与聚合站](https://u.sb/boke/) | 介绍博客大联盟，一个独立博客目录和 RSS 聚合站，帮助大家找到更多有趣的独立博客。 |
 | 2026-07-11 | [6.27 Codex 封号事件复盘](https://rqdmap.top/posts/codex-suspended/) | 6 月份一口气痛失两个 Codex Pro 帐号, 一个老号被手机号二验拦住了, 另一个新创的 Giffgaff 号没几天也被直接封了, -$400😢 总结下可能的安全风险 |
 | 2026-07-11 | [卡利古拉](https://www.geedea.pro/library/2026/caligula/) | 一本收录了加缪原创戏剧作品和与戏剧相关的散文及访谈的书。加缪的第一部戏剧作品《卡利古拉》写于 1938 年，在《 局外人 》之前，那时他 25 岁。从书中《我为什么搞戏剧？》这篇电视访谈内容来看，加缪把戏剧当作「逃避作家生涯中令我厌烦的东西」的手段，同时他也觉得戏剧是文学的更全面的形式。本书一共收录… |
@@ -34,17 +36,19 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-11 | [摘：《我就要自由》](https://z.arlmy.me/posts/Note/Note_ZuoYeYangZi_WoJiuYaoZiYou/) | 「定义不了。」 |
 | 2026-07-11 | [今天取消了Tidal订阅](https://www.hecaitou.com/2026/07/canceling-my-tidal-subscription.html) | 今天我取消了 Tidal 订阅，但还是保留了网易云和 Apple Music. 最直接的原因是我本周收到一封电子邮件，Tidal 告诉我说从 8 月份开始要涨价。本来我和它相安无事，每个月信用卡商会弹出一条扣费消息，已经变成了个习惯，我用这条消息提醒自己新的一个月就要到来。 专门写信来通知要涨价就是… |
 | 2026-07-11 | [MiMoCode 干完活儿发通知](https://blog.est.im/2026/stdout-27) | AI在 coding 的时候我其实在玩别的。希望agent 每次干完活，macOS 弹个通知。 手上是 MimoCode，就让它自己写个。啪，很快写好了。结果还是折腾了好一会儿， 记录几个有意思的小坑。 首先是如果当前CLI是活动的，就不弹通知。 需要判断活动窗口。最初用 osascript osa… |
+| 2026-07-11 | [](https://www.owenyoung.com/4mgvd) | 学到了 一个概念： Hypomnēma ，"是一种将真理转化为品格的方法： 通过每天回顾那些让你切实感受到理想生活方式的句子，你会更容易记得去做正确的事 ，也会记得在日常生活中真正练习它。毕竟，只是在脑子里想一想，并不会改变你。慢慢地，你会成为那样的人。到最后，你甚至不再需要刻意提醒自己，因为你的原… |
 | 2026-07-11 | [Vlog尝试 端午摩旅记录](https://yovey.me/vlog-trial-1st/) | 今年又冒出一个idea说要学下剪辑，剪个Vlog出来。 这是成品，耗时大半个月，没在精益求精，只是毫无头绪无从 … Continue reading "Vlog尝试 端午摩旅记录" |
 | 2026-07-11 | [Hello, World!](https://www.kawabangga.com/posts/7336) | Continue reading... |
 | 2026-07-11 | [谁他妈在乎你啊](https://mobius.blog/25033.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-11 | [我全栈开发的第一个产品：Balanced Portfolio 多资产风险平价全天候策略回测系统](https://prologue.dev/blog/my-first-full-stack-development-project-balanced-portfolio-a-global-multi-asset-risk-parity-backtesting-system) | 关于笔者第一次全栈开发金融产品，将风险平价策略回测系统、股指期货数据看板、场外衍生品定价模块做成开箱即用、可交互、可视化的Web端产品。 |
 | 2026-07-11 | [2026年第28周](https://blog.sakoamc.com/posts/2628/) | 题记：二零二六年的第二十八周，年已过半，日复一日，往复循环。 |
 | 2026-07-11 | [Memos #2026-07-10](https://www.taober.blog/memos) | 09:01 深圳这破天气，天天下雨，衣服都不得干，受不了咧。 |
-| 2026-07-10 | [吐司面包烘焙](http://www.uncoverman.com/toast-baking.html) | 台风天，心血来潮在家做吐司，由于是第一次，选了小红书上最简易的 教程 。这个教程的好处在于，没有看不懂的术语，也不用 30+ 的步骤。 首秀做出的吐司，味道意外得好，表皮酥脆，内部松软，香味扑鼻，停不下来，家里人吃过的都说好，成就感满满！ 材料准备 高筋面粉 250g 鸡蛋 2 个 牛奶 150g… |
+| 2026-07-10 | [吐司面包烘焙](http://www.uncoverman.com/toast-baking.html) | 台风天，在家闲来无事，心血来潮想做吐司。起心动念，大概是我关注的一位热爱下厨的大佬 zhuyi 很享受自己做面包，经常在微博上晒面包。 由于是第一次，选了小红书上最简易的 教程 。这个教程的好处在于，没有看不懂的术语，也不用 30+ 的步骤，简单来说就是 3 步：混合、发酵、烘焙。 0. 材料准备… |
 | 2026-07-10 | [摘：《见证疯狂》](https://z.arlmy.me/posts/Note/Note_MikeJay_ThisWayMadnessLiesTheAsylumAndBeyond/) | 「疯人非疯。」 |
 | 2026-07-10 | [DeOldify：旧照片上色 懒人整合包](https://dsx2016.com/colorizing-old-photos-with-deoldify/) | DeOldify：基于深度学习的黑白照片与老电影自动上色神器 DeOldify 是一个基于深度学习的... DeOldify：旧照片上色 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-10 | [GFPGAN：开源人脸修复与增强 懒人整合包](https://dsx2016.com/gfpgan-open-source-face-restoration-and-enhancement/) | GFPGAN：开源人脸修复与增强 AI 模型 GFPGAN（Generative Facial Prior G... GFPGAN：开源人脸修复与增强 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-10 | [【好物分享】 小林制药 一滴消臭元](https://7gugu.com/index.php/2026/07/10/%e3%80%90%e5%a5%bd%e7%89%a9%e5%88%86%e4%ba%ab%e3%80%91-%e5%b0%8f%e6%9e%97%e5%88%b6%e8%8d%af-%e4%b8%80%e6%bb%b4%e6%b6%88%e8%87%ad%e5%85%83/) | 序 这个东西纯粹是在Youtube Shorts上偶然刷到的。之前一直在刷日本有啥好物可以买，偶然看到了这个小 … 继续阅读 “【好物分享】 小林制药 一滴消臭元” |
+| 2026-07-10 | [拧巴的人](https://blog.solazy.me/20260710/) | 今天说一个和自洽相关的话题 |
 | 2026-07-10 | [即使是 Single-User 也遇到 FATAL: “timescaledb” already loaded with a different version 报错的解决方式记录](https://www.ghostchu.com/%e5%8d%b3%e4%bd%bf%e6%98%af-single-user-%e4%b9%9f%e9%81%87%e5%88%b0-fatal-timescaledb-already-loaded-with-a-different-version-%e6%8a%a5%e9%94%99%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e5%bc%8f/) | 今天例行为服务器上的 PostgreSQL 及其扩展升级时，在操作 timescaledb 扩展时遇到了一个奇 […] 即使是 Single-User 也遇到 FATAL: “timescaledb” already loaded with a different version 报错的解决方式记录… |
 | 2026-07-10 | [Real-ESRGAN：经典开源 AI 图像与视频超分辨率 懒人整合包](https://dsx2016.com/real-esrgan-classic-open-source-ai-for-image-and-video-super-resolution/) | Real-ESRGAN：经典开源 AI 图像与视频超分辨率修复引擎 Real-ESRGAN 是一个基... Real-ESRGAN：经典开源 AI 图像与视频超分辨率 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-10 | [宝塔完全卸载Docker](https://foglog.cn/p/bt-uninstall-docker) | 注意：不要直接 rm -rf /www/server/panel，那是卸载宝塔面板本身。步骤一：通过宝塔面板停止并删除 Docker 服务步骤二：手动清理残留即使通过宝塔卸载，有时仍可能残留一些... |
@@ -62,6 +66,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-10 | [iostat + iotop 搞定磁盘 IO 故障](https://199604.com/3594) | iostat + iotop 搞定磁盘 IO 故障 核心思路：先用 iostat 定位“哪块盘”有瓶颈，再用 […] |
 | 2026-07-10 | [科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 贵州修文县的"穹岛·天坑咖啡"，咖啡店建在巨大的溶洞之中。（ via ） 为什么 Dropbox 不成功… |
 | 2026-07-09 | [写作能力和 locate cost](https://blog.est.im/2026/stderr-24) | 自从自个儿琢磨出 locate cost 之后便开始关注这方面问题。最近看到两篇喷 harness 问题的 第一个是 Can Bölük https://blog.can.ac/2026/02/12/the-harness-problem/ 今年2月的时候发现： Codex uses applypa… |
+| 2026-07-09 | [油腻的玩笑](https://blog.solazy.me/20260709/) | 这个话题我老早就想讲，正好最近有几个场景遇到了，就拿出来聊聊 |
 | 2026-07-09 | [Theme Hospital updated](https://macsourceports.com/game/themehospital) | The build of CorsixTH for Theme Hospital has been updated to version v0.70.0 of the project |
 | 2026-07-09 | [MOSS-TTS-Nano ONNX：轻量级离线语音合成 懒人整合包](https://dsx2016.com/moss-tts-nano-onnx-lightweight-offline-speech-synthesis/) | MOSS-TTS-Nano ONNX：轻量级离线语音合成方案 MOSS-TTS-Nano 是由 MO... MOSS-TTS-Nano ONNX：轻量级离线语音合成 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-09 | [Vosk：开源离线语音识别 懒人整合包](https://dsx2016.com/vosk-open-source-offline-speech-recognition/) | 认识 Vosk：轻量级开源离线语音识别引擎 Vosk 是一个开源的离线语音识别（ASR）工具包。简单... Vosk：开源离线语音识别 懒人整合包 最先出现在 大师兄2016 。 |

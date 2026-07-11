@@ -1,5 +1,19 @@
 [
   {
+    "title": "Memos: 快跑！说美国豆包是过誉了",
+    "url": "https://blog.yasking.org/a/1783782377.html",
+    "date": "2026-07-11T15:07:00Z",
+    "description": "“ 我是 Gemini，一个由 Google 训练的大型语言模型。 ” 这盲测输出，一样的，就蠢蠢的。",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "「随便」才是最贵的",
+    "url": "https://blog.solazy.me/20260711/",
+    "date": "2026-07-11T15:00:00Z",
+    "description": "算是昨天话题的姊妹篇吧，今天聊聊「随便」",
+    "source_root_domain": "solazy.me"
+  },
+  {
     "title": "博客大联盟：一个给独立博客的收录与聚合站",
     "url": "https://u.sb/boke/",
     "date": "2026-07-11T12:39:00Z",
@@ -49,6 +63,13 @@
     "source_root_domain": "feedburner.com"
   },
   {
+    "title": "",
+    "url": "https://www.owenyoung.com/4mgvd",
+    "date": "2026-07-11T03:37:39Z",
+    "description": "学到了 一个概念： Hypomnēma ，\"是一种将真理转化为品格的方法： 通过每天回顾那些让你切实感受到理想生活方式的句子，你会更容易记得去做正确的事 ，也会记得在日常生活中真正练习它。毕竟，只是在脑子里想一想，并不会改变你。慢慢地，你会成为那样的人。到最后，你甚至不再需要刻意提醒自己，因为你的原则已经变成了你的品格。 所以，对我来说，好像就是每天回顾 Wisdom 这个 collection 的道理，然后不断地内化这些道理。",
+    "source_root_domain": "owenyoung.com"
+  },
+  {
     "title": "Vlog尝试 端午摩旅记录",
     "url": "https://yovey.me/vlog-trial-1st/",
     "date": "2026-07-11T03:35:42Z",
@@ -94,7 +115,7 @@
     "title": "吐司面包烘焙",
     "url": "http://www.uncoverman.com/toast-baking.html",
     "date": "2026-07-10T23:11:37Z",
-    "description": "台风天，心血来潮在家做吐司，由于是第一次，选了小红书上最简易的 教程 。这个教程的好处在于，没有看不懂的术语，也不用 30+ 的步骤。 首秀做出的吐司，味道意外得好，表皮酥脆，内部松软，香味扑鼻，停不下来，家里人吃过的都说好，成就感满满！ 材料准备 高筋面粉 250g 鸡蛋 2 个 牛奶 150g 耐高糖酵母 3g 糖 25g 盐 3g 黄油 25g 吐司模具 烤箱 混合 将面粉、鸡蛋、牛奶、糖、盐混合，混合时，牛奶慢慢加，不要太湿，判断标准是再加一点面粉混不进原有面团。 注意，糖不能不加，糖是用来喂酵母的，不加的话酵母死了面团发酵不起来。无糖吐司是另外的配方。 揉成面团，揉的时候有些粘手，所以没有用手，用了一个大勺子。我是纯手揉，没用厨师机，要揉到表面光滑，揉了 15 分钟以上，然后封上保鲜膜，放进冰箱放一夜。 <img src=\"https://i.see.you/2026/07/",
+    "description": "台风天，在家闲来无事，心血来潮想做吐司。起心动念，大概是我关注的一位热爱下厨的大佬 zhuyi 很享受自己做面包，经常在微博上晒面包。 由于是第一次，选了小红书上最简易的 教程 。这个教程的好处在于，没有看不懂的术语，也不用 30+ 的步骤，简单来说就是 3 步：混合、发酵、烘焙。 0. 材料准备 高筋面粉 250g 鸡蛋 2 个 牛奶 150g 耐高糖酵母 3g 糖 25g 盐 3g 黄油 25g 吐司模具 烤箱 1. 混合 提前一天，将面粉、鸡蛋、牛奶、糖、盐混合，混合时，牛奶慢慢加，不要太湿，判断标准是再加一点面粉混不进原有面团。 注意，糖不能不加，糖是用来喂酵母的，不加的话酵母死了面团发酵不起来。无糖吐司是另外的配方。 揉成面团，揉的时候有些粘手，所以没有用手，用了一个大勺子",
     "source_root_domain": "uncoverman.com"
   },
   {
@@ -124,6 +145,13 @@
     "date": "2026-07-10T15:01:05Z",
     "description": "序 这个东西纯粹是在Youtube Shorts上偶然刷到的。之前一直在刷日本有啥好物可以买，偶然看到了这个小 … 继续阅读 “【好物分享】 小林制药 一滴消臭元”",
     "source_root_domain": "7gugu.com"
+  },
+  {
+    "title": "拧巴的人",
+    "url": "https://blog.solazy.me/20260710/",
+    "date": "2026-07-10T15:00:00Z",
+    "description": "今天说一个和自洽相关的话题",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "即使是 Single-User 也遇到 FATAL: “timescaledb” already loaded with a different version 报错的解决方式记录",
@@ -243,6 +271,13 @@
     "date": "2026-07-09T15:01:00Z",
     "description": "自从自个儿琢磨出 locate cost 之后便开始关注这方面问题。最近看到两篇喷 harness 问题的 第一个是 Can Bölük https://blog.can.ac/2026/02/12/the-harness-problem/ 今年2月的时候发现： Codex uses applypatch : It takes a string as input, which is essentially an OpenAI-flavored diff, and instead of relying on a structured schema, the harness just expects this blob to follow a strict set of rules Claude Code (and most others) use strreplace : find the exact old text, swap in the new text. Very simple to think about. But the model must reproduce every",
     "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "油腻的玩笑",
+    "url": "https://blog.solazy.me/20260709/",
+    "date": "2026-07-09T15:00:00Z",
+    "description": "这个话题我老早就想讲，正好最近有几个场景遇到了，就拿出来聊聊",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "Theme Hospital updated",
