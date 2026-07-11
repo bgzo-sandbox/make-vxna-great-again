@@ -1,10 +1,24 @@
 [
   {
+    "title": "卡利古拉",
+    "url": "https://www.geedea.pro/library/2026/caligula/",
+    "date": "2026-07-11T09:02:40Z",
+    "description": "一本收录了加缪原创戏剧作品和与戏剧相关的散文及访谈的书。加缪的第一部戏剧作品《卡利古拉》写于 1938 年，在《 局外人 》之前，那时他 25 岁。从书中《我为什么搞戏剧？》这篇电视访谈内容来看，加缪把戏剧当作「逃避作家生涯中令我厌烦的东西」的手段，同时他也觉得戏剧是文学的更全面的形式。本书一共收录了五篇戏剧，也是加缪全部的原创戏剧，他还改编过一些戏剧，比方说陀思妥耶夫斯基的《群魔》。 卡利古拉 《卡利古拉》的主题应该是这五篇戏剧里最晦涩的，也是最像加缪的（尽管加缪本人认为最像他的作品实际上是广受批评的《戒严》）。只所以说这篇最像加缪，大概是因为它与加缪的哲学思想最契合，而荒诞哲学也是大众对加缪的印象。余下的作品中，《误会》是主题很明显的家庭悲剧，《戒严》更加政治化也更关注民间疾苦，《正义者》和《阿斯图里亚斯起义》都是革命题材。被称为「荒诞三部曲」的作品是小说《局外人》、散文《西西弗神话》以及这篇戏剧《卡利古拉》，前两部都写于 1942 年，而这之后的加缪（比方说 1957 年发布的《 流放与王国 》）似乎不那么关注荒诞哲学了，或者说意味不那么浓烈。包括这部《卡利古拉》在内的加缪年轻时",
+    "source_root_domain": "geedea.pro"
+  },
+  {
     "title": "今天取消了Tidal订阅",
     "url": "https://www.hecaitou.com/2026/07/canceling-my-tidal-subscription.html",
     "date": "2026-07-11T05:03:23Z",
     "description": "今天我取消了 Tidal 订阅，但还是保留了网易云和 Apple Music. 最直接的原因是我本周收到一封电子邮件，Tidal 告诉我说从 8 月份开始要涨价。本来我和它相安无事，每个月信用卡商会弹出一条扣费消息，已经变成了个习惯，我用这条消息提醒自己新的一个月就要到来。 专门写信来通知要涨价就是另外一件事情了，我一下子停下来，开始仔细思考这件事： 自从我开始玩 CD，每天打开流媒体的时间就开始锐减，这个变化非常明确。一边写字，一边播放一张专辑，我早年间就有这个习惯，到今天维持着肌肉记忆，所以切回去不费吹灰之力。 心态上也完全不同。我手头早就没有了 CD 碟，现在的每一张都是我最近辛辛苦苦从淘宝、闲鱼还有日本二手市场淘来。尤其是海淘 CD，我经常要等两周以上。因此，不存在「这张也可以听听看」这种想法，而是「我就要听这一张」。每天早上，选CD、播放 CD、听 CD 已经变成了日常习惯。 如果没有 CD，我想我会继续订阅下去。不是多困难的事情，涨价固然让人不爽，但是人很容易换个角度去想：一个月多了这几块钱，选一天点外卖的时候少点一个菜就都有了。何况 Tidal 是我个人最喜欢的流媒体平台",
     "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "MiMoCode 干完活儿发通知",
+    "url": "https://blog.est.im/2026/stdout-27",
+    "date": "2026-07-11T03:53:00Z",
+    "description": "AI在 coding 的时候我其实在玩别的。希望agent 每次干完活，macOS 弹个通知。 手上是 MimoCode，就让它自己写个。啪，很快写好了。结果还是折腾了好一会儿， 记录几个有意思的小坑。 首先是如果当前CLI是活动的，就不弹通知。 需要判断活动窗口。最初用 osascript osascript -e 'tell application \"System Events\" to get name of first application process whose frontmost is true' 直接报错 Not authorized to send Apple events to System Events (-1743) 。 于是换 lsappinfo ，走 macOS Launch Services API，不需要任何额外授权： lsappinfo info -only name $(lsappinfo front) # → \"LSDisplayName\"=\"Terminal\" 还能拿 PID： lsappinfo info -only pid $(lsappi",
+    "source_root_domain": "feedburner.com"
   },
   {
     "title": "Vlog尝试 端午摩旅记录",
@@ -26,6 +40,13 @@
     "date": "2026-07-11T01:00:00Z",
     "description": "Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "2026年第28周",
+    "url": "https://blog.sakoamc.com/posts/2628/",
+    "date": "2026-07-11T00:00:00Z",
+    "description": "题记：二零二六年的第二十八周，年已过半，日复一日，往复循环。",
+    "source_root_domain": "sakoamc.com"
   },
   {
     "title": "Memos #2026-07-10",
