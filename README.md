@@ -41,6 +41,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-11 | [Hello, World!](https://www.kawabangga.com/posts/7336) | Continue reading... |
 | 2026-07-11 | [谁他妈在乎你啊](https://mobius.blog/25033.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-11 | [我全栈开发的第一个产品：Balanced Portfolio 多资产风险平价全天候策略回测系统](https://prologue.dev/blog/my-first-full-stack-development-project-balanced-portfolio-a-global-multi-asset-risk-parity-backtesting-system) | 关于笔者第一次全栈开发金融产品，将风险平价策略回测系统、股指期货数据看板、场外衍生品定价模块做成开箱即用、可交互、可视化的Web端产品。 |
+| 2026-07-11 | [Python 潮流周刊#158：frozendict 内置类型](https://pythoncat.top/posts/2026-07-11-weekly/) | 分享了 11 篇文章，12 个开源项目 |
 | 2026-07-11 | [2026年第28周](https://blog.sakoamc.com/posts/2628/) | 题记：二零二六年的第二十八周，年已过半，日复一日，往复循环。 |
 | 2026-07-11 | [Memos #2026-07-10](https://www.taober.blog/memos) | 09:01 深圳这破天气，天天下雨，衣服都不得干，受不了咧。 |
 | 2026-07-10 | [吐司面包烘焙](http://www.uncoverman.com/toast-baking.html) | 台风天，在家闲来无事，心血来潮想做吐司。起心动念，大概是我关注的一位热爱下厨的大佬 zhuyi 很享受自己做面包，经常在微博上晒面包。 由于是第一次，选了小红书上最简易的 教程 。这个教程的好处在于，没有看不懂的术语，也不用 30+ 的步骤，简单来说就是 3 步：混合、发酵、烘焙。 0. 材料准备… |
