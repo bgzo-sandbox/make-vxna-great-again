@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-11 | [谁他妈在乎你啊](https://mobius.blog/25033.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-11 | [Memos #2026-07-10](https://www.taober.blog/memos) | 09:01 深圳这破天气，天天下雨，衣服都不得干，受不了咧。 |
 | 2026-07-10 | [DeOldify：旧照片上色 懒人整合包](https://dsx2016.com/colorizing-old-photos-with-deoldify/) | DeOldify：基于深度学习的黑白照片与老电影自动上色神器 DeOldify 是一个基于深度学习的... DeOldify：旧照片上色 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-10 | [GFPGAN：开源人脸修复与增强 懒人整合包](https://dsx2016.com/gfpgan-open-source-face-restoration-and-enhancement/) | GFPGAN：开源人脸修复与增强 AI 模型 GFPGAN（Generative Facial Prior G... GFPGAN：开源人脸修复与增强 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-10 | [【好物分享】 小林制药 一滴消臭元](https://7gugu.com/index.php/2026/07/10/%e3%80%90%e5%a5%bd%e7%89%a9%e5%88%86%e4%ba%ab%e3%80%91-%e5%b0%8f%e6%9e%97%e5%88%b6%e8%8d%af-%e4%b8%80%e6%bb%b4%e6%b6%88%e8%87%ad%e5%85%83/) | 序 这个东西纯粹是在Youtube Shorts上偶然刷到的。之前一直在刷日本有啥好物可以买，偶然看到了这个小 … 继续阅读 “【好物分享】 小林制药 一滴消臭元” |
@@ -59,7 +61,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-09 | [[转载]iOS 定位修改 · 小白保姆级教程（Shadowrocket 小火箭）](https://zhcn.xyz/article/ios-location-spoofing-guide-beginners) | 本教程教你用 Shadowrocket（小火箭） 把 iPhone 的定位改到世界任何地方，无需越狱、无需电脑、无需开发者账号。跟着一步步做即可。 |
 | 2026-07-09 | [TV Time关停！用九年追剧数据做个存档网站](https://zhcn.xyz/article/tv-time-is-closing-my-data-archive-project) | 2026年7月初知道TV Time 宣布关停。这个消息来得突然，但更让我措手不及的是，九年积攒的追剧记录 —— 153 部剧、1141 部电影、2655 集已看 |
 | 2026-07-09 | [我把 Google Search Console 接进了 Claude Code](https://coreychiu.com/blogs/connect-google-search-console-to-claude-code) | 简单六步，只需五分钟，让 AI 直接查你的真实 GSC 数据，帮你做 SEO 分析 |
-| 2026-07-09 | [Memos #2026-07-08](https://www.taober.blog/memos) | 07:51 梦里发生的一切真美好啊。 |
 | 2026-07-08 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.35.0 of the project |
 | 2026-07-08 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.26 of the project |
 | 2026-07-08 | [FreeSpace 2 updated](https://macsourceports.com/game/freespace2) | The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version release260_0 of the project |
@@ -128,17 +129,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-04 | [BMAD Loop：把开发循环的控制权，交还给确定性代码](https://gptkit.eth.limo/EB5A909F-7AF2-4464-BF3E-6EF4ADCFDE7A/) | 如果你看过我之前那篇 Story Automator 上手实录 ，应该还记得我最后的结论： 白天手工跑，目前还是自己手工跑会更快。但睡前把一批 Story 交给它过夜跑，这个场景它真的挺合适。 那篇文章里我留了个没回答的问题—— 为什么它跑得比人手工还慢？ 我当时说"还没仔细分析它的实现原理"。 现… |
 | 2026-07-04 | [在闲鱼找卖家](https://www.hecaitou.com/2026/07/the-art-of-spotting-good-sellers-on-xianyu.html) | 经过我这几年的实践，我认为如果要论购物的乐趣，一堆电商平台加起来都不够闲鱼一只手打的。只有闲鱼同时满足了买家的三大购物需求：1、捡便宜。2、发现新玩意儿。3、和卖家讨价还价，相互拉扯。 这里我想讨论的是隐藏乐趣，也就是在鱼龙混杂的海鲜市场里，如何能找出靠谱的卖家。之所以会成为一种乐趣，是因为每一个中… |
 | 2026-07-04 | [Python 潮流周刊#157：CPython JIT 的开发计划](https://pythoncat.top/posts/2026-07-04-weekly/) | 分享了 12 篇文章，12 个开源项目 |
-| 2026-07-03 | [完成比完美更诚实](https://blog.solazy.me/20260703/) | 日更最难的不是挤出字数，而是承认今天的水平就到这儿。放过对完美的执念，诚实地完成它。 |
-| 2026-07-03 | [下班以后](https://yinji.org/life-after-work.html) | 工作两年多，心性发生了不小的变化。 刚参加工作那会儿，总觉得“忙”是一件很可怕的事情。不能准时下班可怕，月底月初更可怕。今天忙，就担心明天会更忙；今天没做完，就焦虑以后是不是都要这样过。那时候的生活，总像是在追赶一辆永远追不上的列车。 有时候很晚才回到住处，为了给自己多留一点放松的时间，匆匆洗完澡，… |
-| 2026-07-03 | [省力的解释，不等于答案](https://www.linggandianbo.com/newsletter-130/) | AI 并非普通工具，棉花糖不是德性测验，自然也不是道德法庭｜灵感电波 #130 |
-| 2026-07-03 | [翻译-现实拥有令人惊讶的丰富细节](https://blog.prayhand13013.top/20260703T142420--翻译-现实拥有令人惊讶的丰富细节__blog.html) |  |
-| 2026-07-03 | [树莓派，旧电脑，无显卡，纯cpu驱动的ai低配方案](https://dsx2016.com/a-low-end-ai-setup-driven-purely-by-the-cpuusing-a-raspberry-pi-or-an-old-pc-without-a-dedicated-graphics-card/) | cpu 本文主要梳理，仅cpu可运行的ai本地方案 可运行在没有显卡的电脑，旧笔记本，甚至是树莓派等嵌入式小型... 树莓派，旧电脑，无显卡，纯cpu驱动的ai低配方案 最先出现在 大师兄2016 。 |
-| 2026-07-03 | [野狗](https://mobius.blog/24974.html) | 小区有条野狗，住在冬暖夏凉的车库里，但这只狗没人专门喂它，它也全是靠蹭投喂给流浪猫的食物过日子，猫吃完了它才去 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-03 | [在辅导孩子之前，自己先去做个心理辅导](https://www.hecaitou.com/2026/07/want-to-tutor-your-kids-start-with-therapy.html) | 在过去的两周，我在网上频繁地看到一道几何题，每一次在留言区都会引发大战。这道题本身很简单，但是无数成人会泾渭分明地分成两个阵营，一方坚持答案是 15° 角，另一方则认定是 30° 角。重点是，当第一个人开始贴出答案，两帮人马就会纷纷下场，相互攻击对方。 其中，双方都高频使用的一句话是这样的：就你这样… |
-| 2026-07-03 | [ChatGPT K12-Team账号绕过手机验证登录并使用CodeX](https://www.cheshirex.com/10621.html) | 前面发了使用Gmail开通ChatGPT K12-Team账号的教程，现在发下怎么登陆codex。 有两种方式 […] |
-| 2026-07-03 | [使用Gmail开通ChatGPT K12-Team账号Plus会员](https://www.cheshirex.com/10615.html) | 后面可能很快封锁注册渠道，如果看到文章，就马上注册一个吧。 请注意不要使用大号注册，防止封号影响。 OpenA […] |
-| 2026-07-03 | [视角、立场与新闻业](https://mobius.blog/24922.html) | 上周末，我在完成本周定时发送的有关“男性歧视”的话题之后，在频道上感慨了一下： 这段时间我都在解构“新闻”这件 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-03 | [Cloudflare Tunnel 命令行使用教程](https://blog.oofo.cc/posts/cloudflare-tunnel-cli) | ## 概述 Cloudflare Tunnel 可以把你电脑或内网里的服务通过 Cloudflare 暴露到公网。它的好处是：本机不需要公网 IP，也不需要在路由器上做端口转发；`cloudflared` 会从本机主动连到 Cloudflare，再由 Cloudflare 把访问流量转发回来。 这篇… |
 
 ## Vibe Coding
 
