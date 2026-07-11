@@ -1,10 +1,38 @@
 [
   {
+    "title": "博客大联盟：一个给独立博客的收录与聚合站",
+    "url": "https://u.sb/boke/",
+    "date": "2026-07-11T12:39:00Z",
+    "description": "介绍博客大联盟，一个独立博客目录和 RSS 聚合站，帮助大家找到更多有趣的独立博客。",
+    "source_root_domain": "u.sb"
+  },
+  {
+    "title": "6.27 Codex 封号事件复盘",
+    "url": "https://rqdmap.top/posts/codex-suspended/",
+    "date": "2026-07-11T12:36:44Z",
+    "description": "6 月份一口气痛失两个 Codex Pro 帐号, 一个老号被手机号二验拦住了, 另一个新创的 Giffgaff 号没几天也被直接封了, -$400😢 总结下可能的安全风险",
+    "source_root_domain": "rqdmap.top"
+  },
+  {
     "title": "卡利古拉",
     "url": "https://www.geedea.pro/library/2026/caligula/",
     "date": "2026-07-11T09:02:40Z",
     "description": "一本收录了加缪原创戏剧作品和与戏剧相关的散文及访谈的书。加缪的第一部戏剧作品《卡利古拉》写于 1938 年，在《 局外人 》之前，那时他 25 岁。从书中《我为什么搞戏剧？》这篇电视访谈内容来看，加缪把戏剧当作「逃避作家生涯中令我厌烦的东西」的手段，同时他也觉得戏剧是文学的更全面的形式。本书一共收录了五篇戏剧，也是加缪全部的原创戏剧，他还改编过一些戏剧，比方说陀思妥耶夫斯基的《群魔》。 卡利古拉 《卡利古拉》的主题应该是这五篇戏剧里最晦涩的，也是最像加缪的（尽管加缪本人认为最像他的作品实际上是广受批评的《戒严》）。只所以说这篇最像加缪，大概是因为它与加缪的哲学思想最契合，而荒诞哲学也是大众对加缪的印象。余下的作品中，《误会》是主题很明显的家庭悲剧，《戒严》更加政治化也更关注民间疾苦，《正义者》和《阿斯图里亚斯起义》都是革命题材。被称为「荒诞三部曲」的作品是小说《局外人》、散文《西西弗神话》以及这篇戏剧《卡利古拉》，前两部都写于 1942 年，而这之后的加缪（比方说 1957 年发布的《 流放与王国 》）似乎不那么关注荒诞哲学了，或者说意味不那么浓烈。包括这部《卡利古拉》在内的加缪年轻时",
     "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "摘：《李卓吾·两种阳明学》",
+    "url": "https://z.arlmy.me/posts/Note/Note_GouKouXiongSan_LiZhuoWuLiangZhongYangMingXue/",
+    "date": "2026-07-11T07:53:46Z",
+    "description": "「人欲。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "摘：《我就要自由》",
+    "url": "https://z.arlmy.me/posts/Note/Note_ZuoYeYangZi_WoJiuYaoZiYou/",
+    "date": "2026-07-11T07:49:46Z",
+    "description": "「定义不了。」",
+    "source_root_domain": "arlmy.me"
   },
   {
     "title": "今天取消了Tidal订阅",
@@ -42,6 +70,13 @@
     "source_root_domain": "onojyun.com"
   },
   {
+    "title": "我全栈开发的第一个产品：Balanced Portfolio 多资产风险平价全天候策略回测系统",
+    "url": "https://prologue.dev/blog/my-first-full-stack-development-project-balanced-portfolio-a-global-multi-asset-risk-parity-backtesting-system",
+    "date": "2026-07-11T00:00:00Z",
+    "description": "关于笔者第一次全栈开发金融产品，将风险平价策略回测系统、股指期货数据看板、场外衍生品定价模块做成开箱即用、可交互、可视化的Web端产品。",
+    "source_root_domain": "prologue.dev"
+  },
+  {
     "title": "2026年第28周",
     "url": "https://blog.sakoamc.com/posts/2628/",
     "date": "2026-07-11T00:00:00Z",
@@ -54,6 +89,20 @@
     "date": "2026-07-11T00:00:00Z",
     "description": "09:01 深圳这破天气，天天下雨，衣服都不得干，受不了咧。",
     "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "吐司面包烘焙",
+    "url": "http://www.uncoverman.com/toast-baking.html",
+    "date": "2026-07-10T23:11:37Z",
+    "description": "台风天，心血来潮在家做吐司，由于是第一次，选了小红书上最简易的 教程 。这个教程的好处在于，没有看不懂的术语，也不用 30+ 的步骤。 首秀做出的吐司，味道意外得好，表皮酥脆，内部松软，香味扑鼻，停不下来，家里人吃过的都说好，成就感满满！ 材料准备 高筋面粉 250g 鸡蛋 2 个 牛奶 150g 耐高糖酵母 3g 糖 25g 盐 3g 黄油 25g 吐司模具 烤箱 混合 将面粉、鸡蛋、牛奶、糖、盐混合，混合时，牛奶慢慢加，不要太湿，判断标准是再加一点面粉混不进原有面团。 注意，糖不能不加，糖是用来喂酵母的，不加的话酵母死了面团发酵不起来。无糖吐司是另外的配方。 揉成面团，揉的时候有些粘手，所以没有用手，用了一个大勺子。我是纯手揉，没用厨师机，要揉到表面光滑，揉了 15 分钟以上，然后封上保鲜膜，放进冰箱放一夜。 <img src=\"https://i.see.you/2026/07/",
+    "source_root_domain": "uncoverman.com"
+  },
+  {
+    "title": "摘：《见证疯狂》",
+    "url": "https://z.arlmy.me/posts/Note/Note_MikeJay_ThisWayMadnessLiesTheAsylumAndBeyond/",
+    "date": "2026-07-10T16:14:46Z",
+    "description": "「疯人非疯。」",
+    "source_root_domain": "arlmy.me"
   },
   {
     "title": "DeOldify：旧照片上色 懒人整合包",

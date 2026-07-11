@@ -27,14 +27,21 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-11 | [博客大联盟：一个给独立博客的收录与聚合站](https://u.sb/boke/) | 介绍博客大联盟，一个独立博客目录和 RSS 聚合站，帮助大家找到更多有趣的独立博客。 |
+| 2026-07-11 | [6.27 Codex 封号事件复盘](https://rqdmap.top/posts/codex-suspended/) | 6 月份一口气痛失两个 Codex Pro 帐号, 一个老号被手机号二验拦住了, 另一个新创的 Giffgaff 号没几天也被直接封了, -$400😢 总结下可能的安全风险 |
 | 2026-07-11 | [卡利古拉](https://www.geedea.pro/library/2026/caligula/) | 一本收录了加缪原创戏剧作品和与戏剧相关的散文及访谈的书。加缪的第一部戏剧作品《卡利古拉》写于 1938 年，在《 局外人 》之前，那时他 25 岁。从书中《我为什么搞戏剧？》这篇电视访谈内容来看，加缪把戏剧当作「逃避作家生涯中令我厌烦的东西」的手段，同时他也觉得戏剧是文学的更全面的形式。本书一共收录… |
+| 2026-07-11 | [摘：《李卓吾·两种阳明学》](https://z.arlmy.me/posts/Note/Note_GouKouXiongSan_LiZhuoWuLiangZhongYangMingXue/) | 「人欲。」 |
+| 2026-07-11 | [摘：《我就要自由》](https://z.arlmy.me/posts/Note/Note_ZuoYeYangZi_WoJiuYaoZiYou/) | 「定义不了。」 |
 | 2026-07-11 | [今天取消了Tidal订阅](https://www.hecaitou.com/2026/07/canceling-my-tidal-subscription.html) | 今天我取消了 Tidal 订阅，但还是保留了网易云和 Apple Music. 最直接的原因是我本周收到一封电子邮件，Tidal 告诉我说从 8 月份开始要涨价。本来我和它相安无事，每个月信用卡商会弹出一条扣费消息，已经变成了个习惯，我用这条消息提醒自己新的一个月就要到来。 专门写信来通知要涨价就是… |
 | 2026-07-11 | [MiMoCode 干完活儿发通知](https://blog.est.im/2026/stdout-27) | AI在 coding 的时候我其实在玩别的。希望agent 每次干完活，macOS 弹个通知。 手上是 MimoCode，就让它自己写个。啪，很快写好了。结果还是折腾了好一会儿， 记录几个有意思的小坑。 首先是如果当前CLI是活动的，就不弹通知。 需要判断活动窗口。最初用 osascript osa… |
 | 2026-07-11 | [Vlog尝试 端午摩旅记录](https://yovey.me/vlog-trial-1st/) | 今年又冒出一个idea说要学下剪辑，剪个Vlog出来。 这是成品，耗时大半个月，没在精益求精，只是毫无头绪无从 … Continue reading "Vlog尝试 端午摩旅记录" |
 | 2026-07-11 | [Hello, World!](https://www.kawabangga.com/posts/7336) | Continue reading... |
 | 2026-07-11 | [谁他妈在乎你啊](https://mobius.blog/25033.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-11 | [我全栈开发的第一个产品：Balanced Portfolio 多资产风险平价全天候策略回测系统](https://prologue.dev/blog/my-first-full-stack-development-project-balanced-portfolio-a-global-multi-asset-risk-parity-backtesting-system) | 关于笔者第一次全栈开发金融产品，将风险平价策略回测系统、股指期货数据看板、场外衍生品定价模块做成开箱即用、可交互、可视化的Web端产品。 |
 | 2026-07-11 | [2026年第28周](https://blog.sakoamc.com/posts/2628/) | 题记：二零二六年的第二十八周，年已过半，日复一日，往复循环。 |
 | 2026-07-11 | [Memos #2026-07-10](https://www.taober.blog/memos) | 09:01 深圳这破天气，天天下雨，衣服都不得干，受不了咧。 |
+| 2026-07-10 | [吐司面包烘焙](http://www.uncoverman.com/toast-baking.html) | 台风天，心血来潮在家做吐司，由于是第一次，选了小红书上最简易的 教程 。这个教程的好处在于，没有看不懂的术语，也不用 30+ 的步骤。 首秀做出的吐司，味道意外得好，表皮酥脆，内部松软，香味扑鼻，停不下来，家里人吃过的都说好，成就感满满！ 材料准备 高筋面粉 250g 鸡蛋 2 个 牛奶 150g… |
+| 2026-07-10 | [摘：《见证疯狂》](https://z.arlmy.me/posts/Note/Note_MikeJay_ThisWayMadnessLiesTheAsylumAndBeyond/) | 「疯人非疯。」 |
 | 2026-07-10 | [DeOldify：旧照片上色 懒人整合包](https://dsx2016.com/colorizing-old-photos-with-deoldify/) | DeOldify：基于深度学习的黑白照片与老电影自动上色神器 DeOldify 是一个基于深度学习的... DeOldify：旧照片上色 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-10 | [GFPGAN：开源人脸修复与增强 懒人整合包](https://dsx2016.com/gfpgan-open-source-face-restoration-and-enhancement/) | GFPGAN：开源人脸修复与增强 AI 模型 GFPGAN（Generative Facial Prior G... GFPGAN：开源人脸修复与增强 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-10 | [【好物分享】 小林制药 一滴消臭元](https://7gugu.com/index.php/2026/07/10/%e3%80%90%e5%a5%bd%e7%89%a9%e5%88%86%e4%ba%ab%e3%80%91-%e5%b0%8f%e6%9e%97%e5%88%b6%e8%8d%af-%e4%b8%80%e6%bb%b4%e6%b6%88%e8%87%ad%e5%85%83/) | 序 这个东西纯粹是在Youtube Shorts上偶然刷到的。之前一直在刷日本有啥好物可以买，偶然看到了这个小 … 继续阅读 “【好物分享】 小林制药 一滴消臭元” |
