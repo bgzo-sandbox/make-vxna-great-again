@@ -1,5 +1,19 @@
 [
   {
+    "title": "FLUX.2 [klein] 4B 轻量级 AI 图像生成 懒人整合包",
+    "url": "https://dsx2016.com/flux-2-klein-4b-lightweight-ai-image-generation/",
+    "date": "2026-07-12T13:04:26Z",
+    "description": "FLUX.2 [klein] 4B 是 Black Forest Labs（BFL）&nb... FLUX.2 [klein] 4B 轻量级 AI 图像生成 懒人整合包 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "反智流量背后的情绪生意",
+    "url": "https://blog.solazy.me/20260712/",
+    "date": "2026-07-12T11:00:00Z",
+    "description": "其实我很少谈论这种话题，但是最近灵感有点枯竭，索性抓住这个为数不多的阶段性灵感来聊一聊吧",
+    "source_root_domain": "solazy.me"
+  },
+  {
     "title": "深入 vLLM：从网关请求到 GPU 批处理的推理引擎实现",
     "url": "https://shansan.top/2026/07/12/vllm-inference-engine-deep-dive/",
     "date": "2026-07-12T10:30:00Z",
