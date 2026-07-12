@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-12 | [菜文太硬](https://www.hecaitou.com/2026/07/My-Stiff-Writing.html) | 最近连续看到几起针对我文章的评价，论调都很一致：理工男，文章太硬，读起来费劲。在网络上，观点很容易三人成虎，所以在任何苗头刚刚发芽的时候，就要果断予以滋灭。 我的文章究竟硬不硬？我觉得这是个《小马过河》问题。有人觉得坚硬如铁，也就有人觉得浅白简陋，这和个人的阅读经验有关。站在我本人的立场，我觉得我已… |
 | 2026-07-12 | [≡ 004｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25043.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-11 | [Memos: 快跑！说美国豆包是过誉了](https://blog.yasking.org/a/1783782377.html) | “ 我是 Gemini，一个由 Google 训练的大型语言模型。 ” 这盲测输出，一样的，就蠢蠢的。 |
 | 2026-07-11 | [「随便」才是最贵的](https://blog.solazy.me/20260711/) | 算是昨天话题的姊妹篇吧，今天聊聊「随便」 |
