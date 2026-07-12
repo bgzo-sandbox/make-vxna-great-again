@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-07-12T17:03:25Z
-modified: 2026-07-12T17:03:25Z
+created: 2026-07-12T19:07:49Z
+modified: 2026-07-12T19:07:49Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,7 +11,7 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-07-12T17:03:25Z
+Generated at: 2026-07-12T19:07:49Z
 
 Total sources: 484
 Successful: 365
@@ -56,7 +56,6 @@ Failed: 119
 | Failed | [#248] V2EX › SaltyLeo | [https://saltyleo.com/atom.xml](https://saltyleo.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/248) | 0 | feed parse error |
 | Failed | [#249] V2EX › 励志云 | [https://www.555365.xyz/feeds/posts/default](https://www.555365.xyz/feeds/posts/default) | [Origin](https://www.v2ex.com/xna/s/249) | 0 | [Errno -5] No address associated with hostname |
 | Failed | [#250] V2EX › Lee's Blog | [https://www.leeee.xyz/atom.xml](https://www.leeee.xyz/atom.xml) | [Origin](https://www.v2ex.com/xna/s/250) | 0 | Client error '404 Not Found' for url 'https://www.leeee.xyz/atom.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
-| Failed | [#252] V2EX › Nam-Dub | [https://nigzu.com/rss/](https://nigzu.com/rss/) | [Origin](https://www.v2ex.com/xna/s/252) | 0 | The read operation timed out |
 | Failed | [#260] V2EX › 8620 | [https://feed.8620.uk/vxna](https://feed.8620.uk/vxna) | [Origin](https://www.v2ex.com/xna/s/260) | 0 | Client error '403 Forbidden' for url 'https://feed.8620.uk/vxna' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#261] V2EX › Ouroboros | [https://blog.pursuitus.com/feed](https://blog.pursuitus.com/feed) | [Origin](https://www.v2ex.com/xna/s/261) | 0 | Client error '403 Forbidden' for url 'https://blog.pursuitus.com/feed' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#262] V2EX › doufoo | [https://doufoo.com/index.xml](https://doufoo.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/262) | 0 | [Errno 111] Connection refused |
@@ -76,6 +75,7 @@ Failed: 119
 | Failed | [#326] V2EX › 面向屏幕编程 | [https://gqwm.com/rss.xml](https://gqwm.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/326) | 0 | [Errno -5] No address associated with hostname |
 | Failed | [#328] V2EX › AabyssZG | [https://blog.zgsec.cn/feed/](https://blog.zgsec.cn/feed/) | [Origin](https://www.v2ex.com/xna/s/328) | 0 | feed parse error |
 | Failed | [#329] V2EX › it 备忘录 | [https://blog.chenjia.info/index.xml](https://blog.chenjia.info/index.xml) | [Origin](https://www.v2ex.com/xna/s/329) | 0 | Client error '403 Forbidden' for url 'https://blog.chenjia.info/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
+| Failed | [#334] V2EX › 趣记博客 | [https://www.quji.org/feed](https://www.quji.org/feed) | [Origin](https://www.v2ex.com/xna/s/334) | 0 | Server error '502 Bad Gateway' for url 'https://www.quji.org/feed' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502 |
 | Failed | [#340] V2EX › 兰达的奶粉罐 | [https://blog.mk4.fun/index.xml](https://blog.mk4.fun/index.xml) | [Origin](https://www.v2ex.com/xna/s/340) | 0 | Server error '502 Bad Gateway' for url 'https://blog.mk4.fun/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502 |
 | Failed | [#344] V2EX › 拒绝内耗直接发疯 | [https://blog.luijp.cn/rss.xml](https://blog.luijp.cn/rss.xml) | [Origin](https://www.v2ex.com/xna/s/344) | 0 | [Errno -2] Name or service not known |
 | Failed | [#345] V2EX › midnight serial experiments | [https://bilibi.li/feed.rss](https://bilibi.li/feed.rss) | [Origin](https://www.v2ex.com/xna/s/345) | 0 | Client error '403 Forbidden' for url 'https://bilibi.li/feed.rss' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
@@ -249,6 +249,7 @@ Failed: 119
 | Success | [#246] V2EX › JAKSAY | [https://jaksay.com/feed/category/article/](https://jaksay.com/feed/category/article/) | [Origin](https://www.v2ex.com/xna/s/246) | 20 | - |
 | Success | [#24] V2EX › 流动 | [https://liudon.com/index.xml](https://liudon.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/24) | 90 | - |
 | Success | [#251] V2EX › 王豆豆的人生旅途 | [https://vatery.com/atom.xml](https://vatery.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/251) | 20 | - |
+| Success | [#252] V2EX › Nam-Dub | [https://nigzu.com/rss/](https://nigzu.com/rss/) | [Origin](https://www.v2ex.com/xna/s/252) | 15 | - |
 | Success | [#253] V2EX › 彭宏豪的个人博客 | [https://penghh.fun/atom.xml](https://penghh.fun/atom.xml) | [Origin](https://www.v2ex.com/xna/s/253) | 195 | - |
 | Success | [#254] V2EX › 往事随风 | [https://xing393939.github.io/atom.xml](https://xing393939.github.io/atom.xml) | [Origin](https://www.v2ex.com/xna/s/254) | 72 | - |
 | Success | [#256] V2EX › 破那 | [https://ponaponapona.github.io/rss.xml](https://ponaponapona.github.io/rss.xml) | [Origin](https://www.v2ex.com/xna/s/256) | 11 | - |
@@ -305,7 +306,6 @@ Failed: 119
 | Success | [#330] V2EX › AsyncX | [https://blog.asyncx.top/zh.xml](https://blog.asyncx.top/zh.xml) | [Origin](https://www.v2ex.com/xna/s/330) | 70 | - |
 | Success | [#332] V2EX › Chenyo's Blog | [https://chenyo.me/rss.xml](https://chenyo.me/rss.xml) | [Origin](https://www.v2ex.com/xna/s/332) | 39 | - |
 | Success | [#333] V2EX › Q’s Blog | [https://blog.qzydustin.com/feed](https://blog.qzydustin.com/feed) | [Origin](https://www.v2ex.com/xna/s/333) | 25 | - |
-| Success | [#334] V2EX › 趣记博客 | [https://www.quji.org/feed](https://www.quji.org/feed) | [Origin](https://www.v2ex.com/xna/s/334) | 10 | - |
 | Success | [#335] V2EX › 网络社会研究所 | [https://caa-ins.org/feed](https://caa-ins.org/feed) | [Origin](https://www.v2ex.com/xna/s/335) | 10 | - |
 | Success | [#338] V2EX › Oz Explorer | [https://www.ozexplorers.com/feed.xml](https://www.ozexplorers.com/feed.xml) | [Origin](https://www.v2ex.com/xna/s/338) | 10 | - |
 | Success | [#339] V2EX › S T C H E N G | [https://cheng.st/atom.xml](https://cheng.st/atom.xml) | [Origin](https://www.v2ex.com/xna/s/339) | 20 | - |
