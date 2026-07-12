@@ -1,5 +1,33 @@
 [
   {
+    "title": "深入 vLLM：从网关请求到 GPU 批处理的推理引擎实现",
+    "url": "https://shansan.top/2026/07/12/vllm-inference-engine-deep-dive/",
+    "date": "2026-07-12T10:30:00Z",
+    "description": "vLLM, inference engine, PagedAttention, KV Cache, scheduler, OpenAI API, GPU serving",
+    "source_root_domain": "shansan.top"
+  },
+  {
+    "title": "Toots 427 2026 Jul.5 - Jul.11",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260711/",
+    "date": "2026-07-12T09:20:27Z",
+    "description": "「“物之不齐，物之情也”。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "无名",
+    "url": "https://z.arlmy.me/posts/Poems/2026/20260708_WuMing/",
+    "date": "2026-07-12T09:12:27Z",
+    "description": "「无名。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "泛读《理想国》",
+    "url": "https://kaix.in/2026/0712/",
+    "date": "2026-07-12T05:14:00Z",
+    "description": "多年前第一次读《理想国》也是囫囵吞枣，但是依然十分喜欢——不知道是因为它把一些我边读边想到的问题和反驳都一一做了解答，让我产生了和两千年的人在对话的愉快感受；还是那种为求准确翻译而稍显繁琐的句式，让我得以暂时摆脱现代汉语，体验另一种可能性。 我始终羡慕那些博览群书的人，小时候，渴望自己一夜之间读完所有名著，但是慢慢不得不接受，有些事，只能日拱一卒。这一次重读，当然我还是没有能力读得精细，还是泛读而已。再次体验阅读的乐趣，以及，享受被时间带领着从开头到结束。 《理想国》我读的是顾寿观译本，另外王太庆译本的《柏拉图对话集》我也十分喜欢，稍作推荐： fin. 激赏 ！ 来信 。",
+    "source_root_domain": "kaix.in"
+  },
+  {
     "title": "菜文太硬",
     "url": "https://www.hecaitou.com/2026/07/My-Stiff-Writing.html",
     "date": "2026-07-12T04:34:29Z",
@@ -285,5 +313,12 @@
     "date": "2026-07-10T00:05:31Z",
     "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 贵州修文县的\"穹岛·天坑咖啡\"，咖啡店建在巨大的溶洞之中。（ via ） 为什么 Dropbox 不成功 Dropbox，大家都知道吧？ 它成立于2007年，创始人是麻省理工学院的学生，经常丢失 U 盘，于是想到可以把文件上传到服务器。 他就创业了，做出了世界第一个\"云盘\"，当时是革命性产品。 这就是 Dropbox 的来历，它成立后快速走红，成为最早的头部 SaaS 服务\"云公司\"。 但是，出道即巅峰，这家公司后来的发展并不顺利，最近几年完全停滞不前，知道它的人也越来越少。 上面是它的历史股价走势图，2018上市那一年就是历史最高价39块，后来再也没有到。将近十年了，现在还是20多块。 也就是说，过去十年的互联网大发展，Dropbox 不仅没有发展，反而萎缩了。 它目前的市值（公司的价值）略高于60亿美元，相比之下，同期成立、当年声势还不如它的 Airbnb，现在的市值是850亿美元，更不要",
     "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "培训旅行",
+    "url": "https://zhangdd.tech/%E5%9F%B9%E8%AE%AD%E6%97%85%E8%A1%8C/",
+    "date": "2026-07-10T00:00:00Z",
+    "description": "公司外派接收保密培训，地点是大连，趁着天气、位置合适，带着孩子一起。 海之韵公园 <img",
+    "source_root_domain": "zdd.vercel.app"
   }
 ]

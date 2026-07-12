@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-12 | [深入 vLLM：从网关请求到 GPU 批处理的推理引擎实现](https://shansan.top/2026/07/12/vllm-inference-engine-deep-dive/) | vLLM, inference engine, PagedAttention, KV Cache, scheduler, OpenAI API, GPU serving |
+| 2026-07-12 | [Toots 427 2026 Jul.5 - Jul.11](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260711/) | 「“物之不齐，物之情也”。」 |
+| 2026-07-12 | [无名](https://z.arlmy.me/posts/Poems/2026/20260708_WuMing/) | 「无名。」 |
+| 2026-07-12 | [泛读《理想国》](https://kaix.in/2026/0712/) | 多年前第一次读《理想国》也是囫囵吞枣，但是依然十分喜欢——不知道是因为它把一些我边读边想到的问题和反驳都一一做了解答，让我产生了和两千年的人在对话的愉快感受；还是那种为求准确翻译而稍显繁琐的句式，让我得以暂时摆脱现代汉语，体验另一种可能性。 我始终羡慕那些博览群书的人，小时候，渴望自己一夜之间读完所… |
 | 2026-07-12 | [菜文太硬](https://www.hecaitou.com/2026/07/My-Stiff-Writing.html) | 最近连续看到几起针对我文章的评价，论调都很一致：理工男，文章太硬，读起来费劲。在网络上，观点很容易三人成虎，所以在任何苗头刚刚发芽的时候，就要果断予以滋灭。 我的文章究竟硬不硬？我觉得这是个《小马过河》问题。有人觉得坚硬如铁，也就有人觉得浅白简陋，这和个人的阅读经验有关。站在我本人的立场，我觉得我已… |
 | 2026-07-12 | [≡ 004｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25043.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-11 | [Memos: 快跑！说美国豆包是过誉了](https://blog.yasking.org/a/1783782377.html) | “ 我是 Gemini，一个由 Google 训练的大型语言模型。 ” 这盲测输出，一样的，就蠢蠢的。 |
@@ -68,6 +72,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-10 | [公开目标，可能会让人更难开始](https://mobius.blog/25028.html) | 最近的博客几乎都是我在“当下”引发的极其“当下”的思考，不是为了偷懒，是因为我在陆续推进小说初稿时，实在没力气 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-10 | [iostat + iotop 搞定磁盘 IO 故障](https://199604.com/3594) | iostat + iotop 搞定磁盘 IO 故障 核心思路：先用 iostat 定位“哪块盘”有瓶颈，再用 […] |
 | 2026-07-10 | [科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 贵州修文县的"穹岛·天坑咖啡"，咖啡店建在巨大的溶洞之中。（ via ） 为什么 Dropbox 不成功… |
+| 2026-07-10 | [培训旅行](https://zhangdd.tech/%E5%9F%B9%E8%AE%AD%E6%97%85%E8%A1%8C/) | 公司外派接收保密培训，地点是大连，趁着天气、位置合适，带着孩子一起。 海之韵公园 <img |
 | 2026-07-09 | [写作能力和 locate cost](https://blog.est.im/2026/stderr-24) | 自从自个儿琢磨出 locate cost 之后便开始关注这方面问题。最近看到两篇喷 harness 问题的 第一个是 Can Bölük https://blog.can.ac/2026/02/12/the-harness-problem/ 今年2月的时候发现： Codex uses applypa… |
 | 2026-07-09 | [油腻的玩笑](https://blog.solazy.me/20260709/) | 这个话题我老早就想讲，正好最近有几个场景遇到了，就拿出来聊聊 |
 | 2026-07-09 | [Theme Hospital updated](https://macsourceports.com/game/themehospital) | The build of CorsixTH for Theme Hospital has been updated to version v0.70.0 of the project |
