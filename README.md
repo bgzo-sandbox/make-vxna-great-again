@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-12 | [≡ 004｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25043.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-11 | [Memos: 快跑！说美国豆包是过誉了](https://blog.yasking.org/a/1783782377.html) | “ 我是 Gemini，一个由 Google 训练的大型语言模型。 ” 这盲测输出，一样的，就蠢蠢的。 |
 | 2026-07-11 | [「随便」才是最贵的](https://blog.solazy.me/20260711/) | 算是昨天话题的姊妹篇吧，今天聊聊「随便」 |
 | 2026-07-11 | [博客大联盟：一个给独立博客的收录与聚合站](https://u.sb/boke/) | 介绍博客大联盟，一个独立博客目录和 RSS 聚合站，帮助大家找到更多有趣的独立博客。 |
@@ -140,14 +141,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-05 | [Toots 426 2026 Jun.27 - Jul.4](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260704/) | 「心学的表征。」 |
 | 2026-07-05 | [云南系列｜Day 7 返程前在丽江的一天](https://blog.yasking.org/a/series-yunnan-travel-day7.html) | 云南旅行系列 1 大理洱海之行（上） 2 大理洱海之行（下） 3 周城扎染 & 抵达剑川 4 剑川古城记录 5-6 在沙溪古镇的两天 7 返程 … |
 | 2026-07-05 | [2026年第26、27周：抬头看天边飘过云海](https://blog.sakoamc.com/posts/262627/) | 题记：电子物件的寿命真的好短，世界也真是个草台班子。 |
-| 2026-07-04 | [Bear Blog Theme: Vermilion](https://anotherdayu.com/vermilion/) | 最近给博客换了一套适配 Bear Blog 的自制主题，取名 Vermilion（朱砂）。 正文用衬线字体窄栏排版，行距放宽，适合中英文混排阅读，背景模拟了泛黄旧书的质感。 截图留念： 完整 CSS： / ===============================================… |
-| 2026-07-04 | [分享一个 Polymarket 的 BTC 5分钟策略](https://smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/) | <a href="#免责声明" class="headerlink" |
-| 2026-07-04 | [夏雨](https://tianheg.co/posts/summer-rain/) | 七点十一起床，七点二十六开始跑步，跑了四十分钟，7.02 公里。和上周日比起来，这次跑前二十分钟要轻松一些，后二十分钟有些突破极限了，因为我的腰部开始有痛的感觉，这不是病痛，而是当跑步没有成为习惯时的一种身体反应。当我继续跑时，那种痛感自然消退了。 我的运气还算不错，当我跑完走路休息时，开始下雨了。… |
-| 2026-07-04 | [周末流水账 0704](https://blog.solazy.me/20260704/) | 今天给大脑放个假，写一写流水账 |
-| 2026-07-04 | [试图使用 Ungoogled Chromium](https://re.karlbaey.top/articles/rocky-road/ungoogled-chromium/) | 由于一次次地被谷歌激怒，我打算把这个 Google 厚颜无耻地打包好的、充满各种与 Google 服务器通讯的、让人勃然 … |
-| 2026-07-04 | [BMAD Loop：把开发循环的控制权，交还给确定性代码](https://gptkit.eth.limo/EB5A909F-7AF2-4464-BF3E-6EF4ADCFDE7A/) | 如果你看过我之前那篇 Story Automator 上手实录 ，应该还记得我最后的结论： 白天手工跑，目前还是自己手工跑会更快。但睡前把一批 Story 交给它过夜跑，这个场景它真的挺合适。 那篇文章里我留了个没回答的问题—— 为什么它跑得比人手工还慢？ 我当时说"还没仔细分析它的实现原理"。 现… |
-| 2026-07-04 | [在闲鱼找卖家](https://www.hecaitou.com/2026/07/the-art-of-spotting-good-sellers-on-xianyu.html) | 经过我这几年的实践，我认为如果要论购物的乐趣，一堆电商平台加起来都不够闲鱼一只手打的。只有闲鱼同时满足了买家的三大购物需求：1、捡便宜。2、发现新玩意儿。3、和卖家讨价还价，相互拉扯。 这里我想讨论的是隐藏乐趣，也就是在鱼龙混杂的海鲜市场里，如何能找出靠谱的卖家。之所以会成为一种乐趣，是因为每一个中… |
-| 2026-07-04 | [Python 潮流周刊#157：CPython JIT 的开发计划](https://pythoncat.top/posts/2026-07-04-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 
 ## Vibe Coding
 
