@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-12 | [第一卷 01](https://kaix.in/2026/0712/327a/) | 327a 开篇伊始，是一段唠家常 1 。苏格拉底和格劳康一起去海港看完祀神节庆典，当地人波策玛尔科一伙跑来留客说：知道妳们正要回家，但我们人多势众，妳们争不过我们的，就听我们的留下来吧，和我们这些人聊聊天，何况晚上还有通宵晚会呢。苏格拉底也没再多推辞。整体气氛算是融洽。 327c 一行人来到了波策玛… |
+| 2026-07-12 | [It Takes Time](https://www.geedea.pro/article/it-takes-time/) | 这几天重庆的气温，总让人觉得迟早能把人烤熟，自来水管里出来的水都是热的。今天总算是下雨了，温度或许会降下来一些，又或许湿气会让温度更难以忍受，不过我就快要走了，但愿北方不会太闷，蟑螂也不会那么大只。 我刚刚撑着伞，把不想打包带走的旧衣服丢进了小区的回收箱里，这是我八九个月里第一次打开那个箱子。是往外… |
 | 2026-07-12 | [FLUX.2 [klein] 4B 轻量级 AI 图像生成 懒人整合包](https://dsx2016.com/flux-2-klein-4b-lightweight-ai-image-generation/) | FLUX.2 [klein] 4B 是 Black Forest Labs（BFL）&nb... FLUX.2 [klein] 4B 轻量级 AI 图像生成 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-12 | [反智流量背后的情绪生意](https://blog.solazy.me/20260712/) | 其实我很少谈论这种话题，但是最近灵感有点枯竭，索性抓住这个为数不多的阶段性灵感来聊一聊吧 |
 | 2026-07-12 | [深入 vLLM：从网关请求到 GPU 批处理的推理引擎实现](https://shansan.top/2026/07/12/vllm-inference-engine-deep-dive/) | vLLM, inference engine, PagedAttention, KV Cache, scheduler, OpenAI API, GPU serving |
@@ -36,6 +38,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-12 | [泛读《理想国》](https://kaix.in/2026/0712/) | 多年前第一次读《理想国》也是囫囵吞枣，但是依然十分喜欢——不知道是因为它把一些我边读边想到的问题和反驳都一一做了解答，让我产生了和两千年的人在对话的愉快感受；还是那种为求准确翻译而稍显繁琐的句式，让我得以暂时摆脱现代汉语，体验另一种可能性。 我始终羡慕那些博览群书的人，小时候，渴望自己一夜之间读完所… |
 | 2026-07-12 | [菜文太硬](https://www.hecaitou.com/2026/07/My-Stiff-Writing.html) | 最近连续看到几起针对我文章的评价，论调都很一致：理工男，文章太硬，读起来费劲。在网络上，观点很容易三人成虎，所以在任何苗头刚刚发芽的时候，就要果断予以滋灭。 我的文章究竟硬不硬？我觉得这是个《小马过河》问题。有人觉得坚硬如铁，也就有人觉得浅白简陋，这和个人的阅读经验有关。站在我本人的立场，我觉得我已… |
 | 2026-07-12 | [≡ 004｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25043.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-12 | [TRAIN TRIP 的产品设计细节](https://bluepika.life/blog/train-trip-product-design-details) | 在我继续补完日本游记前，我想先聊聊 Train Trip 这个产品，这是我和 Cora 去年在日本旅行时最喜欢用的产品之一，甚至多次愿意为了它多搭一两个站。 |
 | 2026-07-11 | [Memos: 快跑！说美国豆包是过誉了](https://blog.yasking.org/a/1783782377.html) | “ 我是 Gemini，一个由 Google 训练的大型语言模型。 ” 这盲测输出，一样的，就蠢蠢的。 |
 | 2026-07-11 | [「随便」才是最贵的](https://blog.solazy.me/20260711/) | 算是昨天话题的姊妹篇吧，今天聊聊「随便」 |
 | 2026-07-11 | [博客大联盟：一个给独立博客的收录与聚合站](https://u.sb/boke/) | 介绍博客大联盟，一个独立博客目录和 RSS 聚合站，帮助大家找到更多有趣的独立博客。 |
