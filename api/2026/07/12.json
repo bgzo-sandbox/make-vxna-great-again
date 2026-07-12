@@ -7,6 +7,13 @@
     "source_root_domain": "shansan.top"
   },
   {
+    "title": "gitweets改版，复刻微信「朋友圈」",
+    "url": "https://blog.est.im/2026/stdout-28",
+    "date": "2026-07-12T09:53:00Z",
+    "description": "去年搓了个 gitweets ，一个 .html 实现了「微博」，拿git历史当feed流～发推 这个周末看着 coding plan 还剩 20% 要到期，没用完，怎么办呢？想来想去，挖大坑干不完，小修小改，就拿这个 gitweets 继续填坑了 首先是让AI把界面改成模仿微信 朋友圈，啪一下，很快啊，结果让人非常印象深刻，很逼真 https://f.est.im/est 现在的AI真厉害。让我去调CSS可能这辈子都搞不出来这个效果了。 后面是我的一些唠叨，不感兴趣的可以关闭页面，或者去上面那个围观一下。 想起来独乐乐不如众乐乐，要不，支持个评论功能？ 项目的初衷是 static page，要实现互动肯定得用一些API了。 最能想到的思路，走传统的 github issue 什么的，和这个 gitweets 最大的出发点冲突了：一个 git repo 包含所有数据，随时搬家，不用导出。 而且麻烦的是，post 是绑定到 commit 上的。如果你用一个 JSON 之类的来存评论，势必也会新增一个 commit，这样会污染post时间线。 突然想起来一个古老的东西， git notes",
+    "source_root_domain": "feedburner.com"
+  },
+  {
     "title": "Toots 427 2026 Jul.5 - Jul.11",
     "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260711/",
     "date": "2026-07-12T09:20:27Z",

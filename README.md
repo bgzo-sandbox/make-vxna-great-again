@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-07-12 | [深入 vLLM：从网关请求到 GPU 批处理的推理引擎实现](https://shansan.top/2026/07/12/vllm-inference-engine-deep-dive/) | vLLM, inference engine, PagedAttention, KV Cache, scheduler, OpenAI API, GPU serving |
+| 2026-07-12 | [gitweets改版，复刻微信「朋友圈」](https://blog.est.im/2026/stdout-28) | 去年搓了个 gitweets ，一个 .html 实现了「微博」，拿git历史当feed流～发推 这个周末看着 coding plan 还剩 20% 要到期，没用完，怎么办呢？想来想去，挖大坑干不完，小修小改，就拿这个 gitweets 继续填坑了 首先是让AI把界面改成模仿微信 朋友圈，啪一下，很… |
 | 2026-07-12 | [Toots 427 2026 Jul.5 - Jul.11](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260711/) | 「“物之不齐，物之情也”。」 |
 | 2026-07-12 | [无名](https://z.arlmy.me/posts/Poems/2026/20260708_WuMing/) | 「无名。」 |
 | 2026-07-12 | [泛读《理想国》](https://kaix.in/2026/0712/) | 多年前第一次读《理想国》也是囫囵吞枣，但是依然十分喜欢——不知道是因为它把一些我边读边想到的问题和反驳都一一做了解答，让我产生了和两千年的人在对话的愉快感受；还是那种为求准确翻译而稍显繁琐的句式，让我得以暂时摆脱现代汉语，体验另一种可能性。 我始终羡慕那些博览群书的人，小时候，渴望自己一夜之间读完所… |
