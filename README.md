@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-13 | [Zine#54 - 世界杯、純文本、隨機頁面、巫師三](https://taxodium.ink/54.html) | Zine#54 世界杯、純文本、隨機頁面、巫師三 🎶 Random Access Memories - Daft Punk 這期分享一張電子樂専輯，Daft Punk 的 Random Access Memories ，封面歌詞選的是専輯里我比較喜歡的一首 Giorgio by Moroder 。… |
+| 2026-07-13 | [李新野超越鲁迅了吗？](https://sinyalee.com/blog/?p=1255) | 我高中的时候，读了很多古今中外的书，上了很多网，我当时有一个结论： 中国民国时期所谓的大师，绝大多数是水货。 […] |
 | 2026-07-13 | [yw-busy 轻量级系统资源负载模拟工具](https://199604.com/3596) | yw-busy 轻量级系统资源负载模拟工具 轻量级系统资源负载模拟工具。精确控制 CPU 利用率和内存占用，适 […] |
 | 2026-07-13 | [R#110 好累的BW](https://blog.sakanano.moe/journals/random_110) | 2026.7.7 ~ 2026.7.13 |
 | 2026-07-13 | [夏天了](https://cufezhusy.github.io/issue-22/) | 北欧开始进入了夏天模式。从上两周开始定价的要求开始明显的减少，今天已经完全没有生意了。传统来说北欧的夏天是七月份，在这一个月几乎没有人上班，做任何项目或者开任何商业会议都需要考虑到这一点，明智的都会避开这段时间。 欧洲也开始越来越热了，记得刚来的时候丹麦这边基本夏天也就二十度，这两天的温度已经接近三… |
