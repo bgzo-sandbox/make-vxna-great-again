@@ -27,7 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
-| 2026-07-13 | [TIL: lang 属性會影响文字的尺寸](https://taxodium.ink/til-lang-attribute-affects-text-size.html) | TIL: lang 属性會影响文字的尺寸 先看下問題的表現，當切換頁面导航時，會發現导航处的文字樣式有變化，但兩個頁面的导航是一樣的，理論上說切換時應該不會有樣式變化的。你可以點開下面的兩個視頻，觀察一下頁面時导航的變化。 在 Zen 瀏覧器上切換导航里的頁面，可以看到在頁面切換時，連結下的下划綫長… |
+| 2026-07-13 | [yw-busy 轻量级系统资源负载模拟工具](https://199604.com/3596) | yw-busy 轻量级系统资源负载模拟工具 轻量级系统资源负载模拟工具。精确控制 CPU 利用率和内存占用，适 […] |
+| 2026-07-13 | [R#110 好累的BW](https://blog.sakanano.moe/journals/random_110) | 2026.7.7 ~ 2026.7.13 |
+| 2026-07-13 | [夏天了](https://cufezhusy.github.io/issue-22/) | 北欧开始进入了夏天模式。从上两周开始定价的要求开始明显的减少，今天已经完全没有生意了。传统来说北欧的夏天是七月份，在这一个月几乎没有人上班，做任何项目或者开任何商业会议都需要考虑到这一点，明智的都会避开这段时间。 欧洲也开始越来越热了，记得刚来的时候丹麦这边基本夏天也就二十度，这两天的温度已经接近三… |
+| 2026-07-13 | [我设计的软件 iAssets 知盈 上少数派热门了](https://blog.debuginn.com/p/iassets-sspai/) | 大家好，我是 Meng小羽。 前几天，我在少数派发布了一篇关于知盈（iAssets）的文章，没想到这么快就上了热门。看到阅读量、收藏和评论一路上涨，心里真的特别激动和感激。 首先要 衷心感谢每一位支持知盈的朋友 ： 感谢在 App Store 留下五星好评和详细反馈的用户，你们的每一句建议都是我继续… |
+| 2026-07-13 | [TIL: lang 属性會影响文字的尺寸](https://taxodium.ink/til-lang-attribute-affects-text-size.html) | TIL: lang 属性會影响文字的尺寸 你可以點開下面的兩個視頻，觀察一下頁面切換時导航的變化。當切換頁面导航時，發現导航处的文字樣式有變化，但兩個頁面的导航是一樣的，理論上說切換時不應該有樣式變化的。 在 Zen 瀏覧器上切換导航里的頁面，可以看到在頁面切換時，連結下的下划綫長度會變化。 在 S… |
 | 2026-07-13 | [LOL英雄联盟经典模式预约领皮肤](https://www.cheshirex.com/10712.html) | 【英雄联盟经典模式7月30日上线！预约集结100%得皮肤和臻彩】XED62EJQU8VQCK7F复制前往掌盟、 […] |
 | 2026-07-13 | [第一卷 02](https://kaix.in/2026/0712/333a/) | 333a 波策马尔科说，在和平中，正义也是有用的，苏格拉底没有反驳而是顺着引导他继续得出结论：不同于医生和舵手那样特定场景才能派上用场，农夫、皮匠，在平日里也是有用的，他们要收获庄稼备制鞋子。进而又提出问题，正义呢，在平时它能满足什么需要达到什么目的？波策马尔科说，正义除了战争中有用，平日里的契约和… |
 | 2026-07-13 | [2026.7.12](https://www.justzht.com/2026-7-12/) | 周四晚上去 San Jose 南边和一个 FB Marketplace 上的人面交一台 Polaroid SLR 680。卖东西的小哥有个巨长的库存 listing，包含了 SX70，SLR680，还有各 |
@@ -43,6 +47,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-12 | [反智流量背后的情绪生意](https://blog.solazy.me/20260712/) | 其实我很少谈论这种话题，但是最近灵感有点枯竭，索性抓住这个为数不多的阶段性灵感来聊一聊吧 |
 | 2026-07-12 | [深入 vLLM：从网关请求到 GPU 批处理的推理引擎实现](https://shansan.top/2026/07/12/vllm-inference-engine-deep-dive/) | vLLM, inference engine, PagedAttention, KV Cache, scheduler, OpenAI API, GPU serving |
 | 2026-07-12 | [gitweets改版，复刻微信「朋友圈」](https://blog.est.im/2026/stdout-28) | 去年搓了个 gitweets ，一个 .html 实现了「微博」，拿git历史当feed流～发推 这个周末看着 coding plan 还剩 20% 要到期，没用完，怎么办呢？想来想去，挖大坑干不完，小修小改，就拿这个 gitweets 继续填坑了 首先是让AI把界面改成模仿微信 朋友圈，啪一下，很… |
+| 2026-07-12 | [东京之旅 Part3](https://blog.thetbw.xyz/archives/tokyo-travel-part-3) | 接上文 日本之旅 Part 1 日本之旅 Part 2 这篇图片会多点，图片也挺大，可能会加载不出来。 Day 7 周边这两天都逛了差不多了，今天在我的原本计划的日程表就是留白，就搞了一些闲杂琐事，还是随意的逛逛。 也是一觉睡到了大中午，吃好饭帮我同学带了两条烟，我不抽烟，也不好评价，不过价格倒是不… |
 | 2026-07-12 | [Toots 427 2026 Jul.5 - Jul.11](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260711/) | 「“物之不齐，物之情也”。」 |
 | 2026-07-12 | [无名](https://z.arlmy.me/posts/Poems/2026/20260708_WuMing/) | 「无名。」 |
 | 2026-07-12 | [Vol.111 AI系统信号：工程化、缓存、记忆、入口与产业观察](https://liduos.com/weekly/the-weekly-gradient-111) | 本期内容探讨AI系统化信号，包括模型竞争转向工程实战、全双工语音、缓存成本、记忆系统、MCP重排软件入口、GEO数据迷雾及中国AI产业观察。 |
