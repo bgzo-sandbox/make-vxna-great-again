@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-13 | [2026.7.12](https://www.justzht.com/2026-7-12/) | 周四晚上去 San Jose 南边和一个 FB Marketplace 上的人面交一台 Polaroid SLR 680。卖东西的小哥有个巨长的库存 listing，包含了 SX70，SLR680，还有各 |
+| 2026-07-13 | [拆解一瞬间的心念](https://www.hecaitou.com/2026/07/deconstructing-a-fleeting-thought.html) | 听到有人批评自己，当自我意识到这件事的瞬间，内心的不爽就闪电一样出现了，根本来不及做什么。 然而这只是第一个瞬间，紧接着第二个瞬间到来，人就会立即开始准备攻击或者是自我辩解。如果一个人经常遭到批评，或者遭受攻击，比如说他经常在网上写东西，那么这两个瞬间之间几乎没有空隙，反击立即就发生了。 这样的事情… |
+| 2026-07-13 | [渣男理论 II](https://blog.solazy.me/20260713/) | 今天想延续去年写过的《渣男理论》，写个姊妹篇 |
 | 2026-07-13 | [梦女又没有伤害谁，凭什么批评她们？](https://mobius.blog/25059.html) | 今天聊的这个话题可能会非常敏感，太容易涉及到性别对立。而且我作为一个男性来聊“梦女”这个话题也不太“客观”，甚 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-13 | [大脑充血 Vol.89](https://www.geedea.pro/weekly/89/) | 此时无声胜有声。（并非，我只是懒得写） 止语 loml Taylor Swift I said, “I don’t mind, it takes time ” I thought I was better safe than starry-eyed I felt aglow like this Ne… |
 | 2026-07-13 | [Memos #2026-07-12](https://www.taober.blog/memos) | 00:14 我有罪，又点宵夜了😭 11:43 昨晚做了个魔幻的梦，世界观里有三个种族，狐族、天空族和另一个忘了叫啥的。 在梦里我去了天空族的领地，去的方式很奇特，类似一个弹簧发射器，所以在梦里体验了一番弹射飞天和自由落体的感觉，好不刺激！ |
@@ -41,12 +44,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-12 | [Vol.111 AI系统信号：工程化、缓存、记忆、入口与产业观察](https://liduos.com/weekly/the-weekly-gradient-111) | 本期内容探讨AI系统化信号，包括模型竞争转向工程实战、全双工语音、缓存成本、记忆系统、MCP重排软件入口、GEO数据迷雾及中国AI产业观察。 |
 | 2026-07-12 | [泛读《理想国》](https://kaix.in/2026/0712/) | 多年前第一次读《理想国》也是囫囵吞枣，但是依然十分喜欢——不知道是因为它把一些我边读边想到的问题和反驳都一一做了解答，让我产生了和两千年的人在对话的愉快感受；还是那种为求准确翻译而稍显繁琐的句式，让我得以暂时摆脱现代汉语，体验另一种可能性。 我始终羡慕那些博览群书的人，小时候，渴望自己一夜之间读完所… |
 | 2026-07-12 | [菜文太硬](https://www.hecaitou.com/2026/07/My-Stiff-Writing.html) | 最近连续看到几起针对我文章的评价，论调都很一致：理工男，文章太硬，读起来费劲。在网络上，观点很容易三人成虎，所以在任何苗头刚刚发芽的时候，就要果断予以滋灭。 我的文章究竟硬不硬？我觉得这是个《小马过河》问题。有人觉得坚硬如铁，也就有人觉得浅白简陋，这和个人的阅读经验有关。站在我本人的立场，我觉得我已… |
+| 2026-07-12 | [向云端｜西南自驾01 - 裸辞](https://blog.ops-coffee.com/r/2026-southwest-road-trip-01-luoci.html) |  |
 | 2026-07-12 | [≡ 004｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25043.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-12 | [TRAIN TRIP 的产品设计细节](https://bluepika.life/blog/train-trip-product-design-details) | 在我继续补完日本游记前，我想先聊聊 Train Trip 这个产品，这是我和 Cora 去年在日本旅行时最喜欢用的产品之一，甚至多次愿意为了它多搭一两个站。 |
 | 2026-07-11 | [Memos: 快跑！说美国豆包是过誉了](https://blog.yasking.org/a/1783782377.html) | “ 我是 Gemini，一个由 Google 训练的大型语言模型。 ” 这盲测输出，一样的，就蠢蠢的。 |
 | 2026-07-11 | [「随便」才是最贵的](https://blog.solazy.me/20260711/) | 算是昨天话题的姊妹篇吧，今天聊聊「随便」 |
 | 2026-07-11 | [博客大联盟：一个给独立博客的收录与聚合站](https://u.sb/boke/) | 介绍博客大联盟，一个独立博客目录和 RSS 聚合站，帮助大家找到更多有趣的独立博客。 |
 | 2026-07-11 | [6.27 Codex 封号事件复盘](https://rqdmap.top/posts/codex-suspended/) | 6 月份一口气痛失两个 Codex Pro 帐号, 一个老号被手机号二验拦住了, 另一个新创的 Giffgaff 号没几天也被直接封了, -$400😢 总结下可能的安全风险 |
+| 2026-07-11 | [没有了 Shell，Ghost 什么也不是](https://www.gtdstudy.com/posts/without-shell-ghost-is-nothing/) |  |
 | 2026-07-11 | [卡利古拉](https://www.geedea.pro/library/2026/caligula/) | 一本收录了加缪原创戏剧作品和与戏剧相关的散文及访谈的书。加缪的第一部戏剧作品《卡利古拉》写于 1938 年，在《 局外人 》之前，那时他 25 岁。从书中《我为什么搞戏剧？》这篇电视访谈内容来看，加缪把戏剧当作「逃避作家生涯中令我厌烦的东西」的手段，同时他也觉得戏剧是文学的更全面的形式。本书一共收录… |
 | 2026-07-11 | [摘：《李卓吾·两种阳明学》](https://z.arlmy.me/posts/Note/Note_GouKouXiongSan_LiZhuoWuLiangZhongYangMingXue/) | 「人欲。」 |
 | 2026-07-11 | [摘：《我就要自由》](https://z.arlmy.me/posts/Note/Note_ZuoYeYangZi_WoJiuYaoZiYou/) | 「定义不了。」 |
