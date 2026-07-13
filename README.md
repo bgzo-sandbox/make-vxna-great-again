@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-13 | [梦女又没有伤害谁，凭什么批评她们？](https://mobius.blog/25059.html) | 今天聊的这个话题可能会非常敏感，太容易涉及到性别对立。而且我作为一个男性来聊“梦女”这个话题也不太“客观”，甚 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-13 | [大脑充血 Vol.89](https://www.geedea.pro/weekly/89/) | 此时无声胜有声。（并非，我只是懒得写） 止语 loml Taylor Swift I said, “I don’t mind, it takes time ” I thought I was better safe than starry-eyed I felt aglow like this Ne… |
+| 2026-07-13 | [Memos #2026-07-12](https://www.taober.blog/memos) | 00:14 我有罪，又点宵夜了😭 11:43 昨晚做了个魔幻的梦，世界观里有三个种族，狐族、天空族和另一个忘了叫啥的。 在梦里我去了天空族的领地，去的方式很奇特，类似一个弹簧发射器，所以在梦里体验了一番弹射飞天和自由落体的感觉，好不刺激！ |
 | 2026-07-12 | [第一卷 01](https://kaix.in/2026/0712/327a/) | 327a 开篇伊始，是一段唠家常 1 。苏格拉底和格劳康一起去海港看完祀神节庆典，当地人波策玛尔科一伙跑来留客说：知道妳们正要回家，但我们人多势众，妳们争不过我们的，就听我们的留下来吧，和我们这些人聊聊天，何况晚上还有通宵晚会呢。苏格拉底也没再多推辞。整体气氛算是融洽。 327c 一行人来到了波策玛… |
 | 2026-07-12 | [It Takes Time](https://www.geedea.pro/article/it-takes-time/) | 这几天重庆的气温，总让人觉得迟早能把人烤熟，自来水管里出来的水都是热的。今天总算是下雨了，温度或许会降下来一些，又或许湿气会让温度更难以忍受，不过我就快要走了，但愿北方不会太闷，蟑螂也不会那么大只。 我刚刚撑着伞，把不想打包带走的旧衣服丢进了小区的回收箱里，这是我八九个月里第一次打开那个箱子。是往外… |
 | 2026-07-12 | [FLUX.2 [klein] 4B 轻量级 AI 图像生成 懒人整合包](https://dsx2016.com/flux-2-klein-4b-lightweight-ai-image-generation/) | FLUX.2 [klein] 4B 是 Black Forest Labs（BFL）&nb... FLUX.2 [klein] 4B 轻量级 AI 图像生成 懒人整合包 最先出现在 大师兄2016 。 |
@@ -56,7 +59,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-11 | [我全栈开发的第一个产品：Balanced Portfolio 多资产风险平价全天候策略回测系统](https://prologue.dev/blog/my-first-full-stack-development-project-balanced-portfolio-a-global-multi-asset-risk-parity-backtesting-system) | 关于笔者第一次全栈开发金融产品，将风险平价策略回测系统、股指期货数据看板、场外衍生品定价模块做成开箱即用、可交互、可视化的Web端产品。 |
 | 2026-07-11 | [Python 潮流周刊#158：frozendict 内置类型](https://pythoncat.top/posts/2026-07-11-weekly/) | 分享了 11 篇文章，12 个开源项目 |
 | 2026-07-11 | [2026年第28周](https://blog.sakoamc.com/posts/2628/) | 题记：二零二六年的第二十八周，年已过半，日复一日，往复循环。 |
-| 2026-07-11 | [Memos #2026-07-10](https://www.taober.blog/memos) | 09:01 深圳这破天气，天天下雨，衣服都不得干，受不了咧。 |
 | 2026-07-10 | [吐司面包烘焙](http://www.uncoverman.com/toast-baking.html) | 台风天，在家闲来无事，心血来潮想做吐司。起心动念，大概是我关注的一位热爱下厨的大佬 zhuyi 很享受自己做面包，经常在微博上晒面包。 由于是第一次，选了小红书上最简易的 教程 。这个教程的好处在于，没有看不懂的术语，也不用 30+ 的步骤，简单来说就是 3 步：混合、发酵、烘焙。 0. 材料准备… |
 | 2026-07-10 | [摘：《见证疯狂》](https://z.arlmy.me/posts/Note/Note_MikeJay_ThisWayMadnessLiesTheAsylumAndBeyond/) | 「疯人非疯。」 |
 | 2026-07-10 | [DeOldify：旧照片上色 懒人整合包](https://dsx2016.com/colorizing-old-photos-with-deoldify/) | DeOldify：基于深度学习的黑白照片与老电影自动上色神器 DeOldify 是一个基于深度学习的... DeOldify：旧照片上色 懒人整合包 最先出现在 大师兄2016 。 |
@@ -136,24 +138,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-06 | [考得不理想之后](https://www.hecaitou.com/2026/07/after-an-unsatisfactory-exam.html) | 这几天已经开始有读者向我报喜，说是已经考上心仪的大学。与此同时，也有人发私信来倾诉，说是自己或者自己的子女这一回没有考好。完全没考上的人则一个都没有，可能是因为招生尚未完全结束。 对于那些没有考好的考生和家长，我不知道该如何安慰。说「没事的」，显得很轻佻。给各种建议，显得极为不负责。所以，我就只能说… |
 | 2026-07-06 | [Agent 安全：环境变量泄露](https://blog.singee.me/2026/07/06/395f4bee3ed780dd9246fbf1e2507b5f/) | 最近在做一个 简单的 Agent 产品 ，这个产品的定位是个人自部署，所以初期并没有做太高的安全隔离设计（也没有使用现成的 Sandbox）。但临近发 |
 | 2026-07-06 | [一扇罗生门](https://mobius.blog/24945.html) | 今天在咖啡厅码字时，有一个意外插曲。 我在打开咖啡厅大门时，扑面而来一股夏天特有的酸臭味。我在进入其中时，就看 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-05 | [《亿高》注疏一：从曾加的“反驳”说起](https://sinyalee.com/blog/?p=1245) | 这篇是对《资产一个亿以下，不要娶高学历国女》一文的注解。 曾加在知乎写了一篇回答。说我讲的不对。然后他说他是数 […] |
-| 2026-07-05 | [Plog 7 乱序生活](https://anotherdayu.com/plog7/) | 英国的盛夏，热的睡不着，结果隔壁养老院着火了… 好久没去动物园，还挺开心的。 Cotswolds 的微缩小镇，在 Bourton-on-the-Water 闲逛是真的很舒服，不愧为英国最美乡村。 玛莎和 Kew Garden 联名的饮料，好喝！ 第一次看到这么小的南瓜。 意料之外好吃的薯片，特别上头… |
-| 2026-07-05 | [游记｜吹17度江风，吃地道豆腐包，建德3天2晚散漫自驾](https://blog.ops-coffee.com/r/city-china-zhejiang-hangzhou-jiande-yanzhougucheng.html) |  |
-| 2026-07-05 | [声画共生：黄贯中的摇滚美学宇宙](https://chengpeiquan.com/article/paul-wong-sound-and-image-coexistence) | 今年第一次在周末踏出家门，来看阿 Paul 的画展。 这个美术馆离我其实很近，但是加班和下雨，整整两个多月，在临近闭展的最后一周才过来。 回到了 1997 踏进美术馆的那一刻，脑海里就自动响起 BGM ： 这是谁的路，难为你讨好 今天带著问号，投入你怀抱 回到了 1997 年前后《回家》、《大时代》… |
-| 2026-07-05 | [AI Infra：数据库没有过时，只是被 Agent 推动重构](https://luweiqing.com/resources/The-database-is-not-outdated-it-is-just-being-refactored-by-agents.html) | 最近，智能体（Agent）概念热度极高，其影响力之大，以至于各类基础软件若未能与之结合，便仿佛面临被时代淘汰的风险。一种典型论调随之涌现：“在 Agent 时代，传统数据库与存储系统将被彻底颠覆... |
-| 2026-07-05 | [2026.7.5](https://www.justzht.com/2026-7-5/) | 现在是周日的早上三点十二。电视机里还在滚着极乐迪斯科的制作人员名单，想看看滚完会不会有什么特别的东西 |
-| 2026-07-05 | [互联网规则偏爱那些随时准备走的人](https://blog.solazy.me/20260705/) | 聊聊今天「一号店」续费的事儿 |
-| 2026-07-05 | [Vol.110 AI能力飙升背后，谁为智能买单？成本与价值的博弈](https://liduos.com/weekly/the-weekly-gradient-110) | 本期内容探讨AI能力提升背后的真实成本：API价格、推理延迟、组织适应成本等，分析如何让智能转化为价值而非负担。 |
-| 2026-07-05 | [恒生银行内地见证开户攻略](https://blog.debuginn.com/p/bank-hang-seng/) | 大家好呀，我是 Meng小羽。 之前写过《 渣打银行内地见证开户攻略 》，分享了通过渣打中国做内地见证开港户的方案。文章发出去之后，后台陆续有朋友问我： 除了渣打，还有没有别的银行可以不用跑香港就能开港卡？ 有的。这篇聊聊另一个同样支持内地见证开户的银行—— 恒生银行 。 恒生对一些朋友来说可能稍微… |
-| 2026-07-05 | [使用迷你小主机作为本地服务器部署rss等信息流](https://dsx2016.com/use-a-mini-pc-as-a-local-server-to-host-rss-feeds-and-other-information-streams/) | 迷你小主机 目前云vps服务器，有一个还有半个月就要到期了，内存只有2G，无法满足我当前的服务器需求 还有一个... 使用迷你小主机作为本地服务器部署rss等信息流 最先出现在 大师兄2016 。 |
-| 2026-07-05 | [迷你小主机零刻EQ59设置WSL2+Ubuntu24.04 server部署docker rss](https://dsx2016.com/deploying-docker-rss-on-wsl2-ubuntu-24-04-server/) | docker desktop 问题记录 优先在迷你小主机的windows系统上安装了docker deskto... 迷你小主机零刻EQ59设置WSL2+Ubuntu24.04 server部署docker rss 最先出现在 大师兄2016 。 |
-| 2026-07-05 | [给了孩子就是他的](https://www.hecaitou.com/2026/07/once-given-its-theirs.html) | 这些年行走江湖遇见过很多人，大多都是现代浪人，远离了土地和家乡在外地谋生、扎根，变成一代移民。虽然大家的生活千差万别，但是谈到家乡的时候都会有一个共同的伤感话题：自己曾经的痕迹被抹掉了。 要么是自己的旧物被悄然处理掉，要么是自己的房间被改头换面，要么是自己的老房子在变卖之后才得到通知。 这里所有的「… |
-| 2026-07-05 | [用 100U 开实盘：给价格行为学习交一次答卷](https://blog.forecho.com/bitget-100u-price-action-real-money-test.html) | 引言 过去一年多，我一直在学 价格行为学（Price Action） ，练手场主要是 Prop Firm（自营交易考试平台）。买账号买了差不多一千多美金，反复挑战、反复爆仓、反复重买，中间就考过一次，一次都没出金。 心里一直卡着一个问题： 到底是 Prop Firm 的规则问题，还是我自己有问题？… |
-| 2026-07-05 | [≡ 003｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/24963.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-05 | [最近惦念 20260625](https://z.arlmy.me/posts/TILs/thoughts/20260625_Recently/) | 「成为人类亚种。」 |
-| 2026-07-05 | [Toots 426 2026 Jun.27 - Jul.4](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260704/) | 「心学的表征。」 |
-| 2026-07-05 | [云南系列｜Day 7 返程前在丽江的一天](https://blog.yasking.org/a/series-yunnan-travel-day7.html) | 云南旅行系列 1 大理洱海之行（上） 2 大理洱海之行（下） 3 周城扎染 & 抵达剑川 4 剑川古城记录 5-6 在沙溪古镇的两天 7 返程 … |
-| 2026-07-05 | [2026年第26、27周：抬头看天边飘过云海](https://blog.sakoamc.com/posts/262627/) | 题记：电子物件的寿命真的好短，世界也真是个草台班子。 |
 
 ## Vibe Coding
 
