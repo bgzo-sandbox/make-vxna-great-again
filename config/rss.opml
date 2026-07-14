@@ -9,6 +9,7 @@
             <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="http://www.ruanyifeng.com/blog/" />
             <outline text="新的原野" title="新的原野" type="rss" xmlUrl="https://sinyalee.com/blog/?feed=rss2" htmlUrl="https://sinyalee.com/blog" />
             <outline title="[#553] V2EX › 春水煎茶" text="[#553] V2EX › 春水煎茶" xmlUrl="https://hit9.dev/feed.xml" htmlUrl="https://www.v2ex.com/xna/s/553" />
+            <outline title="[#554] V2EX › ZAXON" text="[#554] V2EX › ZAXON" xmlUrl="https://blog.harumonia.moe/feed.xml" htmlUrl="https://www.v2ex.com/xna/s/554" />
         </outline>
         <outline title="VXNA" text="VXNA">
             <outline title="[#1] V2EX › olivida.eth" text="[#1] V2EX › olivida.eth" xmlUrl="https://olivida.eth.sucks/planet.json" htmlUrl="https://www.v2ex.com/xna/s/1" />
