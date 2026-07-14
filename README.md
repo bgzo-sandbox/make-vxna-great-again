@@ -27,8 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-14 | [针对当前机场节点不稳定的一个方案-为机场订阅添加一层 VPS 中转](https://blog.harumonia.moe/posts/2026-07-14-vps-proxy) | 用一台美区 VPS，给机场订阅套一个固定出口 问题背景 目前笔者使用的是 机场订阅 这样的一个 🪜 方案，但是今年上半年服务变得非常地不稳定，在相关的技术论坛上，这似乎是一个普遍的现 访问 https://blog.harumonia.moe/posts/2026-07-14-vps-proxy 阅… |
 | 2026-07-14 | [20260714的胡言乱语](https://www.bboy.app/2026/07/14/20260714%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-07-14 | [Random Thoughts - 20260714](https://www.bboy.app/2026/07/14/random-thoughts-20260714/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-07-14 | [早晨跑步有风有阳光](https://cufezhusy.github.io/issue-23/) | 在公司电脑里装上了Chrome和Github，还登录上了小红书。感谢我现在用Github写博客，可以光明正大的摸鱼不被发现。 早晨六点的时候在公园里跑步，夏天早晨的阳光打在树林上，夏天里的凉风是给人类最美的礼物之一。 |
+| 2026-07-14 | [重返HTB：环境配置与Cap Writeup](https://mocusez.site/zh-CN/posts/dafd) | HTB Cap Writeup |
 | 2026-07-14 | [OpenDataLoader 开源 PDF 解析工具 懒人整合包](https://dsx2016.com/opendataloader-open-source-pdf-parsing/) | OpenDataLoader 简介 OpenDataLoader 是一个面向 AI 文档处理的开源 ... OpenDataLoader 开源 PDF 解析工具 懒人整合包 最先出现在 大师兄2016 。 |
 | 2026-07-14 | [AI 留存率的挑战：介于手游与社交网络之间，不断涌入又不断流失](https://wenfeixiang.com/2026/07/the-user-retention-rate-for-ai-company/) | 有个数据指标，做 AI 的人很少公开聊，但每个人心里都清楚，这个指标是个痛点。这就是：留存率。 知名风险投资人 […] |
 | 2026-07-14 | [当职业素养成了稀缺品](https://blog.solazy.me/20260714/) | 现在在职场上找到同路人，真的成为了奢望…… |
@@ -38,6 +41,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-14 | [Memos #2026-07-13](https://www.taober.blog/memos) | 23:48 小小折腾了一下 Obsidian，这周一定要更一篇周记（半年记）了！！！ |
 | 2026-07-13 | [Zine#54 - 世界杯、純文本、隨機頁面、巫師三](https://taxodium.ink/54.html) | Zine#54 世界杯、純文本、隨機頁面、巫師三 🎶 Random Access Memories - Daft Punk 這期分享一張電子樂専輯，Daft Punk 的 Random Access Memories ，封面歌詞選的是専輯里我比較喜歡的一首 Giorgio by Moroder 。… |
 | 2026-07-13 | [李新野超越鲁迅了吗？](https://sinyalee.com/blog/?p=1255) | 我高中的时候，读了很多古今中外的书，上了很多网，我当时有一个结论： 中国民国时期所谓的大师，绝大多数是水货。 […] |
+| 2026-07-13 | [尖山子石刻：比大足石刻还早300年](https://macin.org/2026/07/13/jian-shan-zi-shi-ke/) | 缠绵整个六月的雨，直到七月初晴，不觉已是夏深。 妈妈开始买葡萄了。《论语》说不时不食，所以长辈们总是会挑时令的水果，刚吃过“五月脆李”，又迎来了铁山镇十里长廊又该挂满紫红的果串。筷子小手盘算着，横竖是周末，不如趁这还没热透，去看看那处比大足石刻宝顶山<stro |
 | 2026-07-13 | [日本小学语文课文（二年级上）](https://springwood.me/jp-elementary-school-language-2a/) | （摘要）从二年级上册最后一课开始，句子不再用空格断句。 |
 | 2026-07-13 | [yw-busy 轻量级系统资源负载模拟工具](https://199604.com/3596) | yw-busy 轻量级系统资源负载模拟工具 轻量级系统资源负载模拟工具。精确控制 CPU 利用率和内存占用，适 […] |
 | 2026-07-13 | [R#110 好累的BW](https://blog.sakanano.moe/journals/random_110) | 2026.7.7 ~ 2026.7.13 |
