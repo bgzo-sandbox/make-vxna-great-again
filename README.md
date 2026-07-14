@@ -29,6 +29,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | --- | --- | --- |
 | 2026-07-14 | [20260714的胡言乱语](https://www.bboy.app/2026/07/14/20260714%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-07-14 | [Random Thoughts - 20260714](https://www.bboy.app/2026/07/14/random-thoughts-20260714/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-07-14 | [OpenDataLoader 开源 PDF 解析工具 懒人整合包](https://dsx2016.com/opendataloader-open-source-pdf-parsing/) | OpenDataLoader 简介 OpenDataLoader 是一个面向 AI 文档处理的开源 ... OpenDataLoader 开源 PDF 解析工具 懒人整合包 最先出现在 大师兄2016 。 |
+| 2026-07-14 | [AI 留存率的挑战：介于手游与社交网络之间，不断涌入又不断流失](https://wenfeixiang.com/2026/07/the-user-retention-rate-for-ai-company/) | 有个数据指标，做 AI 的人很少公开聊，但每个人心里都清楚，这个指标是个痛点。这就是：留存率。 知名风险投资人 […] |
 | 2026-07-14 | [当职业素养成了稀缺品](https://blog.solazy.me/20260714/) | 现在在职场上找到同路人，真的成为了奢望…… |
 | 2026-07-14 | [场面人](https://www.hecaitou.com/2026/07/The-Performers.html) | 「场面人」这个词是很多年前宁财神教我的，想来应该是上海话。但宁财神是闸北人，后来闸北也没有了，他还算不算是上海人这件事目前存疑。 当时我们闲坐扯淡，谈到某个人的时候，他突然来了一句：「那是个场面人。」听到这三个字，我就觉得如闻晨钟暮鼓，心头一时明亮了起来。刚刚北漂的我，看什么都觉得新鲜，看什么都觉得… |
 | 2026-07-14 | [手腕悬空，真的会影响输入速度吗？](https://mobius.blog/25071.html) | 好久好久没有“本着越是无厘头的标题，聊越正经的话题”了。 关于标题这个问题，是我真的问过 ChatGPT 的问 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
