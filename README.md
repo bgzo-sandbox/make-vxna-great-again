@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-14 | [集团翻译应用的交互优化与量化验证（下）](https://lrd.im/blog/2026-07-14) | 这篇文章将分享我在如何在 GSM 框架的驱动下优化外部语言槽位和对选择语言面板的易用性进行优化，并提供上线后数据对比。 |
+| 2026-07-14 | [Memos #2026-07-13](https://www.taober.blog/memos) | 23:48 小小折腾了一下 Obsidian，这周一定要更一篇周记（半年记）了！！！ |
 | 2026-07-13 | [Zine#54 - 世界杯、純文本、隨機頁面、巫師三](https://taxodium.ink/54.html) | Zine#54 世界杯、純文本、隨機頁面、巫師三 🎶 Random Access Memories - Daft Punk 這期分享一張電子樂専輯，Daft Punk 的 Random Access Memories ，封面歌詞選的是専輯里我比較喜歡的一首 Giorgio by Moroder 。… |
 | 2026-07-13 | [李新野超越鲁迅了吗？](https://sinyalee.com/blog/?p=1255) | 我高中的时候，读了很多古今中外的书，上了很多网，我当时有一个结论： 中国民国时期所谓的大师，绝大多数是水货。 […] |
 | 2026-07-13 | [yw-busy 轻量级系统资源负载模拟工具](https://199604.com/3596) | yw-busy 轻量级系统资源负载模拟工具 轻量级系统资源负载模拟工具。精确控制 CPU 利用率和内存占用，适 […] |
@@ -42,7 +44,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-13 | [渣男理论 II](https://blog.solazy.me/20260713/) | 今天想延续去年写过的《渣男理论》，写个姊妹篇 |
 | 2026-07-13 | [梦女又没有伤害谁，凭什么批评她们？](https://mobius.blog/25059.html) | 今天聊的这个话题可能会非常敏感，太容易涉及到性别对立。而且我作为一个男性来聊“梦女”这个话题也不太“客观”，甚 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-13 | [大脑充血 Vol.89](https://www.geedea.pro/weekly/89/) | 此时无声胜有声。（并非，我只是懒得写） 止语 loml Taylor Swift I said, “I don’t mind, it takes time ” I thought I was better safe than starry-eyed I felt aglow like this Ne… |
-| 2026-07-13 | [Memos #2026-07-12](https://www.taober.blog/memos) | 00:14 我有罪，又点宵夜了😭 11:43 昨晚做了个魔幻的梦，世界观里有三个种族，狐族、天空族和另一个忘了叫啥的。 在梦里我去了天空族的领地，去的方式很奇特，类似一个弹簧发射器，所以在梦里体验了一番弹射飞天和自由落体的感觉，好不刺激！ |
+| 2026-07-12 | [论第一性原理](https://blog.zopiya.com/lun-di-yi-xing-yuan-li-e156f9c0/) | 关于第一性原理，去年我进行了主题阅读，把市面上风评不错的书通读了十本，包括马斯克的红皮书等相关材料也都看过。但有一个问题，很多人讲着讲着，就把自己的专业知识和社会经验，当成了第一性原理本身——某个人在某个领域是权威，他当年是这样走过来的，于是他认定这条路就是「正确」的、「第一性」的。这不是说这条路一… |
 | 2026-07-12 | [第一卷 01](https://kaix.in/2026/0712/327a/) | 327a 开篇伊始，是一段唠家常 1 。苏格拉底和格劳康一起去海港看完祀神节庆典，当地人波策玛尔科一伙跑来留客说：知道妳们正要回家，但我们人多势众，妳们争不过我们的，就听我们的留下来吧，和我们这些人聊聊天，何况晚上还有通宵晚会呢。苏格拉底也没再多推辞。整体气氛算是融洽。 327c 一行人来到了波策玛… |
 | 2026-07-12 | [It Takes Time](https://www.geedea.pro/article/it-takes-time/) | 这几天重庆的气温，总让人觉得迟早能把人烤熟，自来水管里出来的水都是热的。今天总算是下雨了，温度或许会降下来一些，又或许湿气会让温度更难以忍受，不过我就快要走了，但愿北方不会太闷，蟑螂也不会那么大只。 我刚刚撑着伞，把不想打包带走的旧衣服丢进了小区的回收箱里，这是我八九个月里第一次打开那个箱子。是往外… |
 | 2026-07-12 | [FLUX.2 [klein] 4B 轻量级 AI 图像生成 懒人整合包](https://dsx2016.com/flux-2-klein-4b-lightweight-ai-image-generation/) | FLUX.2 [klein] 4B 是 Black Forest Labs（BFL）&nb... FLUX.2 [klein] 4B 轻量级 AI 图像生成 懒人整合包 最先出现在 大师兄2016 。 |
@@ -139,21 +141,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-07 | [窗管团队 wiki - 基础知识](https://blog.mkacg.com/2026/07/07/%E7%AA%97%E7%AE%A1%E5%9B%A2%E9%98%9F-wiki-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/) | <a href="#显示服务器" class="headerlink" |
 | 2026-07-07 | [腾讯云国内版EdgeOne CDN领取4个免费套餐](https://www.cheshirex.com/10657.html) | 国内版本的EdgeOne通过下面4个活动链接直接领。 领取地址 每地址可以领取一个。 https […] |
 | 2026-07-07 | [知了](https://mobius.blog/24998.html) | 前几天，我终于刚好听到了今年的第一声知了叫。我在热浪里停住了许久，才确定不是幻觉。 这是一个贯穿在坚持写作中的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-06 | [那个从不看球的人开始看球](https://anotherdayu.com/football2026/) | 过去几十年，我大概只凑热闹看过个位数场次球赛，但最近天天看赛程，期待着晚上看球。 时差是一个很重要的原因。在欧洲看世界杯，大多数比赛都在下班后，偶尔才需要熬夜。 最初的是苏格兰闯入世界杯，想支持一下。对来自格拉斯哥的罗伯逊印象很深，看了很多他和利物浦的故事。 后来又想，既然自己人在英格兰，那也看看英… |
-| 2026-07-06 | [如何使用umami查看astrojs博客单个文章的数据统计？](https://dsx2016.com/how-to-view-analytics-for-a-single-astrojs-blog-post-using-umami/) | 数据分析 我需要astrojs的博客也可以像wordpress后台管理一样 可以有表格查看当前文章对应的总访问... 如何使用umami查看astrojs博客单个文章的数据统计？ 最先出现在 大师兄2016 。 |
-| 2026-07-06 | [被Fable抛弃的人](https://mazzzystar.com/2026/07/06/fable-5/) | Claude Fable 5 回归，但它太强也太贵：封号、按量计费把大部分中国人挡在门外。我担心它正在制造一种 K 型分化——用得起的人被加速狂奔，其余的人被甩开。 |
-| 2026-07-06 | [荐《给阿嬷的情书》](https://tianheg.co/posts/recommend-dear-you/) | 看过电影，时间已经临近十二点，我走在回家的路上，不禁思绪万千。我要说些什么？说与谁听呢？不知道从哪里听来的：表达是有对象的。当我在写这篇文章时，我希望写给谁？ 曾经写文章只为我自己，因为我是个怀旧的人，当自己韶华已逝之时，我希望自己有些东西可以缅怀。 如今我发现可以真正分享自己的情绪给对方，让她感受… |
-| 2026-07-06 | [R#109 屏幕好多](https://blog.sakanano.moe/journals/random_109) | 2026.6.30 ~ 2026.7.6 |
-| 2026-07-06 | [树莓派zerow选什么系统好？](https://dsx2016.com/which-operating-system-is-best-for-the-raspberry-pi-zero-w/) | 树莓派zerow 我手上有一个树莓派zerow，关于系统选择梳理 树莓派 Zero W 用的是： CPU：BC... 树莓派zerow选什么系统好？ 最先出现在 大师兄2016 。 |
-| 2026-07-06 | [完成了万豪白金挑战](https://blog.solazy.me/20260706/) | 嘿嘿 |
-| 2026-07-06 | [为什么 AArch64 获取符号地址总是采用 ADRP + ADD 的形式](https://i.hsfzxjy.site/aarch64-gas-pic-syntax/) | 刚接触 AArch64 汇编的人往往会对编译器生成的一类代码感到困惑。 考虑下面这样一个简单的 C 函数： <div class="gk-code-disp |
-| 2026-07-06 | [或许「数羊」真是个有效的入睡法](https://blog.est.im/2026/stderr-23) | 无聊刷博客，《 AI如何导致和修复了我的失眠问题 》 这老哥真猛，通过统计规律发现自己 失眠 的罪魁祸首。（不剧透。感兴趣点开阅读） 我自己也写过 快速入睡的技巧和原理 以及 强行入睡方法 v2.0 其实我都忘记这个 2.0 方法了。都不知道自己当时怎么想到这个办法的，原来自己写的东西也能常看常新（… |
-| 2026-07-06 | [大脑充血 Vol.88](https://www.geedea.pro/weekly/88/) | 下午好，这里是被实训课关在机房写 Java 和 Spring，审查组员提的 Pull Requests，合并和解决代码冲突到晕头转向的 Eltrac。这个天真的小男孩曾以为自己拿到了 Golang 岗位的 Offer 之后就再也不用写 Java 这种东西了，没想到，生活只会给他一拳又一拳的重击，拳打… |
-| 2026-07-06 | [低成本折腾：2026 树莓派玩转 PVE 虚拟化、边缘智能（Edge AI）与轻量 NAS 避坑指南](https://dsx2016.com/raspberry-pi-2026/) | 树莓派 家里有几个闲置的树莓派一直在吃灰，我整理了一些树莓派项目 homeassistant 先从软件开始 优... 低成本折腾：2026 树莓派玩转 PVE 虚拟化、边缘智能（Edge AI）与轻量 NAS 避坑指南 最先出现在 大师兄2016 。 |
-| 2026-07-06 | [AI Infra：ATM — 清程极智的Token管理平台（CC Switch类本地Gateway + Token FinOps）](https://luweiqing.com/resources/AI-Infra-ATM-Token-CC-Switch-Gateway-Token-FinOps.html) | ATM（Agent Token Manager）是一个面向AI Agent的Token管理平台。它并非传统API Gateway或LLM Proxy，而是围绕Token构建统一的计量、治理、结算... |
-| 2026-07-06 | [考得不理想之后](https://www.hecaitou.com/2026/07/after-an-unsatisfactory-exam.html) | 这几天已经开始有读者向我报喜，说是已经考上心仪的大学。与此同时，也有人发私信来倾诉，说是自己或者自己的子女这一回没有考好。完全没考上的人则一个都没有，可能是因为招生尚未完全结束。 对于那些没有考好的考生和家长，我不知道该如何安慰。说「没事的」，显得很轻佻。给各种建议，显得极为不负责。所以，我就只能说… |
-| 2026-07-06 | [Agent 安全：环境变量泄露](https://blog.singee.me/2026/07/06/395f4bee3ed780dd9246fbf1e2507b5f/) | 最近在做一个 简单的 Agent 产品 ，这个产品的定位是个人自部署，所以初期并没有做太高的安全隔离设计（也没有使用现成的 Sandbox）。但临近发 |
-| 2026-07-06 | [一扇罗生门](https://mobius.blog/24945.html) | 今天在咖啡厅码字时，有一个意外插曲。 我在打开咖啡厅大门时，扑面而来一股夏天特有的酸臭味。我在进入其中时，就看 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
