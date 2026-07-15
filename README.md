@@ -27,8 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-15 | [聊聊 -XX:MaxRAMPercentage=75%](https://www.bboy.app/2026/07/15/%E8%81%8A%E8%81%8A-xxmaxrampercentage75/) | 简介 前阵子在看一些 Java 服务的 JVM 配置，发现很多人还在用 -Xmx 写死堆大小，到了容器环境里经常内存爆炸。今天聊聊 -XX:MaxRAMPercentage 这个参数，它解决的问题其实很简单，但很多人不知道。 |
 | 2026-07-15 | [20260715的胡言乱语](https://www.bboy.app/2026/07/15/20260715%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-07-15 | [Random Thoughts - 20260715](https://www.bboy.app/2026/07/15/random-thoughts-20260715/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-07-15 | [和世界杯平行](https://www.hecaitou.com/2026/07/Parallel-to-the-World-Cup.html) | 今年我完全不知道世界杯的任何进程，和朋友圈里熬夜的球迷朋友完全活在两个世界里。具体来说，就是他们值夜班，我值白班。我上班之后翻看前一晚的内容，就知道世界杯还在继续，不过谁输谁赢我并不在意，我就想看看是谁在熬夜，是谁的荷尔蒙还没有耗尽。 看世界杯是属于那种「你应该去做」的事情，也属于我刚好不想去做的事… |
+| 2026-07-15 | [别把前途押在别人身上](https://blog.solazy.me/20260715/) | 感觉在职场上每年都不好过呀 |
+| 2026-07-15 | [从 400U 到 800U：小账户做短线时，我这周学到的几件事](https://blog.forecho.com/from-400u-to-800u-small-account-scalping-lessons.html) | 引言 上一篇写完的时候，我的实盘账户从 100U 做到了 400U。当时我就说过，半个月的数字说明不了什么，还是得继续做。 又交易了一个多星期，现在账户到了 800U。这周大部分利润来自 KORU 的短线，通常一笔赚个 50U 左右。这个结果让我有点新的想法：小账户想慢慢做大，现阶段更适合做流动性好… |
+| 2026-07-15 | [我拿 100U 开了个实盘账户，看看价格行为到底行不行](https://blog.forecho.com/bitget-100u-price-action-real-money-test.html) | 引言 价格行为学我学了一年多，主要在 Prop Firm（自营交易考试平台）练。账号前后买了一千多美金，反复挑战、爆仓、重买，只考过一次，也没出过金。 我一直想知道，问题到底出在哪里：是 Prop Firm 的规则影响了我，还是我做单本身就有问题？ Prop Firm 我还会继续用，成本低，练技术很… |
 | 2026-07-15 | [求医不如求神](https://mobius.blog/25080.html) | 昨天去定期体检。先说最为震撼的一句话，是在抽血窗口前，一个护士喊道：这是谁，不要把病人扔在路中间。 之前每次去 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-15 | [I Ditched My Living Room Coffee Table and Sectional Sofa](https://victor42.eth.limo/post-en/living-room-redesign-with-ai/) | Sudden Inspiration and Determination It all started when I was chatting with a friend from my former company about reading. She told me she had specif… |
 | 2026-07-15 | [我扔掉了客厅茶几与组合沙发](https://victor42.eth.limo/post/living-room-redesign-with-ai/) | 突如其来的灵感和决心 起因是和前司的朋友聊天，聊到读书，朋友说她为此专门改造了客厅。我看完她家照片大受启发，现代人小家庭城市生活，到底需要什么样的客厅，在脑袋里一推演就会有答案。只是忙碌的成年人，很少能拿出勇气做点改变，让自己的生活变得更美好一点点。 不过，决心这个东西，说来就来的，不需要什么心理准… |
