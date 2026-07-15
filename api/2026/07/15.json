@@ -1,5 +1,12 @@
 [
   {
+    "title": "大数据技术的演进：从 Hive、GFS 到 Raft",
+    "url": "https://www.nosuchfield.com/2026/07/15/The-Evolution-of-Big-Data-From-Hive-GFS-to-Raft/",
+    "date": "2026-07-15T21:30:00Z",
+    "description": "大数据这个领域发展了二十多年，技术名词换了很多轮，但底层的设计模式其实一直比较收敛。本文按发展史的顺序，依次介绍 Hive 的原理、GFS 与 CDN 各自的定位、GFS 与 Elasticsearch 在架构上的相似之处、分布式系统中 master 节点的管理方式、几种主流的共识算法，最后落到 Raft 上，并且介绍一下把 Raft 当作类库嵌入到应用内部这种较新的用法。 <a href=\"#大数据发展简史\" class=\"headerlink\"",
+    "source_root_domain": "nosuchfield.com"
+  },
+  {
     "title": "聊聊 -XX:MaxRAMPercentage=75%",
     "url": "https://www.bboy.app/2026/07/15/%E8%81%8A%E8%81%8A-xxmaxrampercentage75/",
     "date": "2026-07-15T10:56:00Z",
@@ -38,7 +45,7 @@
     "title": "这应该是我最开心的一个夏天",
     "url": "https://cufezhusy.github.io/issue-24/",
     "date": "2026-07-15T07:51:08Z",
-    "description": "工作上都是AI在干活，我就负责喝咖啡看油管指挥AI斗蛐蛐，不知道效率到底提高了多少但既然是领导要求的那一定是对的。 今年还完了全部房贷，房子还增值了不少，感觉这些年的努力终于有了回报。 新公司有健身房，附近还有游泳池，工位上装好了大电视可以看环法和世界杯。 自己book的损益还不错，没赚到太多钱导致要天天跟领导解释，也没亏钱到需要担心自己的工作。哎呀呀，怎么能这么开心。",
+    "description": "工作上都是AI在干活，我就负责喝咖啡看油管指挥AI斗蛐蛐，不知道效率到底提高了多少但既然是领导要求的那一定是对的。 摸鱼啊摸鱼。。。",
     "source_root_domain": "cufezhusy.github.io"
   },
   {

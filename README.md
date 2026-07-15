@@ -27,12 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-15 | [大数据技术的演进：从 Hive、GFS 到 Raft](https://www.nosuchfield.com/2026/07/15/The-Evolution-of-Big-Data-From-Hive-GFS-to-Raft/) | 大数据这个领域发展了二十多年，技术名词换了很多轮，但底层的设计模式其实一直比较收敛。本文按发展史的顺序，依次介绍 Hive 的原理、GFS 与 CDN 各自的定位、GFS 与 Elasticsearch 在架构上的相似之处、分布式系统中 master 节点的管理方式、几种主流的共识算法，最后落到 R… |
 | 2026-07-15 | [聊聊 -XX:MaxRAMPercentage=75%](https://www.bboy.app/2026/07/15/%E8%81%8A%E8%81%8A-xxmaxrampercentage75/) | 简介 前阵子在看一些 Java 服务的 JVM 配置，发现很多人还在用 -Xmx 写死堆大小，到了容器环境里经常内存爆炸。今天聊聊 -XX:MaxRAMPercentage 这个参数，它解决的问题其实很简单，但很多人不知道。 |
 | 2026-07-15 | [第一卷 03](https://kaix.in/2026/0712/339a/) | 339a 特拉需玛科说，正义就是统治者的利益，因为统治者当然也就是强者，不难推论，正义就是强者的利益。 苏格拉底这时候说了些我有点听不明白的话，他说特拉需玛科自己说利益却不让苏格拉底说利益——我想应该是翻译措辞的问题吧，我们一路读来，苏格拉底也没说什么利益啊，泛读嘛，先不查资料了，我猜大概是有利的、… |
 | 2026-07-15 | [20260715的胡言乱语](https://www.bboy.app/2026/07/15/20260715%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-07-15 | [Random Thoughts - 20260715](https://www.bboy.app/2026/07/15/random-thoughts-20260715/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
 | 2026-07-15 | [macOS 使用 Crossover 游戏中文输入显示问号乱码问题](https://anotherdayu.com/crossover-macos-chinese/) | 背景 在 macOS 上用 CrossOver 玩一些 Steam 游戏，比如激战2（Guild Wars 2 ），界面能够正常显示中文，但输入聊天框里输入中文，只能显示问号。 网上相关教程都是装中文字体文件或改注册表，但这些解决的是字形问题，容器缺少中文字体。 中文显示为问号的真正原因是：容器（B… |
-| 2026-07-15 | [这应该是我最开心的一个夏天](https://cufezhusy.github.io/issue-24/) | 工作上都是AI在干活，我就负责喝咖啡看油管指挥AI斗蛐蛐，不知道效率到底提高了多少但既然是领导要求的那一定是对的。 今年还完了全部房贷，房子还增值了不少，感觉这些年的努力终于有了回报。 新公司有健身房，附近还有游泳池，工位上装好了大电视可以看环法和世界杯。 自己book的损益还不错，没赚到太多钱导致… |
+| 2026-07-15 | [这应该是我最开心的一个夏天](https://cufezhusy.github.io/issue-24/) | 工作上都是AI在干活，我就负责喝咖啡看油管指挥AI斗蛐蛐，不知道效率到底提高了多少但既然是领导要求的那一定是对的。 摸鱼啊摸鱼。。。 |
 | 2026-07-15 | [和世界杯平行](https://www.hecaitou.com/2026/07/Parallel-to-the-World-Cup.html) | 今年我完全不知道世界杯的任何进程，和朋友圈里熬夜的球迷朋友完全活在两个世界里。具体来说，就是他们值夜班，我值白班。我上班之后翻看前一晚的内容，就知道世界杯还在继续，不过谁输谁赢我并不在意，我就想看看是谁在熬夜，是谁的荷尔蒙还没有耗尽。 看世界杯是属于那种「你应该去做」的事情，也属于我刚好不想去做的事… |
 | 2026-07-15 | [别把前途押在别人身上](https://blog.solazy.me/20260715/) | 感觉在职场上每年都不好过呀 |
 | 2026-07-15 | [从 400U 到 800U：小账户做短线时，我这周学到的几件事](https://blog.forecho.com/from-400u-to-800u-small-account-scalping-lessons.html) | 引言 上一篇写完的时候，我的实盘账户从 100U 做到了 400U。当时我就说过，半个月的数字说明不了什么，还是得继续做。 又交易了一个多星期，现在账户到了 800U。这周大部分利润来自 KORU 的短线，通常一笔赚个 50U 左右。这个结果让我有点新的想法：小账户想慢慢做大，现阶段更适合做流动性好… |
