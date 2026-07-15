@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-15 | [20260715的胡言乱语](https://www.bboy.app/2026/07/15/20260715%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
+| 2026-07-15 | [Random Thoughts - 20260715](https://www.bboy.app/2026/07/15/random-thoughts-20260715/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-07-15 | [求医不如求神](https://mobius.blog/25080.html) | 昨天去定期体检。先说最为震撼的一句话，是在抽血窗口前，一个护士喊道：这是谁，不要把病人扔在路中间。 之前每次去 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-15 | [I Ditched My Living Room Coffee Table and Sectional Sofa](https://victor42.eth.limo/post-en/living-room-redesign-with-ai/) | Sudden Inspiration and Determination It all started when I was chatting with a friend from my former company about reading. She told me she had specif… |
+| 2026-07-15 | [我扔掉了客厅茶几与组合沙发](https://victor42.eth.limo/post/living-room-redesign-with-ai/) | 突如其来的灵感和决心 起因是和前司的朋友聊天，聊到读书，朋友说她为此专门改造了客厅。我看完她家照片大受启发，现代人小家庭城市生活，到底需要什么样的客厅，在脑袋里一推演就会有答案。只是忙碌的成年人，很少能拿出勇气做点改变，让自己的生活变得更美好一点点。 不过，决心这个东西，说来就来的，不需要什么心理准… |
 | 2026-07-14 | [针对当前机场节点不稳定的一个方案-为机场订阅添加一层 VPS 中转](https://blog.harumonia.moe/posts/2026-07-14-vps-proxy) | 用一台美区 VPS，给机场订阅套一个固定出口 问题背景 目前笔者使用的是 机场订阅 这样的一个 🪜 方案，但是今年上半年服务变得非常地不稳定，在相关的技术论坛上，这似乎是一个普遍的现 访问 https://blog.harumonia.moe/posts/2026-07-14-vps-proxy 阅… |
 | 2026-07-14 | [20260714的胡言乱语](https://www.bboy.app/2026/07/14/20260714%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-07-14 | [Random Thoughts - 20260714](https://www.bboy.app/2026/07/14/random-thoughts-20260714/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
@@ -139,20 +144,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-08 | [[AI] curl -NT. 导致100% CPU原因](https://blog.est.im/2026/stdout-25) | 有AI就是好使，搁以前自己得盯半天也看不明白。。。 问题确认 curl -NT. 在连接一个持续推送数据的 streaming 服务器时，会产生一个 紧密的 pause/unpause 循环 ，导致 100% CPU。 根因分析 -T. （注意是点号，不是减号）将 stdin 设为 非阻塞模式 ，然… |
 | 2026-07-08 | [有时候我也忍不住想要找个老公](https://www.hecaitou.com/2026/07/sometimes-i-too-want-a-husband.html) | 我的电脑多，一张桌子放不下，更何况还是前前任房东留下的梳妆台，每天只能把腿卡在它夸张的巴洛克浮雕饰板上的波谷，打字就像是在受一种古怪的刑罚。于是朋友送了我一张电动升降桌，我自己也一狠心再买了一张。 上周日桌子到了，如果需要师傅上门安装，则需要再约时间。我盘算了一下，决定自己上手，这种简单家具又能难到… |
 | 2026-07-08 | [论梦](https://mobius.blog/25008.html) | 这两天睡眠乱七八糟，早上又都刚好在“快速动眼”的区间内醒来，所以刚好都记得醒来之前的“梦”。我似乎很少完全相信 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-07 | [Your Flight Almost Never Flies the Great Circle](https://missuo.me/posts/why-planes-dont-fly-great-circles/) | The great circle is the provably shortest path between two airports — and airlines almost never fly it. I checked 107 of my own flights against their… |
-| 2026-07-07 | [Linux 磁盘空间不释放问题排查（lsof 定位已删除仍被占用文件）](https://199604.com/3588) | Linux 磁盘空间不释放问题排查（lsof 定位已删除仍被占用文件） 问题现象 生产环境中经常遇到这类场景： […] |
-| 2026-07-07 | [当 Token 每月成本超过 2 名全职投行分析师的工资，看这家 AI 原生投行如何选择？](https://wenfeixiang.com/2026/07/token-is-high-and-hign/) | Token 是今年最热的话题。对大模型而言，是进入到 Token变现周期；对于我们这样的小企业而言， Toke […] |
-| 2026-07-07 | [副业是一场独谋](https://blog.solazy.me/20260707/) | 最近突然有好多人找我「搞副业」 |
-| 2026-07-07 | [Goodbye Hugo: I Rebuilt My Blog with Astro Overnight](https://missuo.me/posts/hugo-to-astro/) | After four or five years on Hugo, I rewrote this blog on AstroPaper — by typing /goal in Claude Code before bed and reviewing a working site the next… |
-| 2026-07-07 | [蒲江：除了耙耙柑，还有这么多唐宋石刻](https://macin.org/2026/07/07/pu-jiang-shi-ke/) | 去蒲江是因为一个约。五年没见的朋友定在成都见面，之前还有半个下午和一个夜晚空着，便想着既然来了，就去蒲江看看。成都平原往西南走，茶马古道上的小县城看起来平平无奇。 头疼的事情来自电车。租了电车就得找充电桩，城区住宿吃饭都便利，偏偏充电这件事情最难。好容易在某政 |
-| 2026-07-07 | [287、小暑](https://1900.live/287-xiao-shu/) | null 蝉声正炽，热风初凝，天地在攀升与酝酿之间，悬起一柄颤动的火旗。 太阳行至黄经105°，小暑——夏之第五序。 温风拂过大地，不再带一丝清凉，而是推着热浪一浪高过一浪；蟋蟀躲进屋檐，把鸣声收进砖缝的暗处，不敢与正午的日光硬碰；鹰隼振翅高飞，在灼热的气流中练习更锋利的俯冲——它们都知道，真正的暑… |
-| 2026-07-07 | [浪人无所依](https://www.hecaitou.com/2026/07/nowhere-to-lean-nowhere-to-belong.html) | 记得很多年前我看过一篇文章，作者移居北京多年，在文章中深情写道「北京是我的城」。转眼间，我也北漂，但我一丁点都没有这种感觉。就像我在这个夏天每天拍摄北京的天空一样，我喜欢这里的蓝天，我喜欢这里的云朵，但我不认为这是「我的天空」，我没有鸟儿飞在这天空中的感觉。 然而我也渐渐不能说昆明是我的城，毕竟我离… |
-| 2026-07-07 | [日本小学《道德》课程（一年级）](https://springwood.me/jp-elementary-school-morality-1/) | （摘要）日本小学一年级的《道德》课程内容，包含34个小故事，每周一课。 |
-| 2026-07-07 | [Bohrium领免费服务器2核4G内存100G磁盘](https://www.cheshirex.com/10668.html) | Bohrium玻尔智算可以用谷歌登陆开一个2核4G内存100G磁盘的容器。无需实名认证和绑定手机。 端口可用： […] |
-| 2026-07-07 | [回归初心，文字为王](https://u.sb/writing-first/) | 这篇文章从一次博客重构说起，反思这些年从 WordPress、静态博客到 AI vibe coding 的不断折腾。技术和工具当然能让博客更快、更漂亮，但它们终究只是载体。真正能留下来的，不是框架、封面图或动画，而是一个人真实写下的文字和思考。与其追逐每一个新工具，不如回归初心，慢慢写博客，让文字重… |
-| 2026-07-07 | [窗管团队 wiki - 基础知识](https://blog.mkacg.com/2026/07/07/%E7%AA%97%E7%AE%A1%E5%9B%A2%E9%98%9F-wiki-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/) | <a href="#显示服务器" class="headerlink" |
-| 2026-07-07 | [腾讯云国内版EdgeOne CDN领取4个免费套餐](https://www.cheshirex.com/10657.html) | 国内版本的EdgeOne通过下面4个活动链接直接领。 领取地址 每地址可以领取一个。 https […] |
-| 2026-07-07 | [知了](https://mobius.blog/24998.html) | 前几天，我终于刚好听到了今年的第一声知了叫。我在热浪里停住了许久，才确定不是幻觉。 这是一个贯穿在坚持写作中的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
