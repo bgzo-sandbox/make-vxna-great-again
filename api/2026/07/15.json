@@ -21,6 +21,13 @@
     "source_root_domain": "zhangke.space"
   },
   {
+    "title": "Docker部署Tailscale",
+    "url": "https://foglog.cn/p/docker-deploy-tailscale",
+    "date": "2026-07-15T14:59:00Z",
+    "description": "Tailscale - The best secure connectivity platform for the AI era获取 Auth key1.访问 Tailscale，点击右上角 G...",
+    "source_root_domain": "foglog.cn"
+  },
+  {
     "title": "聊聊 -XX:MaxRAMPercentage=75%",
     "url": "https://www.bboy.app/2026/07/15/%E8%81%8A%E8%81%8A-xxmaxrampercentage75/",
     "date": "2026-07-15T10:56:00Z",
