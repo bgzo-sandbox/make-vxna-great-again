@@ -27,7 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
-| 2026-07-16 | [当代码不再稀缺：程序员真正稀缺的是判断力](https://jt26wzz.com/posts/0017-the-value-of-programmers-in-the-ai-era/) | TL;DR：AI 让代码不再稀缺，但程序员的价值并没有消失，而是更多体现在判断力上：定义真正的问题、用正确的方式把事情做对，并确认结果在真实世界中有效运行。本文从 Zig 和 Godot 的 AI Ban、学徒制与缄默知识出发，聊聊为什么这些能力很难被完整写进文档或者完全放手给 AI。 |
+| 2026-07-16 | [阅片量的诅咒](https://www.hecaitou.com/2026/07/The-Curse-of-the-Cinephile.html) | 既然存在着「知识的诅咒」一说，为什么到现在都还没有出现「阅片量的诅咒」这个概念？突然说起这个话题，是因为《少林女足》的票房。 就在不久前，面对《给阿嬷的情书》的十几亿票房和豆瓣评分 9.3 ，大家的一致结论说：观众需要好电影，需要好故事，需要诚恳的创作态度。没过几天，《少林女足》来了，豆瓣评分 6… |
+| 2026-07-16 | [低质量协作的本质是逃避思考](https://blog.solazy.me/20260716/) | 今天继续聊一个职场话题 |
+| 2026-07-16 | [AI 时代下程序员的价值：一些可能会过时的个人思考](https://jt26wzz.com/posts/0017-the-value-of-programmers-in-the-ai-era/) | TL;DR：AI 让代码不再稀缺，但程序员的价值并没有消失，而是更多体现在判断力上：定义真正的问题、用正确的方式把事情做对，并确认结果在真实世界中有效运行。本文从 Zig 和 Godot 的 AI Ban、学徒制与缄默知识出发，聊聊为什么这些能力很难被完整写进文档或者完全放手给 AI。 |
+| 2026-07-16 | [《万历十五年》、《疼痛部》、《我与狸奴不出门》笔摘](https://blog.sakoamc.com/posts/r2603/) | 题记：之前读完的几本不错的书，一直没想起来整理。 |
 | 2026-07-15 | [微信早已不是熟人社交](https://lomus.cc/archives/793) | 最近打开微信越发的有一种感觉，就是有效消息太少，垃圾消息越来越多。 我不知道有多少人跟我一样，由于工作原因等因 […] 微信早已不是熟人社交 最先出现在 Lumos's Blog 。 |
 | 2026-07-15 | [大数据技术的演进：从 Hive、GFS 到 Raft](https://www.nosuchfield.com/2026/07/15/The-Evolution-of-Big-Data-From-Hive-GFS-to-Raft/) | 大数据这个领域发展了二十多年，技术名词换了很多轮，但底层的设计模式其实一直比较收敛。本文按发展史的顺序，依次介绍 Hive 的原理、GFS 与 CDN 各自的定位、GFS 与 Elasticsearch 在架构上的相似之处、分布式系统中 master 节点的管理方式、几种主流的共识算法，最后落到 R… |
 | 2026-07-15 | [Proxmox VE 下 Windows 性能下降问题记录](https://www.ghostchu.com/proxmox-ve-%e4%b8%8b-windows-%e6%80%a7%e8%83%bd%e4%b8%8b%e9%99%8d%e9%97%ae%e9%a2%98%e8%ae%b0%e5%bd%95/) | 对于 Proxmox VE 上的 Windows 系统从 Windows 7 后系统性能下降明显，即使安装 V […] Proxmox VE 下 Windows 性能下降问题记录 最先出现在 Ghost_chu's Blog 。 |
