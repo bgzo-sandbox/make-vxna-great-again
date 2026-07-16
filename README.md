@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-07-16 | [学习周刊-总第272期-2026年第29周](https://wiki.eryajf.net/pages/b07ecd/) | 如要阅读全文，点击标题跳转。 学习周刊-总第272期 &#124; herdr &#124; litter &#124; Mouser &#124; PDFSlice &#124; kula &#124; redc &#124; paseo |
+| 2026-07-16 | [挪威西部峡湾徒步之旅](https://eduardoqian.com/archives/nuo-wei-xi-bu-xia-wan-tu-bu-zhi-lu) | 7月8日至7月13日，我从Bergen出发，乘坐游船到达Balestrand，爬了有名的hiking路线raudmelen，之后又继续乘船到达Sogndal，乘飞机回到Oslo，最后乘坐火车回到哥德堡。 7月8日下午，乘坐威德罗航空的螺旋桨飞机从哥德堡机场飞到卑尔根。到达Bergen后，乘坐轻轨转公 |
 | 2026-07-16 | [新疆伊犁 1](https://flandre-scarlet.moe/blog/2525/) | Day 1 时隔大半年，又盘算着在地球 online 上跑跑图了。多多享受当下。 这次依旧是去新疆，集中在伊犁... 阅读更多 |
 | 2026-07-16 | [2026 年上半年](https://lachaise.xyz/2026/first-half/) | 一直想回顾一下今年上半年。总体的感觉是还算满意。 本地的日常社交几乎为零。唯一的线下社交是有段时间每隔两三周去参加一次一个朋友的咖啡馆里搞的 pub quiz。 因为有 Cineville 卡，隔一两周去看一次电影。但这并不是一种「社交关系」，只能算是一种「ambient 社交行为」，即与周围的人同… |
 | 2026-07-16 | [最近够闲的，开发了新网站](https://yipai.me/post/2539.html) | 因为各种原因，最近一个月很闲，每周的工作几乎就是收集一次信息，让 AI 汇总了再转发出去。正好 GPT 5.6 Sol 发布，就用 Sol 开发了新的个人网站系统。在 AI 的加持下，不仅能开发，开发速度还很快。AI 比我强多了。不可否认没有我暂时也不行，我也给 AI 提出了一些意见。但这些意见是按… |
