@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-07-16 | [学习周刊-总第272期-2026年第29周](https://wiki.eryajf.net/pages/b07ecd/) | 如要阅读全文，点击标题跳转。 学习周刊-总第272期 &#124; herdr &#124; litter &#124; Mouser &#124; PDFSlice &#124; kula &#124; redc &#124; paseo |
+| 2026-07-16 | [How to Fix SFU MySchedule Login Loop and Authentication Errors](https://blog.ensonyan.com/academic/3479.html) | Many Simon Fraser University (SFU) students, myself inc […] |
 | 2026-07-16 | [挪威西部峡湾徒步之旅](https://eduardoqian.com/archives/nuo-wei-xi-bu-xia-wan-tu-bu-zhi-lu) | 7月8日至7月13日，我从Bergen出发，乘坐游船到达Balestrand，爬了有名的hiking路线raudmelen，之后又继续乘船到达Sogndal，乘飞机回到Oslo，最后乘坐火车回到哥德堡。 7月8日下午，乘坐威德罗航空的螺旋桨飞机从哥德堡机场飞到卑尔根。到达Bergen后，乘坐轻轨转公 |
 | 2026-07-16 | [新疆伊犁 1](https://flandre-scarlet.moe/blog/2525/) | Day 1 时隔大半年，又盘算着在地球 online 上跑跑图了。多多享受当下。 这次依旧是去新疆，集中在伊犁... 阅读更多 |
 | 2026-07-16 | [2026 年上半年](https://lachaise.xyz/2026/first-half/) | 一直想回顾一下今年上半年。总体的感觉是还算满意。 本地的日常社交几乎为零。唯一的线下社交是有段时间每隔两三周去参加一次一个朋友的咖啡馆里搞的 pub quiz。 因为有 Cineville 卡，隔一两周去看一次电影。但这并不是一种「社交关系」，只能算是一种「ambient 社交行为」，即与周围的人同… |
@@ -41,6 +42,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-16 | [《万历十五年》、《疼痛部》、《我与狸奴不出门》笔摘](https://blog.sakoamc.com/posts/r2603/) | 题记：之前读完的几本不错的书，一直没想起来整理。 |
 | 2026-07-15 | [微信早已不是熟人社交](https://lomus.cc/archives/793) | 最近打开微信越发的有一种感觉，就是有效消息太少，垃圾消息越来越多。 我不知道有多少人跟我一样，由于工作原因等因 […] 微信早已不是熟人社交 最先出现在 Lumos's Blog 。 |
 | 2026-07-15 | [大数据技术的演进：从 Hive、GFS 到 Raft](https://www.nosuchfield.com/2026/07/15/The-Evolution-of-Big-Data-From-Hive-GFS-to-Raft/) | 大数据这个领域发展了二十多年，技术名词换了很多轮，但底层的设计模式其实一直比较收敛。本文按发展史的顺序，依次介绍 Hive 的原理、GFS 与 CDN 各自的定位、GFS 与 Elasticsearch 在架构上的相似之处、分布式系统中 master 节点的管理方式、几种主流的共识算法，最后落到 R… |
+| 2026-07-15 | [New Release: BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT](https://macsourceports.com/game/bdd3) | No, that's not a caps lock error, that's the name of the game. Just go with me on this one... BRAZILIAN DRUG DEALER 3 is a first-person shooter where… |
 | 2026-07-15 | [Proxmox VE 下 Windows 性能下降问题记录](https://www.ghostchu.com/proxmox-ve-%e4%b8%8b-windows-%e6%80%a7%e8%83%bd%e4%b8%8b%e9%99%8d%e9%97%ae%e9%a2%98%e8%ae%b0%e5%bd%95/) | 对于 Proxmox VE 上的 Windows 系统从 Windows 7 后系统性能下降明显，即使安装 V […] Proxmox VE 下 Windows 性能下降问题记录 最先出现在 Ghost_chu's Blog 。 |
 | 2026-07-15 | [人类如何利用超长上下文与 AI 协作](https://zhangke.space/%e4%ba%ba%e7%b1%bb%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e8%b6%85%e9%95%bf%e4%b8%8a%e4%b8%8b%e6%96%87%e4%b8%8e-ai-%e5%8d%8f%e4%bd%9c/?utm_source=rss&utm_medium=rss&utm_campaign=%25e4%25ba%25ba%25e7%25b1%25bb%25e5%25a6%2582%25e4%25bd%2595%25e5%2588%25a9%25e7%2594%25a8%25e8%25b6%2585%25e9%2595%25bf%25e4%25b8%258a%25e4%25b8%258b%25e6%2596%2587%25e4%25b8%258e-ai-%25e5%258d%258f%25e4%25bd%259c) | 时至今日，LLM 的发展仍然深受 Scaling Laws 的影响，OpenAI、Anthropic 每隔一段 […] The post 人类如何利用超长上下文与 AI 协作 first appeared on 张可的博客 . |
 | 2026-07-15 | [Docker部署Tailscale](https://foglog.cn/p/docker-deploy-tailscale) | Tailscale - The best secure connectivity platform for the AI era获取 Auth key1.访问 Tailscale，点击右上角 G... |

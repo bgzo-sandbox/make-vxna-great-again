@@ -7,6 +7,13 @@
     "source_root_domain": "eryajf.net"
   },
   {
+    "title": "How to Fix SFU MySchedule Login Loop and Authentication Errors",
+    "url": "https://blog.ensonyan.com/academic/3479.html",
+    "date": "2026-07-16T21:44:44Z",
+    "description": "Many Simon Fraser University (SFU) students, myself inc […]",
+    "source_root_domain": "ensonyan.com"
+  },
+  {
     "title": "挪威西部峡湾徒步之旅",
     "url": "https://eduardoqian.com/archives/nuo-wei-xi-bu-xia-wan-tu-bu-zhi-lu",
     "date": "2026-07-16T20:08:00Z",
@@ -96,6 +103,13 @@
     "date": "2026-07-15T21:30:00Z",
     "description": "大数据这个领域发展了二十多年，技术名词换了很多轮，但底层的设计模式其实一直比较收敛。本文按发展史的顺序，依次介绍 Hive 的原理、GFS 与 CDN 各自的定位、GFS 与 Elasticsearch 在架构上的相似之处、分布式系统中 master 节点的管理方式、几种主流的共识算法，最后落到 Raft 上，并且介绍一下把 Raft 当作类库嵌入到应用内部这种较新的用法。 <a href=\"#大数据发展简史\" class=\"headerlink\"",
     "source_root_domain": "nosuchfield.com"
+  },
+  {
+    "title": "New Release: BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT",
+    "url": "https://macsourceports.com/game/bdd3",
+    "date": "2026-07-15T20:27:54Z",
+    "description": "No, that's not a caps lock error, that's the name of the game. Just go with me on this one... BRAZILIAN DRUG DEALER 3 is a first-person shooter where you play as a drug dealer who…",
+    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "Proxmox VE 下 Windows 性能下降问题记录",
