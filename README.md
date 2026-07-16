@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-16 | [当代码不再稀缺：程序员真正稀缺的是判断力](https://jt26wzz.com/posts/0017-the-value-of-programmers-in-the-ai-era/) | TL;DR：AI 让代码不再稀缺，但程序员的价值并没有消失，而是更多体现在判断力上：定义真正的问题、用正确的方式把事情做对，并确认结果在真实世界中有效运行。本文从 Zig 和 Godot 的 AI Ban、学徒制与缄默知识出发，聊聊为什么这些能力很难被完整写进文档或者完全放手给 AI。 |
+| 2026-07-15 | [微信早已不是熟人社交](https://lomus.cc/archives/793) | 最近打开微信越发的有一种感觉，就是有效消息太少，垃圾消息越来越多。 我不知道有多少人跟我一样，由于工作原因等因 […] 微信早已不是熟人社交 最先出现在 Lumos's Blog 。 |
 | 2026-07-15 | [大数据技术的演进：从 Hive、GFS 到 Raft](https://www.nosuchfield.com/2026/07/15/The-Evolution-of-Big-Data-From-Hive-GFS-to-Raft/) | 大数据这个领域发展了二十多年，技术名词换了很多轮，但底层的设计模式其实一直比较收敛。本文按发展史的顺序，依次介绍 Hive 的原理、GFS 与 CDN 各自的定位、GFS 与 Elasticsearch 在架构上的相似之处、分布式系统中 master 节点的管理方式、几种主流的共识算法，最后落到 R… |
 | 2026-07-15 | [Proxmox VE 下 Windows 性能下降问题记录](https://www.ghostchu.com/proxmox-ve-%e4%b8%8b-windows-%e6%80%a7%e8%83%bd%e4%b8%8b%e9%99%8d%e9%97%ae%e9%a2%98%e8%ae%b0%e5%bd%95/) | 对于 Proxmox VE 上的 Windows 系统从 Windows 7 后系统性能下降明显，即使安装 V […] Proxmox VE 下 Windows 性能下降问题记录 最先出现在 Ghost_chu's Blog 。 |
 | 2026-07-15 | [人类如何利用超长上下文与 AI 协作](https://zhangke.space/%e4%ba%ba%e7%b1%bb%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e8%b6%85%e9%95%bf%e4%b8%8a%e4%b8%8b%e6%96%87%e4%b8%8e-ai-%e5%8d%8f%e4%bd%9c/?utm_source=rss&utm_medium=rss&utm_campaign=%25e4%25ba%25ba%25e7%25b1%25bb%25e5%25a6%2582%25e4%25bd%2595%25e5%2588%25a9%25e7%2594%25a8%25e8%25b6%2585%25e9%2595%25bf%25e4%25b8%258a%25e4%25b8%258b%25e6%2596%2587%25e4%25b8%258e-ai-%25e5%258d%258f%25e4%25bd%259c) | 时至今日，LLM 的发展仍然深受 Scaling Laws 的影响，OpenAI、Anthropic 每隔一段 […] The post 人类如何利用超长上下文与 AI 协作 first appeared on 张可的博客 . |
@@ -143,19 +145,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-09 | [[转载]iOS 定位修改 · 小白保姆级教程（Shadowrocket 小火箭）](https://zhcn.xyz/article/ios-location-spoofing-guide-beginners) | 本教程教你用 Shadowrocket（小火箭） 把 iPhone 的定位改到世界任何地方，无需越狱、无需电脑、无需开发者账号。跟着一步步做即可。 |
 | 2026-07-09 | [TV Time关停！用九年追剧数据做个存档网站](https://zhcn.xyz/article/tv-time-is-closing-my-data-archive-project) | 2026年7月初知道TV Time 宣布关停。这个消息来得突然，但更让我措手不及的是，九年积攒的追剧记录 —— 153 部剧、1141 部电影、2655 集已看 |
 | 2026-07-09 | [我把 Google Search Console 接进了 Claude Code](https://coreychiu.com/blogs/connect-google-search-console-to-claude-code) | 简单六步，只需五分钟，让 AI 直接查你的真实 GSC 数据，帮你做 SEO 分析 |
-| 2026-07-08 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.35.0 of the project |
-| 2026-07-08 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.1.26 of the project |
-| 2026-07-08 | [FreeSpace 2 updated](https://macsourceports.com/game/freespace2) | The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version release260_0 of the project |
-| 2026-07-08 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.3 of the project |
-| 2026-07-08 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo for Quetoo has been updated to version v1.0.55 of the project |
-| 2026-07-08 | [边缘端语音全能王 sherpa-onnx 懒人整合包](https://dsx2016.com/sherpa-onnx-the-all-in-one-edge-side-speech-solution-ready-to-use-package/) | 边缘端语音全能王：Sherpa-ONNX 深度介绍 sherpa-onnx 是一个基于 O... 边缘端语音全能王 sherpa-onnx 懒人整合包 最先出现在 大师兄2016 。 |
-| 2026-07-08 | [职场中的投诉](https://blog.solazy.me/20260708/) | 今天聊聊职场中关于投诉的话题 |
-| 2026-07-08 | [The People Fable Left Behind](https://mazzzystar.com/2026/07/08/fable-5-en/) | Fable 5 is the first model whose limits I can't feel. Some people have no access, most can't afford it — but the divide it creates runs deeper than pr… |
-| 2026-07-08 | [20260708的胡言乱语](https://www.bboy.app/2026/07/08/20260708%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
-| 2026-07-08 | [Random Thoughts - 20260708](https://www.bboy.app/2026/07/08/random-thoughts-20260708/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
-| 2026-07-08 | [[AI] curl -NT. 导致100% CPU原因](https://blog.est.im/2026/stdout-25) | 有AI就是好使，搁以前自己得盯半天也看不明白。。。 问题确认 curl -NT. 在连接一个持续推送数据的 streaming 服务器时，会产生一个 紧密的 pause/unpause 循环 ，导致 100% CPU。 根因分析 -T. （注意是点号，不是减号）将 stdin 设为 非阻塞模式 ，然… |
-| 2026-07-08 | [有时候我也忍不住想要找个老公](https://www.hecaitou.com/2026/07/sometimes-i-too-want-a-husband.html) | 我的电脑多，一张桌子放不下，更何况还是前前任房东留下的梳妆台，每天只能把腿卡在它夸张的巴洛克浮雕饰板上的波谷，打字就像是在受一种古怪的刑罚。于是朋友送了我一张电动升降桌，我自己也一狠心再买了一张。 上周日桌子到了，如果需要师傅上门安装，则需要再约时间。我盘算了一下，决定自己上手，这种简单家具又能难到… |
-| 2026-07-08 | [论梦](https://mobius.blog/25008.html) | 这两天睡眠乱七八糟，早上又都刚好在“快速动眼”的区间内醒来，所以刚好都记得醒来之前的“梦”。我似乎很少完全相信 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 

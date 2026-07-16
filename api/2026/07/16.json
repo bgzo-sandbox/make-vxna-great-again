@@ -1,0 +1,205 @@
+[
+  {
+    "title": "当代码不再稀缺：程序员真正稀缺的是判断力",
+    "url": "https://jt26wzz.com/posts/0017-the-value-of-programmers-in-the-ai-era/",
+    "date": "2026-07-16T01:24:36Z",
+    "description": "TL;DR：AI 让代码不再稀缺，但程序员的价值并没有消失，而是更多体现在判断力上：定义真正的问题、用正确的方式把事情做对，并确认结果在真实世界中有效运行。本文从 Zig 和 Godot 的 AI Ban、学徒制与缄默知识出发，聊聊为什么这些能力很难被完整写进文档或者完全放手给 AI。",
+    "source_root_domain": "jt26wzz.com"
+  },
+  {
+    "title": "微信早已不是熟人社交",
+    "url": "https://lomus.cc/archives/793",
+    "date": "2026-07-15T23:30:00Z",
+    "description": "最近打开微信越发的有一种感觉，就是有效消息太少，垃圾消息越来越多。 我不知道有多少人跟我一样，由于工作原因等因 […] 微信早已不是熟人社交 最先出现在 Lumos's Blog 。",
+    "source_root_domain": "lomus.cc"
+  },
+  {
+    "title": "大数据技术的演进：从 Hive、GFS 到 Raft",
+    "url": "https://www.nosuchfield.com/2026/07/15/The-Evolution-of-Big-Data-From-Hive-GFS-to-Raft/",
+    "date": "2026-07-15T21:30:00Z",
+    "description": "大数据这个领域发展了二十多年，技术名词换了很多轮，但底层的设计模式其实一直比较收敛。本文按发展史的顺序，依次介绍 Hive 的原理、GFS 与 CDN 各自的定位、GFS 与 Elasticsearch 在架构上的相似之处、分布式系统中 master 节点的管理方式、几种主流的共识算法，最后落到 Raft 上，并且介绍一下把 Raft 当作类库嵌入到应用内部这种较新的用法。 <a href=\"#大数据发展简史\" class=\"headerlink\"",
+    "source_root_domain": "nosuchfield.com"
+  },
+  {
+    "title": "Proxmox VE 下 Windows 性能下降问题记录",
+    "url": "https://www.ghostchu.com/proxmox-ve-%e4%b8%8b-windows-%e6%80%a7%e8%83%bd%e4%b8%8b%e9%99%8d%e9%97%ae%e9%a2%98%e8%ae%b0%e5%bd%95/",
+    "date": "2026-07-15T15:05:49Z",
+    "description": "对于 Proxmox VE 上的 Windows 系统从 Windows 7 后系统性能下降明显，即使安装 V […] Proxmox VE 下 Windows 性能下降问题记录 最先出现在 Ghost_chu's Blog 。",
+    "source_root_domain": "ghostchu.com"
+  },
+  {
+    "title": "Docker部署Tailscale",
+    "url": "https://foglog.cn/p/docker-deploy-tailscale",
+    "date": "2026-07-15T14:59:00Z",
+    "description": "Tailscale - The best secure connectivity platform for the AI era获取 Auth key1.访问 Tailscale，点击右上角 G...",
+    "source_root_domain": "foglog.cn"
+  },
+  {
+    "title": "聊聊 -XX:MaxRAMPercentage=75%",
+    "url": "https://www.bboy.app/2026/07/15/%E8%81%8A%E8%81%8A-xxmaxrampercentage75/",
+    "date": "2026-07-15T10:56:00Z",
+    "description": "简介 前阵子在看一些 Java 服务的 JVM 配置，发现很多人还在用 -Xmx 写死堆大小，到了容器环境里经常内存爆炸。今天聊聊 -XX:MaxRAMPercentage 这个参数，它解决的问题其实很简单，但很多人不知道。",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "第一卷 03",
+    "url": "https://kaix.in/2026/0712/339a/",
+    "date": "2026-07-15T09:15:04Z",
+    "description": "339a 特拉需玛科说，正义就是统治者的利益，因为统治者当然也就是强者，不难推论，正义就是强者的利益。 苏格拉底这时候说了些我有点听不明白的话，他说特拉需玛科自己说利益却不让苏格拉底说利益——我想应该是翻译措辞的问题吧，我们一路读来，苏格拉底也没说什么利益啊，泛读嘛，先不查资料了，我猜大概是有利的、有用的、好的、利益，这些词在原文语言中有共通性，所以前面苏格拉底他们论证出来的正义至少应该是有用的、有利的、好的。特拉需玛科不让他们这样说，结果自己又站出来说正义是「强者的」利益。 总之，苏格拉底觉得虽然大家都说正义是某种利益，但是特拉需玛科非要加上个附加说是要「属于强者的」，那就还得继续考察论证。 339c 苏格拉底说，妳的意思是，服从统治者是正义，但是妳也承认统治者会犯错，制定法律有时候也制定错了。这个对错，暂且简化区分一下，有利于统治者的法律是对的，不利于统治者的法律是错的。因为会犯错，所以有时候统治者制定了不利于统治者的法律而不自知。但是按照妳的说法，服从统治者是正义，要服从不知道对错的法律，妳所说的正义，就，有时候是去做有利于强者的事，有时候又去做不利于强者的事。 怎么说呢，第一卷",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "20260715的胡言乱语",
+    "url": "https://www.bboy.app/2026/07/15/20260715%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
+    "date": "2026-07-15T09:00:00Z",
+    "description": "简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "Random Thoughts - 20260715",
+    "url": "https://www.bboy.app/2026/07/15/random-thoughts-20260715/",
+    "date": "2026-07-15T09:00:00Z",
+    "description": "Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "macOS 使用 Crossover 游戏中文输入显示问号乱码问题",
+    "url": "https://anotherdayu.com/crossover-macos-chinese/",
+    "date": "2026-07-15T08:48:00Z",
+    "description": "背景 在 macOS 上用 CrossOver 玩一些 Steam 游戏，比如激战2（Guild Wars 2 ），界面能够正常显示中文，但输入聊天框里输入中文，只能显示问号。 网上相关教程都是装中文字体文件或改注册表，但这些解决的是字形问题，容器缺少中文字体。 中文显示为问号的真正原因是：容器（Bottle）的系统区域设置不是中文，而默认是西欧编码（1252），中文字符编不进去，转换失败的字符就统一被替换成了问号。 解决方法 CrossOver 的每个容器都有一个独立的配置文件 cxbottle.conf，可以单独指定该容器的语言区域，不会影响其他容器。 步骤： 打开 CrossOver，选中运行 GW2 的容器，在右侧栏里点击：Open C: Drive 在弹出的 Finder 窗口里往上退一层——cxbottle.conf 和 drivec 文件夹是同级的，不在 drivec 里面。 用纯文本编辑器打开 cxbottle.conf （推荐BBEdit） 找到 [EnvironmentVariables] 这一节（没有就新建），加入一行： [EnvironmentVariables",
+    "source_root_domain": "anotherdayu.com"
+  },
+  {
+    "title": "这应该是我最开心的一个夏天",
+    "url": "https://cufezhusy.github.io/issue-24/",
+    "date": "2026-07-15T07:51:08Z",
+    "description": "工作上都是AI在干活，我就负责喝咖啡看油管指挥AI斗蛐蛐，不知道效率到底提高了多少但既然是领导要求的那一定是对的。 摸鱼啊摸鱼。。。",
+    "source_root_domain": "cufezhusy.github.io"
+  },
+  {
+    "title": "和世界杯平行",
+    "url": "https://www.hecaitou.com/2026/07/Parallel-to-the-World-Cup.html",
+    "date": "2026-07-15T04:15:48Z",
+    "description": "今年我完全不知道世界杯的任何进程，和朋友圈里熬夜的球迷朋友完全活在两个世界里。具体来说，就是他们值夜班，我值白班。我上班之后翻看前一晚的内容，就知道世界杯还在继续，不过谁输谁赢我并不在意，我就想看看是谁在熬夜，是谁的荷尔蒙还没有耗尽。 看世界杯是属于那种「你应该去做」的事情，也属于我刚好不想去做的事情。类似的事情很多，比如说我还在念书那会儿，男同学都要去读《兵器知识》《汽车杂志》《舰船知识》《健身与搏击》一类的杂志，否则就可能和大家缺乏课间共同话题。 可我一点都看不进去，我更喜欢看《奥秘》和《飞碟探索》那样的杂志，后来果然成长为一个玄学爱好者兼阴谋论专家。所以，那些杂志我根本不碰，他们问我铃木新款摩托的排气量，我就反问他们知不知道金字塔其实是一种宇宙信号接收器，同时也给法老的木乃伊充电？ 但世界杯实在是太强了，远不是飞机大炮汽车摩托航母双截棍所能比拟的。所以我做了许多年的伪球迷，混迹在真球迷之中，只是为了给自己谋私利。 比如说我接了体育报刊的世界杯专栏，从真球迷那里骗酒钱。再比如说我半夜睡不着，就跑去球迷酒吧和那些通宵看球的人厮混，又有人请喝酒，又有漂亮的妹子可以看。我自己是真的喜欢写",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "别把前途押在别人身上",
+    "url": "https://blog.solazy.me/20260715/",
+    "date": "2026-07-15T04:00:00Z",
+    "description": "感觉在职场上每年都不好过呀",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "从 400U 到 800U：小账户做短线时，我这周学到的几件事",
+    "url": "https://blog.forecho.com/from-400u-to-800u-small-account-scalping-lessons.html",
+    "date": "2026-07-15T03:00:00Z",
+    "description": "引言 上一篇写完的时候，我的实盘账户从 100U 做到了 400U。当时我就说过，半个月的数字说明不了什么，还是得继续做。 又交易了一个多星期，现在账户到了 800U。这周大部分利润来自 KORU 的短线，通常一笔赚个 50U 左右。这个结果让我有点新的想法：小账户想慢慢做大，现阶段更适合做流动性好的品种和时间段，拿短线利润。 没有按照系统做单，账户一度亏了 300 多 U 刚开实盘的时候，我没有完全按价格行为学的方式去做，还是带着以前的习惯：跌了就想抄底。 这其实就是接飞刀。价格明明还在往下走，我却总觉得已经跌很多了，该反弹了吧。结果账户一度亏了 300 多 U。后面刚好反弹回来了，不然这个账户真的可能会爆仓。 现在回头看，这种逆势抄底是我很忌讳的操作。趋势没走完之前，别急着去猜底。小账户本来就带杠杆，和趋势对着做，很容易一两笔就把账户做没了。 我现在尽量只做 5 分钟图 我现在尽量只看 5 分钟级别的 K 线，开单以后把止盈和止损一起挂好。 小账户做交易，很容易想把一笔单拿得很远。做着做着就变成了猜大趋势，回撤一点又拿不住。5 分钟图的机会更明确，进场以后有利润就走，亏了也按止损走",
+    "source_root_domain": "forecho.com"
+  },
+  {
+    "title": "我拿 100U 开了个实盘账户，看看价格行为到底行不行",
+    "url": "https://blog.forecho.com/bitget-100u-price-action-real-money-test.html",
+    "date": "2026-07-15T02:00:00Z",
+    "description": "引言 价格行为学我学了一年多，主要在 Prop Firm（自营交易考试平台）练。账号前后买了一千多美金，反复挑战、爆仓、重买，只考过一次，也没出过金。 我一直想知道，问题到底出在哪里：是 Prop Firm 的规则影响了我，还是我做单本身就有问题？ Prop Firm 我还会继续用，成本低，练技术很划算。但我也想开一个实盘账户，拿 100U 到 Bitget 做短线。技术分析还是那一套，换成自己的钱跑一段时间，看看这一年多到底学到了什么。 AMP 开户被拒之后，我转去了 Bitget 其实一开始我不是打算走这条路的。 前段时间我在申请美国的 AMP 期货账户，想走一条「正经」的路。表格里「职业」那一栏我随手填了「退休」 —— 当时刚好没工作，脑子一抽觉得这个词最省事，其实更准确的说法是「待业」。后来 AMP 客服邮件核实资料，我按流程补正，最后还是被判 KYC 不通过。 被拒的时候我反而挺轻松。AMP 这条路我本来就走得不太情愿： 出入金要走跨境银行卡 ，SWIFT 一等就是一两个工作日，而且还要被银行收一笔手续费 换汇一次收 30 美元手续费 ：一旦想做日经这种非美元品种就得换汇，来",
+    "source_root_domain": "forecho.com"
+  },
+  {
+    "title": "求医不如求神",
+    "url": "https://mobius.blog/25080.html",
+    "date": "2026-07-15T01:25:49Z",
+    "description": "昨天去定期体检。先说最为震撼的一句话，是在抽血窗口前，一个护士喊道：这是谁，不要把病人扔在路中间。 之前每次去 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "I Ditched My Living Room Coffee Table and Sectional Sofa",
+    "url": "https://victor42.eth.limo/post-en/living-room-redesign-with-ai/",
+    "date": "2026-07-15T00:12:00Z",
+    "description": "Sudden Inspiration and Determination It all started when I was chatting with a friend from my former company about reading. She told me she had specifically remodeled her living room for that purpose. Looking at the pictures of her home, I was deeply inspired. It made me think about what kind of living room a modern small family living in the city actually needs. The answer becomes clear once you think it through. However, busy adults rarely have the courage to make changes to make their lives j",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "我扔掉了客厅茶几与组合沙发",
+    "url": "https://victor42.eth.limo/post/living-room-redesign-with-ai/",
+    "date": "2026-07-15T00:12:00Z",
+    "description": "突如其来的灵感和决心 起因是和前司的朋友聊天，聊到读书，朋友说她为此专门改造了客厅。我看完她家照片大受启发，现代人小家庭城市生活，到底需要什么样的客厅，在脑袋里一推演就会有答案。只是忙碌的成年人，很少能拿出勇气做点改变，让自己的生活变得更美好一点点。 不过，决心这个东西，说来就来的，不需要什么心理准备。我聊完立马从头推演了一遍，当天就开启客厅的改造计划。 我家已经装修完快10年了，费了许多心思，甚至换工作间隙花了几个月时间专门来搞这事： 一个设计师的装修笔记 当时没小孩，也没想过会不会有。客厅初始设计服务两个成年人，沙发茶几电视柜，标准布局。这样的客厅，陪伴我和老婆度过了不少啃着鸡爪鸭脖看电影的周末。 自有女儿以来，客厅的作用早已偏离初衷。茶几电视柜变成玩具桌，沙发一半堆玩偶，一半堆阳台收进来又懒得叠的衣服。大人歇脚都在餐厅餐椅，很少在客厅。因为沙发虽舒服，但走进去很困难，找到地方坐下更困难。整个客厅成了小孩独自娱乐和家庭阅读的空间，但女儿玩具还是经常摆到过道上来，挡住去路。 本质是，客厅这个空间的注意力重心，从单一的电视，变成了多处分散的形式。即使没有小孩，城市小家庭的客厅，核心也早",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "20260714的胡言乱语",
+    "url": "https://www.bboy.app/2026/07/14/20260714%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
+    "date": "2026-07-14T11:12:00Z",
+    "description": "简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "Random Thoughts - 20260714",
+    "url": "https://www.bboy.app/2026/07/14/random-thoughts-20260714/",
+    "date": "2026-07-14T11:12:00Z",
+    "description": "Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "早晨跑步有风有阳光",
+    "url": "https://cufezhusy.github.io/issue-23/",
+    "date": "2026-07-14T10:00:24Z",
+    "description": "在公司电脑里装上了Chrome和Github，还登录上了小红书。感谢我现在用Github写博客，可以光明正大的摸鱼不被发现。 早晨六点的时候在公园里跑步，夏天早晨的阳光打在树林上，夏天里的凉风是给人类最美的礼物之一。",
+    "source_root_domain": "cufezhusy.github.io"
+  },
+  {
+    "title": "重返HTB：环境配置与Cap Writeup",
+    "url": "https://mocusez.site/zh-CN/posts/dafd",
+    "date": "2026-07-14T09:08:03Z",
+    "description": "HTB Cap Writeup",
+    "source_root_domain": "mocusez.site"
+  },
+  {
+    "title": "OpenDataLoader 开源 PDF 解析工具 懒人整合包",
+    "url": "https://dsx2016.com/opendataloader-open-source-pdf-parsing/",
+    "date": "2026-07-14T08:24:29Z",
+    "description": "OpenDataLoader 简介 OpenDataLoader 是一个面向 AI 文档处理的开源 ... OpenDataLoader 开源 PDF 解析工具 懒人整合包 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "AI 留存率的挑战：介于手游与社交网络之间，不断涌入又不断流失",
+    "url": "https://wenfeixiang.com/2026/07/the-user-retention-rate-for-ai-company/",
+    "date": "2026-07-14T07:27:50Z",
+    "description": "有个数据指标，做 AI 的人很少公开聊，但每个人心里都清楚，这个指标是个痛点。这就是：留存率。 知名风险投资人 […]",
+    "source_root_domain": "wenfeixiang.com"
+  },
+  {
+    "title": "当职业素养成了稀缺品",
+    "url": "https://blog.solazy.me/20260714/",
+    "date": "2026-07-14T04:00:00Z",
+    "description": "现在在职场上找到同路人，真的成为了奢望……",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "场面人",
+    "url": "https://www.hecaitou.com/2026/07/The-Performers.html",
+    "date": "2026-07-14T03:39:31Z",
+    "description": "「场面人」这个词是很多年前宁财神教我的，想来应该是上海话。但宁财神是闸北人，后来闸北也没有了，他还算不算是上海人这件事目前存疑。 当时我们闲坐扯淡，谈到某个人的时候，他突然来了一句：「那是个场面人。」听到这三个字，我就觉得如闻晨钟暮鼓，心头一时明亮了起来。刚刚北漂的我，看什么都觉得新鲜，看什么都觉得有趣，心里一股脑塞了很多感受，一时间又说不清楚。宁财神说出那三个字，我突然意识到自己去了很多场面，见了很多场面人，听了很多场面话。 多年之后，我遇见一本海明威的欧洲大陆回忆录，看到他用「流动的盛宴」来形容巴黎时，我脑海里立即蹦出一个书名：《北京---不眠的场面》。 此时我早已经远离了场面，从江湖里销声匿迹。但是场面里怎么可能缺少场面人呢？这件事的有趣之处在于视角，当我还混迹其中时，站在里面四下打量，我不觉得这是场面，也不觉得自己是场面人；等到我跑出一段距离，站在远处往回望，清清楚楚就是场面，来来往往都是场面人，我自己当年就是其中之一，土里土气的山里人正一头往圈子里扎。 场面人得随时在场，随时在场这件事很累人。要有风趣的谈吐，要有柔软的身段，要有善解人意的玲珑心，要有得体的姿态和灵活的站位，而",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "手腕悬空，真的会影响输入速度吗？",
+    "url": "https://mobius.blog/25071.html",
+    "date": "2026-07-14T03:33:44Z",
+    "description": "好久好久没有“本着越是无厘头的标题，聊越正经的话题”了。 关于标题这个问题，是我真的问过 ChatGPT 的问 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "集团翻译应用的交互优化与量化验证（下）",
+    "url": "https://lrd.im/blog/2026-07-14",
+    "date": "2026-07-14T00:00:00Z",
+    "description": "这篇文章将分享我在如何在 GSM 框架的驱动下优化外部语言槽位和对选择语言面板的易用性进行优化，并提供上线后数据对比。",
+    "source_root_domain": "lrd.im"
+  },
+  {
+    "title": "Memos #2026-07-13",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-07-14T00:00:00Z",
+    "description": "23:48 小小折腾了一下 Obsidian，这周一定要更一篇周记（半年记）了！！！",
+    "source_root_domain": "taober.blog"
+  }
+]
