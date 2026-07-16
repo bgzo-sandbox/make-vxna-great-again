@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-16 | [2026 年上半年](https://lachaise.xyz/2026/first-half/) | 一直想回顾一下今年上半年。总体的感觉是还算满意。 本地的日常社交几乎为零。唯一的线下社交是有段时间每隔两三周去参加一次一个朋友的咖啡馆里搞的 pub quiz。 因为有 Cineville 卡，隔一两周去看一次电影。但这并不是一种「社交关系」，只能算是一种「ambient 社交行为」，即与周围的人同… |
+| 2026-07-16 | [Memos: 记录当下基于 AI 御三家基础订阅的编程流程](https://blog.yasking.org/a/1784172494.html) | 其实目前只有两家。美国豆包现阶段不太适合参与日常编码任务，Gemini CLI 更是难用到让人怀疑它是否真的由 Google 出品。 让 Claude Code … |
 | 2026-07-16 | [阅片量的诅咒](https://www.hecaitou.com/2026/07/The-Curse-of-the-Cinephile.html) | 既然存在着「知识的诅咒」一说，为什么到现在都还没有出现「阅片量的诅咒」这个概念？突然说起这个话题，是因为《少林女足》的票房。 就在不久前，面对《给阿嬷的情书》的十几亿票房和豆瓣评分 9.3 ，大家的一致结论说：观众需要好电影，需要好故事，需要诚恳的创作态度。没过几天，《少林女足》来了，豆瓣评分 6… |
 | 2026-07-16 | [低质量协作的本质是逃避思考](https://blog.solazy.me/20260716/) | 今天继续聊一个职场话题 |
 | 2026-07-16 | [AI 时代下程序员的价值：一些可能会过时的个人思考](https://jt26wzz.com/posts/0017-the-value-of-programmers-in-the-ai-era/) | TL;DR：AI 让代码不再稀缺，但程序员的价值并没有消失，而是更多体现在判断力上：定义真正的问题、用正确的方式把事情做对，并确认结果在真实世界中有效运行。本文从 Zig 和 Godot 的 AI Ban、学徒制与缄默知识出发，聊聊为什么这些能力很难被完整写进文档或者完全放手给 AI。 |

@@ -1,5 +1,19 @@
 [
   {
+    "title": "2026 年上半年",
+    "url": "https://lachaise.xyz/2026/first-half/",
+    "date": "2026-07-16T18:00:00Z",
+    "description": "一直想回顾一下今年上半年。总体的感觉是还算满意。 本地的日常社交几乎为零。唯一的线下社交是有段时间每隔两三周去参加一次一个朋友的咖啡馆里搞的 pub quiz。 因为有 Cineville 卡，隔一两周去看一次电影。但这并不是一种「社交关系」，只能算是一种「ambient 社交行为」，即与周围的人同处一个空间，同时体验相同的感受，但各自并不会 acknowledge 对方的存在，更不会有互动。朋友从别的城市开车过来过来玩过几次，每次都吃吃喝喝还挺快乐。也去巴黎和赫尔辛基待了几天，谈了一些很重要的事情，也很快乐。 上半年决定再把法语拾起来，每周和法语老师 L 尬聊一小时。瑞典语的程度目前不知道怎么衡量，也在每周和瑞典语老师 J 尬聊一小时。但是 J 君是一边视频聊天，偶尔还一边做个咖啡，吃个面包，偶尔在文本聊天窗口里打下一些关键字，下课后复制粘贴发给我。而 L 君则是下课一两小时之后，聊天的话题整理一下，话题、表达方式、例句清楚地罗列下来。还是学法语的体验更好一点。 上半年花了很多时间做了四个项目。 第一个没有完成。一个是用 Elixir 做了一个 crypto 交易系统，使用的交易策略",
+    "source_root_domain": "lachaise.xyz"
+  },
+  {
+    "title": "Memos: 记录当下基于 AI 御三家基础订阅的编程流程",
+    "url": "https://blog.yasking.org/a/1784172494.html",
+    "date": "2026-07-16T08:14:00Z",
+    "description": "其实目前只有两家。美国豆包现阶段不太适合参与日常编码任务，Gemini CLI 更是难用到让人怀疑它是否真的由 Google 出品。 让 Claude Code …",
+    "source_root_domain": "yasking.org"
+  },
+  {
     "title": "阅片量的诅咒",
     "url": "https://www.hecaitou.com/2026/07/The-Curse-of-the-Cinephile.html",
     "date": "2026-07-16T03:36:01Z",
@@ -47,6 +61,13 @@
     "date": "2026-07-15T15:05:49Z",
     "description": "对于 Proxmox VE 上的 Windows 系统从 Windows 7 后系统性能下降明显，即使安装 V […] Proxmox VE 下 Windows 性能下降问题记录 最先出现在 Ghost_chu's Blog 。",
     "source_root_domain": "ghostchu.com"
+  },
+  {
+    "title": "人类如何利用超长上下文与 AI 协作",
+    "url": "https://zhangke.space/%e4%ba%ba%e7%b1%bb%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e8%b6%85%e9%95%bf%e4%b8%8a%e4%b8%8b%e6%96%87%e4%b8%8e-ai-%e5%8d%8f%e4%bd%9c/?utm_source=rss&utm_medium=rss&utm_campaign=%25e4%25ba%25ba%25e7%25b1%25bb%25e5%25a6%2582%25e4%25bd%2595%25e5%2588%25a9%25e7%2594%25a8%25e8%25b6%2585%25e9%2595%25bf%25e4%25b8%258a%25e4%25b8%258b%25e6%2596%2587%25e4%25b8%258e-ai-%25e5%258d%258f%25e4%25bd%259c",
+    "date": "2026-07-15T15:04:44Z",
+    "description": "时至今日，LLM 的发展仍然深受 Scaling Laws 的影响，OpenAI、Anthropic 每隔一段 […] The post 人类如何利用超长上下文与 AI 协作 first appeared on 张可的博客 .",
+    "source_root_domain": "zhangke.space"
   },
   {
     "title": "Docker部署Tailscale",
