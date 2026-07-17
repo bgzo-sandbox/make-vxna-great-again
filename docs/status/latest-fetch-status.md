@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-07-17T10:01:46Z
-modified: 2026-07-17T10:01:46Z
+created: 2026-07-17T11:27:08Z
+modified: 2026-07-17T11:27:08Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,7 +11,7 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-07-17T10:01:46Z
+Generated at: 2026-07-17T11:27:08Z
 
 Total sources: 485
 Successful: 364
@@ -110,7 +110,7 @@ Failed: 121
 | Failed | [#457] V2EX › Efan404 | [https://efan404.com/index.xml](https://efan404.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/457) | 0 | Client error '403 Forbidden' for url 'https://efan404.com/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#459] V2EX › Twisted Meadows | [https://www.twisted-meadows.com/feed/](https://www.twisted-meadows.com/feed/) | [Origin](https://www.v2ex.com/xna/s/459) | 0 | Client error '403 Forbidden' for url 'https://www.twisted-meadows.com/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#460] V2EX › Xiaojun Zhou | [https://www.xiaojun.im/feed](https://www.xiaojun.im/feed) | [Origin](https://www.v2ex.com/xna/s/460) | 0 | [Errno -2] Name or service not known |
-| Failed | [#464] V2EX › J 实验室 | [https://weijunext.com/rss.xml](https://weijunext.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/464) | 0 | Client error '404 Not Found' for url 'https://weijunext.com/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
+| Failed | [#464] V2EX › J 实验室 | [https://weijunext.com/rss.xml](https://weijunext.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/464) | 0 | timed out |
 | Failed | [#466] V2EX › 吴润写字的地方 | [https://wu.run/index.xml](https://wu.run/index.xml) | [Origin](https://www.v2ex.com/xna/s/466) | 0 | [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082) |
 | Failed | [#473] V2EX › iPen | [https://www.ipen.ink/rss](https://www.ipen.ink/rss) | [Origin](https://www.v2ex.com/xna/s/473) | 0 | [Errno -2] Name or service not known |
 | Failed | [#476] V2EX › 泽梦记 | [https://blog.100fails.com/rss.xml](https://blog.100fails.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/476) | 0 | [Errno -2] Name or service not known |
