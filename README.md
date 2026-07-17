@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-17 | [新疆伊犁 2](https://flandre-scarlet.moe/blog/2543/) | Day 2 今天的酒店也是有早餐的，所以也在酒店解决了，吃了点鸡蛋牛奶和糕点。然后去补充一下零食库存。 这边的... 阅读更多 |
 | 2026-07-17 | [社交关系里的“话筒”](https://mobius.blog/25098.html) | 在开始今天这个话题前，先来看两句话在同一个场景下会有怎样不同的感受：试想一下，现在是两个人在见面当下的第一句“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-17 | [Memos: Grok Build 可以试试](https://blog.yasking.org/a/1784287222.html) | 官网： https://x.ai/cli 登录后就能使用，免费用户也有一些额度，但是使用 /usage 命令需要升级付费？ 目前看可以作为 Review 代码的一个交 … |
 | 2026-07-17 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入“大竹林冬泳队”。 徐队、张队、熊队日常混迹于“大竹林冬泳基地”，“野人队”初具雏形。 11月 徐队、张队、熊队代表“大竹林冬泳队”第一次参加广阳岛冬泳比赛。 2025年… |
