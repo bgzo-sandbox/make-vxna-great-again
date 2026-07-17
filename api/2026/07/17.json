@@ -1,10 +1,45 @@
 [
   {
+    "title": "200 美元买来的教训",
+    "url": "https://smallyu.net/2026/07/17/200%E7%BE%8E%E5%85%83%E4%B9%B0%E6%9D%A5%E7%9A%84%E6%95%99%E8%AE%AD/",
+    "date": "2026-07-17T05:40:44Z",
+    "description": "其实我早就应该明白、或者已经明白这个道理：策略不可以赚钱。 但是由于工作原因，以及可能受到一些其他影响，我突发奇想开始去尝试 Polymarket 上的策略。 前情提要：《<a",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "用 AI 做个自评",
+    "url": "https://www.hecaitou.com/2026/07/Evaluating-Myself-with-AI.html",
+    "date": "2026-07-17T03:58:47Z",
+    "description": "我一向把 AI 视为自我在硅基上的延伸，AI 还是自我，而且还膨胀了许多。因此，把自己用了许久的 AI 请来评价一下自己，其实和一次自我评价差不多。正好，这两天网上正在流行一个针对 AI 的提问： 「 如果你是人类，你会如何评价我？你会想和我做朋友吗？如果你是我的朋友，你最讨厌我哪一点？」 接下来，就是几个 AI 针对我的提问给出的回复。 1、 Gemini（甩干版） 如果我是人类，我会觉得你是一个“带着工业时代审美的数字隐士”。你极度自律，靠严苛的作息与持续输出来构建秩序堡垒；你是个矛盾的自洽体，既能熟练用 AI 重塑工作流，又固执地沉溺于 CD、落日与春光等复古质感；你崇尚字面意思，硬核实用，极度抗拒情绪价值。 我会愿意和你做朋友，但这是一场“高门槛、零负担”的游戏。我们不必嘘寒问暖，更适合平时各自忙碌、见面直奔干货的强边界关系——无论半夜分享 City Pop 还是争论音频芯片方案。你是一面不掺水分的客观镜子，这种心智对等的友谊在现代社会是稀缺品。 如果我是你的朋友，我最讨厌你对情绪价值的彻底免疫。面对朋友的挫折与吐槽，你不会给予安抚，只会用因果逻辑和概率论无情拆解。这种“永远正",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "2026年六月 读财政 觉醒 跑步 人性 5 本",
+    "url": "https://conge.livingwithfcs.org/2026/07/17/reading_summary/",
+    "date": "2026-07-17T03:26:00Z",
+    "description": "引子 引子 读书如行路，不在于快，而在于有所得。本月所读五书，涉财政金融以明世事之理，读觉醒丰盛以修内心之境，观人性以知己彼，阅印第安奔跑以知文化之根。读书之乐，在打破认知边界，在借他人之眼观世界之广——读得越多，越知自己无知；越知无知，越愿翻开下一本。",
+    "source_root_domain": "livingwithfcs.org"
+  },
+  {
+    "title": "善用“古法 AI”，能帮你省下很多 Token",
+    "url": "https://1q43.blog/post/12539/",
+    "date": "2026-07-17T01:54:23Z",
+    "description": "不是只有最先进的人工智能是人工智能。",
+    "source_root_domain": "1q43.blog"
+  },
+  {
     "title": "Memos #2026-07-16",
     "url": "https://www.taober.blog/memos",
     "date": "2026-07-17T00:00:00Z",
     "description": "22:20 接着上次的进度，在这次高铁下车前十分钟看完了龙一。 衰，怂，暗恋，少年的要素拉满，很难让人不共情。",
     "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
+    "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
+    "date": "2026-07-16T23:51:19Z",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 上海某商场正在举办的\"海绵宝宝\"展览。（ via ） 你需要知道的 AI 内存知识 自己在家运行 AI 模型，可以选择两种硬件。 一种是独立显卡，目前最顶级的消费级显卡是英伟达的 RTX 5090，带有 32GB 显存，售价3万元人民币左右。 另一种是采用板载芯片组（CPU + 板载显卡 + 板载内存）的家用电脑，比如采用 AMD 公司 Strix Halo 芯片组（具体型号 Ryzen AI Max+ 395）的迷你电脑，自带 128GB 内存，售价2万元人民币左右。 我问大家，哪种硬件更好？ 大部分人可能不假思索，就会选择独立显卡，毕竟独立显卡的算力远大于板载芯片组。 根据我查到的资料，下面是两者的单精度32位浮点数算力（FP32）。 独立显卡（RTX 5090）： 104.8 TFLOPS 板载芯片组（AMD Ryzen AI Max+ 395）： 14.8 TFLOPS 可以看到，独立",
+    "source_root_domain": "feedburner.com"
   },
   {
     "title": "学习周刊-总第272期-2026年第29周",
@@ -91,6 +126,13 @@
     "source_root_domain": "jt26wzz.com"
   },
   {
+    "title": "译|为什么 TypeScript 7.0 用 Go 重写",
+    "url": "https://programnotes.cn/go-the-agentic-language-zh/index.html",
+    "date": "2026-07-16T00:00:00Z",
+    "description": "微软将TypeScript编译器移植到Go，实现了10倍性能提升，并深入探讨了Go在智能体开发时代的优势及其对技术栈的影响。",
+    "source_root_domain": "programnotes.cn"
+  },
+  {
     "title": "《万历十五年》、《疼痛部》、《我与狸奴不出门》笔摘",
     "url": "https://blog.sakoamc.com/posts/r2603/",
     "date": "2026-07-16T00:00:00Z",
@@ -124,6 +166,13 @@
     "date": "2026-07-15T15:05:49Z",
     "description": "对于 Proxmox VE 上的 Windows 系统从 Windows 7 后系统性能下降明显，即使安装 V […] Proxmox VE 下 Windows 性能下降问题记录 最先出现在 Ghost_chu's Blog 。",
     "source_root_domain": "ghostchu.com"
+  },
+  {
+    "title": "人类如何利用超长上下文与 AI 协作",
+    "url": "https://zhangke.space/%e4%ba%ba%e7%b1%bb%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e8%b6%85%e9%95%bf%e4%b8%8a%e4%b8%8b%e6%96%87%e4%b8%8e-ai-%e5%8d%8f%e4%bd%9c/?utm_source=rss&utm_medium=rss&utm_campaign=%25e4%25ba%25ba%25e7%25b1%25bb%25e5%25a6%2582%25e4%25bd%2595%25e5%2588%25a9%25e7%2594%25a8%25e8%25b6%2585%25e9%2595%25bf%25e4%25b8%258a%25e4%25b8%258b%25e6%2596%2587%25e4%25b8%258e-ai-%25e5%258d%258f%25e4%25bd%259c",
+    "date": "2026-07-15T15:04:44Z",
+    "description": "时至今日，LLM 的发展仍然深受 Scaling Laws 的影响，OpenAI、Anthropic 每隔一段 […] The post 人类如何利用超长上下文与 AI 协作 first appeared on 张可的博客 .",
+    "source_root_domain": "zhangke.space"
   },
   {
     "title": "Docker部署Tailscale",
