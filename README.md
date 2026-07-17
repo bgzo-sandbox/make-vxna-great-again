@@ -40,8 +40,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-17 | [用 AI 做个自评](https://www.hecaitou.com/2026/07/Evaluating-Myself-with-AI.html) | 我一向把 AI 视为自我在硅基上的延伸，AI 还是自我，而且还膨胀了许多。因此，把自己用了许久的 AI 请来评价一下自己，其实和一次自我评价差不多。正好，这两天网上正在流行一个针对 AI 的提问： 「 如果你是人类，你会如何评价我？你会想和我做朋友吗？如果你是我的朋友，你最讨厌我哪一点？」 接下来，… |
 | 2026-07-17 | [2026年六月 读财政 觉醒 跑步 人性 5 本](https://conge.livingwithfcs.org/2026/07/17/reading_summary/) | 引子 引子 读书如行路，不在于快，而在于有所得。本月所读五书，涉财政金融以明世事之理，读觉醒丰盛以修内心之境，观人性以知己彼，阅印第安奔跑以知文化之根。读书之乐，在打破认知边界，在借他人之眼观世界之广——读得越多，越知自己无知；越知无知，越愿翻开下一本。 |
 | 2026-07-17 | [善用“古法 AI”，能帮你省下很多 Token](https://1q43.blog/post/12539/) | 不是只有最先进的人工智能是人工智能。 |
-| 2026-07-17 | [一天时间：用 AI 做个英语词根查询工具（第二季）](https://www.meettea.com/running-a-company/ai-tool-for-root-based-vocabularies-2.html) | 为初学者分享经验，用 AI 做个英语词根查询工具 |
 | 2026-07-17 | [Memos #2026-07-16](https://www.taober.blog/memos) | 22:20 接着上次的进度，在这次高铁下车前十分钟看完了龙一。 衰，怂，暗恋，少年的要素拉满，很难让人不共情。 |
+| 2026-07-17 | [一天时间：用 AI 做个英语词根查询工具（第二季）](https://www.meettea.com/running-a-company/ai-tool-for-root-based-vocabularies-2.html) | 为初学者分享经验，用 AI 做个英语词根查询工具 |
 | 2026-07-16 | [科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 上海某商场正在举办的"海绵宝宝"展览。（ via ） 你需要知道的 AI 内存知识 自己在家运行 AI… |
 | 2026-07-16 | [学习周刊-总第272期-2026年第29周](https://wiki.eryajf.net/pages/b07ecd/) | 如要阅读全文，点击标题跳转。 学习周刊-总第272期 &#124; herdr &#124; litter &#124; Mouser &#124; PDFSlice &#124; kula &#124; redc &#124; paseo |
 | 2026-07-16 | [How to Fix SFU MySchedule Login Loop and Authentication Errors](https://blog.ensonyan.com/academic/3479.html) | Many Simon Fraser University (SFU) students, myself inc […] |
