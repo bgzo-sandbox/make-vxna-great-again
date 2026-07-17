@@ -126,6 +126,13 @@
     "source_root_domain": "ensonyan.com"
   },
   {
+    "title": "国债逆回购自动下单：券商功能还是自己用 QMT？",
+    "url": "https://corvo.myseu.cn/2026/07/16/2026-07-15-%E5%9B%BD%E5%80%BA%E9%80%86%E5%9B%9E%E8%B4%AD%E8%87%AA%E5%8A%A8%E4%B8%8B%E5%8D%95/",
+    "date": "2026-07-16T20:30:00Z",
+    "description": "这篇文章记录我为什么没有直接使用券商自带的国债逆回购自动下单功能，而是用 QMT 和 Python 自己做自动化。核心原因很简单：如果每天用 10 万元做一天期逆回购，部分券商自动功能一年可能要多付 480 到 600 元服务费。",
+    "source_root_domain": "myseu.cn"
+  },
+  {
     "title": "挪威西部峡湾徒步之旅",
     "url": "https://eduardoqian.com/archives/nuo-wei-xi-bu-xia-wan-tu-bu-zhi-lu",
     "date": "2026-07-16T20:08:00Z",
