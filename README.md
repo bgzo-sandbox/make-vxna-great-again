@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-18 | [低成本国行 iPhone 使用 eSIM 漫游流量](https://depp.wang/2026/esim-iphone/) | 最近 Shadowrocket 出了 Tailscale 功能，解决了因为 iPhone 只能开启一个 VPN，Shadowrocket 与 Tailscale 不能同时开启的问题。但使用下来发现 Shadowrocket 的耗电量还是挺高的。 因为手机大部分时间都连 Wifi，本身使用流量不多，所… |
+| 2026-07-18 | [为什么 Github OAuth 故意拦截 CORS](https://blog.est.im/2026/stdout-29) | 跟AI发闹骚学到的 https://github.com/isaacs/github/issues/330 Allowing CORS for the endpoint you mentioned would mean that you could complete this step of the… |
 | 2026-07-18 | [新疆伊犁 5](https://flandre-scarlet.moe/blog/2581/) | Day 5 早上起床，发现喉咙没昨天那么疼了，症状有所缓解。因为住的民宿就在特克斯的八卦城内，周边正好是步行街... 阅读更多 |
 | 2026-07-18 | [新疆伊犁 4](https://flandre-scarlet.moe/blog/2569/) | Day 4 今天出发前往特克斯县，途经伊昭公路。 该来的还是来了，之前提到零食有鸣的西梅汁，这才没喝几口呢，结... 阅读更多 |
 | 2026-07-18 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 ※ “野人队”永远是“泳往直前”的好朋友，永远欢迎“野人队”的成员随时加入“泳往直前”。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入“大竹林冬泳队”。 徐队、张队、熊队日常于“大竹林冬泳基地”进行户外游泳，队伍初… |
