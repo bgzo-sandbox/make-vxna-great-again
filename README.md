@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-18 | [Memos #2026-07-17](https://www.taober.blog/memos) | 15:28 随着对接的团队/事项越来越多，问题就像雪花一般扩散... |
 | 2026-07-17 | [新疆伊犁 2](https://flandre-scarlet.moe/blog/2543/) | Day 2 今天的酒店也是有早餐的，所以也在酒店解决了，吃了点鸡蛋牛奶和糕点。然后去补充一下零食库存。 这边的... 阅读更多 |
 | 2026-07-17 | [社交关系里的“话筒”](https://mobius.blog/25098.html) | 在开始今天这个话题前，先来看两句话在同一个场景下会有怎样不同的感受：试想一下，现在是两个人在见面当下的第一句“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-17 | [Memos: Grok Build 可以试试](https://blog.yasking.org/a/1784287222.html) | 官网： https://x.ai/cli 登录后就能使用，免费用户也有一些额度，但是使用 /usage 命令需要升级付费？ 目前看可以作为 Review 代码的一个交 … |
@@ -41,7 +42,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-17 | [用 AI 做个自评](https://www.hecaitou.com/2026/07/Evaluating-Myself-with-AI.html) | 我一向把 AI 视为自我在硅基上的延伸，AI 还是自我，而且还膨胀了许多。因此，把自己用了许久的 AI 请来评价一下自己，其实和一次自我评价差不多。正好，这两天网上正在流行一个针对 AI 的提问： 「 如果你是人类，你会如何评价我？你会想和我做朋友吗？如果你是我的朋友，你最讨厌我哪一点？」 接下来，… |
 | 2026-07-17 | [2026年六月 读财政 觉醒 跑步 人性 5 本](https://conge.livingwithfcs.org/2026/07/17/reading_summary/) | 引子 引子 读书如行路，不在于快，而在于有所得。本月所读五书，涉财政金融以明世事之理，读觉醒丰盛以修内心之境，观人性以知己彼，阅印第安奔跑以知文化之根。读书之乐，在打破认知边界，在借他人之眼观世界之广——读得越多，越知自己无知；越知无知，越愿翻开下一本。 |
 | 2026-07-17 | [善用“古法 AI”，能帮你省下很多 Token](https://1q43.blog/post/12539/) | 不是只有最先进的人工智能是人工智能。 |
-| 2026-07-17 | [Memos #2026-07-16](https://www.taober.blog/memos) | 22:20 接着上次的进度，在这次高铁下车前十分钟看完了龙一。 衰，怂，暗恋，少年的要素拉满，很难让人不共情。 |
 | 2026-07-17 | [一天时间：用 AI 做个英语词根查询工具（第二季）](https://www.meettea.com/running-a-company/ai-tool-for-root-based-vocabularies-2.html) | 为初学者分享经验，用 AI 做个英语词根查询工具 |
 | 2026-07-16 | [科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 上海某商场正在举办的"海绵宝宝"展览。（ via ） 你需要知道的 AI 内存知识 自己在家运行 AI… |
 | 2026-07-16 | [学习周刊-总第272期-2026年第29周](https://wiki.eryajf.net/pages/b07ecd/) | 如要阅读全文，点击标题跳转。 学习周刊-总第272期 &#124; herdr &#124; litter &#124; Mouser &#124; PDFSlice &#124; kula &#124; redc &#124; paseo |
@@ -139,29 +139,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-11 | [我全栈开发的第一个产品：Balanced Portfolio 多资产风险平价全天候策略回测系统](https://prologue.dev/blog/my-first-full-stack-development-project-balanced-portfolio-a-global-multi-asset-risk-parity-backtesting-system) | 关于笔者第一次全栈开发金融产品，将风险平价策略回测系统、股指期货数据看板、场外衍生品定价模块做成开箱即用、可交互、可视化的Web端产品。 |
 | 2026-07-11 | [Python 潮流周刊#158：frozendict 内置类型](https://pythoncat.top/posts/2026-07-11-weekly/) | 分享了 11 篇文章，12 个开源项目 |
 | 2026-07-11 | [2026年第28周](https://blog.sakoamc.com/posts/2628/) | 题记：二零二六年的第二十八周，年已过半，日复一日，往复循环。 |
-| 2026-07-10 | [吐司面包烘焙](http://www.uncoverman.com/toast-baking.html) | 台风天，在家闲来无事，心血来潮想做吐司。起心动念，大概是我关注的一位热爱下厨的大佬 zhuyi 很享受自己做面包，经常在微博上晒面包。 由于是第一次，选了小红书上最简易的 教程 。这个教程的好处在于，没有看不懂的术语，也不用 30+ 的步骤，简单来说就是 3 步：混合、发酵、烘焙。 0. 材料准备… |
-| 2026-07-10 | [摘：《见证疯狂》](https://z.arlmy.me/posts/Note/Note_MikeJay_ThisWayMadnessLiesTheAsylumAndBeyond/) | 「疯人非疯。」 |
-| 2026-07-10 | [DeOldify：旧照片上色 懒人整合包](https://dsx2016.com/colorizing-old-photos-with-deoldify/) | DeOldify：基于深度学习的黑白照片与老电影自动上色神器 DeOldify 是一个基于深度学习的... DeOldify：旧照片上色 懒人整合包 最先出现在 大师兄2016 。 |
-| 2026-07-10 | [GFPGAN：开源人脸修复与增强 懒人整合包](https://dsx2016.com/gfpgan-open-source-face-restoration-and-enhancement/) | GFPGAN：开源人脸修复与增强 AI 模型 GFPGAN（Generative Facial Prior G... GFPGAN：开源人脸修复与增强 懒人整合包 最先出现在 大师兄2016 。 |
-| 2026-07-10 | [【好物分享】 小林制药 一滴消臭元](https://7gugu.com/index.php/2026/07/10/%e3%80%90%e5%a5%bd%e7%89%a9%e5%88%86%e4%ba%ab%e3%80%91-%e5%b0%8f%e6%9e%97%e5%88%b6%e8%8d%af-%e4%b8%80%e6%bb%b4%e6%b6%88%e8%87%ad%e5%85%83/) | 序 这个东西纯粹是在Youtube Shorts上偶然刷到的。之前一直在刷日本有啥好物可以买，偶然看到了这个小 … 继续阅读 “【好物分享】 小林制药 一滴消臭元” |
-| 2026-07-10 | [拧巴的人](https://blog.solazy.me/20260710/) | 今天说一个和自洽相关的话题 |
-| 2026-07-10 | [即使是 Single-User 也遇到 FATAL: “timescaledb” already loaded with a different version 报错的解决方式记录](https://www.ghostchu.com/%e5%8d%b3%e4%bd%bf%e6%98%af-single-user-%e4%b9%9f%e9%81%87%e5%88%b0-fatal-timescaledb-already-loaded-with-a-different-version-%e6%8a%a5%e9%94%99%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e5%bc%8f/) | 今天例行为服务器上的 PostgreSQL 及其扩展升级时，在操作 timescaledb 扩展时遇到了一个奇 […] 即使是 Single-User 也遇到 FATAL: “timescaledb” already loaded with a different version 报错的解决方式记录… |
-| 2026-07-10 | [Real-ESRGAN：经典开源 AI 图像与视频超分辨率 懒人整合包](https://dsx2016.com/real-esrgan-classic-open-source-ai-for-image-and-video-super-resolution/) | Real-ESRGAN：经典开源 AI 图像与视频超分辨率修复引擎 Real-ESRGAN 是一个基... Real-ESRGAN：经典开源 AI 图像与视频超分辨率 懒人整合包 最先出现在 大师兄2016 。 |
-| 2026-07-10 | [宝塔完全卸载Docker](https://foglog.cn/p/bt-uninstall-docker) | 注意：不要直接 rm -rf /www/server/panel，那是卸载宝塔面板本身。步骤一：通过宝塔面板停止并删除 Docker 服务步骤二：手动清理残留即使通过宝塔卸载，有时仍可能残留一些... |
-| 2026-07-10 | [Marker：高质量 PDF 转 Markdown 懒人整合包](https://dsx2016.com/marker-high-quality-pdf-to-markdown-conversion/) | Marker：高质量 PDF 转 Markdown 的开源神器 Marker 是一个开源的文档转换工... Marker：高质量 PDF 转 Markdown 懒人整合包 最先出现在 大师兄2016 。 |
-| 2026-07-10 | [做 Polymarket 项目踩的坑](https://smallyu.net/2026/07/10/%E5%81%9APolymarket%E9%A1%B9%E7%9B%AE%E8%B8%A9%E7%9A%84%E5%9D%91/) | 钱包设施的选择 现在做 Crypto 方向的项目，一般会选择 <a |
-| 2026-07-10 | [流量阴谋论](https://www.geedea.pro/article/clout-conspiracy-theory/) | 笔者厌人症发作时会试图理解人类的行事逻辑，尽管大多数人做事没有逻辑，但至少能找到背后的动因，而动因往往是丑陋的。幸好我生活在 审丑 的现代社会中。上次更新《人类观察日志》系列，竟然是去年，我今年对人类的兴趣骤减，大多数时间都在阅读哲学、文学，享受探索新技术的智识体验。不过我想，我的确需要重新开始思考… |
-| 2026-07-10 | [Tesseract OCR：经典开源离线文字识别引擎 懒人整合包](https://dsx2016.com/tesseract-ocr-classic-open-source-offline-text-recognition/) | Tesseract OCR：经典开源离线文字识别引擎 Tesseract OCR 是一个开源的光学字... Tesseract OCR：经典开源离线文字识别引擎 懒人整合包 最先出现在 大师兄2016 。 |
-| 2026-07-10 | [RapidOCR cpu可用 懒人整合包](https://dsx2016.com/rapidocr-is-compatible-with-cpu/) | RapidOCR：轻量、高速、跨平台的开源 OCR 引擎 RapidOCR 是由 RapidAI 社... RapidOCR cpu可用 懒人整合包 最先出现在 大师兄2016 。 |
-| 2026-07-10 | [Memos: 使用 rtk-ai/rtk 一个多月后的统计](https://blog.yasking.org/a/1783675324.html) | 10000+ 自动工具调用，节省 3770 万 Token，效果喜人。 最初是一个多月前发的 Memos： 推荐安装 Codegraph 和 rtk 减少 Token 消耗 后开始使用，再推荐下 Codegraph，很 … |
-| 2026-07-10 | [Memos: 大意了！1.5x2.0 米的床](https://blog.yasking.org/a/1783672287.html) | 老家房子出租出去，前几天租客跟我说次卧床垫子塌陷，翻个面用过段时间还是塌。 我就计划在闲鱼淘一个二手床垫，床是 … |
-| 2026-07-10 | [学习周刊-总第271期-2026年第28周](https://wiki.eryajf.net/pages/87cbc1/) | 如要阅读全文，点击标题跳转。 学习周刊-总第271期 &#124; TaskTick &#124; FluxMonitor &#124; Clawith &#124; DeepSeek-GUI &#124; plain-app &#124; EasyAIConfig &#124; eve |
-| 2026-07-10 | [On Children](https://www.kawabangga.com/posts/7328) | by Kahlil Gibran Your children are not your children.Th […] Continue reading... |
-| 2026-07-10 | [抛弃糟糠妻与剑斩意中人](https://www.hecaitou.com/2026/07/abandoning-wife-of-adversity-slaying-beloved.html) | 其实这几年我一直没弄懂中文互联网上的一句流行语：上岸第一剑，先斩意中人。怎么读，觉得怎么就有那么怪。 昨天我在网上看到了一条解释，说是讨论这种表述背后的人心人性都是想多了，不如先考虑一下基本的中文素养问题。讲这句话的人明显无法在中文语义上分辨「糟糠妻」和「意中人」的巨大差异，认为它们就是一回事。 以… |
-| 2026-07-10 | [公开目标，可能会让人更难开始](https://mobius.blog/25028.html) | 最近的博客几乎都是我在“当下”引发的极其“当下”的思考，不是为了偷懒，是因为我在陆续推进小说初稿时，实在没力气 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-10 | [iostat + iotop 搞定磁盘 IO 故障](https://199604.com/3594) | iostat + iotop 搞定磁盘 IO 故障 核心思路：先用 iostat 定位“哪块盘”有瓶颈，再用 […] |
-| 2026-07-10 | [科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 贵州修文县的"穹岛·天坑咖啡"，咖啡店建在巨大的溶洞之中。（ via ） 为什么 Dropbox 不成功… |
-| 2026-07-10 | [培训旅行](https://zhangdd.tech/%E5%9F%B9%E8%AE%AD%E6%97%85%E8%A1%8C/) | 公司外派接收保密培训，地点是大连，趁着天气、位置合适，带着孩子一起。 海之韵公园 <img |
 
 ## Vibe Coding
 
