@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-18 | [新疆伊犁 7](https://flandre-scarlet.moe/blog/2609/) | Day 7 惯例十一点左右起床，出门前往新源县的开元美食广场找吃的。午饭吃了菠萝黄牛肉和疙瘩汤，原以为是面疙瘩... 阅读更多 |
 | 2026-07-18 | [新疆伊犁 6](https://flandre-scarlet.moe/blog/2594/) | Day 6 雨天的库尔得宁。 中午先去巩留的店里吃纳仁。纳仁是类似于牛肉或马肉作为浇头的面食。马肉我感觉说不上... 阅读更多 |
 | 2026-07-18 | [低成本实现国行 iPhone 使用 eSIM 漫游流量](https://depp.wang/2026/esim-iphone/) | 最近 Shadowrocket 出了 Tailscale 功能，解决了因为 iPhone 只能开启一个 VPN，Shadowrocket 与 Tailscale 不能同时开启的问题。但使用下来发现 Shadowrocket 的耗电量还是挺高的。 因为手机大部分时间都连 Wifi，本身使用流量不多，所… |
 | 2026-07-18 | [为什么 Github OAuth 故意拦截 CORS](https://blog.est.im/2026/stdout-29) | 跟AI发闹骚学到的 https://github.com/isaacs/github/issues/330 Allowing CORS for the endpoint you mentioned would mean that you could complete this step of the… |
