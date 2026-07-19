@@ -27,9 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-19 | [学习适应湿润的北京](https://www.hecaitou.com/2026/07/Adapting-to-a-Humid-Beijing.html) | 剧烈的气象变化很常见，但是像北京这样剧烈的气候变化却很少见。这已经是连续第二年还是第三年了，北京夏季变得雨水丰沛，空气湿润，感觉上完全是一座南方城市。 一直都是南方城市根本没问题，最怕一下子突变成南方气候，日常生活中怕是会出现一些麻烦，因为过往的生活方式根本就没有考虑到潮湿多雨这件事。 举一个最简单… |
+| 2026-07-19 | [Toots 428 2026 Jul.12 - Jul.18](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260718/) | 「你是自由的。」 |
+| 2026-07-19 | [学会用擅长的事让自己偷懒](https://mobius.blog/25103.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-19 | [Memos #2026-07-18](https://www.taober.blog/memos) | 16:49 魔鬼训练 20:55 我服了，卡死连续重启了四次，凶手找到了... |
 | 2026-07-18 | [新疆伊犁 7](https://flandre-scarlet.moe/blog/2609/) | Day 7 惯例十一点左右起床，出门前往新源县的开元美食广场找吃的。午饭吃了菠萝黄牛肉和疙瘩汤，原以为是面疙瘩... 阅读更多 |
 | 2026-07-18 | [新疆伊犁 6](https://flandre-scarlet.moe/blog/2594/) | Day 6 雨天的库尔得宁。 中午先去巩留的店里吃纳仁。纳仁是类似于牛肉或马肉作为浇头的面食。马肉我感觉说不上... 阅读更多 |
+| 2026-07-18 | [那些无所不能的幻觉](https://blog.solazy.me/20260718/) | 今天想聊聊那些自以为是，缺少敬畏之心的人 |
 | 2026-07-18 | [低成本实现国行 iPhone 使用 eSIM 漫游流量](https://depp.wang/2026/esim-iphone/) | 最近 Shadowrocket 出了 Tailscale 功能，解决了因为 iPhone 只能开启一个 VPN，Shadowrocket 与 Tailscale 不能同时开启的问题。但使用下来发现 Shadowrocket 的耗电量还是挺高的。 因为手机大部分时间都连 Wifi，本身使用流量不多，所… |
 | 2026-07-18 | [为什么 Github OAuth 故意拦截 CORS](https://blog.est.im/2026/stdout-29) | 跟AI发闹骚学到的 https://github.com/isaacs/github/issues/330 Allowing CORS for the endpoint you mentioned would mean that you could complete this step of the… |
 | 2026-07-18 | [新疆伊犁 5](https://flandre-scarlet.moe/blog/2581/) | Day 5 早上起床，发现喉咙没昨天那么疼了，症状有所缓解。因为住的民宿就在特克斯的八卦城内，周边正好是步行街... 阅读更多 |
@@ -39,6 +43,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-18 | [为什么从左到右是前进](https://www.hecaitou.com/2026/07/Why-Left-to-Right-Means-Moving-Forward.html) | 昨天和朋友讨论了一个有趣的小问题：为什么在银幕上，人物总是从画面左侧进入，然后向右跑？也就是说，人类的默认运动方向是从左向右？朋友给出的解释是写字的时候，全球大部分地区都是从左向右书写，然后就成为了一种默认的共识。 我看了觉得有点不服，既然是讨论银幕上的运动，那么是不是可以参考剧场？剧场的舞台一边有… |
 | 2026-07-18 | [Python 潮流周刊#159：Python 3.15 预览](https://pythoncat.top/posts/2026-07-18-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-07-17 | [新疆伊犁 2](https://flandre-scarlet.moe/blog/2543/) | Day 2 今天的酒店也是有早餐的，所以也在酒店解决了，吃了点鸡蛋牛奶和糕点。然后去补充一下零食库存。 这边的... 阅读更多 |
+| 2026-07-17 | [当技术被平权，基本功反而最贵](https://blog.solazy.me/20260717/) | 今天聊聊 AI 时代下的基本功 |
 | 2026-07-17 | [社交关系里的“话筒”](https://mobius.blog/25098.html) | 在开始今天这个话题前，先来看两句话在同一个场景下会有怎样不同的感受：试想一下，现在是两个人在见面当下的第一句“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-17 | [Memos: Grok Build 可以试试](https://blog.yasking.org/a/1784287222.html) | 官网： https://x.ai/cli 登录后就能使用，免费用户也有一些额度，但是使用 /usage 命令需要升级付费？ 目前看可以作为 Review 代码的一个交 … |
 | 2026-07-17 | [Memos: 谁不想用自己媳妇儿的形象做个电子 “Pet” 呢](https://blog.yasking.org/a/1784285031.html) | ChatGPT 前两天不是出了 Work 模式，今天用网页版也提示我切换 Work 模式体验。 跳转后提示我可以创建自己的专属 Pet，倒很简单，上传 … |
