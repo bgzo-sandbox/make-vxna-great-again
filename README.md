@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-19 | [「AI 说」卡珊德拉和祥林嫂：真话者的悲剧](https://www.wdssmq.com/post/20141223155.html) | 本文 AI 含量：99.9% 将“卡珊德拉情节”与祥林嫂联系起来，是一个非常深刻且极具悲剧张力的文学与心理学视角。两者确实有着本质的精神共鸣，但也存在着决定性的分野。 我们可以从 三重维度 来剖析这种联系： 1. 核心共鸣：真话者的“被放逐” 无论是卡珊德拉还是祥林嫂，她们都处于一种 “话语权失效”… |
+| 2026-07-19 | [小象超市鮮啤簡評](https://taxodium.ink/xiaoxiang-supermarket-fresh-beer-review.html) | 小象超市鮮啤簡評 夏天喝天冰啤酒是對我來說是件快樂的事情，相比可樂，啤酒也有綿密的汽泡，但沒有可樂那麼甜，可樂喝多了牙齒會有些不舒服，啤酒就不會；相比蘇打水，啤酒的風味會更多些；而白酒我喝不來，現在還是沒法品味白酒，高濃度的酒精味道太大了。汽泡足、有風味、酒精度不高、喝完有微醺感的啤酒是我夏日里比較… |
+| 2026-07-19 | [60天，AI 帮我做了一款恋爱游戏](https://www.icebeer.top/60%e5%a4%a9%ef%bc%8cai-%e5%b8%ae%e6%88%91%e5%81%9a%e4%ba%86%e4%b8%80%e6%ac%be%e6%81%8b%e7%88%b1%e6%b8%b8%e6%88%8f/) | 本期邀请到了曾源琛，今年他用了60天时间，依靠 Vibe Coding 完成了一款恋爱游戏，这已经是他用 AI […] 60天，AI 帮我做了一款恋爱游戏 最先出现在 🍺 IceBeer 。 |
 | 2026-07-19 | [NAS服务器系统迁移回Debian 13](https://eduardoqian.com/archives/nasfu-wu-qi-xi-tong-qian-yi-hui-debian-13) | 在前段时间在挪威旅游的时候，闲暇时刻就考虑将个人的NAS更换个系统，主要是之前用飞牛的时候，主要考虑的是NAS功能，也就是看下载同步的电影/电视剧/视频等局域网观看。但是在实际用了一段时间后，发现了几个问题： 我个人有些没时间看存到本地的视频了，这些本地视频很难说我是要看，还是纯粹的赛博仓鼠症。 飞 |
 | 2026-07-19 | [新疆伊犁 10](https://flandre-scarlet.moe/blog/2653/) | Day 10 昨天三点多才到酒店，早上也是十一点多才起来。听老板的建议，在出门后的小巷子里找到一家本地餐馆，吃... 阅读更多 |
 | 2026-07-19 | [便携路由从选择到放弃](https://jaksay.com/posts/portable-router-from-selection-to-abandonment) | 从选择到放弃，从购买到手搓 |
