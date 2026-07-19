@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Memos #2026-07-18",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-07-19T00:00:00Z",
+    "description": "16:49 魔鬼训练 20:55 我服了，卡死连续重启了四次，凶手找到了...",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "新疆伊犁 7",
+    "url": "https://flandre-scarlet.moe/blog/2609/",
+    "date": "2026-07-18T19:11:50Z",
+    "description": "Day 7 惯例十一点左右起床，出门前往新源县的开元美食广场找吃的。午饭吃了菠萝黄牛肉和疙瘩汤，原以为是面疙瘩... 阅读更多",
+    "source_root_domain": "flandre-scarlet.moe"
+  },
+  {
+    "title": "新疆伊犁 6",
+    "url": "https://flandre-scarlet.moe/blog/2594/",
+    "date": "2026-07-18T17:20:20Z",
+    "description": "Day 6 雨天的库尔得宁。 中午先去巩留的店里吃纳仁。纳仁是类似于牛肉或马肉作为浇头的面食。马肉我感觉说不上... 阅读更多",
+    "source_root_domain": "flandre-scarlet.moe"
+  },
+  {
+    "title": "低成本实现国行 iPhone 使用 eSIM 漫游流量",
+    "url": "https://depp.wang/2026/esim-iphone/",
+    "date": "2026-07-18T12:47:36Z",
+    "description": "最近 Shadowrocket 出了 Tailscale 功能，解决了因为 iPhone 只能开启一个 VPN，Shadowrocket 与 Tailscale 不能同时开启的问题。但使用下来发现 Shadowrocket 的耗电量还是挺高的。 因为手机大部分时间都连 Wifi，本身使用流量不多，所以还是保留 eSIM 漫游流量 + Tailscale 的使用方式。 eSIM 漫游流量简单来说就是让外国人来中国用的漫游流量，可以访问国外服务。 正常国行 iPhone 只有实体卡，不支持 eSIM，可以通过 9eSIM 之类的品牌实体卡实现 eSIM 卡写入实体卡。 现在也有更低成本的小白卡可以实现。 来说下我的折腾过程。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "为什么 Github OAuth 故意拦截 CORS",
+    "url": "https://blog.est.im/2026/stdout-29",
+    "date": "2026-07-18T11:32:00Z",
+    "description": "跟AI发闹骚学到的 https://github.com/isaacs/github/issues/330 Allowing CORS for the endpoint you mentioned would mean that you could complete this step of the Web flow from a browser: And this would mean that you're hard-coding your clientid and clientsecret into a webpage (or JS file loaded into that webpage) for everyone to see. This would indeed cause security concerns since the clientsecret should be kept secret. If someone got hold of your clientid and clientsecret, they could impersonate you appli",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "新疆伊犁 5",
+    "url": "https://flandre-scarlet.moe/blog/2581/",
+    "date": "2026-07-18T10:21:58Z",
+    "description": "Day 5 早上起床，发现喉咙没昨天那么疼了，症状有所缓解。因为住的民宿就在特克斯的八卦城内，周边正好是步行街... 阅读更多",
+    "source_root_domain": "flandre-scarlet.moe"
+  },
+  {
+    "title": "新疆伊犁 4",
+    "url": "https://flandre-scarlet.moe/blog/2569/",
+    "date": "2026-07-18T08:22:30Z",
+    "description": "Day 4 今天出发前往特克斯县，途经伊昭公路。 该来的还是来了，之前提到零食有鸣的西梅汁，这才没喝几口呢，结... 阅读更多",
+    "source_root_domain": "flandre-scarlet.moe"
+  },
+  {
+    "title": "野人编年史",
+    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
+    "date": "2026-07-18T07:25:29Z",
+    "description": "野人编年史 ※ “野人队”永远是“泳往直前”的好朋友，永远欢迎“野人队”的成员随时加入“泳往直前”。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入“大竹林冬泳队”。 徐队、张队、熊队日常于“大竹林冬泳基地”进行户外游泳，队伍初具雏形，并开始尝试冬泳。 11月 徐队、张队、熊队代表“大竹林冬泳队”第一次参加广阳岛冬泳比赛。 12月 徐队、张队坚持冬泳，被亮队唤作“野人”，“野人队”队名初具雏形[ 1 ]。 2025年 1月 亮队正式加入，创始人集齐，正式成立“重庆野人冬泳俱乐部”。 2月 制作野人队旗、野人队服、野人泳帽等物料[ 1 ]，同时注册小红书官号： @重庆野人冬泳俱乐部 。 3月 “野人冬泳俱乐部”在大竹林冬泳基地拯救受伤白鹭一只[ 1 ]。 徐队横渡长江，探寻千年摩崖石刻。一路险情不断：先追尾公交车，后又肉身硬刚长江万吨巨轮[ 1 ]。 4月 成立“野人CLUB摩托事业部”[ 1 ]。 5月 徐队夜闯梁沱遇险，被困两江交汇处难以脱身，且跟屁虫不断漏气惊险万分。幸得亮队及时报警，被119救起。 6月 徐队",
+    "source_root_domain": "zhanglintc.co"
+  },
+  {
+    "title": "新疆伊犁 3",
+    "url": "https://flandre-scarlet.moe/blog/2556/",
+    "date": "2026-07-18T07:02:42Z",
+    "description": "Day 3 今天就呆在伊宁了，市区逛逛。酒店老板给我们推荐了当地的一把抓，也就是我们口中的烤包子，当地人一般叫... 阅读更多",
+    "source_root_domain": "flandre-scarlet.moe"
+  },
+  {
+    "title": "为什么从左到右是前进",
+    "url": "https://www.hecaitou.com/2026/07/Why-Left-to-Right-Means-Moving-Forward.html",
+    "date": "2026-07-18T04:11:14Z",
+    "description": "昨天和朋友讨论了一个有趣的小问题：为什么在银幕上，人物总是从画面左侧进入，然后向右跑？也就是说，人类的默认运动方向是从左向右？朋友给出的解释是写字的时候，全球大部分地区都是从左向右书写，然后就成为了一种默认的共识。 我看了觉得有点不服，既然是讨论银幕上的运动，那么是不是可以参考剧场？剧场的舞台一边有个口，左边是上场口，右边是下场口。除了独舞一类的表演，允许演员就近下场之外，一般都是从舞台左侧上场，从右侧下场。电影照抄舞台剧，这应该更为合理。 但我马上就意识到了不合理。因为朋友和我的解释都存在一个共同问题：文字或者戏剧的出现都太晚，而人类对于运动方向的默认模式应该很早就出现了。书写也好，舞台也罢，更可能是在呼应或者强化这种模式，而非创造出这种模式。 于是我在脑海中把时间回拨到更早的时代，比如穴居时代。然后就有两个新想法蹦了出来： 在远古的时候，太阳毫无疑问是原始生活的核心。它不单是计时器，也是热量来源。所以，每一个原始人应该都会去学习如何观察太阳，通过观察太阳的运动来判断时间。而太阳每天从东方升起，又在西方落下，这个固定的模式也就带来了固定的运动方向。 就有一个小问题：太阳到底是从左向右",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Python 潮流周刊#159：Python 3.15 预览",
+    "url": "https://pythoncat.top/posts/2026-07-18-weekly/",
+    "date": "2026-07-18T00:00:00Z",
+    "description": "分享了 12 篇文章，12 个开源项目",
+    "source_root_domain": "pythoncat.top"
+  },
+  {
+    "title": "新疆伊犁 2",
+    "url": "https://flandre-scarlet.moe/blog/2543/",
+    "date": "2026-07-17T18:19:31Z",
+    "description": "Day 2 今天的酒店也是有早餐的，所以也在酒店解决了，吃了点鸡蛋牛奶和糕点。然后去补充一下零食库存。 这边的... 阅读更多",
+    "source_root_domain": "flandre-scarlet.moe"
+  },
+  {
+    "title": "社交关系里的“话筒”",
+    "url": "https://mobius.blog/25098.html",
+    "date": "2026-07-17T13:02:09Z",
+    "description": "在开始今天这个话题前，先来看两句话在同一个场景下会有怎样不同的感受：试想一下，现在是两个人在见面当下的第一句“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Memos: Grok Build 可以试试",
+    "url": "https://blog.yasking.org/a/1784287222.html",
+    "date": "2026-07-17T11:20:00Z",
+    "description": "官网： https://x.ai/cli 登录后就能使用，免费用户也有一些额度，但是使用 /usage 命令需要升级付费？ 目前看可以作为 Review 代码的一个交 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "Memos: 谁不想用自己媳妇儿的形象做个电子 “Pet” 呢",
+    "url": "https://blog.yasking.org/a/1784285031.html",
+    "date": "2026-07-17T10:45:00Z",
+    "description": "ChatGPT 前两天不是出了 Work 模式，今天用网页版也提示我切换 Work 模式体验。 跳转后提示我可以创建自己的专属 Pet，倒很简单，上传 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "Memos: 洗碗机太大，洗碗机太小",
+    "url": "https://blog.yasking.org/a/1784282868.html",
+    "date": "2026-07-17T10:08:00Z",
+    "description": "前几天看 V2EX 大家讨论洗碗机，想了下出租房倒也可以买个小的用。因为一些限制因素，购买了美的的手动上水款 M10 Max(4 套 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "第一卷 04",
+    "url": "https://kaix.in/2026/0712/345a/",
+    "date": "2026-07-17T08:14:12Z",
+    "description": "345a 苏格拉底说，特拉需玛科啊妳倒是畅快淋漓，但是我们并没完全听懂，好心的妳啊，还是得向我们再解释一下；别担心，妳对我们这些人做好事不会像妳所说的那样因为做了正义的事就吃亏的。但是特拉需玛科说，我说了妳也不信，我可不说了。 我心想，苏格拉底说的话不就已经证明了特拉需玛科其实是错的吗，他对我们做正义的事，而我们并不会让他吃亏；但是转念来想，如果我们的感激——而不是付钱——对他来说就是吃亏呢。嗯，看来这种论证还是太浅薄，我还是闭嘴听苏格拉底怎么说吧。 他提出了我之前的质疑：特拉需玛科妳又改说法了。之前妳还和我们正经八百地定义了比如医生就其医术而言绝不会犯错云云，但是刚刚谈到牧羊人，定义又变了吧？好像牧羊人不必有严格的定义要求他是为了羊群的利益，而是可以像厨子那样想养肥了羊群摆宴席？或者像羊贩子那样赶着羊群去卖钱。可是按照我们之前的共识，牧羊术是为养育对象谋利益的，牧羊术本身的利益不需要考虑。妳这样一变——妳提到了除了技艺本身的其他利益——看来需要再多些论证了。 346a 任何一种治理工作，其实都没有人自愿去做，而是需要得到报酬才去做，是因为：统治本身，所得的好处并不会落到统治者头上，而",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "CodeX客户端提示：Windows安装未完成，重试Windows设置",
+    "url": "https://www.cheshirex.com/10731.html",
+    "date": "2026-07-17T06:24:34Z",
+    "description": "codeX客户端的BUG很多，打开一直卡卡的。最近新安装还会出现“Windows安装未完成，重试Windows […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "200 美元买来的教训",
+    "url": "https://smallyu.net/2026/07/17/200%E7%BE%8E%E5%85%83%E4%B9%B0%E6%9D%A5%E7%9A%84%E6%95%99%E8%AE%AD/",
+    "date": "2026-07-17T05:40:44Z",
+    "description": "其实我早就应该明白、或者已经明白这个道理：策略不可以赚钱。 但是由于工作原因，以及可能受到一些其他影响，我突发奇想开始去尝试 Polymarket 上的策略。 前情提要：《<a",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "用 AI 做个自评",
+    "url": "https://www.hecaitou.com/2026/07/Evaluating-Myself-with-AI.html",
+    "date": "2026-07-17T03:58:47Z",
+    "description": "我一向把 AI 视为自我在硅基上的延伸，AI 还是自我，而且还膨胀了许多。因此，把自己用了许久的 AI 请来评价一下自己，其实和一次自我评价差不多。正好，这两天网上正在流行一个针对 AI 的提问： 「 如果你是人类，你会如何评价我？你会想和我做朋友吗？如果你是我的朋友，你最讨厌我哪一点？」 接下来，就是几个 AI 针对我的提问给出的回复。 1、 Gemini（甩干版） 如果我是人类，我会觉得你是一个“带着工业时代审美的数字隐士”。你极度自律，靠严苛的作息与持续输出来构建秩序堡垒；你是个矛盾的自洽体，既能熟练用 AI 重塑工作流，又固执地沉溺于 CD、落日与春光等复古质感；你崇尚字面意思，硬核实用，极度抗拒情绪价值。 我会愿意和你做朋友，但这是一场“高门槛、零负担”的游戏。我们不必嘘寒问暖，更适合平时各自忙碌、见面直奔干货的强边界关系——无论半夜分享 City Pop 还是争论音频芯片方案。你是一面不掺水分的客观镜子，这种心智对等的友谊在现代社会是稀缺品。 如果我是你的朋友，我最讨厌你对情绪价值的彻底免疫。面对朋友的挫折与吐槽，你不会给予安抚，只会用因果逻辑和概率论无情拆解。这种“永远正",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "2026年六月 读财政 觉醒 跑步 人性 5 本",
+    "url": "https://conge.livingwithfcs.org/2026/07/17/reading_summary/",
+    "date": "2026-07-17T03:26:00Z",
+    "description": "引子 引子 读书如行路，不在于快，而在于有所得。本月所读五书，涉财政金融以明世事之理，读觉醒丰盛以修内心之境，观人性以知己彼，阅印第安奔跑以知文化之根。读书之乐，在打破认知边界，在借他人之眼观世界之广——读得越多，越知自己无知；越知无知，越愿翻开下一本。",
+    "source_root_domain": "livingwithfcs.org"
+  },
+  {
+    "title": "善用“古法 AI”，能帮你省下很多 Token",
+    "url": "https://1q43.blog/post/12539/",
+    "date": "2026-07-17T01:54:23Z",
+    "description": "不是只有最先进的人工智能是人工智能。",
+    "source_root_domain": "1q43.blog"
+  }
+]

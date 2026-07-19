@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-19 | [Memos #2026-07-18](https://www.taober.blog/memos) | 16:49 魔鬼训练 20:55 我服了，卡死连续重启了四次，凶手找到了... |
 | 2026-07-18 | [新疆伊犁 7](https://flandre-scarlet.moe/blog/2609/) | Day 7 惯例十一点左右起床，出门前往新源县的开元美食广场找吃的。午饭吃了菠萝黄牛肉和疙瘩汤，原以为是面疙瘩... 阅读更多 |
 | 2026-07-18 | [新疆伊犁 6](https://flandre-scarlet.moe/blog/2594/) | Day 6 雨天的库尔得宁。 中午先去巩留的店里吃纳仁。纳仁是类似于牛肉或马肉作为浇头的面食。马肉我感觉说不上... 阅读更多 |
 | 2026-07-18 | [低成本实现国行 iPhone 使用 eSIM 漫游流量](https://depp.wang/2026/esim-iphone/) | 最近 Shadowrocket 出了 Tailscale 功能，解决了因为 iPhone 只能开启一个 VPN，Shadowrocket 与 Tailscale 不能同时开启的问题。但使用下来发现 Shadowrocket 的耗电量还是挺高的。 因为手机大部分时间都连 Wifi，本身使用流量不多，所… |
@@ -37,7 +38,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-18 | [新疆伊犁 3](https://flandre-scarlet.moe/blog/2556/) | Day 3 今天就呆在伊宁了，市区逛逛。酒店老板给我们推荐了当地的一把抓，也就是我们口中的烤包子，当地人一般叫... 阅读更多 |
 | 2026-07-18 | [为什么从左到右是前进](https://www.hecaitou.com/2026/07/Why-Left-to-Right-Means-Moving-Forward.html) | 昨天和朋友讨论了一个有趣的小问题：为什么在银幕上，人物总是从画面左侧进入，然后向右跑？也就是说，人类的默认运动方向是从左向右？朋友给出的解释是写字的时候，全球大部分地区都是从左向右书写，然后就成为了一种默认的共识。 我看了觉得有点不服，既然是讨论银幕上的运动，那么是不是可以参考剧场？剧场的舞台一边有… |
 | 2026-07-18 | [Python 潮流周刊#159：Python 3.15 预览](https://pythoncat.top/posts/2026-07-18-weekly/) | 分享了 12 篇文章，12 个开源项目 |
-| 2026-07-18 | [Memos #2026-07-17](https://www.taober.blog/memos) | 15:28 随着对接的团队/事项越来越多，问题就像雪花一般扩散... |
 | 2026-07-17 | [新疆伊犁 2](https://flandre-scarlet.moe/blog/2543/) | Day 2 今天的酒店也是有早餐的，所以也在酒店解决了，吃了点鸡蛋牛奶和糕点。然后去补充一下零食库存。 这边的... 阅读更多 |
 | 2026-07-17 | [社交关系里的“话筒”](https://mobius.blog/25098.html) | 在开始今天这个话题前，先来看两句话在同一个场景下会有怎样不同的感受：试想一下，现在是两个人在见面当下的第一句“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-17 | [Memos: Grok Build 可以试试](https://blog.yasking.org/a/1784287222.html) | 官网： https://x.ai/cli 登录后就能使用，免费用户也有一些额度，但是使用 /usage 命令需要升级付费？ 目前看可以作为 Review 代码的一个交 … |
@@ -131,23 +131,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-12 | [向云端｜西南自驾01 - 裸辞](https://blog.ops-coffee.com/r/2026-southwest-road-trip-01-luoci.html) |  |
 | 2026-07-12 | [≡ 004｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25043.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-12 | [TRAIN TRIP 的产品设计细节](https://bluepika.life/blog/train-trip-product-design-details) | 在我继续补完日本游记前，我想先聊聊 Train Trip 这个产品，这是我和 Cora 去年在日本旅行时最喜欢用的产品之一，甚至多次愿意为了它多搭一两个站。 |
-| 2026-07-11 | [Memos: 快跑！说美国豆包是过誉了](https://blog.yasking.org/a/1783782377.html) | “ 我是 Gemini，一个由 Google 训练的大型语言模型。 ” 这盲测输出，一样的，就蠢蠢的。 |
-| 2026-07-11 | [「随便」才是最贵的](https://blog.solazy.me/20260711/) | 算是昨天话题的姊妹篇吧，今天聊聊「随便」 |
-| 2026-07-11 | [博客大联盟：一个给独立博客的收录与聚合站](https://u.sb/boke/) | 介绍博客大联盟，一个独立博客目录和 RSS 聚合站，帮助大家找到更多有趣的独立博客。 |
-| 2026-07-11 | [6.27 Codex 封号事件复盘](https://rqdmap.top/posts/codex-suspended/) | 6 月份一口气痛失两个 Codex Pro 帐号, 一个老号被手机号二验拦住了, 另一个新创的 Giffgaff 号没几天也被直接封了, -$400😢 总结下可能的安全风险 |
-| 2026-07-11 | [没有了 Shell，Ghost 什么也不是](https://www.gtdstudy.com/posts/without-shell-ghost-is-nothing/) |  |
-| 2026-07-11 | [卡利古拉](https://www.geedea.pro/library/2026/caligula/) | 一本收录了加缪原创戏剧作品和与戏剧相关的散文及访谈的书。加缪的第一部戏剧作品《卡利古拉》写于 1938 年，在《 局外人 》之前，那时他 25 岁。从书中《我为什么搞戏剧？》这篇电视访谈内容来看，加缪把戏剧当作「逃避作家生涯中令我厌烦的东西」的手段，同时他也觉得戏剧是文学的更全面的形式。本书一共收录… |
-| 2026-07-11 | [摘：《李卓吾·两种阳明学》](https://z.arlmy.me/posts/Note/Note_GouKouXiongSan_LiZhuoWuLiangZhongYangMingXue/) | 「人欲。」 |
-| 2026-07-11 | [摘：《我就要自由》](https://z.arlmy.me/posts/Note/Note_ZuoYeYangZi_WoJiuYaoZiYou/) | 「定义不了。」 |
-| 2026-07-11 | [今天取消了Tidal订阅](https://www.hecaitou.com/2026/07/canceling-my-tidal-subscription.html) | 今天我取消了 Tidal 订阅，但还是保留了网易云和 Apple Music. 最直接的原因是我本周收到一封电子邮件，Tidal 告诉我说从 8 月份开始要涨价。本来我和它相安无事，每个月信用卡商会弹出一条扣费消息，已经变成了个习惯，我用这条消息提醒自己新的一个月就要到来。 专门写信来通知要涨价就是… |
-| 2026-07-11 | [MiMoCode 干完活儿发通知](https://blog.est.im/2026/stdout-27) | AI在 coding 的时候我其实在玩别的。希望agent 每次干完活，macOS 弹个通知。 手上是 MimoCode，就让它自己写个。啪，很快写好了。结果还是折腾了好一会儿， 记录几个有意思的小坑。 首先是如果当前CLI是活动的，就不弹通知。 需要判断活动窗口。最初用 osascript osa… |
-| 2026-07-11 | [](https://www.owenyoung.com/4mgvd) | 学到了 一个概念： Hypomnēma ，"是一种将真理转化为品格的方法： 通过每天回顾那些让你切实感受到理想生活方式的句子，你会更容易记得去做正确的事 ，也会记得在日常生活中真正练习它。毕竟，只是在脑子里想一想，并不会改变你。慢慢地，你会成为那样的人。到最后，你甚至不再需要刻意提醒自己，因为你的原… |
-| 2026-07-11 | [Vlog尝试 端午摩旅记录](https://yovey.me/vlog-trial-1st/) | 今年又冒出一个idea说要学下剪辑，剪个Vlog出来。 这是成品，耗时大半个月，没在精益求精，只是毫无头绪无从 … Continue reading "Vlog尝试 端午摩旅记录" |
-| 2026-07-11 | [Hello, World!](https://www.kawabangga.com/posts/7336) | Continue reading... |
-| 2026-07-11 | [谁他妈在乎你啊](https://mobius.blog/25033.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-11 | [我全栈开发的第一个产品：Balanced Portfolio 多资产风险平价全天候策略回测系统](https://prologue.dev/blog/my-first-full-stack-development-project-balanced-portfolio-a-global-multi-asset-risk-parity-backtesting-system) | 关于笔者第一次全栈开发金融产品，将风险平价策略回测系统、股指期货数据看板、场外衍生品定价模块做成开箱即用、可交互、可视化的Web端产品。 |
-| 2026-07-11 | [Python 潮流周刊#158：frozendict 内置类型](https://pythoncat.top/posts/2026-07-11-weekly/) | 分享了 11 篇文章，12 个开源项目 |
-| 2026-07-11 | [2026年第28周](https://blog.sakoamc.com/posts/2628/) | 题记：二零二六年的第二十八周，年已过半，日复一日，往复循环。 |
 
 ## Vibe Coding
 
