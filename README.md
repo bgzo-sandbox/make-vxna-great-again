@@ -27,7 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-19 | [NAS服务器系统迁移回Debian 13](https://eduardoqian.com/archives/nasfu-wu-qi-xi-tong-qian-yi-hui-debian-13) | 在前段时间在挪威旅游的时候，闲暇时刻就考虑将个人的NAS更换个系统，主要是之前用飞牛的时候，主要考虑的是NAS功能，也就是看下载同步的电影/电视剧/视频等局域网观看。但是在实际用了一段时间后，发现了几个问题： 我个人有些没时间看存到本地的视频了，这些本地视频很难说我是要看，还是纯粹的赛博仓鼠症。 飞 |
 | 2026-07-19 | [新疆伊犁 10](https://flandre-scarlet.moe/blog/2653/) | Day 10 昨天三点多才到酒店，早上也是十一点多才起来。听老板的建议，在出门后的小巷子里找到一家本地餐馆，吃... 阅读更多 |
+| 2026-07-19 | [便携路由从选择到放弃](https://jaksay.com/posts/portable-router-from-selection-to-abandonment) | 从选择到放弃，从购买到手搓 |
 | 2026-07-19 | [新疆伊犁 9](https://flandre-scarlet.moe/blog/2642/) | Day 9 此前说不想去那拉提，因为那边商业化程度重，而且游客也特别多。不过因此行程也空出了一天。准备用这天时... 阅读更多 |
 | 2026-07-19 | [新疆伊犁 8](https://flandre-scarlet.moe/blog/2621/) | Day 8 日出是不可能看日出的，毕竟醒来已经太阳晒屁股了，走到外面晒着太阳时暖洋洋的，仿佛回到了冬日时光。 ... 阅读更多 |
 | 2026-07-19 | [逃离合居生活](https://www.geedea.pro/article/bye-roomate/) | 继 搬离宿舍 和 搬离狭窄的单间 之后，我又搬了新家，而且直接从重庆搬到了济南。不过说是搬家，实际上只带了必需品，我的咖啡器具和大件设备都提前装好了箱，由我家人在我找到房子之后寄过来，而且我大概也不会在此久留。独自一人来到北方是因为找到了还不错的实习机会，至于为什么不去北上广深或者杭州和成都，而是跑… |

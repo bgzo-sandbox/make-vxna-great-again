@@ -1,10 +1,24 @@
 [
   {
+    "title": "NAS服务器系统迁移回Debian 13",
+    "url": "https://eduardoqian.com/archives/nasfu-wu-qi-xi-tong-qian-yi-hui-debian-13",
+    "date": "2026-07-19T11:13:00Z",
+    "description": "在前段时间在挪威旅游的时候，闲暇时刻就考虑将个人的NAS更换个系统，主要是之前用飞牛的时候，主要考虑的是NAS功能，也就是看下载同步的电影/电视剧/视频等局域网观看。但是在实际用了一段时间后，发现了几个问题： 我个人有些没时间看存到本地的视频了，这些本地视频很难说我是要看，还是纯粹的赛博仓鼠症。 飞",
+    "source_root_domain": "eduardoqian.com"
+  },
+  {
     "title": "新疆伊犁 10",
     "url": "https://flandre-scarlet.moe/blog/2653/",
     "date": "2026-07-19T09:38:37Z",
     "description": "Day 10 昨天三点多才到酒店，早上也是十一点多才起来。听老板的建议，在出门后的小巷子里找到一家本地餐馆，吃... 阅读更多",
     "source_root_domain": "flandre-scarlet.moe"
+  },
+  {
+    "title": "便携路由从选择到放弃",
+    "url": "https://jaksay.com/posts/portable-router-from-selection-to-abandonment",
+    "date": "2026-07-19T09:25:00Z",
+    "description": "从选择到放弃，从购买到手搓",
+    "source_root_domain": "jaksay.com"
   },
   {
     "title": "新疆伊犁 9",
