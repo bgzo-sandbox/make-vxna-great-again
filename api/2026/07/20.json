@@ -1,10 +1,31 @@
 [
   {
+    "title": "R#111 投资纪律的考验",
+    "url": "https://blog.sakanano.moe/journals/random_111",
+    "date": "2026-07-20T14:54:00Z",
+    "description": "2026.7.14 ~ 2026.7.20",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "去神话后的特洛伊战争简史",
+    "url": "https://nigzu.com/a-brief-history-of-the-trojan-war-without-myth/",
+    "date": "2026-07-20T14:40:51Z",
+    "description": "最近《奥德赛》上映，诺兰很擅长在电影中营造氛围感。我对历史感兴趣，但相比浪漫主义的包装，我更喜欢现实",
+    "source_root_domain": "nigzu.com"
+  },
+  {
     "title": "七年与暑假",
     "url": "https://www.jackpu.com/qi-nian-yu-shu-jia/",
     "date": "2026-07-20T12:20:44Z",
     "description": "北京，终于开始热了。 六月份天气的反常，让大家觉得是不是今年夏天都会这样。不过随着七月，台风过后，北京迎来37度的高温，北京的暑假，比四川老家好一些，北京干燥，虽然气温高，但是风吹着和阴凉的地方，完全不会闷热的感觉。 随着天气升温，电影市场也逐渐回热。我是看新闻才知道，今年票房市场很冷淡，远低于去年，韩红的“走个面儿”火爆社交圈。 我后面一想，也确实，从个人出发，我今年去影院就看了一部《镖人》，给袁和平指导走个面，当然我也是功夫迷。 不过好在，七月初，星爷的《功夫女足》极限定档，就是那种压根没宣传的，上映前一天，才剪好预告片。我瞬间觉得，今年真的是过年了，有好多值得期待的作品，比如漫威《复联5》，诺兰的《奥德赛》，还有时隔多年的蜘蛛侠内地上映。 我作为星爷粉丝，其实觉得蛮意外的，因为他是一个非常慢节奏的人，一般保持3-5年一部作品的节奏，我有时候都抱怨，为什么不学学张艺谋，",
     "source_root_domain": "jackpu.com"
+  },
+  {
+    "title": "用 Swift 构建 MCP Server：从零到接入 Claude 的完整教程",
+    "url": "https://gptkit.eth.limo/90118240-79C9-4595-B7A3-33FF11646055/",
+    "date": "2026-07-20T11:42:55Z",
+    "description": "如果你是 Swift 开发者，又想把自己 Mac 上的能力（本地文件、Shortcuts、Xcode 项目、Core Data 数据……）暴露给 Claude、ChatGPT 这类 AI 助手，那么 MCP Server 就是你要的东西。而目前主流的 MCP 教程几乎都是 Python 或 TypeScript，Swift 版本极少——这也让 “swift mcp server” 成为一个几乎无人竞争的关键词。 本文用一个能跑通的最小示例，带你从零构建一个 Swift MCP Server，并接入 Claude Desktop。 什么是 MCP Server？ Model Context Protocol (MCP) 是 Anthropic 在 2024 年底提出的开放协议，用来标准化 “LLM 应用 ↔ 外部工具/数据源” 之间的通信。你可以把它理解成 “AI 应用的 USB-C” ： MCP Host ：AI 应用（Claude Desktop、Cursor、Codex CLI……） MCP Client ：Host 内部为每个连接建立的会话客户端 MCP Server ：你写的进",
+    "source_root_domain": "eth.limo"
   },
   {
     "title": "向云端｜西南自驾02 - 婺源",

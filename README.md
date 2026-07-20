@@ -27,7 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-20 | [R#111 投资纪律的考验](https://blog.sakanano.moe/journals/random_111) | 2026.7.14 ~ 2026.7.20 |
+| 2026-07-20 | [去神话后的特洛伊战争简史](https://nigzu.com/a-brief-history-of-the-trojan-war-without-myth/) | 最近《奥德赛》上映，诺兰很擅长在电影中营造氛围感。我对历史感兴趣，但相比浪漫主义的包装，我更喜欢现实 |
 | 2026-07-20 | [七年与暑假](https://www.jackpu.com/qi-nian-yu-shu-jia/) | 北京，终于开始热了。 六月份天气的反常，让大家觉得是不是今年夏天都会这样。不过随着七月，台风过后，北京迎来37度的高温，北京的暑假，比四川老家好一些，北京干燥，虽然气温高，但是风吹着和阴凉的地方，完全不会闷热的感觉。 随着天气升温，电影市场也逐渐回热。我是看新闻才知道，今年票房市场很冷淡，远低于去年… |
+| 2026-07-20 | [用 Swift 构建 MCP Server：从零到接入 Claude 的完整教程](https://gptkit.eth.limo/90118240-79C9-4595-B7A3-33FF11646055/) | 如果你是 Swift 开发者，又想把自己 Mac 上的能力（本地文件、Shortcuts、Xcode 项目、Core Data 数据……）暴露给 Claude、ChatGPT 这类 AI 助手，那么 MCP Server 就是你要的东西。而目前主流的 MCP 教程几乎都是 Python 或 Type… |
 | 2026-07-20 | [向云端｜西南自驾02 - 婺源](https://blog.ops-coffee.com/r/2026-southwest-road-trip-02-wuyuan.html) |  |
 | 2026-07-20 | [拍记血压 —— 给血压计拍照就能记录血压](https://www.boris1993.com/bpsnap.html) | 我做了一个微信小程序，叫「拍记血压」。 起因很简单：我看到我妈每天量完血压，都要拿纸把测量结果写下来。这样确实能记，但每次都要写在纸上也挺麻烦，而且纸一丢，之前的记录也就没了。所以我这个程序员儿子就有了这么一个想法，量完血压后，拿手机拍一下血压计，小程序就能自动识别血压计的读数。之后可以按时间查看历… |
 | 2026-07-20 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人： 徐队，群昵称Shogun。姓徐，称徐队，真野人队长。 张队，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队，群昵称熊嘎婆，称熊队。“野人CLUB游泳事业部”群主。 亮队，群昵称亮什么，称亮队，野人官号 @重庆野人冬泳俱乐部 拥有者。 重要声明： “野人队”在加入“泳往直前”… |
