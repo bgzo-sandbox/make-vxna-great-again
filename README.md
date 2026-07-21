@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-21 | [LLM Local Inference](https://ahdw.casacam.net/2026/07/22/llm-local-inference/) | 让我试着梳理一下我的思路，把 LLM 在消费级硬件上的 local inference 讲一讲。 Hook K […] |
+| 2026-07-21 | [凌晨十二点的工作群](https://blog.solazy.me/20260721/) | 今天说个我这两天有点负罪感的事儿 |
 | 2026-07-21 | [Cloudflare Tunnel 内网穿透](https://blog.196000.xyz/2026/2026-07-19-develop-cloudflare-tunnel.html) | 使用 Cloudflare Tunnel 穿透内网服务暴露在外网。 |
 | 2026-07-21 | [Ant Design Pro自定义菜单Icon](https://elliot00.com/posts/ant-design-pro-custom-menu-icon) | umi icons支持路由配置自定义图标，无需额外API。 |
 | 2026-07-21 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
@@ -36,6 +38,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-21 | [为球星失恋](https://www.hecaitou.com/2026/07/Heartbroken-over-a-Football-Legend.html) | 我是真没想到，这一届世界杯的后劲会有那么足，有好几位读者看完决赛之后跑到我这里来留言，说是一整天茶饭不思，无心睡眠，就那么失魂落魄、浑浑噩噩地一个人待着。尤其是提到梅西的时候，我感觉他们的眼泪在屏幕那一头早已经抑制不住地流下来。 失恋，朋友，这就是失恋，为了世界杯失恋，也是为了自己喜欢的球星黯然退场… |
 | 2026-07-21 | [被强行拖入的 SOP](https://mobius.blog/25118.html) | 前几天，看完@Solazy 发布的一篇博客——《SOP 复制不了那双手》，把两段话复制进来灵感收集条目里，想着 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-20 | [VSC/Cursor插件上架](https://elmagnifico.tech/2026/07/21/CBD-Publisher-OpenVSX/) | Foreword CodeBind Docs 写完、VS Marketplace 也挂上去了，本以为 Cursor 那边搜一下就能装。结果发现： Cursor 扩展市场不跟 Microsoft 那套走 ，得另发一份到 Open VSX。下面把 VS Code 怎么发 、 Open VSX 怎么发 、… |
+| 2026-07-20 | [AI&#124;AI面试题,AI来解答](https://programnotes.cn/ai-interview/index.html) | 第一轮面试官（技术负责人） RAG 召回效果排查与调优设计。 LangGraph 的理解：谈谈你对 LangGraph 中 Human-in-the-Loop 的理解，以及如何支持重启和多端并发？ SSE 流式乱序：在流式对话中，如何防止消息乱序？ React Native 经验：是否有 React… |
+| 2026-07-20 | [壮了，还是胖了](https://blog.solazy.me/20260720/) | 今天听到同事的一句话…… |
 | 2026-07-20 | [R#111 投资纪律的考验](https://blog.sakanano.moe/journals/random_111) | 2026.7.14 ~ 2026.7.20 |
 | 2026-07-20 | [去神话后的特洛伊战争简史](https://nigzu.com/a-brief-history-of-the-trojan-war-without-myth/) | 最近《奥德赛》上映，诺兰很擅长在电影中营造氛围感。我对历史感兴趣，但相比浪漫主义的包装，我更喜欢现实 |
 | 2026-07-20 | [七年与暑假](https://www.jackpu.com/qi-nian-yu-shu-jia/) | 北京，终于开始热了。 六月份天气的反常，让大家觉得是不是今年夏天都会这样。不过随着七月，台风过后，北京迎来37度的高温，北京的暑假，比四川老家好一些，北京干燥，虽然气温高，但是风吹着和阴凉的地方，完全不会闷热的感觉。 随着天气升温，电影市场也逐渐回热。我是看新闻才知道，今年票房市场很冷淡，远低于去年… |

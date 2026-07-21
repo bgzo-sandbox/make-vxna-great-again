@@ -1,5 +1,19 @@
 [
   {
+    "title": "LLM Local Inference",
+    "url": "https://ahdw.casacam.net/2026/07/22/llm-local-inference/",
+    "date": "2026-07-21T16:09:35Z",
+    "description": "让我试着梳理一下我的思路，把 LLM 在消费级硬件上的 local inference 讲一讲。 Hook K […]",
+    "source_root_domain": "ahdw.casacam.net"
+  },
+  {
+    "title": "凌晨十二点的工作群",
+    "url": "https://blog.solazy.me/20260721/",
+    "date": "2026-07-21T15:00:00Z",
+    "description": "今天说个我这两天有点负罪感的事儿",
+    "source_root_domain": "solazy.me"
+  },
+  {
     "title": "Cloudflare Tunnel 内网穿透",
     "url": "https://blog.196000.xyz/2026/2026-07-19-develop-cloudflare-tunnel.html",
     "date": "2026-07-21T14:00:00Z",
@@ -61,6 +75,20 @@
     "date": "2026-07-20T16:00:00Z",
     "description": "Foreword CodeBind Docs 写完、VS Marketplace 也挂上去了，本以为 Cursor 那边搜一下就能装。结果发现： Cursor 扩展市场不跟 Microsoft 那套走 ，得另发一份到 Open VSX。下面把 VS Code 怎么发 、 Open VSX 怎么发 、以及这趟踩的坑一起记下来，免得下次又忘。 两套市场 Cursor和VS Code的插件市场原本是一套，但是后来微软收紧策略，导致分开了，变成了2个市场。 Cursor 里有两套完全不同的「市场」，名字都带 marketplace 名字 实际装啥 怎么上架 Extensions （扩展面板） VS Code 那类插件，CBD 就是这个 发到 Open VSX Plugins （Customize / cursor.com/marketplace） rules、skills、MCP、hooks 另搞一套 .cursor-plugin/ ，走人工审核 CBD 是正经 VS Code 扩展，跟 Cursor Plugin 那套无关。想让人在 Cursor 里 Ctrl+Shift+X 搜到， 只发 ",
     "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "AI|AI面试题,AI来解答",
+    "url": "https://programnotes.cn/ai-interview/index.html",
+    "date": "2026-07-20T16:00:00Z",
+    "description": "第一轮面试官（技术负责人） RAG 召回效果排查与调优设计。 LangGraph 的理解：谈谈你对 LangGraph 中 Human-in-the-Loop 的理解，以及如何支持重启和多端并发？ SSE 流式乱序：在流式对话中，如何防止消息乱序？ React Native 经验：是否有 React Native 相关项目落地？ React 性能优化：复杂商城页面中，父组件筛选条件切换导致大量无关子组件重渲染，如何排查和解决？ Next.js 实践：是否有真实的 Next.js 服务端渲染项目经验？ Monorepo 工程化：谈谈你的见解，以及常见的目录结构（如 apps 、packages 等）分别放什么？ AI 代码质量/幻觉控制：在 AI 辅助编程中，如何做工程化建设（ Harness ）来保证代码可靠且不上下文漂移？ 上下文漂移的强制约束：如果老项目有自己的规范，如何强制或软约束 AI 遵循当前项目规范，而非全局通用规则？ AI 编程工具钩子：对 Cursor 或 Cline 的生命周期钩子（ Hooks ）了解多少？ 第二轮面试官（同事/交叉面） 多工具规范复用：多套 AI ",
+    "source_root_domain": "programnotes.cn"
+  },
+  {
+    "title": "壮了，还是胖了",
+    "url": "https://blog.solazy.me/20260720/",
+    "date": "2026-07-20T15:00:00Z",
+    "description": "今天听到同事的一句话……",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "R#111 投资纪律的考验",
