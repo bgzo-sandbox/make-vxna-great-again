@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-21 | [Jenkins Helm 升级 2.516→2.568 后流水线失败与 Agent 无法连接的问题排查](https://199604.com/3600) | Jenkins Helm 升级 2.516→2.568 后流水线失败与 Agent 无法连接的问题排查 记录时 […] |
+| 2026-07-21 | [为球星失恋](https://www.hecaitou.com/2026/07/Heartbroken-over-a-Football-Legend.html) | 我是真没想到，这一届世界杯的后劲会有那么足，有好几位读者看完决赛之后跑到我这里来留言，说是一整天茶饭不思，无心睡眠，就那么失魂落魄、浑浑噩噩地一个人待着。尤其是提到梅西的时候，我感觉他们的眼泪在屏幕那一头早已经抑制不住地流下来。 失恋，朋友，这就是失恋，为了世界杯失恋，也是为了自己喜欢的球星黯然退场… |
 | 2026-07-21 | [被强行拖入的 SOP](https://mobius.blog/25118.html) | 前几天，看完@Solazy 发布的一篇博客——《SOP 复制不了那双手》，把两段话复制进来灵感收集条目里，想着 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-20 | [R#111 投资纪律的考验](https://blog.sakanano.moe/journals/random_111) | 2026.7.14 ~ 2026.7.20 |
 | 2026-07-20 | [去神话后的特洛伊战争简史](https://nigzu.com/a-brief-history-of-the-trojan-war-without-myth/) | 最近《奥德赛》上映，诺兰很擅长在电影中营造氛围感。我对历史感兴趣，但相比浪漫主义的包装，我更喜欢现实 |
