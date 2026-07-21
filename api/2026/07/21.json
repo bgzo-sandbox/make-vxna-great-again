@@ -1,10 +1,31 @@
 [
   {
+    "title": "独立开发者的英国公司报税（2026）",
+    "url": "https://www.meettea.com/uk-company-tax-2026.html",
+    "date": "2026-07-21T06:57:30Z",
+    "description": "给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。",
+    "source_root_domain": "meettea.com"
+  },
+  {
+    "title": "终结竞争：从护城河到商业终局的实战指南",
+    "url": "https://www.meettea.com/business-moat-endgame.html",
+    "date": "2026-07-21T06:57:29Z",
+    "description": "从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构",
+    "source_root_domain": "meettea.com"
+  },
+  {
     "title": "Jenkins Helm 升级 2.516→2.568 后流水线失败与 Agent 无法连接的问题排查",
     "url": "https://199604.com/3600",
     "date": "2026-07-21T03:49:14Z",
     "description": "Jenkins Helm 升级 2.516→2.568 后流水线失败与 Agent 无法连接的问题排查 记录时 […]",
     "source_root_domain": "199604.com"
+  },
+  {
+    "title": "雨雨雨雨雨",
+    "url": "https://hux.ink/posts/yu-yi-zhi-xia/",
+    "date": "2026-07-21T03:43:00Z",
+    "description": "今年深圳的天气比较反常，来深十多年，从来没有哪一年像今年这样下这么长时间的雨，从 5 月份开始一直到现在，没怎么间断过。而且特别会挑时间，出门上班的时候下大、下班回家路上下大，半夜凌晨电闪雷鸣，让打工人不得安生。 5 月中旬买的自行车，买回来两个多月，也因为天气原因只出去骑了两三次。当时趁着账户有点浮盈买的，假如到现在这行情，可能就没那么爽快下单了。 端午节自驾去龙南玩了几天，去看了客家围屋，也上了南武当山。但游玩回深后我就感染新一轮新冠，直接病倒了，紧接着中秋同学和娃也接连感染，一家人折腾了整整两三周。 安安幼儿园毕业了。毕业放假后的那个周末，我花了整整一个下午给安安整理幼儿园这三年的相册，从班级群相册中一张张挑选下载，备份到电脑本地，给长大后的他留一份“记忆”。 招财大屁股家的阿弟和我家安安同岁，比安安小四天。他前不久在夜报中说替他家阿弟惋惜，明明是最快乐的幼儿园时光，但长大后几乎不记得，回忆里最多少许零星片段。他自己到今天只留下了一张才艺表演的照片，至于老师是谁，同学是谁，都忘了。我很认同这句话，幼儿园一毕业，人生真正意义上无忧无虑的时光，马上就要结束了。 随毕业证书、毕业照一起",
+    "source_root_domain": "hux.ink"
   },
   {
     "title": "为球星失恋",
@@ -19,6 +40,13 @@
     "date": "2026-07-21T01:00:00Z",
     "description": "前几天，看完@Solazy 发布的一篇博客——《SOP 复制不了那双手》，把两段话复制进来灵感收集条目里，想着 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "VSC/Cursor插件上架",
+    "url": "https://elmagnifico.tech/2026/07/21/CBD-Publisher-OpenVSX/",
+    "date": "2026-07-20T16:00:00Z",
+    "description": "Foreword CodeBind Docs 写完、VS Marketplace 也挂上去了，本以为 Cursor 那边搜一下就能装。结果发现： Cursor 扩展市场不跟 Microsoft 那套走 ，得另发一份到 Open VSX。下面把 VS Code 怎么发 、 Open VSX 怎么发 、以及这趟踩的坑一起记下来，免得下次又忘。 两套市场 Cursor和VS Code的插件市场原本是一套，但是后来微软收紧策略，导致分开了，变成了2个市场。 Cursor 里有两套完全不同的「市场」，名字都带 marketplace 名字 实际装啥 怎么上架 Extensions （扩展面板） VS Code 那类插件，CBD 就是这个 发到 Open VSX Plugins （Customize / cursor.com/marketplace） rules、skills、MCP、hooks 另搞一套 .cursor-plugin/ ，走人工审核 CBD 是正经 VS Code 扩展，跟 Cursor Plugin 那套无关。想让人在 Cursor 里 Ctrl+Shift+X 搜到， 只发 ",
+    "source_root_domain": "elmagnifico.tech"
   },
   {
     "title": "R#111 投资纪律的考验",
@@ -143,7 +171,7 @@
     "title": "CodeBind Docs插件",
     "url": "https://elmagnifico.tech/2026/07/20/CBD-VSC-Plugin/",
     "date": "2026-07-19T16:00:00Z",
-    "description": "Foreword 之前学 VS Code 插件，算是半途而废。最近结合 Agent，把当时没做完的想法做完了，刚好这东西能塞进目前这套 AI 工作流里。 Agent 工作流 里反复强调一件事：先文档、后代码；文档得是 Agent 能读、人能审的单一事实来源。 wolai 管产品需求没问题，但落到具体模块、具体函数时，设计上下文往往还是散的，注释里有一点、README 里有一点、脑子里有一点。于是就有了 CodeBind Docs。 为什么要做 下一代编辑器怎么吹都行，现实里无论哪种 IDE，核心还是代码；文档怎么改，都和代码是两套东西。文档不同步、散落各处，要维护就异常痛苦。 常见几种烂法： 往源码里塞大段注释，污染代码，review 时噪音一大堆 文档丢到云端 wiki，和仓库版本对不上，Agent 也摸不着 靠人记得「这个函数的设计在某某页」，人会忘，Agent 更不会自己猜 既然如此，为什么不把代码和文档绑紧一点？理想态当然是混在同一个文件里：上面文档（图、视频都行），下面代码，按顺序拼接，编译时再拆回去。Jupyter、Colab 某种程度上就是这条路。 但真混排对现有工程改造",
+    "description": "Foreword 之前学 VS Code 插件，算是半途而废。最近结合 Agent，把当时没做完的想法做完了，刚好这东西能塞进目前这套 AI 工作流里。 Agent 工作流 里反复强调一件事：先文档、后代码；文档得是 Agent 能读、人能审的单一事实来源。 wolai 管产品需求没问题，但落到具体模块、具体函数时，设计上下文往往还是散的，注释里有一点、README 里有一点、脑子里有一点。于是就有了 CodeBind Docs。 为什么要做 下一代编辑器怎么吹都行，现实里无论哪种 IDE，核心还是代码；文档怎么改，都和代码是两套东西。文档不同步、散落各处，要维护就异常痛苦。 常见几种情况： 往源码里塞大段注释，污染代码，review 时噪音一大堆 文档丢到云端 wiki，和仓库版本对不上，Agent 也摸不着 靠人记得「这个函数的设计在某某页」，人会忘，Agent 更不会自己猜 与Agent共同工作，某些时候框架设计都是堆在一起的，某一个文档，但是当你看代码的时候不一定会意识到对应的文档 既然如此，为什么不把代码和文档绑紧一点？理想态当然是混在同一个文件里：上面文档（图、视频都行），",
     "source_root_domain": "elmagnifico.tech"
   },
   {

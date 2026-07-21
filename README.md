@@ -27,9 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-21 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
+| 2026-07-21 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
 | 2026-07-21 | [Jenkins Helm 升级 2.516→2.568 后流水线失败与 Agent 无法连接的问题排查](https://199604.com/3600) | Jenkins Helm 升级 2.516→2.568 后流水线失败与 Agent 无法连接的问题排查 记录时 […] |
+| 2026-07-21 | [雨雨雨雨雨](https://hux.ink/posts/yu-yi-zhi-xia/) | 今年深圳的天气比较反常，来深十多年，从来没有哪一年像今年这样下这么长时间的雨，从 5 月份开始一直到现在，没怎么间断过。而且特别会挑时间，出门上班的时候下大、下班回家路上下大，半夜凌晨电闪雷鸣，让打工人不得安生。 5 月中旬买的自行车，买回来两个多月，也因为天气原因只出去骑了两三次。当时趁着账户有点… |
 | 2026-07-21 | [为球星失恋](https://www.hecaitou.com/2026/07/Heartbroken-over-a-Football-Legend.html) | 我是真没想到，这一届世界杯的后劲会有那么足，有好几位读者看完决赛之后跑到我这里来留言，说是一整天茶饭不思，无心睡眠，就那么失魂落魄、浑浑噩噩地一个人待着。尤其是提到梅西的时候，我感觉他们的眼泪在屏幕那一头早已经抑制不住地流下来。 失恋，朋友，这就是失恋，为了世界杯失恋，也是为了自己喜欢的球星黯然退场… |
 | 2026-07-21 | [被强行拖入的 SOP](https://mobius.blog/25118.html) | 前几天，看完@Solazy 发布的一篇博客——《SOP 复制不了那双手》，把两段话复制进来灵感收集条目里，想着 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-20 | [VSC/Cursor插件上架](https://elmagnifico.tech/2026/07/21/CBD-Publisher-OpenVSX/) | Foreword CodeBind Docs 写完、VS Marketplace 也挂上去了，本以为 Cursor 那边搜一下就能装。结果发现： Cursor 扩展市场不跟 Microsoft 那套走 ，得另发一份到 Open VSX。下面把 VS Code 怎么发 、 Open VSX 怎么发 、… |
 | 2026-07-20 | [R#111 投资纪律的考验](https://blog.sakanano.moe/journals/random_111) | 2026.7.14 ~ 2026.7.20 |
 | 2026-07-20 | [去神话后的特洛伊战争简史](https://nigzu.com/a-brief-history-of-the-trojan-war-without-myth/) | 最近《奥德赛》上映，诺兰很擅长在电影中营造氛围感。我对历史感兴趣，但相比浪漫主义的包装，我更喜欢现实 |
 | 2026-07-20 | [七年与暑假](https://www.jackpu.com/qi-nian-yu-shu-jia/) | 北京，终于开始热了。 六月份天气的反常，让大家觉得是不是今年夏天都会这样。不过随着七月，台风过后，北京迎来37度的高温，北京的暑假，比四川老家好一些，北京干燥，虽然气温高，但是风吹着和阴凉的地方，完全不会闷热的感觉。 随着天气升温，电影市场也逐渐回热。我是看新闻才知道，今年票房市场很冷淡，远低于去年… |
@@ -82,8 +86,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-17 | [Memos: Grok Build 可以试试](https://blog.yasking.org/a/1784287222.html) | 官网： https://x.ai/cli 登录后就能使用，免费用户也有一些额度，但是使用 /usage 命令需要升级付费？ 目前看可以作为 Review 代码的一个交 … |
 | 2026-07-17 | [Memos: 谁不想用自己媳妇儿的形象做个电子 “Pet” 呢](https://blog.yasking.org/a/1784285031.html) | ChatGPT 前两天不是出了 Work 模式，今天用网页版也提示我切换 Work 模式体验。 跳转后提示我可以创建自己的专属 Pet，倒很简单，上传 … |
 | 2026-07-17 | [Memos: 洗碗机太大，洗碗机太小](https://blog.yasking.org/a/1784282868.html) | 前几天看 V2EX 大家讨论洗碗机，想了下出租房倒也可以买个小的用。因为一些限制因素，购买了美的的手动上水款 M10 Max(4 套 … |
-| 2026-07-17 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
-| 2026-07-17 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
 | 2026-07-17 | [第一卷 04](https://kaix.in/2026/0712/345a/) | 345a 苏格拉底说，特拉需玛科啊妳倒是畅快淋漓，但是我们并没完全听懂，好心的妳啊，还是得向我们再解释一下；别担心，妳对我们这些人做好事不会像妳所说的那样因为做了正义的事就吃亏的。但是特拉需玛科说，我说了妳也不信，我可不说了。 我心想，苏格拉底说的话不就已经证明了特拉需玛科其实是错的吗，他对我们做正… |
 | 2026-07-17 | [CodeX客户端提示：Windows安装未完成，重试Windows设置](https://www.cheshirex.com/10731.html) | codeX客户端的BUG很多，打开一直卡卡的。最近新安装还会出现“Windows安装未完成，重试Windows […] |
 | 2026-07-17 | [200 美元买来的教训](https://smallyu.net/2026/07/17/200%E7%BE%8E%E5%85%83%E4%B9%B0%E6%9D%A5%E7%9A%84%E6%95%99%E8%AE%AD/) | 其实我早就应该明白、或者已经明白这个道理：策略不可以赚钱。 但是由于工作原因，以及可能受到一些其他影响，我突发奇想开始去尝试 Polymarket 上的策略。 前情提要：《<a |
