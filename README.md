@@ -31,6 +31,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-21 | [凌晨十二点的工作群](https://blog.solazy.me/20260721/) | 今天说个我这两天有点负罪感的事儿 |
 | 2026-07-21 | [Cloudflare Tunnel 内网穿透](https://blog.196000.xyz/2026/2026-07-19-develop-cloudflare-tunnel.html) | 使用 Cloudflare Tunnel 穿透内网服务暴露在外网。 |
 | 2026-07-21 | [Ant Design Pro自定义菜单Icon](https://elliot00.com/posts/ant-design-pro-custom-menu-icon) | umi icons支持路由配置自定义图标，无需额外API。 |
+| 2026-07-21 | [父范学堂 2630 动脑还是动气](https://conge.livingwithfcs.org/2026/07/21/NewDaddy-conflicts/) |  |
 | 2026-07-21 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
 | 2026-07-21 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
 | 2026-07-21 | [Jenkins Helm 升级 2.516→2.568 后流水线失败与 Agent 无法连接的问题排查](https://199604.com/3600) | Jenkins Helm 升级 2.516→2.568 后流水线失败与 Agent 无法连接的问题排查 记录时 […] |
