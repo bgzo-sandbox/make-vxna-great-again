@@ -1,5 +1,19 @@
 [
   {
+    "title": "Cloudflare Tunnel 内网穿透",
+    "url": "https://blog.196000.xyz/2026/2026-07-19-develop-cloudflare-tunnel.html",
+    "date": "2026-07-21T14:00:00Z",
+    "description": "使用 Cloudflare Tunnel 穿透内网服务暴露在外网。",
+    "source_root_domain": "196000.xyz"
+  },
+  {
+    "title": "Ant Design Pro自定义菜单Icon",
+    "url": "https://elliot00.com/posts/ant-design-pro-custom-menu-icon",
+    "date": "2026-07-21T13:25:18Z",
+    "description": "umi icons支持路由配置自定义图标，无需额外API。",
+    "source_root_domain": "elliot00.com"
+  },
+  {
     "title": "独立开发者的英国公司报税（2026）",
     "url": "https://www.meettea.com/uk-company-tax-2026.html",
     "date": "2026-07-21T06:57:30Z",
@@ -173,6 +187,13 @@
     "date": "2026-07-19T16:00:00Z",
     "description": "Foreword 之前学 VS Code 插件，算是半途而废。最近结合 Agent，把当时没做完的想法做完了，刚好这东西能塞进目前这套 AI 工作流里。 Agent 工作流 里反复强调一件事：先文档、后代码；文档得是 Agent 能读、人能审的单一事实来源。 wolai 管产品需求没问题，但落到具体模块、具体函数时，设计上下文往往还是散的，注释里有一点、README 里有一点、脑子里有一点。于是就有了 CodeBind Docs。 为什么要做 下一代编辑器怎么吹都行，现实里无论哪种 IDE，核心还是代码；文档怎么改，都和代码是两套东西。文档不同步、散落各处，要维护就异常痛苦。 常见几种情况： 往源码里塞大段注释，污染代码，review 时噪音一大堆 文档丢到云端 wiki，和仓库版本对不上，Agent 也摸不着 靠人记得「这个函数的设计在某某页」，人会忘，Agent 更不会自己猜 与Agent共同工作，某些时候框架设计都是堆在一起的，某一个文档，但是当你看代码的时候不一定会意识到对应的文档 既然如此，为什么不把代码和文档绑紧一点？理想态当然是混在同一个文件里：上面文档（图、视频都行），",
     "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "ovid",
+    "url": "https://jrd.pub/260720_ovid/",
+    "date": "2026-07-19T16:00:00Z",
+    "description": "此前的年终总结中提到，去年花了一些时间做了一款叫做 ovid 的阅读器： https://ovid.ink 前三个字母「OVI」，来自印钞中的变色油墨（Optical Variable Ink）。这种墨水的特性之一是在不同的角度下会呈现不一样的色彩。 想要自己做一个阅读器的动机非常单纯：我不太喜欢传统的那种原文/译文 paragraph by paragraph / page by page 对照的那种双语书形式。 我理解这样的排版有助于英语学习，但我其实很多时候只是想更流畅地理解书中内容的意思，而并不在意是否有学到什么。因此这样的形式常常让我读着读着就失焦了。我自己阅读原版文本的一种常见的过程是「读原文」->「某段文本没看懂，但不想细究语法 / 词汇，只是想快速知道意思」->「看译文」->「继续读后面的原文」。其他的情况也包括：读原文有点累了，但我很想知道接下来的内容，想纯粹地看一会儿译文。我想对某本没有中文译本的书做 skimming reading，此时显然用母语来做是更快的。这些情况下，双语书的形式都很影响阅读效率。 于是我做了 ovid。 如图所示，你可以通过点击段落在原文/",
+    "source_root_domain": "jrd.pub"
   },
   {
     "title": "波动的理解",

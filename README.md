@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-21 | [Cloudflare Tunnel 内网穿透](https://blog.196000.xyz/2026/2026-07-19-develop-cloudflare-tunnel.html) | 使用 Cloudflare Tunnel 穿透内网服务暴露在外网。 |
+| 2026-07-21 | [Ant Design Pro自定义菜单Icon](https://elliot00.com/posts/ant-design-pro-custom-menu-icon) | umi icons支持路由配置自定义图标，无需额外API。 |
 | 2026-07-21 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
 | 2026-07-21 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
 | 2026-07-21 | [Jenkins Helm 升级 2.516→2.568 后流水线失败与 Agent 无法连接的问题排查](https://199604.com/3600) | Jenkins Helm 升级 2.516→2.568 后流水线失败与 Agent 无法连接的问题排查 记录时 […] |
@@ -52,6 +54,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-19 | [「AI 说」单机版三体人：孤独的终极形态](https://www.wdssmq.com/post/20201030387.html) | 本文 AI 含量：99.9% 这是一个极具张力的思想实验。在《三体》原著中，三体人的本质是 “高阶协作体” ——思维透明、个体为整体服务、意识互联。而“单机版”意味着彻底剥离这些特性，将一个拥有三体人内核的个体，完全抛入没有同类、没有反馈、没有连接的绝对孤寂中。 从哲思与心理学的双重视角切入，这不再… |
 | 2026-07-19 | [精读《深入理解 AI Agent：设计原理与工程实践》](https://ghyghoo8.github.io/2026/07/20/2026-07-20-%E7%B2%BE%E8%AF%BB%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-AI-Agent-%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5/) | 出处： bojieli/ai-agent-book<i |
 | 2026-07-19 | [CodeBind Docs插件](https://elmagnifico.tech/2026/07/20/CBD-VSC-Plugin/) | Foreword 之前学 VS Code 插件，算是半途而废。最近结合 Agent，把当时没做完的想法做完了，刚好这东西能塞进目前这套 AI 工作流里。 Agent 工作流 里反复强调一件事：先文档、后代码；文档得是 Agent 能读、人能审的单一事实来源。 wolai 管产品需求没问题，但落到具体… |
+| 2026-07-19 | [ovid](https://jrd.pub/260720_ovid/) | 此前的年终总结中提到，去年花了一些时间做了一款叫做 ovid 的阅读器： https://ovid.ink 前三个字母「OVI」，来自印钞中的变色油墨（Optical Variable Ink）。这种墨水的特性之一是在不同的角度下会呈现不一样的色彩。 想要自己做一个阅读器的动机非常单纯：我不太喜欢传… |
 | 2026-07-19 | [波动的理解](https://z.arlmy.me/posts/ZArlmyMe/Damping_20260719/) | 「摩擦和阻尼。」 |
 | 2026-07-19 | [SOP 复制不了那双手](https://blog.solazy.me/20260719/) | 之前说时不时要聊聊通感能力和这个世界运转的规律，今天来更一篇这个主题的内容 |
 | 2026-07-19 | [游牧地活着](https://z.arlmy.me/posts/ZArlmyMe/BeHunterGatherer_20260719/) | 「最小规模的土地上，最小规模地游牧。」 |
