@@ -27,7 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-22 | [和一把电脑椅互动](https://www.hecaitou.com/2026/07/interaction-with-a-computer-chair.html) | 我有一把电脑椅，把人体工学那些神话暂且放在一边，它最大的优点是内藏一块电池，可以给腰部的气囊充放气。这样调节腰部支撑力的时候，简直就是无级变速，非常之妥帖，非常之好用。 但这不是今天的重点。即便气密性做得很好的气囊，它也在缓慢地漏气。当然，品质越好，泄漏速度也就越慢，越难以让人觉察。问题在于，我每天… |
+| 2026-07-22 | [AI 还原已故亲人，也制造精神病人？I](https://mobius.blog/25126.html) | 首先要叠个甲，不是说用 AI 来模拟已故亲人的人，最终都会得精神病。之所以要叠这个甲，你看下去就明白了。 前两 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-22 | [Jenkins Vue 前端流水线构建异常排查（pnpm 版本、husky、构建脚本拦截、OOM）](https://199604.com/3602) | Jenkins Vue 前端流水线构建异常排查（pnpm 版本、husky、构建脚本拦截、OOM） 记录时间： […] |
+| 2026-07-22 | [opencodex：让 Codex 和 Claude Code 跑在任意 LLM 上](https://youngxhui.top/2026/07/opencodex-third-party-models/) | opencodex 是一个本地代理，把 Codex 的 Responses API 翻译成任意 LLM provider 的协议。你可以在 Codex CLI、Codex App、SDK 里用 Claude、Gemini、DeepSeek、Grok、GLM、Qwen 甚至本地 Ollama 模型——… |
 | 2026-07-21 | [LLM Local Inference](https://ahdw.casacam.net/2026/07/22/llm-local-inference/) | 让我试着梳理一下我的思路，把 LLM 在消费级硬件上的 local inference 讲一讲。 Hook K […] |
 | 2026-07-21 | [凌晨十二点的工作群](https://blog.solazy.me/20260721/) | 今天说个我这两天有点负罪感的事儿 |
 | 2026-07-21 | [Cloudflare Tunnel 内网穿透](https://blog.196000.xyz/2026/2026-07-19-develop-cloudflare-tunnel.html) | 使用 Cloudflare Tunnel 穿透内网服务暴露在外网。 |
