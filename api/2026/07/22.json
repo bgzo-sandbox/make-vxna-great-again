@@ -1,0 +1,198 @@
+[
+  {
+    "title": "Jenkins Vue 前端流水线构建异常排查（pnpm 版本、husky、构建脚本拦截、OOM）",
+    "url": "https://199604.com/3602",
+    "date": "2026-07-22T02:24:25Z",
+    "description": "Jenkins Vue 前端流水线构建异常排查（pnpm 版本、husky、构建脚本拦截、OOM） 记录时间： […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "LLM Local Inference",
+    "url": "https://ahdw.casacam.net/2026/07/22/llm-local-inference/",
+    "date": "2026-07-21T16:09:35Z",
+    "description": "让我试着梳理一下我的思路，把 LLM 在消费级硬件上的 local inference 讲一讲。 Hook K […]",
+    "source_root_domain": "ahdw.casacam.net"
+  },
+  {
+    "title": "凌晨十二点的工作群",
+    "url": "https://blog.solazy.me/20260721/",
+    "date": "2026-07-21T15:00:00Z",
+    "description": "今天说个我这两天有点负罪感的事儿",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Cloudflare Tunnel 内网穿透",
+    "url": "https://blog.196000.xyz/2026/2026-07-19-develop-cloudflare-tunnel.html",
+    "date": "2026-07-21T14:00:00Z",
+    "description": "使用 Cloudflare Tunnel 穿透内网服务暴露在外网。",
+    "source_root_domain": "196000.xyz"
+  },
+  {
+    "title": "Ant Design Pro自定义菜单Icon",
+    "url": "https://elliot00.com/posts/ant-design-pro-custom-menu-icon",
+    "date": "2026-07-21T13:25:18Z",
+    "description": "umi icons支持路由配置自定义图标，无需额外API。",
+    "source_root_domain": "elliot00.com"
+  },
+  {
+    "title": "父范学堂 2630 动脑还是动气",
+    "url": "https://conge.livingwithfcs.org/2026/07/21/NewDaddy-conflicts/",
+    "date": "2026-07-21T10:50:20Z",
+    "description": "解决姐弟间的一次冲突 解决姐弟间的一次冲突 昨天，儿子和女儿互相生气，都觉得对方必须向自己道歉。 我分别和他们谈话，用提问的方式让他们看清自己的想法。 下面是和姐姐谈话的事后回忆润色版。和弟弟的对话也是大致如此。",
+    "source_root_domain": "livingwithfcs.org"
+  },
+  {
+    "title": "独立开发者的英国公司报税（2026）",
+    "url": "https://www.meettea.com/uk-company-tax-2026.html",
+    "date": "2026-07-21T06:57:30Z",
+    "description": "给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。",
+    "source_root_domain": "meettea.com"
+  },
+  {
+    "title": "终结竞争：从护城河到商业终局的实战指南",
+    "url": "https://www.meettea.com/business-moat-endgame.html",
+    "date": "2026-07-21T06:57:29Z",
+    "description": "从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构",
+    "source_root_domain": "meettea.com"
+  },
+  {
+    "title": "Jenkins Helm 升级 2.516→2.568 后流水线失败与 Agent 无法连接的问题排查",
+    "url": "https://199604.com/3600",
+    "date": "2026-07-21T03:49:14Z",
+    "description": "Jenkins Helm 升级 2.516→2.568 后流水线失败与 Agent 无法连接的问题排查 记录时 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "雨雨雨雨雨",
+    "url": "https://hux.ink/posts/yu-yi-zhi-xia/",
+    "date": "2026-07-21T03:43:00Z",
+    "description": "今年深圳的天气比较反常，来深十多年，从来没有哪一年像今年这样下这么长时间的雨，从 5 月份开始一直到现在，没怎么间断过。而且特别会挑时间，出门上班的时候下大、下班回家路上下大，半夜凌晨电闪雷鸣，让打工人不得安生。 5 月中旬买的自行车，买回来两个多月，也因为天气原因只出去骑了两三次。当时趁着账户有点浮盈买的，假如到现在这行情，可能就没那么爽快下单了。 端午节自驾去龙南玩了几天，去看了客家围屋，也上了南武当山。但游玩回深后我就感染新一轮新冠，直接病倒了，紧接着中秋同学和娃也接连感染，一家人折腾了整整两三周。 安安幼儿园毕业了。毕业放假后的那个周末，我花了整整一个下午给安安整理幼儿园这三年的相册，从班级群相册中一张张挑选下载，备份到电脑本地，给长大后的他留一份“记忆”。 招财大屁股家的阿弟和我家安安同岁，比安安小四天。他前不久在夜报中说替他家阿弟惋惜，明明是最快乐的幼儿园时光，但长大后几乎不记得，回忆里最多少许零星片段。他自己到今天只留下了一张才艺表演的照片，至于老师是谁，同学是谁，都忘了。我很认同这句话，幼儿园一毕业，人生真正意义上无忧无虑的时光，马上就要结束了。 随毕业证书、毕业照一起",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "为球星失恋",
+    "url": "https://www.hecaitou.com/2026/07/Heartbroken-over-a-Football-Legend.html",
+    "date": "2026-07-21T03:25:01Z",
+    "description": "我是真没想到，这一届世界杯的后劲会有那么足，有好几位读者看完决赛之后跑到我这里来留言，说是一整天茶饭不思，无心睡眠，就那么失魂落魄、浑浑噩噩地一个人待着。尤其是提到梅西的时候，我感觉他们的眼泪在屏幕那一头早已经抑制不住地流下来。 失恋，朋友，这就是失恋，为了世界杯失恋，也是为了自己喜欢的球星黯然退场而失恋。 没有什么羞惭的，也没有什么尴尬的，这种情感很正常，每一代人都有自己失恋的足球巨星。回到 2004年5月16日，传奇足球运动员、前锋、人称「九号半」的罗伯特·巴乔（港译：巴治奥），在 圣西罗球场完成最后一场比赛，在第 89 分钟替换下场，泪洒绿茵。 现在，请擦干你脸上为梅西流的眼泪，随便找个搜索引擎，输入关键词「忧郁王子巴乔」，浏览一下返回的结果。你会发现，在 22 年前从媒体到个人都陷入了严重的失恋，泪洒长空，热血难凉，无限相思道不尽。那些文章哪里是什么新闻报道，人物特写，个人回顾？情书，全都是一篇篇情书，一家比一家肉麻，此起彼伏呼喊着「啊，王子，我的王子」，症状远比现在范围广，程度深，甚至需要心理干预。 提起巴乔，我并不是为了「想当年」，而是想说一代人有一代人的贝利，一代人有一代",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "被强行拖入的 SOP",
+    "url": "https://mobius.blog/25118.html",
+    "date": "2026-07-21T01:00:00Z",
+    "description": "前几天，看完@Solazy 发布的一篇博客——《SOP 复制不了那双手》，把两段话复制进来灵感收集条目里，想着 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "VSC/Cursor插件上架",
+    "url": "https://elmagnifico.tech/2026/07/21/CBD-Publisher-OpenVSX/",
+    "date": "2026-07-20T16:00:00Z",
+    "description": "Foreword CodeBind Docs 写完、VS Marketplace 也挂上去了，本以为 Cursor 那边搜一下就能装。结果发现： Cursor 扩展市场不跟 Microsoft 那套走 ，得另发一份到 Open VSX。下面把 VS Code 怎么发 、 Open VSX 怎么发 、以及这趟踩的坑一起记下来，免得下次又忘。 两套市场 Cursor和VS Code的插件市场原本是一套，但是后来微软收紧策略，导致分开了，变成了2个市场。 Cursor 里有两套完全不同的「市场」，名字都带 marketplace 名字 实际装啥 怎么上架 Extensions （扩展面板） VS Code 那类插件，CBD 就是这个 发到 Open VSX Plugins （Customize / cursor.com/marketplace） rules、skills、MCP、hooks 另搞一套 .cursor-plugin/ ，走人工审核 CBD 是正经 VS Code 扩展，跟 Cursor Plugin 那套无关。想让人在 Cursor 里 Ctrl+Shift+X 搜到， 只发 ",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "AI|AI面试题,AI来解答",
+    "url": "https://programnotes.cn/ai-interview/index.html",
+    "date": "2026-07-20T16:00:00Z",
+    "description": "第一轮面试官（技术负责人） RAG 召回效果排查与调优设计。 LangGraph 的理解：谈谈你对 LangGraph 中 Human-in-the-Loop 的理解，以及如何支持重启和多端并发？ SSE 流式乱序：在流式对话中，如何防止消息乱序？ React Native 经验：是否有 React Native 相关项目落地？ React 性能优化：复杂商城页面中，父组件筛选条件切换导致大量无关子组件重渲染，如何排查和解决？ Next.js 实践：是否有真实的 Next.js 服务端渲染项目经验？ Monorepo 工程化：谈谈你的见解，以及常见的目录结构（如 apps 、packages 等）分别放什么？ AI 代码质量/幻觉控制：在 AI 辅助编程中，如何做工程化建设（ Harness ）来保证代码可靠且不上下文漂移？ 上下文漂移的强制约束：如果老项目有自己的规范，如何强制或软约束 AI 遵循当前项目规范，而非全局通用规则？ AI 编程工具钩子：对 Cursor 或 Cline 的生命周期钩子（ Hooks ）了解多少？ 第二轮面试官（同事/交叉面） 多工具规范复用：多套 AI ",
+    "source_root_domain": "programnotes.cn"
+  },
+  {
+    "title": "壮了，还是胖了",
+    "url": "https://blog.solazy.me/20260720/",
+    "date": "2026-07-20T15:00:00Z",
+    "description": "今天听到同事的一句话……",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "R#111 投资纪律的考验",
+    "url": "https://blog.sakanano.moe/journals/random_111",
+    "date": "2026-07-20T14:54:00Z",
+    "description": "2026.7.14 ~ 2026.7.20",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "去神话后的特洛伊战争简史",
+    "url": "https://nigzu.com/a-brief-history-of-the-trojan-war-without-myth/",
+    "date": "2026-07-20T14:40:51Z",
+    "description": "最近《奥德赛》上映，诺兰很擅长在电影中营造氛围感。我对历史感兴趣，但相比浪漫主义的包装，我更喜欢现实",
+    "source_root_domain": "nigzu.com"
+  },
+  {
+    "title": "七年与暑假",
+    "url": "https://www.jackpu.com/qi-nian-yu-shu-jia/",
+    "date": "2026-07-20T12:20:44Z",
+    "description": "北京，终于开始热了。 六月份天气的反常，让大家觉得是不是今年夏天都会这样。不过随着七月，台风过后，北京迎来37度的高温，北京的暑假，比四川老家好一些，北京干燥，虽然气温高，但是风吹着和阴凉的地方，完全不会闷热的感觉。 随着天气升温，电影市场也逐渐回热。我是看新闻才知道，今年票房市场很冷淡，远低于去年，韩红的“走个面儿”火爆社交圈。 我后面一想，也确实，从个人出发，我今年去影院就看了一部《镖人》，给袁和平指导走个面，当然我也是功夫迷。 不过好在，七月初，星爷的《功夫女足》极限定档，就是那种压根没宣传的，上映前一天，才剪好预告片。我瞬间觉得，今年真的是过年了，有好多值得期待的作品，比如漫威《复联5》，诺兰的《奥德赛》，还有时隔多年的蜘蛛侠内地上映。 我作为星爷粉丝，其实觉得蛮意外的，因为他是一个非常慢节奏的人，一般保持3-5年一部作品的节奏，我有时候都抱怨，为什么不学学张艺谋，",
+    "source_root_domain": "jackpu.com"
+  },
+  {
+    "title": "用 Swift 构建 MCP Server：从零到接入 Claude 的完整教程",
+    "url": "https://gptkit.eth.limo/90118240-79C9-4595-B7A3-33FF11646055/",
+    "date": "2026-07-20T11:42:55Z",
+    "description": "如果你是 Swift 开发者，又想把自己 Mac 上的能力（本地文件、Shortcuts、Xcode 项目、Core Data 数据……）暴露给 Claude、ChatGPT 这类 AI 助手，那么 MCP Server 就是你要的东西。而目前主流的 MCP 教程几乎都是 Python 或 TypeScript，Swift 版本极少——这也让 “swift mcp server” 成为一个几乎无人竞争的关键词。 本文用一个能跑通的最小示例，带你从零构建一个 Swift MCP Server，并接入 Claude Desktop。 什么是 MCP Server？ Model Context Protocol (MCP) 是 Anthropic 在 2024 年底提出的开放协议，用来标准化 “LLM 应用 ↔ 外部工具/数据源” 之间的通信。你可以把它理解成 “AI 应用的 USB-C” ： MCP Host ：AI 应用（Claude Desktop、Cursor、Codex CLI……） MCP Client ：Host 内部为每个连接建立的会话客户端 MCP Server ：你写的进",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "向云端｜西南自驾02 - 婺源",
+    "url": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-02-wuyuan.html",
+    "date": "2026-07-20T11:35:14Z",
+    "description": "",
+    "source_root_domain": "ops-coffee.cn"
+  },
+  {
+    "title": "拍记血压 —— 给血压计拍照就能记录血压",
+    "url": "https://www.boris1993.com/bpsnap.html",
+    "date": "2026-07-20T07:23:36Z",
+    "description": "我做了一个微信小程序，叫「拍记血压」。 起因很简单：我看到我妈每天量完血压，都要拿纸把测量结果写下来。这样确实能记，但每次都要写在纸上也挺麻烦，而且纸一丢，之前的记录也就没了。所以我这个程序员儿子就有了这么一个想法，量完血压后，拿手机拍一下血压计，小程序就能自动识别血压计的读数。之后可以按时间查看历史记录和趋势。 如果需要给医生看的话，还能把结果导出到有图表的PDF中。 感兴趣的话，也可以扫图里的小程序码试试。",
+    "source_root_domain": "boris1993.com"
+  },
+  {
+    "title": "野人编年史",
+    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
+    "date": "2026-07-20T06:36:56Z",
+    "description": "野人编年史 野人创始人： 徐队，群昵称Shogun。姓徐，称徐队，真野人队长。 张队，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队，群昵称熊嘎婆，称熊队。“野人CLUB游泳事业部”群主。 亮队，群昵称亮什么，称亮队，野人官号 @重庆野人冬泳俱乐部 拥有者。 重要声明： “野人队”在加入“泳往直前”之前就已成立，我们不是另起炉灶，我们也不搞分裂主义。 我们永远欢迎“泳往直前”成员加入“野人队”，也永远欢迎“野人队”的成员随时加入“泳往直前”。 “野人队”永远是“泳往直前”的好朋友。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入“大竹林冬泳队”。 徐队、张队、熊队日常于“大竹林冬泳基地”进行户外游泳，队伍初具雏形，并开始尝试冬泳。 11月 徐队、张队、熊队代表“大竹林冬泳队”第一次参加广阳岛冬泳比赛。 12月 徐队、张队坚持冬泳，被亮队唤作“野人”，“野人队”队名初具雏形[ 1 ]。 2025年 1月 亮队正式加入，创始人集齐，正式成立“重庆野人冬泳俱乐部”。 2月 制作野人队旗、野人队服、野人泳帽等物料[ 1 ]",
+    "source_root_domain": "zhanglintc.co"
+  },
+  {
+    "title": "翻译-我加入了 IndieWeb，以下是我的收获",
+    "url": "https://blog.prayhand13013.top/20260720T141512--翻译-我加入了-indieweb，以下是我的收获__blog.html",
+    "date": "2026-07-20T06:15:00Z",
+    "description": "",
+    "source_root_domain": "tomoemami.github.io"
+  },
+  {
+    "title": "体感",
+    "url": "https://www.hecaitou.com/2026/07/Personal-Sensation.html",
+    "date": "2026-07-20T04:15:28Z",
+    "description": "昨天我说北京近年来夏季太湿润，为了过得舒服一点我甚至买了除湿机。有个读者留言说： 「作为一个长期北京出差的南方人，我觉得多少还是有点大惊小怪了，北京现在的湿润是良性的，跟现在的上海比，根本不是一回事。」 于是我伸手轻轻弹了一小下，对方立即选择取消关注。 生活里类似的人很多，在稍微需要一点理解力的时候，他们就会出状况。我觉得干燥或者湿润，这是我个人的体感。要纠正他人的个人体感，而且还要给对方安上一堆「作」、「娇气」、「大惊小怪」的帽子，这种事情我就觉得有点怪。 即便用较为客观的方式来讨论这种问题，一个从梅雨区出来的人，夏季经常体验 90% 的湿度，那么遇见北京 70% 湿度的夏天，当然会觉得没有那么潮湿。但人这种动物有一种特殊的能力，比如说我就有，我就会反过来思考：一个常驻北京的人，多年来感受到湿度在 40% 左右，近两年的夏季湿度突然飙升到 70%、80%，他应该会很不适应，会感觉很不舒服。 要做类似的思考很难么？看起来是很难，因为很多人做不到。 今天又遇见一个新例子。我多年前的一位熟人移居日本，家里添丁有了两个孩子。于是在网上就可以看到他日常抱怨带孩子的辛苦，诉说精神上的巨大痛苦。天",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "地铁安检为何无效？",
+    "url": "https://yipai.me/post/2540.html",
+    "date": "2026-07-20T03:34:00Z",
+    "description": "今天在 V 站看到个帖子吐槽地铁安检的，没想到帖子里面还有一些人支持地铁安检。说说我的想法吧。其实这事儿很简单，因为地铁站安检完全不能起到应有的效果。这个无效，都不用考虑安检机、开包目视是否能检查出危险品，而是地铁站与机场不一样，是非封闭空间。机场之所以安检有效，因为机场只有“一个”入口，从入口进去后，就无法再跟外界有交换物资的能力。而地铁站一般四个口，互相",
+    "source_root_domain": "yipai.me"
+  },
+  {
+    "title": "最近惦念 20260705",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260705_Recently/",
+    "date": "2026-07-20T03:21:27Z",
+    "description": "「无目的行动，是自我的直接来源。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "现实没有正确答案，只有错题集",
+    "url": "https://mobius.blog/25111.html",
+    "date": "2026-07-20T01:00:00Z",
+    "description": "前几天在关于页面收到一条留言，看完之后，我反而不知道该怎么“回复”了。上周完成小说初稿时，我几乎是带着对自己各 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Memos #2026-07-19",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-07-20T00:00:00Z",
+    "description": "20:04 刚看完《八仙》，在看之前已经被动地刷到一些好评和吹捧，所以有一个较高的预期，看完觉得还是超出了我的预期。 所有的细节都有回收，比如挖到猪棚的洞、土鸭子、师兄救的小男孩等，看的时候也会想这里是不是伏笔，电影回收的时机太好了； 杨戬的神性与数值，主角团使出所有底牌都伤不到他分毫，这一点我很满意； 孙悟空的排面，无需多言，出场必然是最强梯队，也贡献了关键作用； 骗局之上贯穿整个故事骗局，最大的反转，消除了他是护宝神仙的误解，同时也合理了他所有的动机； 干净利索的打戏，新瓶装旧酒的神话故事。 我对把整个故事作为一个大局的剧情特别偏爱，看完也不由的感慨一句：「AI 还是完全无法替代这个行业，至少这部电影不行」，也很庆幸！",
+    "source_root_domain": "taober.blog"
+  }
+]

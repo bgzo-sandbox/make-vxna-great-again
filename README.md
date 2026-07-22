@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-22 | [Jenkins Vue 前端流水线构建异常排查（pnpm 版本、husky、构建脚本拦截、OOM）](https://199604.com/3602) | Jenkins Vue 前端流水线构建异常排查（pnpm 版本、husky、构建脚本拦截、OOM） 记录时间： […] |
 | 2026-07-21 | [LLM Local Inference](https://ahdw.casacam.net/2026/07/22/llm-local-inference/) | 让我试着梳理一下我的思路，把 LLM 在消费级硬件上的 local inference 讲一讲。 Hook K […] |
 | 2026-07-21 | [凌晨十二点的工作群](https://blog.solazy.me/20260721/) | 今天说个我这两天有点负罪感的事儿 |
 | 2026-07-21 | [Cloudflare Tunnel 内网穿透](https://blog.196000.xyz/2026/2026-07-19-develop-cloudflare-tunnel.html) | 使用 Cloudflare Tunnel 穿透内网服务暴露在外网。 |
@@ -136,17 +137,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-15 | [求医不如求神](https://mobius.blog/25080.html) | 昨天去定期体检。先说最为震撼的一句话，是在抽血窗口前，一个护士喊道：这是谁，不要把病人扔在路中间。 之前每次去 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-15 | [I Ditched My Living Room Coffee Table and Sectional Sofa](https://victor42.eth.limo/post-en/living-room-redesign-with-ai/) | Sudden Inspiration and Determination It all started when I was chatting with a friend from my former company about reading. She told me she had specif… |
 | 2026-07-15 | [我扔掉了客厅茶几与组合沙发](https://victor42.eth.limo/post/living-room-redesign-with-ai/) | 突如其来的灵感和决心 起因是和前司的朋友聊天，聊到读书，朋友说她为此专门改造了客厅。我看完她家照片大受启发，现代人小家庭城市生活，到底需要什么样的客厅，在脑袋里一推演就会有答案。只是忙碌的成年人，很少能拿出勇气做点改变，让自己的生活变得更美好一点点。 不过，决心这个东西，说来就来的，不需要什么心理准… |
-| 2026-07-14 | [针对当前机场节点不稳定的一个方案-为机场订阅添加一层 VPS 中转](https://blog.harumonia.moe/posts/2026-07-14-vps-proxy) | 用一台美区 VPS，给机场订阅套一个固定出口 问题背景 目前笔者使用的是 机场订阅 这样的一个 🪜 方案，但是今年上半年服务变得非常地不稳定，在相关的技术论坛上，这似乎是一个普遍的现 访问 https://blog.harumonia.moe/posts/2026-07-14-vps-proxy 阅… |
-| 2026-07-14 | [20260714的胡言乱语](https://www.bboy.app/2026/07/14/20260714%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
-| 2026-07-14 | [Random Thoughts - 20260714](https://www.bboy.app/2026/07/14/random-thoughts-20260714/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
-| 2026-07-14 | [早晨跑步有风有阳光](https://cufezhusy.github.io/issue-23/) | 在公司电脑里装上了Chrome和Github，还登录上了小红书。感谢我现在用Github写博客，可以光明正大的摸鱼不被发现。 早晨六点的时候在公园里跑步，夏天早晨的阳光打在树林上，夏天里的凉风是给人类最美的礼物之一。 |
-| 2026-07-14 | [重返HTB：环境配置与Cap Writeup](https://mocusez.site/zh-CN/posts/dafd) | HTB Cap Writeup |
-| 2026-07-14 | [OpenDataLoader 开源 PDF 解析工具 懒人整合包](https://dsx2016.com/opendataloader-open-source-pdf-parsing/) | OpenDataLoader 简介 OpenDataLoader 是一个面向 AI 文档处理的开源 ... OpenDataLoader 开源 PDF 解析工具 懒人整合包 最先出现在 大师兄2016 。 |
-| 2026-07-14 | [AI 留存率的挑战：介于手游与社交网络之间，不断涌入又不断流失](https://wenfeixiang.com/2026/07/the-user-retention-rate-for-ai-company/) | 有个数据指标，做 AI 的人很少公开聊，但每个人心里都清楚，这个指标是个痛点。这就是：留存率。 知名风险投资人 […] |
-| 2026-07-14 | [当职业素养成了稀缺品](https://blog.solazy.me/20260714/) | 现在在职场上找到同路人，真的成为了奢望…… |
-| 2026-07-14 | [场面人](https://www.hecaitou.com/2026/07/The-Performers.html) | 「场面人」这个词是很多年前宁财神教我的，想来应该是上海话。但宁财神是闸北人，后来闸北也没有了，他还算不算是上海人这件事目前存疑。 当时我们闲坐扯淡，谈到某个人的时候，他突然来了一句：「那是个场面人。」听到这三个字，我就觉得如闻晨钟暮鼓，心头一时明亮了起来。刚刚北漂的我，看什么都觉得新鲜，看什么都觉得… |
-| 2026-07-14 | [手腕悬空，真的会影响输入速度吗？](https://mobius.blog/25071.html) | 好久好久没有“本着越是无厘头的标题，聊越正经的话题”了。 关于标题这个问题，是我真的问过 ChatGPT 的问 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-14 | [集团翻译应用的交互优化与量化验证（下）](https://lrd.im/blog/2026-07-14) | 这篇文章将分享我在如何在 GSM 框架的驱动下优化外部语言槽位和对选择语言面板的易用性进行优化，并提供上线后数据对比。 |
 
 ## Vibe Coding
 
