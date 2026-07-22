@@ -55,6 +55,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-20 | [七年与暑假](https://www.jackpu.com/qi-nian-yu-shu-jia/) | 北京，终于开始热了。 六月份天气的反常，让大家觉得是不是今年夏天都会这样。不过随着七月，台风过后，北京迎来37度的高温，北京的暑假，比四川老家好一些，北京干燥，虽然气温高，但是风吹着和阴凉的地方，完全不会闷热的感觉。 随着天气升温，电影市场也逐渐回热。我是看新闻才知道，今年票房市场很冷淡，远低于去年… |
 | 2026-07-20 | [用 Swift 构建 MCP Server：从零到接入 Claude 的完整教程](https://gptkit.eth.limo/90118240-79C9-4595-B7A3-33FF11646055/) | 如果你是 Swift 开发者，又想把自己 Mac 上的能力（本地文件、Shortcuts、Xcode 项目、Core Data 数据……）暴露给 Claude、ChatGPT 这类 AI 助手，那么 MCP Server 就是你要的东西。而目前主流的 MCP 教程几乎都是 Python 或 Type… |
 | 2026-07-20 | [向云端｜西南自驾02 - 婺源](https://blog.ops-coffee.com/r/2026-southwest-road-trip-02-wuyuan.html) |  |
+| 2026-07-20 | [域名切换到blog.alliot.tech](https://blog.alliot.tech/post/domain-switch-2026) | 纠结许久，但还是把博客域名切换到了 blog.alliot.tech ，这次的标签 “折腾”，名副其实了。那么切换一个用了十几年的域名都需要经历怎样的折腾呢？ |
 | 2026-07-20 | [拍记血压 —— 给血压计拍照就能记录血压](https://www.boris1993.com/bpsnap.html) | 我做了一个微信小程序，叫「拍记血压」。 起因很简单：我看到我妈每天量完血压，都要拿纸把测量结果写下来。这样确实能记，但每次都要写在纸上也挺麻烦，而且纸一丢，之前的记录也就没了。所以我这个程序员儿子就有了这么一个想法，量完血压后，拿手机拍一下血压计，小程序就能自动识别血压计的读数。之后可以按时间查看历… |
 | 2026-07-20 | [翻译-我加入了 IndieWeb，以下是我的收获](https://blog.prayhand13013.top/20260720T141512--翻译-我加入了-indieweb，以下是我的收获__blog.html) |  |
 | 2026-07-20 | [体感](https://www.hecaitou.com/2026/07/Personal-Sensation.html) | 昨天我说北京近年来夏季太湿润，为了过得舒服一点我甚至买了除湿机。有个读者留言说： 「作为一个长期北京出差的南方人，我觉得多少还是有点大惊小怪了，北京现在的湿润是良性的，跟现在的上海比，根本不是一回事。」 于是我伸手轻轻弹了一小下，对方立即选择取消关注。 生活里类似的人很多，在稍微需要一点理解力的时候… |
