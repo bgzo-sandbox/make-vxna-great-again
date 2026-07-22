@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-22 | [Brain0：只做 AI 生成代码场景的可观测性工具太可惜](https://luweiqing.com/resources/Brain0.html) | https://github.com/Brain0-ai/brain0一款专为 AI 生成代码场景设计的代码决策追踪与治理工具，其核心定位是“AI 编写代码的黑盒”（The black box ... |
 | 2026-07-22 | [如果要在一个周末上线Vibe Coding产品，我会这样做](https://www.icebeer.top/%e5%a6%82%e6%9e%9c%e8%a6%81%e5%9c%a8%e4%b8%80%e4%b8%aa%e5%91%a8%e6%9c%ab%e4%b8%8a%e7%ba%bfvibe-coding%e4%ba%a7%e5%93%81%ef%bc%8c%e6%88%91%e4%bc%9a%e8%bf%99%e6%a0%b7%e5%81%9a/) | 本期邀请到了@莱纳德陈，一名在外资银行工作的产品经理。 他在纽约大学读完商业数据硕士，曾经做过说唱、打过橄榄球 […] 如果要在一个周末上线Vibe Coding产品，我会这样做 最先出现在 🍺 IceBeer 。 |
 | 2026-07-22 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人： 徐队，群昵称Shogun。姓徐，称徐队，真野人队长。 张队，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队，群昵称熊嘎婆，称熊队。“野人CLUB游泳事业部”群主。 亮队，群昵称亮什么，称亮队，野人官号 @重庆野人冬泳俱乐部 拥有者。 重要声明： “野人队”在加入“泳往直前”… |
 | 2026-07-22 | [反对狗奴与反对虐狗并不冲突](https://yipai.me/post/2541.html) | 网上关于狗的讨论很有意思。有人发帖反对虐狗，下面马上有人问：狗到处撒尿怎么办？狗咬人怎么办？人都照顾不过来，还照顾狗？我不明白这些问题跟虐狗有什么关系。狗乱撒尿，让主人清理；狗咬了人，让主人赔偿，该怎么处置就怎么处置；流浪狗太多，也可以捕捉、绝育和收容。反对把狗绑起来折磨，跟这些事情有任何冲突吗？好… |
