@@ -31,6 +31,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-23 | [心踩西瓜皮](https://www.hecaitou.com/2026/07/Mind-on-a-Watermelon-Peel.html) | 有读者问我，当我描述一个人内心的想法时用了「脚踩西瓜皮」这个形容，应该作何解？ 它其实是一句歇后语，其完整形式是：脚踩西瓜皮---滑到哪里算哪里。意思是不管不顾，凭着本能、运气或者习惯行事，也不去理会结果如何。类似的俗语还有破罐破摔，但脚踩西瓜皮强调了快速、随性的那一面，并没有任何决然的意味，也没有… |
 | 2026-07-23 | [Nginx 多层代理下大文件上传失败排查（MySQL max_allowed_packet 限制）](https://199604.com/3604) | Nginx 多层代理下大文件上传失败排查（MySQL maxallowedpacket 限制） 记录时间： […] |
 | 2026-07-23 | [AI 还原已故亲人，也制造精神病人？II](https://mobius.blog/25130.html) | 从向下兼容，到共构现实 在昨天一开始，留下了一个问题： 人们一开始能够意识到自己在跟人工智能对话，但在某一个节 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-22 | [事情要一件一件来](https://blog.solazy.me/20260722/) | 今天又要说职场遇到的一件事儿了 |
 | 2026-07-22 | [Brain0：只做 AI 生成代码场景的可观测性工具太可惜](https://luweiqing.com/resources/Brain0.html) | https://github.com/Brain0-ai/brain0一款专为 AI 生成代码场景设计的代码决策追踪与治理工具，其核心定位是“AI 编写代码的黑盒”（The black box ... |
 | 2026-07-22 | [如果要在一个周末上线Vibe Coding产品，我会这样做](https://www.icebeer.top/%e5%a6%82%e6%9e%9c%e8%a6%81%e5%9c%a8%e4%b8%80%e4%b8%aa%e5%91%a8%e6%9c%ab%e4%b8%8a%e7%ba%bfvibe-coding%e4%ba%a7%e5%93%81%ef%bc%8c%e6%88%91%e4%bc%9a%e8%bf%99%e6%a0%b7%e5%81%9a/) | 本期邀请到了@莱纳德陈，一名在外资银行工作的产品经理。 他在纽约大学读完商业数据硕士，曾经做过说唱、打过橄榄球 […] 如果要在一个周末上线Vibe Coding产品，我会这样做 最先出现在 🍺 IceBeer 。 |
 | 2026-07-22 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人： 徐队，群昵称Shogun。姓徐，称徐队，真野人队长。 张队，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队，群昵称熊嘎婆，称熊队。“野人CLUB游泳事业部”群主。 亮队，群昵称亮什么，称亮队，野人官号 @重庆野人冬泳俱乐部 拥有者。 重要声明： “野人队”在加入“泳往直前”… |
