@@ -27,8 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-23 | [学习周刊-总第273期-2026年第30周](https://wiki.eryajf.net/pages/8085fe/) | 如要阅读全文，点击标题跳转。 学习周刊-总第273期 &#124; http-stat-rs &#124; lite-edit &#124; nezha &#124; superhq &#124; holaOS &#124; SuperCmd &#124; llm_wiki |
+| 2026-07-23 | [本地部署大模型的意义](https://ahdw.casacam.net/2026/07/23/%e6%9c%ac%e5%9c%b0%e9%83%a8%e7%bd%b2%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%9a%84%e6%84%8f%e4%b9%89/) | 我看到不少人很好奇，本地部署大模型到底有什么意义。 他们说光买显卡都要不少钱，用这钱买 API Credits […] |
 | 2026-07-23 | [Memos: 形 同 虚 设](https://blog.yasking.org/a/1784806163.html) | 原图下载: Download |
-| 2026-07-23 | [iosevka字体让中文 ASCII diagram 图表对齐](https://blog.est.im/2026/stdout-30) | 对齐前： ┌──────────────┐ ┌──────────────┐ │ 用户请求 │────▶│ 网关服务 │ │ User Req │ │ Gateway │ └──────┬───────┘ └──────┬───────┘ │ │ ▼ ▼ ┌──────────────┐ ┌────… |
+| 2026-07-23 | [iosevka字体让中文 ASCII diagram 图表对齐](https://blog.est.im/2026/stdout-30) | 对齐前： ┌──────────────┐ ┌──────────────┐ │ 用户请求😆 │────▶│ 网关服务 │ │ User Req │ │ Gateway │ └──────┬───────┘ └──────┬───────┘ │ │ ▼ ▼ ┌──────────────┐ ┌───… |
 | 2026-07-23 | [Quake updated](https://macsourceports.com/game/quake) | The build of QSS-M for Quake has been updated to version 1.6.5 of the project |
 | 2026-07-23 | [心踩西瓜皮](https://www.hecaitou.com/2026/07/Mind-on-a-Watermelon-Peel.html) | 有读者问我，当我描述一个人内心的想法时用了「脚踩西瓜皮」这个形容，应该作何解？ 它其实是一句歇后语，其完整形式是：脚踩西瓜皮---滑到哪里算哪里。意思是不管不顾，凭着本能、运气或者习惯行事，也不去理会结果如何。类似的俗语还有破罐破摔，但脚踩西瓜皮强调了快速、随性的那一面，并没有任何决然的意味，也没有… |
 | 2026-07-23 | [Nginx 多层代理下大文件上传失败排查（MySQL max_allowed_packet 限制）](https://199604.com/3604) | Nginx 多层代理下大文件上传失败排查（MySQL maxallowedpacket 限制） 记录时间： […] |
