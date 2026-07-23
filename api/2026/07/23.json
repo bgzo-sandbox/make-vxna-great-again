@@ -1,5 +1,26 @@
 [
   {
+    "title": "Quake updated",
+    "url": "https://macsourceports.com/game/quake",
+    "date": "2026-07-23T05:09:31Z",
+    "description": "The build of QSS-M for Quake has been updated to version 1.6.5 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "心踩西瓜皮",
+    "url": "https://www.hecaitou.com/2026/07/Mind-on-a-Watermelon-Peel.html",
+    "date": "2026-07-23T04:14:23Z",
+    "description": "有读者问我，当我描述一个人内心的想法时用了「脚踩西瓜皮」这个形容，应该作何解？ 它其实是一句歇后语，其完整形式是：脚踩西瓜皮---滑到哪里算哪里。意思是不管不顾，凭着本能、运气或者习惯行事，也不去理会结果如何。类似的俗语还有破罐破摔，但脚踩西瓜皮强调了快速、随性的那一面，并没有任何决然的意味，也没有考虑任何观众反应。 心最容易踩着西瓜皮任意滑行。比如说我自己，多年来遇见任何和自己的意愿稍有抵触的事，怒气就会立即爆发，中间没有任何停顿。交代他人去做的事情结果没做，怒气爆发；淘宝商家回复「亲，我们是不包邮的」，怒气爆发；吃鱼的时候，遇见第二根刺不得不再次停下，怒气爆发；要出门，发现太阳很大，怒气爆发...... 当然，我这种人平常时候看起来都是彬彬有礼，儒雅随和的样子。易怒的人都是人群中最初级的伪装者，就像是路怒症患者，在系好安全带，发动引擎之前，你很难预先知道这个人马上就要变成一只马路恶魔。但是易怒的人即便是在松弛的状态下，他人也能凭借第六感从平静的表象下感知到某种紧绷，某种潜在的攻击性，古人说的「不怒自威」，大概就是这个意思。 我花了很多年时间解决自己易怒这个问题，但是它早已经成为了心",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Nginx 多层代理下大文件上传失败排查（MySQL max_allowed_packet 限制）",
+    "url": "https://199604.com/3604",
+    "date": "2026-07-23T02:41:09Z",
+    "description": "Nginx 多层代理下大文件上传失败排查（MySQL maxallowedpacket 限制） 记录时间： […]",
+    "source_root_domain": "199604.com"
+  },
+  {
     "title": "AI 还原已故亲人，也制造精神病人？II",
     "url": "https://mobius.blog/25130.html",
     "date": "2026-07-23T01:00:00Z",
@@ -56,11 +77,32 @@
     "source_root_domain": "onojyun.com"
   },
   {
+    "title": "Jenkins Vue 前端流水线构建异常排查（pnpm 版本、husky、构建脚本拦截、OOM）",
+    "url": "https://199604.com/3602",
+    "date": "2026-07-22T02:24:25Z",
+    "description": "Jenkins Vue 前端流水线构建异常排查（pnpm 版本、husky、构建脚本拦截、OOM） 记录时间： […]",
+    "source_root_domain": "199604.com"
+  },
+  {
     "title": "opencodex：让 Codex 和 Claude Code 跑在任意 LLM 上",
     "url": "https://youngxhui.top/2026/07/opencodex-third-party-models/",
     "date": "2026-07-22T00:00:00Z",
     "description": "opencodex 是一个本地代理，把 Codex 的 Responses API 翻译成任意 LLM provider 的协议。你可以在 Codex CLI、Codex App、SDK 里用 Claude、Gemini、DeepSeek、Grok、GLM、Qwen 甚至本地 Ollama 模型——也能在 Claude Code 里同样用任意模型——不需要等任何人添加官方支持。 Streaming、tool 调用、reasoning token、图片生成，全部双向工作。 bash npm install -g @bitkyc08/opencodex ocx init ocx start 三行命令，Codex 就改道了。默认透传你的 ChatGPT 登录，你随时可以再加别的模型。 怎么工作的 text Codex CLI / App / SDK ──/v1/responses──▶ opencodex ──▶ 任意 provider │ Anthropic · xAI · Kimi · Google · DeepSeek · Groq · OpenRouter Ollama Cloud ",
     "source_root_domain": "youngxhui.top"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-07-21T21:59:46Z",
+    "description": "The build of Quetoo has been updated to version v1.0.63 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Old School RuneScape updated",
+    "url": "https://macsourceports.com/game/runescape",
+    "date": "2026-07-21T21:58:42Z",
+    "description": "The build of RuneLite for Old School RuneScape has been updated to version 2.8.0 of the project",
+    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "LLM Local Inference",
@@ -110,6 +152,13 @@
     "date": "2026-07-21T06:57:29Z",
     "description": "从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构",
     "source_root_domain": "meettea.com"
+  },
+  {
+    "title": "Jenkins Helm 升级 2.516→2.568 后流水线失败与 Agent 无法连接的问题排查",
+    "url": "https://199604.com/3600",
+    "date": "2026-07-21T03:49:14Z",
+    "description": "Jenkins Helm 升级 2.516→2.568 后流水线失败与 Agent 无法连接的问题排查 记录时 […]",
+    "source_root_domain": "199604.com"
   },
   {
     "title": "雨雨雨雨雨",
