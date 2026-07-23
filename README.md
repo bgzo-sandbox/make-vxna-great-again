@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-23 | [AI 还原已故亲人，也制造精神病人？II](https://mobius.blog/25130.html) | 从向下兼容，到共构现实 在昨天一开始，留下了一个问题： 人们一开始能够意识到自己在跟人工智能对话，但在某一个节 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-22 | [Brain0：只做 AI 生成代码场景的可观测性工具太可惜](https://luweiqing.com/resources/Brain0.html) | https://github.com/Brain0-ai/brain0一款专为 AI 生成代码场景设计的代码决策追踪与治理工具，其核心定位是“AI 编写代码的黑盒”（The black box ... |
 | 2026-07-22 | [如果要在一个周末上线Vibe Coding产品，我会这样做](https://www.icebeer.top/%e5%a6%82%e6%9e%9c%e8%a6%81%e5%9c%a8%e4%b8%80%e4%b8%aa%e5%91%a8%e6%9c%ab%e4%b8%8a%e7%ba%bfvibe-coding%e4%ba%a7%e5%93%81%ef%bc%8c%e6%88%91%e4%bc%9a%e8%bf%99%e6%a0%b7%e5%81%9a/) | 本期邀请到了@莱纳德陈，一名在外资银行工作的产品经理。 他在纽约大学读完商业数据硕士，曾经做过说唱、打过橄榄球 […] 如果要在一个周末上线Vibe Coding产品，我会这样做 最先出现在 🍺 IceBeer 。 |
 | 2026-07-22 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人： 徐队，群昵称Shogun。姓徐，称徐队，真野人队长。 张队，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队，群昵称熊嘎婆，称熊队。“野人CLUB游泳事业部”群主。 亮队，群昵称亮什么，称亮队，野人官号 @重庆野人冬泳俱乐部 拥有者。 重要声明： “野人队”在加入“泳往直前”… |
@@ -126,25 +127,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-16 | [AI 时代下程序员的价值：一些可能会过时的个人思考](https://jt26wzz.com/posts/0017-the-value-of-programmers-in-the-ai-era/) | TL;DR：AI 让代码不再稀缺，但程序员的价值并没有消失，而是更多体现在判断力上：定义真正的问题、用正确的方式把事情做对，并确认结果在真实世界中有效运行。本文从 Zig 和 Godot 的 AI Ban、学徒制与缄默知识出发，聊聊为什么这些能力很难被完整写进文档或者完全放手给 AI。 |
 | 2026-07-16 | [译&#124;为什么 TypeScript 7.0 用 Go 重写](https://programnotes.cn/go-the-agentic-language-zh/index.html) | 微软将TypeScript编译器移植到Go，实现了10倍性能提升，并深入探讨了Go在智能体开发时代的优势及其对技术栈的影响。 |
 | 2026-07-16 | [《万历十五年》、《疼痛部》、《我与狸奴不出门》笔摘](https://blog.sakoamc.com/posts/r2603/) | 题记：之前读完的几本不错的书，一直没想起来整理。 |
-| 2026-07-15 | [微信早已不是熟人社交](https://lomus.cc/archives/793) | 最近打开微信越发的有一种感觉，就是有效消息太少，垃圾消息越来越多。 我不知道有多少人跟我一样，由于工作原因等因 […] 微信早已不是熟人社交 最先出现在 Lumos's Blog 。 |
-| 2026-07-15 | [大数据技术的演进：从 Hive、GFS 到 Raft](https://www.nosuchfield.com/2026/07/15/The-Evolution-of-Big-Data-From-Hive-GFS-to-Raft/) | 大数据这个领域发展了二十多年，技术名词换了很多轮，但底层的设计模式其实一直比较收敛。本文按发展史的顺序，依次介绍 Hive 的原理、GFS 与 CDN 各自的定位、GFS 与 Elasticsearch 在架构上的相似之处、分布式系统中 master 节点的管理方式、几种主流的共识算法，最后落到 R… |
-| 2026-07-15 | [New Release: BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT](https://macsourceports.com/game/bdd3) | No, that's not a caps lock error, that's the name of the game. Just go with me on this one... BRAZILIAN DRUG DEALER 3 is a first-person shooter where… |
-| 2026-07-15 | [Proxmox VE 下 Windows 性能下降问题记录](https://www.ghostchu.com/proxmox-ve-%e4%b8%8b-windows-%e6%80%a7%e8%83%bd%e4%b8%8b%e9%99%8d%e9%97%ae%e9%a2%98%e8%ae%b0%e5%bd%95/) | 对于 Proxmox VE 上的 Windows 系统从 Windows 7 后系统性能下降明显，即使安装 V […] Proxmox VE 下 Windows 性能下降问题记录 最先出现在 Ghost_chu's Blog 。 |
-| 2026-07-15 | [人类如何利用超长上下文与 AI 协作](https://zhangke.space/%e4%ba%ba%e7%b1%bb%e5%a6%82%e4%bd%95%e5%88%a9%e7%94%a8%e8%b6%85%e9%95%bf%e4%b8%8a%e4%b8%8b%e6%96%87%e4%b8%8e-ai-%e5%8d%8f%e4%bd%9c/?utm_source=rss&utm_medium=rss&utm_campaign=%25e4%25ba%25ba%25e7%25b1%25bb%25e5%25a6%2582%25e4%25bd%2595%25e5%2588%25a9%25e7%2594%25a8%25e8%25b6%2585%25e9%2595%25bf%25e4%25b8%258a%25e4%25b8%258b%25e6%2596%2587%25e4%25b8%258e-ai-%25e5%258d%258f%25e4%25bd%259c) | 时至今日，LLM 的发展仍然深受 Scaling Laws 的影响，OpenAI、Anthropic 每隔一段 […] The post 人类如何利用超长上下文与 AI 协作 first appeared on 张可的博客 . |
-| 2026-07-15 | [Docker部署Tailscale](https://foglog.cn/p/docker-deploy-tailscale) | Tailscale - The best secure connectivity platform for the AI era获取 Auth key1.访问 Tailscale，点击右上角 G... |
-| 2026-07-15 | [聊聊 -XX:MaxRAMPercentage=75%](https://www.bboy.app/2026/07/15/%E8%81%8A%E8%81%8A-xxmaxrampercentage75/) | 简介 前阵子在看一些 Java 服务的 JVM 配置，发现很多人还在用 -Xmx 写死堆大小，到了容器环境里经常内存爆炸。今天聊聊 -XX:MaxRAMPercentage 这个参数，它解决的问题其实很简单，但很多人不知道。 |
-| 2026-07-15 | [第一卷 03](https://kaix.in/2026/0712/339a/) | 339a 特拉需玛科说，正义就是统治者的利益，因为统治者当然也就是强者，不难推论，正义就是强者的利益。 苏格拉底这时候说了些我有点听不明白的话，他说特拉需玛科自己说利益却不让苏格拉底说利益——我想应该是翻译措辞的问题吧，我们一路读来，苏格拉底也没说什么利益啊，泛读嘛，先不查资料了，我猜大概是有利的、… |
-| 2026-07-15 | [20260715的胡言乱语](https://www.bboy.app/2026/07/15/20260715%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
-| 2026-07-15 | [Random Thoughts - 20260715](https://www.bboy.app/2026/07/15/random-thoughts-20260715/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
-| 2026-07-15 | [macOS 使用 Crossover 游戏中文输入显示问号乱码问题](https://anotherdayu.com/crossover-macos-chinese/) | 背景 在 macOS 上用 CrossOver 玩一些 Steam 游戏，比如激战2（Guild Wars 2 ），界面能够正常显示中文，但输入聊天框里输入中文，只能显示问号。 网上相关教程都是装中文字体文件或改注册表，但这些解决的是字形问题，容器缺少中文字体。 中文显示为问号的真正原因是：容器（B… |
-| 2026-07-15 | [这应该是我最开心的一个夏天](https://cufezhusy.github.io/issue-24/) | 工作上都是AI在干活，我就负责喝咖啡看油管指挥AI斗蛐蛐，不知道效率到底提高了多少但既然是领导要求的那一定是对的。 摸鱼啊摸鱼。。。 |
-| 2026-07-15 | [和世界杯平行](https://www.hecaitou.com/2026/07/Parallel-to-the-World-Cup.html) | 今年我完全不知道世界杯的任何进程，和朋友圈里熬夜的球迷朋友完全活在两个世界里。具体来说，就是他们值夜班，我值白班。我上班之后翻看前一晚的内容，就知道世界杯还在继续，不过谁输谁赢我并不在意，我就想看看是谁在熬夜，是谁的荷尔蒙还没有耗尽。 看世界杯是属于那种「你应该去做」的事情，也属于我刚好不想去做的事… |
-| 2026-07-15 | [别把前途押在别人身上](https://blog.solazy.me/20260715/) | 感觉在职场上每年都不好过呀 |
-| 2026-07-15 | [从 400U 到 800U：小账户做短线时，我这周学到的几件事](https://blog.forecho.com/from-400u-to-800u-small-account-scalping-lessons.html) | 引言 上一篇写完的时候，我的实盘账户从 100U 做到了 400U。当时我就说过，半个月的数字说明不了什么，还是得继续做。 又交易了一个多星期，现在账户到了 800U。这周大部分利润来自 KORU 的短线，通常一笔赚个 50U 左右。这个结果让我有点新的想法：小账户想慢慢做大，现阶段更适合做流动性好… |
-| 2026-07-15 | [我拿 100U 开了个实盘账户，看看价格行为到底行不行](https://blog.forecho.com/bitget-100u-price-action-real-money-test.html) | 引言 价格行为学我学了一年多，主要在 Prop Firm（自营交易考试平台）练。账号前后买了一千多美金，反复挑战、爆仓、重买，只考过一次，也没出过金。 我一直想知道，问题到底出在哪里：是 Prop Firm 的规则影响了我，还是我做单本身就有问题？ Prop Firm 我还会继续用，成本低，练技术很… |
-| 2026-07-15 | [求医不如求神](https://mobius.blog/25080.html) | 昨天去定期体检。先说最为震撼的一句话，是在抽血窗口前，一个护士喊道：这是谁，不要把病人扔在路中间。 之前每次去 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-15 | [I Ditched My Living Room Coffee Table and Sectional Sofa](https://victor42.eth.limo/post-en/living-room-redesign-with-ai/) | Sudden Inspiration and Determination It all started when I was chatting with a friend from my former company about reading. She told me she had specif… |
-| 2026-07-15 | [我扔掉了客厅茶几与组合沙发](https://victor42.eth.limo/post/living-room-redesign-with-ai/) | 突如其来的灵感和决心 起因是和前司的朋友聊天，聊到读书，朋友说她为此专门改造了客厅。我看完她家照片大受启发，现代人小家庭城市生活，到底需要什么样的客厅，在脑袋里一推演就会有答案。只是忙碌的成年人，很少能拿出勇气做点改变，让自己的生活变得更美好一点点。 不过，决心这个东西，说来就来的，不需要什么心理准… |
 
 ## Vibe Coding
 
