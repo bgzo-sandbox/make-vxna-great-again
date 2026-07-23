@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-23 | [Memos: 形 同 虚 设](https://blog.yasking.org/a/1784806163.html) | 原图下载: Download |
+| 2026-07-23 | [iosevka字体让中文 ASCII diagram 图表对齐](https://blog.est.im/2026/stdout-30) | 对齐前： ┌──────────────┐ ┌──────────────┐ │ 用户请求 │────▶│ 网关服务 │ │ User Req │ │ Gateway │ └──────┬───────┘ └──────┬───────┘ │ │ ▼ ▼ ┌──────────────┐ ┌────… |
 | 2026-07-23 | [Quake updated](https://macsourceports.com/game/quake) | The build of QSS-M for Quake has been updated to version 1.6.5 of the project |
 | 2026-07-23 | [心踩西瓜皮](https://www.hecaitou.com/2026/07/Mind-on-a-Watermelon-Peel.html) | 有读者问我，当我描述一个人内心的想法时用了「脚踩西瓜皮」这个形容，应该作何解？ 它其实是一句歇后语，其完整形式是：脚踩西瓜皮---滑到哪里算哪里。意思是不管不顾，凭着本能、运气或者习惯行事，也不去理会结果如何。类似的俗语还有破罐破摔，但脚踩西瓜皮强调了快速、随性的那一面，并没有任何决然的意味，也没有… |
 | 2026-07-23 | [Nginx 多层代理下大文件上传失败排查（MySQL max_allowed_packet 限制）](https://199604.com/3604) | Nginx 多层代理下大文件上传失败排查（MySQL maxallowedpacket 限制） 记录时间： […] |
