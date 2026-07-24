@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-24 | [关于清华校友抱团](https://sinyalee.com/blog/?p=1263) | 很多非清华的人，都会观察到国内顶级商业圈清华校友抱团的现象。清华校友资源交换、投资创业，抱团现象非常严重。我最 […] |
 | 2026-07-24 | [請開啟 JavaScript 以繼續搜尋](https://taxodium.ink/google-turn-on-javascript-to-keep-searching.html) | 請開啟 JavaScript 以繼續搜尋 图1 Google 的頁面，左側有一行文字提示需要開啟 JavaScript 才能繼續搜索， 右側列出了常見瀏覧器開啟 JavaScript 的步驟。 Google: 請開啟 JavaScript 以繼續搜尋 我： 需要嗎？ Google: 不需要嗎？ 我：… |
 | 2026-07-24 | [那些没有拍下来的时刻](https://blog.solazy.me/20260724/) | 我是一个不怎么喜欢拍照的人 |
 | 2026-07-24 | [近期觀影 - 無間道三部曲、醉好的時光、阿波羅 13 號](https://taxodium.ink/movie-2026-07-22.html) | 近期觀影 無間道三部曲、醉好的時光、阿波羅 13 號 無間道三部曲 (Infernal Affairs) Bilibili 上刷到了無間道第一部的片段，就找來看了看，本來只是想重看一遍無間道第一部的，找資源的時候找到了三部曲，就干脆都看一遍好了。下載的時候，最想看的第一部迟迟沒下好，就先看了第二部，… |
