@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-24 | [近期觀影 - 無間道三部曲、醉好的時光、阿波羅 13 號](https://taxodium.ink/movie-2026-07-22.html) | 近期觀影 無間道三部曲、醉好的時光、阿波羅 13 號 無間道三部曲 (Infernal Affairs) Bilibili 上刷到了無間道第一部的片段，就找來看了看，本來只是想重看一遍無間道第一部的，找資源的時候找到了三部曲，就干脆都看一遍好了。下載的時候，最想看的第一部迟迟沒下好，就先看了第二部，… |
+| 2026-07-24 | [T2I 开源生图的新王 Krea2](https://eduardoqian.com/archives/t2i-xin-wang-chu-xian-krea2) | 参考之前的一篇文章，在ideogram 4昙花一现之后，紧接着出现Krea2造成的风浪远远大于ideogram 4. https://eduardoqian.com/archives/t2i-wen-sheng-tu-de-xin-xiu-ideogram-4ti-yan-he-ping-jie h |
 | 2026-07-24 | [Memos: 精 打 细 算](https://blog.yasking.org/a/1784878328.html) | 下载原图: Download |
 | 2026-07-24 | [回答读者stoic提问](https://www.hecaitou.com/2026/07/A-Reply-to-Stoic.html) | 昨天读者 stoic 留言提问： 「 菜叔您好，我有提升表达能力的需求，网上说看完说理视频和文章后要求自己放下手机或电脑，描述刚才看过的行文逻辑，这些视频或文字内容是怎么把自己说服的，但我做不到，只记得刚刚的标题或主旨让看完的自己很爽。 该如何继续训练，网上还说把文章或视频文案扒下来然后进行极限缩写… |
 | 2026-07-24 | [从 800U 到爆仓：过度交易和扛单，最后还是把账户做没了](https://blog.forecho.com/from-800u-to-liquidation-overtrading-countertrend.html) | 引言 上一篇写完的时候，账户从 400U 做到了 800U。没想到第三篇这么快就来了：这个账户爆仓了。 原因其实很简单，还是以前那两个问题：过度交易，亏了以后急着回本；逆势交易，方向做错了还一直扛单。最后碰上很强的趋势，账户还是扛不住了。 亏了以后，我又开始急着回本 一开始出现亏损的时候，我想的是赶… |
