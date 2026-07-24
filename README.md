@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-24 | [請開啟 JavaScript 以繼續搜尋](https://taxodium.ink/google-turn-on-javascript-to-keep-searching.html) | 請開啟 JavaScript 以繼續搜尋 图1 Google 的頁面，左側有一行文字提示需要開啟 JavaScript 才能繼續搜索， 右側列出了常見瀏覧器開啟 JavaScript 的步驟。 Google: 請開啟 JavaScript 以繼續搜尋 我： 需要嗎？ Google: 不需要嗎？ 我：… |
 | 2026-07-24 | [那些没有拍下来的时刻](https://blog.solazy.me/20260724/) | 我是一个不怎么喜欢拍照的人 |
 | 2026-07-24 | [近期觀影 - 無間道三部曲、醉好的時光、阿波羅 13 號](https://taxodium.ink/movie-2026-07-22.html) | 近期觀影 無間道三部曲、醉好的時光、阿波羅 13 號 無間道三部曲 (Infernal Affairs) Bilibili 上刷到了無間道第一部的片段，就找來看了看，本來只是想重看一遍無間道第一部的，找資源的時候找到了三部曲，就干脆都看一遍好了。下載的時候，最想看的第一部迟迟沒下好，就先看了第二部，… |
 | 2026-07-24 | [T2I 开源生图的新王 Krea2](https://eduardoqian.com/archives/t2i-xin-wang-chu-xian-krea2) | 参考之前的一篇文章，在ideogram 4昙花一现之后，紧接着出现Krea2造成的风浪远远大于ideogram 4. https://eduardoqian.com/archives/t2i-wen-sheng-tu-de-xin-xiu-ideogram-4ti-yan-he-ping-jie h |
@@ -42,6 +43,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-23 | [本地部署大模型的意义](https://ahdw.casacam.net/2026/07/23/%e6%9c%ac%e5%9c%b0%e9%83%a8%e7%bd%b2%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%9a%84%e6%84%8f%e4%b9%89/) | 我看到不少人很好奇，本地部署大模型到底有什么意义。 他们说光买显卡都要不少钱，用这钱买 API Credits […] |
 | 2026-07-23 | [日本小学语文课文（二年级下）](https://springwood.me/jp-elementary-school-language-2b/) | （摘要）从二年级下册开始，课文里出现了高级语法（JLPT N1级别），以及方言。 |
 | 2026-07-23 | [Memos: 形 同 虚 设](https://blog.yasking.org/a/1784806163.html) | 下载原图: Download |
+| 2026-07-23 | [换灯](https://honmaple.me/posts/2026/07/change-light-bulb/) | 我发现我现在不仅是提笔忘字，似乎还有着非常严重的拖延症。 卫生间的灯已经坏了很久了，也许一周，也许两周，具体的时间已经记不清了。从刚坏的那个晚上开始，我就一直念叨着一定买一个新的，一定买一个新的，就这么念着念着，不知不觉就过了这么久，时间真是如流水，转瞬即逝。 其实也并不是我要拖延，在第二天我就想着… |
 | 2026-07-23 | [我发现，那些黄推和 bot 都特喜欢在包](https://versun.me/blog/tweet-2080239216710254863) | 我发现，那些黄推和 bot 都特喜欢在包含"恭喜"的推文下面留言，不信你试一试 |
 | 2026-07-23 | [讲个搞笑的事，这周接了某个大厂的商单，要](https://versun.me/blog/tweet-2080237580797526327) | 讲个搞笑的事，这周接了某个大厂的商单，要我用它家的模型做个东西吹一下，但由于模型太垃圾，我 vibe 了3天，连滚带爬的改，也做不出啥好东西了。 最后，我拿 kimi k3 做了个，伪装成它家模型，昧着良心吹了😆 |
 | 2026-07-23 | [iosevka字体让中文 ASCII diagram 图表对齐](https://blog.est.im/2026/stdout-30) | 对齐前： ┌──────────────┐ ┌──────────────┐ │ 用户请求 │────▶ │ 网关服务 │ │ User Req │ │ Gateway │ └──────┬───────┘ └──────┬───────┘ │ │ ▼ ▼ ┌──────────────┐ ┌───… |

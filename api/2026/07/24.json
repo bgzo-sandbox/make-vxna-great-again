@@ -1,5 +1,12 @@
 [
   {
+    "title": "請開啟 JavaScript 以繼續搜尋",
+    "url": "https://taxodium.ink/google-turn-on-javascript-to-keep-searching.html",
+    "date": "2026-07-24T18:30:00Z",
+    "description": "請開啟 JavaScript 以繼續搜尋 图1 Google 的頁面，左側有一行文字提示需要開啟 JavaScript 才能繼續搜索， 右側列出了常見瀏覧器開啟 JavaScript 的步驟。 Google: 請開啟 JavaScript 以繼續搜尋 我： 需要嗎？ Google: 不需要嗎？ 我： 需要嗎？ Google: 不需要嗎？ 我： 需要嗎？ Google: 別那麼認真嘛，不開你就別用咯 模仿了 西遊記大結局之仙履奇緣 里的那段關於愛一個人是否理由的對話 :P 從 2025 年 1 月開始，Google 搜索強制要求開啟 JavaScript 才能用，否則在搜索的時候會重定向到上面的引导頁。 我很久不用 Google 了，都在用 Kagi ，也是 前陣子 才開始用 uBlock Origin 默認禁用頁面的 JavaScript，最近想用 Google 搜點東西，才發現一定要開 JavaScript 才能用。 Kagi、bing、百度等都不需要 JavaScript 也能搜索，我不理解 Google 為什麼一定要開啟 JavaScript 才能用，找到的說法是「啟用 Java",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
     "title": "那些没有拍下来的时刻",
     "url": "https://blog.solazy.me/20260724/",
     "date": "2026-07-24T15:00:00Z",
@@ -103,6 +110,13 @@
     "date": "2026-07-23T11:30:00Z",
     "description": "下载原图: Download",
     "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "换灯",
+    "url": "https://honmaple.me/posts/2026/07/change-light-bulb/",
+    "date": "2026-07-23T10:49:27Z",
+    "description": "我发现我现在不仅是提笔忘字，似乎还有着非常严重的拖延症。 卫生间的灯已经坏了很久了，也许一周，也许两周，具体的时间已经记不清了。从刚坏的那个晚上开始，我就一直念叨着一定买一个新的，一定买一个新的，就这么念着念着，不知不觉就过了这么久，时间真是如流水，转瞬即逝。 其实也并不是我要拖延，在第二天我就想着把坏了的灯给拆下来，说做就做，这一点我真的没有任何拖延。但拆开后才发现问题，由于是老房子，坏了的灯用的还是十多年前的白织灯，平板灯的外形，里面却是一个蝴蝶灯管，这种灯刚打开时灯光是比较暗的，然后才慢慢地亮起来。 这样的灯已经很少了，虽然网上也能买得到，但我想着既然坏了，不如就换成现在比较常见的平板灯，或者LED灯。为什么想到了LED灯呢，因为现在只是灯管坏了，但原本的面板遮罩并没有坏，之前我也换过卧室的灯，只需要一个LED圆形灯盘，利用磁铁直接就能吸附在灯上，盖上灯罩...",
+    "source_root_domain": "honmaple.me"
   },
   {
     "title": "我发现，那些黄推和 bot 都特喜欢在包",
