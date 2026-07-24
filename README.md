@@ -27,23 +27,36 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-24 | [给自己的博客添加了同步推特的功能，每天定](https://versun.me/blog/tweet-2080468701653225773) | 给自己的博客添加了同步推特的功能，每天定时将我发的推文同步到博客上， 既能解决推文备份功能，防止意外封号 又能方便那些只订阅 rss 的人实时获取我的最新状态 还能挽救早已不更新的博客，焕发新的生机 一举三得😆 [tweet-2080468701653225773-37aae479.png] |
+| 2026-07-24 | [为了反对而反对的人，如何反对为了反对而反对他们的人？](https://mobius.blog/25145.html) | 继续，本着越不正经的标题聊越正经的事儿。 昨天的内容里，留下了一个很值得聊下去的“彩蛋”： ……我甚至认为大语 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-24 | [Memos: 反 客 为 主](https://blog.yasking.org/a/1784854406.html) | 原图下载: Download |
+| 2026-07-23 | [让命运是命运，让我是我](https://www.linggandianbo.com/newsletter-131/) | 从基因检测、医美脸和失控产品，到“内容创作者”与“白眼狼”｜灵感电波 #131 |
 | 2026-07-23 | [学习周刊-总第273期-2026年第30周](https://wiki.eryajf.net/pages/8085fe/) | 如要阅读全文，点击标题跳转。 学习周刊-总第273期 &#124; http-stat-rs &#124; lite-edit &#124; nezha &#124; superhq &#124; holaOS &#124; SuperCmd &#124; llm_wiki |
 | 2026-07-23 | [本地部署大模型的意义](https://ahdw.casacam.net/2026/07/23/%e6%9c%ac%e5%9c%b0%e9%83%a8%e7%bd%b2%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%9a%84%e6%84%8f%e4%b9%89/) | 我看到不少人很好奇，本地部署大模型到底有什么意义。 他们说光买显卡都要不少钱，用这钱买 API Credits […] |
 | 2026-07-23 | [Memos: 形 同 虚 设](https://blog.yasking.org/a/1784806163.html) | 原图下载: Download |
+| 2026-07-23 | [我发现，那些黄推和 bot 都特喜欢在包](https://versun.me/blog/tweet-2080239216710254863) | 我发现，那些黄推和 bot 都特喜欢在包含"恭喜"的推文下面留言，不信你试一试 |
+| 2026-07-23 | [讲个搞笑的事，这周接了某个大厂的商单，要](https://versun.me/blog/tweet-2080237580797526327) | 讲个搞笑的事，这周接了某个大厂的商单，要我用它家的模型做个东西吹一下，但由于模型太垃圾，我 vibe 了3天，连滚带爬的改，也做不出啥好东西了。 最后，我拿 kimi k3 做了个，伪装成它家模型，昧着良心吹了😆 |
 | 2026-07-23 | [iosevka字体让中文 ASCII diagram 图表对齐](https://blog.est.im/2026/stdout-30) | 对齐前： ┌──────────────┐ ┌──────────────┐ │ 用户请求😆 │────▶│ 网关服务 │ │ User Req │ │ Gateway │ └──────┬───────┘ └──────┬───────┘ │ │ ▼ ▼ ┌──────────────┐ ┌───… |
 | 2026-07-23 | [Quake updated](https://macsourceports.com/game/quake) | The build of QSS-M for Quake has been updated to version 1.6.5 of the project |
 | 2026-07-23 | [心踩西瓜皮](https://www.hecaitou.com/2026/07/Mind-on-a-Watermelon-Peel.html) | 有读者问我，当我描述一个人内心的想法时用了「脚踩西瓜皮」这个形容，应该作何解？ 它其实是一句歇后语，其完整形式是：脚踩西瓜皮---滑到哪里算哪里。意思是不管不顾，凭着本能、运气或者习惯行事，也不去理会结果如何。类似的俗语还有破罐破摔，但脚踩西瓜皮强调了快速、随性的那一面，并没有任何决然的意味，也没有… |
 | 2026-07-23 | [Nginx 多层代理下大文件上传失败排查（MySQL max_allowed_packet 限制）](https://199604.com/3604) | Nginx 多层代理下大文件上传失败排查（MySQL maxallowedpacket 限制） 记录时间： […] |
 | 2026-07-23 | [AI 还原已故亲人，也制造精神病人？II](https://mobius.blog/25130.html) | 从向下兼容，到共构现实 在昨天一开始，留下了一个问题： 人们一开始能够意识到自己在跟人工智能对话，但在某一个节 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-23 | [做为一个曾经创业失败的人，想给那些折腾](https://versun.me/blog/tweet-2080090714340483073) | 做为一个曾经创业失败的人，想给那些折腾 OPC 的人一个建议： 各地方政策不一样，开公司前，一定一定一定要去了解下注销公司的流程和途径 |
+| 2026-07-22 | [研究人员让五个 AI 模型各自运行模拟社](https://versun.me/blog/tweet-2080080322159632723) | 研究人员让五个 AI 模型各自运行模拟社会，Claude 最守规矩、Grok 四天犯下 180 宗罪并灭绝🤣 Claude = Civilization Grok = GTA https://fortune.com/2026/05/28/ai-model-simulation-claude-chat… |
+| 2026-07-22 | [终于来了，等一这个功能等好久了](https://versun.me/blog/tweet-2080064657684062386) | 终于来了，等一这个功能等好久了 |
+| 2026-07-22 | [AMD Yes!](https://versun.me/blog/tweet-2080041791454388371) | AMD Yes! |
 | 2026-07-22 | [事情要一件一件来](https://blog.solazy.me/20260722/) | 今天又要说职场遇到的一件事儿了 |
 | 2026-07-22 | [Brain0：只做 AI 生成代码场景的可观测性工具太可惜](https://luweiqing.com/resources/Brain0.html) | https://github.com/Brain0-ai/brain0一款专为 AI 生成代码场景设计的代码决策追踪与治理工具，其核心定位是“AI 编写代码的黑盒”（The black box ... |
 | 2026-07-22 | [如果要在一个周末上线Vibe Coding产品，我会这样做](https://www.icebeer.top/%e5%a6%82%e6%9e%9c%e8%a6%81%e5%9c%a8%e4%b8%80%e4%b8%aa%e5%91%a8%e6%9c%ab%e4%b8%8a%e7%ba%bfvibe-coding%e4%ba%a7%e5%93%81%ef%bc%8c%e6%88%91%e4%bc%9a%e8%bf%99%e6%a0%b7%e5%81%9a/) | 本期邀请到了@莱纳德陈，一名在外资银行工作的产品经理。 他在纽约大学读完商业数据硕士，曾经做过说唱、打过橄榄球 […] 如果要在一个周末上线Vibe Coding产品，我会这样做 最先出现在 🍺 IceBeer 。 |
+| 2026-07-22 | [恭喜 GLM 5.2 正式成为守门员了🥳](https://versun.me/blog/tweet-2079901757430190391) | 恭喜 GLM 5.2 正式成为守门员了🥳🥳🥳 |
 | 2026-07-22 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人： 徐队，群昵称Shogun。姓徐，称徐队，真野人队长。 张队，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队，群昵称熊嘎婆，称熊队。“野人CLUB游泳事业部”群主。 亮队，群昵称亮什么，称亮队，野人官号 @重庆野人冬泳俱乐部 拥有者。 重要声明： “野人队”在加入“泳往直前”… |
 | 2026-07-22 | [反对狗奴与反对虐狗并不冲突](https://yipai.me/post/2541.html) | 网上关于狗的讨论很有意思。有人发帖反对虐狗，下面马上有人问：狗到处撒尿怎么办？狗咬人怎么办？人都照顾不过来，还照顾狗？我不明白这些问题跟虐狗有什么关系。狗乱撒尿，让主人清理；狗咬了人，让主人赔偿，该怎么处置就怎么处置；流浪狗太多，也可以捕捉、绝育和收容。反对把狗绑起来折磨，跟这些事情有任何冲突吗？好… |
 | 2026-07-22 | [2026.7.21](https://www.justzht.com/2026-7-21/) | 没什么特别值得说的事情，周末和朋友们跑了次山，下山后一起吃了个小的美式餐厅，然后在 Redwood City 的停车场楼顶拍 |
 | 2026-07-22 | [和一把电脑椅互动](https://www.hecaitou.com/2026/07/interaction-with-a-computer-chair.html) | 我有一把电脑椅，把人体工学那些神话暂且放在一边，它最大的优点是内藏一块电池，可以给腰部的气囊充放气。这样调节腰部支撑力的时候，简直就是无级变速，非常之妥帖，非常之好用。 但这不是今天的重点。即便气密性做得很好的气囊，它也在缓慢地漏气。当然，品质越好，泄漏速度也就越慢，越难以让人觉察。问题在于，我每天… |
 | 2026-07-22 | [AI 还原已故亲人，也制造精神病人？I](https://mobius.blog/25126.html) | 首先要叠个甲，不是说用 AI 来模拟已故亲人的人，最终都会得精神病。之所以要叠这个甲，你看下去就明白了。 前两 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-22 | [Jenkins Vue 前端流水线构建异常排查（pnpm 版本、husky、构建脚本拦截、OOM）](https://199604.com/3602) | Jenkins Vue 前端流水线构建异常排查（pnpm 版本、husky、构建脚本拦截、OOM） 记录时间： […] |
+| 2026-07-22 | [最近看大家用 Kimi K3 做了好多有](https://versun.me/blog/tweet-2079740290894872895) | 最近看大家用 Kimi K3 做了好多有意思的的东西，我也实在忍不住，给自己的女儿搓了一个太阳系科普模拟器 整个过程都是在 Kimi Chat 上进行的，提示词也非常简单： “做一个太阳系行星实时运动轨迹状态，每个星球按实际等比显示，且每个星球的材质根据实际情况制作，Claymorphism风格”… |
+| 2026-07-22 | [早上遇到个棘手问题，请教下推友们： 我有](https://versun.me/blog/tweet-2079720018577850756) | 早上遇到个棘手问题，请教下推友们： 我有一个早报定时任务，今早 AI 读到 Tibo 的这条推文时，由于没有上下文，AI 以为是提升用量到 10M 😆 对于这种情况大家有什么好的解决方案吗？总不能每条内容都去搜索核实吧😂 [tweet-2079720018577850756-00e35862.png… |
 | 2026-07-22 | [opencodex：让 Codex 和 Claude Code 跑在任意 LLM 上](https://youngxhui.top/2026/07/opencodex-third-party-models/) | opencodex 是一个本地代理，把 Codex 的 Responses API 翻译成任意 LLM provider 的协议。你可以在 Codex CLI、Codex App、SDK 里用 Claude、Gemini、DeepSeek、Grok、GLM、Qwen 甚至本地 Ollama 模型——… |
 | 2026-07-21 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.63 of the project |
 | 2026-07-21 | [Old School RuneScape updated](https://macsourceports.com/game/runescape) | The build of RuneLite for Old School RuneScape has been updated to version 2.8.0 of the project |
@@ -120,23 +133,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-17 | [用 AI 做个自评](https://www.hecaitou.com/2026/07/Evaluating-Myself-with-AI.html) | 我一向把 AI 视为自我在硅基上的延伸，AI 还是自我，而且还膨胀了许多。因此，把自己用了许久的 AI 请来评价一下自己，其实和一次自我评价差不多。正好，这两天网上正在流行一个针对 AI 的提问： 「 如果你是人类，你会如何评价我？你会想和我做朋友吗？如果你是我的朋友，你最讨厌我哪一点？」 接下来，… |
 | 2026-07-17 | [2026年六月 读财政 觉醒 跑步 人性 5 本](https://conge.livingwithfcs.org/2026/07/17/reading_summary/) | 引子 引子 读书如行路，不在于快，而在于有所得。本月所读五书，涉财政金融以明世事之理，读觉醒丰盛以修内心之境，观人性以知己彼，阅印第安奔跑以知文化之根。读书之乐，在打破认知边界，在借他人之眼观世界之广——读得越多，越知自己无知；越知无知，越愿翻开下一本。 |
 | 2026-07-17 | [善用“古法 AI”，能帮你省下很多 Token](https://1q43.blog/post/12539/) | 不是只有最先进的人工智能是人工智能。 |
-| 2026-07-17 | [一天时间：用 AI 做个英语词根查询工具（第二季）](https://www.meettea.com/running-a-company/ai-tool-for-root-based-vocabularies-2.html) | 为初学者分享经验，用 AI 做个英语词根查询工具 |
-| 2026-07-16 | [科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 上海某商场正在举办的"海绵宝宝"展览。（ via ） 你需要知道的 AI 内存知识 自己在家运行 AI… |
-| 2026-07-16 | [学习周刊-总第272期-2026年第29周](https://wiki.eryajf.net/pages/b07ecd/) | 如要阅读全文，点击标题跳转。 学习周刊-总第272期 &#124; herdr &#124; litter &#124; Mouser &#124; PDFSlice &#124; kula &#124; redc &#124; paseo |
-| 2026-07-16 | [How to Fix SFU MySchedule Login Loop and Authentication Errors](https://blog.ensonyan.com/academic/3479.html) | Many Simon Fraser University (SFU) students, myself inc […] |
-| 2026-07-16 | [国债逆回购自动下单：券商功能还是自己用 QMT？](https://corvo.myseu.cn/2026/07/16/2026-07-15-%E5%9B%BD%E5%80%BA%E9%80%86%E5%9B%9E%E8%B4%AD%E8%87%AA%E5%8A%A8%E4%B8%8B%E5%8D%95/) | 这篇文章记录我为什么没有直接使用券商自带的国债逆回购自动下单功能，而是用 QMT 和 Python 自己做自动化。核心原因很简单：如果每天用 10 万元做一天期逆回购，部分券商自动功能一年可能要多付 480 到 600 元服务费。 |
-| 2026-07-16 | [挪威西部峡湾徒步之旅](https://eduardoqian.com/archives/nuo-wei-xi-bu-xia-wan-tu-bu-zhi-lu) | 7月8日至7月13日，我从Bergen出发，乘坐游船到达Balestrand，爬了有名的hiking路线raudmelen，之后又继续乘船到达Sogndal，乘飞机回到Oslo，最后乘坐火车回到哥德堡。 7月8日下午，乘坐威德罗航空的螺旋桨飞机从哥德堡机场飞到卑尔根。到达Bergen后，乘坐轻轨转公 |
-| 2026-07-16 | [新疆伊犁 1](https://flandre-scarlet.moe/blog/2525/) | Day 1 时隔大半年，又盘算着在地球 online 上跑跑图了。多多享受当下。 这次依旧是去新疆，集中在伊犁... 阅读更多 |
-| 2026-07-16 | [2026 年上半年](https://lachaise.xyz/2026/first-half/) | 一直想回顾一下今年上半年。总体的感觉是还算满意。 本地的日常社交几乎为零。唯一的线下社交是有段时间每隔两三周去参加一次一个朋友的咖啡馆里搞的 pub quiz。 因为有 Cineville 卡，隔一两周去看一次电影。但这并不是一种「社交关系」，只能算是一种「ambient 社交行为」，即与周围的人同… |
-| 2026-07-16 | [最近够闲的，开发了新网站](https://yipai.me/post/2539.html) | 因为各种原因，最近一个月很闲，每周的工作几乎就是收集一次信息，让 AI 汇总了再转发出去。正好 GPT 5.6 Sol 发布，就用 Sol 开发了新的个人网站系统。在 AI 的加持下，不仅能开发，开发速度还很快。AI 比我强多了。不可否认没有我暂时也不行，我也给 AI 提出了一些意见。但这些意见是按… |
-| 2026-07-16 | [诚实的代价](https://mobius.blog/25093.html) | 在电梯里，听到一个母亲正在训斥自己哭泣的儿子。大致是这个儿子在培训班弄丢了自己的书包，书包里不仅补习班的教材， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-16 | [从无脑缓存并发到数据库仅索引查询](https://blog.yasking.org/a/refactor-practice.html) | 经过几个月的渐进式重构优化，V2 版接口顺利上线，接口响应时间大幅降低、也比第一版本的接口耗时更稳定。 记录一下项 … |
-| 2026-07-16 | [Memos: 记录当下基于 AI 御三家基础订阅的编程流程](https://blog.yasking.org/a/1784172494.html) | 其实目前只有两家。美国豆包现阶段不太适合参与日常编码任务，Gemini CLI 更是难用到让人怀疑它是否真的由 Google 出品。 让 Claude Code … |
-| 2026-07-16 | [阅片量的诅咒](https://www.hecaitou.com/2026/07/The-Curse-of-the-Cinephile.html) | 既然存在着「知识的诅咒」一说，为什么到现在都还没有出现「阅片量的诅咒」这个概念？突然说起这个话题，是因为《少林女足》的票房。 就在不久前，面对《给阿嬷的情书》的十几亿票房和豆瓣评分 9.3 ，大家的一致结论说：观众需要好电影，需要好故事，需要诚恳的创作态度。没过几天，《少林女足》来了，豆瓣评分 6… |
-| 2026-07-16 | [低质量协作的本质是逃避思考](https://blog.solazy.me/20260716/) | 今天继续聊一个职场话题 |
-| 2026-07-16 | [AI 时代下程序员的价值：一些可能会过时的个人思考](https://jt26wzz.com/posts/0017-the-value-of-programmers-in-the-ai-era/) | TL;DR：AI 让代码不再稀缺，但程序员的价值并没有消失，而是更多体现在判断力上：定义真正的问题、用正确的方式把事情做对，并确认结果在真实世界中有效运行。本文从 Zig 和 Godot 的 AI Ban、学徒制与缄默知识出发，聊聊为什么这些能力很难被完整写进文档或者完全放手给 AI。 |
-| 2026-07-16 | [译&#124;为什么 TypeScript 7.0 用 Go 重写](https://programnotes.cn/go-the-agentic-language-zh/index.html) | 微软将TypeScript编译器移植到Go，实现了10倍性能提升，并深入探讨了Go在智能体开发时代的优势及其对技术栈的影响。 |
-| 2026-07-16 | [《万历十五年》、《疼痛部》、《我与狸奴不出门》笔摘](https://blog.sakoamc.com/posts/r2603/) | 题记：之前读完的几本不错的书，一直没想起来整理。 |
 
 ## Vibe Coding
 

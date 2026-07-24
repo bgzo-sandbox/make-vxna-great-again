@@ -1,0 +1,219 @@
+[
+  {
+    "title": "给自己的博客添加了同步推特的功能，每天定",
+    "url": "https://versun.me/blog/tweet-2080468701653225773",
+    "date": "2026-07-24T01:42:46Z",
+    "description": "给自己的博客添加了同步推特的功能，每天定时将我发的推文同步到博客上， 既能解决推文备份功能，防止意外封号 又能方便那些只订阅 rss 的人实时获取我的最新状态 还能挽救早已不更新的博客，焕发新的生机 一举三得😆 [tweet-2080468701653225773-37aae479.png]",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "为了反对而反对的人，如何反对为了反对而反对他们的人？",
+    "url": "https://mobius.blog/25145.html",
+    "date": "2026-07-24T01:00:00Z",
+    "description": "继续，本着越不正经的标题聊越正经的事儿。 昨天的内容里，留下了一个很值得聊下去的“彩蛋”： ……我甚至认为大语 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Memos: 反 客 为 主",
+    "url": "https://blog.yasking.org/a/1784854406.html",
+    "date": "2026-07-24T00:50:00Z",
+    "description": "原图下载: Download",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "让命运是命运，让我是我",
+    "url": "https://www.linggandianbo.com/newsletter-131/",
+    "date": "2026-07-23T23:30:21Z",
+    "description": "从基因检测、医美脸和失控产品，到“内容创作者”与“白眼狼”｜灵感电波 #131",
+    "source_root_domain": "linggandianbo.com"
+  },
+  {
+    "title": "学习周刊-总第273期-2026年第30周",
+    "url": "https://wiki.eryajf.net/pages/8085fe/",
+    "date": "2026-07-23T21:51:09Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第273期 | http-stat-rs | lite-edit | nezha | superhq | holaOS | SuperCmd | llm_wiki",
+    "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "本地部署大模型的意义",
+    "url": "https://ahdw.casacam.net/2026/07/23/%e6%9c%ac%e5%9c%b0%e9%83%a8%e7%bd%b2%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%9a%84%e6%84%8f%e4%b9%89/",
+    "date": "2026-07-23T15:31:17Z",
+    "description": "我看到不少人很好奇，本地部署大模型到底有什么意义。 他们说光买显卡都要不少钱，用这钱买 API Credits […]",
+    "source_root_domain": "ahdw.casacam.net"
+  },
+  {
+    "title": "Memos: 形 同 虚 设",
+    "url": "https://blog.yasking.org/a/1784806163.html",
+    "date": "2026-07-23T11:30:00Z",
+    "description": "原图下载: Download",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "我发现，那些黄推和 bot 都特喜欢在包",
+    "url": "https://versun.me/blog/tweet-2080239216710254863",
+    "date": "2026-07-23T10:30:52Z",
+    "description": "我发现，那些黄推和 bot 都特喜欢在包含\"恭喜\"的推文下面留言，不信你试一试",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "讲个搞笑的事，这周接了某个大厂的商单，要",
+    "url": "https://versun.me/blog/tweet-2080237580797526327",
+    "date": "2026-07-23T10:24:22Z",
+    "description": "讲个搞笑的事，这周接了某个大厂的商单，要我用它家的模型做个东西吹一下，但由于模型太垃圾，我 vibe 了3天，连滚带爬的改，也做不出啥好东西了。 最后，我拿 kimi k3 做了个，伪装成它家模型，昧着良心吹了😆",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "iosevka字体让中文 ASCII diagram 图表对齐",
+    "url": "https://blog.est.im/2026/stdout-30",
+    "date": "2026-07-23T10:24:00Z",
+    "description": "对齐前： ┌──────────────┐ ┌──────────────┐ │ 用户请求😆 │────▶│ 网关服务 │ │ User Req │ │ Gateway │ └──────┬───────┘ └──────┬───────┘ │ │ ▼ ▼ ┌──────────────┐ ┌──────────────┐ │ 认证服务 │ │ 业务逻辑 │ │ Auth Svc │ │ BizLogic │ └──────────────┘ └──────┬───────┘ │ ▼ ┌──────────────┐ │ 数据存储 │ │ Database │ └──────────────┘ 对齐后： ┌──────────────┐ ┌──────────────┐ │ 用户请求😆 │────▶│ 网关服务 │ │ User Req │ │ Gateway │ └──────┬───────┘ └──────┬───────┘ │ │ ▼ ▼ ┌──────────────┐ ┌──────────────┐ │ 认证服务 │ │ 业务逻辑 │ │ Auth Svc │ │ Biz",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "Quake updated",
+    "url": "https://macsourceports.com/game/quake",
+    "date": "2026-07-23T05:09:31Z",
+    "description": "The build of QSS-M for Quake has been updated to version 1.6.5 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "心踩西瓜皮",
+    "url": "https://www.hecaitou.com/2026/07/Mind-on-a-Watermelon-Peel.html",
+    "date": "2026-07-23T04:14:23Z",
+    "description": "有读者问我，当我描述一个人内心的想法时用了「脚踩西瓜皮」这个形容，应该作何解？ 它其实是一句歇后语，其完整形式是：脚踩西瓜皮---滑到哪里算哪里。意思是不管不顾，凭着本能、运气或者习惯行事，也不去理会结果如何。类似的俗语还有破罐破摔，但脚踩西瓜皮强调了快速、随性的那一面，并没有任何决然的意味，也没有考虑任何观众反应。 心最容易踩着西瓜皮任意滑行。比如说我自己，多年来遇见任何和自己的意愿稍有抵触的事，怒气就会立即爆发，中间没有任何停顿。交代他人去做的事情结果没做，怒气爆发；淘宝商家回复「亲，我们是不包邮的」，怒气爆发；吃鱼的时候，遇见第二根刺不得不再次停下，怒气爆发；要出门，发现太阳很大，怒气爆发...... 当然，我这种人平常时候看起来都是彬彬有礼，儒雅随和的样子。易怒的人都是人群中最初级的伪装者，就像是路怒症患者，在系好安全带，发动引擎之前，你很难预先知道这个人马上就要变成一只马路恶魔。但是易怒的人即便是在松弛的状态下，他人也能凭借第六感从平静的表象下感知到某种紧绷，某种潜在的攻击性，古人说的「不怒自威」，大概就是这个意思。 我花了很多年时间解决自己易怒这个问题，但是它早已经成为了心",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Nginx 多层代理下大文件上传失败排查（MySQL max_allowed_packet 限制）",
+    "url": "https://199604.com/3604",
+    "date": "2026-07-23T02:41:09Z",
+    "description": "Nginx 多层代理下大文件上传失败排查（MySQL maxallowedpacket 限制） 记录时间： […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "AI 还原已故亲人，也制造精神病人？II",
+    "url": "https://mobius.blog/25130.html",
+    "date": "2026-07-23T01:00:00Z",
+    "description": "从向下兼容，到共构现实 在昨天一开始，留下了一个问题： 人们一开始能够意识到自己在跟人工智能对话，但在某一个节 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "做为一个曾经创业失败的人，想给那些折腾",
+    "url": "https://versun.me/blog/tweet-2080090714340483073",
+    "date": "2026-07-23T00:40:47Z",
+    "description": "做为一个曾经创业失败的人，想给那些折腾 OPC 的人一个建议： 各地方政策不一样，开公司前，一定一定一定要去了解下注销公司的流程和途径",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "研究人员让五个 AI 模型各自运行模拟社",
+    "url": "https://versun.me/blog/tweet-2080080322159632723",
+    "date": "2026-07-22T23:59:29Z",
+    "description": "研究人员让五个 AI 模型各自运行模拟社会，Claude 最守规矩、Grok 四天犯下 180 宗罪并灭绝🤣 Claude = Civilization Grok = GTA https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "终于来了，等一这个功能等好久了",
+    "url": "https://versun.me/blog/tweet-2080064657684062386",
+    "date": "2026-07-22T22:57:14Z",
+    "description": "终于来了，等一这个功能等好久了",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "AMD Yes!",
+    "url": "https://versun.me/blog/tweet-2080041791454388371",
+    "date": "2026-07-22T21:26:23Z",
+    "description": "AMD Yes!",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "事情要一件一件来",
+    "url": "https://blog.solazy.me/20260722/",
+    "date": "2026-07-22T15:00:00Z",
+    "description": "今天又要说职场遇到的一件事儿了",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Brain0：只做 AI 生成代码场景的可观测性工具太可惜",
+    "url": "https://luweiqing.com/resources/Brain0.html",
+    "date": "2026-07-22T13:50:39Z",
+    "description": "https://github.com/Brain0-ai/brain0一款专为 AI 生成代码场景设计的代码决策追踪与治理工具，其核心定位是“AI 编写代码的黑盒”（The black box ...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "如果要在一个周末上线Vibe Coding产品，我会这样做",
+    "url": "https://www.icebeer.top/%e5%a6%82%e6%9e%9c%e8%a6%81%e5%9c%a8%e4%b8%80%e4%b8%aa%e5%91%a8%e6%9c%ab%e4%b8%8a%e7%ba%bfvibe-coding%e4%ba%a7%e5%93%81%ef%bc%8c%e6%88%91%e4%bc%9a%e8%bf%99%e6%a0%b7%e5%81%9a/",
+    "date": "2026-07-22T12:43:11Z",
+    "description": "本期邀请到了@莱纳德陈，一名在外资银行工作的产品经理。 他在纽约大学读完商业数据硕士，曾经做过说唱、打过橄榄球 […] 如果要在一个周末上线Vibe Coding产品，我会这样做 最先出现在 🍺 IceBeer 。",
+    "source_root_domain": "icebeer.top"
+  },
+  {
+    "title": "恭喜 GLM 5.2 正式成为守门员了🥳",
+    "url": "https://versun.me/blog/tweet-2079901757430190391",
+    "date": "2026-07-22T12:09:56Z",
+    "description": "恭喜 GLM 5.2 正式成为守门员了🥳🥳🥳",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "野人编年史",
+    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
+    "date": "2026-07-22T08:35:05Z",
+    "description": "野人编年史 野人创始人： 徐队，群昵称Shogun。姓徐，称徐队，真野人队长。 张队，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队，群昵称熊嘎婆，称熊队。“野人CLUB游泳事业部”群主。 亮队，群昵称亮什么，称亮队，野人官号 @重庆野人冬泳俱乐部 拥有者。 重要声明： “野人队”在加入“泳往直前”之前就已成立，我们不是另起炉灶，我们也不搞分裂主义。 我们永远欢迎“泳往直前”成员加入“野人队”，也永远欢迎“野人队”的成员随时加入“泳往直前”。 “野人队”永远是“泳往直前”的好朋友。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入“大竹林冬泳队”。 徐队、张队、熊队日常于“大竹林冬泳基地”进行户外游泳，队伍初具雏形，并开始尝试冬泳。 11月 徐队、张队、熊队代表“大竹林冬泳队”第一次参加广阳岛冬泳比赛。 12月 徐队、张队坚持冬泳，被亮队唤作“野人”，“野人队”队名初具雏形[ 1 ]。 2025年 1月 亮队正式加入，创始人集齐，正式成立“重庆野人冬泳俱乐部”。 2月 制作野人队旗、野人队服、野人泳帽等物料[ 1 ]",
+    "source_root_domain": "zhanglintc.co"
+  },
+  {
+    "title": "反对狗奴与反对虐狗并不冲突",
+    "url": "https://yipai.me/post/2541.html",
+    "date": "2026-07-22T07:25:00Z",
+    "description": "网上关于狗的讨论很有意思。有人发帖反对虐狗，下面马上有人问：狗到处撒尿怎么办？狗咬人怎么办？人都照顾不过来，还照顾狗？我不明白这些问题跟虐狗有什么关系。狗乱撒尿，让主人清理；狗咬了人，让主人赔偿，该怎么处置就怎么处置；流浪狗太多，也可以捕捉、绝育和收容。反对把狗绑起来折磨，跟这些事情有任何冲突吗？好像反对虐狗，就等于认为狗比人金贵，恨不得给狗分房子、交五险一",
+    "source_root_domain": "yipai.me"
+  },
+  {
+    "title": "2026.7.21",
+    "url": "https://www.justzht.com/2026-7-21/",
+    "date": "2026-07-22T06:51:50Z",
+    "description": "没什么特别值得说的事情，周末和朋友们跑了次山，下山后一起吃了个小的美式餐厅，然后在 Redwood City 的停车场楼顶拍",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "和一把电脑椅互动",
+    "url": "https://www.hecaitou.com/2026/07/interaction-with-a-computer-chair.html",
+    "date": "2026-07-22T04:34:05Z",
+    "description": "我有一把电脑椅，把人体工学那些神话暂且放在一边，它最大的优点是内藏一块电池，可以给腰部的气囊充放气。这样调节腰部支撑力的时候，简直就是无级变速，非常之妥帖，非常之好用。 但这不是今天的重点。即便气密性做得很好的气囊，它也在缓慢地漏气。当然，品质越好，泄漏速度也就越慢，越难以让人觉察。问题在于，我每天都要坐在这把椅子上打字。 第一天我调节好了气囊高度，第二天早上其实会漏掉一点点气，不多，完全无法觉察出来。第三天，第四天也是这样。这个变化非常缓慢，每天就那么一点点。对于我个人而言，我第一天调整完毕之后，就默认它已经完全到位，而且会保持到位。 就这样，气囊稍微缩回去一点，我的背就自动向后多靠一点。一天天过去，几个星期过去，一两个月过去，然后我某天突然开始觉得背疼。又是按摩，又是贴膏药，又是翻床垫，又是吃六味地黄丸，统统不见效。我内心就觉得很沮丧，很消沉，觉得自己年纪已经到了，很快就会全身疼，于是就准备放弃自己，去买很多甜食回来报复人生。 但实际上是电脑椅的问题，它的气囊已经空了一半，我就在打字的时候不得不拱起背，紧紧顶住椅背以获得足够支撑。这样一天又一天，一周又一周，每天顶几个小时，当然会觉",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "AI 还原已故亲人，也制造精神病人？I",
+    "url": "https://mobius.blog/25126.html",
+    "date": "2026-07-22T02:40:52Z",
+    "description": "首先要叠个甲，不是说用 AI 来模拟已故亲人的人，最终都会得精神病。之所以要叠这个甲，你看下去就明白了。 前两 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Jenkins Vue 前端流水线构建异常排查（pnpm 版本、husky、构建脚本拦截、OOM）",
+    "url": "https://199604.com/3602",
+    "date": "2026-07-22T02:24:25Z",
+    "description": "Jenkins Vue 前端流水线构建异常排查（pnpm 版本、husky、构建脚本拦截、OOM） 记录时间： […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "最近看大家用 Kimi K3 做了好多有",
+    "url": "https://versun.me/blog/tweet-2079740290894872895",
+    "date": "2026-07-22T01:28:19Z",
+    "description": "最近看大家用 Kimi K3 做了好多有意思的的东西，我也实在忍不住，给自己的女儿搓了一个太阳系科普模拟器 整个过程都是在 Kimi Chat 上进行的，提示词也非常简单： “做一个太阳系行星实时运动轨迹状态，每个星球按实际等比显示，且每个星球的材质根据实际情况制作，Claymorphism风格” 为了这次任务，我直接拉满K3性能，选择“K3 集群”模式 + 极致思考强度 + 超长对话长度...",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "早上遇到个棘手问题，请教下推友们： 我有",
+    "url": "https://versun.me/blog/tweet-2079720018577850756",
+    "date": "2026-07-22T00:07:46Z",
+    "description": "早上遇到个棘手问题，请教下推友们： 我有一个早报定时任务，今早 AI 读到 Tibo 的这条推文时，由于没有上下文，AI 以为是提升用量到 10M 😆 对于这种情况大家有什么好的解决方案吗？总不能每条内容都去搜索核实吧😂 [tweet-2079720018577850756-00e35862.png]",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "opencodex：让 Codex 和 Claude Code 跑在任意 LLM 上",
+    "url": "https://youngxhui.top/2026/07/opencodex-third-party-models/",
+    "date": "2026-07-22T00:00:00Z",
+    "description": "opencodex 是一个本地代理，把 Codex 的 Responses API 翻译成任意 LLM provider 的协议。你可以在 Codex CLI、Codex App、SDK 里用 Claude、Gemini、DeepSeek、Grok、GLM、Qwen 甚至本地 Ollama 模型——也能在 Claude Code 里同样用任意模型——不需要等任何人添加官方支持。 Streaming、tool 调用、reasoning token、图片生成，全部双向工作。 bash npm install -g @bitkyc08/opencodex ocx init ocx start 三行命令，Codex 就改道了。默认透传你的 ChatGPT 登录，你随时可以再加别的模型。 怎么工作的 text Codex CLI / App / SDK ──/v1/responses──▶ opencodex ──▶ 任意 provider │ Anthropic · xAI · Kimi · Google · DeepSeek · Groq · OpenRouter Ollama Cloud ",
+    "source_root_domain": "youngxhui.top"
+  }
+]
