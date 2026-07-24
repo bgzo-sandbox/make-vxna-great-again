@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-24 | [那些没有拍下来的时刻](https://blog.solazy.me/20260724/) | 我是一个不怎么喜欢拍照的人 |
 | 2026-07-24 | [近期觀影 - 無間道三部曲、醉好的時光、阿波羅 13 號](https://taxodium.ink/movie-2026-07-22.html) | 近期觀影 無間道三部曲、醉好的時光、阿波羅 13 號 無間道三部曲 (Infernal Affairs) Bilibili 上刷到了無間道第一部的片段，就找來看了看，本來只是想重看一遍無間道第一部的，找資源的時候找到了三部曲，就干脆都看一遍好了。下載的時候，最想看的第一部迟迟沒下好，就先看了第二部，… |
 | 2026-07-24 | [T2I 开源生图的新王 Krea2](https://eduardoqian.com/archives/t2i-xin-wang-chu-xian-krea2) | 参考之前的一篇文章，在ideogram 4昙花一现之后，紧接着出现Krea2造成的风浪远远大于ideogram 4. https://eduardoqian.com/archives/t2i-wen-sheng-tu-de-xin-xiu-ideogram-4ti-yan-he-ping-jie h |
 | 2026-07-24 | [Memos: 精 打 细 算](https://blog.yasking.org/a/1784878328.html) | 下载原图: Download |
