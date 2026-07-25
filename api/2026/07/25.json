@@ -7,6 +7,27 @@
     "source_root_domain": "mok.moe"
   },
   {
+    "title": "How to Fix Invisible Mouse & White Screen in HOI4 on Linux (Steam)|如何在 Linux (Steam) 上解决《钢铁雄心4》鼠标隐形与开局白屏问题",
+    "url": "https://cufezhusy.github.io/issue-25/",
+    "date": "2026-07-25T13:39:41Z",
+    "description": "If you play Hearts of Iron IV (HOI4) on Linux via Steam, you might encounter a frustrating bug: your mouse cursor disappears inside the game, and when you quit, it remains invisible on your desktop. Attempting to fix this by changing display settings (like switching to Borderless Windowed) can sometimes cause a blank white screen on startup. Here is the quick, clean fix using the Paradox Launcher—no terminal commands required! The Cause On Linux (especially under Wayland or modern X11 compositor",
+    "source_root_domain": "cufezhusy.github.io"
+  },
+  {
+    "title": "Memos: 多 子 多 福",
+    "url": "https://blog.yasking.org/a/1784985226.html",
+    "date": "2026-07-25T13:15:00Z",
+    "description": "下载原图: Download",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "复刻足迹页面",
+    "url": "https://hux.ink/posts/footprints/",
+    "date": "2026-07-25T13:13:00Z",
+    "description": "在 小十 的博客中看到一个足迹页面，想复刻搬运一个到我的 Hugo 博客中。 有了 AI 的帮忙，页面很快就复现出来了。 今天台风天，正好有时间在家将这些年走过的地方盘点一下。翻着一张张陈旧的照片，无数回忆如潮水般涌现。 还翻到一张 14 年前第一次来深圳的火车票，当时盛传“2012 世界末日”预言，而那个传说中的末日，恰好是我抵达深圳的当天：2012 年 12 月 21 日。 把标记点逐一添加，看着被点亮的地图，发现一个可怕的事实——作为一个南方人，我从来没去过北方。 去年中秋同学带安安出去玩了好几次，如果当时能随他们一同出发，便能一举解锁北京、黑龙江、内蒙古、宁夏与陕西了。奈何当时工作变故，难以休假抽身，终究留下了一丝遗憾。 许个愿：希望早日踏遍祖国的大好河山！ ❤",
+    "source_root_domain": "hux.ink"
+  },
+  {
     "title": "厕所",
     "url": "https://mobius.blog/25199.html",
     "date": "2026-07-25T11:50:30Z",
@@ -40,6 +61,13 @@
     "date": "2026-07-25T03:19:40Z",
     "description": "",
     "source_root_domain": "ops-coffee.cn"
+  },
+  {
+    "title": "Python 潮流周刊#160：AI 智能体与 LLM 推理",
+    "url": "https://pythoncat.top/posts/2026-07-25-weekly/",
+    "date": "2026-07-25T00:00:00Z",
+    "description": "分享了 12 篇文章，12 个开源项目",
+    "source_root_domain": "pythoncat.top"
   },
   {
     "title": "2026年第30周",
@@ -80,7 +108,7 @@
     "title": "請開啟 JavaScript 以繼續搜尋",
     "url": "https://taxodium.ink/google-turn-on-javascript-to-keep-searching.html",
     "date": "2026-07-24T18:30:00Z",
-    "description": "請開啟 JavaScript 以繼續搜尋 图1 Google 的頁面，左側有一行文字提示需要開啟 JavaScript 才能繼續搜索， 右側列出了常見瀏覧器開啟 JavaScript 的步驟。 Google: 請開啟 JavaScript 以繼續搜尋 我： 需要嗎？ Google: 不需要嗎？ 我： 需要嗎？ Google: 不需要嗎？ 我： 需要嗎？ Google: 別那麼認真嘛，不開你就別用咯 模仿 西遊記大結局之仙履奇緣 里的那段關於「愛一個人需要理由嗎」的對話 :P 從 2025 年 1 月開始，Google 搜索強制要求開啟 JavaScript 才能用，否則在搜索的時候會重定向到上面的引导頁。 我很久不用 Google 了，都在用 Kagi ，也是 前陣子 才開始用 uBlock Origin 默認禁用頁面的 JavaScript，最近想用 Google 搜點東西，才發現一定要開 JavaScript 才能用。 Kagi、bing、百度等都不需要 JavaScript 也能搜索，我不理解 Google 為什麼一定要開啟 JavaScript 才能用，找到的說法是「啟用 Ja",
+    "description": "請開啟 JavaScript 以繼續搜尋 图1 Google 的頁面，左側有一行文字提示需要開啟 JavaScript 才能繼續搜索， 右側列出了常見瀏覧器開啟 JavaScript 的步驟。 Google: 請開啟 JavaScript 以繼續搜尋 我： 需要嗎？ Google: 不需要嗎？ 我： 需要嗎？ Google: 不需要嗎？ 我： 需要嗎？ Google: 別那麼認真嘛，不開你就別用咯 模仿 西遊記大結局之仙履奇緣 里的那段關於「愛一個人需要理由嗎」的對話 :P 從 2025 年 1 月開始，Google 搜索強制要求開啟 JavaScript 才能用，否則在搜索的時候會重定向到上面的引导頁。 我很久不用 Google 了，都在用 Kagi ，也是 前陣子 才開始用 uBlock Origin 默認禁用頁面的 JavaScript，最近想用 Google 搜點東西，才發現一定要開 JavaScript 才能用。 Kagi、Bing、百度等都不需要 JavaScript 也能搜索，我不理解 Google 為什麼一定要開啟 JavaScript 才能用，找到的說法是「啟用 Ja",
     "source_root_domain": "taxodium.ink"
   },
   {
