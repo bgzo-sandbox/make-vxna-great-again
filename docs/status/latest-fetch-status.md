@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-07-24T23:05:41Z
-modified: 2026-07-24T23:05:41Z
+created: 2026-07-25T02:32:01Z
+modified: 2026-07-25T02:32:01Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,11 +11,11 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-07-24T23:05:41Z
+Generated at: 2026-07-25T02:32:01Z
 
 Total sources: 485
-Successful: 366
-Failed: 119
+Successful: 365
+Failed: 120
 
 | Status | Source | Feed | Origin | Articles | Error |
 | --- | --- | --- | --- | ---: | --- |
@@ -60,6 +60,7 @@ Failed: 119
 | Failed | [#262] V2EX › doufoo | [https://doufoo.com/index.xml](https://doufoo.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/262) | 0 | [Errno 111] Connection refused |
 | Failed | [#267] V2EX › 游牧血液 | [https://www.jitao.tech/rss.xml](https://www.jitao.tech/rss.xml) | [Origin](https://www.v2ex.com/xna/s/267) | 0 | [Errno -2] Name or service not known |
 | Failed | [#272] V2EX › 旅行者的随想 | [https://blog.besscroft.com/rss.xml](https://blog.besscroft.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/272) | 0 | [Errno -5] No address associated with hostname |
+| Failed | [#273] V2EX › 二丫讲梵 | [https://wiki.eryajf.net/rss.xml](https://wiki.eryajf.net/rss.xml) | [Origin](https://www.v2ex.com/xna/s/273) | 0 | Server error '522 Origin Connection Time-out' for url 'https://wiki.eryajf.net/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/522 |
 | Failed | [#277] V2EX › Mr. Gu | [https://blog.bsdplus.com/sub/rss.xml](https://blog.bsdplus.com/sub/rss.xml) | [Origin](https://www.v2ex.com/xna/s/277) | 0 | Client error '403 Forbidden' for url 'https://blog.bsdplus.com/sub/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#284] V2EX › Selfboot AI Gallery | [https://gallery.selfboot.cn/rss.xml](https://gallery.selfboot.cn/rss.xml) | [Origin](https://www.v2ex.com/xna/s/284) | 0 | Client error '403 Forbidden' for url 'https://gallery.selfboot.cn/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#285] V2EX › 囚记 | [https://prisonlog.com/feed](https://prisonlog.com/feed) | [Origin](https://www.v2ex.com/xna/s/285) | 0 | [Errno -2] Name or service not known |
@@ -263,7 +264,6 @@ Failed: 119
 | Success | [#269] V2EX › Bojie's Blog | [https://bojie.site/rss.xml](https://bojie.site/rss.xml) | [Origin](https://www.v2ex.com/xna/s/269) | 29 | - |
 | Success | [#26] V2EX › 素生 | [https://z.arlmy.me/atom.xml](https://z.arlmy.me/atom.xml) | [Origin](https://www.v2ex.com/xna/s/26) | 200 | - |
 | Success | [#271] V2EX › 竹磊的博客 | [https://blog.cubestone.wang/atom.xml](https://blog.cubestone.wang/atom.xml) | [Origin](https://www.v2ex.com/xna/s/271) | 15 | - |
-| Success | [#273] V2EX › 二丫讲梵 | [https://wiki.eryajf.net/rss.xml](https://wiki.eryajf.net/rss.xml) | [Origin](https://www.v2ex.com/xna/s/273) | 456 | - |
 | Success | [#274] V2EX › BAI YUN | [https://baiyun.me/feed](https://baiyun.me/feed) | [Origin](https://www.v2ex.com/xna/s/274) | 58 | - |
 | Success | [#275] V2EX › Empty Space | [https://nth233.top/feed.xml](https://nth233.top/feed.xml) | [Origin](https://www.v2ex.com/xna/s/275) | 43 | - |
 | Success | [#276] V2EX › NodeAlpha | [https://www.nodealpha.me/feed](https://www.nodealpha.me/feed) | [Origin](https://www.v2ex.com/xna/s/276) | 10 | - |
@@ -454,7 +454,7 @@ Failed: 119
 | Success | [#525] V2EX › 萨科的魔盒 | [https://yangquan.netlify.app/feed.xml](https://yangquan.netlify.app/feed.xml) | [Origin](https://www.v2ex.com/xna/s/525) | 8 | - |
 | Success | [#526] V2EX › 余弦の博客 | [https://ysx.cosine.ren/atom.xml](https://ysx.cosine.ren/atom.xml) | [Origin](https://www.v2ex.com/xna/s/526) | 20 | - |
 | Success | [#527] V2EX › 一只会飞的旺旺 | [https://www.wangwangit.com/atom.xml](https://www.wangwangit.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/527) | 20 | - |
-| Success | [#529] V2EX › Taober | [https://www.taober.blog/feed.xml](https://www.taober.blog/feed.xml) | [Origin](https://www.v2ex.com/xna/s/529) | 42 | - |
+| Success | [#529] V2EX › Taober | [https://www.taober.blog/feed.xml](https://www.taober.blog/feed.xml) | [Origin](https://www.v2ex.com/xna/s/529) | 43 | - |
 | Success | [#52] V2EX › 沉舟侧畔 | [https://springwood.me/feed/](https://springwood.me/feed/) | [Origin](https://www.v2ex.com/xna/s/52) | 12 | - |
 | Success | [#530] V2EX › Rocx | [https://www.qtter.com/rss.xml](https://www.qtter.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/530) | 20 | - |
 | Success | [#531] V2EX › Leo 的技术日志 | [https://jksoftcn.com/index.xml](https://jksoftcn.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/531) | 12 | - |
