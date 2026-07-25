@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-25 | [什么是工程问题？](https://www.geedea.pro/article/engineering-perspective/) | 据我对自己过去的总结，以及对比我更晚进入软件领域的人的观察，我发现新来者更容易陷入对技术问题的纠结，工程问题则被忽略了。我并不是说技术问题不如工程问题重要，我仅仅是指出，有不少人并不区分这两类问题，工程问题甚至不在他们的认知范围内，更别提去思考它了。本文我想来总结我对这两类问题的认识，并试图总结一些… |
+| 2026-07-25 | [隐藏在人群之中](https://www.hecaitou.com/2026/07/Hiding-in-the-Crowd.html) | 昨天我发布了一条 很简单的帖子 ，4 张咖啡的图片，配了两篇过往文章，谈贫困学生能不能用补贴金每天给自己买一杯 9.9元的咖啡。结果我收到 400 多条留言，接近三万人阅读。 在同一天，我很认真地写了一篇《 回答读者stoic提问 》，谈如何学习写作，算是近期的心血之作。结果一百多条留言，一万出头阅… |
+| 2026-07-25 | [向云端｜西南自驾03 - 景德镇](https://blog.ops-coffee.com/r/2026-southwest-road-trip-03-jingdezhen.html) |  |
+| 2026-07-25 | [2026年第30周](https://blog.sakoamc.com/posts/2630/) | 题记：二零二六年的第三十周，CQ,CQ,CQ。 |
 | 2026-07-25 | [行走在香港的另一面](https://bluepika.life/blog/walking-on-the-other-side-of-hong-kong) | 上周我去参加了一年一度的香港书展，我再次走进了这座城市，本着来都来了不折腾一下浑身不舒服的想法，我们计划多待一天到处走走。香港的市区我们已经看过太多遍了，这次的出行我们选择了离岛区，并计划了一次郊野徒步。 |
 | 2026-07-25 | [Memos #2026-07-24](https://www.taober.blog/memos) | 08:43 梦里的场景一直都是现实生活的一个意象，跟现实其实完全不一样，但是人总感觉是一样的。 又做了一个让我很痛苦的梦，我能容忍失败，但没法容忍在梦里都没有勇气。 18:52 日常上下班过斑马线时，一般车都会让人先过，我都是两步小跑过去，很羡慕那些慢步走过的人，学不来的松弛感和配得感。 19:26… |
 | 2026-07-24 | [Claude Opus 5评测汇总 在](https://versun.me/blog/tweet-2080804982371283207) | Claude Opus 5评测汇总 在 Vals Index 上排行第2，领先排行第三的 Kimi K3 仅 0.12% 在 Artificial Analysis 中，除了low思考程度成绩不理想外，其它思考程度均挤占前4名 有开发者用 Opus 5 和 Kimi K3 分别做了 3D 游戏，结果… |

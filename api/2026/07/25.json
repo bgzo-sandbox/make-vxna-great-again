@@ -1,5 +1,33 @@
 [
   {
+    "title": "什么是工程问题？",
+    "url": "https://www.geedea.pro/article/engineering-perspective/",
+    "date": "2026-07-25T03:27:21Z",
+    "description": "据我对自己过去的总结，以及对比我更晚进入软件领域的人的观察，我发现新来者更容易陷入对技术问题的纠结，工程问题则被忽略了。我并不是说技术问题不如工程问题重要，我仅仅是指出，有不少人并不区分这两类问题，工程问题甚至不在他们的认知范围内，更别提去思考它了。本文我想来总结我对这两类问题的认识，并试图总结一些方法论。我也不是专家，所以肯定会有疏漏和错误，还请不吝赐教。 The central question in how to improve the software art centers, as it always has, on people. 提升软件之道的中心问题，一直都是，以人为中心。 ——Frederick Brooks《No Silver Bullet》 接地气 技术的定义或许更接近科学原则和科学事实，比方说，Go 语言中有缓冲的 channel 会在缓冲区满的时候阻塞试图向其中写入新数据的协程 1 。倘若这个表述变成「需要严格控制并发的场合，应该使用带缓冲的 channel 」，那么我们就更接近工程的范畴了，但这依旧更像是技术细节。如果说的是「尽管协程很轻量，但这个项目里每个",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "隐藏在人群之中",
+    "url": "https://www.hecaitou.com/2026/07/Hiding-in-the-Crowd.html",
+    "date": "2026-07-25T03:21:38Z",
+    "description": "昨天我发布了一条 很简单的帖子 ，4 张咖啡的图片，配了两篇过往文章，谈贫困学生能不能用补贴金每天给自己买一杯 9.9元的咖啡。结果我收到 400 多条留言，接近三万人阅读。 在同一天，我很认真地写了一篇《 回答读者stoic提问 》，谈如何学习写作，算是近期的心血之作。结果一百多条留言，一万出头阅读量而已。 以往如果出现这种 400 多条留言的文章，我估计早就挽起袖口在留言区亲自下场和陌生网友辩论了。但昨天我没有那么做，毫无任何兴趣参与留言区里的激辩。 关于如何对待一个贫苦的学生，这个话题我在过去参与过许多次。坦白说，八年过去了，我没有发现人群有多少改变。态度没有多少改变，思路没有多少改变，甚至反对的理由和反对的姿势也像是从旧日里直接复印过来一样。所以我提不起兴趣再次参与，但是遵循要把所有的外境都转化为顺缘的原则，我还是想要从中找寻一点有价值的东西，那就是很多年前我在网上读到过的一句话： 「 一个人需要隐藏多少秘密，才能巧妙地度过一生？ 」 个人理解，这句话的意思是说如何隐藏在人群之中，过自己想要过的人生。那 400 多条留言，已经可以管窥所谓的「人群」是怎样的一种存在，他们如何思考",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "向云端｜西南自驾03 - 景德镇",
+    "url": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-03-jingdezhen.html",
+    "date": "2026-07-25T03:19:40Z",
+    "description": "",
+    "source_root_domain": "ops-coffee.cn"
+  },
+  {
+    "title": "2026年第30周",
+    "url": "https://blog.sakoamc.com/posts/2630/",
+    "date": "2026-07-25T00:00:00Z",
+    "description": "题记：二零二六年的第三十周，CQ,CQ,CQ。",
+    "source_root_domain": "sakoamc.com"
+  },
+  {
     "title": "行走在香港的另一面",
     "url": "https://bluepika.life/blog/walking-on-the-other-side-of-hong-kong",
     "date": "2026-07-25T00:00:00Z",
@@ -117,6 +145,13 @@
     "date": "2026-07-23T23:30:21Z",
     "description": "从基因检测、医美脸和失控产品，到“内容创作者”与“白眼狼”｜灵感电波 #131",
     "source_root_domain": "linggandianbo.com"
+  },
+  {
+    "title": "学习周刊-总第273期-2026年第30周",
+    "url": "https://wiki.eryajf.net/pages/8085fe/",
+    "date": "2026-07-23T21:51:09Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第273期 | http-stat-rs | lite-edit | nezha | superhq | holaOS | SuperCmd | llm_wiki",
+    "source_root_domain": "eryajf.net"
   },
   {
     "title": "本地部署大模型的意义",
