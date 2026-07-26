@@ -27,8 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-26 | [别急着让 AI 写代码，先把项目里的词讲清楚](https://gptkit.eth.limo/600117E4-40DD-4C26-90EF-42011932421B/) | 最近看了 Matt Pocock 的一段视频： 视频只有 15 分钟，讲的却不是某个新模型或提示词技巧，而是一个更基础的问题：让 AI 参与一个已有代码库时，怎样避免每次都从头解释业务名词和历史决定？ Matt 之前的 /grill-me 会持续追问，把模糊的想法问到可以执行。它并没有失效；问题在于… |
+| 2026-07-26 | [一台电脑上，怎样让两个 Codex CLI 账号互不干扰](https://gptkit.eth.limo/0E7FD68B-7F88-47A0-B90A-75A40F8F2760/) | 两个账号应各自使用独立的本地状态目录；它们可以同时工作，但不共享认证和会话。 一个人同时有个人和工作两个 OpenAI 账号时，最容易踩的坑不是登录，而是登录之后。默认情况下，Codex CLI 把认证、配置、会话和本地状态都放在同一个目录。后一次登录会让下一次启动的 CLI 使用新的身份；MCP、… |
+| 2026-07-26 | [那些没有成为冠军的人](https://www.hecaitou.com/2026/07/those-who-didnt-become-champions.html) | 昨晚看了两条视频，我内心如沸，难以平静。以下就是那两条视频，第一条是前因，第二条是后文。 1、 https://weixin.qq.com/sph/AvpV3FuFOS 2、 https://weixin.qq.com/sph/ARFLtcrx8k 如果我再年轻三十岁，会喜欢视频里的故事---外卖小… |
+| 2026-07-26 | [New Release: DOOM for the PlayStation](https://macsourceports.com/game/doompsx) | In hindsight, one of the ironies of DOOM , famous today for running on everything , is that the consoles of the era couldn't… |
+| 2026-07-26 | [最近惦念 20260716](https://z.arlmy.me/posts/TILs/thoughts/20260716_Recently/) | 「人迷恋的只是自己。」 |
+| 2026-07-26 | [Toots 429 2026 Jul.19 - Jul.25](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260725/) | 「丝滑不是好事。」 |
+| 2026-07-26 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of ioquake3 for Quake III: Arena has been updated to the latest code of the project |
 | 2026-07-26 | [专治“局部磨损”：我的AI牛仔裤选购指南](https://blog.196000.xyz/2026/2026-07-26-life-ai-jeans.html) | 专治“局部磨损”：我的AI牛仔裤选购指南 缘起：一个困扰多年的问题 平时穿得最多的就是牛仔裤。回顾那些被淘汰的裤子，无论价格高低，“死因”惊人地一致——后裆十字缝附近的布料，要么摩擦变色，要么越磨越薄，最后直接拉丝破洞。 我一直想不通：就算是久坐，受力最大的明明是臀部正中间，为什么先报废的反而是它下… |
 | 2026-07-26 | [≡ 005｜这两周莫比乌斯环转到了哪里？](https://mobius.blog/25160.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-26 | [7.26 随想与近期状态小结](https://blog.sakoamc.com/posts/26sx003/) | 题记：人一旦心脉受损，没有了心气、心力，心力交瘁，大概就是这样的吧。席地而坐，抬头观云，你会心情突然变好吗？临崖而立，探头向下，你会想来一次信仰的飞跃吗？ |
 | 2026-07-26 | [Memos #2026-07-25](https://www.taober.blog/memos) | 22:17 看完这周的两期蛋仔派对，奖励一首《嘻哈脑壳》，接着再来一首《Not Like Us》，享受！ |
 | 2026-07-25 | [天才程序员要下线了，希望能撑到明天开源，](https://versun.me/blog/tweet-2081163264797589845) | 天才程序员要下线了，希望能撑到明天开源，到时候准备去买 ollama 的 pro 试一试 [tweet-2081163264797589845-e46d5cef.png] |
 | 2026-07-25 | [太帅了！！！牛批 A\迟早要倒闭](https://versun.me/blog/tweet-2081159779238723744) | 太帅了！！！牛批 A\迟早要倒闭 |

@@ -1,5 +1,54 @@
 [
   {
+    "title": "别急着让 AI 写代码，先把项目里的词讲清楚",
+    "url": "https://gptkit.eth.limo/600117E4-40DD-4C26-90EF-42011932421B/",
+    "date": "2026-07-26T05:00:23Z",
+    "description": "最近看了 Matt Pocock 的一段视频： 视频只有 15 分钟，讲的却不是某个新模型或提示词技巧，而是一个更基础的问题：让 AI 参与一个已有代码库时，怎样避免每次都从头解释业务名词和历史决定？ Matt 之前的 /grill-me 会持续追问，把模糊的想法问到可以执行。它并没有失效；问题在于，单靠一轮轮问答，已经确认过的概念不会自动成为项目的一部分。下一次会话里，人仍可能要解释“独立视频”到底指什么、某个对象之间是一对一还是一对多、这个状态能否随意切换。 他现在在编码场景中改用 /grill-with-docs 。它保留追问，但把共同语言和不容易看懂的决策写进仓库。这样，聊天记录不再是唯一的上下文。 单纯追问，为什么还不够 视频中的例子是一项新功能：在一个管理课程和视频的应用里加入 pitch 。这里的 pitch 不是代码里的通用术语，而是视频的“包装”——标题、描述和对外呈现方式；团队会先想出多个 pitch，再选择其中一些制作成视频。 人一听就能根据上下文补全很多含义，AI 却没有这种默认背景。例如： standalone video 是不属于课程或课时的视频，还是“尚未",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "一台电脑上，怎样让两个 Codex CLI 账号互不干扰",
+    "url": "https://gptkit.eth.limo/0E7FD68B-7F88-47A0-B90A-75A40F8F2760/",
+    "date": "2026-07-26T05:00:13Z",
+    "description": "两个账号应各自使用独立的本地状态目录；它们可以同时工作，但不共享认证和会话。 一个人同时有个人和工作两个 OpenAI 账号时，最容易踩的坑不是登录，而是登录之后。默认情况下，Codex CLI 把认证、配置、会话和本地状态都放在同一个目录。后一次登录会让下一次启动的 CLI 使用新的身份；MCP、插件和会话历史也混在一起。 我在 macOS 上用 codex-cli 0.145.0 核对过这个行为。Codex 的配置源码把 CODEXHOME 定义为全部本地状态的根目录：默认是 ~/.codex ，设置后会改用指定目录。 源码中的说明 也说明日志和 SQLite 状态会随这个目录变化。 这意味着可以把“个人”和“工作”当成两套独立的 CLI 环境，而不是在同一套配置里反复登录、退出。 这不是原生的多账号切换 先把边界说清楚。Codex CLI 还没有类似 --account work 的正式账号选择器；官方仓库中相应的功能请求仍是开放状态。 该请求 本身也把现状描述为：默认只有一个本地状态目录，多账号只能换目录、换认证文件或重新登录。 所以 CODEXHOME 的作用不是把两个账号放",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "那些没有成为冠军的人",
+    "url": "https://www.hecaitou.com/2026/07/those-who-didnt-become-champions.html",
+    "date": "2026-07-26T04:58:58Z",
+    "description": "昨晚看了两条视频，我内心如沸，难以平静。以下就是那两条视频，第一条是前因，第二条是后文。 1、 https://weixin.qq.com/sph/AvpV3FuFOS 2、 https://weixin.qq.com/sph/ARFLtcrx8k 如果我再年轻三十岁，会喜欢视频里的故事---外卖小哥送奶茶到射击馆，看到眼前的景象心痒难耐，有人好事，遂请他上前试射几枪，结果发现他竟然是一位隐世高手。而我已经人到中年，戏剧化的情节并不会让我感到激动，只会让我内心无限唏嘘，觉得看到了自己的另外一个人生副本。很多时候，很多人，只不过是命好。更多时候，更多人，更聪明也更努力，却没有那样的命数。 中间有多少差别？命运轻轻，轻轻翻转一次牌面。 即便人到中年，我也依然喜欢这个故事的下文。外卖小哥费尽周折找回自己国家一级运动员的证书，终于可以在女儿面前证明自己。要证明的东西不多---爸爸不是你看到的那样，一直都很失败。而证明本身也不重要，信心可能更为重要---你和爸爸当年一般年纪，所以，你也可以的，不要为眼前的生活状态所蒙蔽，去找到你的光。 不是传统的那种大团圆结局，人生的真实剧本和电影还是不一样。外",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "New Release: DOOM for the PlayStation",
+    "url": "https://macsourceports.com/game/doompsx",
+    "date": "2026-07-26T04:19:14Z",
+    "description": "In hindsight, one of the ironies of DOOM , famous today for running on everything , is that the consoles of the era couldn't…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "最近惦念 20260716",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260716_Recently/",
+    "date": "2026-07-26T04:10:27Z",
+    "description": "「人迷恋的只是自己。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Toots 429 2026 Jul.19 - Jul.25",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260725/",
+    "date": "2026-07-26T04:02:27Z",
+    "description": "「丝滑不是好事。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Quake III: Arena updated",
+    "url": "https://macsourceports.com/game/quake3arena",
+    "date": "2026-07-26T03:22:35Z",
+    "description": "The build of ioquake3 for Quake III: Arena has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "专治“局部磨损”：我的AI牛仔裤选购指南",
     "url": "https://blog.196000.xyz/2026/2026-07-26-life-ai-jeans.html",
     "date": "2026-07-26T01:00:00Z",
@@ -12,6 +61,13 @@
     "date": "2026-07-26T01:00:00Z",
     "description": "—— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "7.26 随想与近期状态小结",
+    "url": "https://blog.sakoamc.com/posts/26sx003/",
+    "date": "2026-07-26T00:00:00Z",
+    "description": "题记：人一旦心脉受损，没有了心气、心力，心力交瘁，大概就是这样的吧。席地而坐，抬头观云，你会心情突然变好吗？临崖而立，探头向下，你会想来一次信仰的飞跃吗？",
+    "source_root_domain": "sakoamc.com"
   },
   {
     "title": "Memos #2026-07-25",
