@@ -48,6 +48,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-25 | [Quake updated](https://macsourceports.com/game/quake) | The build of DarkPlaces for Quake has been updated to the latest code of the project |
 | 2026-07-25 | [杨植麟的天才之劫——李丽丽的毒手和Kimi的重生](https://sinyalee.com/blog/?p=1267) | 现在中国最火的AI公司月之暗面的创始人杨植麟，他的计算机和AI研究道路差一点被汕头金中和前校长李丽丽摧毁。 李 […] |
 | 2026-07-25 | [新手汽车露营和观星踩坑实录](https://mok.moe/p/gn3x) | 老婆突然想看星星，我趁女儿生日临时决定去西涌，想顺便看日出、玩沙子。结果三脚架不合用，镜头起雾，手动充气床累得人汗流浃背，女儿却在床上蹦跶到半夜。停车场过夜被车灯和喧闹搅得几乎没睡，但一家人还是赶上了日出，也去沙滩玩了一会儿。虽然狼狈，但新手该踩的坑都踩了，也算攒下了一份下次再出发的底气 |
+| 2026-07-25 | [周末流水账 0725](https://blog.solazy.me/20260725/) | 周六好！ |
 | 2026-07-25 | [How to Fix Invisible Mouse & White Screen in HOI4 on Linux (Steam)&#124;如何在 Linux (Steam) 上解决《钢铁雄心4》鼠标隐形与开局白屏问题](https://cufezhusy.github.io/issue-25/) | If you play Hearts of Iron IV (HOI4) on Linux via Steam, you might encounter a frustrating bug: your mouse cursor disappears inside the game, and when… |
 | 2026-07-25 | [Memos: 多 子 多 福](https://blog.yasking.org/a/1784985226.html) | 下载原图: Download |
 | 2026-07-25 | [复刻足迹页面](https://hux.ink/posts/footprints/) | 在 小十 的博客中看到一个足迹页面，想复刻搬运一个到我的 Hugo 博客中。 有了 AI 的帮忙，页面很快就复现出来了。 今天台风天，正好有时间在家将这些年走过的地方盘点一下。翻着一张张陈旧的照片，无数回忆如潮水般涌现。 还翻到一张 14 年前第一次来深圳的火车票，当时盛传“2012 世界末日”预言… |
