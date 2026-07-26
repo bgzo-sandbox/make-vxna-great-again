@@ -66,7 +66,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-25 | [完全停不下了！ 又用 K3 做了个 &l](https://versun.me/blog/tweet-2080844274766418317) | 完全停不下了！ 又用 K3 做了个 的游戏 快来一起战斗！😎😎😎 网站：https://swarm.kimi.site/ 对话过程：https://www.kimi.com/share/19f9705b-4f22-861e-8000-00003eff5433 @Kimi_Moonshot @Kimi… |
 | 2026-07-25 | [Python 潮流周刊#160：AI 智能体与 LLM 推理](https://pythoncat.top/posts/2026-07-25-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-07-25 | [2026年第30周](https://blog.sakoamc.com/posts/2630/) | 题记：二零二六年的第三十周，CQ,CQ,CQ。 |
-| 2026-07-25 | [行走在香港的另一面](https://bluepika.life/blog/another-side-of-hong-kong) | 上周我去参加了一年一度的香港书展，我再次走进了这座城市，本着来都来了不折腾一下浑身不舒服的想法，我们计划多待一天到处走走。香港的市区我们已经看过太多遍了，这次的出行我们选择了离岛区，并计划了一次郊野徒步。 |
+| 2026-07-25 | [香港的另一面](https://bluepika.life/blog/another-side-of-hong-kong) | 上周我去参加了一年一度的香港书展，我再次走进了这座城市，本着来都来了不折腾一下浑身不舒服的想法，我们计划多待一天到处走走。香港的市区我们已经看过太多遍了，这次的出行我们选择了离岛区，并计划了一次郊野徒步。 |
 | 2026-07-25 | [行走在香港的另一面](https://bluepika.life/blog/walking-on-the-other-side-of-hong-kong) | 上周我去参加了一年一度的香港书展，我再次走进了这座城市，本着来都来了不折腾一下浑身不舒服的想法，我们计划多待一天到处走走。香港的市区我们已经看过太多遍了，这次的出行我们选择了离岛区，并计划了一次郊野徒步。 |
 | 2026-07-24 | [Claude Opus 5评测汇总 在](https://versun.me/blog/tweet-2080804982371283207) | Claude Opus 5评测汇总 在 Vals Index 上排行第2，领先排行第三的 Kimi K3 仅 0.12% 在 Artificial Analysis 中，除了low思考程度成绩不理想外，其它思考程度均挤占前4名 有开发者用 Opus 5 和 Kimi K3 分别做了 3D 游戏，结果… |
 | 2026-07-24 | [关于清华校友抱团](https://sinyalee.com/blog/?p=1263) | 很多非清华的人，都会观察到国内顶级商业圈清华校友抱团的现象。清华校友资源交换、投资创业，抱团现象非常严重。我最 […] |
