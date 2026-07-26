@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-26 | [Harbor删除仓库报500错误——PostgreSQL系统表pg_statistic TOAST数据损坏修复](https://199604.com/3607) | Harbor删除仓库报500错误——PostgreSQL系统表pg_statistic TOAST数据损坏修复 […] |
 | 2026-07-26 | [断层里的心理学](https://blog.solazy.me/20260726/) | 今天想聊聊我眼中的心理学 |
 | 2026-07-26 | [告别单向空间](https://lomus.cc/archives/797) | 在单向空间营业的最后一天呆了一下午，买了几本打折的书，喝了最后一杯单向咖啡，最后逛了逛书店，也算是好好跟单向乐 […] 告别单向空间 最先出现在 Lumos's Blog 。 |
 | 2026-07-26 | [别急着让 AI 写代码，先把项目里的词讲清楚](https://gptkit.eth.limo/600117E4-40DD-4C26-90EF-42011932421B/) | 最近看了 Matt Pocock 的一段视频： 视频只有 15 分钟，讲的却不是某个新模型或提示词技巧，而是一个更基础的问题：让 AI 参与一个已有代码库时，怎样避免每次都从头解释业务名词和历史决定？ Matt 之前的 /grill-me 会持续追问，把模糊的想法问到可以执行。它并没有失效；问题在于… |
