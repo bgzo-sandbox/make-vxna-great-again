@@ -27,6 +27,17 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-26 | [专治“局部磨损”：我的AI牛仔裤选购指南](https://blog.196000.xyz/2026/2026-07-26-life-ai-jeans.html) | 专治“局部磨损”：我的AI牛仔裤选购指南 缘起：一个困扰多年的问题 平时穿得最多的就是牛仔裤。回顾那些被淘汰的裤子，无论价格高低，“死因”惊人地一致——后裆十字缝附近的布料，要么摩擦变色，要么越磨越薄，最后直接拉丝破洞。 我一直想不通：就算是久坐，受力最大的明明是臀部正中间，为什么先报废的反而是它下… |
+| 2026-07-26 | [≡ 005｜这两周莫比乌斯环转到了哪里？](https://mobius.blog/25160.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-26 | [Memos #2026-07-25](https://www.taober.blog/memos) | 22:17 看完这周的两期蛋仔派对，奖励一首《嘻哈脑壳》，接着再来一首《Not Like Us》，享受！ |
+| 2026-07-25 | [天才程序员要下线了，希望能撑到明天开源，](https://versun.me/blog/tweet-2081163264797589845) | 天才程序员要下线了，希望能撑到明天开源，到时候准备去买 ollama 的 pro 试一试 [tweet-2081163264797589845-e46d5cef.png] |
+| 2026-07-25 | [太帅了！！！牛批 A\迟早要倒闭](https://versun.me/blog/tweet-2081159779238723744) | 太帅了！！！牛批 A\迟早要倒闭 |
+| 2026-07-25 | [Heretic II updated](https://macsourceports.com/game/heretic2) | The build of Heretic2R-UNIX for Heretic II has been updated to the latest code of the project |
+| 2026-07-25 | [Arcanum: Of Steamworks and Magick Obscura updated](https://macsourceports.com/game/arcanum) | The build of Arcanum Community Edition for Arcanum: Of Steamworks and Magick Obscura has been updated to the latest code of the project |
+| 2026-07-25 | [Unreal Tournament 2004 updated](https://macsourceports.com/game/unrealtournament2004) | The build of UT2004 for Unreal Tournament 2004 has been updated to version 3374-preview-23 of the project |
+| 2026-07-25 | [Old School RuneScape updated](https://macsourceports.com/game/runescape) | The build of RuneLite for Old School RuneScape has been updated to version 2.8.0 of the project |
+| 2026-07-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.63 of the project |
+| 2026-07-25 | [Quake updated](https://macsourceports.com/game/quake) | The build of DarkPlaces for Quake has been updated to the latest code of the project |
 | 2026-07-25 | [杨植麟的天才之劫——李丽丽的毒手和Kimi的重生](https://sinyalee.com/blog/?p=1267) | 现在中国最火的AI公司月之暗面的创始人杨植麟，他的计算机和AI研究道路差一点被汕头金中和前校长李丽丽摧毁。 李 […] |
 | 2026-07-25 | [新手汽车露营和观星踩坑实录](https://mok.moe/p/gn3x) | 老婆突然想看星星，我趁女儿生日临时决定去西涌，想顺便看日出、玩沙子。结果三脚架不合用，镜头起雾，手动充气床累得人汗流浃背，女儿却在床上蹦跶到半夜。停车场过夜被车灯和喧闹搅得几乎没睡，但一家人还是赶上了日出，也去沙滩玩了一会儿。虽然狼狈，但新手该踩的坑都踩了，也算攒下了一份下次再出发的底气 |
 | 2026-07-25 | [How to Fix Invisible Mouse & White Screen in HOI4 on Linux (Steam)&#124;如何在 Linux (Steam) 上解决《钢铁雄心4》鼠标隐形与开局白屏问题](https://cufezhusy.github.io/issue-25/) | If you play Hearts of Iron IV (HOI4) on Linux via Steam, you might encounter a frustrating bug: your mouse cursor disappears inside the game, and when… |
@@ -34,13 +45,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-25 | [复刻足迹页面](https://hux.ink/posts/footprints/) | 在 小十 的博客中看到一个足迹页面，想复刻搬运一个到我的 Hugo 博客中。 有了 AI 的帮忙，页面很快就复现出来了。 今天台风天，正好有时间在家将这些年走过的地方盘点一下。翻着一张张陈旧的照片，无数回忆如潮水般涌现。 还翻到一张 14 年前第一次来深圳的火车票，当时盛传“2012 世界末日”预言… |
 | 2026-07-25 | [厕所](https://mobius.blog/25199.html) | 小程好不容易找到个公共厕所，结果在门口被一个满脸严肃的人拦了下来，他看着小程急得满头满汗，却还是慢吞吞地问道： […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-25 | [如何用宝可梦属性玩剪刀石头布？](https://www.geedea.pro/article/rps-but-pokemon/) | 读者早上好，中午好，下午好，晚上好，本人上了五天班之后终于在周末开始发疯了（其实没那么难受，工作待遇挺好的，我只是想发疯），所以我们今天来玩石头剪刀布。 因为我想看的《星期三》《人生切割术》和《同乐者》都还没出新剧集，而《瑞克与莫蒂》在周一才更新，所以我从头到尾刷了七遍《老友记》（当然是从我第一次看… |
+| 2026-07-25 | [claude opus 5才发布没几个小](https://versun.me/blog/tweet-2080969769529098440) | claude opus 5才发布没几个小时，怎么推上都没什么人谈呀，难道是都被封号了，没得用？ 说的最多的是，催 tipo 赶紧重置codex😂😂😂 |
 | 2026-07-25 | [什么是工程问题？](https://www.geedea.pro/article/engineering-perspective/) | 据我对自己过去的总结，以及对比我更晚进入软件领域的人的观察，我发现新来者更容易陷入对技术问题的纠结，工程问题则被忽略了。我并不是说技术问题不如工程问题重要，我仅仅是指出，有不少人并不区分这两类问题，工程问题甚至不在他们的认知范围内，更别提去思考它了。本文我想来总结我对这两类问题的认识，并试图总结一些… |
 | 2026-07-25 | [隐藏在人群之中](https://www.hecaitou.com/2026/07/Hiding-in-the-Crowd.html) | 昨天我发布了一条 很简单的帖子 ，4 张咖啡的图片，配了两篇过往文章，谈贫困学生能不能用补贴金每天给自己买一杯 9.9元的咖啡。结果我收到 400 多条留言，接近三万人阅读。 在同一天，我很认真地写了一篇《 回答读者stoic提问 》，谈如何学习写作，算是近期的心血之作。结果一百多条留言，一万出头阅… |
 | 2026-07-25 | [向云端｜西南自驾03 - 景德镇](https://blog.ops-coffee.com/r/2026-southwest-road-trip-03-jingdezhen.html) |  |
+| 2026-07-25 | [完全停不下了！ 又用 K3 做了个 &l](https://versun.me/blog/tweet-2080844274766418317) | 完全停不下了！ 又用 K3 做了个 的游戏 快来一起战斗！😎😎😎 网站：https://swarm.kimi.site/ 对话过程：https://www.kimi.com/share/19f9705b-4f22-861e-8000-00003eff5433 @Kimi_Moonshot @Kimi… |
 | 2026-07-25 | [Python 潮流周刊#160：AI 智能体与 LLM 推理](https://pythoncat.top/posts/2026-07-25-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-07-25 | [2026年第30周](https://blog.sakoamc.com/posts/2630/) | 题记：二零二六年的第三十周，CQ,CQ,CQ。 |
 | 2026-07-25 | [行走在香港的另一面](https://bluepika.life/blog/walking-on-the-other-side-of-hong-kong) | 上周我去参加了一年一度的香港书展，我再次走进了这座城市，本着来都来了不折腾一下浑身不舒服的想法，我们计划多待一天到处走走。香港的市区我们已经看过太多遍了，这次的出行我们选择了离岛区，并计划了一次郊野徒步。 |
-| 2026-07-25 | [Memos #2026-07-24](https://www.taober.blog/memos) | 08:43 梦里的场景一直都是现实生活的一个意象，跟现实其实完全不一样，但是人总感觉是一样的。 又做了一个让我很痛苦的梦，我能容忍失败，但没法容忍在梦里都没有勇气。 18:52 日常上下班过斑马线时，一般车都会让人先过，我都是两步小跑过去，很羡慕那些慢步走过的人，学不来的松弛感和配得感。 19:26… |
 | 2026-07-24 | [Claude Opus 5评测汇总 在](https://versun.me/blog/tweet-2080804982371283207) | Claude Opus 5评测汇总 在 Vals Index 上排行第2，领先排行第三的 Kimi K3 仅 0.12% 在 Artificial Analysis 中，除了low思考程度成绩不理想外，其它思考程度均挤占前4名 有开发者用 Opus 5 和 Kimi K3 分别做了 3D 游戏，结果… |
 | 2026-07-24 | [关于清华校友抱团](https://sinyalee.com/blog/?p=1263) | 很多非清华的人，都会观察到国内顶级商业圈清华校友抱团的现象。清华校友资源交换、投资创业，抱团现象非常严重。我最 […] |
 | 2026-07-24 | [請開啟 JavaScript 以繼續搜尋](https://taxodium.ink/google-turn-on-javascript-to-keep-searching.html) | 請開啟 JavaScript 以繼續搜尋 图1 Google 的頁面，左側有一行文字提示需要開啟 JavaScript 才能繼續搜索， 右側列出了常見瀏覧器開啟 JavaScript 的步驟。 Google: 請開啟 JavaScript 以繼續搜尋 我： 需要嗎？ Google: 不需要嗎？ 我：… |
@@ -65,7 +77,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-23 | [讲个搞笑的事，这周接了某个大厂的商单，要](https://versun.me/blog/tweet-2080237580797526327) | 讲个搞笑的事，这周接了某个大厂的商单，要我用它家的模型做个东西吹一下，但由于模型太垃圾，我 vibe 了3天，连滚带爬的改，也做不出啥好东西了。 最后，我拿 kimi k3 做了个，伪装成它家模型，昧着良心吹了😆 |
 | 2026-07-23 | [iosevka字体让中文 ASCII diagram 图表对齐](https://blog.est.im/2026/stdout-30) | 对齐前： ┌──────────────┐ ┌──────────────┐ │ 用户请求 │────▶ │ 网关服务 │ │ User Req │ │ Gateway │ └──────┬───────┘ └──────┬───────┘ │ │ ▼ ▼ ┌──────────────┐ ┌───… |
 | 2026-07-23 | [288、大暑](https://1900.live/288-da-shu/) | 滴水观音也裹起叶片避暑 蝉声已烈，热浪如熔，天地在沸腾与锻造之间，拉满了一张无形的烈火之弓。 太阳行至黄经120°，大暑——夏之第六序，亦为夏之绝唱。 骄阳似火，万物如煮。腐草在溽热中化萤，点亮暗夜的长空；土润生溽，大地的每一寸肌肤都在蒸腾着湿热的气息；大雨时行，雷暴如倒悬之海，砸向滚烫的路面，激起… |
-| 2026-07-23 | [Quake updated](https://macsourceports.com/game/quake) | The build of QSS-M for Quake has been updated to version 1.6.5 of the project |
 | 2026-07-23 | [心踩西瓜皮](https://www.hecaitou.com/2026/07/Mind-on-a-Watermelon-Peel.html) | 有读者问我，当我描述一个人内心的想法时用了「脚踩西瓜皮」这个形容，应该作何解？ 它其实是一句歇后语，其完整形式是：脚踩西瓜皮---滑到哪里算哪里。意思是不管不顾，凭着本能、运气或者习惯行事，也不去理会结果如何。类似的俗语还有破罐破摔，但脚踩西瓜皮强调了快速、随性的那一面，并没有任何决然的意味，也没有… |
 | 2026-07-23 | [Nginx 多层代理下大文件上传失败排查（MySQL max_allowed_packet 限制）](https://199604.com/3604) | Nginx 多层代理下大文件上传失败排查（MySQL maxallowedpacket 限制） 记录时间： […] |
 | 2026-07-23 | [AI 还原已故亲人，也制造精神病人？II](https://mobius.blog/25130.html) | 从向下兼容，到共构现实 在昨天一开始，留下了一个问题： 人们一开始能够意识到自己在跟人工智能对话，但在某一个节 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -86,8 +97,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-22 | [最近看大家用 Kimi K3 做了好多有](https://versun.me/blog/tweet-2079740290894872895) | 最近看大家用 Kimi K3 做了好多有意思的的东西，我也实在忍不住，给自己的女儿搓了一个太阳系科普模拟器 整个过程都是在 Kimi Chat 上进行的，提示词也非常简单： “做一个太阳系行星实时运动轨迹状态，每个星球按实际等比显示，且每个星球的材质根据实际情况制作，Claymorphism风格”… |
 | 2026-07-22 | [早上遇到个棘手问题，请教下推友们： 我有](https://versun.me/blog/tweet-2079720018577850756) | 早上遇到个棘手问题，请教下推友们： 我有一个早报定时任务，今早 AI 读到 Tibo 的这条推文时，由于没有上下文，AI 以为是提升用量到 10M 😆 对于这种情况大家有什么好的解决方案吗？总不能每条内容都去搜索核实吧😂 [tweet-2079720018577850756-00e35862.png… |
 | 2026-07-22 | [opencodex：让 Codex 和 Claude Code 跑在任意 LLM 上](https://youngxhui.top/2026/07/opencodex-third-party-models/) | opencodex 是一个本地代理，把 Codex 的 Responses API 翻译成任意 LLM provider 的协议。你可以在 Codex CLI、Codex App、SDK 里用 Claude、Gemini、DeepSeek、Grok、GLM、Qwen 甚至本地 Ollama 模型——… |
-| 2026-07-21 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.63 of the project |
-| 2026-07-21 | [Old School RuneScape updated](https://macsourceports.com/game/runescape) | The build of RuneLite for Old School RuneScape has been updated to version 2.8.0 of the project |
 | 2026-07-21 | [LLM Local Inference](https://ahdw.casacam.net/2026/07/22/llm-local-inference/) | 让我试着梳理一下我的思路，把 LLM 在消费级硬件上的 local inference 讲一讲。 Hook K […] |
 | 2026-07-21 | [凌晨十二点的工作群](https://blog.solazy.me/20260721/) | 今天说个我这两天有点负罪感的事儿 |
 | 2026-07-21 | [Cloudflare Tunnel 内网穿透](https://blog.196000.xyz/2026/2026-07-19-develop-cloudflare-tunnel.html) | 使用 Cloudflare Tunnel 穿透内网服务暴露在外网。 |
@@ -138,16 +147,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-19 | [Toots 428 2026 Jul.12 - Jul.18](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260718/) | 「你是自由的。」 |
 | 2026-07-19 | [学会用擅长的事让自己偷懒](https://mobius.blog/25103.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-19 | [2026年第29周](https://blog.sakoamc.com/posts/2629/) | 题记：二零二六年的第二十九周，那些老旧的，依然在运转着。 |
-| 2026-07-18 | [新疆伊犁 7](https://flandre-scarlet.moe/blog/2609/) | Day 7 惯例十一点左右起床，出门前往新源县的开元美食广场找吃的。午饭吃了菠萝黄牛肉和疙瘩汤，原以为是面疙瘩... 阅读更多 |
-| 2026-07-18 | [新疆伊犁 6](https://flandre-scarlet.moe/blog/2594/) | Day 6 雨天的库尔得宁。 中午先去巩留的店里吃纳仁。纳仁是类似于牛肉或马肉作为浇头的面食。马肉我感觉说不上... 阅读更多 |
-| 2026-07-18 | [那些无所不能的幻觉](https://blog.solazy.me/20260718/) | 今天想聊聊那些自以为是，缺少敬畏之心的人 |
-| 2026-07-18 | [低成本实现国行 iPhone 使用 eSIM 漫游流量](https://depp.wang/2026/esim-iphone/) | 最近 Shadowrocket 出了 Tailscale 功能，解决了因为 iPhone 只能开启一个 VPN，Shadowrocket 与 Tailscale 不能同时开启的问题。但使用下来发现 Shadowrocket 的耗电量还是挺高的。 因为手机大部分时间都连 Wifi，本身使用流量不多，所… |
-| 2026-07-18 | [为什么 Github OAuth 故意拦截 CORS](https://blog.est.im/2026/stdout-29) | 跟AI发闹骚学到的 https://github.com/isaacs/github/issues/330 Allowing CORS for the endpoint you mentioned would mean that you could complete this step of the… |
-| 2026-07-18 | [新疆伊犁 5](https://flandre-scarlet.moe/blog/2581/) | Day 5 早上起床，发现喉咙没昨天那么疼了，症状有所缓解。因为住的民宿就在特克斯的八卦城内，周边正好是步行街... 阅读更多 |
-| 2026-07-18 | [新疆伊犁 4](https://flandre-scarlet.moe/blog/2569/) | Day 4 今天出发前往特克斯县，途经伊昭公路。 该来的还是来了，之前提到零食有鸣的西梅汁，这才没喝几口呢，结... 阅读更多 |
-| 2026-07-18 | [新疆伊犁 3](https://flandre-scarlet.moe/blog/2556/) | Day 3 今天就呆在伊宁了，市区逛逛。酒店老板给我们推荐了当地的一把抓，也就是我们口中的烤包子，当地人一般叫... 阅读更多 |
-| 2026-07-18 | [为什么从左到右是前进](https://www.hecaitou.com/2026/07/Why-Left-to-Right-Means-Moving-Forward.html) | 昨天和朋友讨论了一个有趣的小问题：为什么在银幕上，人物总是从画面左侧进入，然后向右跑？也就是说，人类的默认运动方向是从左向右？朋友给出的解释是写字的时候，全球大部分地区都是从左向右书写，然后就成为了一种默认的共识。 我看了觉得有点不服，既然是讨论银幕上的运动，那么是不是可以参考剧场？剧场的舞台一边有… |
-| 2026-07-18 | [Python 潮流周刊#159：Python 3.15 预览](https://pythoncat.top/posts/2026-07-18-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 
 ## Vibe Coding
 
