@@ -21,6 +21,13 @@
     "source_root_domain": "lomus.cc"
   },
   {
+    "title": "Vol.113 软件工厂的瓶颈从生成转向验证：自动化与人类判断的平衡",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-113",
+    "date": "2026-07-26T08:00:00Z",
+    "description": "本期内容探讨AI软件生产的瓶颈从生成转向验证，分析自动化与人类判断的平衡，涵盖Agent安全、AI UX设计、模型效率评估及中国AI行业路线选择等核心议题。",
+    "source_root_domain": "liduos.com"
+  },
+  {
     "title": "别急着让 AI 写代码，先把项目里的词讲清楚",
     "url": "https://gptkit.eth.limo/600117E4-40DD-4C26-90EF-42011932421B/",
     "date": "2026-07-26T05:00:23Z",
@@ -264,6 +271,13 @@
     "date": "2026-07-25T00:00:00Z",
     "description": "题记：二零二六年的第三十周，CQ,CQ,CQ。",
     "source_root_domain": "sakoamc.com"
+  },
+  {
+    "title": "行走在香港的另一面",
+    "url": "https://bluepika.life/blog/another-side-of-hong-kong",
+    "date": "2026-07-25T00:00:00Z",
+    "description": "上周我去参加了一年一度的香港书展，我再次走进了这座城市，本着来都来了不折腾一下浑身不舒服的想法，我们计划多待一天到处走走。香港的市区我们已经看过太多遍了，这次的出行我们选择了离岛区，并计划了一次郊野徒步。",
+    "source_root_domain": "bluepika.life"
   },
   {
     "title": "行走在香港的另一面",

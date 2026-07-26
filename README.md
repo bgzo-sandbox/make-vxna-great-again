@@ -30,6 +30,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-26 | [Harbor删除仓库报500错误——PostgreSQL系统表pg_statistic TOAST数据损坏修复](https://199604.com/3607) | Harbor删除仓库报500错误——PostgreSQL系统表pg_statistic TOAST数据损坏修复 […] |
 | 2026-07-26 | [断层里的心理学](https://blog.solazy.me/20260726/) | 今天想聊聊我眼中的心理学 |
 | 2026-07-26 | [告别单向空间](https://lomus.cc/archives/797) | 在单向空间营业的最后一天呆了一下午，买了几本打折的书，喝了最后一杯单向咖啡，最后逛了逛书店，也算是好好跟单向乐 […] 告别单向空间 最先出现在 Lumos's Blog 。 |
+| 2026-07-26 | [Vol.113 软件工厂的瓶颈从生成转向验证：自动化与人类判断的平衡](https://liduos.com/weekly/the-weekly-gradient-113) | 本期内容探讨AI软件生产的瓶颈从生成转向验证，分析自动化与人类判断的平衡，涵盖Agent安全、AI UX设计、模型效率评估及中国AI行业路线选择等核心议题。 |
 | 2026-07-26 | [别急着让 AI 写代码，先把项目里的词讲清楚](https://gptkit.eth.limo/600117E4-40DD-4C26-90EF-42011932421B/) | 最近看了 Matt Pocock 的一段视频： 视频只有 15 分钟，讲的却不是某个新模型或提示词技巧，而是一个更基础的问题：让 AI 参与一个已有代码库时，怎样避免每次都从头解释业务名词和历史决定？ Matt 之前的 /grill-me 会持续追问，把模糊的想法问到可以执行。它并没有失效；问题在于… |
 | 2026-07-26 | [一台电脑上，怎样让两个 Codex CLI 账号互不干扰](https://gptkit.eth.limo/0E7FD68B-7F88-47A0-B90A-75A40F8F2760/) | 两个账号应各自使用独立的本地状态目录；它们可以同时工作，但不共享认证和会话。 一个人同时有个人和工作两个 OpenAI 账号时，最容易踩的坑不是登录，而是登录之后。默认情况下，Codex CLI 把认证、配置、会话和本地状态都放在同一个目录。后一次登录会让下一次启动的 CLI 使用新的身份；MCP、… |
 | 2026-07-26 | [那些没有成为冠军的人](https://www.hecaitou.com/2026/07/those-who-didnt-become-champions.html) | 昨晚看了两条视频，我内心如沸，难以平静。以下就是那两条视频，第一条是前因，第二条是后文。 1、 https://weixin.qq.com/sph/AvpV3FuFOS 2、 https://weixin.qq.com/sph/ARFLtcrx8k 如果我再年轻三十岁，会喜欢视频里的故事---外卖小… |
@@ -65,6 +66,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-25 | [完全停不下了！ 又用 K3 做了个 &l](https://versun.me/blog/tweet-2080844274766418317) | 完全停不下了！ 又用 K3 做了个 的游戏 快来一起战斗！😎😎😎 网站：https://swarm.kimi.site/ 对话过程：https://www.kimi.com/share/19f9705b-4f22-861e-8000-00003eff5433 @Kimi_Moonshot @Kimi… |
 | 2026-07-25 | [Python 潮流周刊#160：AI 智能体与 LLM 推理](https://pythoncat.top/posts/2026-07-25-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-07-25 | [2026年第30周](https://blog.sakoamc.com/posts/2630/) | 题记：二零二六年的第三十周，CQ,CQ,CQ。 |
+| 2026-07-25 | [行走在香港的另一面](https://bluepika.life/blog/another-side-of-hong-kong) | 上周我去参加了一年一度的香港书展，我再次走进了这座城市，本着来都来了不折腾一下浑身不舒服的想法，我们计划多待一天到处走走。香港的市区我们已经看过太多遍了，这次的出行我们选择了离岛区，并计划了一次郊野徒步。 |
 | 2026-07-25 | [行走在香港的另一面](https://bluepika.life/blog/walking-on-the-other-side-of-hong-kong) | 上周我去参加了一年一度的香港书展，我再次走进了这座城市，本着来都来了不折腾一下浑身不舒服的想法，我们计划多待一天到处走走。香港的市区我们已经看过太多遍了，这次的出行我们选择了离岛区，并计划了一次郊野徒步。 |
 | 2026-07-24 | [Claude Opus 5评测汇总 在](https://versun.me/blog/tweet-2080804982371283207) | Claude Opus 5评测汇总 在 Vals Index 上排行第2，领先排行第三的 Kimi K3 仅 0.12% 在 Artificial Analysis 中，除了low思考程度成绩不理想外，其它思考程度均挤占前4名 有开发者用 Opus 5 和 Kimi K3 分别做了 3D 游戏，结果… |
 | 2026-07-24 | [关于清华校友抱团](https://sinyalee.com/blog/?p=1263) | 很多非清华的人，都会观察到国内顶级商业圈清华校友抱团的现象。清华校友资源交换、投资创业，抱团现象非常严重。我最 […] |
