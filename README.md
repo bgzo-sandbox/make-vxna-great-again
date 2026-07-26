@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-26 | [断层里的心理学](https://blog.solazy.me/20260726/) | 今天想聊聊我眼中的心理学 |
 | 2026-07-26 | [告别单向空间](https://lomus.cc/archives/797) | 在单向空间营业的最后一天呆了一下午，买了几本打折的书，喝了最后一杯单向咖啡，最后逛了逛书店，也算是好好跟单向乐 […] 告别单向空间 最先出现在 Lumos's Blog 。 |
 | 2026-07-26 | [别急着让 AI 写代码，先把项目里的词讲清楚](https://gptkit.eth.limo/600117E4-40DD-4C26-90EF-42011932421B/) | 最近看了 Matt Pocock 的一段视频： 视频只有 15 分钟，讲的却不是某个新模型或提示词技巧，而是一个更基础的问题：让 AI 参与一个已有代码库时，怎样避免每次都从头解释业务名词和历史决定？ Matt 之前的 /grill-me 会持续追问，把模糊的想法问到可以执行。它并没有失效；问题在于… |
 | 2026-07-26 | [一台电脑上，怎样让两个 Codex CLI 账号互不干扰](https://gptkit.eth.limo/0E7FD68B-7F88-47A0-B90A-75A40F8F2760/) | 两个账号应各自使用独立的本地状态目录；它们可以同时工作，但不共享认证和会话。 一个人同时有个人和工作两个 OpenAI 账号时，最容易踩的坑不是登录，而是登录之后。默认情况下，Codex CLI 把认证、配置、会话和本地状态都放在同一个目录。后一次登录会让下一次启动的 CLI 使用新的身份；MCP、… |
@@ -49,6 +50,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-25 | [Quake updated](https://macsourceports.com/game/quake) | The build of DarkPlaces for Quake has been updated to the latest code of the project |
 | 2026-07-25 | [杨植麟的天才之劫——李丽丽的毒手和Kimi的重生](https://sinyalee.com/blog/?p=1267) | 现在中国最火的AI公司月之暗面的创始人杨植麟，他的计算机和AI研究道路差一点被汕头金中和前校长李丽丽摧毁。 李 […] |
 | 2026-07-25 | [新手汽车露营和观星踩坑实录](https://mok.moe/p/gn3x) | 老婆突然想看星星，我趁女儿生日临时决定去西涌，想顺便看日出、玩沙子。结果三脚架不合用，镜头起雾，手动充气床累得人汗流浃背，女儿却在床上蹦跶到半夜。停车场过夜被车灯和喧闹搅得几乎没睡，但一家人还是赶上了日出，也去沙滩玩了一会儿。虽然狼狈，但新手该踩的坑都踩了，也算攒下了一份下次再出发的底气 |
+| 2026-07-25 | [谷歌云收入暴增82%、公募科技持仓突破60%：AI不会减速的七个铁证](https://programnotes.cn/ai-trending/index.html) | 过去一周，我用AI扫描了浑水调研（62,342篇）、商业航天投行KB（2,187篇）、黑猫知识库三个投研知识库的最新上传内容，识别出12条新兴投资叙事。然后花了两天时间，用公开网络信息对其中最核心的7条做了交叉验证。 < |
 | 2026-07-25 | [周末流水账 0725](https://blog.solazy.me/20260725/) | 周六好！ |
 | 2026-07-25 | [How to Fix Invisible Mouse & White Screen in HOI4 on Linux (Steam)&#124;如何在 Linux (Steam) 上解决《钢铁雄心4》鼠标隐形与开局白屏问题](https://cufezhusy.github.io/issue-25/) | If you play Hearts of Iron IV (HOI4) on Linux via Steam, you might encounter a frustrating bug: your mouse cursor disappears inside the game, and when… |
 | 2026-07-25 | [Memos: 多 子 多 福](https://blog.yasking.org/a/1784985226.html) | 下载原图: Download |
