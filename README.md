@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-26 | [告别单向空间](https://lomus.cc/archives/797) | 在单向空间营业的最后一天呆了一下午，买了几本打折的书，喝了最后一杯单向咖啡，最后逛了逛书店，也算是好好跟单向乐 […] 告别单向空间 最先出现在 Lumos's Blog 。 |
 | 2026-07-26 | [别急着让 AI 写代码，先把项目里的词讲清楚](https://gptkit.eth.limo/600117E4-40DD-4C26-90EF-42011932421B/) | 最近看了 Matt Pocock 的一段视频： 视频只有 15 分钟，讲的却不是某个新模型或提示词技巧，而是一个更基础的问题：让 AI 参与一个已有代码库时，怎样避免每次都从头解释业务名词和历史决定？ Matt 之前的 /grill-me 会持续追问，把模糊的想法问到可以执行。它并没有失效；问题在于… |
 | 2026-07-26 | [一台电脑上，怎样让两个 Codex CLI 账号互不干扰](https://gptkit.eth.limo/0E7FD68B-7F88-47A0-B90A-75A40F8F2760/) | 两个账号应各自使用独立的本地状态目录；它们可以同时工作，但不共享认证和会话。 一个人同时有个人和工作两个 OpenAI 账号时，最容易踩的坑不是登录，而是登录之后。默认情况下，Codex CLI 把认证、配置、会话和本地状态都放在同一个目录。后一次登录会让下一次启动的 CLI 使用新的身份；MCP、… |
 | 2026-07-26 | [那些没有成为冠军的人](https://www.hecaitou.com/2026/07/those-who-didnt-become-champions.html) | 昨晚看了两条视频，我内心如沸，难以平静。以下就是那两条视频，第一条是前因，第二条是后文。 1、 https://weixin.qq.com/sph/AvpV3FuFOS 2、 https://weixin.qq.com/sph/ARFLtcrx8k 如果我再年轻三十岁，会喜欢视频里的故事---外卖小… |
