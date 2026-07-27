@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-27 | [夏天来杯黄瓜柠檬水](https://www.bboy.app/2026/07/27/%E5%A4%8F%E5%A4%A9%E6%9D%A5%E6%9D%AF%E9%BB%84%E7%93%9C%E6%9F%A0%E6%AA%AC%E6%B0%B4/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
+| 2026-07-27 | [Album#43 - 天使音乐 (Hint Notes)](https://taxodium.ink/album-43.html) | Album#43 天使音乐 (Hint Notes) 图1 《天使音乐 Hint Notes》専輯封面 专辑信息 专辑名称： 天使音乐 (Hint Notes) 歌手： 汪川 年份： 2026-05-21 风格： 华語獨立、独立舞曲、室内乐 时长： 約 40 分鐘 《天使音乐 Hint Notes》… |
+| 2026-07-27 | [粉格证明](https://www.hecaitou.com/2026/07/Proof-of-Fanhood.html) | 我不喜欢粉丝，尤其是疯狂粉丝。之前接触过一些，从别人那里过来，说话颠三倒四，但是情绪却很激烈。讨论的事情我完全不知情也不理解，却丝毫不影响他们滔滔不绝地写上一大段。 有些时候我甚至很刻薄地想，是不是成为粉丝会造成脑损伤？ 不过最近的一件事改变了我的看法，一份调查报告显示，整个世界的 CD、黑胶和磁带… |
 | 2026-07-27 | [为什么我讨厌王虹](https://sinyalee.com/blog/?p=1269) | 王虹是一个广西瑶族女性。 她本来是上不了北大的，靠少数民族加分，挤压了一个广西汉人的升学机会，进入北大学习。 […] |
 | 2026-07-27 | [博客一定要为读者负责吗？I](https://mobius.blog/25175.html) | 这个话题，来自于前几天在莫比乌斯频道里，跟一位网友的对话。 我借用我老婆的观点，提出了一个看法，聊到杨天真是一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-27 | [周记 #12 - 近半年来](https://www.taober.blog/posts/weekly-12-20260727) | 2026-01-26 至 2026-06-24 确实是很久没有更新周记了，根本的原因还是因为我的懒惰。我对「记录」这件事情的依旧怀有极高的热情，但把更多的琐碎的内容放在了 Memos 上，则怠慢了相对较长的 Post。一周没更新，后续更新内容的工作量就会变多，其实我不应该把这个事情理解成是工作量，但… |
@@ -72,6 +75,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-25 | [向云端｜西南自驾03 - 景德镇](https://blog.ops-coffee.com/r/2026-southwest-road-trip-03-jingdezhen.html) |  |
 | 2026-07-25 | [完全停不下了！ 又用 K3 做了个 &l](https://versun.me/blog/tweet-2080844274766418317) | 完全停不下了！ 又用 K3 做了个 的游戏 快来一起战斗！😎😎😎 网站：https://swarm.kimi.site/ 对话过程：https://www.kimi.com/share/19f9705b-4f22-861e-8000-00003eff5433 @Kimi_Moonshot @Kimi… |
 | 2026-07-25 | [Python 潮流周刊#160：AI 智能体与 LLM 推理](https://pythoncat.top/posts/2026-07-25-weekly/) | 分享了 12 篇文章，12 个开源项目 |
+| 2026-07-25 | [让进程随时能死，对话才能一直活着](https://mario.lol/posts/ephemeral-turns/) | 用 codex exec 这种"跑完就死"的一次性进程，撑起一段"一直在聊"的对话——对话是状态，回合是算力。顺带聊聊背后的任务队列与 worker 池设计。 |
 | 2026-07-25 | [2026年第30周](https://blog.sakoamc.com/posts/2630/) | 题记：二零二六年的第三十周，CQ,CQ,CQ。 |
 | 2026-07-25 | [香港的另一面](https://bluepika.life/blog/another-side-of-hong-kong) | 上周我去参加了一年一度的香港书展，我再次走进了这座城市，本着来都来了不折腾一下浑身不舒服的想法，我们计划多待一天到处走走。香港的市区我们已经看过太多遍了，这次的出行我们选择了离岛区，并计划了一次郊野徒步。 |
 | 2026-07-25 | [行走在香港的另一面](https://bluepika.life/blog/walking-on-the-other-side-of-hong-kong) | 上周我去参加了一年一度的香港书展，我再次走进了这座城市，本着来都来了不折腾一下浑身不舒服的想法，我们计划多待一天到处走走。香港的市区我们已经看过太多遍了，这次的出行我们选择了离岛区，并计划了一次郊野徒步。 |
