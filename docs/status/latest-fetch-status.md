@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-07-27T07:35:16Z
-modified: 2026-07-27T07:35:16Z
+created: 2026-07-27T11:24:29Z
+modified: 2026-07-27T11:24:29Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,7 +11,7 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-07-27T07:35:16Z
+Generated at: 2026-07-27T11:24:29Z
 
 Total sources: 485
 Successful: 363
@@ -325,7 +325,7 @@ Failed: 122
 | Success | [#360] V2EX › 希仁之拥 | [https://blog.keepchen.com/feed](https://blog.keepchen.com/feed) | [Origin](https://www.v2ex.com/xna/s/360) | 85 | - |
 | Success | [#361] V2EX › Cufezhusy's Blog | [https://cufezhusy.github.io/rss.xml](https://cufezhusy.github.io/rss.xml) | [Origin](https://www.v2ex.com/xna/s/361) | 24 | - |
 | Success | [#362] V2EX › radishzz's blog | [https://radishzz.cc/atom.xml](https://radishzz.cc/atom.xml) | [Origin](https://www.v2ex.com/xna/s/362) | 4 | - |
-| Success | [#363] V2EX › 一派胡言 | [https://yipai.me/feed](https://yipai.me/feed) | [Origin](https://www.v2ex.com/xna/s/363) | 3 | - |
+| Success | [#363] V2EX › 一派胡言 | [https://yipai.me/feed](https://yipai.me/feed) | [Origin](https://www.v2ex.com/xna/s/363) | 4 | - |
 | Success | [#364] V2EX › 魚の | [https://blog.sakanano.moe/rss.xml](https://blog.sakanano.moe/rss.xml) | [Origin](https://www.v2ex.com/xna/s/364) | 50 | - |
 | Success | [#367] V2EX › Elliot's Blog | [https://elliot00.com/rss](https://elliot00.com/rss) | [Origin](https://www.v2ex.com/xna/s/367) | 70 | - |
 | Success | [#369] V2EX › soops.sol | [https://soops.sol.build/rss.xml](https://soops.sol.build/rss.xml) | [Origin](https://www.v2ex.com/xna/s/369) | 68 | - |
