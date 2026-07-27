@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-27 | [一个比特币 Taproot 脚本漏洞开始的调查](https://smallyu.net/2026/07/28/%E4%B8%80%E4%B8%AA%E6%AF%94%E7%89%B9%E5%B8%81Taproot%E8%84%9A%E6%9C%AC%E6%BC%8F%E6%B4%9E%E5%BC%80%E5%A7%8B%E7%9A%84%E8%B0%83%E6%9F%A5/) | 起因 在 bitcointalk 上看到一个帖子：<a |
+| 2026-07-27 | [Are We Interfacing Yet?](https://www.geedea.pro/article/locally-remotely-unknowingly/) | 我在自己的时间里一直坚持手写代码，但工作时难免与 Agents 打交道。一方面是公司推崇这种工具，另一方面是如果我不用的话，我就没办法按时交付工作。无论如何，有一类代码我在任何情况下都是自己设计和自己手写的，那就是接口定义。 我要讨论的不是 RESTful API，也不是 gRPC 的 Protob… |
+| 2026-07-27 | [《亿高》注疏二：王虹和事业成功的母狗们](https://sinyalee.com/blog/?p=1282) | 这篇是对《资产一个亿以下，不要娶高学历国女》一文的第二篇注解。 最近写了一篇《为什么我讨厌王虹》，趁这个机会， […] |
+| 2026-07-27 | [R#112 新灵感](https://blog.sakanano.moe/journals/random_112) | 2026.7.21 ~ 2026.7.27 |
+| 2026-07-27 | [Why me？](https://blog.solazy.me/20260727/) | 这是一个放在选题集里很久的话题 |
 | 2026-07-27 | [夏天来杯黄瓜柠檬水](https://www.bboy.app/2026/07/27/%E5%A4%8F%E5%A4%A9%E6%9D%A5%E6%9D%AF%E9%BB%84%E7%93%9C%E6%9F%A0%E6%AA%AC%E6%B0%B4/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-07-27 | [Token 工厂：AI 时代最热门的生态，创业者该站在哪个位置？](https://luweiqing.com/gossip/token-startup-chance.html) | 当一台数据中心不再被当作"存储电力和芯片的仓库"，而被当作一条"把电力冶炼成智能的产线"，整个 AI 产业的商业逻辑就被重写了一遍。这篇文章想回答一个问题：在这条产线周围，一个三五个人的团队，到... |
 | 2026-07-27 | [邓煜、王虹：获奖理由、人物短片与记者问答翻译](https://yipai.me/post/2542.html) | 本文整理自 2026 年国际数学家大会开幕式及获奖者新闻发布会的英文自动字幕，只收录邓煜和王虹的获奖理由、人物短片内容与现场问答。记者问答按新闻发布会中的出现顺序排列。本文仅保留中文译文，属于依据校订后英文字幕制作的非官方翻译，并非主办方审定的正式逐字稿。邓煜获奖理由菲尔兹奖授予邓煜，以表彰他在偏微… |
