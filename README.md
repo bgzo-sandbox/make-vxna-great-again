@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-28 | [20260728的胡言乱语](https://www.bboy.app/2026/07/28/20260728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
+| 2026-07-28 | [Random Thoughts - 20260728](https://www.bboy.app/2026/07/28/random-thoughts-20260728/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-07-28 | [博客一定要为读者负责吗？II](https://mobius.blog/25179.html) | 接着昨天的话题。 在公共空间输出观点时，是否需要避免自我心理分析？ 为了更好的背书，接下来要讨论的内容都有“书 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-28 | [Memos #2026-07-27](https://www.taober.blog/memos) | 22:25 下班坐的士上逛着 B 站，刷到了陈奕迅历年的金曲舞台，听到《shall we talk》的时候，发现自己竟然每一句的停顿和旋律走向都还记得，这大概得感激自己高中的时候，用那个廉价的 mp3 去一遍遍地听这些歌。 突然很好奇，以前的我是怎么能沉下心来去做那些现在看来容易让人腻味的事。比如说… |
 | 2026-07-27 | [一个比特币 Taproot 脚本漏洞开始的调查](https://smallyu.net/2026/07/28/%E4%B8%80%E4%B8%AA%E6%AF%94%E7%89%B9%E5%B8%81Taproot%E8%84%9A%E6%9C%AC%E6%BC%8F%E6%B4%9E%E5%BC%80%E5%A7%8B%E7%9A%84%E8%B0%83%E6%9F%A5/) | 起因 在 bitcointalk 上看到一个帖子：<a |
 | 2026-07-27 | [Are We Interfacing Yet?](https://www.geedea.pro/article/locally-remotely-unknowingly/) | 我在自己的时间里一直坚持手写代码，但工作时难免与 Agents 打交道。一方面是公司推崇这种工具，另一方面是如果我不用的话，我就没办法按时交付工作。无论如何，有一类代码我在任何情况下都是自己设计和自己手写的，那就是接口定义。 我要讨论的不是 RESTful API，也不是 gRPC 的 Protob… |
 | 2026-07-27 | [《亿高》注疏二：王虹和事业成功的母狗们](https://sinyalee.com/blog/?p=1282) | 这篇是对《资产一个亿以下，不要娶高学历国女》一文的第二篇注解。 最近写了一篇《为什么我讨厌王虹》，趁这个机会， […] |
@@ -61,7 +65,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-26 | [专治“局部磨损”：我的AI牛仔裤选购指南](https://blog.196000.xyz/2026/2026-07-26-life-ai-jeans.html) | 专治“局部磨损”：我的AI牛仔裤选购指南 缘起：一个困扰多年的问题 平时穿得最多的就是牛仔裤。回顾那些被淘汰的裤子，无论价格高低，“死因”惊人地一致——后裆十字缝附近的布料，要么摩擦变色，要么越磨越薄，最后直接拉丝破洞。 我一直想不通：就算是久坐，受力最大的明明是臀部正中间，为什么先报废的反而是它下… |
 | 2026-07-26 | [≡ 005｜这两周莫比乌斯环转到了哪里？](https://mobius.blog/25160.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-26 | [7.26 随想与近期状态小结](https://blog.sakoamc.com/posts/26sx003/) | 题记：人一旦心脉受损，没有了心气、心力，心力交瘁，大概就是这样的吧。席地而坐，抬头观云，你会心情突然变好吗？临崖而立，探头向下，你会想来一次信仰的飞跃吗？ |
-| 2026-07-26 | [Memos #2026-07-25](https://www.taober.blog/memos) | 22:17 看完这周的两期蛋仔派对，奖励一首《嘻哈脑壳》，接着再来一首《Not Like Us》，享受！ |
 | 2026-07-25 | [天才程序员要下线了，希望能撑到明天开源，](https://versun.me/blog/tweet-2081163264797589845) | 天才程序员要下线了，希望能撑到明天开源，到时候准备去买 ollama 的 pro 试一试 [tweet-2081163264797589845-e46d5cef.png] |
 | 2026-07-25 | [太帅了！！！牛批 A\迟早要倒闭](https://versun.me/blog/tweet-2081159779238723744) | 太帅了！！！牛批 A\迟早要倒闭 |
 | 2026-07-25 | [Heretic II updated](https://macsourceports.com/game/heretic2) | The build of Heretic2R-UNIX for Heretic II has been updated to the latest code of the project |
@@ -144,21 +147,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-21 | [雨雨雨雨雨](https://hux.ink/posts/yu-yi-zhi-xia/) | 今年深圳的天气比较反常，来深十多年，从来没有哪一年像今年这样下这么长时间的雨，从 5 月份开始一直到现在，没怎么间断过。而且特别会挑时间，出门上班的时候下大、下班回家路上下大，半夜凌晨电闪雷鸣，让打工人不得安生。 5 月中旬买的自行车，买回来两个多月，也因为天气原因只出去骑了两三次。当时趁着账户有点… |
 | 2026-07-21 | [为球星失恋](https://www.hecaitou.com/2026/07/Heartbroken-over-a-Football-Legend.html) | 我是真没想到，这一届世界杯的后劲会有那么足，有好几位读者看完决赛之后跑到我这里来留言，说是一整天茶饭不思，无心睡眠，就那么失魂落魄、浑浑噩噩地一个人待着。尤其是提到梅西的时候，我感觉他们的眼泪在屏幕那一头早已经抑制不住地流下来。 失恋，朋友，这就是失恋，为了世界杯失恋，也是为了自己喜欢的球星黯然退场… |
 | 2026-07-21 | [被强行拖入的 SOP](https://mobius.blog/25118.html) | 前几天，看完@Solazy 发布的一篇博客——《SOP 复制不了那双手》，把两段话复制进来灵感收集条目里，想着 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-20 | [VSC/Cursor插件上架](https://elmagnifico.tech/2026/07/21/CBD-Publisher-OpenVSX/) | Foreword CodeBind Docs 写完、VS Marketplace 也挂上去了，本以为 Cursor 那边搜一下就能装。结果发现： Cursor 扩展市场不跟 Microsoft 那套走 ，得另发一份到 Open VSX。下面把 VS Code 怎么发 、 Open VSX 怎么发 、… |
-| 2026-07-20 | [AI&#124;AI面试题,AI来解答](https://programnotes.cn/ai-interview/index.html) | 第一轮面试官（技术负责人） RAG 召回效果排查与调优设计。 LangGraph 的理解：谈谈你对 LangGraph 中 Human-in-the-Loop 的理解，以及如何支持重启和多端并发？ SSE 流式乱序：在流式对话中，如何防止消息乱序？ React Native 经验：是否有 React… |
-| 2026-07-20 | [壮了，还是胖了](https://blog.solazy.me/20260720/) | 今天听到同事的一句话…… |
-| 2026-07-20 | [R#111 投资纪律的考验](https://blog.sakanano.moe/journals/random_111) | 2026.7.14 ~ 2026.7.20 |
-| 2026-07-20 | [去神话后的特洛伊战争简史](https://nigzu.com/a-brief-history-of-the-trojan-war-without-myth/) | 最近《奥德赛》上映，诺兰很擅长在电影中营造氛围感。我对历史感兴趣，但相比浪漫主义的包装，我更喜欢现实 |
-| 2026-07-20 | [七年与暑假](https://www.jackpu.com/qi-nian-yu-shu-jia/) | 北京，终于开始热了。 六月份天气的反常，让大家觉得是不是今年夏天都会这样。不过随着七月，台风过后，北京迎来37度的高温，北京的暑假，比四川老家好一些，北京干燥，虽然气温高，但是风吹着和阴凉的地方，完全不会闷热的感觉。 随着天气升温，电影市场也逐渐回热。我是看新闻才知道，今年票房市场很冷淡，远低于去年… |
-| 2026-07-20 | [用 Swift 构建 MCP Server：从零到接入 Claude 的完整教程](https://gptkit.eth.limo/90118240-79C9-4595-B7A3-33FF11646055/) | 如果你是 Swift 开发者，又想把自己 Mac 上的能力（本地文件、Shortcuts、Xcode 项目、Core Data 数据……）暴露给 Claude、ChatGPT 这类 AI 助手，那么 MCP Server 就是你要的东西。而目前主流的 MCP 教程几乎都是 Python 或 Type… |
-| 2026-07-20 | [向云端｜西南自驾02 - 婺源](https://blog.ops-coffee.com/r/2026-southwest-road-trip-02-wuyuan.html) |  |
-| 2026-07-20 | [域名切换到blog.alliot.tech](https://blog.alliot.tech/post/domain-switch-2026) | 纠结许久，但还是把博客域名切换到了 blog.alliot.tech ，这次的标签 “折腾”，名副其实了。那么切换一个用了十几年的域名都需要经历怎样的折腾呢？ |
-| 2026-07-20 | [拍记血压 —— 给血压计拍照就能记录血压](https://www.boris1993.com/bpsnap.html) | 我做了一个微信小程序，叫「拍记血压」。 起因很简单：我看到我妈每天量完血压，都要拿纸把测量结果写下来。这样确实能记，但每次都要写在纸上也挺麻烦，而且纸一丢，之前的记录也就没了。所以我这个程序员儿子就有了这么一个想法，量完血压后，拿手机拍一下血压计，小程序就能自动识别血压计的读数。之后可以按时间查看历… |
-| 2026-07-20 | [翻译-我加入了 IndieWeb，以下是我的收获](https://blog.prayhand13013.top/20260720T141512--翻译-我加入了-indieweb，以下是我的收获__blog.html) |  |
-| 2026-07-20 | [体感](https://www.hecaitou.com/2026/07/Personal-Sensation.html) | 昨天我说北京近年来夏季太湿润，为了过得舒服一点我甚至买了除湿机。有个读者留言说： 「作为一个长期北京出差的南方人，我觉得多少还是有点大惊小怪了，北京现在的湿润是良性的，跟现在的上海比，根本不是一回事。」 于是我伸手轻轻弹了一小下，对方立即选择取消关注。 生活里类似的人很多，在稍微需要一点理解力的时候… |
-| 2026-07-20 | [地铁安检为何无效？](https://yipai.me/post/2540.html) | 今天在 V 站看到个帖子吐槽地铁安检的，没想到帖子里面还有一些人支持地铁安检。说说我的想法吧。其实这事儿很简单，因为地铁站安检完全不能起到应有的效果。这个无效，都不用考虑安检机、开包目视是否能检查出危险品，而是地铁站与机场不一样，是非封闭空间。机场之所以安检有效，因为机场只有“一个”入口，从入口进去… |
-| 2026-07-20 | [最近惦念 20260705](https://z.arlmy.me/posts/TILs/thoughts/20260705_Recently/) | 「无目的行动，是自我的直接来源。」 |
-| 2026-07-20 | [现实没有正确答案，只有错题集](https://mobius.blog/25111.html) | 前几天在关于页面收到一条留言，看完之后，我反而不知道该怎么“回复”了。上周完成小说初稿时，我几乎是带着对自己各 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
