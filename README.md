@@ -29,6 +29,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | --- | --- | --- |
 | 2026-07-28 | [20260728的胡言乱语](https://www.bboy.app/2026/07/28/20260728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-07-28 | [Random Thoughts - 20260728](https://www.bboy.app/2026/07/28/random-thoughts-20260728/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-07-28 | [AI 的商业模式：吃预算？都是消费惹的祸](https://wenfeixiang.com/2026/07/ai_budget_chain/) | 过去几年，AI 最主流的商业模式，叫做：吃预算。 “ 设备和材料厂商 吃 芯片厂商的预算芯片厂商 吃模型厂商的 […] |
 | 2026-07-28 | [自作孽](https://www.hecaitou.com/2026/07/My-Own-Undoing.html) | 昨天我发了一条贴图《 关于舌头套 》，3 个小时阅读量突破 10万，是之前一篇文章的 10 倍。完全不在意是不可能的，我为一篇文章付出的心血多，为一条贴图耗费的心力少，多少会有些不平衡。阴暗的心理一发作，觉得肯定是系统算法在搞我。文章不推荐，搞笑图片狂推。 不过我基本上还算是个谨慎的人，说话要讲证据… |
 | 2026-07-28 | [博客一定要为读者负责吗？II](https://mobius.blog/25179.html) | 接着昨天的话题。 在公共空间输出观点时，是否需要避免自我心理分析？ 为了更好的背书，接下来要讨论的内容都有“书 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-28 | [才发现在 推特 上发布的文章，是无法通过](https://versun.me/blog/tweet-2081894893765673276) | 才发现在 推特 上发布的文章，是无法通过官方的 X API 获取到内容的，官方的归档也没有，都只是给你一个链接，好坑啊 所以不建议大家用 X 的文章写长文，因为你无法导出，只能手动复制粘贴 |
