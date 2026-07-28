@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-28 | [《人约》补一：一些关于吸引女性的思考](https://sinyalee.com/blog/?p=1290) | 这是《人妻约会指南》书籍内容相关的一些思考，之后可以一起整合到书中作为第二版。 – 《人约》里面说 […] |
+| 2026-07-28 | [ICESUN 暑校](https://physnya.top/ss-yunnan/) | 参加 ICESUN 的暑期学校，大约一周，今年在中科院云南天文台 (地处昆明) 举办. 为什么叫 ICESUN？官方解释是：InternationalCEntre of SUperNovae = = = ICESUN. 还挺有意思. |
+| 2026-07-28 | [Lecture 1 Chemodynamics and other](https://physnya.top/ss-yunnan/lecture-1-chemodynamics/) | Prof. Chiaki Kobayashi, from the University of Hertfordshire 警告 由于第一天不太适应加上听不太懂教授的发音，而且前半段试图用手写方式记录但是后来发现效率不够高，漏记错记想必数不胜数，本篇权当试水. Wolf–Rayet Stars Wol… |
+| 2026-07-28 | [Lecture 2 AGB stars](https://physnya.top/ss-yunnan/lecture-2-agb-stars/) | Prof. Amanda Karakas, from Monash University 警告 纯靠手动记录，但是鉴于对于本人这种入门者而言确实很困难，走神一下就听不懂了，因此多有缺漏. 故本篇仅供个人学习参考，最好不要外传误导他人. Main-Sequence and the Start of A… |
 | 2026-07-28 | [20260728的胡言乱语](https://www.bboy.app/2026/07/28/20260728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-07-28 | [Random Thoughts - 20260728](https://www.bboy.app/2026/07/28/random-thoughts-20260728/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
 | 2026-07-28 | [AI 的商业模式：吃预算？都是消费惹的祸](https://wenfeixiang.com/2026/07/ai_budget_chain/) | 过去几年，AI 最主流的商业模式，叫做：吃预算。 “ 设备和材料厂商 吃 芯片厂商的预算芯片厂商 吃模型厂商的 […] |
