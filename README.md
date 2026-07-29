@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-29 | [收购过气软件的Bending Spoons‌上市了，拥有Evernote、Eventbrite、AOL等](https://wenfeixiang.com/2026/07/bending-spoons-story/) | 7月份，对于投资 AI、半导体等热门行业的股票投资人而言，是一个煎熬的月份。持续的抛售和下跌，让我们从各个层面 […] |
+| 2026-07-29 | [Memos: 昨天发现 caffeinate -i 能避免休眠](https://blog.yasking.org/a/1785316249.html) | 偶尔我会连接手机热点让 AI 干活儿，macOS 不操作过一会儿就会进入睡眠，断掉 Wi-Fi 连接。为了避免这种情况我有几次都是手动 … |
+| 2026-07-29 | [Windows 的 HEVC 扩展收费跟苹果无关](https://yipai.me/post/2543.html) | 今天在某个群里看到这样的言论：不由得感慨苹果真冤啊。因为很多 HEIC 照片来自 iPhone，所以有些蠢人会把这笔钱理解成苹果的格式授权费。然而实际上，这个费用并不是苹果收的。HEIC 通常是使用 HEVC 压缩的 HEIF 图片。Windows 上的 HEIF 图像扩展负责识别文件结构，HEVC… |
+| 2026-07-29 | [2026-07 好物推荐](https://www.ghostchu.com/2026-07-%e5%a5%bd%e7%89%a9%e6%8e%a8%e8%8d%90/) | 博客建立了这么多年，好物分享板块一直没什么内容，那么从今天开始就试着更新一下这个长草的板块吧！ 本期没有任何商 […] 2026-07 好物推荐 最先出现在 Ghost_chu's Blog 。 |
+| 2026-07-29 | [来信 · 莫良](https://www.gtdstudy.com/guestbook/5c18fc62-248c-4191-8ce9-e99382aeaa21/) |  |
 | 2026-07-29 | [Zine#55 - 嘗試才是罕見的](https://taxodium.ink/55.html) | Zine#55 嘗試才是罕見的 當下沒有特別想分享的音樂，如果你想找點音樂聴，去聴聴 天使音乐 (Hint Notes) 吧。 我寫 Zine 的習慣是先在一周里收集各種連結(大部分都來自我訂閱的網站)，然後集中一個時間去处理。有的連結讀起來會比較花時間，有的我一時也不知道怎麼總結，以往我會把這樣的… |
 | 2026-07-29 | [国行三星 S10 登录 Google 账号卡在“请稍候”的解决方法](https://guchengf.me/blog/chinese-samsung-s10-pending-while-login-google-account/) | 最近折腾一台国行三星 SM-G9730（Galaxy S10） ，系统为官方最新版本。在 设置 → 账号 → 添加 Google 账号 时，输入账号密码后，系统提示需要验证身份，但点击 “下一步” 后一直停留在 “请稍候” 页面，无论等待多久都没有反应。 遇到的问题 具体表现如下： 可以正常输入 G… |
 | 2026-07-29 | [NFS 共享日志盘 75 天写满 11T 排障记录（kjds 生产集群）](https://199604.com/3611) | NFS 共享日志盘 75 天写满 11T 排障记录（kjds 生产集群） 记录时间：2026-07-29 环境 […] |

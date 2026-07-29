@@ -1,5 +1,40 @@
 [
   {
+    "title": "收购过气软件的Bending Spoons‌上市了，拥有Evernote、Eventbrite、AOL等",
+    "url": "https://wenfeixiang.com/2026/07/bending-spoons-story/",
+    "date": "2026-07-29T09:28:36Z",
+    "description": "7月份，对于投资 AI、半导体等热门行业的股票投资人而言，是一个煎熬的月份。持续的抛售和下跌，让我们从各个层面 […]",
+    "source_root_domain": "wenfeixiang.com"
+  },
+  {
+    "title": "Memos: 昨天发现 caffeinate -i 能避免休眠",
+    "url": "https://blog.yasking.org/a/1785316249.html",
+    "date": "2026-07-29T09:21:00Z",
+    "description": "偶尔我会连接手机热点让 AI 干活儿，macOS 不操作过一会儿就会进入睡眠，断掉 Wi-Fi 连接。为了避免这种情况我有几次都是手动 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "Windows 的 HEVC 扩展收费跟苹果无关",
+    "url": "https://yipai.me/post/2543.html",
+    "date": "2026-07-29T08:14:00Z",
+    "description": "今天在某个群里看到这样的言论：不由得感慨苹果真冤啊。因为很多 HEIC 照片来自 iPhone，所以有些蠢人会把这笔钱理解成苹果的格式授权费。然而实际上，这个费用并不是苹果收的。HEIC 通常是使用 HEVC 压缩的 HEIF 图片。Windows 上的 HEIF 图像扩展负责识别文件结构，HEVC 视频扩展负责解码里面的图像数据。即使只是看照片，也可能同时",
+    "source_root_domain": "yipai.me"
+  },
+  {
+    "title": "2026-07 好物推荐",
+    "url": "https://www.ghostchu.com/2026-07-%e5%a5%bd%e7%89%a9%e6%8e%a8%e8%8d%90/",
+    "date": "2026-07-29T07:57:50Z",
+    "description": "博客建立了这么多年，好物分享板块一直没什么内容，那么从今天开始就试着更新一下这个长草的板块吧！ 本期没有任何商 […] 2026-07 好物推荐 最先出现在 Ghost_chu's Blog 。",
+    "source_root_domain": "ghostchu.com"
+  },
+  {
+    "title": "来信 · 莫良",
+    "url": "https://www.gtdstudy.com/guestbook/5c18fc62-248c-4191-8ce9-e99382aeaa21/",
+    "date": "2026-07-29T06:14:52Z",
+    "description": "",
+    "source_root_domain": "gtdstudy.com"
+  },
+  {
     "title": "Zine#55 - 嘗試才是罕見的",
     "url": "https://taxodium.ink/55.html",
     "date": "2026-07-29T05:20:00Z",
