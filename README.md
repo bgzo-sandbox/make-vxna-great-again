@@ -29,6 +29,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | --- | --- | --- |
 | 2026-07-29 | [承认吧，你其实根本不爱看书](https://blog.solazy.me/20260729/) | 我不止一次的说自己不喜欢看书了 |
 | 2026-07-29 | [Lecture 2 Computational Stellar Astrophysics and Supernova Explosion Models](https://physnya.top/ss-yunnan/lecture-3-computational-stellar-astrophysics-and-supernova-explosion-models/) | Prof. Friedrich Röpke, from Heidelberg University Computational fluid dynamics 我们选择使用流体力学来进行模拟 —— 这件事有很多好处，比如它能够应用一些统计力学的基本规律，能够唯象解决部分问题，同时其采用的假设是「物质连… |
+| 2026-07-29 | [Album#44 - Brett Anderson](https://taxodium.ink/album-44.html) | Album#44 Brett Anderson 图1 《Brett Anderson》専輯封面 专辑信息 专辑名称： Brett Anderson 歌手： Brett Anderson 年份： 2007-03-26 时长： 38:26 在发达星期四的 Brett Anderson 的同名专辑也是你心… |
 | 2026-07-29 | [收购过气软件的Bending Spoons‌上市了，拥有Evernote、Eventbrite、AOL等](https://wenfeixiang.com/2026/07/bending-spoons-story/) | 7月份，对于投资 AI、半导体等热门行业的股票投资人而言，是一个煎熬的月份。持续的抛售和下跌，让我们从各个层面 […] |
 | 2026-07-29 | [Memos: 昨天发现 caffeinate -i 能避免休眠](https://blog.yasking.org/a/1785316249.html) | 偶尔我会连接手机热点让 AI 干活儿，macOS 不操作过一会儿就会进入睡眠，断掉 Wi-Fi 连接。为了避免这种情况我有几次都是手动 … |
 | 2026-07-29 | [Windows 的 HEVC 扩展收费跟苹果无关](https://yipai.me/post/2543.html) | 今天在某个群里看到这样的言论：不由得感慨苹果真冤啊。因为很多 HEIC 照片来自 iPhone，所以有些蠢人会把这笔钱理解成苹果的格式授权费。然而实际上，这个费用并不是苹果收的。HEIC 通常是使用 HEVC 压缩的 HEIF 图片。Windows 上的 HEIF 图像扩展负责识别文件结构，HEVC… |
