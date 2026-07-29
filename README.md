@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-29 | [NFS 共享日志盘 75 天写满 11T 排障记录（kjds 生产集群）](https://199604.com/3611) | NFS 共享日志盘 75 天写满 11T 排障记录（kjds 生产集群） 记录时间：2026-07-29 环境 […] |
+| 2026-07-29 | [博客一定要为读者负责吗？III](https://mobius.blog/25183.html) | 接着昨天的话题。 博客是否属于“公共空间”？创作者的责任在于…… 这一部分，我在目前依旧没有具体结论，但是可以 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-28 | [《人约》补一：一些关于吸引女性的思考](https://sinyalee.com/blog/?p=1290) | 这是《人妻约会指南》书籍内容相关的一些思考，之后可以一起整合到书中作为第二版。 – 《人约》里面说 […] |
 | 2026-07-28 | [ICESUN 暑校](https://physnya.top/ss-yunnan/) | 参加 ICESUN 的暑期学校，大约一周，今年在中科院云南天文台 (地处昆明) 举办. 为什么叫 ICESUN？官方解释是：InternationalCEntre of SUperNovae = = = ICESUN. 还挺有意思. |
 | 2026-07-28 | [Lecture 1 Chemodynamics and other](https://physnya.top/ss-yunnan/lecture-1-chemodynamics/) | Prof. Chiaki Kobayashi, from the University of Hertfordshire 警告 由于第一天不太适应加上听不太懂教授的发音，而且前半段试图用手写方式记录但是后来发现效率不够高，漏记错记想必数不胜数，本篇权当试水. Wolf–Rayet Stars Wol… |
@@ -152,17 +154,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-22 | [最近看大家用 Kimi K3 做了好多有](https://versun.me/blog/tweet-2079740290894872895) | 最近看大家用 Kimi K3 做了好多有意思的的东西，我也实在忍不住，给自己的女儿搓了一个太阳系科普模拟器 整个过程都是在 Kimi Chat 上进行的，提示词也非常简单： “做一个太阳系行星实时运动轨迹状态，每个星球按实际等比显示，且每个星球的材质根据实际情况制作，Claymorphism风格”… |
 | 2026-07-22 | [早上遇到个棘手问题，请教下推友们： 我有](https://versun.me/blog/tweet-2079720018577850756) | 早上遇到个棘手问题，请教下推友们： 我有一个早报定时任务，今早 AI 读到 Tibo 的这条推文时，由于没有上下文，AI 以为是提升用量到 10M 😆 对于这种情况大家有什么好的解决方案吗？总不能每条内容都去搜索核实吧😂 [tweet-2079720018577850756-00e35862.png… |
 | 2026-07-22 | [opencodex：让 Codex 和 Claude Code 跑在任意 LLM 上](https://youngxhui.top/2026/07/opencodex-third-party-models/) | opencodex 是一个本地代理，把 Codex 的 Responses API 翻译成任意 LLM provider 的协议。你可以在 Codex CLI、Codex App、SDK 里用 Claude、Gemini、DeepSeek、Grok、GLM、Qwen 甚至本地 Ollama 模型——… |
-| 2026-07-21 | [LLM Local Inference](https://ahdw.casacam.net/2026/07/22/llm-local-inference/) | 让我试着梳理一下我的思路，把 LLM 在消费级硬件上的 local inference 讲一讲。 Hook K […] |
-| 2026-07-21 | [凌晨十二点的工作群](https://blog.solazy.me/20260721/) | 今天说个我这两天有点负罪感的事儿 |
-| 2026-07-21 | [Cloudflare Tunnel 内网穿透](https://blog.196000.xyz/2026/2026-07-19-develop-cloudflare-tunnel.html) | 使用 Cloudflare Tunnel 穿透内网服务暴露在外网。 |
-| 2026-07-21 | [Ant Design Pro自定义菜单Icon](https://elliot00.com/posts/ant-design-pro-custom-menu-icon) | umi icons支持路由配置自定义图标，无需额外API。 |
-| 2026-07-21 | [父范学堂 2630 动脑还是动气](https://conge.livingwithfcs.org/2026/07/21/NewDaddy-conflicts/) | 解决姐弟间的一次冲突 解决姐弟间的一次冲突 昨天，儿子和女儿互相生气，都觉得对方必须向自己道歉。 我分别和他们谈话，用提问的方式让他们看清自己的想法。 下面是和姐姐谈话的事后回忆润色版。和弟弟的对话也是大致如此。 |
-| 2026-07-21 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
-| 2026-07-21 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
-| 2026-07-21 | [Jenkins Helm 升级 2.516→2.568 后流水线失败与 Agent 无法连接的问题排查](https://199604.com/3600) | Jenkins Helm 升级 2.516→2.568 后流水线失败与 Agent 无法连接的问题排查 记录时 […] |
-| 2026-07-21 | [雨雨雨雨雨](https://hux.ink/posts/yu-yi-zhi-xia/) | 今年深圳的天气比较反常，来深十多年，从来没有哪一年像今年这样下这么长时间的雨，从 5 月份开始一直到现在，没怎么间断过。而且特别会挑时间，出门上班的时候下大、下班回家路上下大，半夜凌晨电闪雷鸣，让打工人不得安生。 5 月中旬买的自行车，买回来两个多月，也因为天气原因只出去骑了两三次。当时趁着账户有点… |
-| 2026-07-21 | [为球星失恋](https://www.hecaitou.com/2026/07/Heartbroken-over-a-Football-Legend.html) | 我是真没想到，这一届世界杯的后劲会有那么足，有好几位读者看完决赛之后跑到我这里来留言，说是一整天茶饭不思，无心睡眠，就那么失魂落魄、浑浑噩噩地一个人待着。尤其是提到梅西的时候，我感觉他们的眼泪在屏幕那一头早已经抑制不住地流下来。 失恋，朋友，这就是失恋，为了世界杯失恋，也是为了自己喜欢的球星黯然退场… |
-| 2026-07-21 | [被强行拖入的 SOP](https://mobius.blog/25118.html) | 前几天，看完@Solazy 发布的一篇博客——《SOP 复制不了那双手》，把两段话复制进来灵感收集条目里，想着 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
