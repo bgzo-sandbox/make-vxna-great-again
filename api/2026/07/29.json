@@ -1,5 +1,19 @@
 [
   {
+    "title": "承认吧，你其实根本不爱看书",
+    "url": "https://blog.solazy.me/20260729/",
+    "date": "2026-07-29T15:00:00Z",
+    "description": "我不止一次的说自己不喜欢看书了",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Lecture 2 Computational Stellar Astrophysics and Supernova Explosion Models",
+    "url": "https://physnya.top/ss-yunnan/lecture-3-computational-stellar-astrophysics-and-supernova-explosion-models/",
+    "date": "2026-07-29T14:53:28Z",
+    "description": "Prof. Friedrich Röpke, from Heidelberg University Computational fluid dynamics 我们选择使用流体力学来进行模拟 —— 这件事有很多好处，比如它能够应用一些统计力学的基本规律，能够唯象解决部分问题，同时其采用的假设是「物质连续性假设」. 能够进行这种假设，需要满足如下条件： ℓ ≫ ℓ mfp \\ell\\gg\\ell_{\\text{mfp}} ℓ ≫ ℓ mfp ​ (mean free path)：我们可以看作连续物质，研究宏观行为. 如果流体体元的尺度远大于平均自由程、又远小于问题尺度，那么我们就能够很好的定义密度分布和温度分布等等. lim ⁡ N → ∞ E / N \\underset{N\\to\\infty}{\\lim} E/N N → ∞ lim ​ E / N 有限 ( = const. =\\text{const.} = const. )，也就是仅有短程力.",
+    "source_root_domain": "physnya.top"
+  },
+  {
     "title": "收购过气软件的Bending Spoons‌上市了，拥有Evernote、Eventbrite、AOL等",
     "url": "https://wenfeixiang.com/2026/07/bending-spoons-story/",
     "date": "2026-07-29T09:28:36Z",
@@ -96,6 +110,13 @@
     "date": "2026-07-28T15:29:47Z",
     "description": "Prof. Amanda Karakas, from Monash University 警告 纯靠手动记录，但是鉴于对于本人这种入门者而言确实很困难，走神一下就听不懂了，因此多有缺漏. 故本篇仅供个人学习参考，最好不要外传误导他人. Main-Sequence and the Start of AGB 一般认为铁元素是一个分界线，在铁之前的元素在恒星中可以被燃烧，更重的元素则通过中子捕获过程来合成.",
     "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "「什么都懂」的人",
+    "url": "https://blog.solazy.me/20260728/",
+    "date": "2026-07-28T15:00:00Z",
+    "description": "今天随笔聊聊一个经常话到嘴边的话题",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "想不到这么快，还是来了😭 各位有什么其它",

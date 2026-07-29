@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-29 | [承认吧，你其实根本不爱看书](https://blog.solazy.me/20260729/) | 我不止一次的说自己不喜欢看书了 |
+| 2026-07-29 | [Lecture 2 Computational Stellar Astrophysics and Supernova Explosion Models](https://physnya.top/ss-yunnan/lecture-3-computational-stellar-astrophysics-and-supernova-explosion-models/) | Prof. Friedrich Röpke, from Heidelberg University Computational fluid dynamics 我们选择使用流体力学来进行模拟 —— 这件事有很多好处，比如它能够应用一些统计力学的基本规律，能够唯象解决部分问题，同时其采用的假设是「物质连… |
 | 2026-07-29 | [收购过气软件的Bending Spoons‌上市了，拥有Evernote、Eventbrite、AOL等](https://wenfeixiang.com/2026/07/bending-spoons-story/) | 7月份，对于投资 AI、半导体等热门行业的股票投资人而言，是一个煎熬的月份。持续的抛售和下跌，让我们从各个层面 […] |
 | 2026-07-29 | [Memos: 昨天发现 caffeinate -i 能避免休眠](https://blog.yasking.org/a/1785316249.html) | 偶尔我会连接手机热点让 AI 干活儿，macOS 不操作过一会儿就会进入睡眠，断掉 Wi-Fi 连接。为了避免这种情况我有几次都是手动 … |
 | 2026-07-29 | [Windows 的 HEVC 扩展收费跟苹果无关](https://yipai.me/post/2543.html) | 今天在某个群里看到这样的言论：不由得感慨苹果真冤啊。因为很多 HEIC 照片来自 iPhone，所以有些蠢人会把这笔钱理解成苹果的格式授权费。然而实际上，这个费用并不是苹果收的。HEIC 通常是使用 HEVC 压缩的 HEIF 图片。Windows 上的 HEIF 图像扩展负责识别文件结构，HEVC… |
@@ -41,6 +43,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-28 | [ICESUN 暑校](https://physnya.top/ss-yunnan/) | 参加 ICESUN 的暑期学校，大约一周，今年在中科院云南天文台 (地处昆明) 举办. 为什么叫 ICESUN？官方解释是：InternationalCEntre of SUperNovae = = = ICESUN. 还挺有意思. |
 | 2026-07-28 | [Lecture 1 Chemodynamics and other](https://physnya.top/ss-yunnan/lecture-1-chemodynamics/) | Prof. Chiaki Kobayashi, from the University of Hertfordshire 警告 由于第一天不太适应加上听不太懂教授的发音，而且前半段试图用手写方式记录但是后来发现效率不够高，漏记错记想必数不胜数，本篇权当试水. Wolf–Rayet Stars Wol… |
 | 2026-07-28 | [Lecture 2 AGB stars](https://physnya.top/ss-yunnan/lecture-2-agb-stars/) | Prof. Amanda Karakas, from Monash University 警告 纯靠手动记录，但是鉴于对于本人这种入门者而言确实很困难，走神一下就听不懂了，因此多有缺漏. 故本篇仅供个人学习参考，最好不要外传误导他人. Main-Sequence and the Start of A… |
+| 2026-07-28 | [「什么都懂」的人](https://blog.solazy.me/20260728/) | 今天随笔聊聊一个经常话到嘴边的话题 |
 | 2026-07-28 | [想不到这么快，还是来了😭 各位有什么其它](https://versun.me/blog/tweet-2082074776156377186) | 想不到这么快，还是来了😭 各位有什么其它方法可以挽救的吗 [tweet-2082074776156377186-b3487538.jpg] |
 | 2026-07-28 | [20260728的胡言乱语](https://www.bboy.app/2026/07/28/20260728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-07-28 | [Random Thoughts - 20260728](https://www.bboy.app/2026/07/28/random-thoughts-20260728/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
