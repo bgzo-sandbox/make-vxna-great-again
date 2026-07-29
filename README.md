@@ -27,16 +27,24 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-29 | [Zine#55 - 嘗試才是罕見的](https://taxodium.ink/55.html) | Zine#55 嘗試才是罕見的 當下沒有特別想分享的音樂，如果你想找點音樂聴，去聴聴 天使音乐 (Hint Notes) 吧。 我寫 Zine 的習慣是先在一周里收集各種連結(大部分都來自我訂閱的網站)，然後集中一個時間去处理。有的連結讀起來會比較花時間，有的我一時也不知道怎麼總結，以往我會把這樣的… |
+| 2026-07-29 | [国行三星 S10 登录 Google 账号卡在“请稍候”的解决方法](https://guchengf.me/blog/chinese-samsung-s10-pending-while-login-google-account/) | 最近折腾一台国行三星 SM-G9730（Galaxy S10） ，系统为官方最新版本。在 设置 → 账号 → 添加 Google 账号 时，输入账号密码后，系统提示需要验证身份，但点击 “下一步” 后一直停留在 “请稍候” 页面，无论等待多久都没有反应。 遇到的问题 具体表现如下： 可以正常输入 G… |
 | 2026-07-29 | [NFS 共享日志盘 75 天写满 11T 排障记录（kjds 生产集群）](https://199604.com/3611) | NFS 共享日志盘 75 天写满 11T 排障记录（kjds 生产集群） 记录时间：2026-07-29 环境 […] |
 | 2026-07-29 | [博客一定要为读者负责吗？III](https://mobius.blog/25183.html) | 接着昨天的话题。 博客是否属于“公共空间”？创作者的责任在于…… 这一部分，我在目前依旧没有具体结论，但是可以 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-29 | [还能这样？](https://versun.me/blog/tweet-2082258993783902298) | 还能这样？ |
 | 2026-07-28 | [《人约》补一：一些关于吸引女性的思考](https://sinyalee.com/blog/?p=1290) | 这是《人妻约会指南》书籍内容相关的一些思考，之后可以一起整合到书中作为第二版。 – 《人约》里面说 […] |
 | 2026-07-28 | [ICESUN 暑校](https://physnya.top/ss-yunnan/) | 参加 ICESUN 的暑期学校，大约一周，今年在中科院云南天文台 (地处昆明) 举办. 为什么叫 ICESUN？官方解释是：InternationalCEntre of SUperNovae = = = ICESUN. 还挺有意思. |
 | 2026-07-28 | [Lecture 1 Chemodynamics and other](https://physnya.top/ss-yunnan/lecture-1-chemodynamics/) | Prof. Chiaki Kobayashi, from the University of Hertfordshire 警告 由于第一天不太适应加上听不太懂教授的发音，而且前半段试图用手写方式记录但是后来发现效率不够高，漏记错记想必数不胜数，本篇权当试水. Wolf–Rayet Stars Wol… |
 | 2026-07-28 | [Lecture 2 AGB stars](https://physnya.top/ss-yunnan/lecture-2-agb-stars/) | Prof. Amanda Karakas, from Monash University 警告 纯靠手动记录，但是鉴于对于本人这种入门者而言确实很困难，走神一下就听不懂了，因此多有缺漏. 故本篇仅供个人学习参考，最好不要外传误导他人. Main-Sequence and the Start of A… |
+| 2026-07-28 | [想不到这么快，还是来了😭 各位有什么其它](https://versun.me/blog/tweet-2082074776156377186) | 想不到这么快，还是来了😭 各位有什么其它方法可以挽救的吗 [tweet-2082074776156377186-b3487538.jpg] |
 | 2026-07-28 | [20260728的胡言乱语](https://www.bboy.app/2026/07/28/20260728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-07-28 | [Random Thoughts - 20260728](https://www.bboy.app/2026/07/28/random-thoughts-20260728/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
 | 2026-07-28 | [AI 的商业模式：吃预算？都是消费惹的祸](https://wenfeixiang.com/2026/07/ai_budget_chain/) | 过去几年，AI 最主流的商业模式，叫做：吃预算。 “ 设备和材料厂商 吃 芯片厂商的预算芯片厂商 吃模型厂商的 […] |
+| 2026-07-28 | [隔这许愿呢？😜 果断 at 呀 @Kim](https://versun.me/blog/tweet-2082012779234599384) | 隔这许愿呢？😜 果断 at 呀 @KimiDevs @KimiProduct @real_kai42 自己动手丰衣足食，看了下源代码， 既然是 pure vibe-coded，那我也就不客气了， 用 Kimi Chat 提交 PR 了 PR：https://github.com/MoonshotAI… |
+| 2026-07-28 | [和 AI 聊了会，从第一性原理出发，我要](https://versun.me/blog/tweet-2082005696359645353) | 和 AI 聊了会，从第一性原理出发，我要的其实是自动化"发现"更新和"执行"更新，而不是自动化"决策"，是否更新应该由人决定 然后调研了目前网上比较好用的3款自动更新软件的工具： 1. Latest GUI 客户端，但只能检测 App Store 和 dmg 安装的应用 2. topgrade 命令… |
+| 2026-07-28 | [早上临时起意，做了个 CLI 工具：ke](https://versun.me/blog/tweet-2081968054985179337) | 早上临时起意，做了个 CLI 工具：keepup。 功能很简单，自动帮你更新指定的 CLI 工具，比如 codex、Claude Code、opencode 等等。 但后来遇到个问题：很多命令更新时需要交互，比如输入 yes/y。本想做成自动输入的，但越想越觉得有安全隐患。万一提示的是“报错后是否重… |
 | 2026-07-28 | [自作孽](https://www.hecaitou.com/2026/07/My-Own-Undoing.html) | 昨天我发了一条贴图《 关于舌头套 》，3 个小时阅读量突破 10万，是之前一篇文章的 10 倍。完全不在意是不可能的，我为一篇文章付出的心血多，为一条贴图耗费的心力少，多少会有些不平衡。阴暗的心理一发作，觉得肯定是系统算法在搞我。文章不推荐，搞笑图片狂推。 不过我基本上还算是个谨慎的人，说话要讲证据… |
+| 2026-07-28 | [花了一早上，近十家 Kimi K3 服务](https://versun.me/blog/tweet-2081936768103051268) | 花了一早上，近十家 Kimi K3 服务商，套餐价格全比了个遍。 最后发现：价格实惠、能稳定放心用的，竟然还是官方订阅最香🤣 [tweet-2081936768103051268-497949af.png] |
 | 2026-07-28 | [博客一定要为读者负责吗？II](https://mobius.blog/25179.html) | 接着昨天的话题。 在公共空间输出观点时，是否需要避免自我心理分析？ 为了更好的背书，接下来要讨论的内容都有“书 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-28 | [才发现在 推特 上发布的文章，是无法通过](https://versun.me/blog/tweet-2081894893765673276) | 才发现在 推特 上发布的文章，是无法通过官方的 X API 获取到内容的，官方的归档也没有，都只是给你一个链接，好坑啊 所以不建议大家用 X 的文章写长文，因为你无法导出，只能手动复制粘贴 |
 | 2026-07-28 | [Memos #2026-07-27](https://www.taober.blog/memos) | 22:25 下班坐的士上逛着 B 站，刷到了陈奕迅历年的金曲舞台，听到《shall we talk》的时候，发现自己竟然每一句的停顿和旋律走向都还记得，这大概得感激自己高中的时候，用那个廉价的 mp3 去一遍遍地听这些歌。 突然很好奇，以前的我是怎么能沉下心来去做那些现在看来容易让人腻味的事。比如说… |

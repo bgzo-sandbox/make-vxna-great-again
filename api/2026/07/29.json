@@ -1,5 +1,19 @@
 [
   {
+    "title": "Zine#55 - 嘗試才是罕見的",
+    "url": "https://taxodium.ink/55.html",
+    "date": "2026-07-29T05:20:00Z",
+    "description": "Zine#55 嘗試才是罕見的 當下沒有特別想分享的音樂，如果你想找點音樂聴，去聴聴 天使音乐 (Hint Notes) 吧。 我寫 Zine 的習慣是先在一周里收集各種連結(大部分都來自我訂閱的網站)，然後集中一個時間去处理。有的連結讀起來會比較花時間，有的我一時也不知道怎麼總結，以往我會把這樣的連結放一邊，拖到最後才处理，或者先去干點別的放鬆一下，簡而言之就是先逃避它。除非我選擇舍弃它們，否則這些連結最終都是要处理的，逃避并不會有什麼用。在 Zine#53 分享過一篇 Write Your Way Out ，里面說到當需要寫作，但不想寫作時， 避免寫作是無用的 ，反而應該繼續寫，一邊寫一邊去推進想法。後面我也是這麼實踐的，我會從頭到尾一條條連結处理過去，不管連結处理起來是否困難，這樣做下來，整體的效率更高了，不會因為一些連結而拖很久。因為决定了不管如何都要去直面，也少去了一些心理負擔，不怕困難了，反正都是要面對的。 News | Article Failing is Common, Trying is Rare by David 失敗很常見，但真正的嘗試卻很罕見。 為了實現目標，應",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "国行三星 S10 登录 Google 账号卡在“请稍候”的解决方法",
+    "url": "https://guchengf.me/blog/chinese-samsung-s10-pending-while-login-google-account/",
+    "date": "2026-07-29T03:44:54Z",
+    "description": "最近折腾一台国行三星 SM-G9730（Galaxy S10） ，系统为官方最新版本。在 设置 → 账号 → 添加 Google 账号 时，输入账号密码后，系统提示需要验证身份，但点击 “下一步” 后一直停留在 “请稍候” 页面，无论等待多久都没有反应。 遇到的问题 具体表现如下： 可以正常输入 Google 账号和密码； 提示“需要验证身份”； 点击“下一步”后一直显示“请稍候”； 即使关闭 Google 两步验证、删除验证器、移除手机验证，问题依然存在。 最初怀疑是账号安全策略导致，但事实证明并不是。 排查过程 经过检查发现： Google Play 商店可以正常打开； 但是 Google Play 服务（Google Play Services）版本仅为 21.36.14 ，属于比较老的版本，与 Android 12 的新版 Google 登录流程兼容性较差。 旧版本 Play 服务无法完成新版身份验证，因此导致验证页面一直停留在“请稍候”。 解决方法 最终的解决方案非常简单： 打开 Google Play 商店 ； 进入 设置 → 关于 ； 点击 “更新 Play 商店” （多",
+    "source_root_domain": "guchengf.me"
+  },
+  {
     "title": "NFS 共享日志盘 75 天写满 11T 排障记录（kjds 生产集群）",
     "url": "https://199604.com/3611",
     "date": "2026-07-29T02:08:15Z",
@@ -12,6 +26,13 @@
     "date": "2026-07-29T01:00:00Z",
     "description": "接着昨天的话题。 博客是否属于“公共空间”？创作者的责任在于…… 这一部分，我在目前依旧没有具体结论，但是可以 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "还能这样？",
+    "url": "https://versun.me/blog/tweet-2082258993783902298",
+    "date": "2026-07-29T00:16:45Z",
+    "description": "还能这样？",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "《人约》补一：一些关于吸引女性的思考",
@@ -42,6 +63,13 @@
     "source_root_domain": "physnya.top"
   },
   {
+    "title": "想不到这么快，还是来了😭 各位有什么其它",
+    "url": "https://versun.me/blog/tweet-2082074776156377186",
+    "date": "2026-07-28T12:04:44Z",
+    "description": "想不到这么快，还是来了😭 各位有什么其它方法可以挽救的吗 [tweet-2082074776156377186-b3487538.jpg]",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "20260728的胡言乱语",
     "url": "https://www.bboy.app/2026/07/28/20260728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
     "date": "2026-07-28T09:36:00Z",
@@ -63,11 +91,39 @@
     "source_root_domain": "wenfeixiang.com"
   },
   {
+    "title": "隔这许愿呢？😜 果断 at 呀 @Kim",
+    "url": "https://versun.me/blog/tweet-2082012779234599384",
+    "date": "2026-07-28T07:58:23Z",
+    "description": "隔这许愿呢？😜 果断 at 呀 @KimiDevs @KimiProduct @real_kai42 自己动手丰衣足食，看了下源代码， 既然是 pure vibe-coded，那我也就不客气了， 用 Kimi Chat 提交 PR 了 PR：https://github.com/MoonshotAI/kimi-cli/pull/2567 和 Kimi 的对话：...",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "和 AI 聊了会，从第一性原理出发，我要",
+    "url": "https://versun.me/blog/tweet-2082005696359645353",
+    "date": "2026-07-28T07:30:14Z",
+    "description": "和 AI 聊了会，从第一性原理出发，我要的其实是自动化\"发现\"更新和\"执行\"更新，而不是自动化\"决策\"，是否更新应该由人决定 然后调研了目前网上比较好用的3款自动更新软件的工具： 1. Latest GUI 客户端，但只能检测 App Store 和 dmg 安装的应用 2. topgrade 命令行工具，支持brew、npm、bun等几乎所有的安装来源，但只能全量更新，无法针对某个 app...",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "早上临时起意，做了个 CLI 工具：ke",
+    "url": "https://versun.me/blog/tweet-2081968054985179337",
+    "date": "2026-07-28T05:00:40Z",
+    "description": "早上临时起意，做了个 CLI 工具：keepup。 功能很简单，自动帮你更新指定的 CLI 工具，比如 codex、Claude Code、opencode 等等。 但后来遇到个问题：很多命令更新时需要交互，比如输入 yes/y。本想做成自动输入的，但越想越觉得有安全隐患。万一提示的是“报错后是否重装”，或者“是否卸载”，自动确认的后果就很严重了。...",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "自作孽",
     "url": "https://www.hecaitou.com/2026/07/My-Own-Undoing.html",
     "date": "2026-07-28T04:56:58Z",
     "description": "昨天我发了一条贴图《 关于舌头套 》，3 个小时阅读量突破 10万，是之前一篇文章的 10 倍。完全不在意是不可能的，我为一篇文章付出的心血多，为一条贴图耗费的心力少，多少会有些不平衡。阴暗的心理一发作，觉得肯定是系统算法在搞我。文章不推荐，搞笑图片狂推。 不过我基本上还算是个谨慎的人，说话要讲证据，否则就是诽谤。于是我等了一夜，去看最终的数据分析： 看完数据之后，我得出了一个结论：一切都是自作孽。 为什么这么说？因为读过这条贴图的 14 万 7 千人，90% 以上都是直接看了公众号消息，系统推荐只占 0.7%---并没有什么算法的左右，事实上算法并不喜欢这条贴图，因为在平常日子里，一般会给文章 5% 的推荐量，昨天系统根本就没有任何推荐的想法。 所以，人从哪里来？从我这十多年累积的读者群而来。对，他们一直都在，一直保持关注，只是愿意打开我公众号读一下的人越来越少，大多数都处于休眠状态。不是看不见我更新，而是根本不想点进去。 昨天我发了一张贴图，他们看到之后，出于种种原因，立即点了进去。也就是说，算法系统什么都没有做，分发系统正常推送内容，然后十几万人时隔多年，为了那张图而重访旧地。 ",
     "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "花了一早上，近十家 Kimi K3 服务",
+    "url": "https://versun.me/blog/tweet-2081936768103051268",
+    "date": "2026-07-28T02:56:20Z",
+    "description": "花了一早上，近十家 Kimi K3 服务商，套餐价格全比了个遍。 最后发现：价格实惠、能稳定放心用的，竟然还是官方订阅最香🤣 [tweet-2081936768103051268-497949af.png]",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "博客一定要为读者负责吗？II",
