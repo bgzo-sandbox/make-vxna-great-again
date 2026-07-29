@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-29 | [《亿高》注疏三：大空头](https://sinyalee.com/blog/?p=1254) | 本文是对《资产一个亿以下，不要娶高学历国女》一文的第三篇注解。 – 我写《亿高》的原因，就是要做空 […] |
 | 2026-07-29 | [承认吧，你其实根本不爱看书](https://blog.solazy.me/20260729/) | 我不止一次的说自己不喜欢看书了 |
 | 2026-07-29 | [Lecture 2 Computational Stellar Astrophysics and Supernova Explosion Models](https://physnya.top/ss-yunnan/lecture-3-computational-stellar-astrophysics-and-supernova-explosion-models/) | Prof. Friedrich Röpke, from Heidelberg University Computational fluid dynamics 我们选择使用流体力学来进行模拟 —— 这件事有很多好处，比如它能够应用一些统计力学的基本规律，能够唯象解决部分问题，同时其采用的假设是「物质连… |
 | 2026-07-29 | [Album#44 - Brett Anderson](https://taxodium.ink/album-44.html) | Album#44 Brett Anderson 图1 《Brett Anderson》専輯封面 专辑信息 专辑名称： Brett Anderson 歌手： Brett Anderson 年份： 2007-03-26 时长： 38:26 在发达星期四的 Brett Anderson 的同名专辑也是你心… |
