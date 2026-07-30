@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-30 | [学习周刊-总第274期-2026年第31周](https://wiki.eryajf.net/pages/7216a4/) | 如要阅读全文，点击标题跳转。 学习周刊-总第274期 &#124; nextclaw &#124; GHFS &#124; desktop-cc-gui &#124; nowen-video &#124; link-ai &#124; MacSift &#124; PureMac |
+| 2026-07-30 | [Six-Lens Poem Reading and the Story Behind It](https://victor42.eth.limo/post-en/poem-six-lens-skill/) | It Started with Nonsense A friend sent me this image, calling it an authentic Wu Daozi. I looked and looked and could not spot the forgery. It must be… |
+| 2026-07-30 | [六合读诗与幕后故事](https://victor42.eth.limo/post/poem-six-lens-skill/) | 从一段胡说八道开始 朋友发来这么一张图：说是吴道子的真迹，我左看右看也没看出哪里造假了，应该是真的。 我一看，回复道： 没毛病，他就是那个年代的人，他亲眼见到的。杜牧个后世人，YY个什么劲，还次第开，那门用得着开吗？就因为吴道子有点不知道哪来的广东口音，后世人凭什么不认。历史的悲哀。 玩笑归玩笑，既… |
+| 2026-07-30 | [台风来临，如何准备好应急通信对讲机](https://blog.mfwt.top/index.php/archives/1479/) | 大约在一年前，台风桦加沙来的时候，笔者写文章介绍过当时所做的一些准备措施。受限于篇幅与时间安排原因，文末关于应急通信的几个准备，尤其是关于对讲机的，并没有讲述得太详尽。如今又到了台风季节，再加上... |
 | 2026-07-30 | [Lecture 4 Evolution, Explosion and Nucleosynthesis of Massive Stars](https://physnya.top/ss-yunnan/lecture-4-evolution-explosion-and-nucleosynthesis-of-massive-stars/) | Prof. Marco Limongi, from University of Tokyo 我们建立了 Stellar Model，这个历史上的模型仅仅是一维的，它包含了 L L L , P P P , T T T , ρ \rho ρ , 化学组分等等内容，用几个微分方程来尝试描述. 这个模型中所… |
 | 2026-07-30 | [我把积灰的 MacBook Pro 2019 改成了无限额度 Xcode CI Runner](https://blog.tomyail.com/macbook-pro-2019-unlimited-xcode-ci-runner/) | 把闲置的 2019 Intel MacBook Pro 改成合盖常驻的 Gitea Actions / Xcode CI Runner：防睡眠、本地网络权限、Universal Xcode、Fastlane 上传 TestFlight，以及单机 Runner 的真实代价。 |
 | 2026-07-30 | [飞书并入豆包，文档是否减少？](https://blog.est.im/2026/stderr-26) | 飞书并入豆包 7月30日，字节跳动发布内部邮件，宣布飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的ToB GTM组织“创造力服务平台（Creativity S… |
