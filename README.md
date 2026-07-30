@@ -27,7 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-30 | [Lecture 4 Evolution, Explosion and Nucleosynthesis of Massive Stars](https://physnya.top/ss-yunnan/lecture-4-evolution-explosion-and-nucleosynthesis-of-massive-stars/) | Prof. Marco Limongi, from University of Tokyo 我们建立了 Stellar Model，这个历史上的模型仅仅是一维的，它包含了 L L L , P P P , T T T , ρ \rho ρ , 化学组分等等内容，用几个微分方程来尝试描述. 这个模型中所… |
 | 2026-07-30 | [我把积灰的 MacBook Pro 2019 改成了无限额度 Xcode CI Runner](https://blog.tomyail.com/macbook-pro-2019-unlimited-xcode-ci-runner/) | 把闲置的 2019 Intel MacBook Pro 改成合盖常驻的 Gitea Actions / Xcode CI Runner：防睡眠、本地网络权限、Universal Xcode、Fastlane 上传 TestFlight，以及单机 Runner 的真实代价。 |
+| 2026-07-30 | [飞书并入豆包，文档是否减少？](https://blog.est.im/2026/stderr-26) | 飞书并入豆包 7月30日，字节跳动发布内部邮件，宣布飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的ToB GTM组织“创造力服务平台（Creativity S… |
+| 2026-07-30 | [Memos: 终章之为 GG 卡选择一个慈善 PLAN](https://blog.yasking.org/a/1785396612) | 在收到 GG 卡清退邮件、彻底无法发送短信之前，选择一两个喜欢的项目奉献爱心 ❤️ 推荐 公益项目英文名 公益项目中文名 公 … |
 | 2026-07-30 | [Zuma updated](https://macsourceports.com/game/zuma) | The build of Zuma Portable for Zuma has been updated to version 0.7 of the project |
 | 2026-07-30 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.67 of the project |
 | 2026-07-30 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.0 of the project |
@@ -44,18 +47,24 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-30 | [Caddy 转发 GOST 报 TLS internal error 问题的排查与解决](https://liudon.com/posts/caddy-forward-gost-tls-internal-error/) | 记录 GOST 客户端通过 Caddy 转发访问 GOST 服务端时出现 TLS internal error 的排查过程，最终定位为客户端通过 IP 连接时未发送 SNI，并使用域名配合 ip 参数解决。 |
 | 2026-07-30 | [K8s Deployment 名过长致 Pod 名截断与日志目录代际标识丢失排查](https://199604.com/3613) | K8s Deployment 名过长致 Pod 名截断与日志目录代际标识丢失排查 记录时间：2026-07-2 […] |
 | 2026-07-30 | [博客一定要为读者负责吗？IV](https://mobius.blog/25187.html) | 最后一部分，我想回到我的个人拙见，来聊聊创作者该负起哪些责任？ 创作者的责任是什么？ 这并不是一个公开标准：有 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-30 | [Memos: GG 卡 GG](https://blog.yasking.org/a/1785374656) | 昨天收到 giffgaff 的 “We’re disconnecting your service” 邮件。 尝试发了邮件申请退款，但 估计 £9.39 余额退不回来。在无法发送短信之前，可用余额支持 公 … |
 | 2026-07-30 | [Memos: GG 卡 GG](https://blog.yasking.org/a/1785374656.html) | 昨天收到 giffgaff 的 “We’re disconnecting your service” 邮件。 尝试发了邮件申请退款，但估计 £9.39 余额退不回来。 （R.I.P：2026.4.21 - 2026-07-29） |
+| 2026-07-30 | [Memos: 苹果系统在它工作的时候会工作的很好](https://blog.yasking.org/a/1785317110) | 换苹果电脑迁移，之前我会在新电脑安装环境，古法手工进行配置，然后再手动将需要的配置、资料导出，避免旧系统很多垃 … |
 | 2026-07-30 | [Memos: 苹果系统在它工作的时候会工作的很好](https://blog.yasking.org/a/1785317110.html) | 换苹果电脑迁移，之前我会在新电脑安装环境，古法手工进行配置，然后再手动将需要的配置、资料导出，避免旧系统很多垃 … |
+| 2026-07-30 | [ETF Screener: A Free US ETF Screening Tool](https://folay.top/blog/etf-screener) | Built a screening tool covering 5,000+ active US-listed ETFs with 42 metrics. No signup, no paywall. |
 | 2026-07-30 | [Memos #2026-07-29](https://www.taober.blog/memos) | 09:19 我就说我怎么在用 gpt-8，原来是做梦。 妈的，又起晚了。 |
 | 2026-07-29 | [哈哈，转需🤣](https://versun.me/blog/tweet-2082608950378467713) | 哈哈，转需🤣 |
 | 2026-07-29 | [《亿高》注疏三：大空头](https://sinyalee.com/blog/?p=1254) | 本文是对《资产一个亿以下，不要娶高学历国女》一文的第三篇注解。 – 我写《亿高》的原因，就是要做空 […] |
 | 2026-07-29 | [这么快就能在mac上运行啦！不知道还能再](https://versun.me/blog/tweet-2082581352386531356) | 这么快就能在mac上运行啦！不知道还能再量化吗😂 |
+| 2026-07-29 | [Agent 驱动的可追溯智能研究平台——从脚本到类型化工作流的架构演进](https://ghyghoo8.github.io/2026/07/30/2026-07-30-Agent%E9%A9%B1%E5%8A%A8%E7%9A%84%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E6%9E%B6%E6%9E%84-R1%E5%88%B0R3%E6%BC%94%E8%BF%9B%E5%A4%8D%E7%9B%98/) | 本文基于真实项目经历整理，并已按公开分享口径脱敏：内部项目名称、仓库路径、数据接口、运行标识、内容哈希及精确运营数据均已删除或泛化。文章保留业务问题、架构决策、实现机制、技术权衡和验证结论。 <h2 |
+| 2026-07-29 | [面向液冷 IDC 的数字孪生监控平台架构设计与演进实践](https://ghyghoo8.github.io/2026/07/30/2026-07-30-%E9%9D%A2%E5%90%91%E6%B6%B2%E5%86%B7IDC%E7%9A%84%E6%95%B0%E5%AD%97%E5%AD%AA%E7%94%9F%E7%9B%91%E6%8E%A7%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E6%BC%94%E8%BF%9B%E5%AE%9E%E8%B7%B5/) | 摘要 本文以我负责架构设计与核心链路落地的一套液冷 IDC |
 | 2026-07-29 | [Cursor、Claude、Codex深度体验、对比](https://elmagnifico.tech/2026/07/30/Agent-IDE-Compare/) | Foreword 最近把几个比较强的AI工具都试用了一下，对比一下 Cursor 我用的最多，也是相对比较传统的代码工具，理解和使用门槛都是以程序为基准的 Cursor默认套餐的上下文大小实在是太小了才260多K，别人都1M+，大需求很容易就跑过了，还好内置了压缩上下文和长期记忆等，上下文比较大的时… |
 | 2026-07-29 | [承认吧，你其实根本不爱看书](https://blog.solazy.me/20260729/) | 我不止一次的说自己不喜欢看书了 |
-| 2026-07-29 | [Lecture 2 Computational Stellar Astrophysics and Supernova Explosion Models](https://physnya.top/ss-yunnan/lecture-3-computational-stellar-astrophysics-and-supernova-explosion-models/) | Prof. Friedrich Röpke, from Heidelberg University Computational fluid dynamics 我们选择使用流体力学来进行模拟 —— 这件事有很多好处，比如它能够应用一些统计力学的基本规律，能够唯象解决部分问题，同时其采用的假设是「物质连… |
+| 2026-07-29 | [Lecture 3 Computational Stellar Astrophysics and Supernova Explosion Models](https://physnya.top/ss-yunnan/lecture-3-computational-stellar-astrophysics-and-supernova-explosion-models/) | Prof. Friedrich Röpke, from Heidelberg University Computational fluid dynamics 我们选择使用流体力学来进行模拟 —— 这件事有很多好处，比如它能够应用一些统计力学的基本规律，能够唯象解决部分问题，同时其采用的假设是「物质连… |
 | 2026-07-29 | [Album#44 - Brett Anderson](https://taxodium.ink/album-44.html) | Album#44 Brett Anderson 图1 《Brett Anderson》専輯封面 专辑信息 专辑名称： Brett Anderson 歌手： Brett Anderson 年份： 2007-03-26 时长： 38:26 在发达星期四的 Brett Anderson 的同名专辑也是你心… |
 | 2026-07-29 | [一个大佬从 claude 叛逃去 kim](https://versun.me/blog/tweet-2082445681621635527) | 一个大佬从 claude 叛逃去 kimi 了 下一个我猜是宝玉老师🤪 |
 | 2026-07-29 | [收购过气软件的Bending Spoons‌上市了，拥有Evernote、Eventbrite、AOL等](https://wenfeixiang.com/2026/07/bending-spoons-story/) | 7月份，对于投资 AI、半导体等热门行业的股票投资人而言，是一个煎熬的月份。持续的抛售和下跌，让我们从各个层面 […] |
+| 2026-07-29 | [Memos: 昨天发现 caffeinate -i 能避免休眠](https://blog.yasking.org/a/1785316249) | 偶尔我会连接手机热点让 AI 干活儿，macOS 不操作过一会儿就会进入睡眠，断掉 Wi-Fi 连接。为了避免这种情况我有几次都是手动 … |
 | 2026-07-29 | [Memos: 昨天发现 caffeinate -i 能避免休眠](https://blog.yasking.org/a/1785316249.html) | 偶尔我会连接手机热点让 AI 干活儿，macOS 不操作过一会儿就会进入睡眠，断掉 Wi-Fi 连接。为了避免这种情况我有几次都是手动 … |
 | 2026-07-29 | [Windows 的 HEVC 扩展收费跟苹果无关](https://yipai.me/post/2543.html) | 今天在某个群里看到这样的言论：不由得感慨苹果真冤啊。因为很多 HEIC 照片来自 iPhone，所以有些蠢人会把这笔钱理解成苹果的格式授权费。然而实际上，这个费用并不是苹果收的。HEIC 通常是使用 HEVC 压缩的 HEIF 图片。Windows 上的 HEIF 图像扩展负责识别文件结构，HEVC… |
 | 2026-07-29 | [2026-07 好物推荐](https://www.ghostchu.com/2026-07-%e5%a5%bd%e7%89%a9%e6%8e%a8%e8%8d%90/) | 博客建立了这么多年，好物分享板块一直没什么内容，那么从今天开始就试着更新一下这个长草的板块吧！ 本期没有任何商 […] 2026-07 好物推荐 最先出现在 Ghost_chu's Blog 。 |

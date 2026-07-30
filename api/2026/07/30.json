@@ -1,10 +1,31 @@
 [
   {
+    "title": "Lecture 4 Evolution, Explosion and Nucleosynthesis of Massive Stars",
+    "url": "https://physnya.top/ss-yunnan/lecture-4-evolution-explosion-and-nucleosynthesis-of-massive-stars/",
+    "date": "2026-07-30T10:03:24Z",
+    "description": "Prof. Marco Limongi, from University of Tokyo 我们建立了 Stellar Model，这个历史上的模型仅仅是一维的，它包含了 L L L , P P P , T T T , ρ \\rho ρ , 化学组分等等内容，用几个微分方程来尝试描述. 这个模型中所谓的 input physics 是物态方程以及 EoS、opacity 和 nuclear reaction rates，这些条件和边界条件结合在一起才能够解出整个模型，然后进行 stellar evolution 的模拟.",
+    "source_root_domain": "physnya.top"
+  },
+  {
     "title": "我把积灰的 MacBook Pro 2019 改成了无限额度 Xcode CI Runner",
     "url": "https://blog.tomyail.com/macbook-pro-2019-unlimited-xcode-ci-runner/",
     "date": "2026-07-30T10:00:00Z",
     "description": "把闲置的 2019 Intel MacBook Pro 改成合盖常驻的 Gitea Actions / Xcode CI Runner：防睡眠、本地网络权限、Universal Xcode、Fastlane 上传 TestFlight，以及单机 Runner 的真实代价。",
     "source_root_domain": "tomyail.com"
+  },
+  {
+    "title": "飞书并入豆包，文档是否减少？",
+    "url": "https://blog.est.im/2026/stderr-26",
+    "date": "2026-07-30T07:41:00Z",
+    "description": "飞书并入豆包 7月30日，字节跳动发布内部邮件，宣布飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的ToB GTM组织“创造力服务平台（Creativity Service Platform）”。整体负责字节 MaaS和SaaS等云服务的市场、销售和客户服务，由火山引擎负责人谭待负责，飞书销售负责人林婵、飞书战略及市场负责人史志隽向谭待汇报。重组之后，原有的飞书产品和服务保持不变，飞书还将和豆包在生产力场景进行更深度的产品协作。 然后刷到 一个推 办公文档恰恰是 AI 要淘汰的信息交互协议。以前在两个信息孤岛传递信息，需要两边的对接人来进行消息组包和分解，来消除两边信息不对称的问题。 企业要推行 AI，那么两边各自准备一个智能体，他俩自己聊就行了。 没必要让智能体写一个报告或者 ppt，交给人类，再转交给另一个人类，再丢给智能体。 今后只会出现三个场景需要文档： AI 写出来给 AI 看，作为阶段性消息压缩。 AI 写出来给人看，人写出来给 AI ",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "Memos: 终章之为 GG 卡选择一个慈善 PLAN",
+    "url": "https://blog.yasking.org/a/1785396612",
+    "date": "2026-07-30T07:30:00Z",
+    "description": "在收到 GG 卡清退邮件、彻底无法发送短信之前，选择一两个喜欢的项目奉献爱心 ❤️ 推荐 公益项目英文名 公益项目中文名 公 …",
+    "source_root_domain": "yasking.org"
   },
   {
     "title": "Zuma updated",
@@ -120,9 +141,23 @@
   },
   {
     "title": "Memos: GG 卡 GG",
+    "url": "https://blog.yasking.org/a/1785374656",
+    "date": "2026-07-30T01:02:00Z",
+    "description": "昨天收到 giffgaff 的 “We’re disconnecting your service” 邮件。 尝试发了邮件申请退款，但 估计 £9.39 余额退不回来。在无法发送短信之前，可用余额支持 公 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "Memos: GG 卡 GG",
     "url": "https://blog.yasking.org/a/1785374656.html",
     "date": "2026-07-30T01:02:00Z",
     "description": "昨天收到 giffgaff 的 “We’re disconnecting your service” 邮件。 尝试发了邮件申请退款，但估计 £9.39 余额退不回来。 （R.I.P：2026.4.21 - 2026-07-29）",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "Memos: 苹果系统在它工作的时候会工作的很好",
+    "url": "https://blog.yasking.org/a/1785317110",
+    "date": "2026-07-30T01:01:00Z",
+    "description": "换苹果电脑迁移，之前我会在新电脑安装环境，古法手工进行配置，然后再手动将需要的配置、资料导出，避免旧系统很多垃 …",
     "source_root_domain": "yasking.org"
   },
   {
@@ -131,6 +166,13 @@
     "date": "2026-07-30T01:01:00Z",
     "description": "换苹果电脑迁移，之前我会在新电脑安装环境，古法手工进行配置，然后再手动将需要的配置、资料导出，避免旧系统很多垃 …",
     "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "ETF Screener: A Free US ETF Screening Tool",
+    "url": "https://folay.top/blog/etf-screener",
+    "date": "2026-07-30T00:00:00Z",
+    "description": "Built a screening tool covering 5,000+ active US-listed ETFs with 42 metrics. No signup, no paywall.",
+    "source_root_domain": "folay.top"
   },
   {
     "title": "Memos #2026-07-29",
@@ -161,6 +203,20 @@
     "source_root_domain": "versun.me"
   },
   {
+    "title": "Agent 驱动的可追溯智能研究平台——从脚本到类型化工作流的架构演进",
+    "url": "https://ghyghoo8.github.io/2026/07/30/2026-07-30-Agent%E9%A9%B1%E5%8A%A8%E7%9A%84%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E6%9E%B6%E6%9E%84-R1%E5%88%B0R3%E6%BC%94%E8%BF%9B%E5%A4%8D%E7%9B%98/",
+    "date": "2026-07-29T16:00:00Z",
+    "description": "本文基于真实项目经历整理，并已按公开分享口径脱敏：内部项目名称、仓库路径、数据接口、运行标识、内容哈希及精确运营数据均已删除或泛化。文章保留业务问题、架构决策、实现机制、技术权衡和验证结论。 <h2",
+    "source_root_domain": "ghyghoo8.github.io"
+  },
+  {
+    "title": "面向液冷 IDC 的数字孪生监控平台架构设计与演进实践",
+    "url": "https://ghyghoo8.github.io/2026/07/30/2026-07-30-%E9%9D%A2%E5%90%91%E6%B6%B2%E5%86%B7IDC%E7%9A%84%E6%95%B0%E5%AD%97%E5%AD%AA%E7%94%9F%E7%9B%91%E6%8E%A7%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E6%BC%94%E8%BF%9B%E5%AE%9E%E8%B7%B5/",
+    "date": "2026-07-29T16:00:00Z",
+    "description": "摘要 本文以我负责架构设计与核心链路落地的一套液冷 IDC",
+    "source_root_domain": "ghyghoo8.github.io"
+  },
+  {
     "title": "Cursor、Claude、Codex深度体验、对比",
     "url": "https://elmagnifico.tech/2026/07/30/Agent-IDE-Compare/",
     "date": "2026-07-29T16:00:00Z",
@@ -175,7 +231,7 @@
     "source_root_domain": "solazy.me"
   },
   {
-    "title": "Lecture 2 Computational Stellar Astrophysics and Supernova Explosion Models",
+    "title": "Lecture 3 Computational Stellar Astrophysics and Supernova Explosion Models",
     "url": "https://physnya.top/ss-yunnan/lecture-3-computational-stellar-astrophysics-and-supernova-explosion-models/",
     "date": "2026-07-29T14:53:28Z",
     "description": "Prof. Friedrich Röpke, from Heidelberg University Computational fluid dynamics 我们选择使用流体力学来进行模拟 —— 这件事有很多好处，比如它能够应用一些统计力学的基本规律，能够唯象解决部分问题，同时其采用的假设是「物质连续性假设」. 能够进行这种假设，需要满足如下条件： ℓ ≫ ℓ mfp \\ell\\gg\\ell_{\\text{mfp}} ℓ ≫ ℓ mfp ​ (mean free path)：我们可以看作连续物质，研究宏观行为. 如果流体体元的尺度远大于平均自由程、又远小于问题尺度，那么我们就能够很好的定义密度分布和温度分布等等. lim ⁡ N → ∞ E / N \\underset{N\\to\\infty}{\\lim} E/N N → ∞ lim ​ E / N 有限 ( = const. =\\text{const.} = const. )，也就是仅有短程力.",
@@ -201,6 +257,13 @@
     "date": "2026-07-29T09:28:36Z",
     "description": "7月份，对于投资 AI、半导体等热门行业的股票投资人而言，是一个煎熬的月份。持续的抛售和下跌，让我们从各个层面 […]",
     "source_root_domain": "wenfeixiang.com"
+  },
+  {
+    "title": "Memos: 昨天发现 caffeinate -i 能避免休眠",
+    "url": "https://blog.yasking.org/a/1785316249",
+    "date": "2026-07-29T09:21:00Z",
+    "description": "偶尔我会连接手机热点让 AI 干活儿，macOS 不操作过一会儿就会进入睡眠，断掉 Wi-Fi 连接。为了避免这种情况我有几次都是手动 …",
+    "source_root_domain": "yasking.org"
   },
   {
     "title": "Memos: 昨天发现 caffeinate -i 能避免休眠",
