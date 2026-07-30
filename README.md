@@ -27,16 +27,39 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-30 | [我把积灰的 MacBook Pro 2019 改成了无限额度 Xcode CI Runner](https://blog.tomyail.com/macbook-pro-2019-unlimited-xcode-ci-runner/) | 把闲置的 2019 Intel MacBook Pro 改成合盖常驻的 Gitea Actions / Xcode CI Runner：防睡眠、本地网络权限、Universal Xcode、Fastlane 上传 TestFlight，以及单机 Runner 的真实代价。 |
+| 2026-07-30 | [Zuma updated](https://macsourceports.com/game/zuma) | The build of Zuma Portable for Zuma has been updated to version 0.7 of the project |
+| 2026-07-30 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.67 of the project |
+| 2026-07-30 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.0 of the project |
+| 2026-07-30 | [Chris Sawyer's Locomotion updated](https://macsourceports.com/game/locomotion) | The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version v26.07.1 of the project |
+| 2026-07-30 | [Reckless Drivin' updated](https://macsourceports.com/game/recklessdrivin) | The build of reckless-drivin-sdl for Reckless Drivin' has been updated to version v1.0.5 of the project |
+| 2026-07-30 | [New Release: Zork Zero: The Revenge of Megaboz](https://macsourceports.com/game/zork0) | In the annals of classic and retro gaming, Infocom's rise and fall is one of the most documented and well followed, with books and documentaries on th… |
+| 2026-07-30 | [Beyond Zork: The Coconut of Quendor updated](https://macsourceports.com/game/beyondzork) | The build of Splatterlight for Beyond Zork: The Coconut of Quendor has been updated to version v1.5.2 of the project |
+| 2026-07-30 | [Planetfall updated](https://macsourceports.com/game/planetfall) | The build of Splatterlight for Planetfall has been updated to version v1.5.2 of the project |
+| 2026-07-30 | [Zork I: The Great Underground Empire updated](https://macsourceports.com/game/zork1) | The build of Splatterlight for Zork I: The Great Underground Empire has been updated to version v1.5.2 of the project |
+| 2026-07-30 | [Zork II: The Wizard of Frobozz updated](https://macsourceports.com/game/zork2) | The build of Splatterlight for Zork II: The Wizard of Frobozz has been updated to version v1.5.2 of the project |
+| 2026-07-30 | [Zork III: The Dungeon Master updated](https://macsourceports.com/game/zork3) | The build of Splatterlight for Zork III: The Dungeon Master has been updated to version v1.5.2 of the project |
+| 2026-07-30 | [我已AI倦怠](https://www.hecaitou.com/2026/07/Just-Exhausted-by-AI.html) | 说实话，就算新闻今天说真正的人工智能已经出现，在人类的历史上，第一次由人创造出新的硅基智慧生命，人类从造物上升为造物主---我也只会拉起被子，掩护身子不要让空调凉风吹到，然后翻身接着去睡。 因为我实在是感觉到倦了。AI 本身没有什么问题，网上讨论 AI 的方式有问题，甚至是那种讨论时的情绪有大问题。… |
+| 2026-07-30 | [Windows 下 Codex Cli 更新报 Move-Item is denied 错误的解决](https://liudon.com/posts/windows-codex-update-failed/) | 记录 Windows 下 Codex Cli 更新报 Move-Item is denied 错误的解决过程，最终定位是杀毒软件防护的原因导致。 |
+| 2026-07-30 | [Caddy 转发 GOST 报 TLS internal error 问题的排查与解决](https://liudon.com/posts/caddy-forward-gost-tls-internal-error/) | 记录 GOST 客户端通过 Caddy 转发访问 GOST 服务端时出现 TLS internal error 的排查过程，最终定位为客户端通过 IP 连接时未发送 SNI，并使用域名配合 ip 参数解决。 |
+| 2026-07-30 | [K8s Deployment 名过长致 Pod 名截断与日志目录代际标识丢失排查](https://199604.com/3613) | K8s Deployment 名过长致 Pod 名截断与日志目录代际标识丢失排查 记录时间：2026-07-2 […] |
 | 2026-07-30 | [博客一定要为读者负责吗？IV](https://mobius.blog/25187.html) | 最后一部分，我想回到我的个人拙见，来聊聊创作者该负起哪些责任？ 创作者的责任是什么？ 这并不是一个公开标准：有 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-30 | [Memos: GG 卡 GG](https://blog.yasking.org/a/1785374656.html) | 昨天收到 giffgaff 的 “We’re disconnecting your service” 邮件。 尝试发了邮件申请退款，但估计 £9.39 余额退不回来。 （R.I.P：2026.4.21 - 2026-07-29） |
+| 2026-07-30 | [Memos: 苹果系统在它工作的时候会工作的很好](https://blog.yasking.org/a/1785317110.html) | 换苹果电脑迁移，之前我会在新电脑安装环境，古法手工进行配置，然后再手动将需要的配置、资料导出，避免旧系统很多垃 … |
 | 2026-07-30 | [Memos #2026-07-29](https://www.taober.blog/memos) | 09:19 我就说我怎么在用 gpt-8，原来是做梦。 妈的，又起晚了。 |
+| 2026-07-29 | [哈哈，转需🤣](https://versun.me/blog/tweet-2082608950378467713) | 哈哈，转需🤣 |
 | 2026-07-29 | [《亿高》注疏三：大空头](https://sinyalee.com/blog/?p=1254) | 本文是对《资产一个亿以下，不要娶高学历国女》一文的第三篇注解。 – 我写《亿高》的原因，就是要做空 […] |
+| 2026-07-29 | [这么快就能在mac上运行啦！不知道还能再](https://versun.me/blog/tweet-2082581352386531356) | 这么快就能在mac上运行啦！不知道还能再量化吗😂 |
+| 2026-07-29 | [Cursor、Claude、Codex深度体验、对比](https://elmagnifico.tech/2026/07/30/Agent-IDE-Compare/) | Foreword 最近把几个比较强的AI工具都试用了一下，对比一下 Cursor 我用的最多，也是相对比较传统的代码工具，理解和使用门槛都是以程序为基准的 Cursor默认套餐的上下文大小实在是太小了才260多K，别人都1M+，大需求很容易就跑过了，还好内置了压缩上下文和长期记忆等，上下文比较大的时… |
 | 2026-07-29 | [承认吧，你其实根本不爱看书](https://blog.solazy.me/20260729/) | 我不止一次的说自己不喜欢看书了 |
 | 2026-07-29 | [Lecture 2 Computational Stellar Astrophysics and Supernova Explosion Models](https://physnya.top/ss-yunnan/lecture-3-computational-stellar-astrophysics-and-supernova-explosion-models/) | Prof. Friedrich Röpke, from Heidelberg University Computational fluid dynamics 我们选择使用流体力学来进行模拟 —— 这件事有很多好处，比如它能够应用一些统计力学的基本规律，能够唯象解决部分问题，同时其采用的假设是「物质连… |
 | 2026-07-29 | [Album#44 - Brett Anderson](https://taxodium.ink/album-44.html) | Album#44 Brett Anderson 图1 《Brett Anderson》専輯封面 专辑信息 专辑名称： Brett Anderson 歌手： Brett Anderson 年份： 2007-03-26 时长： 38:26 在发达星期四的 Brett Anderson 的同名专辑也是你心… |
+| 2026-07-29 | [一个大佬从 claude 叛逃去 kim](https://versun.me/blog/tweet-2082445681621635527) | 一个大佬从 claude 叛逃去 kimi 了 下一个我猜是宝玉老师🤪 |
 | 2026-07-29 | [收购过气软件的Bending Spoons‌上市了，拥有Evernote、Eventbrite、AOL等](https://wenfeixiang.com/2026/07/bending-spoons-story/) | 7月份，对于投资 AI、半导体等热门行业的股票投资人而言，是一个煎熬的月份。持续的抛售和下跌，让我们从各个层面 […] |
 | 2026-07-29 | [Memos: 昨天发现 caffeinate -i 能避免休眠](https://blog.yasking.org/a/1785316249.html) | 偶尔我会连接手机热点让 AI 干活儿，macOS 不操作过一会儿就会进入睡眠，断掉 Wi-Fi 连接。为了避免这种情况我有几次都是手动 … |
 | 2026-07-29 | [Windows 的 HEVC 扩展收费跟苹果无关](https://yipai.me/post/2543.html) | 今天在某个群里看到这样的言论：不由得感慨苹果真冤啊。因为很多 HEIC 照片来自 iPhone，所以有些蠢人会把这笔钱理解成苹果的格式授权费。然而实际上，这个费用并不是苹果收的。HEIC 通常是使用 HEVC 压缩的 HEIF 图片。Windows 上的 HEIF 图像扩展负责识别文件结构，HEVC… |
 | 2026-07-29 | [2026-07 好物推荐](https://www.ghostchu.com/2026-07-%e5%a5%bd%e7%89%a9%e6%8e%a8%e8%8d%90/) | 博客建立了这么多年，好物分享板块一直没什么内容，那么从今天开始就试着更新一下这个长草的板块吧！ 本期没有任何商 […] 2026-07 好物推荐 最先出现在 Ghost_chu's Blog 。 |
+| 2026-07-29 | [我看网上很多是通过 PAC 转到中国电信](https://versun.me/blog/tweet-2082359997976207450) | 我看网上很多是通过 PAC 转到中国电信官方的 CTExcel 英国卡。但要注意啊，这个卡首次是需要在英国境内激活才可以用的 [tweet-2082359997976207450-10db8d09.png] |
 | 2026-07-29 | [来信 · 莫良](https://www.gtdstudy.com/guestbook/5c18fc62-248c-4191-8ce9-e99382aeaa21/) |  |
 | 2026-07-29 | [Zine#55 - 嘗試才是罕見的](https://taxodium.ink/55.html) | Zine#55 嘗試才是罕見的 當下沒有特別想分享的音樂，如果你想找點音樂聴，去聴聴 天使音乐 (Hint Notes) 吧。 我寫 Zine 的習慣是先在一周里收集各種連結(大部分都來自我訂閱的網站)，然後集中一個時間去处理。有的連結讀起來會比較花時間，有的我一時也不知道怎麼總結，以往我會把這樣的… |
 | 2026-07-29 | [国行三星 S10 登录 Google 账号卡在“请稍候”的解决方法](https://guchengf.me/blog/chinese-samsung-s10-pending-while-login-google-account/) | 最近折腾一台国行三星 SM-G9730（Galaxy S10） ，系统为官方最新版本。在 设置 → 账号 → 添加 Google 账号 时，输入账号密码后，系统提示需要验证身份，但点击 “下一步” 后一直停留在 “请稍候” 页面，无论等待多久都没有反应。 遇到的问题 具体表现如下： 可以正常输入 G… |
@@ -108,7 +131,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-25 | [Arcanum: Of Steamworks and Magick Obscura updated](https://macsourceports.com/game/arcanum) | The build of Arcanum Community Edition for Arcanum: Of Steamworks and Magick Obscura has been updated to the latest code of the project |
 | 2026-07-25 | [Unreal Tournament 2004 updated](https://macsourceports.com/game/unrealtournament2004) | The build of UT2004 for Unreal Tournament 2004 has been updated to version 3374-preview-23 of the project |
 | 2026-07-25 | [Old School RuneScape updated](https://macsourceports.com/game/runescape) | The build of RuneLite for Old School RuneScape has been updated to version 2.8.0 of the project |
-| 2026-07-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.63 of the project |
 | 2026-07-25 | [Quake updated](https://macsourceports.com/game/quake) | The build of DarkPlaces for Quake has been updated to the latest code of the project |
 | 2026-07-25 | [杨植麟的天才之劫——李丽丽的毒手和Kimi的重生](https://sinyalee.com/blog/?p=1267) | 现在中国最火的AI公司月之暗面的创始人杨植麟，他的计算机和AI研究道路差一点被汕头金中和前校长李丽丽摧毁。 李 […] |
 | 2026-07-25 | [新手汽车露营和观星踩坑实录](https://mok.moe/p/gn3x) | 老婆突然想看星星，我趁女儿生日临时决定去西涌，想顺便看日出、玩沙子。结果三脚架不合用，镜头起雾，手动充气床累得人汗流浃背，女儿却在床上蹦跶到半夜。停车场过夜被车灯和喧闹搅得几乎没睡，但一家人还是赶上了日出，也去沙滩玩了一会儿。虽然狼狈，但新手该踩的坑都踩了，也算攒下了一份下次再出发的底气 |
