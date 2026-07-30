@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-30 | [谁买得起专注？｜灵感电波 #132](https://www.linggandianbo.com/newsletter-132/) | 三篇文章，从阶层、个人和天才的视角重新理解注意力；另有苹果的本地 AI 赌注，以及手写为何仍值得保留。 |
 | 2026-07-30 | [学习周刊-总第274期-2026年第31周](https://wiki.eryajf.net/pages/7216a4/) | 如要阅读全文，点击标题跳转。 学习周刊-总第274期 &#124; nextclaw &#124; GHFS &#124; desktop-cc-gui &#124; nowen-video &#124; link-ai &#124; MacSift &#124; PureMac |
 | 2026-07-30 | [Six-Lens Poem Reading and the Story Behind It](https://victor42.eth.limo/post-en/poem-six-lens-skill/) | It Started with Nonsense A friend sent me this image, calling it an authentic Wu Daozi. I looked and looked and could not spot the forgery. It must be… |
 | 2026-07-30 | [六合读诗与幕后故事](https://victor42.eth.limo/post/poem-six-lens-skill/) | 从一段胡说八道开始 朋友发来这么一张图：说是吴道子的真迹，我左看右看也没看出哪里造假了，应该是真的。 我一看，回复道： 没毛病，他就是那个年代的人，他亲眼见到的。杜牧个后世人，YY个什么劲，还次第开，那门用得着开吗？就因为吴道子有点不知道哪来的广东口音，后世人凭什么不认。历史的悲哀。 玩笑归玩笑，既… |
