@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-30 | [博客一定要为读者负责吗？IV](https://mobius.blog/25187.html) | 最后一部分，我想回到我的个人拙见，来聊聊创作者该负起哪些责任？ 创作者的责任是什么？ 这并不是一个公开标准：有 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-30 | [Memos #2026-07-29](https://www.taober.blog/memos) | 09:19 我就说我怎么在用 gpt-8，原来是做梦。 妈的，又起晚了。 |
 | 2026-07-29 | [《亿高》注疏三：大空头](https://sinyalee.com/blog/?p=1254) | 本文是对《资产一个亿以下，不要娶高学历国女》一文的第三篇注解。 – 我写《亿高》的原因，就是要做空 […] |
 | 2026-07-29 | [承认吧，你其实根本不爱看书](https://blog.solazy.me/20260729/) | 我不止一次的说自己不喜欢看书了 |
 | 2026-07-29 | [Lecture 2 Computational Stellar Astrophysics and Supernova Explosion Models](https://physnya.top/ss-yunnan/lecture-3-computational-stellar-astrophysics-and-supernova-explosion-models/) | Prof. Friedrich Röpke, from Heidelberg University Computational fluid dynamics 我们选择使用流体力学来进行模拟 —— 这件事有很多好处，比如它能够应用一些统计力学的基本规律，能够唯象解决部分问题，同时其采用的假设是「物质连… |
@@ -57,7 +59,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-28 | [花了一早上，近十家 Kimi K3 服务](https://versun.me/blog/tweet-2081936768103051268) | 花了一早上，近十家 Kimi K3 服务商，套餐价格全比了个遍。 最后发现：价格实惠、能稳定放心用的，竟然还是官方订阅最香🤣 [tweet-2081936768103051268-497949af.png] |
 | 2026-07-28 | [博客一定要为读者负责吗？II](https://mobius.blog/25179.html) | 接着昨天的话题。 在公共空间输出观点时，是否需要避免自我心理分析？ 为了更好的背书，接下来要讨论的内容都有“书 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-28 | [才发现在 推特 上发布的文章，是无法通过](https://versun.me/blog/tweet-2081894893765673276) | 才发现在 推特 上发布的文章，是无法通过官方的 X API 获取到内容的，官方的归档也没有，都只是给你一个链接，好坑啊 所以不建议大家用 X 的文章写长文，因为你无法导出，只能手动复制粘贴 |
-| 2026-07-28 | [Memos #2026-07-27](https://www.taober.blog/memos) | 22:25 下班坐的士上逛着 B 站，刷到了陈奕迅历年的金曲舞台，听到《shall we talk》的时候，发现自己竟然每一句的停顿和旋律走向都还记得，这大概得感激自己高中的时候，用那个廉价的 mp3 去一遍遍地听这些歌。 突然很好奇，以前的我是怎么能沉下心来去做那些现在看来容易让人腻味的事。比如说… |
 | 2026-07-27 | [80张 5090s显卡，20 tok/s](https://versun.me/blog/tweet-2081883089425576358) | 80张 5090s显卡，20 tok/s 期待量化！ |
 | 2026-07-27 | [可惜啊，虽然上了 k3 ，但只能按量付费](https://versun.me/blog/tweet-2081880756339806426) | 可惜啊，虽然上了 k3 ，但只能按量付费使用，pro/max订阅不能用 看来 k3 部署成本确实贵呐 |
 | 2026-07-27 | [一句话能说清楚的事，非要写一篇长文。 给](https://versun.me/blog/tweet-2081873540236865714) | 一句话能说清楚的事，非要写一篇长文。 给大家总结下： Anthropic的意思是: 只有安全的模型才能开源，而哪个模型安全，只有我能定义 好了，散了吧，该干嘛干嘛去，别看热闹了 |
@@ -156,22 +157,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-23 | [Nginx 多层代理下大文件上传失败排查（MySQL max_allowed_packet 限制）](https://199604.com/3604) | Nginx 多层代理下大文件上传失败排查（MySQL maxallowedpacket 限制） 记录时间： […] |
 | 2026-07-23 | [AI 还原已故亲人，也制造精神病人？II](https://mobius.blog/25130.html) | 从向下兼容，到共构现实 在昨天一开始，留下了一个问题： 人们一开始能够意识到自己在跟人工智能对话，但在某一个节 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-23 | [做为一个曾经创业失败的人，想给那些折腾](https://versun.me/blog/tweet-2080090714340483073) | 做为一个曾经创业失败的人，想给那些折腾 OPC 的人一个建议： 各地方政策不一样，开公司前，一定一定一定要去了解下注销公司的流程和途径 |
-| 2026-07-22 | [研究人员让五个 AI 模型各自运行模拟社](https://versun.me/blog/tweet-2080080322159632723) | 研究人员让五个 AI 模型各自运行模拟社会，Claude 最守规矩、Grok 四天犯下 180 宗罪并灭绝🤣 Claude = Civilization Grok = GTA https://fortune.com/2026/05/28/ai-model-simulation-claude-chat… |
-| 2026-07-22 | [终于来了，等一这个功能等好久了](https://versun.me/blog/tweet-2080064657684062386) | 终于来了，等一这个功能等好久了 |
-| 2026-07-22 | [AMD Yes!](https://versun.me/blog/tweet-2080041791454388371) | AMD Yes! |
-| 2026-07-22 | [事情要一件一件来](https://blog.solazy.me/20260722/) | 今天又要说职场遇到的一件事儿了 |
-| 2026-07-22 | [Brain0：只做 AI 生成代码场景的可观测性工具太可惜](https://luweiqing.com/resources/Brain0.html) | https://github.com/Brain0-ai/brain0一款专为 AI 生成代码场景设计的代码决策追踪与治理工具，其核心定位是“AI 编写代码的黑盒”（The black box ... |
-| 2026-07-22 | [如果要在一个周末上线Vibe Coding产品，我会这样做](https://www.icebeer.top/%e5%a6%82%e6%9e%9c%e8%a6%81%e5%9c%a8%e4%b8%80%e4%b8%aa%e5%91%a8%e6%9c%ab%e4%b8%8a%e7%ba%bfvibe-coding%e4%ba%a7%e5%93%81%ef%bc%8c%e6%88%91%e4%bc%9a%e8%bf%99%e6%a0%b7%e5%81%9a/) | 本期邀请到了@莱纳德陈，一名在外资银行工作的产品经理。 他在纽约大学读完商业数据硕士，曾经做过说唱、打过橄榄球 […] 如果要在一个周末上线Vibe Coding产品，我会这样做 最先出现在 🍺 IceBeer 。 |
-| 2026-07-22 | [恭喜 GLM 5.2 正式成为守门员了🥳](https://versun.me/blog/tweet-2079901757430190391) | 恭喜 GLM 5.2 正式成为守门员了🥳🥳🥳 |
-| 2026-07-22 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人： 徐队，群昵称Shogun。姓徐，称徐队，真野人队长。 张队，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队，群昵称熊嘎婆，称熊队。“野人CLUB游泳事业部”群主。 亮队，群昵称亮什么，称亮队，野人官号 @重庆野人冬泳俱乐部 拥有者。 重要声明： “野人队”在加入“泳往直前”… |
-| 2026-07-22 | [反对狗奴与反对虐狗并不冲突](https://yipai.me/post/2541.html) | 网上关于狗的讨论很有意思。有人发帖反对虐狗，下面马上有人问：狗到处撒尿怎么办？狗咬人怎么办？人都照顾不过来，还照顾狗？我不明白这些问题跟虐狗有什么关系。狗乱撒尿，让主人清理；狗咬了人，让主人赔偿，该怎么处置就怎么处置；流浪狗太多，也可以捕捉、绝育和收容。反对把狗绑起来折磨，跟这些事情有任何冲突吗？好… |
-| 2026-07-22 | [2026.7.21](https://www.justzht.com/2026-7-21/) | 没什么特别值得说的事情，周末和朋友们跑了次山，下山后一起吃了个小的美式餐厅，然后在 Redwood City 的停车场楼顶拍 |
-| 2026-07-22 | [和一把电脑椅互动](https://www.hecaitou.com/2026/07/interaction-with-a-computer-chair.html) | 我有一把电脑椅，把人体工学那些神话暂且放在一边，它最大的优点是内藏一块电池，可以给腰部的气囊充放气。这样调节腰部支撑力的时候，简直就是无级变速，非常之妥帖，非常之好用。 但这不是今天的重点。即便气密性做得很好的气囊，它也在缓慢地漏气。当然，品质越好，泄漏速度也就越慢，越难以让人觉察。问题在于，我每天… |
-| 2026-07-22 | [AI 还原已故亲人，也制造精神病人？I](https://mobius.blog/25126.html) | 首先要叠个甲，不是说用 AI 来模拟已故亲人的人，最终都会得精神病。之所以要叠这个甲，你看下去就明白了。 前两 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-22 | [Jenkins Vue 前端流水线构建异常排查（pnpm 版本、husky、构建脚本拦截、OOM）](https://199604.com/3602) | Jenkins Vue 前端流水线构建异常排查（pnpm 版本、husky、构建脚本拦截、OOM） 记录时间： […] |
-| 2026-07-22 | [最近看大家用 Kimi K3 做了好多有](https://versun.me/blog/tweet-2079740290894872895) | 最近看大家用 Kimi K3 做了好多有意思的的东西，我也实在忍不住，给自己的女儿搓了一个太阳系科普模拟器 整个过程都是在 Kimi Chat 上进行的，提示词也非常简单： “做一个太阳系行星实时运动轨迹状态，每个星球按实际等比显示，且每个星球的材质根据实际情况制作，Claymorphism风格”… |
-| 2026-07-22 | [早上遇到个棘手问题，请教下推友们： 我有](https://versun.me/blog/tweet-2079720018577850756) | 早上遇到个棘手问题，请教下推友们： 我有一个早报定时任务，今早 AI 读到 Tibo 的这条推文时，由于没有上下文，AI 以为是提升用量到 10M 😆 对于这种情况大家有什么好的解决方案吗？总不能每条内容都去搜索核实吧😂 [tweet-2079720018577850756-00e35862.png… |
-| 2026-07-22 | [opencodex：让 Codex 和 Claude Code 跑在任意 LLM 上](https://youngxhui.top/2026/07/opencodex-third-party-models/) | opencodex 是一个本地代理，把 Codex 的 Responses API 翻译成任意 LLM provider 的协议。你可以在 Codex CLI、Codex App、SDK 里用 Claude、Gemini、DeepSeek、Grok、GLM、Qwen 甚至本地 Ollama 模型——… |
 
 ## Vibe Coding
 
