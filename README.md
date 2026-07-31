@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-31 | [川渝人在山东吃到没有辣味的麻辣香锅和红油水饺之后产生的哲学思考](https://www.geedea.pro/article/hot-is-not-spicy/) | 我没有什么乡愁，胃也是，就算不辣也有很多好吃的。只是那些听起来辣，看起来也辣的东西，吃起来竟然不辣，令我震惊，故作此文。 来济南的第一天，到了酒店之后还有些晕，毕竟刚下飞机就又在车上坐了接近一个小时，不想出门，于是选择点外卖。纠结过后，看上一家麻辣香锅，习惯性地点了微辣，打开饭盒品尝，没有辣味。第二… |
 | 2026-07-31 | [浑无斧凿痕Ⅱ——八大山人诞辰400周年特展](https://yovey.me/badashanren-memorial-ii/) | 八大山人特展 今年是八大山人诞辰400周年，八大山人纪念馆联合江西省博物馆，协同国内其他一些文博单位借调了不少 … Continue reading "浑无斧凿痕Ⅱ——八大山人诞辰400周年特展" |
 | 2026-07-31 | [向云端｜西南自驾04 - 南昌](https://blog.ops-coffee.com/r/2026-southwest-road-trip-04-nanchang.html) |  |
 | 2026-07-31 | [DBeaver WebDAV 备份插件](https://bmqy.net/2915.html) | 这是一个面向 DBeaver 24/25+ 的 Eclipse/OSGi 插件，用于将 DBeaver 项目、脚本和凭据备份到 HTTPS WebDAV 端点。 |
@@ -38,6 +39,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-31 | [2026.7.30](https://www.justzht.com/2026-7-30/) | 体检测血的结果出来了，体征都在可接受的范围内浮动，就是维生素 B 超标。医师总结一切都好，需要多晒太阳以 |
 | 2026-07-31 | [感谢 Kimi K3，让你们用上了便宜的](https://versun.me/blog/tweet-2082995962277196019) | 感谢 Kimi K3，让你们用上了便宜的 GPT🫡🫡 |
 | 2026-07-31 | [我突然发现，AI 时代的开发流程中，"重](https://versun.me/blog/tweet-2082984423889506813) | 我突然发现，AI 时代的开发流程中，"重构"已经悄然变成了固定环节 在以前，重构是能躲就躲，迫不得已才会选择的下下策 但现在不一样，AI 写代码虽然快，但性能一般，冗余又多，再加上人基本不会审查，所以随着模型能力的升级，顺手重构一遍，反而成了理所当然且必要的环节了 那么问题来了，如果我连测试用例都是… |
+| 2026-07-31 | [科技爱好者周刊（第 406 期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 深圳坪山区的坑梓文化科技中心，本身只是普通的三层楼房，但是设计师巧妙地为它加上三级拱廊，顿时让这个建筑变… |
+| 2026-07-31 | [博客字体的选择](https://blog.196000.xyz/2026/2026-07-31-develop-blog-design.html) | 一轮以「清晰」为目标的排版改版记录：字体栈的取舍、字号与密度、行宽、对比度，以及手机与桌面的处理。 |
 | 2026-07-30 | [谁买得起专注？｜灵感电波 #132](https://www.linggandianbo.com/newsletter-132/) | 三篇文章，从阶层、个人和天才的视角重新理解注意力；另有苹果的本地 AI 赌注，以及手写为何仍值得保留。 |
 | 2026-07-30 | [学习周刊-总第274期-2026年第31周](https://wiki.eryajf.net/pages/7216a4/) | 如要阅读全文，点击标题跳转。 学习周刊-总第274期 &#124; nextclaw &#124; GHFS &#124; desktop-cc-gui &#124; nowen-video &#124; link-ai &#124; MacSift &#124; PureMac |
 | 2026-07-30 | [Six-Lens Poem Reading and the Story Behind It](https://victor42.eth.limo/post-en/poem-six-lens-skill/) | It Started with Nonsense A friend sent me this image, calling it an authentic Wu Daozi. I looked and looked and could not spot the forgery. It must be… |
