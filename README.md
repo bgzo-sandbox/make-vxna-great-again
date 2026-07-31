@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-07-31 | [川渝人在山东吃到没有辣味的麻辣香锅和红油水饺之后产生的哲学思考](https://www.geedea.pro/article/hot-is-not-spicy/) | 我没有什么乡愁，胃也是，就算不辣也有很多好吃的。只是那些听起来辣，看起来也辣的东西，吃起来竟然不辣，令我震惊，故作此文。 来济南的第一天，到了酒店之后还有些晕，毕竟刚下飞机就又在车上坐了接近一个小时，不想出门，于是选择点外卖。纠结过后，看上一家麻辣香锅，习惯性地点了微辣，打开饭盒品尝，没有辣味。第二… |
+| 2026-07-31 | [久违的登台演讲](https://blog.solazy.me/20260731/) | 这是一场无观众的演讲 |
 | 2026-07-31 | [浑无斧凿痕Ⅱ——八大山人诞辰400周年特展](https://yovey.me/badashanren-memorial-ii/) | 八大山人特展 今年是八大山人诞辰400周年，八大山人纪念馆联合江西省博物馆，协同国内其他一些文博单位借调了不少 … Continue reading "浑无斧凿痕Ⅱ——八大山人诞辰400周年特展" |
 | 2026-07-31 | [向云端｜西南自驾04 - 南昌](https://blog.ops-coffee.com/r/2026-southwest-road-trip-04-nanchang.html) |  |
 | 2026-07-31 | [DBeaver WebDAV 备份插件](https://bmqy.net/2915.html) | 这是一个面向 DBeaver 24/25+ 的 Eclipse/OSGi 插件，用于将 DBeaver 项目、脚本和凭据备份到 HTTPS WebDAV 端点。 |
@@ -46,6 +47,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-30 | [Six-Lens Poem Reading and the Story Behind It](https://victor42.eth.limo/post-en/poem-six-lens-skill/) | It Started with Nonsense A friend sent me this image, calling it an authentic Wu Daozi. I looked and looked and could not spot the forgery. It must be… |
 | 2026-07-30 | [六合读诗与幕后故事](https://victor42.eth.limo/post/poem-six-lens-skill/) | 从一段胡说八道开始 朋友发来这么一张图：说是吴道子的真迹，我左看右看也没看出哪里造假了，应该是真的。 我一看，回复道： 没毛病，他就是那个年代的人，他亲眼见到的。杜牧个后世人，YY个什么劲，还次第开，那门用得着开吗？就因为吴道子有点不知道哪来的广东口音，后世人凭什么不认。历史的悲哀。 玩笑归玩笑，既… |
 | 2026-07-30 | [吹箫人](https://blog.zopiya.com/chui-xiao-ren-91eca469/) | 村东头住着一个吹箫人。 头一年，他只在自己屋里吹，窗子关得严严实实，一丝声音也漏不出去。吹到兴处，摇头晃脑，错了音也不恼，一曲吹罢，倒头便睡，一觉到天亮。 |
+| 2026-07-30 | [记：已经一个多月没去电影院](https://blog.solazy.me/20260730/) | 随笔记录一下没去电影院看电影的这段时间的自己 |
 | 2026-07-30 | [台风来临，如何准备好应急通信对讲机](https://blog.mfwt.top/index.php/archives/1479/) | 大约在一年前，台风桦加沙来的时候，笔者写文章介绍过当时所做的一些准备措施。受限于篇幅与时间安排原因，文末关于应急通信的几个准备，尤其是关于对讲机的，并没有讲述得太详尽。如今又到了台风季节，再加上... |
 | 2026-07-30 | [各位有什么适合 ADHD 患者的 tod](https://versun.me/blog/tweet-2082811154351653276) | 各位有什么适合 ADHD 患者的 todo 软件呀，我的滴答清单积压太多待办了😭 |
 | 2026-07-30 | [Lecture 4 Evolution, Explosion and Nucleosynthesis of Massive Stars](https://physnya.top/ss-yunnan/lecture-4-evolution-explosion-and-nucleosynthesis-of-massive-stars/) | Prof. Marco Limongi, from University of Tokyo 我们建立了 Stellar Model，这个历史上的模型仅仅是一维的，它包含了 L L L , P P P , T T T , ρ \rho ρ , 化学组分等等内容，用几个微分方程来尝试描述. 这个模型中所… |
