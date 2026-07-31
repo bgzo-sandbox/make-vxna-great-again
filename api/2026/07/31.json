@@ -1,10 +1,38 @@
 [
   {
+    "title": "向云端｜西南自驾04 - 南昌",
+    "url": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-04-nanchang.html",
+    "date": "2026-07-31T04:42:32Z",
+    "description": "",
+    "source_root_domain": "ops-coffee.cn"
+  },
+  {
+    "title": "DBeaver WebDAV 备份插件",
+    "url": "https://bmqy.net/2915.html",
+    "date": "2026-07-31T04:34:00Z",
+    "description": "这是一个面向 DBeaver 24/25+ 的 Eclipse/OSGi 插件，用于将 DBeaver 项目、脚本和凭据备份到 HTTPS WebDAV 端点。",
+    "source_root_domain": "bmqy.net"
+  },
+  {
+    "title": "快乐星期五",
+    "url": "https://www.hecaitou.com/2026/07/Happy-Friday.html",
+    "date": "2026-07-31T04:32:57Z",
+    "description": "最近一个多月来，周五是我最快乐的日子。因为这天我不用出门，保洁阿姨也不会上门，我可以整天待在家里，无事相扰，无人打搅。理论上来说，我也不需要早起，终于可以睡个懒觉，这意味着我可以在 8 点半之后才起身。 昨天我怀着放松欢喜的心情上床睡觉，整晚睡得很踏实。没有蚊子，没有噩梦，也没有被空调冻醒。然后早上 6 点 30 分，我突然苏醒，从此就再也无法入睡。 这就是为什么我每周五都感觉很快乐的原因。在过去的五个星期五，每一次我都可以睡到八点半，然后每一次我都在七点前苏醒，每一次醒后都无法重新入睡。本来我一直都心存一种担忧，担心会不会有一天我突然从一个梦境滑入另外一个梦境，从一个世界滑入另一个平行世界，因为现实和世界看上去每天都很癫，很破碎，而且还摇摇欲坠。 现在好了，每个周五早上六点多，我坐在床上看看表就可以立即确认：这还是原来的那个世界，该世界和原先一模一样，自己热切期待的事情就是不会真的发生，就是要和我拧着来，就是要让我的期待落空，还是熟悉的配方，还是熟悉的滋味。一想到这一点，我就觉得心里很快乐。 通过这些亲身经历，我还得出了一个猜测： 如果你在乎睡眠，那你就会失眠。如果你在乎毛发，那你就",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
     "title": "从又拍云搬家到七牛云",
     "url": "https://hzzio.top/blog/upyun-to-qiniu",
     "date": "2026-07-31T03:57:30Z",
     "description": "从又拍云搬家到七牛云",
     "source_root_domain": "hzz.cool"
+  },
+  {
+    "title": "Hugo 静态博客管理的姿势",
+    "url": "https://hux.ink/posts/blog-manage/",
+    "date": "2026-07-31T02:32:29Z",
+    "description": "2023 年年初开始瞎捣鼓这个 hugo博客 ，写文经历了四个阶段。 1.0原始时代 直接登录 GitHub 网页，在仓库里通过 Add file 新建文件、敲字、提交，最原始但也最直接。 2.0独立建库 用上了Obsidian，作为一个单独库， 在Obsidian中写Hugo博客发布 。 3.0融合统一 Obsidian 不将仓库单独管理了，直接在日常笔记库中合二为一， Obsidian 自动同步到 Hugo 。 4.0云端工作流 通过 Notion 管理，在 Notion 中建立专门的 Database，再通过 GitHub Actions 自动转换为 Markdown 存储到仓库指定目录。 最近下班后跟娃一起跳绳，加上开了 Apple Fitness+，多了一些碎片化的运动记录。我尝试把这些数据叠加到 悦动 页面，和跑步、骑行放在一起展示。然而，跑步和骑行能靠中转自动同步，没有轨迹的跳绳、HIIT、爬楼梯只能手动录入。 我的第一反应依然是路径依赖——继续用 Notion 管理！于是迅速建好了运动记录 Database，也顺利打通了 GitHub Actions。 但转念一想：万一",
+    "source_root_domain": "hux.ink"
   },
   {
     "title": "公司域名漏扫安全整改实录",
@@ -26,6 +54,20 @@
     "date": "2026-07-31T01:26:15Z",
     "description": "体检测血的结果出来了，体征都在可接受的范围内浮动，就是维生素 B 超标。医师总结一切都好，需要多晒太阳以",
     "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "感谢 Kimi K3，让你们用上了便宜的",
+    "url": "https://versun.me/blog/tweet-2082995962277196019",
+    "date": "2026-07-31T01:05:12Z",
+    "description": "感谢 Kimi K3，让你们用上了便宜的 GPT🫡🫡",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "我突然发现，AI 时代的开发流程中，\"重",
+    "url": "https://versun.me/blog/tweet-2082984423889506813",
+    "date": "2026-07-31T00:19:21Z",
+    "description": "我突然发现，AI 时代的开发流程中，\"重构\"已经悄然变成了固定环节 在以前，重构是能躲就躲，迫不得已才会选择的下下策 但现在不一样，AI 写代码虽然快，但性能一般，冗余又多，再加上人基本不会审查，所以随着模型能力的升级，顺手重构一遍，反而成了理所当然且必要的环节了 那么问题来了，如果我连测试用例都是 AI 写的，那怎么保证重构前后功能一致呢？",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "谁买得起专注？｜灵感电波 #132",
@@ -56,11 +98,25 @@
     "source_root_domain": "eth.limo"
   },
   {
+    "title": "吹箫人",
+    "url": "https://blog.zopiya.com/chui-xiao-ren-91eca469/",
+    "date": "2026-07-30T16:00:00Z",
+    "description": "村东头住着一个吹箫人。 头一年，他只在自己屋里吹，窗子关得严严实实，一丝声音也漏不出去。吹到兴处，摇头晃脑，错了音也不恼，一曲吹罢，倒头便睡，一觉到天亮。",
+    "source_root_domain": "7wate.com"
+  },
+  {
     "title": "台风来临，如何准备好应急通信对讲机",
     "url": "https://blog.mfwt.top/index.php/archives/1479/",
     "date": "2026-07-30T13:59:00Z",
     "description": "大约在一年前，台风桦加沙来的时候，笔者写文章介绍过当时所做的一些准备措施。受限于篇幅与时间安排原因，文末关于应急通信的几个准备，尤其是关于对讲机的，并没有讲述得太详尽。如今又到了台风季节，再加上...",
     "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "各位有什么适合 ADHD 患者的 tod",
+    "url": "https://versun.me/blog/tweet-2082811154351653276",
+    "date": "2026-07-30T12:50:50Z",
+    "description": "各位有什么适合 ADHD 患者的 todo 软件呀，我的滴答清单积压太多待办了😭",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "Lecture 4 Evolution, Explosion and Nucleosynthesis of Massive Stars",
@@ -77,6 +133,20 @@
     "source_root_domain": "tomyail.com"
   },
   {
+    "title": "你用了才知道，firecrawl 才是强",
+    "url": "https://versun.me/blog/tweet-2082764995927118124",
+    "date": "2026-07-30T09:47:25Z",
+    "description": "你用了才知道，firecrawl 才是强的没边 爬虫工具，看成功率，不看功能",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "没用过 raycast 的路过，一直用苹",
+    "url": "https://versun.me/blog/tweet-2082763861199933578",
+    "date": "2026-07-30T09:42:55Z",
+    "description": "没用过 raycast 的路过，一直用苹果默认的，我没那么多需求主要是",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "飞书并入豆包，文档是否减少？",
     "url": "https://blog.est.im/2026/stderr-26",
     "date": "2026-07-30T07:41:00Z",
@@ -89,6 +159,13 @@
     "date": "2026-07-30T07:30:00Z",
     "description": "在收到 GG 卡清退邮件、彻底无法发送短信之前，选择一两个喜欢的项目奉献爱心 ❤️ 推荐 公益项目英文名 公益项目中文名 公 …",
     "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "猫片出品，必属精品，下面竟然还有片场视频",
+    "url": "https://versun.me/blog/tweet-2082698394523562409",
+    "date": "2026-07-30T05:22:46Z",
+    "description": "猫片出品，必属精品，下面竟然还有片场视频，感动哭了",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "Zuma updated",
@@ -180,6 +257,13 @@
     "date": "2026-07-30T03:35:41Z",
     "description": "说实话，就算新闻今天说真正的人工智能已经出现，在人类的历史上，第一次由人创造出新的硅基智慧生命，人类从造物上升为造物主---我也只会拉起被子，掩护身子不要让空调凉风吹到，然后翻身接着去睡。 因为我实在是感觉到倦了。AI 本身没有什么问题，网上讨论 AI 的方式有问题，甚至是那种讨论时的情绪有大问题。每天都是「惊爆」，每天都是「炸裂」，每天都是「翻天覆地」，每天都是「不知道就完了」，每天都要「开始了新的一天」，有些时候还不止一次，感觉这一天可能是个天秤座，对于如何开始始终犹豫不决，于是开完又不断重开。 另外一方面，AI 领域的论文也越来越难了。以前凭着我的大学理科底子，还能连猜带蒙看几页，胡乱揣测一下论文到底是在说什么。现在就算是我把论文扔给 AI，让它用「老百姓能听懂的大白话，不废话，不兜圈子，深入浅出给我讲明白」，我还是看不懂。有时候我甚至都怀疑，再过半年一年，AI 读完论文之后只会颔首微笑，然后对我说：跟你讲了你也听不懂。 最后一方面，有点羞于启齿。一旦直接讲出来，很像是在攻击他人。那这样吧，我说我自己好了：AI 发展到今天，AI 能力拓展到今天，使用了无数个模型，在各家的各个版本",
     "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "github 上好烦这些狗皮膏药啊，有什",
+    "url": "https://versun.me/blog/tweet-2082662795175440696",
+    "date": "2026-07-30T03:01:19Z",
+    "description": "github 上好烦这些狗皮膏药啊，有什么好办法吗 [tweet-2082662795175440696-5f64b450.png]",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "Windows 下 Codex Cli 更新报 Move-Item is denied 错误的解决",

@@ -27,19 +27,30 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-31 | [向云端｜西南自驾04 - 南昌](https://blog.ops-coffee.com/r/2026-southwest-road-trip-04-nanchang.html) |  |
+| 2026-07-31 | [DBeaver WebDAV 备份插件](https://bmqy.net/2915.html) | 这是一个面向 DBeaver 24/25+ 的 Eclipse/OSGi 插件，用于将 DBeaver 项目、脚本和凭据备份到 HTTPS WebDAV 端点。 |
+| 2026-07-31 | [快乐星期五](https://www.hecaitou.com/2026/07/Happy-Friday.html) | 最近一个多月来，周五是我最快乐的日子。因为这天我不用出门，保洁阿姨也不会上门，我可以整天待在家里，无事相扰，无人打搅。理论上来说，我也不需要早起，终于可以睡个懒觉，这意味着我可以在 8 点半之后才起身。 昨天我怀着放松欢喜的心情上床睡觉，整晚睡得很踏实。没有蚊子，没有噩梦，也没有被空调冻醒。然后早上… |
 | 2026-07-31 | [从又拍云搬家到七牛云](https://hzzio.top/blog/upyun-to-qiniu) | 从又拍云搬家到七牛云 |
+| 2026-07-31 | [Hugo 静态博客管理的姿势](https://hux.ink/posts/blog-manage/) | 2023 年年初开始瞎捣鼓这个 hugo博客 ，写文经历了四个阶段。 1.0原始时代 直接登录 GitHub 网页，在仓库里通过 Add file 新建文件、敲字、提交，最原始但也最直接。 2.0独立建库 用上了Obsidian，作为一个单独库， 在Obsidian中写Hugo博客发布 。 3.0融… |
 | 2026-07-31 | [公司域名漏扫安全整改实录](https://199604.com/3615) | 公司域名漏扫安全整改实录 记录时间:2026-07-30(前一日 + 当日) 环境:生产 nginx 反向代理 […] |
 | 2026-07-31 | [该不该让 AI 参与写作？](https://mobius.blog/25236.html) | 这应该是《博客就一定要为读者负责吗？》的番外篇，事情发生在前几天：一位朋友在博客里聊到了我，并用了一个非常形象 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-31 | [2026.7.30](https://www.justzht.com/2026-7-30/) | 体检测血的结果出来了，体征都在可接受的范围内浮动，就是维生素 B 超标。医师总结一切都好，需要多晒太阳以 |
+| 2026-07-31 | [感谢 Kimi K3，让你们用上了便宜的](https://versun.me/blog/tweet-2082995962277196019) | 感谢 Kimi K3，让你们用上了便宜的 GPT🫡🫡 |
+| 2026-07-31 | [我突然发现，AI 时代的开发流程中，"重](https://versun.me/blog/tweet-2082984423889506813) | 我突然发现，AI 时代的开发流程中，"重构"已经悄然变成了固定环节 在以前，重构是能躲就躲，迫不得已才会选择的下下策 但现在不一样，AI 写代码虽然快，但性能一般，冗余又多，再加上人基本不会审查，所以随着模型能力的升级，顺手重构一遍，反而成了理所当然且必要的环节了 那么问题来了，如果我连测试用例都是… |
 | 2026-07-30 | [谁买得起专注？｜灵感电波 #132](https://www.linggandianbo.com/newsletter-132/) | 三篇文章，从阶层、个人和天才的视角重新理解注意力；另有苹果的本地 AI 赌注，以及手写为何仍值得保留。 |
 | 2026-07-30 | [学习周刊-总第274期-2026年第31周](https://wiki.eryajf.net/pages/7216a4/) | 如要阅读全文，点击标题跳转。 学习周刊-总第274期 &#124; nextclaw &#124; GHFS &#124; desktop-cc-gui &#124; nowen-video &#124; link-ai &#124; MacSift &#124; PureMac |
 | 2026-07-30 | [Six-Lens Poem Reading and the Story Behind It](https://victor42.eth.limo/post-en/poem-six-lens-skill/) | It Started with Nonsense A friend sent me this image, calling it an authentic Wu Daozi. I looked and looked and could not spot the forgery. It must be… |
 | 2026-07-30 | [六合读诗与幕后故事](https://victor42.eth.limo/post/poem-six-lens-skill/) | 从一段胡说八道开始 朋友发来这么一张图：说是吴道子的真迹，我左看右看也没看出哪里造假了，应该是真的。 我一看，回复道： 没毛病，他就是那个年代的人，他亲眼见到的。杜牧个后世人，YY个什么劲，还次第开，那门用得着开吗？就因为吴道子有点不知道哪来的广东口音，后世人凭什么不认。历史的悲哀。 玩笑归玩笑，既… |
+| 2026-07-30 | [吹箫人](https://blog.zopiya.com/chui-xiao-ren-91eca469/) | 村东头住着一个吹箫人。 头一年，他只在自己屋里吹，窗子关得严严实实，一丝声音也漏不出去。吹到兴处，摇头晃脑，错了音也不恼，一曲吹罢，倒头便睡，一觉到天亮。 |
 | 2026-07-30 | [台风来临，如何准备好应急通信对讲机](https://blog.mfwt.top/index.php/archives/1479/) | 大约在一年前，台风桦加沙来的时候，笔者写文章介绍过当时所做的一些准备措施。受限于篇幅与时间安排原因，文末关于应急通信的几个准备，尤其是关于对讲机的，并没有讲述得太详尽。如今又到了台风季节，再加上... |
+| 2026-07-30 | [各位有什么适合 ADHD 患者的 tod](https://versun.me/blog/tweet-2082811154351653276) | 各位有什么适合 ADHD 患者的 todo 软件呀，我的滴答清单积压太多待办了😭 |
 | 2026-07-30 | [Lecture 4 Evolution, Explosion and Nucleosynthesis of Massive Stars](https://physnya.top/ss-yunnan/lecture-4-evolution-explosion-and-nucleosynthesis-of-massive-stars/) | Prof. Marco Limongi, from University of Tokyo 我们建立了 Stellar Model，这个历史上的模型仅仅是一维的，它包含了 L L L , P P P , T T T , ρ \rho ρ , 化学组分等等内容，用几个微分方程来尝试描述. 这个模型中所… |
 | 2026-07-30 | [我把积灰的 MacBook Pro 2019 改成了无限额度 Xcode CI Runner](https://blog.tomyail.com/macbook-pro-2019-unlimited-xcode-ci-runner/) | 把闲置的 2019 Intel MacBook Pro 改成合盖常驻的 Gitea Actions / Xcode CI Runner：防睡眠、本地网络权限、Universal Xcode、Fastlane 上传 TestFlight，以及单机 Runner 的真实代价。 |
+| 2026-07-30 | [你用了才知道，firecrawl 才是强](https://versun.me/blog/tweet-2082764995927118124) | 你用了才知道，firecrawl 才是强的没边 爬虫工具，看成功率，不看功能 |
+| 2026-07-30 | [没用过 raycast 的路过，一直用苹](https://versun.me/blog/tweet-2082763861199933578) | 没用过 raycast 的路过，一直用苹果默认的，我没那么多需求主要是 |
 | 2026-07-30 | [飞书并入豆包，文档是否减少？](https://blog.est.im/2026/stderr-26) | 飞书并入豆包 7月30日，字节跳动发布内部邮件，宣布飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的ToB GTM组织“创造力服务平台（Creativity S… |
 | 2026-07-30 | [Memos: 终章之为 GG 卡选择一个慈善 PLAN](https://blog.yasking.org/a/1785396612) | 在收到 GG 卡清退邮件、彻底无法发送短信之前，选择一两个喜欢的项目奉献爱心 ❤️ 推荐 公益项目英文名 公益项目中文名 公 … |
+| 2026-07-30 | [猫片出品，必属精品，下面竟然还有片场视频](https://versun.me/blog/tweet-2082698394523562409) | 猫片出品，必属精品，下面竟然还有片场视频，感动哭了 |
 | 2026-07-30 | [Zuma updated](https://macsourceports.com/game/zuma) | The build of Zuma Portable for Zuma has been updated to version 0.7 of the project |
 | 2026-07-30 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.67 of the project |
 | 2026-07-30 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.0 of the project |
@@ -53,6 +64,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-30 | [Zork II: The Wizard of Frobozz updated](https://macsourceports.com/game/zork2) | The build of Splatterlight for Zork II: The Wizard of Frobozz has been updated to version v1.5.2 of the project |
 | 2026-07-30 | [Zork III: The Dungeon Master updated](https://macsourceports.com/game/zork3) | The build of Splatterlight for Zork III: The Dungeon Master has been updated to version v1.5.2 of the project |
 | 2026-07-30 | [我已AI倦怠](https://www.hecaitou.com/2026/07/Just-Exhausted-by-AI.html) | 说实话，就算新闻今天说真正的人工智能已经出现，在人类的历史上，第一次由人创造出新的硅基智慧生命，人类从造物上升为造物主---我也只会拉起被子，掩护身子不要让空调凉风吹到，然后翻身接着去睡。 因为我实在是感觉到倦了。AI 本身没有什么问题，网上讨论 AI 的方式有问题，甚至是那种讨论时的情绪有大问题。… |
+| 2026-07-30 | [github 上好烦这些狗皮膏药啊，有什](https://versun.me/blog/tweet-2082662795175440696) | github 上好烦这些狗皮膏药啊，有什么好办法吗 [tweet-2082662795175440696-5f64b450.png] |
 | 2026-07-30 | [Windows 下 Codex Cli 更新报 Move-Item is denied 错误的解决](https://liudon.com/posts/windows-codex-update-failed/) | 记录 Windows 下 Codex Cli 更新报 Move-Item is denied 错误的解决过程，最终定位是杀毒软件防护的原因导致。 |
 | 2026-07-30 | [Caddy 转发 GOST 报 TLS internal error 问题的排查与解决](https://liudon.com/posts/caddy-forward-gost-tls-internal-error/) | 记录 GOST 客户端通过 Caddy 转发访问 GOST 服务端时出现 TLS internal error 的排查过程，最终定位为客户端通过 IP 连接时未发送 SNI，并使用域名配合 ip 参数解决。 |
 | 2026-07-30 | [K8s Deployment 名过长致 Pod 名截断与日志目录代际标识丢失排查](https://199604.com/3613) | K8s Deployment 名过长致 Pod 名截断与日志目录代际标识丢失排查 记录时间：2026-07-2 […] |
