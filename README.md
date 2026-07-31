@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-31 | [从又拍云搬家到七牛云](https://hzzio.top/blog/upyun-to-qiniu) | 从又拍云搬家到七牛云 |
+| 2026-07-31 | [公司域名漏扫安全整改实录](https://199604.com/3615) | 公司域名漏扫安全整改实录 记录时间:2026-07-30(前一日 + 当日) 环境:生产 nginx 反向代理 […] |
+| 2026-07-31 | [该不该让 AI 参与写作？](https://mobius.blog/25236.html) | 这应该是《博客就一定要为读者负责吗？》的番外篇，事情发生在前几天：一位朋友在博客里聊到了我，并用了一个非常形象 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-07-31 | [2026.7.30](https://www.justzht.com/2026-7-30/) | 体检测血的结果出来了，体征都在可接受的范围内浮动，就是维生素 B 超标。医师总结一切都好，需要多晒太阳以 |
 | 2026-07-30 | [谁买得起专注？｜灵感电波 #132](https://www.linggandianbo.com/newsletter-132/) | 三篇文章，从阶层、个人和天才的视角重新理解注意力；另有苹果的本地 AI 赌注，以及手写为何仍值得保留。 |
 | 2026-07-30 | [学习周刊-总第274期-2026年第31周](https://wiki.eryajf.net/pages/7216a4/) | 如要阅读全文，点击标题跳转。 学习周刊-总第274期 &#124; nextclaw &#124; GHFS &#124; desktop-cc-gui &#124; nowen-video &#124; link-ai &#124; MacSift &#124; PureMac |
 | 2026-07-30 | [Six-Lens Poem Reading and the Story Behind It](https://victor42.eth.limo/post-en/poem-six-lens-skill/) | It Started with Nonsense A friend sent me this image, calling it an authentic Wu Daozi. I looked and looked and could not spot the forgery. It must be… |
@@ -180,20 +184,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-24 | [为了反对而反对的人，如何反对为了反对而反对他们的人？](https://mobius.blog/25145.html) | 继续，本着越不正经的标题聊越正经的事儿。 昨天的内容里，留下了一个很值得聊下去的“彩蛋”： ……我甚至认为大语 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-24 | [Memos: 反 客 为 主](https://blog.yasking.org/a/1784854406.html) | 下载原图: Download |
 | 2026-07-24 | [科技爱好者周刊（第 405 期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 西安大明宫遗址，使用亚克力透明板绘制古代建筑，让游客在原址体验当年的场景。（ via ） 资源，社会公平… |
-| 2026-07-23 | [让命运是命运，让我是我](https://www.linggandianbo.com/newsletter-131/) | 从基因检测、医美脸和失控产品，到“内容创作者”与“白眼狼”｜灵感电波 #131 |
-| 2026-07-23 | [学习周刊-总第273期-2026年第30周](https://wiki.eryajf.net/pages/8085fe/) | 如要阅读全文，点击标题跳转。 学习周刊-总第273期 &#124; http-stat-rs &#124; lite-edit &#124; nezha &#124; superhq &#124; holaOS &#124; SuperCmd &#124; llm_wiki |
-| 2026-07-23 | [本地部署大模型的意义](https://ahdw.casacam.net/2026/07/23/%e6%9c%ac%e5%9c%b0%e9%83%a8%e7%bd%b2%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%9a%84%e6%84%8f%e4%b9%89/) | 我看到不少人很好奇，本地部署大模型到底有什么意义。 他们说光买显卡都要不少钱，用这钱买 API Credits […] |
-| 2026-07-23 | [日本小学语文课文（二年级下）](https://springwood.me/jp-elementary-school-language-2b/) | （摘要）从二年级下册开始，课文里出现了高级语法（JLPT N1级别），以及方言。 |
-| 2026-07-23 | [Memos: 形 同 虚 设](https://blog.yasking.org/a/1784806163.html) | 下载原图: Download |
-| 2026-07-23 | [换灯](https://honmaple.me/posts/2026/07/change-light-bulb/) | 我发现我现在不仅是提笔忘字，似乎还有着非常严重的拖延症。 卫生间的灯已经坏了很久了，也许一周，也许两周，具体的时间已经记不清了。从刚坏的那个晚上开始，我就一直念叨着一定买一个新的，一定买一个新的，就这么念着念着，不知不觉就过了这么久，时间真是如流水，转瞬即逝。 其实也并不是我要拖延，在第二天我就想着… |
-| 2026-07-23 | [我发现，那些黄推和 bot 都特喜欢在包](https://versun.me/blog/tweet-2080239216710254863) | 我发现，那些黄推和 bot 都特喜欢在包含"恭喜"的推文下面留言，不信你试一试 |
-| 2026-07-23 | [讲个搞笑的事，这周接了某个大厂的商单，要](https://versun.me/blog/tweet-2080237580797526327) | 讲个搞笑的事，这周接了某个大厂的商单，要我用它家的模型做个东西吹一下，但由于模型太垃圾，我 vibe 了3天，连滚带爬的改，也做不出啥好东西了。 最后，我拿 kimi k3 做了个，伪装成它家模型，昧着良心吹了😆 |
-| 2026-07-23 | [iosevka字体让中文 ASCII diagram 图表对齐](https://blog.est.im/2026/stdout-30) | 对齐前： ┌──────────────┐ ┌──────────────┐ │ 用户请求 │────▶ │ 网关服务 │ │ User Req │ │ Gateway │ └──────┬───────┘ └──────┬───────┘ │ │ ▼ ▼ ┌──────────────┐ ┌───… |
-| 2026-07-23 | [288、大暑](https://1900.live/288-da-shu/) | 滴水观音也裹起叶片避暑 蝉声已烈，热浪如熔，天地在沸腾与锻造之间，拉满了一张无形的烈火之弓。 太阳行至黄经120°，大暑——夏之第六序，亦为夏之绝唱。 骄阳似火，万物如煮。腐草在溽热中化萤，点亮暗夜的长空；土润生溽，大地的每一寸肌肤都在蒸腾着湿热的气息；大雨时行，雷暴如倒悬之海，砸向滚烫的路面，激起… |
-| 2026-07-23 | [心踩西瓜皮](https://www.hecaitou.com/2026/07/Mind-on-a-Watermelon-Peel.html) | 有读者问我，当我描述一个人内心的想法时用了「脚踩西瓜皮」这个形容，应该作何解？ 它其实是一句歇后语，其完整形式是：脚踩西瓜皮---滑到哪里算哪里。意思是不管不顾，凭着本能、运气或者习惯行事，也不去理会结果如何。类似的俗语还有破罐破摔，但脚踩西瓜皮强调了快速、随性的那一面，并没有任何决然的意味，也没有… |
-| 2026-07-23 | [Nginx 多层代理下大文件上传失败排查（MySQL max_allowed_packet 限制）](https://199604.com/3604) | Nginx 多层代理下大文件上传失败排查（MySQL maxallowedpacket 限制） 记录时间： […] |
-| 2026-07-23 | [AI 还原已故亲人，也制造精神病人？II](https://mobius.blog/25130.html) | 从向下兼容，到共构现实 在昨天一开始，留下了一个问题： 人们一开始能够意识到自己在跟人工智能对话，但在某一个节 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-23 | [做为一个曾经创业失败的人，想给那些折腾](https://versun.me/blog/tweet-2080090714340483073) | 做为一个曾经创业失败的人，想给那些折腾 OPC 的人一个建议： 各地方政策不一样，开公司前，一定一定一定要去了解下注销公司的流程和途径 |
 
 ## Vibe Coding
 
