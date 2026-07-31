@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-07-31T10:43:20Z
-modified: 2026-07-31T10:43:20Z
+created: 2026-07-31T14:07:14Z
+modified: 2026-07-31T14:07:14Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,11 +11,11 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-07-31T10:43:20Z
+Generated at: 2026-07-31T14:07:14Z
 
 Total sources: 485
-Successful: 364
-Failed: 121
+Successful: 365
+Failed: 120
 
 | Status | Source | Feed | Origin | Articles | Error |
 | --- | --- | --- | --- | ---: | --- |
@@ -72,7 +72,7 @@ Failed: 121
 | Failed | [#301] V2EX › 飞刀博客 | [https://www.feidaoboke.com/feed.php](https://www.feidaoboke.com/feed.php) | [Origin](https://www.v2ex.com/xna/s/301) | 0 | timed out |
 | Failed | [#305] V2EX › 奶昔博客 | [https://blog.naixi.net/feed/](https://blog.naixi.net/feed/) | [Origin](https://www.v2ex.com/xna/s/305) | 0 | Client error '403 Forbidden' for url 'https://blog.naixi.net/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#306] V2EX › Mumulhl | [https://mumulhl.eu.org/index.xml](https://mumulhl.eu.org/index.xml) | [Origin](https://www.v2ex.com/xna/s/306) | 0 | Client error '403 Forbidden' for url 'https://mumulhl.eu.org/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
-| Failed | [#314] V2EX › 韭菜生活 | [https://blog.chives.life/feed.xml](https://blog.chives.life/feed.xml) | [Origin](https://www.v2ex.com/xna/s/314) | 0 | feed parse error |
+| Failed | [#314] V2EX › 韭菜生活 | [https://blog.chives.life/feed.xml](https://blog.chives.life/feed.xml) | [Origin](https://www.v2ex.com/xna/s/314) | 0 | timed out |
 | Failed | [#319] V2EX › Jack's Blog | [https://www.dragonballsoft.cn/feed](https://www.dragonballsoft.cn/feed) | [Origin](https://www.v2ex.com/xna/s/319) | 0 | Client error '403 Forbidden' for url 'https://www.dragonballsoft.cn/feed' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#326] V2EX › 面向屏幕编程 | [https://gqwm.com/rss.xml](https://gqwm.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/326) | 0 | [Errno -5] No address associated with hostname |
 | Failed | [#328] V2EX › AabyssZG | [https://blog.zgsec.cn/feed/](https://blog.zgsec.cn/feed/) | [Origin](https://www.v2ex.com/xna/s/328) | 0 | feed parse error |
@@ -106,7 +106,6 @@ Failed: 121
 | Failed | [#440] V2EX › Jackson's Blog | [https://blog.jaxwang28.top/index.xml](https://blog.jaxwang28.top/index.xml) | [Origin](https://www.v2ex.com/xna/s/440) | 0 | [Errno -2] Name or service not known |
 | Failed | [#441] V2EX › 酷酷的白 | [https://bducds.com/feed/](https://bducds.com/feed/) | [Origin](https://www.v2ex.com/xna/s/441) | 0 | Client error '403 Forbidden' for url 'https://bducds.com/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#446] V2EX › Luozx | [https://luozx.org/index.xml](https://luozx.org/index.xml) | [Origin](https://www.v2ex.com/xna/s/446) | 0 | Client error '403 Forbidden' for url 'https://luozx.org/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
-| Failed | [#449] V2EX › Bluepikachu | [https://bluepika.life/rss.xml](https://bluepika.life/rss.xml) | [Origin](https://www.v2ex.com/xna/s/449) | 0 | _ssl.c:1064: The handshake operation timed out |
 | Failed | [#453] V2EX › 上岸的鱼 | [https://blog.7caifei.com/atom.xml](https://blog.7caifei.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/453) | 0 | Client error '403 Forbidden' for url 'https://blog.7caifei.com/atom.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#457] V2EX › Efan404 | [https://efan404.com/index.xml](https://efan404.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/457) | 0 | Client error '403 Forbidden' for url 'https://efan404.com/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#460] V2EX › Xiaojun Zhou | [https://www.xiaojun.im/feed](https://www.xiaojun.im/feed) | [Origin](https://www.v2ex.com/xna/s/460) | 0 | [Errno -2] Name or service not known |
@@ -388,6 +387,7 @@ Failed: 121
 | Success | [#444] V2EX › 我与我周旋久 | [https://write.laily.net/zh-cn/index.xml](https://write.laily.net/zh-cn/index.xml) | [Origin](https://www.v2ex.com/xna/s/444) | 20 | - |
 | Success | [#445] V2EX › Lumos's Blog | [https://lomus.cc/feed](https://lomus.cc/feed) | [Origin](https://www.v2ex.com/xna/s/445) | 10 | - |
 | Success | [#447] V2EX › 神仙鱼不吃鱼鱼 | [https://blog.sakoamc.com/atom.xml](https://blog.sakoamc.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/447) | 106 | - |
+| Success | [#449] V2EX › Bluepikachu | [https://bluepika.life/rss.xml](https://bluepika.life/rss.xml) | [Origin](https://www.v2ex.com/xna/s/449) | 116 | - |
 | Success | [#44] V2EX › 天地一沙鸥 | [https://haoluobo.com/feed/](https://haoluobo.com/feed/) | [Origin](https://www.v2ex.com/xna/s/44) | 10 | - |
 | Success | [#450] V2EX › 醒石 | [https://leonscave.com/index.xml](https://leonscave.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/450) | 20 | - |
 | Success | [#451] V2EX › So!azy | [https://blog.solazy.me/feed/](https://blog.solazy.me/feed/) | [Origin](https://www.v2ex.com/xna/s/451) | 10 | - |

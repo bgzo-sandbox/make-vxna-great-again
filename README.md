@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-07-31 | [浑无斧凿痕Ⅱ——八大山人诞辰400周年特展](https://yovey.me/badashanren-memorial-ii/) | 八大山人特展 今年是八大山人诞辰400周年，八大山人纪念馆联合江西省博物馆，协同国内其他一些文博单位借调了不少 … Continue reading "浑无斧凿痕Ⅱ——八大山人诞辰400周年特展" |
 | 2026-07-31 | [向云端｜西南自驾04 - 南昌](https://blog.ops-coffee.com/r/2026-southwest-road-trip-04-nanchang.html) |  |
 | 2026-07-31 | [DBeaver WebDAV 备份插件](https://bmqy.net/2915.html) | 这是一个面向 DBeaver 24/25+ 的 Eclipse/OSGi 插件，用于将 DBeaver 项目、脚本和凭据备份到 HTTPS WebDAV 端点。 |
 | 2026-07-31 | [快乐星期五](https://www.hecaitou.com/2026/07/Happy-Friday.html) | 最近一个多月来，周五是我最快乐的日子。因为这天我不用出门，保洁阿姨也不会上门，我可以整天待在家里，无事相扰，无人打搅。理论上来说，我也不需要早起，终于可以睡个懒觉，这意味着我可以在 8 点半之后才起身。 昨天我怀着放松欢喜的心情上床睡觉，整晚睡得很踏实。没有蚊子，没有噩梦，也没有被空调冻醒。然后早上… |
