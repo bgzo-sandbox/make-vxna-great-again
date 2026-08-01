@@ -27,8 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
-| 2026-08-01 | [为什么我讨厌王虹（注释版）](https://sinyalee.com/blog/?p=1309) | 之前写了《为什么我讨厌王虹》（简称《李厌虹》）。可惜很多人看不懂。我还是犯了一个经常会犯的错误：假设和读者之间 […] |
+| 2026-08-01 | [为什么我讨厌王虹（注释版）](https://sinyalee.com/blog/?p=1309) | 之前写了《为什么我讨厌王虹》（简称《李厌虹》）。可惜很多人看不懂。我还是犯了一个我经常会犯的错误：假设我和读者 […] |
 | 2026-08-01 | [Token 定价权与 AI 经济新秩序：中美博弈、C 端心智与金融化未来](https://luweiqing.com/gossip/Token-Pricing-Power-and-the-New-Order-of-the-AI-Economy.html) | 摘要在人工智能向纵深发展的当下，Token（词元）已从技术计量单位，全面演变为智能时代的“千瓦时”与“桶油”。工信部及相关研究机构指出，Token 定价正由单一成本驱动，转向“成本约束 + 智能... |
+| 2026-08-01 | [向云端｜西南自驾05 - 长沙](https://blog.ops-coffee.com/r/2026-southwest-road-trip-05-changsha.html) |  |
 | 2026-08-01 | [每个人心中都有……](https://mobius.blog/25246.html) | 不是一座断背山，而是一位 Nikki。 很久没有写过影评了，是因为确实没有遇到好电影。不过这两天看了《痴迷》后 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-01 | [TongWeb 应用日志落盘与 JVM 堆配置优化笔记](https://199604.com/3618) | TongWeb 应用日志落盘与 JVM 堆配置优化笔记 记录时间：2026-07-30 环境：K8s（dev […] |
 | 2026-08-01 | [我发现，被封的2个号都是邀请赠金开的卡，](https://versun.me/blog/tweet-2083371698062348648) | 我发现，被封的2个号都是邀请赠金开的卡，我还有一个正常充值激活的，还没有被封 |
