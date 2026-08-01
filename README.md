@@ -34,6 +34,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-01 | [TongWeb 应用日志落盘与 JVM 堆配置优化笔记](https://199604.com/3618) | TongWeb 应用日志落盘与 JVM 堆配置优化笔记 记录时间：2026-07-30 环境：K8s（dev […] |
 | 2026-08-01 | [我发现，被封的2个号都是邀请赠金开的卡，](https://versun.me/blog/tweet-2083371698062348648) | 我发现，被封的2个号都是邀请赠金开的卡，我还有一个正常充值激活的，还没有被封 |
 | 2026-08-01 | [kimi code 和 pi 性能好，省](https://versun.me/blog/tweet-2083363624803033225) | kimi code 和 pi 性能好，省 token 我还能理解，万万没想到 hermes 竟然也能排到前3 看来以后我只需要一个 hermes 就够了😏😏 |
+| 2026-08-01 | [Vibe coding 项目：影响因子和分区查询 API](https://blog.zzbd.org/jcr-if-fenqu2/) | AI 纪元，灵光一现，即刻就能动手实现 📌缘起 目标很简单：通过 URL 一键直达，查询学术杂志的影响因子、分区等信息。之前常用的 medreading 需要微信登录才能看，ablesci 倒是免登录，但如果想实现一些插件脚本之类的就不方便了。另外，偶尔还有查询期刊名缩写的需求。 |
 | 2026-08-01 | [给 Claude 中转站验明正身：签名里的模型身份](https://roy.wang/claude-channel-verification/) | 用中转站的 Claude，价格是真便宜，渠道也多得眼花缭乱，但有个问题一直绕不开：我花的钱，买到的到底是不是....... |
 | 2026-08-01 | [Memos #2026-07-31](https://www.taober.blog/memos) | 22:09 最顶级的牛肉面！ |
 | 2026-08-01 | [花一千多买入耳式耳机，家人的吐槽与我的退烧记录](https://jksoftcn.com/blog/epz-p50-earphone-review-and-minimalism/) | 最近花了一千多块钱，入手了一个 HiFi 入耳式耳机 —— EPZ P50 。 这款耳机虽然可以定制外壳，但我没有定制，一是担心会对声音有影响，二是怕别人看不出我买的是什么耳机，哈哈。 买了新设备，心情自然是不错的，但拿到家后，家人的反应却让我觉得既好笑又温馨。 一、家人的“灵魂评价” 儿子看到这个… |
@@ -47,6 +48,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-31 | [DBeaver WebDAV 备份插件](https://bmqy.net/2915.html) | 这是一个面向 DBeaver 24/25+ 的 Eclipse/OSGi 插件，用于将 DBeaver 项目、脚本和凭据备份到 HTTPS WebDAV 端点。 |
 | 2026-07-31 | [快乐星期五](https://www.hecaitou.com/2026/07/Happy-Friday.html) | 最近一个多月来，周五是我最快乐的日子。因为这天我不用出门，保洁阿姨也不会上门，我可以整天待在家里，无事相扰，无人打搅。理论上来说，我也不需要早起，终于可以睡个懒觉，这意味着我可以在 8 点半之后才起身。 昨天我怀着放松欢喜的心情上床睡觉，整晚睡得很踏实。没有蚊子，没有噩梦，也没有被空调冻醒。然后早上… |
 | 2026-07-31 | [从又拍云搬家到七牛云](https://hzzio.top/blog/upyun-to-qiniu) | 从又拍云搬家到七牛云 |
+| 2026-07-31 | [随笔](https://blog.zzbd.org/miao202607/) |  |
 | 2026-07-31 | [Hugo 静态博客管理的姿势](https://hux.ink/posts/blog-manage/) | 2023 年年初开始瞎捣鼓这个 hugo博客 ，写文经历了四个阶段。 1.0原始时代 直接登录 GitHub 网页，在仓库里通过 Add file 新建文件、敲字、提交，最原始但也最直接。 2.0独立建库 用上了Obsidian，作为一个单独库， 在Obsidian中写Hugo博客发布 。 3.0融… |
 | 2026-07-31 | [公司域名漏扫安全整改实录](https://199604.com/3615) | 公司域名漏扫安全整改实录 记录时间:2026-07-30(前一日 + 当日) 环境:生产 nginx 反向代理 […] |
 | 2026-07-31 | [该不该让 AI 参与写作？](https://mobius.blog/25236.html) | 这应该是《博客就一定要为读者负责吗？》的番外篇，事情发生在前几天：一位朋友在博客里聊到了我，并用了一个非常形象 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |

@@ -49,6 +49,13 @@
     "source_root_domain": "versun.me"
   },
   {
+    "title": "Vibe coding 项目：影响因子和分区查询 API",
+    "url": "https://blog.zzbd.org/jcr-if-fenqu2/",
+    "date": "2026-08-01T01:22:54Z",
+    "description": "AI 纪元，灵光一现，即刻就能动手实现 📌缘起 目标很简单：通过 URL 一键直达，查询学术杂志的影响因子、分区等信息。之前常用的 medreading 需要微信登录才能看，ablesci 倒是免登录，但如果想实现一些插件脚本之类的就不方便了。另外，偶尔还有查询期刊名缩写的需求。",
+    "source_root_domain": "zzbd.org"
+  },
+  {
     "title": "给 Claude 中转站验明正身：签名里的模型身份",
     "url": "https://roy.wang/claude-channel-verification/",
     "date": "2026-08-01T00:00:00Z",
@@ -138,6 +145,13 @@
     "date": "2026-07-31T03:57:30Z",
     "description": "从又拍云搬家到七牛云",
     "source_root_domain": "hzz.cool"
+  },
+  {
+    "title": "随笔",
+    "url": "https://blog.zzbd.org/miao202607/",
+    "date": "2026-07-31T03:37:32Z",
+    "description": "",
+    "source_root_domain": "zzbd.org"
   },
   {
     "title": "Hugo 静态博客管理的姿势",
