@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-01 | [Lecture 5 Spectroscopic Observations, Abundance Analysis and Large-Scale Surveys](https://physnya.top/ss-yunnan/lecture-5-spectroscopic-observations-abundance-analysis-and-large-scale-surveys/) | 从光谱我们可以直接得到的东西： 物理参数，比如 T eff T_{\text{eff}} T eff ​ , log ⁡ g \log g lo g g , [Fe/H] 等 元素组成和丰度 Line-of-sight motion of a star (也就是「视线方向」的速度，径向速度) 旋转… |
 | 2026-08-01 | [为什么我讨厌王虹（注释版）](https://sinyalee.com/blog/?p=1309) | 之前写了《为什么我讨厌王虹》（简称《李厌虹》）。可惜很多人看不懂。我还是犯了一个我经常会犯的错误：假设我和读者 […] |
 | 2026-08-01 | [Token 定价权与 AI 经济新秩序：中美博弈、C 端心智与金融化未来](https://luweiqing.com/gossip/Token-Pricing-Power-and-the-New-Order-of-the-AI-Economy.html) | 摘要在人工智能向纵深发展的当下，Token（词元）已从技术计量单位，全面演变为智能时代的“千瓦时”与“桶油”。工信部及相关研究机构指出，Token 定价正由单一成本驱动，转向“成本约束 + 智能... |
 | 2026-08-01 | [向云端｜西南自驾05 - 长沙](https://blog.ops-coffee.com/r/2026-southwest-road-trip-05-changsha.html) |  |
