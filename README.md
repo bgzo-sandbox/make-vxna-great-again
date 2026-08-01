@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-01 | [从免费的地铁说起](https://yinji.org/starting-with-a-free-metro-ride.html) | 今天出差结束，从成都回到南昌。 出了机场，到了地铁站，走到检票口的时候，突然想起来晚上 9 点之后南昌地铁免费。看了一下时间，还差 5 分钟。于是我没有急着进站，而是在旁边等了一会儿。 等待的过程中，陆陆续续有人通过安检，准备检票。不知道当时是什么想法，我走上前对一个准备进站的人说：“9 点之后免费… |
 | 2026-08-01 | [Album#45 - Sweet Sticky Thing](https://taxodium.ink/album-45.html) | Album#45 Sweet Sticky Thing 图1 《Sweet Sticky Thing》專輯封面 专辑信息 专辑名称： Sweet Sticky Thing 歌手： Nujabes 年份： 1998-03-16 时长： 約 90 分鐘 不同的可下載版本: Sweet Sticky Th… |
 | 2026-08-01 | [那些让人脸红的文字](https://www.hecaitou.com/2026/08/writing-that-makes-me-cringe.html) | 「看到自己当年写的文字，尴尬到脚趾挠穿地板怎么办」，这个问题我听过不下一百回。昨天我回答了这个问题，为了纪念一位我很喜欢的演员、音乐人，我重发了自己很多年前随手写过的一篇短文：《 这是我所能达到的最远的距离 》。 讲道理没有多大作用，采取行动才有真正的说服力。 你说我昨天觉得尴尬么？当然，我毕竟是血… |
 | 2026-08-01 | [Lecture 5 Spectroscopic Observations, Abundance Analysis and Large-Scale Surveys](https://physnya.top/ss-yunnan/lecture-5-spectroscopic-observations-abundance-analysis-and-large-scale-surveys/) | 从光谱我们可以直接得到的东西： 物理参数，比如 T eff T_{\text{eff}} T eff ​ , log ⁡ g \log g lo g g , [Fe/H] 等 元素组成和丰度 Line-of-sight motion of a star (也就是「视线方向」的速度，径向速度) 旋转… |
@@ -42,12 +43,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-01 | [给 Claude 中转站验明正身：签名里的模型身份](https://roy.wang/claude-channel-verification/) | 用中转站的 Claude，价格是真便宜，渠道也多得眼花缭乱，但有个问题一直绕不开：我花的钱，买到的到底是不是....... |
 | 2026-08-01 | [Memos #2026-07-31](https://www.taober.blog/memos) | 22:09 最顶级的牛肉面！ |
 | 2026-08-01 | [花一千多买入耳式耳机，家人的吐槽与我的退烧记录](https://jksoftcn.com/blog/epz-p50-earphone-review-and-minimalism/) | 最近花了一千多块钱，入手了一个 HiFi 入耳式耳机 —— EPZ P50 。 这款耳机虽然可以定制外壳，但我没有定制，一是担心会对声音有影响，二是怕别人看不出我买的是什么耳机，哈哈。 买了新设备，心情自然是不错的，但拿到家后，家人的反应却让我觉得既好笑又温馨。 一、家人的“灵魂评价” 儿子看到这个… |
+| 2026-07-31 | [转载&#124;一图看懂大模型性价比](https://programnotes.cn/ai-price-best/index.html) | 原文作者根据Artificial Analysis 的数据绘制 横轴价格,纵轴模型得分,新版DeepSeek-v4-flash守门员无情绝杀 |
 | 2026-07-31 | [川渝人在山东吃到没有辣味的麻辣香锅和红油水饺之后产生的哲学思考](https://www.geedea.pro/article/hot-is-not-spicy/) | 我没有什么乡愁，胃也是，就算不辣也有很多好吃的。只是那些听起来辣，看起来也辣的东西，吃起来竟然不辣，令我震惊，故作此文。 来济南的第一天，到了酒店之后还有些晕，毕竟刚下飞机就又在车上坐了接近一个小时，不想出门，于是选择点外卖。纠结过后，看上一家麻辣香锅，习惯性地点了微辣，打开饭盒品尝，没有辣味。第二… |
 | 2026-07-31 | [久违的登台演讲](https://blog.solazy.me/20260731/) | 这是一场无观众的演讲 |
 | 2026-07-31 | [价格屠夫名不虚传，fable都只能做背景](https://versun.me/blog/tweet-2083172605058580801) | 价格屠夫名不虚传，fable都只能做背景板了都 |
 | 2026-07-31 | [哈哈，这个测试有意思，测试集有开源吗，我](https://versun.me/blog/tweet-2083161772077580306) | 哈哈，这个测试有意思，测试集有开源吗，我也想试一试 |
 | 2026-07-31 | [浑无斧凿痕Ⅱ——八大山人诞辰400周年特展](https://yovey.me/badashanren-memorial-ii/) | 八大山人特展 今年是八大山人诞辰400周年，八大山人纪念馆联合江西省博物馆，协同国内其他一些文博单位借调了不少 … Continue reading "浑无斧凿痕Ⅱ——八大山人诞辰400周年特展" |
 | 2026-07-31 | [这是我所能达到的最远的距离](https://www.hecaitou.com/2026/07/As-Far-As-I-Can-Get.html) | 这是一篇我在古代写的文章，是十九年还是十八年前？看标题就知道当时我的文青程度之深。为什么今天要旧文重发？影迷读者，尤其是音乐电影的影迷读者应该能够理解我发布它的心情。至于说完全搞不清楚状况的其他读者，大家可以把它当做是一篇酸文在这个周末用来健胃消食就好。 《这是我所能达到的最远的距离》 和菜头 《O… |
+| 2026-07-31 | [入蜀记 day433 大彩虹](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_433/) | 「大彩虹。」 |
 | 2026-07-31 | [向云端｜西南自驾04 - 南昌](https://blog.ops-coffee.com/r/2026-southwest-road-trip-04-nanchang.html) |  |
 | 2026-07-31 | [DBeaver WebDAV 备份插件](https://bmqy.net/2915.html) | 这是一个面向 DBeaver 24/25+ 的 Eclipse/OSGi 插件，用于将 DBeaver 项目、脚本和凭据备份到 HTTPS WebDAV 端点。 |
 | 2026-07-31 | [快乐星期五](https://www.hecaitou.com/2026/07/Happy-Friday.html) | 最近一个多月来，周五是我最快乐的日子。因为这天我不用出门，保洁阿姨也不会上门，我可以整天待在家里，无事相扰，无人打搅。理论上来说，我也不需要早起，终于可以睡个懒觉，这意味着我可以在 8 点半之后才起身。 昨天我怀着放松欢喜的心情上床睡觉，整晚睡得很踏实。没有蚊子，没有噩梦，也没有被空调冻醒。然后早上… |
@@ -76,6 +79,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-30 | [飞书并入豆包，文档是否减少？](https://blog.est.im/2026/stderr-26) | 飞书并入豆包 7月30日，字节跳动发布内部邮件，宣布飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的ToB GTM组织“创造力服务平台（Creativity S… |
 | 2026-07-30 | [Memos: 终章之为 GG 卡选择一个慈善 PLAN](https://blog.yasking.org/a/1785396612) | 在收到 GG 卡清退邮件、彻底无法发送短信之前，选择一两个喜欢的项目奉献爱心 ❤️ 推荐 公益项目英文名 公益项目中文名 公 … |
 | 2026-07-30 | [猫片出品，必属精品，下面竟然还有片场视频](https://versun.me/blog/tweet-2082698394523562409) | 猫片出品，必属精品，下面竟然还有片场视频，感动哭了 |
+| 2026-07-30 | [入蜀记 day432 苦集灭道](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_432/) | 「苦集灭道。」 |
 | 2026-07-30 | [Zuma updated](https://macsourceports.com/game/zuma) | The build of Zuma Portable for Zuma has been updated to version 0.7 of the project |
 | 2026-07-30 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.67 of the project |
 | 2026-07-30 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.0 of the project |
