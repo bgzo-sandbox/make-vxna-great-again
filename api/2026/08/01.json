@@ -1,0 +1,380 @@
+[
+  {
+    "title": "TongWeb 应用日志落盘与 JVM 堆配置优化笔记",
+    "url": "https://199604.com/3618",
+    "date": "2026-08-01T02:24:14Z",
+    "description": "TongWeb 应用日志落盘与 JVM 堆配置优化笔记 记录时间：2026-07-30 环境：K8s（dev […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "给 Claude 中转站验明正身：签名里的模型身份",
+    "url": "https://roy.wang/claude-channel-verification/",
+    "date": "2026-08-01T00:00:00Z",
+    "description": "用中转站的 Claude，价格是真便宜，渠道也多得眼花缭乱，但有个问题一直绕不开：我花的钱，买到的到底是不是.......",
+    "source_root_domain": "roy.wang"
+  },
+  {
+    "title": "Memos #2026-07-31",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-08-01T00:00:00Z",
+    "description": "22:09 最顶级的牛肉面！",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "川渝人在山东吃到没有辣味的麻辣香锅和红油水饺之后产生的哲学思考",
+    "url": "https://www.geedea.pro/article/hot-is-not-spicy/",
+    "date": "2026-07-31T15:53:51Z",
+    "description": "我没有什么乡愁，胃也是，就算不辣也有很多好吃的。只是那些听起来辣，看起来也辣的东西，吃起来竟然不辣，令我震惊，故作此文。 来济南的第一天，到了酒店之后还有些晕，毕竟刚下飞机就又在车上坐了接近一个小时，不想出门，于是选择点外卖。纠结过后，看上一家麻辣香锅，习惯性地点了微辣，打开饭盒品尝，没有辣味。第二天，我不服，我就想吃有辣味的麻辣香锅，于是点了中辣，打开饭盒品尝，仍然没有辣味。几天后我仍对此耿耿于怀，于是点了最辣的麻辣香锅，打开饭盒品尝…… 这在重庆应该叫作微微辣吧？ 虽然不辣，但第二天却拉肚子了，而且是那种吃了辣之后伴随着灼烧感的拉（我是不是应该在文章开头标注这篇文章不适合吃饭时阅读？但真的有人会一边吃饭一边读东西吗？）。真是神奇，原来辣度和能让人拉肚子的程度是分开的吗？ 一星期过去，我已经习惯了济南餐馆里标注了辣味的食物实际上并没有辣味这个 事实 ，于是毫无戒备地点了一份中辣的重庆鸡公煲…… 被辣出了感动的泪水。之后又去吃海底捞，点了海底捞双料真香锅，很香很辣很正宗。就这样，我对济南的信心又回来了。然后我站起身，路过好几张桌子…… 不是，你们为什么用开水烫火锅？愤恨中想要告诫对方，",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "久违的登台演讲",
+    "url": "https://blog.solazy.me/20260731/",
+    "date": "2026-07-31T15:00:00Z",
+    "description": "这是一场无观众的演讲",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "浑无斧凿痕Ⅱ——八大山人诞辰400周年特展",
+    "url": "https://yovey.me/badashanren-memorial-ii/",
+    "date": "2026-07-31T11:35:19Z",
+    "description": "八大山人特展 今年是八大山人诞辰400周年，八大山人纪念馆联合江西省博物馆，协同国内其他一些文博单位借调了不少 … Continue reading \"浑无斧凿痕Ⅱ——八大山人诞辰400周年特展\"",
+    "source_root_domain": "yovey.me"
+  },
+  {
+    "title": "向云端｜西南自驾04 - 南昌",
+    "url": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-04-nanchang.html",
+    "date": "2026-07-31T04:42:32Z",
+    "description": "",
+    "source_root_domain": "ops-coffee.cn"
+  },
+  {
+    "title": "DBeaver WebDAV 备份插件",
+    "url": "https://bmqy.net/2915.html",
+    "date": "2026-07-31T04:34:00Z",
+    "description": "这是一个面向 DBeaver 24/25+ 的 Eclipse/OSGi 插件，用于将 DBeaver 项目、脚本和凭据备份到 HTTPS WebDAV 端点。",
+    "source_root_domain": "bmqy.net"
+  },
+  {
+    "title": "快乐星期五",
+    "url": "https://www.hecaitou.com/2026/07/Happy-Friday.html",
+    "date": "2026-07-31T04:32:57Z",
+    "description": "最近一个多月来，周五是我最快乐的日子。因为这天我不用出门，保洁阿姨也不会上门，我可以整天待在家里，无事相扰，无人打搅。理论上来说，我也不需要早起，终于可以睡个懒觉，这意味着我可以在 8 点半之后才起身。 昨天我怀着放松欢喜的心情上床睡觉，整晚睡得很踏实。没有蚊子，没有噩梦，也没有被空调冻醒。然后早上 6 点 30 分，我突然苏醒，从此就再也无法入睡。 这就是为什么我每周五都感觉很快乐的原因。在过去的五个星期五，每一次我都可以睡到八点半，然后每一次我都在七点前苏醒，每一次醒后都无法重新入睡。本来我一直都心存一种担忧，担心会不会有一天我突然从一个梦境滑入另外一个梦境，从一个世界滑入另一个平行世界，因为现实和世界看上去每天都很癫，很破碎，而且还摇摇欲坠。 现在好了，每个周五早上六点多，我坐在床上看看表就可以立即确认：这还是原来的那个世界，该世界和原先一模一样，自己热切期待的事情就是不会真的发生，就是要和我拧着来，就是要让我的期待落空，还是熟悉的配方，还是熟悉的滋味。一想到这一点，我就觉得心里很快乐。 通过这些亲身经历，我还得出了一个猜测： 如果你在乎睡眠，那你就会失眠。如果你在乎毛发，那你就",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "从又拍云搬家到七牛云",
+    "url": "https://hzzio.top/blog/upyun-to-qiniu",
+    "date": "2026-07-31T03:57:30Z",
+    "description": "从又拍云搬家到七牛云",
+    "source_root_domain": "hzz.cool"
+  },
+  {
+    "title": "Hugo 静态博客管理的姿势",
+    "url": "https://hux.ink/posts/blog-manage/",
+    "date": "2026-07-31T02:32:29Z",
+    "description": "2023 年年初开始瞎捣鼓这个 hugo博客 ，写文经历了四个阶段。 1.0原始时代 直接登录 GitHub 网页，在仓库里通过 Add file 新建文件、敲字、提交，最原始但也最直接。 2.0独立建库 用上了Obsidian，作为一个单独库， 在Obsidian中写Hugo博客发布 。 3.0融合统一 Obsidian 不将仓库单独管理了，直接在日常笔记库中合二为一， Obsidian 自动同步到 Hugo 。 4.0云端工作流 通过 Notion 管理，在 Notion 中建立专门的 Database，再通过 GitHub Actions 自动转换为 Markdown 存储到仓库指定目录。 最近下班后跟娃一起跳绳，加上开了 Apple Fitness+，多了一些碎片化的运动记录。我尝试把这些数据叠加到 悦动 页面，和跑步、骑行放在一起展示。然而，跑步和骑行能靠中转自动同步，没有轨迹的跳绳、HIIT、爬楼梯只能手动录入。 我的第一反应依然是路径依赖——继续用 Notion 管理！于是迅速建好了运动记录 Database，也顺利打通了 GitHub Actions。 但转念一想：万一",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "公司域名漏扫安全整改实录",
+    "url": "https://199604.com/3615",
+    "date": "2026-07-31T02:24:36Z",
+    "description": "公司域名漏扫安全整改实录 记录时间:2026-07-30(前一日 + 当日) 环境:生产 nginx 反向代理 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "该不该让 AI 参与写作？",
+    "url": "https://mobius.blog/25236.html",
+    "date": "2026-07-31T01:54:44Z",
+    "description": "这应该是《博客就一定要为读者负责吗？》的番外篇，事情发生在前几天：一位朋友在博客里聊到了我，并用了一个非常形象 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "2026.7.30",
+    "url": "https://www.justzht.com/2026-7-30/",
+    "date": "2026-07-31T01:26:15Z",
+    "description": "体检测血的结果出来了，体征都在可接受的范围内浮动，就是维生素 B 超标。医师总结一切都好，需要多晒太阳以",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "感谢 Kimi K3，让你们用上了便宜的",
+    "url": "https://versun.me/blog/tweet-2082995962277196019",
+    "date": "2026-07-31T01:05:12Z",
+    "description": "感谢 Kimi K3，让你们用上了便宜的 GPT🫡🫡",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "我突然发现，AI 时代的开发流程中，\"重",
+    "url": "https://versun.me/blog/tweet-2082984423889506813",
+    "date": "2026-07-31T00:19:21Z",
+    "description": "我突然发现，AI 时代的开发流程中，\"重构\"已经悄然变成了固定环节 在以前，重构是能躲就躲，迫不得已才会选择的下下策 但现在不一样，AI 写代码虽然快，但性能一般，冗余又多，再加上人基本不会审查，所以随着模型能力的升级，顺手重构一遍，反而成了理所当然且必要的环节了 那么问题来了，如果我连测试用例都是 AI 写的，那怎么保证重构前后功能一致呢？",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "科技爱好者周刊（第 406 期）：道可，道非，常道",
+    "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html",
+    "date": "2026-07-31T00:08:55Z",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 深圳坪山区的坑梓文化科技中心，本身只是普通的三层楼房，但是设计师巧妙地为它加上三级拱廊，顿时让这个建筑变得充满了现代层次感。（ via ） 道可，道非，常道 上周（7月22日），华为公司的心声社区转发了《人民日报》对 何庭波的专访 。 何庭波是华为的半导体业务部总裁，最近提出\"韬（τ）定律受到关注。 华为转发这篇专访时，附上了一段任正非写的序言，标题是 《道可，道非，常道》 。这段序言很短，只有几句话。 τ 定律是华为可以选择的唯一一条突围道路。 其他厂家是有多条道路可选择的。华为为了逃生、活着、活下去、活得好，数万名员工6年来不断迭代，走出了一条已经成熟的道路。 不是为了去颠覆什么，取代什么，而是找到了可以选的一条路。我们与高级社团交流时选择\"只阐述，不激辩\"。 这段话的意思很清楚，别人已经走通的路，华为现在走不了，只能自己想办法找一条路，摸索着走下去。 这条路的对错、难走还是易行，都已经不",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "博客字体的选择",
+    "url": "https://blog.196000.xyz/2026/2026-07-31-develop-blog-design.html",
+    "date": "2026-07-31T00:00:00Z",
+    "description": "一轮以「清晰」为目标的排版改版记录：字体栈的取舍、字号与密度、行宽、对比度，以及手机与桌面的处理。",
+    "source_root_domain": "196000.xyz"
+  },
+  {
+    "title": "谁买得起专注？｜灵感电波 #132",
+    "url": "https://www.linggandianbo.com/newsletter-132/",
+    "date": "2026-07-30T23:00:29Z",
+    "description": "三篇文章，从阶层、个人和天才的视角重新理解注意力；另有苹果的本地 AI 赌注，以及手写为何仍值得保留。",
+    "source_root_domain": "linggandianbo.com"
+  },
+  {
+    "title": "学习周刊-总第274期-2026年第31周",
+    "url": "https://wiki.eryajf.net/pages/7216a4/",
+    "date": "2026-07-30T22:50:25Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第274期 | nextclaw | GHFS | desktop-cc-gui | nowen-video | link-ai | MacSift | PureMac",
+    "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "Six-Lens Poem Reading and the Story Behind It",
+    "url": "https://victor42.eth.limo/post-en/poem-six-lens-skill/",
+    "date": "2026-07-30T18:19:00Z",
+    "description": "It Started with Nonsense A friend sent me this image, calling it an authentic Wu Daozi. I looked and looked and could not spot the forgery. It must be real. I replied at once: Nothing wrong here. He was a man of that age. He saw it with his own eyes. Du Mu came later—what is he fantasizing about? Gates opening one after another? Did those gates even need to open? Just because Wu Daozi has some random Cantonese accent, why should posterity refuse him? The tragedy of history. Joke aside, once that",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "六合读诗与幕后故事",
+    "url": "https://victor42.eth.limo/post/poem-six-lens-skill/",
+    "date": "2026-07-30T18:19:00Z",
+    "description": "从一段胡说八道开始 朋友发来这么一张图：说是吴道子的真迹，我左看右看也没看出哪里造假了，应该是真的。 我一看，回复道： 没毛病，他就是那个年代的人，他亲眼见到的。杜牧个后世人，YY个什么劲，还次第开，那门用得着开吗？就因为吴道子有点不知道哪来的广东口音，后世人凭什么不认。历史的悲哀。 玩笑归玩笑，既然提到了这首《过华清宫绝句三首·其一》，我又回味起了今年的那次 西安旅行 。当时安排了一整天给秦始皇陵，隔壁的丽山园和华清宫就没来得及去，这首诗的主场正是那里。 长安回望绣成堆， 山顶千门次第开。 一骑红尘妃子笑， 无人知是荔枝来。 认真想象这首诗的画面，一句句细品，由远及近，由急到缓，有种电影镜头版的质感。千古名篇能传到今天，自有不凡之处。 于是让AI从各个角度查询资料、了解背景。讨论过程来回拉锯了很久，我问了大量问题，反复让AI做事实核查。远的近的，明的暗的，种种信息逐渐对接上我对长安和唐朝的认知框架，收获满满。 但如果将来再满足我对另一首诗的好奇心，还要这样来回问答小半天，会不会打击我探索的积极性？至此，我下决心搞清楚，解读一首诗有没有比较全面和标准方法，我得给自己来一套。 闵可夫斯基",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "吹箫人",
+    "url": "https://blog.zopiya.com/chui-xiao-ren-91eca469/",
+    "date": "2026-07-30T16:00:00Z",
+    "description": "村东头住着一个吹箫人。 头一年，他只在自己屋里吹，窗子关得严严实实，一丝声音也漏不出去。吹到兴处，摇头晃脑，错了音也不恼，一曲吹罢，倒头便睡，一觉到天亮。",
+    "source_root_domain": "7wate.com"
+  },
+  {
+    "title": "记：已经一个多月没去电影院",
+    "url": "https://blog.solazy.me/20260730/",
+    "date": "2026-07-30T15:00:00Z",
+    "description": "随笔记录一下没去电影院看电影的这段时间的自己",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "台风来临，如何准备好应急通信对讲机",
+    "url": "https://blog.mfwt.top/index.php/archives/1479/",
+    "date": "2026-07-30T13:59:00Z",
+    "description": "大约在一年前，台风桦加沙来的时候，笔者写文章介绍过当时所做的一些准备措施。受限于篇幅与时间安排原因，文末关于应急通信的几个准备，尤其是关于对讲机的，并没有讲述得太详尽。如今又到了台风季节，再加上...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "各位有什么适合 ADHD 患者的 tod",
+    "url": "https://versun.me/blog/tweet-2082811154351653276",
+    "date": "2026-07-30T12:50:50Z",
+    "description": "各位有什么适合 ADHD 患者的 todo 软件呀，我的滴答清单积压太多待办了😭",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Lecture 4 Evolution, Explosion and Nucleosynthesis of Massive Stars",
+    "url": "https://physnya.top/ss-yunnan/lecture-4-evolution-explosion-and-nucleosynthesis-of-massive-stars/",
+    "date": "2026-07-30T10:03:24Z",
+    "description": "Prof. Marco Limongi, from University of Tokyo 我们建立了 Stellar Model，这个历史上的模型仅仅是一维的，它包含了 L L L , P P P , T T T , ρ \\rho ρ , 化学组分等等内容，用几个微分方程来尝试描述. 这个模型中所谓的 input physics 是物态方程以及 EoS、opacity 和 nuclear reaction rates，这些条件和边界条件结合在一起才能够解出整个模型，然后进行 stellar evolution 的模拟.",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "我把积灰的 MacBook Pro 2019 改成了无限额度 Xcode CI Runner",
+    "url": "https://blog.tomyail.com/macbook-pro-2019-unlimited-xcode-ci-runner/",
+    "date": "2026-07-30T10:00:00Z",
+    "description": "把闲置的 2019 Intel MacBook Pro 改成合盖常驻的 Gitea Actions / Xcode CI Runner：防睡眠、本地网络权限、Universal Xcode、Fastlane 上传 TestFlight，以及单机 Runner 的真实代价。",
+    "source_root_domain": "tomyail.com"
+  },
+  {
+    "title": "你用了才知道，firecrawl 才是强",
+    "url": "https://versun.me/blog/tweet-2082764995927118124",
+    "date": "2026-07-30T09:47:25Z",
+    "description": "你用了才知道，firecrawl 才是强的没边 爬虫工具，看成功率，不看功能",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "没用过 raycast 的路过，一直用苹",
+    "url": "https://versun.me/blog/tweet-2082763861199933578",
+    "date": "2026-07-30T09:42:55Z",
+    "description": "没用过 raycast 的路过，一直用苹果默认的，我没那么多需求主要是",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "飞书并入豆包，文档是否减少？",
+    "url": "https://blog.est.im/2026/stderr-26",
+    "date": "2026-07-30T07:41:00Z",
+    "description": "飞书并入豆包 7月30日，字节跳动发布内部邮件，宣布飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的ToB GTM组织“创造力服务平台（Creativity Service Platform）”。整体负责字节 MaaS和SaaS等云服务的市场、销售和客户服务，由火山引擎负责人谭待负责，飞书销售负责人林婵、飞书战略及市场负责人史志隽向谭待汇报。重组之后，原有的飞书产品和服务保持不变，飞书还将和豆包在生产力场景进行更深度的产品协作。 然后刷到 一个推 办公文档恰恰是 AI 要淘汰的信息交互协议。以前在两个信息孤岛传递信息，需要两边的对接人来进行消息组包和分解，来消除两边信息不对称的问题。 企业要推行 AI，那么两边各自准备一个智能体，他俩自己聊就行了。 没必要让智能体写一个报告或者 ppt，交给人类，再转交给另一个人类，再丢给智能体。 今后只会出现三个场景需要文档： AI 写出来给 AI 看，作为阶段性消息压缩。 AI 写出来给人看，人写出来给 AI ",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "Memos: 终章之为 GG 卡选择一个慈善 PLAN",
+    "url": "https://blog.yasking.org/a/1785396612",
+    "date": "2026-07-30T07:30:00Z",
+    "description": "在收到 GG 卡清退邮件、彻底无法发送短信之前，选择一两个喜欢的项目奉献爱心 ❤️ 推荐 公益项目英文名 公益项目中文名 公 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "猫片出品，必属精品，下面竟然还有片场视频",
+    "url": "https://versun.me/blog/tweet-2082698394523562409",
+    "date": "2026-07-30T05:22:46Z",
+    "description": "猫片出品，必属精品，下面竟然还有片场视频，感动哭了",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Zuma updated",
+    "url": "https://macsourceports.com/game/zuma",
+    "date": "2026-07-30T04:17:37Z",
+    "description": "The build of Zuma Portable for Zuma has been updated to version 0.7 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-07-30T04:16:26Z",
+    "description": "The build of Quetoo has been updated to version v1.0.67 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Plants vs. Zombies updated",
+    "url": "https://macsourceports.com/game/pvz",
+    "date": "2026-07-30T04:15:57Z",
+    "description": "The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Chris Sawyer's Locomotion updated",
+    "url": "https://macsourceports.com/game/locomotion",
+    "date": "2026-07-30T04:13:18Z",
+    "description": "The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version v26.07.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Reckless Drivin' updated",
+    "url": "https://macsourceports.com/game/recklessdrivin",
+    "date": "2026-07-30T04:10:27Z",
+    "description": "The build of reckless-drivin-sdl for Reckless Drivin' has been updated to version v1.0.5 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "别再买AI课了，我做了个免费网站比任何课程都值",
+    "url": "https://www.wangwangit.com/%E5%88%AB%E5%86%8D%E4%B9%B0AI%E8%AF%BE%E4%BA%86%EF%BC%8C%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%AA%E5%85%8D%E8%B4%B9%E7%BD%91%E7%AB%99%E6%AF%94%E4%BB%BB%E4%BD%95%E8%AF%BE%E7%A8%8B%E9%83%BD%E5%80%BC/",
+    "date": "2026-07-30T04:00:00Z",
+    "description": "月底AI额度没用完，做了个可视化网站追踪Claude Code 376个版本的系统提示词演变。学AI不需要买课，最好的教材就是Anthropic工程师公开的这些一手资料。",
+    "source_root_domain": "wangwangit.com"
+  },
+  {
+    "title": "New Release: Zork Zero: The Revenge of Megaboz",
+    "url": "https://macsourceports.com/game/zork0",
+    "date": "2026-07-30T03:44:01Z",
+    "description": "In the annals of classic and retro gaming, Infocom's rise and fall is one of the most documented and well followed, with books and documentaries on the subject. Their downfall was due to a number of…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Beyond Zork: The Coconut of Quendor updated",
+    "url": "https://macsourceports.com/game/beyondzork",
+    "date": "2026-07-30T03:44:01Z",
+    "description": "The build of Splatterlight for Beyond Zork: The Coconut of Quendor has been updated to version v1.5.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Planetfall updated",
+    "url": "https://macsourceports.com/game/planetfall",
+    "date": "2026-07-30T03:44:01Z",
+    "description": "The build of Splatterlight for Planetfall has been updated to version v1.5.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Zork I: The Great Underground Empire updated",
+    "url": "https://macsourceports.com/game/zork1",
+    "date": "2026-07-30T03:44:01Z",
+    "description": "The build of Splatterlight for Zork I: The Great Underground Empire has been updated to version v1.5.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Zork II: The Wizard of Frobozz updated",
+    "url": "https://macsourceports.com/game/zork2",
+    "date": "2026-07-30T03:44:01Z",
+    "description": "The build of Splatterlight for Zork II: The Wizard of Frobozz has been updated to version v1.5.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Zork III: The Dungeon Master updated",
+    "url": "https://macsourceports.com/game/zork3",
+    "date": "2026-07-30T03:44:01Z",
+    "description": "The build of Splatterlight for Zork III: The Dungeon Master has been updated to version v1.5.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "我已AI倦怠",
+    "url": "https://www.hecaitou.com/2026/07/Just-Exhausted-by-AI.html",
+    "date": "2026-07-30T03:35:41Z",
+    "description": "说实话，就算新闻今天说真正的人工智能已经出现，在人类的历史上，第一次由人创造出新的硅基智慧生命，人类从造物上升为造物主---我也只会拉起被子，掩护身子不要让空调凉风吹到，然后翻身接着去睡。 因为我实在是感觉到倦了。AI 本身没有什么问题，网上讨论 AI 的方式有问题，甚至是那种讨论时的情绪有大问题。每天都是「惊爆」，每天都是「炸裂」，每天都是「翻天覆地」，每天都是「不知道就完了」，每天都要「开始了新的一天」，有些时候还不止一次，感觉这一天可能是个天秤座，对于如何开始始终犹豫不决，于是开完又不断重开。 另外一方面，AI 领域的论文也越来越难了。以前凭着我的大学理科底子，还能连猜带蒙看几页，胡乱揣测一下论文到底是在说什么。现在就算是我把论文扔给 AI，让它用「老百姓能听懂的大白话，不废话，不兜圈子，深入浅出给我讲明白」，我还是看不懂。有时候我甚至都怀疑，再过半年一年，AI 读完论文之后只会颔首微笑，然后对我说：跟你讲了你也听不懂。 最后一方面，有点羞于启齿。一旦直接讲出来，很像是在攻击他人。那这样吧，我说我自己好了：AI 发展到今天，AI 能力拓展到今天，使用了无数个模型，在各家的各个版本",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "github 上好烦这些狗皮膏药啊，有什",
+    "url": "https://versun.me/blog/tweet-2082662795175440696",
+    "date": "2026-07-30T03:01:19Z",
+    "description": "github 上好烦这些狗皮膏药啊，有什么好办法吗 [tweet-2082662795175440696-5f64b450.png]",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Windows 下 Codex Cli 更新报 Move-Item is denied 错误的解决",
+    "url": "https://liudon.com/posts/windows-codex-update-failed/",
+    "date": "2026-07-30T02:48:09Z",
+    "description": "记录 Windows 下 Codex Cli 更新报 Move-Item is denied 错误的解决过程，最终定位是杀毒软件防护的原因导致。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "Caddy 转发 GOST 报 TLS internal error 问题的排查与解决",
+    "url": "https://liudon.com/posts/caddy-forward-gost-tls-internal-error/",
+    "date": "2026-07-30T02:30:00Z",
+    "description": "记录 GOST 客户端通过 Caddy 转发访问 GOST 服务端时出现 TLS internal error 的排查过程，最终定位为客户端通过 IP 连接时未发送 SNI，并使用域名配合 ip 参数解决。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "K8s Deployment 名过长致 Pod 名截断与日志目录代际标识丢失排查",
+    "url": "https://199604.com/3613",
+    "date": "2026-07-30T02:24:41Z",
+    "description": "K8s Deployment 名过长致 Pod 名截断与日志目录代际标识丢失排查 记录时间：2026-07-2 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "博客一定要为读者负责吗？IV",
+    "url": "https://mobius.blog/25187.html",
+    "date": "2026-07-30T01:24:42Z",
+    "description": "最后一部分，我想回到我的个人拙见，来聊聊创作者该负起哪些责任？ 创作者的责任是什么？ 这并不是一个公开标准：有 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Memos: GG 卡 GG",
+    "url": "https://blog.yasking.org/a/1785374656",
+    "date": "2026-07-30T01:02:00Z",
+    "description": "昨天收到 giffgaff 的 “We’re disconnecting your service” 邮件。 尝试发了邮件申请退款，但 估计 £9.39 余额退不回来。在无法发送短信之前，可用余额支持 公 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "Memos: 苹果系统在它工作的时候会工作的很好",
+    "url": "https://blog.yasking.org/a/1785317110",
+    "date": "2026-07-30T01:01:00Z",
+    "description": "换苹果电脑迁移，之前我会在新电脑安装环境，古法手工进行配置，然后再手动将需要的配置、资料导出，避免旧系统很多垃 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "ETF Screener: A Free US ETF Screening Tool",
+    "url": "https://folay.top/blog/etf-screener",
+    "date": "2026-07-30T00:00:00Z",
+    "description": "Built a screening tool covering 5,000+ active US-listed ETFs with 42 metrics. No signup, no paywall.",
+    "source_root_domain": "folay.top"
+  }
+]

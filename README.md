@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-01 | [TongWeb 应用日志落盘与 JVM 堆配置优化笔记](https://199604.com/3618) | TongWeb 应用日志落盘与 JVM 堆配置优化笔记 记录时间：2026-07-30 环境：K8s（dev […] |
+| 2026-08-01 | [给 Claude 中转站验明正身：签名里的模型身份](https://roy.wang/claude-channel-verification/) | 用中转站的 Claude，价格是真便宜，渠道也多得眼花缭乱，但有个问题一直绕不开：我花的钱，买到的到底是不是....... |
+| 2026-08-01 | [Memos #2026-07-31](https://www.taober.blog/memos) | 22:09 最顶级的牛肉面！ |
 | 2026-07-31 | [川渝人在山东吃到没有辣味的麻辣香锅和红油水饺之后产生的哲学思考](https://www.geedea.pro/article/hot-is-not-spicy/) | 我没有什么乡愁，胃也是，就算不辣也有很多好吃的。只是那些听起来辣，看起来也辣的东西，吃起来竟然不辣，令我震惊，故作此文。 来济南的第一天，到了酒店之后还有些晕，毕竟刚下飞机就又在车上坐了接近一个小时，不想出门，于是选择点外卖。纠结过后，看上一家麻辣香锅，习惯性地点了微辣，打开饭盒品尝，没有辣味。第二… |
 | 2026-07-31 | [久违的登台演讲](https://blog.solazy.me/20260731/) | 这是一场无观众的演讲 |
 | 2026-07-31 | [浑无斧凿痕Ⅱ——八大山人诞辰400周年特展](https://yovey.me/badashanren-memorial-ii/) | 八大山人特展 今年是八大山人诞辰400周年，八大山人纪念馆联合江西省博物馆，协同国内其他一些文博单位借调了不少 … Continue reading "浑无斧凿痕Ⅱ——八大山人诞辰400周年特展" |
@@ -80,7 +83,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-30 | [Memos: 苹果系统在它工作的时候会工作的很好](https://blog.yasking.org/a/1785317110) | 换苹果电脑迁移，之前我会在新电脑安装环境，古法手工进行配置，然后再手动将需要的配置、资料导出，避免旧系统很多垃 … |
 | 2026-07-30 | [Memos: 苹果系统在它工作的时候会工作的很好](https://blog.yasking.org/a/1785317110.html) | 换苹果电脑迁移，之前我会在新电脑安装环境，古法手工进行配置，然后再手动将需要的配置、资料导出，避免旧系统很多垃 … |
 | 2026-07-30 | [ETF Screener: A Free US ETF Screening Tool](https://folay.top/blog/etf-screener) | Built a screening tool covering 5,000+ active US-listed ETFs with 42 metrics. No signup, no paywall. |
-| 2026-07-30 | [Memos #2026-07-29](https://www.taober.blog/memos) | 09:19 我就说我怎么在用 gpt-8，原来是做梦。 妈的，又起晚了。 |
 | 2026-07-29 | [哈哈，转需🤣](https://versun.me/blog/tweet-2082608950378467713) | 哈哈，转需🤣 |
 | 2026-07-29 | [《亿高》注疏三：大空头](https://sinyalee.com/blog/?p=1254) | 本文是对《资产一个亿以下，不要娶高学历国女》一文的第三篇注解。 – 我写《亿高》的原因，就是要做空 […] |
 | 2026-07-29 | [这么快就能在mac上运行啦！不知道还能再](https://versun.me/blog/tweet-2082581352386531356) | 这么快就能在mac上运行啦！不知道还能再量化吗😂 |
@@ -188,20 +190,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-25 | [2026年第30周](https://blog.sakoamc.com/posts/2630/) | 题记：二零二六年的第三十周，CQ,CQ,CQ。 |
 | 2026-07-25 | [香港的另一面](https://bluepika.life/blog/another-side-of-hong-kong) | 上周我去参加了一年一度的香港书展，我再次走进了这座城市，本着来都来了不折腾一下浑身不舒服的想法，我们计划多待一天到处走走。香港的市区我们已经看过太多遍了，这次的出行我们选择了离岛区，并计划了一次郊野徒步。 |
 | 2026-07-25 | [行走在香港的另一面](https://bluepika.life/blog/walking-on-the-other-side-of-hong-kong) | 上周我去参加了一年一度的香港书展，我再次走进了这座城市，本着来都来了不折腾一下浑身不舒服的想法，我们计划多待一天到处走走。香港的市区我们已经看过太多遍了，这次的出行我们选择了离岛区，并计划了一次郊野徒步。 |
-| 2026-07-24 | [Claude Opus 5评测汇总 在](https://versun.me/blog/tweet-2080804982371283207) | Claude Opus 5评测汇总 在 Vals Index 上排行第2，领先排行第三的 Kimi K3 仅 0.12% 在 Artificial Analysis 中，除了low思考程度成绩不理想外，其它思考程度均挤占前4名 有开发者用 Opus 5 和 Kimi K3 分别做了 3D 游戏，结果… |
-| 2026-07-24 | [关于清华校友抱团](https://sinyalee.com/blog/?p=1263) | 很多非清华的人，都会观察到国内顶级商业圈清华校友抱团的现象。清华校友资源交换、投资创业，抱团现象非常严重。我最 […] |
-| 2026-07-24 | [請開啟 JavaScript 以繼續搜尋](https://taxodium.ink/google-turn-on-javascript-to-keep-searching.html) | 請開啟 JavaScript 以繼續搜尋 图1 Google 的頁面，左側有一行文字提示需要開啟 JavaScript 才能繼續搜索， 右側列出了常見瀏覧器開啟 JavaScript 的步驟。 Google: 請開啟 JavaScript 以繼續搜尋 我： 需要嗎？ Google: 不需要嗎？ 我：… |
-| 2026-07-24 | [那些没有拍下来的时刻](https://blog.solazy.me/20260724/) | 我是一个不怎么喜欢拍照的人 |
-| 2026-07-24 | [近期觀影 - 無間道三部曲、醉好的時光、阿波羅 13 號](https://taxodium.ink/movie-2026-07-22.html) | 近期觀影 無間道三部曲、醉好的時光、阿波羅 13 號 無間道三部曲 (Infernal Affairs) Bilibili 上刷到了無間道第一部的片段，就找來看了看，本來只是想重看一遍無間道第一部的，找資源的時候找到了三部曲，就干脆都看一遍好了。下載的時候，最想看的第一部迟迟沒下好，就先看了第二部，… |
-| 2026-07-24 | [T2I 开源生图的新王 Krea2](https://eduardoqian.com/archives/t2i-xin-wang-chu-xian-krea2) | 参考之前的一篇文章，在ideogram 4昙花一现之后，紧接着出现Krea2造成的风浪远远大于ideogram 4. https://eduardoqian.com/archives/t2i-wen-sheng-tu-de-xin-xiu-ideogram-4ti-yan-he-ping-jie h |
-| 2026-07-24 | [Memos: 精 打 细 算](https://blog.yasking.org/a/1784878328.html) | 下载原图: Download |
-| 2026-07-24 | [回答读者stoic提问](https://www.hecaitou.com/2026/07/A-Reply-to-Stoic.html) | 昨天读者 stoic 留言提问： 「 菜叔您好，我有提升表达能力的需求，网上说看完说理视频和文章后要求自己放下手机或电脑，描述刚才看过的行文逻辑，这些视频或文字内容是怎么把自己说服的，但我做不到，只记得刚刚的标题或主旨让看完的自己很爽。 该如何继续训练，网上还说把文章或视频文案扒下来然后进行极限缩写… |
-| 2026-07-24 | [哈哈，可以出院了🤣🤣](https://versun.me/blog/tweet-2080508557854941415) | 哈哈，可以出院了🤣🤣 |
-| 2026-07-24 | [从 800U 到爆仓：过度交易和扛单，最后还是把账户做没了](https://blog.forecho.com/from-800u-to-liquidation-overtrading-countertrend.html) | 引言 上一篇写完的时候，账户从 400U 做到了 800U。没想到第三篇这么快就来了：这个账户爆仓了。 原因其实很简单，还是以前那两个问题：过度交易，亏了以后急着回本；逆势交易，方向做错了还一直扛单。最后碰上很强的趋势，账户还是扛不住了。 亏了以后，我又开始急着回本 一开始出现亏损的时候，我想的是赶… |
-| 2026-07-24 | [给自己的博客添加了同步推特的功能，每天定](https://versun.me/blog/tweet-2080468701653225773) | 给自己的博客添加了同步推特的功能，每天定时将我发的推文同步到博客上， 既能解决推文备份功能，防止意外封号 又能方便那些只订阅 rss 的人实时获取我的最新状态 还能挽救早已不更新的博客，焕发新的生机 一举三得😆 [tweet-2080468701653225773-37aae479.png] |
-| 2026-07-24 | [为了反对而反对的人，如何反对为了反对而反对他们的人？](https://mobius.blog/25145.html) | 继续，本着越不正经的标题聊越正经的事儿。 昨天的内容里，留下了一个很值得聊下去的“彩蛋”： ……我甚至认为大语 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-24 | [Memos: 反 客 为 主](https://blog.yasking.org/a/1784854406.html) | 下载原图: Download |
-| 2026-07-24 | [科技爱好者周刊（第 405 期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 西安大明宫遗址，使用亚克力透明板绘制古代建筑，让游客在原址体验当年的场景。（ via ） 资源，社会公平… |
 
 ## Vibe Coding
 
