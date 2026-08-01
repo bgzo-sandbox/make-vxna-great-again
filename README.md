@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-01 | [Album#45 - Sweet Sticky Thing](https://taxodium.ink/album-45.html) | Album#45 Sweet Sticky Thing 图1 《Sweet Sticky Thing》專輯封面 专辑信息 专辑名称： Sweet Sticky Thing 歌手： Nujabes 年份： 1998-03-16 时长： 約 90 分鐘 不同的可下載版本: Sweet Sticky Th… |
+| 2026-08-01 | [那些让人脸红的文字](https://www.hecaitou.com/2026/08/writing-that-makes-me-cringe.html) | 「看到自己当年写的文字，尴尬到脚趾挠穿地板怎么办」，这个问题我听过不下一百回。昨天我回答了这个问题，为了纪念一位我很喜欢的演员、音乐人，我重发了自己很多年前随手写过的一篇短文：《 这是我所能达到的最远的距离 》。 讲道理没有多大作用，采取行动才有真正的说服力。 你说我昨天觉得尴尬么？当然，我毕竟是血… |
 | 2026-08-01 | [Lecture 5 Spectroscopic Observations, Abundance Analysis and Large-Scale Surveys](https://physnya.top/ss-yunnan/lecture-5-spectroscopic-observations-abundance-analysis-and-large-scale-surveys/) | 从光谱我们可以直接得到的东西： 物理参数，比如 T eff T_{\text{eff}} T eff ​ , log ⁡ g \log g lo g g , [Fe/H] 等 元素组成和丰度 Line-of-sight motion of a star (也就是「视线方向」的速度，径向速度) 旋转… |
 | 2026-08-01 | [为什么我讨厌王虹（注释版）](https://sinyalee.com/blog/?p=1309) | 之前写了《为什么我讨厌王虹》（简称《李厌虹》）。可惜很多人看不懂。我还是犯了一个我经常会犯的错误：假设我和读者 […] |
 | 2026-08-01 | [Token 定价权与 AI 经济新秩序：中美博弈、C 端心智与金融化未来](https://luweiqing.com/gossip/Token-Pricing-Power-and-the-New-Order-of-the-AI-Economy.html) | 摘要在人工智能向纵深发展的当下，Token（词元）已从技术计量单位，全面演变为智能时代的“千瓦时”与“桶油”。工信部及相关研究机构指出，Token 定价正由单一成本驱动，转向“成本约束 + 智能... |
@@ -36,6 +38,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-01 | [我发现，被封的2个号都是邀请赠金开的卡，](https://versun.me/blog/tweet-2083371698062348648) | 我发现，被封的2个号都是邀请赠金开的卡，我还有一个正常充值激活的，还没有被封 |
 | 2026-08-01 | [kimi code 和 pi 性能好，省](https://versun.me/blog/tweet-2083363624803033225) | kimi code 和 pi 性能好，省 token 我还能理解，万万没想到 hermes 竟然也能排到前3 看来以后我只需要一个 hermes 就够了😏😏 |
 | 2026-08-01 | [Vibe coding 项目：影响因子和分区查询 API](https://blog.zzbd.org/jcr-if-fenqu2/) | AI 纪元，灵光一现，即刻就能动手实现 📌缘起 目标很简单：通过 URL 一键直达，查询学术杂志的影响因子、分区等信息。之前常用的 medreading 需要微信登录才能看，ablesci 倒是免登录，但如果想实现一些插件脚本之类的就不方便了。另外，偶尔还有查询期刊名缩写的需求。 |
+| 2026-08-01 | [Python 潮流周刊#161：Claude Code 工作原理](https://pythoncat.top/posts/2026-08-01-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-08-01 | [给 Claude 中转站验明正身：签名里的模型身份](https://roy.wang/claude-channel-verification/) | 用中转站的 Claude，价格是真便宜，渠道也多得眼花缭乱，但有个问题一直绕不开：我花的钱，买到的到底是不是....... |
 | 2026-08-01 | [Memos #2026-07-31](https://www.taober.blog/memos) | 22:09 最顶级的牛肉面！ |
 | 2026-08-01 | [花一千多买入耳式耳机，家人的吐槽与我的退烧记录](https://jksoftcn.com/blog/epz-p50-earphone-review-and-minimalism/) | 最近花了一千多块钱，入手了一个 HiFi 入耳式耳机 —— EPZ P50 。 这款耳机虽然可以定制外壳，但我没有定制，一是担心会对声音有影响，二是怕别人看不出我买的是什么耳机，哈哈。 买了新设备，心情自然是不错的，但拿到家后，家人的反应却让我觉得既好笑又温馨。 一、家人的“灵魂评价” 儿子看到这个… |
