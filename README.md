@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-02 | [将网页选中文本生成为图片](https://blog.prayhand13013.top/20260802T173842--将网页选中文本生成为图片__blog.html) |  |
+| 2026-08-02 | [马虎大意险酿错](https://hux.ink/posts/a-lesson/) | 昨天母子俩约了下午三点的游泳课，游泳馆地点其实很近，离家只有 1.5 公里，之前都是骑小电驴过去。 然而临出发前下起瓢泼大雨，无奈开车前往。在商场停车三小时花了25元停车费不说，回家的路上还撞车了。 我们小区的停车场入口设在一处红绿灯和公交站台中间位置，前后各十几米的样子，因此我想右转进入停车场，需… |
 | 2026-08-02 | [Jazz Jackrabbit 2 updated](https://macsourceports.com/game/jazzjackrabbit2) | The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.7.0 of the project |
 | 2026-08-02 | [低分辨率爱好](https://www.hecaitou.com/2026/08/Low-Resolution-Hobbies.html) | 我终于想到了一个字眼来形容自己这几年的各种心头好：低分辨率爱好。 无论是 CD、磁带、黑胶唱片、平头耳机，还是各种手工制作的器皿，它们的特点都是分辨率低，当然，这里的「低分辨率」不是工程指标，而是一种审美感受：它们往往保留更多的不完美、颗粒感和个体差异。 最明显的例子是磁带和黑胶唱片，在播放的时候其… |
 | 2026-08-02 | [Toots 430 2026 Jul.26 - Aug.1](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260801/) | 「难点也可能是要止损和自限。」 |
