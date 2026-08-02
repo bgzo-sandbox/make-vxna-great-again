@@ -29,6 +29,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | --- | --- | --- |
 | 2026-08-02 | [PySonar2 如何帮助 AI 节省 Token](https://smallyu.net/2026/08/03/PySonar2%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9AI%E8%8A%82%E7%9C%81Token/) | 结论 今天有一个 “重大” 发现想要分享：<a |
 | 2026-08-02 | [homelab:python安装esphome以及使用](https://dsx2016.com/homelab-installing-esphome-with-python-and-usage/) | esphome安装 首先，homeassistant可以使用add-on插件的方式安装esphome 但是如何... homelab:python安装esphome以及使用 最先出现在 大师兄2016 。 |
+| 2026-08-02 | [Blaugust 2026 Feeds - 以及我是如何用 Elisp 製作的](https://taxodium.ink/blaugust-2026-feeds.html) | Blaugust 2026 Feeds 以及我是如何用 Elisp 製作的 生成了一份 Blaugust 2026 Feeds (更新於 2026-08-02)，如果你需要可以點擊下載，然後导入到你的 RSS 閱讀器中。如果你想 參加 Blaugut ，現在就是最好的時間！ 這份 OMPL 文件裡沒… |
 | 2026-08-02 | [如何安装和设置wireguard？](https://dsx2016.com/how-to-install-and-set-up-wireguard/) | 安装wireguard 在ubuntu server下安装wireguard sudo apt update ... 如何安装和设置wireguard？ 最先出现在 大师兄2016 。 |
 | 2026-08-02 | [周末流水账 0802](https://blog.solazy.me/20260802/) | 这周居然水了两篇流水账 |
 | 2026-08-02 | [向云端｜西南自驾06 - 芷江](https://blog.ops-coffee.com/r/2026-southwest-road-trip-06-zhijiang.html) |  |

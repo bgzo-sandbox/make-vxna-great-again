@@ -14,6 +14,13 @@
     "source_root_domain": "dsx2016.com"
   },
   {
+    "title": "Blaugust 2026 Feeds - 以及我是如何用 Elisp 製作的",
+    "url": "https://taxodium.ink/blaugust-2026-feeds.html",
+    "date": "2026-08-02T15:40:00Z",
+    "description": "Blaugust 2026 Feeds 以及我是如何用 Elisp 製作的 生成了一份 Blaugust 2026 Feeds (更新於 2026-08-02)，如果你需要可以點擊下載，然後导入到你的 RSS 閱讀器中。如果你想 參加 Blaugut ，現在就是最好的時間！ 這份 OMPL 文件裡沒有完全包擴 Blaugust 2026 – Meet the Mentors & Participant List 中的博客，因為有的博客無法訪問，有的在頁面上找不到訂閱連結，所以缺失了几個博客。如果在連結裡找不到你的博客，歡迎邮件聯系我，我很樂意更新進去。連結我會定期更新（可能每隔 7 天），你可以看連結後的更新日期了解是否更新過。 我主要是通過博客主頁中的 去查找博客的訂閱連結： head > RSS --> link rel = \"alternate\" type = \"application/rss+xml\" title = \"your blog name\" href = \"https://example.org/feed.xml\" /> Atom --> link rel = \"al",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
     "title": "如何安装和设置wireguard？",
     "url": "https://dsx2016.com/how-to-install-and-set-up-wireguard/",
     "date": "2026-08-02T15:14:26Z",
