@@ -1,5 +1,26 @@
 [
   {
+    "title": "Jazz Jackrabbit 2 updated",
+    "url": "https://macsourceports.com/game/jazzjackrabbit2",
+    "date": "2026-08-02T04:49:35Z",
+    "description": "The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.7.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "低分辨率爱好",
+    "url": "https://www.hecaitou.com/2026/08/Low-Resolution-Hobbies.html",
+    "date": "2026-08-02T04:38:01Z",
+    "description": "我终于想到了一个字眼来形容自己这几年的各种心头好：低分辨率爱好。 无论是 CD、磁带、黑胶唱片、平头耳机，还是各种手工制作的器皿，它们的特点都是分辨率低，当然，这里的「低分辨率」不是工程指标，而是一种审美感受：它们往往保留更多的不完美、颗粒感和个体差异。 最明显的例子是磁带和黑胶唱片，在播放的时候其实都带有明显噪音，不过大家称之为「怀旧的气息」罢了。 还有一个冷知识，如果测试一条耳机的频响曲线，很多时候左右两个耳机的曲线是不重合的，有些的左右差异甚至会很大。 为什么不用更完美，更光滑，更均一的版本呢？对啊，为什么呢？ 我的朋友霍炬最近沉迷 CRT 显示器，用这种古老显示器来打老游戏，看老动画片。他人在海外，搞到 5090 显卡并不困难，去玩一个当代的 3A 大型制作游戏，估计能看清游戏人物的毛孔。相信他的电视机也早就是数字电视，可以呈现高清悦目的影像。为什么是 CRT？ 因为 CRT 显示器上的一切就像停留在了旧日，粗糙，颗粒感，强烈地提醒这是个游戏，人需要调用自己的想象力，去补充，去修改，去美化这些图像。在这里，机器和人之间是一种合作关系，而不是像今天这样，是服务和被服务的关系。 玩",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Toots 430 2026 Jul.26 - Aug.1",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260801/",
+    "date": "2026-08-02T03:20:27Z",
+    "description": "「难点也可能是要止损和自限。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
     "title": "Freebuff：免费使用DeepSeek V4 flash 0731的 AI 编程工具",
     "url": "https://luweiqing.com/resources/Freebuff-DeepSeek-V4-flash-0731-AI.html",
     "date": "2026-08-02T01:08:35Z",
@@ -14,11 +35,39 @@
     "source_root_domain": "onojyun.com"
   },
   {
+    "title": "hermes 真的太好用了 昨天 ins",
+    "url": "https://versun.me/blog/tweet-2083719150833463349",
+    "date": "2026-08-02T00:58:53Z",
+    "description": "hermes 真的太好用了 昨天 insforge 的deno classical deploy关闭了，导致旧的 function 都需要重新部署， 我直接在 hermes 上让它帮我修复了，省了一堆麻烦事， 不得不说 @insforge 真的是 ai 时代部署网站的救星啊，太方便了...",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "2026年第31周",
+    "url": "https://blog.sakoamc.com/posts/2631/",
+    "date": "2026-08-02T00:00:00Z",
+    "description": "题记：二零二六年的第三十一周，匆匆八月如何地开始呢，如果想吃火锅就约上朋友一起吧。",
+    "source_root_domain": "sakoamc.com"
+  },
+  {
+    "title": "资源卡片生成器 prompt",
+    "url": "https://jimmy-blog.vercel.app/posts/prompt",
+    "date": "2026-08-02T00:00:00Z",
+    "description": "做一个「资源卡片生成器 Prompt」。核心目标是： 你只输入 URL AI 自动分析网站 输出适合放到资源网站卡片里的内容 风格统一、短、像 Linear / Vercel / Product Hunt 那种介绍方式 * 你可以直接复制到数据库或者 CMS 我建议不要让 AI 输出太长，而是固定结构。 你可以保存下面这个 Prompt： --- ``` 你是一名专业的资...",
+    "source_root_domain": "jimmy-blog.top"
+  },
+  {
     "title": "Memos #2026-08-01",
     "url": "https://www.taober.blog/memos",
     "date": "2026-08-02T00:00:00Z",
     "description": "13:13 湖南小炒之魂！ 21:42 刷到《陀飞轮》，第一次听还没十八，霎眼也廿七了…",
     "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "陌生的花再次盛开",
+    "url": "https://z.arlmy.me/posts/Poems/2026/20260726_MoShengDeHuaZaiCiShengKai/",
+    "date": "2026-08-01T16:23:27Z",
+    "description": "「陌生的花再次盛开。」",
+    "source_root_domain": "arlmy.me"
   },
   {
     "title": "从免费的地铁说起",
@@ -68,6 +117,13 @@
     "date": "2026-08-01T05:41:20Z",
     "description": "",
     "source_root_domain": "ops-coffee.cn"
+  },
+  {
+    "title": "总结下这几天发生的事 🤠 [tweet-",
+    "url": "https://versun.me/blog/tweet-2083406124397822426",
+    "date": "2026-08-01T04:15:02Z",
+    "description": "总结下这几天发生的事 🤠 [tweet-2083406124397822426-fed78e42.jpg]",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "每个人心中都有……",

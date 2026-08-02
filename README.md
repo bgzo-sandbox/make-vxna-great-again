@@ -27,9 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-02 | [Jazz Jackrabbit 2 updated](https://macsourceports.com/game/jazzjackrabbit2) | The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.7.0 of the project |
+| 2026-08-02 | [低分辨率爱好](https://www.hecaitou.com/2026/08/Low-Resolution-Hobbies.html) | 我终于想到了一个字眼来形容自己这几年的各种心头好：低分辨率爱好。 无论是 CD、磁带、黑胶唱片、平头耳机，还是各种手工制作的器皿，它们的特点都是分辨率低，当然，这里的「低分辨率」不是工程指标，而是一种审美感受：它们往往保留更多的不完美、颗粒感和个体差异。 最明显的例子是磁带和黑胶唱片，在播放的时候其… |
+| 2026-08-02 | [Toots 430 2026 Jul.26 - Aug.1](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260801/) | 「难点也可能是要止损和自限。」 |
 | 2026-08-02 | [Freebuff：免费使用DeepSeek V4 flash 0731的 AI 编程工具](https://luweiqing.com/resources/Freebuff-DeepSeek-V4-flash-0731-AI.html) | Freebuff 想做一个免费的 AI Coding Agent 工具。它不收订阅费，而是用广告养免费用户，再让企业买 Pro。目标是成为 AI 时代的开发者入口。产品定位Freebuff 其实... |
 | 2026-08-02 | [≡ 006｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/2026/08/02/25253/) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-02 | [hermes 真的太好用了 昨天 ins](https://versun.me/blog/tweet-2083719150833463349) | hermes 真的太好用了 昨天 insforge 的deno classical deploy关闭了，导致旧的 function 都需要重新部署， 我直接在 hermes 上让它帮我修复了，省了一堆麻烦事， 不得不说 @insforge 真的是 ai 时代部署网站的救星啊，太方便了... |
+| 2026-08-02 | [2026年第31周](https://blog.sakoamc.com/posts/2631/) | 题记：二零二六年的第三十一周，匆匆八月如何地开始呢，如果想吃火锅就约上朋友一起吧。 |
+| 2026-08-02 | [资源卡片生成器 prompt](https://jimmy-blog.vercel.app/posts/prompt) | 做一个「资源卡片生成器 Prompt」。核心目标是： 你只输入 URL AI 自动分析网站 输出适合放到资源网站卡片里的内容 风格统一、短、像 Linear / Vercel / Product Hunt 那种介绍方式 * 你可以直接复制到数据库或者 CMS 我建议不要让 AI 输出太长，而是固定结… |
 | 2026-08-02 | [Memos #2026-08-01](https://www.taober.blog/memos) | 13:13 湖南小炒之魂！ 21:42 刷到《陀飞轮》，第一次听还没十八，霎眼也廿七了… |
+| 2026-08-01 | [陌生的花再次盛开](https://z.arlmy.me/posts/Poems/2026/20260726_MoShengDeHuaZaiCiShengKai/) | 「陌生的花再次盛开。」 |
 | 2026-08-01 | [从免费的地铁说起](https://yinji.org/starting-with-a-free-metro-ride.html) | 今天出差结束，从成都回到南昌。 出了机场，到了地铁站，走到检票口的时候，突然想起来晚上 9 点之后南昌地铁免费。看了一下时间，还差 5 分钟。于是我没有急着进站，而是在旁边等了一会儿。 等待的过程中，陆陆续续有人通过安检，准备检票。不知道当时是什么想法，我走上前对一个准备进站的人说：“9 点之后免费… |
 | 2026-08-01 | [Album#45 - Sweet Sticky Thing](https://taxodium.ink/album-45.html) | Album#45 Sweet Sticky Thing 图1 《Sweet Sticky Thing》專輯封面 专辑信息 专辑名称： Sweet Sticky Thing 歌手： Nujabes 年份： 1998-03-16 时长： 約 90 分鐘 給大家分享一張寶藏專輯 ⸺ Nujabes 的 S… |
 | 2026-08-01 | [那些让人脸红的文字](https://www.hecaitou.com/2026/08/writing-that-makes-me-cringe.html) | 「看到自己当年写的文字，尴尬到脚趾挠穿地板怎么办」，这个问题我听过不下一百回。昨天我回答了这个问题，为了纪念一位我很喜欢的演员、音乐人，我重发了自己很多年前随手写过的一篇短文：《 这是我所能达到的最远的距离 》。 讲道理没有多大作用，采取行动才有真正的说服力。 你说我昨天觉得尴尬么？当然，我毕竟是血… |
@@ -37,6 +44,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-01 | [为什么我讨厌王虹（注释版）](https://sinyalee.com/blog/?p=1309) | 之前写了《为什么我讨厌王虹》（简称《李厌虹》）。可惜很多人看不懂。我还是犯了一个我经常会犯的错误：假设我和读者 […] |
 | 2026-08-01 | [Token 定价权与 AI 经济新秩序：中美博弈、C 端心智与金融化未来](https://luweiqing.com/gossip/Token-Pricing-Power-and-the-New-Order-of-the-AI-Economy.html) | 摘要在人工智能向纵深发展的当下，Token（词元）已从技术计量单位，全面演变为智能时代的“千瓦时”与“桶油”。工信部及相关研究机构指出，Token 定价正由单一成本驱动，转向“成本约束 + 智能... |
 | 2026-08-01 | [向云端｜西南自驾05 - 长沙](https://blog.ops-coffee.com/r/2026-southwest-road-trip-05-changsha.html) |  |
+| 2026-08-01 | [总结下这几天发生的事 🤠 [tweet-](https://versun.me/blog/tweet-2083406124397822426) | 总结下这几天发生的事 🤠 [tweet-2083406124397822426-fed78e42.jpg] |
 | 2026-08-01 | [每个人心中都有……](https://mobius.blog/25246.html) | 不是一座断背山，而是一位 Nikki。 很久没有写过影评了，是因为确实没有遇到好电影。不过这两天看了《痴迷》后 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-01 | [TongWeb 应用日志落盘与 JVM 堆配置优化笔记](https://199604.com/3618) | TongWeb 应用日志落盘与 JVM 堆配置优化笔记 记录时间：2026-07-30 环境：K8s（dev […] |
 | 2026-08-01 | [我发现，被封的2个号都是邀请赠金开的卡，](https://versun.me/blog/tweet-2083371698062348648) | 我发现，被封的2个号都是邀请赠金开的卡，我还有一个正常充值激活的，还没有被封 |
