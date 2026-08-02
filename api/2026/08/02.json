@@ -1,5 +1,33 @@
 [
   {
+    "title": "PySonar2 如何帮助 AI 节省 Token",
+    "url": "https://smallyu.net/2026/08/03/PySonar2%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9AI%E8%8A%82%E7%9C%81Token/",
+    "date": "2026-08-02T16:32:47Z",
+    "description": "结论 今天有一个 “重大” 发现想要分享：<a",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "homelab:python安装esphome以及使用",
+    "url": "https://dsx2016.com/homelab-installing-esphome-with-python-and-usage/",
+    "date": "2026-08-02T15:46:23Z",
+    "description": "esphome安装 首先，homeassistant可以使用add-on插件的方式安装esphome 但是如何... homelab:python安装esphome以及使用 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "如何安装和设置wireguard？",
+    "url": "https://dsx2016.com/how-to-install-and-set-up-wireguard/",
+    "date": "2026-08-02T15:14:26Z",
+    "description": "安装wireguard 在ubuntu server下安装wireguard sudo apt update ... 如何安装和设置wireguard？ 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "周末流水账 0802",
+    "url": "https://blog.solazy.me/20260802/",
+    "date": "2026-08-02T15:00:00Z",
+    "description": "这周居然水了两篇流水账",
+    "source_root_domain": "solazy.me"
+  },
+  {
     "title": "向云端｜西南自驾06 - 芷江",
     "url": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-06-zhijiang.html",
     "date": "2026-08-02T14:29:31Z",
@@ -117,6 +145,13 @@
     "date": "2026-08-01T15:48:03Z",
     "description": "今天出差结束，从成都回到南昌。 出了机场，到了地铁站，走到检票口的时候，突然想起来晚上 9 点之后南昌地铁免费。看了一下时间，还差 5 分钟。于是我没有急着进站，而是在旁边等了一会儿。 等待的过程中，陆陆续续有人通过安检，准备检票。不知道当时是什么想法，我走上前对一个准备进站的人说：“9 点之后免费，可以等一会儿。” 对方是一对带着孩子的夫妻。后面又来了一对夫妻，同样带着孩子，我也走过去提醒他们。他们听完之后，也和我一起站在旁边，等这最后的 5 分钟。 看他们的样子，不太像南昌本地人，应该是来南昌旅游的游客。他们还问我，南昌地铁是不是每天晚上 9 点之后都免费，早上是不是也免费。 我简单给他们...... 继续阅读»»»",
     "source_root_domain": "yinji.org"
+  },
+  {
+    "title": "周末流水账 0801",
+    "url": "https://blog.solazy.me/20260801/",
+    "date": "2026-08-01T15:00:00Z",
+    "description": "久违的周末出行（其实也没过多久）",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "Album#45 - Sweet Sticky Thing",
