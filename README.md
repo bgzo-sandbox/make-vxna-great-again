@@ -27,7 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-02 | [尽量可爱一些](https://z.arlmy.me/posts/ZArlmyMe/BeCuteToAI_20260802/) | 「尽量乖巧、可爱一些。」 |
 | 2026-08-02 | [将网页选中文本生成为图片](https://blog.prayhand13013.top/20260802T173842--将网页选中文本生成为图片__blog.html) |  |
+| 2026-08-02 | [保持谦逊，承认自己的“无能”](https://zhangke.space/%e4%bf%9d%e6%8c%81%e8%b0%a6%e9%80%8a%ef%bc%8c%e6%89%bf%e8%ae%a4%e8%87%aa%e5%b7%b1%e7%9a%84%e6%97%a0%e8%83%bd/?utm_source=rss&utm_medium=rss&utm_campaign=%25e4%25bf%259d%25e6%258c%2581%25e8%25b0%25a6%25e9%2580%258a%25ef%25bc%258c%25e6%2589%25bf%25e8%25ae%25a4%25e8%2587%25aa%25e5%25b7%25b1%25e7%259a%2584%25e6%2597%25a0%25e8%2583%25bd) | 我从小就比较自以为是，可能是作为儿子被宠的原因，也可能是别的原因，在我很久远的记忆中就发生过一些事情。大概是不 […] The post 保持谦逊，承认自己的“无能” first appeared on 张可的博客 . |
 | 2026-08-02 | [马虎大意险酿错](https://hux.ink/posts/a-lesson/) | 昨天母子俩约了下午三点的游泳课，游泳馆地点其实很近，离家只有 1.5 公里，之前都是骑小电驴过去。 然而临出发前下起瓢泼大雨，无奈开车前往。在商场停车三小时花了25元停车费不说，回家的路上还撞车了。 我们小区的停车场入口设在一处红绿灯和公交站台中间位置，前后各十几米的样子，因此我想右转进入停车场，需… |
 | 2026-08-02 | [Jazz Jackrabbit 2 updated](https://macsourceports.com/game/jazzjackrabbit2) | The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.7.0 of the project |
 | 2026-08-02 | [低分辨率爱好](https://www.hecaitou.com/2026/08/Low-Resolution-Hobbies.html) | 我终于想到了一个字眼来形容自己这几年的各种心头好：低分辨率爱好。 无论是 CD、磁带、黑胶唱片、平头耳机，还是各种手工制作的器皿，它们的特点都是分辨率低，当然，这里的「低分辨率」不是工程指标，而是一种审美感受：它们往往保留更多的不完美、颗粒感和个体差异。 最明显的例子是磁带和黑胶唱片，在播放的时候其… |
