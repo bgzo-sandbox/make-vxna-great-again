@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-02 | [Freebuff：免费使用DeepSeek V4 flash 0731的 AI 编程工具](https://luweiqing.com/resources/Freebuff-DeepSeek-V4-flash-0731-AI.html) | Freebuff 想做一个免费的 AI Coding Agent 工具。它不收订阅费，而是用广告养免费用户，再让企业买 Pro。目标是成为 AI 时代的开发者入口。产品定位Freebuff 其实... |
+| 2026-08-02 | [≡ 006｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/2026/08/02/25253/) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-02 | [Memos #2026-08-01](https://www.taober.blog/memos) | 13:13 湖南小炒之魂！ 21:42 刷到《陀飞轮》，第一次听还没十八，霎眼也廿七了… |
 | 2026-08-01 | [从免费的地铁说起](https://yinji.org/starting-with-a-free-metro-ride.html) | 今天出差结束，从成都回到南昌。 出了机场，到了地铁站，走到检票口的时候，突然想起来晚上 9 点之后南昌地铁免费。看了一下时间，还差 5 分钟。于是我没有急着进站，而是在旁边等了一会儿。 等待的过程中，陆陆续续有人通过安检，准备检票。不知道当时是什么想法，我走上前对一个准备进站的人说：“9 点之后免费… |
 | 2026-08-01 | [Album#45 - Sweet Sticky Thing](https://taxodium.ink/album-45.html) | Album#45 Sweet Sticky Thing 图1 《Sweet Sticky Thing》專輯封面 专辑信息 专辑名称： Sweet Sticky Thing 歌手： Nujabes 年份： 1998-03-16 时长： 約 90 分鐘 給大家分享一張寶藏專輯 ⸺ Nujabes 的 S… |
 | 2026-08-01 | [那些让人脸红的文字](https://www.hecaitou.com/2026/08/writing-that-makes-me-cringe.html) | 「看到自己当年写的文字，尴尬到脚趾挠穿地板怎么办」，这个问题我听过不下一百回。昨天我回答了这个问题，为了纪念一位我很喜欢的演员、音乐人，我重发了自己很多年前随手写过的一篇短文：《 这是我所能达到的最远的距离 》。 讲道理没有多大作用，采取行动才有真正的说服力。 你说我昨天觉得尴尬么？当然，我毕竟是血… |
@@ -41,7 +44,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-01 | [Vibe coding 项目：影响因子和分区查询 API](https://blog.zzbd.org/jcr-if-fenqu2/) | AI 纪元，灵光一现，即刻就能动手实现 📌缘起 目标很简单：通过 URL 一键直达，查询学术杂志的影响因子、分区等信息。之前常用的 medreading 需要微信登录才能看，ablesci 倒是免登录，但如果想实现一些插件脚本之类的就不方便了。另外，偶尔还有查询期刊名缩写的需求。 |
 | 2026-08-01 | [Python 潮流周刊#161：Claude Code 工作原理](https://pythoncat.top/posts/2026-08-01-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-08-01 | [给 Claude 中转站验明正身：签名里的模型身份](https://roy.wang/claude-channel-verification/) | 用中转站的 Claude，价格是真便宜，渠道也多得眼花缭乱，但有个问题一直绕不开：我花的钱，买到的到底是不是....... |
-| 2026-08-01 | [Memos #2026-07-31](https://www.taober.blog/memos) | 22:09 最顶级的牛肉面！ |
 | 2026-08-01 | [花一千多买入耳式耳机，家人的吐槽与我的退烧记录](https://jksoftcn.com/blog/epz-p50-earphone-review-and-minimalism/) | 最近花了一千多块钱，入手了一个 HiFi 入耳式耳机 —— EPZ P50 。 这款耳机虽然可以定制外壳，但我没有定制，一是担心会对声音有影响，二是怕别人看不出我买的是什么耳机，哈哈。 买了新设备，心情自然是不错的，但拿到家后，家人的反应却让我觉得既好笑又温馨。 一、家人的“灵魂评价” 儿子看到这个… |
 | 2026-07-31 | [转载&#124;一图看懂大模型性价比](https://programnotes.cn/ai-price-best/index.html) | 原文作者根据Artificial Analysis 的数据绘制 横轴价格,纵轴模型得分,新版DeepSeek-v4-flash守门员无情绝杀 |
 | 2026-07-31 | [川渝人在山东吃到没有辣味的麻辣香锅和红油水饺之后产生的哲学思考](https://www.geedea.pro/article/hot-is-not-spicy/) | 我没有什么乡愁，胃也是，就算不辣也有很多好吃的。只是那些听起来辣，看起来也辣的东西，吃起来竟然不辣，令我震惊，故作此文。 来济南的第一天，到了酒店之后还有些晕，毕竟刚下飞机就又在车上坐了接近一个小时，不想出门，于是选择点外卖。纠结过后，看上一家麻辣香锅，习惯性地点了微辣，打开饭盒品尝，没有辣味。第二… |
@@ -184,32 +186,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-26 | [专治“局部磨损”：我的AI牛仔裤选购指南](https://blog.196000.xyz/2026/2026-07-26-life-ai-jeans.html) | 专治“局部磨损”：我的AI牛仔裤选购指南 缘起：一个困扰多年的问题 平时穿得最多的就是牛仔裤。回顾那些被淘汰的裤子，无论价格高低，“死因”惊人地一致——后裆十字缝附近的布料，要么摩擦变色，要么越磨越薄，最后直接拉丝破洞。 我一直想不通：就算是久坐，受力最大的明明是臀部正中间，为什么先报废的反而是它下… |
 | 2026-07-26 | [≡ 005｜这两周莫比乌斯环转到了哪里？](https://mobius.blog/25160.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-26 | [7.26 随想与近期状态小结](https://blog.sakoamc.com/posts/26sx003/) | 题记：人一旦心脉受损，没有了心气、心力，心力交瘁，大概就是这样的吧。席地而坐，抬头观云，你会心情突然变好吗？临崖而立，探头向下，你会想来一次信仰的飞跃吗？ |
-| 2026-07-25 | [天才程序员要下线了，希望能撑到明天开源，](https://versun.me/blog/tweet-2081163264797589845) | 天才程序员要下线了，希望能撑到明天开源，到时候准备去买 ollama 的 pro 试一试 [tweet-2081163264797589845-e46d5cef.png] |
-| 2026-07-25 | [太帅了！！！牛批 A\迟早要倒闭](https://versun.me/blog/tweet-2081159779238723744) | 太帅了！！！牛批 A\迟早要倒闭 |
-| 2026-07-25 | [Heretic II updated](https://macsourceports.com/game/heretic2) | The build of Heretic2R-UNIX for Heretic II has been updated to the latest code of the project |
-| 2026-07-25 | [Arcanum: Of Steamworks and Magick Obscura updated](https://macsourceports.com/game/arcanum) | The build of Arcanum Community Edition for Arcanum: Of Steamworks and Magick Obscura has been updated to the latest code of the project |
-| 2026-07-25 | [Unreal Tournament 2004 updated](https://macsourceports.com/game/unrealtournament2004) | The build of UT2004 for Unreal Tournament 2004 has been updated to version 3374-preview-23 of the project |
-| 2026-07-25 | [Old School RuneScape updated](https://macsourceports.com/game/runescape) | The build of RuneLite for Old School RuneScape has been updated to version 2.8.0 of the project |
-| 2026-07-25 | [Quake updated](https://macsourceports.com/game/quake) | The build of DarkPlaces for Quake has been updated to the latest code of the project |
-| 2026-07-25 | [杨植麟的天才之劫——李丽丽的毒手和Kimi的重生](https://sinyalee.com/blog/?p=1267) | 现在中国最火的AI公司月之暗面的创始人杨植麟，他的计算机和AI研究道路差一点被汕头金中和前校长李丽丽摧毁。 李 […] |
-| 2026-07-25 | [新手汽车露营和观星踩坑实录](https://mok.moe/p/gn3x) | 老婆突然想看星星，我趁女儿生日临时决定去西涌，想顺便看日出、玩沙子。结果三脚架不合用，镜头起雾，手动充气床累得人汗流浃背，女儿却在床上蹦跶到半夜。停车场过夜被车灯和喧闹搅得几乎没睡，但一家人还是赶上了日出，也去沙滩玩了一会儿。虽然狼狈，但新手该踩的坑都踩了，也算攒下了一份下次再出发的底气 |
-| 2026-07-25 | [谷歌云收入暴增82%、公募科技持仓突破60%：AI不会减速的七个铁证](https://programnotes.cn/ai-trending/index.html) | 过去一周，我用AI扫描了浑水调研（62,342篇）、商业航天投行KB（2,187篇）、黑猫知识库三个投研知识库的最新上传内容，识别出12条新兴投资叙事。然后花了两天时间，用公开网络信息对其中最核心的7条做了交叉验证。 < |
-| 2026-07-25 | [周末流水账 0725](https://blog.solazy.me/20260725/) | 周六好！ |
-| 2026-07-25 | [How to Fix Invisible Mouse & White Screen in HOI4 on Linux (Steam)&#124;如何在 Linux (Steam) 上解决《钢铁雄心4》鼠标隐形与开局白屏问题](https://cufezhusy.github.io/issue-25/) | If you play Hearts of Iron IV (HOI4) on Linux via Steam, you might encounter a frustrating bug: your mouse cursor disappears inside the game, and when… |
-| 2026-07-25 | [Memos: 多 子 多 福](https://blog.yasking.org/a/1784985226.html) | 下载原图: Download |
-| 2026-07-25 | [复刻足迹页面](https://hux.ink/posts/footprints/) | 在 小十 的博客中看到一个足迹页面，想复刻搬运一个到我的 Hugo 博客中。 有了 AI 的帮忙，页面很快就复现出来了。 今天台风天，正好有时间在家将这些年走过的地方盘点一下。翻着一张张陈旧的照片，无数回忆如潮水般涌现。 还翻到一张 14 年前第一次来深圳的火车票，当时盛传“2012 世界末日”预言… |
-| 2026-07-25 | [厕所](https://mobius.blog/25199.html) | 小程好不容易找到个公共厕所，结果在门口被一个满脸严肃的人拦了下来，他看着小程急得满头满汗，却还是慢吞吞地问道： […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-25 | [如何用宝可梦属性玩剪刀石头布？](https://www.geedea.pro/article/rps-but-pokemon/) | 读者早上好，中午好，下午好，晚上好，本人上了五天班之后终于在周末开始发疯了（其实没那么难受，工作待遇挺好的，我只是想发疯），所以我们今天来玩石头剪刀布。 因为我想看的《星期三》《人生切割术》和《同乐者》都还没出新剧集，而《瑞克与莫蒂》在周一才更新，所以我从头到尾刷了七遍《老友记》（当然是从我第一次看… |
-| 2026-07-25 | [claude opus 5才发布没几个小](https://versun.me/blog/tweet-2080969769529098440) | claude opus 5才发布没几个小时，怎么推上都没什么人谈呀，难道是都被封号了，没得用？ 说的最多的是，催 tipo 赶紧重置codex😂😂😂 |
-| 2026-07-25 | [什么是工程问题？](https://www.geedea.pro/article/engineering-perspective/) | 据我对自己过去的总结，以及对比我更晚进入软件领域的人的观察，我发现新来者更容易陷入对技术问题的纠结，工程问题则被忽略了。我并不是说技术问题不如工程问题重要，我仅仅是指出，有不少人并不区分这两类问题，工程问题甚至不在他们的认知范围内，更别提去思考它了。本文我想来总结我对这两类问题的认识，并试图总结一些… |
-| 2026-07-25 | [隐藏在人群之中](https://www.hecaitou.com/2026/07/Hiding-in-the-Crowd.html) | 昨天我发布了一条 很简单的帖子 ，4 张咖啡的图片，配了两篇过往文章，谈贫困学生能不能用补贴金每天给自己买一杯 9.9元的咖啡。结果我收到 400 多条留言，接近三万人阅读。 在同一天，我很认真地写了一篇《 回答读者stoic提问 》，谈如何学习写作，算是近期的心血之作。结果一百多条留言，一万出头阅… |
-| 2026-07-25 | [向云端｜西南自驾03 - 景德镇](https://blog.ops-coffee.com/r/2026-southwest-road-trip-03-jingdezhen.html) |  |
-| 2026-07-25 | [完全停不下了！ 又用 K3 做了个 &l](https://versun.me/blog/tweet-2080844274766418317) | 完全停不下了！ 又用 K3 做了个 的游戏 快来一起战斗！😎😎😎 网站：https://swarm.kimi.site/ 对话过程：https://www.kimi.com/share/19f9705b-4f22-861e-8000-00003eff5433 @Kimi_Moonshot @Kimi… |
-| 2026-07-25 | [Python 潮流周刊#160：AI 智能体与 LLM 推理](https://pythoncat.top/posts/2026-07-25-weekly/) | 分享了 12 篇文章，12 个开源项目 |
-| 2026-07-25 | [让进程随时能死，对话才能一直活着](https://mario.lol/posts/ephemeral-turns/) | 用 codex exec 这种"跑完就死"的一次性进程，撑起一段"一直在聊"的对话——对话是状态，回合是算力。顺带聊聊背后的任务队列与 worker 池设计。 |
-| 2026-07-25 | [2026年第30周](https://blog.sakoamc.com/posts/2630/) | 题记：二零二六年的第三十周，CQ,CQ,CQ。 |
-| 2026-07-25 | [香港的另一面](https://bluepika.life/blog/another-side-of-hong-kong) | 上周我去参加了一年一度的香港书展，我再次走进了这座城市，本着来都来了不折腾一下浑身不舒服的想法，我们计划多待一天到处走走。香港的市区我们已经看过太多遍了，这次的出行我们选择了离岛区，并计划了一次郊野徒步。 |
-| 2026-07-25 | [行走在香港的另一面](https://bluepika.life/blog/walking-on-the-other-side-of-hong-kong) | 上周我去参加了一年一度的香港书展，我再次走进了这座城市，本着来都来了不折腾一下浑身不舒服的想法，我们计划多待一天到处走走。香港的市区我们已经看过太多遍了，这次的出行我们选择了离岛区，并计划了一次郊野徒步。 |
 
 ## Vibe Coding
 
