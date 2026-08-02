@@ -27,9 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-02 | [向云端｜西南自驾06 - 芷江](https://blog.ops-coffee.com/r/2026-southwest-road-trip-06-zhijiang.html) |  |
 | 2026-08-02 | [尽量可爱一些](https://z.arlmy.me/posts/ZArlmyMe/BeCuteToAI_20260802/) | 「尽量乖巧、可爱一些。」 |
 | 2026-08-02 | [将网页选中文本生成为图片](https://blog.prayhand13013.top/20260802T173842--将网页选中文本生成为图片__blog.html) |  |
 | 2026-08-02 | [保持谦逊，承认自己的“无能”](https://zhangke.space/%e4%bf%9d%e6%8c%81%e8%b0%a6%e9%80%8a%ef%bc%8c%e6%89%bf%e8%ae%a4%e8%87%aa%e5%b7%b1%e7%9a%84%e6%97%a0%e8%83%bd/?utm_source=rss&utm_medium=rss&utm_campaign=%25e4%25bf%259d%25e6%258c%2581%25e8%25b0%25a6%25e9%2580%258a%25ef%25bc%258c%25e6%2589%25bf%25e8%25ae%25a4%25e8%2587%25aa%25e5%25b7%25b1%25e7%259a%2584%25e6%2597%25a0%25e8%2583%25bd) | 我从小就比较自以为是，可能是作为儿子被宠的原因，也可能是别的原因，在我很久远的记忆中就发生过一些事情。大概是不 […] The post 保持谦逊，承认自己的“无能” first appeared on 张可的博客 . |
+| 2026-08-02 | [来信 · 莫良](https://www.gtdstudy.com/guestbook/79160fdf-d95f-4270-aa68-fe4c84ab5178/) |  |
 | 2026-08-02 | [马虎大意险酿错](https://hux.ink/posts/a-lesson/) | 昨天母子俩约了下午三点的游泳课，游泳馆地点其实很近，离家只有 1.5 公里，之前都是骑小电驴过去。 然而临出发前下起瓢泼大雨，无奈开车前往。在商场停车三小时花了25元停车费不说，回家的路上还撞车了。 我们小区的停车场入口设在一处红绿灯和公交站台中间位置，前后各十几米的样子，因此我想右转进入停车场，需… |
 | 2026-08-02 | [Jazz Jackrabbit 2 updated](https://macsourceports.com/game/jazzjackrabbit2) | The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.7.0 of the project |
 | 2026-08-02 | [低分辨率爱好](https://www.hecaitou.com/2026/08/Low-Resolution-Hobbies.html) | 我终于想到了一个字眼来形容自己这几年的各种心头好：低分辨率爱好。 无论是 CD、磁带、黑胶唱片、平头耳机，还是各种手工制作的器皿，它们的特点都是分辨率低，当然，这里的「低分辨率」不是工程指标，而是一种审美感受：它们往往保留更多的不完美、颗粒感和个体差异。 最明显的例子是磁带和黑胶唱片，在播放的时候其… |
@@ -54,8 +56,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-01 | [我发现，被封的2个号都是邀请赠金开的卡，](https://versun.me/blog/tweet-2083371698062348648) | 我发现，被封的2个号都是邀请赠金开的卡，我还有一个正常充值激活的，还没有被封 |
 | 2026-08-01 | [kimi code 和 pi 性能好，省](https://versun.me/blog/tweet-2083363624803033225) | kimi code 和 pi 性能好，省 token 我还能理解，万万没想到 hermes 竟然也能排到前3 看来以后我只需要一个 hermes 就够了😏😏 |
 | 2026-08-01 | [Vibe coding 项目：影响因子和分区查询 API](https://blog.zzbd.org/jcr-if-fenqu2/) | AI 纪元，灵光一现，即刻就能动手实现 📌缘起 目标很简单：通过 URL 一键直达，查询学术杂志的影响因子、分区等信息。之前常用的 medreading 需要微信登录才能看，ablesci 倒是免登录，但如果想实现一些插件脚本之类的就不方便了。另外，偶尔还有查询期刊名缩写的需求。 |
+| 2026-08-01 | [位置：你无法站在世界之外](https://corvo.myseu.cn/2026/08/01/2026-08-01-%E4%BD%8D%E7%BD%AE/) | 我们无法选择是否参与世界，只能选择以什么位置参与。你站在哪里，决定了什么信息、资源、机会和风险会流向你。 |
 | 2026-08-01 | [Python 潮流周刊#161：Claude Code 工作原理](https://pythoncat.top/posts/2026-08-01-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-08-01 | [给 Claude 中转站验明正身：签名里的模型身份](https://roy.wang/claude-channel-verification/) | 用中转站的 Claude，价格是真便宜，渠道也多得眼花缭乱，但有个问题一直绕不开：我花的钱，买到的到底是不是....... |
+| 2026-08-01 | [字体原理笔记](https://blog.196000.xyz/2026/2026-08-01-develop-font-note.html) | 三大字体族的来历与气质、font-family 逐字路由的机制、中文字体子集化的原理，以及本站缺字自动预警与重切的完整流程。 |
 | 2026-08-01 | [花一千多买入耳式耳机，家人的吐槽与我的退烧记录](https://jksoftcn.com/blog/epz-p50-earphone-review-and-minimalism/) | 最近花了一千多块钱，入手了一个 HiFi 入耳式耳机 —— EPZ P50 。 这款耳机虽然可以定制外壳，但我没有定制，一是担心会对声音有影响，二是怕别人看不出我买的是什么耳机，哈哈。 买了新设备，心情自然是不错的，但拿到家后，家人的反应却让我觉得既好笑又温馨。 一、家人的“灵魂评价” 儿子看到这个… |
 | 2026-07-31 | [转载&#124;一图看懂大模型性价比](https://programnotes.cn/ai-price-best/index.html) | 原文作者根据Artificial Analysis 的数据绘制 横轴价格,纵轴模型得分,新版DeepSeek-v4-flash守门员无情绝杀 |
 | 2026-07-31 | [川渝人在山东吃到没有辣味的麻辣香锅和红油水饺之后产生的哲学思考](https://www.geedea.pro/article/hot-is-not-spicy/) | 我没有什么乡愁，胃也是，就算不辣也有很多好吃的。只是那些听起来辣，看起来也辣的东西，吃起来竟然不辣，令我震惊，故作此文。 来济南的第一天，到了酒店之后还有些晕，毕竟刚下飞机就又在车上坐了接近一个小时，不想出门，于是选择点外卖。纠结过后，看上一家麻辣香锅，习惯性地点了微辣，打开饭盒品尝，没有辣味。第二… |

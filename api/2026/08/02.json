@@ -1,5 +1,12 @@
 [
   {
+    "title": "向云端｜西南自驾06 - 芷江",
+    "url": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-06-zhijiang.html",
+    "date": "2026-08-02T14:29:31Z",
+    "description": "",
+    "source_root_domain": "ops-coffee.cn"
+  },
+  {
     "title": "尽量可爱一些",
     "url": "https://z.arlmy.me/posts/ZArlmyMe/BeCuteToAI_20260802/",
     "date": "2026-08-02T10:30:03Z",
@@ -19,6 +26,13 @@
     "date": "2026-08-02T09:04:01Z",
     "description": "我从小就比较自以为是，可能是作为儿子被宠的原因，也可能是别的原因，在我很久远的记忆中就发生过一些事情。大概是不 […] The post 保持谦逊，承认自己的“无能” first appeared on 张可的博客 .",
     "source_root_domain": "zhangke.space"
+  },
+  {
+    "title": "来信 · 莫良",
+    "url": "https://www.gtdstudy.com/guestbook/79160fdf-d95f-4270-aa68-fe4c84ab5178/",
+    "date": "2026-08-02T08:44:48Z",
+    "description": "",
+    "source_root_domain": "gtdstudy.com"
   },
   {
     "title": "马虎大意险酿错",
@@ -189,6 +203,13 @@
     "source_root_domain": "zzbd.org"
   },
   {
+    "title": "位置：你无法站在世界之外",
+    "url": "https://corvo.myseu.cn/2026/08/01/2026-08-01-%E4%BD%8D%E7%BD%AE/",
+    "date": "2026-08-01T00:00:00Z",
+    "description": "我们无法选择是否参与世界，只能选择以什么位置参与。你站在哪里，决定了什么信息、资源、机会和风险会流向你。",
+    "source_root_domain": "myseu.cn"
+  },
+  {
     "title": "Python 潮流周刊#161：Claude Code 工作原理",
     "url": "https://pythoncat.top/posts/2026-08-01-weekly/",
     "date": "2026-08-01T00:00:00Z",
@@ -201,6 +222,13 @@
     "date": "2026-08-01T00:00:00Z",
     "description": "用中转站的 Claude，价格是真便宜，渠道也多得眼花缭乱，但有个问题一直绕不开：我花的钱，买到的到底是不是.......",
     "source_root_domain": "roy.wang"
+  },
+  {
+    "title": "字体原理笔记",
+    "url": "https://blog.196000.xyz/2026/2026-08-01-develop-font-note.html",
+    "date": "2026-08-01T00:00:00Z",
+    "description": "三大字体族的来历与气质、font-family 逐字路由的机制、中文字体子集化的原理，以及本站缺字自动预警与重切的完整流程。",
+    "source_root_domain": "196000.xyz"
   },
   {
     "title": "花一千多买入耳式耳机，家人的吐槽与我的退烧记录",
