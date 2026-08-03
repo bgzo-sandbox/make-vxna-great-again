@@ -7,6 +7,27 @@
     "source_root_domain": "kingname.info"
   },
   {
+    "title": "NAS 风扇狂转，查出 Thanos Compactor 把 bucket 撑到了 241G",
+    "url": "https://blog.tomyail.com/nas-fan-thanos-compactor-halted/",
+    "date": "2026-08-03T17:35:07Z",
+    "description": "一次从 NAS 风扇狂转开始的排障：顺着磁盘 I/O 追到 Thanos Compactor，发现它静默停摆已久、bucket 膨胀到 241G。定位积压、扩容 PVC、用 thanos tools bucket retention 把过期数据一刀清到 18G。根因是 PVC 太小、halt 后不会自动重试，导致 retention 从上线起就没跑完过。最后补上告警，防止 compactor 再次静默失败。",
+    "source_root_domain": "tomyail.com"
+  },
+  {
+    "title": "并不抗拒表达",
+    "url": "https://z.arlmy.me/posts/ZArlmyMe/Acting_20260803/",
+    "date": "2026-08-03T13:16:03Z",
+    "description": "「并不抗拒表达。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "R#113 例行投资复盘",
+    "url": "https://blog.sakanano.moe/journals/random_113",
+    "date": "2026-08-03T13:00:00Z",
+    "description": "2026.7.28 ~ 2026.8.3",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
     "title": "Coldcard 冷钱包漏洞：约 1367 枚 BTC 被盗",
     "url": "https://blog.renfei.net/posts/1626402130325676142",
     "date": "2026-08-03T11:54:32Z",
@@ -96,6 +117,13 @@
     "date": "2026-08-02T23:57:43Z",
     "description": "我发现自己遇到「不测风云」，也就是那些难以预料的烦心事时，已经能够做到表面平静地发疯十分钟，然后该干嘛干嘛。这周济南总是莫名其妙地开始刮大风、下暴雨，虽然讨厌袜子被打湿的感觉，但包里常备着折叠伞，也还算从容不迫。 其实还有些家人和工作上的大小事，不过我现在更在乎自己刚刚从 MUJI 买的粘毛刷好不好用，今天有没有吃燕麦喝酸奶，明天早上应该读《第一个人》还是《现象学导论》。印象中不少「重要人物」常常把自己的生活外包给别人，以腾出时间关注那些更具商业价值的事情。而我呢？如果我每天回到家不能亲自用吸尘器把地板拖得一尘不染，听见灶台点燃的热水沸腾的声音，我都不知道自己怎么活下去。 吾仅悉落 MY SKYSCRAPER 专辑 Nirosta Steel Bandcamp NeoDB 复古，有种…… 既老派又年轻的奇妙听感。小众中透露着沉稳，但又没有很沉稳，甚至有些随意，大概可以这样总结。 最喜欢《LOST IN MUSIC》《MY NAME IS NIGHT》《FRESH FEELING》《SPECIAL WEAKNESS》，大概就是整张专辑篇中后段的部分。 作者如今六十多岁了，专辑是沉淀了几十",
     "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "NetBox MCP服务器部署",
+    "url": "https://songxwn.com/NetBox-MCP-Docker-install/",
+    "date": "2026-08-02T18:31:27Z",
+    "description": "",
+    "source_root_domain": "songxwn.com"
   },
   {
     "title": "PySonar2 如何帮助 AI 节省 Token",
@@ -255,7 +283,7 @@
     "title": "从免费的地铁说起",
     "url": "https://yinji.org/starting-with-a-free-metro-ride.html",
     "date": "2026-08-01T15:48:03Z",
-    "description": "今天出差结束，从成都回到南昌。 出了机场，到了地铁站，走到检票口的时候，突然想起来晚上 9 点之后南昌地铁免费。看了一下时间，还差 5 分钟。于是我没有急着进站，而是在旁边等了一会儿。 等待的过程中，陆陆续续有人通过安检，准备检票。不知道当时是什么想法，我走上前对一个准备进站的人说：“9 点之后免费，可以等一会儿。” 对方是一对带着孩子的夫妻。后面又来了一对夫妻，同样带着孩子，我也走过去提醒他们。他们听完之后，也和我一起站在旁边，等这最后的 5 分钟。 看他们的样子，不太像南昌本地人，应该是来南昌旅游的游客。他们还问我，南昌地铁是不是每天晚上 9 点之后都免费，早上是不是也免费。 我简单给他们...... 继续阅读»»»",
+    "description": "今天出差结束，从成都回到南昌。 出了机场，到了地铁站，走到检票口的时候，突然想起来晚上 9 点之后南昌地铁免费 […]",
     "source_root_domain": "yinji.org"
   },
   {

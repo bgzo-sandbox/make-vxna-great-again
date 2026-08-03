@@ -28,6 +28,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-08-03 | [别再拿聊天记录拼一个数字人：镜像星河，才是那个真正懂你的自己](https://www.kingname.info/2026/08/03/jingxiang-xinghe-shuzi-ren/) | 凌晨两点，你很想找个人说话。 通讯录里不是没人。只是你知道，真正开口以后，大概率还要从头解释：事情为什么会走到这里，你究竟在怕什么，那个别人眼里明明很好的选择，为什么偏偏让你如此抗拒。 解释到一半，你已经累了。 人最深的孤独，往往不是身边没有人，而是 没有人能跳过漫长的背景介绍，直接抵达你的那一句「… |
+| 2026-08-03 | [NAS 风扇狂转，查出 Thanos Compactor 把 bucket 撑到了 241G](https://blog.tomyail.com/nas-fan-thanos-compactor-halted/) | 一次从 NAS 风扇狂转开始的排障：顺着磁盘 I/O 追到 Thanos Compactor，发现它静默停摆已久、bucket 膨胀到 241G。定位积压、扩容 PVC、用 thanos tools bucket retention 把过期数据一刀清到 18G。根因是 PVC 太小、halt 后不会… |
+| 2026-08-03 | [并不抗拒表达](https://z.arlmy.me/posts/ZArlmyMe/Acting_20260803/) | 「并不抗拒表达。」 |
+| 2026-08-03 | [R#113 例行投资复盘](https://blog.sakanano.moe/journals/random_113) | 2026.7.28 ~ 2026.8.3 |
 | 2026-08-03 | [Coldcard 冷钱包漏洞：约 1367 枚 BTC 被盗](https://blog.renfei.net/posts/1626402130325676142) | Coldcard 部分固件错误地使用了可预测的软件伪随机数生成种子，导致私钥可能被离线穷举。 |
 | 2026-08-03 | [AI 大模型的收割机：跑得慢的一个都别想逃](https://wenfeixiang.com/2026/08/deepseek-pk-all-ai-llm/) | 现在的 AI 大模型赛跑太卷了：GLM、Qwen、Minimax 在奋力用腿跑，GPT骑自行车，Claude […] |
 | 2026-08-03 | [2026.8.3](https://www.justzht.com/2026-8-3/) | 八月了，距离夏天的顶端也没多久了。此时我应该在国内，在日本，或者在某个没有名字的东亚城市里，看着潮涨 |
@@ -41,6 +44,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-03 | [周记 #13 - 好小子](https://www.taober.blog/posts/weekly-13-20260803) | 2026-07-27 至 2026-08-02 台风过后，深圳又接连下了几天雨，实在很难让人快乐起来。 白天工作上的忙碌，接着晚上的运动，加上下雨天周末的浑浑噩噩，一周又过去了。 标题是我今天刚改的无畏契约 ID，没什么特别的含义，单纯地觉得「好小子」很有感觉（表达了博主对自己的肯定以及对未来的美好… |
 | 2026-08-03 | [2026年的比特币有了新的逻辑？](https://prologue.dev/blog/is-there-a-new-logic-behind-bitcoin-in-2026) | 本文回顾比特币和黄金的基本属性，并从比特币的矿工关机币价、减半周期、美元流动性传导、Strategy风险等方面解构比特币的定价逻辑。作者认为是共识资产因新的叙事、共识、投机与交易创造的新的集体价值。 |
 | 2026-08-02 | [大脑充血 Vol.92](https://www.geedea.pro/weekly/92/) | 我发现自己遇到「不测风云」，也就是那些难以预料的烦心事时，已经能够做到表面平静地发疯十分钟，然后该干嘛干嘛。这周济南总是莫名其妙地开始刮大风、下暴雨，虽然讨厌袜子被打湿的感觉，但包里常备着折叠伞，也还算从容不迫。 其实还有些家人和工作上的大小事，不过我现在更在乎自己刚刚从 MUJI 买的粘毛刷好不好… |
+| 2026-08-02 | [NetBox MCP服务器部署](https://songxwn.com/NetBox-MCP-Docker-install/) |  |
 | 2026-08-02 | [PySonar2 如何帮助 AI 节省 Token](https://smallyu.net/2026/08/03/PySonar2%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9AI%E8%8A%82%E7%9C%81Token/) | 结论 今天有一个 “重大” 发现想要分享：<a |
 | 2026-08-02 | [homelab:python安装esphome以及使用](https://dsx2016.com/homelab-installing-esphome-with-python-and-usage/) | esphome安装 首先，homeassistant可以使用add-on插件的方式安装esphome 但是如何... homelab:python安装esphome以及使用 最先出现在 大师兄2016 。 |
 | 2026-08-02 | [Blaugust 2026 Feeds - 以及我是如何用 Elisp 製作的](https://taxodium.ink/blaugust-2026-feeds.html) | Blaugust 2026 Feeds 以及我是如何用 Elisp 製作的 生成了一份 Blaugust 2026 Feeds (更新於 2026-08-03)，如果你需要可以點擊下載，然後导入到你的 RSS 閱讀器中。如果你想 參加 Blaugust ，現在就是最好的時間！ 這份 OMPL 文件裡… |
@@ -63,7 +67,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-02 | [资源卡片生成器 prompt](https://jimmy-blog.vercel.app/posts/prompt) | 做一个「资源卡片生成器 Prompt」。核心目标是： 你只输入 URL AI 自动分析网站 输出适合放到资源网站卡片里的内容 风格统一、短、像 Linear / Vercel / Product Hunt 那种介绍方式 * 你可以直接复制到数据库或者 CMS 我建议不要让 AI 输出太长，而是固定结… |
 | 2026-08-02 | [Memos #2026-08-01](https://www.taober.blog/memos) | 13:13 湖南小炒之魂！ 21:42 刷到《陀飞轮》，第一次听还没十八，霎眼也廿七了… |
 | 2026-08-01 | [陌生的花再次盛开](https://z.arlmy.me/posts/Poems/2026/20260726_MoShengDeHuaZaiCiShengKai/) | 「陌生的花再次盛开。」 |
-| 2026-08-01 | [从免费的地铁说起](https://yinji.org/starting-with-a-free-metro-ride.html) | 今天出差结束，从成都回到南昌。 出了机场，到了地铁站，走到检票口的时候，突然想起来晚上 9 点之后南昌地铁免费。看了一下时间，还差 5 分钟。于是我没有急着进站，而是在旁边等了一会儿。 等待的过程中，陆陆续续有人通过安检，准备检票。不知道当时是什么想法，我走上前对一个准备进站的人说：“9 点之后免费… |
+| 2026-08-01 | [从免费的地铁说起](https://yinji.org/starting-with-a-free-metro-ride.html) | 今天出差结束，从成都回到南昌。 出了机场，到了地铁站，走到检票口的时候，突然想起来晚上 9 点之后南昌地铁免费 […] |
 | 2026-08-01 | [周末流水账 0801](https://blog.solazy.me/20260801/) | 久违的周末出行（其实也没过多久） |
 | 2026-08-01 | [Album#45 - Sweet Sticky Thing](https://taxodium.ink/album-45.html) | Album#45 Sweet Sticky Thing 图1 《Sweet Sticky Thing》專輯封面 专辑信息 专辑名称： Sweet Sticky Thing 歌手： Nujabes 年份： 1998-03-16 时长： 約 90 分鐘 給大家分享一張寶藏專輯 ⸺ Nujabes 的 S… |
 | 2026-08-01 | [那些让人脸红的文字](https://www.hecaitou.com/2026/08/writing-that-makes-me-cringe.html) | 「看到自己当年写的文字，尴尬到脚趾挠穿地板怎么办」，这个问题我听过不下一百回。昨天我回答了这个问题，为了纪念一位我很喜欢的演员、音乐人，我重发了自己很多年前随手写过的一篇短文：《 这是我所能达到的最远的距离 》。 讲道理没有多大作用，采取行动才有真正的说服力。 你说我昨天觉得尴尬么？当然，我毕竟是血… |
