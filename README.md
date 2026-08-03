@@ -29,6 +29,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | --- | --- | --- |
 | 2026-08-03 | [别再拿聊天记录拼一个数字人：镜像星河，才是那个真正懂你的自己](https://www.kingname.info/2026/08/03/jingxiang-xinghe-shuzi-ren/) | 凌晨两点，你很想找个人说话。 通讯录里不是没人。只是你知道，真正开口以后，大概率还要从头解释：事情为什么会走到这里，你究竟在怕什么，那个别人眼里明明很好的选择，为什么偏偏让你如此抗拒。 解释到一半，你已经累了。 人最深的孤独，往往不是身边没有人，而是 没有人能跳过漫长的背景介绍，直接抵达你的那一句「… |
 | 2026-08-03 | [NAS 风扇狂转，查出 Thanos Compactor 把 bucket 撑到了 241G](https://blog.tomyail.com/nas-fan-thanos-compactor-halted/) | 一次从 NAS 风扇狂转开始的排障：顺着磁盘 I/O 追到 Thanos Compactor，发现它静默停摆已久、bucket 膨胀到 241G。定位积压、扩容 PVC、用 thanos tools bucket retention 把过期数据一刀清到 18G。根因是 PVC 太小、halt 后不会… |
+| 2026-08-03 | [“畜牲”](https://blog.est.im/2026/stderr-27) | 最近观察到娃学会了一些脱口而出的骂人的话，他骑车遇到看不惯的现象，就会骂一句 “牲口” ！ 我也没太多去干预，毕竟比 “肏” 这类秽语要委婉那么一丢丢。 然后我最近也喜欢一边开 Vibe Coding 一边挂机 Rimworld 种田， 然后就发现一个事儿，我在牧场区域种的 恶蘑菇，一种非食用植物，… |
+| 2026-08-03 | [别急着说自己做不了](https://blog.solazy.me/20260803/) | 不知道写点什么，索性就把今天晚上的一个事实案例写成文章 |
 | 2026-08-03 | [并不抗拒表达](https://z.arlmy.me/posts/ZArlmyMe/Acting_20260803/) | 「并不抗拒表达。」 |
 | 2026-08-03 | [R#113 例行投资复盘](https://blog.sakanano.moe/journals/random_113) | 2026.7.28 ~ 2026.8.3 |
 | 2026-08-03 | [Coldcard 冷钱包漏洞：约 1367 枚 BTC 被盗](https://blog.renfei.net/posts/1626402130325676142) | Coldcard 部分固件错误地使用了可预测的软件伪随机数生成种子，导致私钥可能被离线穷举。 |
@@ -44,6 +46,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-03 | [周记 #13 - 好小子](https://www.taober.blog/posts/weekly-13-20260803) | 2026-07-27 至 2026-08-02 台风过后，深圳又接连下了几天雨，实在很难让人快乐起来。 白天工作上的忙碌，接着晚上的运动，加上下雨天周末的浑浑噩噩，一周又过去了。 标题是我今天刚改的无畏契约 ID，没什么特别的含义，单纯地觉得「好小子」很有感觉（表达了博主对自己的肯定以及对未来的美好… |
 | 2026-08-03 | [2026年的比特币有了新的逻辑？](https://prologue.dev/blog/is-there-a-new-logic-behind-bitcoin-in-2026) | 本文回顾比特币和黄金的基本属性，并从比特币的矿工关机币价、减半周期、美元流动性传导、Strategy风险等方面解构比特币的定价逻辑。作者认为是共识资产因新的叙事、共识、投机与交易创造的新的集体价值。 |
 | 2026-08-02 | [大脑充血 Vol.92](https://www.geedea.pro/weekly/92/) | 我发现自己遇到「不测风云」，也就是那些难以预料的烦心事时，已经能够做到表面平静地发疯十分钟，然后该干嘛干嘛。这周济南总是莫名其妙地开始刮大风、下暴雨，虽然讨厌袜子被打湿的感觉，但包里常备着折叠伞，也还算从容不迫。 其实还有些家人和工作上的大小事，不过我现在更在乎自己刚刚从 MUJI 买的粘毛刷好不好… |
+| 2026-08-02 | [事实证明，机器通过学习，也比你更通人情世故](https://blog.mzh.ren/zh/posts/2026/08/learn-ai-text-style/) | 早上看到这个帖子，感受到碳基生命对硅基生命的满满的恶意啊！ AI 生成文案最恶心的四个字 - V2EX 常见 AI 高频话术 以下我总结了大家比较反感的，也是 AI 比较常用的一些话术： |
 | 2026-08-02 | [NetBox MCP服务器部署](https://songxwn.com/NetBox-MCP-Docker-install/) |  |
 | 2026-08-02 | [PySonar2 如何帮助 AI 节省 Token](https://smallyu.net/2026/08/03/PySonar2%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9AI%E8%8A%82%E7%9C%81Token/) | 结论 今天有一个 “重大” 发现想要分享：<a |
 | 2026-08-02 | [homelab:python安装esphome以及使用](https://dsx2016.com/homelab-installing-esphome-with-python-and-usage/) | esphome安装 首先，homeassistant可以使用add-on插件的方式安装esphome 但是如何... homelab:python安装esphome以及使用 最先出现在 大师兄2016 。 |
