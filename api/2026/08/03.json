@@ -1,5 +1,40 @@
 [
   {
+    "title": "Coldcard 冷钱包漏洞：约 1367 枚 BTC 被盗",
+    "url": "https://blog.renfei.net/posts/1626402130325676142",
+    "date": "2026-08-03T11:54:32Z",
+    "description": "Coldcard 部分固件错误地使用了可预测的软件伪随机数生成种子，导致私钥可能被离线穷举。",
+    "source_root_domain": "renfei.net"
+  },
+  {
+    "title": "野人编年史",
+    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
+    "date": "2026-08-03T06:35:21Z",
+    "description": "野人编年史 野人创始人： 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 重要声明： 野人队 在加入 泳往直前 之前就已成立，我们不是另起炉灶，我们也不搞分裂主义。 我们永远欢迎 泳往直前 成员加入 野人队 ，也永远欢迎 野人队 的成员随时加入 泳往直前 。 野人队 永远是 泳往直前 的好朋友。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入 大竹林冬泳队 。 徐队、张队、熊队日常于 大竹林冬泳基地 进行户外游泳，队伍初具雏形，并开始尝试冬泳。 11月 徐队、张队、熊队代表 大竹林冬泳队 第一次参加广阳岛冬泳比赛。 12月 徐队、张队坚持冬泳，被亮队唤作“野人”， 野人队 队名初具雏形[ 1 ]。 2025年 1月 亮队正式加入，创始人集齐，正式成立 重庆野人冬泳俱乐部 。 2月 制作野人队旗、野人队服、野人泳帽等",
+    "source_root_domain": "zhanglintc.co"
+  },
+  {
+    "title": "拍照往事",
+    "url": "https://www.hecaitou.com/2026/08/Photographic-Memories.html",
+    "date": "2026-08-03T04:24:03Z",
+    "description": "昨天聊到 CCD 相机在新生代那里重又走红，有读者贴出来自己的几台旧佳能相机，一下子把我带回了遥远的 2004 年。 2004 年我在丽江外驻，没有归期，任务是照顾好三义机场的两架驻场波音 737 飞机，然后每天监控运行情况，最后是照顾飞行机组在丽江当地过夜期间的一切吃喝拉撒。其中有一年时间，我住在一栋没有电梯的居民楼的第七层，下班就以写博客作为消遣。 从客厅的窗子看出去，刚好可以看到玉龙雪山。位置不是太好，对面也是一栋七层楼，楼顶是太阳能热水器的储水罐，边上竖着两根杆子。于是，在搬家之前的一年多时间，我每天早起拍摄一张玉龙雪山的照片，发在我的博客上，变成了一场著名的网络行为艺术。如果你还能找见当年的照片的话，那些玉龙雪山边上始终有根杆子戳着的，那就是我的手笔。 每天拍摄一张玉龙雪山照片很痛苦，早起只是一方面，痛苦的真正来源是相机。一开始我买了一台小型卡片机，能力极为孱弱。拍出来的照片有噪点也就罢了，关键是它变焦能力不强还没有防抖功能，导致我在丽江的冬天里，需要顶着寒风，双手伸出窗外，在晃来晃去的取景框里努力捕捉雪山，拍下来的照片却很可能是糊的。于是每天耗时很久，有时候拍完手都冻僵了。",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "这怎么打嘛，一出生就被斩杀夭折了😂 Qw",
+    "url": "https://versun.me/blog/tweet-2084119749295013904",
+    "date": "2026-08-03T03:30:43Z",
+    "description": "这怎么打嘛，一出生就被斩杀夭折了😂 Qwen 3.8 Max Input: $2.0 / M tokens Output: $6.0 / M tokens Implicit Caching: $0.25 / M tokens DS v4 flash Input: $0.14 / M tokens Output: $0.28/ M tokens Implicit Caching:...",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "TIL：有用 Kimi 的注意了， Ki",
+    "url": "https://versun.me/blog/tweet-2084119437922501002",
+    "date": "2026-08-03T03:29:29Z",
+    "description": "TIL：有用 Kimi 的注意了， Kimi Code CLI不受5小时的限制，直接用的周额度噢，亲测有效 [tweet-2084119437922501002-d14b5d04.jpg]",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "流动性时代与未来休克",
     "url": "https://mobius.blog/25271.html",
     "date": "2026-08-03T01:00:00Z",
@@ -52,7 +87,7 @@
     "title": "Blaugust 2026 Feeds - 以及我是如何用 Elisp 製作的",
     "url": "https://taxodium.ink/blaugust-2026-feeds.html",
     "date": "2026-08-02T15:40:00Z",
-    "description": "Blaugust 2026 Feeds 以及我是如何用 Elisp 製作的 生成了一份 Blaugust 2026 Feeds (更新於 2026-08-02)，如果你需要可以點擊下載，然後导入到你的 RSS 閱讀器中。如果你想 參加 Blaugut ，現在就是最好的時間！ 這份 OMPL 文件裡沒有完全包擴 Blaugust 2026 – Meet the Mentors & Participant List 中的博客，因為有的博客無法訪問，有的在頁面上找不到訂閱連結，所以缺失了几個博客。如果在連結裡找不到你的博客，歡迎邮件聯系我，我很樂意更新進去。連結我會定期更新（可能每隔 7 天），你可以看連結後的更新日期了解是否更新過。 我主要是通過博客主頁中的 去查找博客的訂閱連結，一般可以在主頁的 裡找到： head > RSS --> link rel = \"alternate\" type = \"application/rss+xml\" title = \"your blog name\" href = \"https://example.org/feed.xml\" /> Atom --> l",
+    "description": "Blaugust 2026 Feeds 以及我是如何用 Elisp 製作的 生成了一份 Blaugust 2026 Feeds (更新於 2026-08-03)，如果你需要可以點擊下載，然後导入到你的 RSS 閱讀器中。如果你想 參加 Blaugut ，現在就是最好的時間！ 這份 OMPL 文件裡沒有完全包擴 Blaugust 2026 – Meet the Mentors & Participant List 中的博客，因為有的博客無法訪問，有的在頁面上找不到訂閱連結，所以缺失了几個博客。如果在連結裡找不到你的博客，歡迎邮件聯系我，我很樂意更新進去。連結我會定期更新（可能每隔 7 天），你可以看連結後的更新日期了解是否更新過。 我主要是通過博客主頁中的 去查找博客的訂閱連結，一般可以在主頁的 裡找到： head > RSS --> link rel = \"alternate\" type = \"application/rss+xml\" title = \"your blog name\" href = \"https://example.org/feed.xml\" /> Atom --> l",
     "source_root_domain": "taxodium.ink"
   },
   {
