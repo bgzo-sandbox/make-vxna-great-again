@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-03 | [Zine#56 - 數位園藝](https://taxodium.ink/56.html) | Zine#56 數位園藝 🎵 Boléro - Herbert von Karajan / Berliner Philharmoniker Boléro 是法國作曲家 Joseph Maurice Ravel 於 1928 年創作的大型管弦樂作品。 整首曲子小鼓以固定的節拍，從頭到尾反覆演奏，如同心… |
 | 2026-08-03 | [别再拿聊天记录拼一个数字人：镜像星河，才是那个真正懂你的自己](https://www.kingname.info/2026/08/03/jingxiang-xinghe-shuzi-ren/) | 凌晨两点，你很想找个人说话。 通讯录里不是没人。只是你知道，真正开口以后，大概率还要从头解释：事情为什么会走到这里，你究竟在怕什么，那个别人眼里明明很好的选择，为什么偏偏让你如此抗拒。 解释到一半，你已经累了。 人最深的孤独，往往不是身边没有人，而是 没有人能跳过漫长的背景介绍，直接抵达你的那一句「… |
 | 2026-08-03 | [NAS 风扇狂转，查出 Thanos Compactor 把 bucket 撑到了 241G](https://blog.tomyail.com/nas-fan-thanos-compactor-halted/) | 一次从 NAS 风扇狂转开始的排障：顺着磁盘 I/O 追到 Thanos Compactor，发现它静默停摆已久、bucket 膨胀到 241G。定位积压、扩容 PVC、用 thanos tools bucket retention 把过期数据一刀清到 18G。根因是 PVC 太小、halt 后不会… |
 | 2026-08-03 | [“畜牲”](https://blog.est.im/2026/stderr-27) | 最近观察到娃学会了一些脱口而出的骂人的话，他骑车遇到看不惯的现象，就会骂一句 “牲口” ！ 我也没太多去干预，毕竟比 “肏” 这类秽语要委婉那么一丢丢。 然后我最近也喜欢一边开 Vibe Coding 一边挂机 Rimworld 种田， 然后就发现一个事儿，我在牧场区域种的 恶蘑菇，一种非食用植物，… |
