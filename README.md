@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-03 | [流动性时代与未来休克](https://mobius.blog/25271.html) | 我爸从他为之工作了大半辈子的厂退休后，还是被技术返聘了一段时间。我总是开玩笑说，他一旦闲下来就差不多得个心理疾 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-03 | [Ubuntu 24.04 系统启动故障修复记录](https://199604.com/3620) | Ubuntu 24.04 系统启动故障修复记录 记录时间：2026-07-31 环境：Ubuntu 24.04 […] |
+| 2026-08-03 | [周记 #13 - 好小子](https://www.taober.blog/posts/weekly-13-20260803) | 2026-07-27 至 2026-08-02 台风过后，深圳又接连下了几天雨，实在很难让人快乐起来。 白天工作上的忙碌，接着晚上的运动，加上下雨天周末的浑浑噩噩，一周又过去了。 标题是我今天刚改的无畏契约 ID，没什么特别的含义，单纯地觉得「好小子」很有感觉（表达了博主对自己的肯定以及对未来的美好… |
+| 2026-08-03 | [2026年的比特币有了新的逻辑？](https://prologue.dev/blog/is-there-a-new-logic-behind-bitcoin-in-2026) | 本文回顾比特币和黄金的基本属性，并从比特币的矿工关机币价、减半周期、美元流动性传导、Strategy风险等方面解构比特币的定价逻辑。作者认为是共识资产因新的叙事、共识、投机与交易创造的新的集体价值。 |
+| 2026-08-02 | [大脑充血 Vol.92](https://www.geedea.pro/weekly/92/) | 我发现自己遇到「不测风云」，也就是那些难以预料的烦心事时，已经能够做到表面平静地发疯十分钟，然后该干嘛干嘛。这周济南总是莫名其妙地开始刮大风、下暴雨，虽然讨厌袜子被打湿的感觉，但包里常备着折叠伞，也还算从容不迫。 其实还有些家人和工作上的大小事，不过我现在更在乎自己刚刚从 MUJI 买的粘毛刷好不好… |
 | 2026-08-02 | [PySonar2 如何帮助 AI 节省 Token](https://smallyu.net/2026/08/03/PySonar2%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9AI%E8%8A%82%E7%9C%81Token/) | 结论 今天有一个 “重大” 发现想要分享：<a |
 | 2026-08-02 | [homelab:python安装esphome以及使用](https://dsx2016.com/homelab-installing-esphome-with-python-and-usage/) | esphome安装 首先，homeassistant可以使用add-on插件的方式安装esphome 但是如何... homelab:python安装esphome以及使用 最先出现在 大师兄2016 。 |
 | 2026-08-02 | [Blaugust 2026 Feeds - 以及我是如何用 Elisp 製作的](https://taxodium.ink/blaugust-2026-feeds.html) | Blaugust 2026 Feeds 以及我是如何用 Elisp 製作的 生成了一份 Blaugust 2026 Feeds (更新於 2026-08-02)，如果你需要可以點擊下載，然後导入到你的 RSS 閱讀器中。如果你想 參加 Blaugut ，現在就是最好的時間！ 這份 OMPL 文件裡沒… |
@@ -191,23 +196,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-27 | [博客一定要为读者负责吗？I](https://mobius.blog/25175.html) | 这个话题，来自于前几天在莫比乌斯频道里，跟一位网友的对话。 我借用我老婆的观点，提出了一个看法，聊到杨天真是一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-27 | [周记 #12 - 近半年来](https://www.taober.blog/posts/weekly-12-20260727) | 2026-01-26 至 2026-06-24 确实是很久没有更新周记了，根本的原因还是因为我的懒惰。我对「记录」这件事情的依旧怀有极高的热情，但把更多的琐碎的内容放在了 Memos 上，则怠慢了相对较长的 Post。一周没更新，后续更新内容的工作量就会变多，其实我不应该把这个事情理解成是工作量，但… |
 | 2026-07-27 | [大脑充血 Vol.91](https://www.geedea.pro/weekly/91/) | 连续九十周坚持在每周一的早晨或下午发表一篇刊物，大概算得上是自律吧，不过写周刊于我并不是苦修，而是温和的自我管理。我每周都会接收大量的信息，我不想让它们光滑地从我的大脑皮层上掠过，至少应该留下点痕迹。 发刊词 里写的周期性总结之类的话，对如今的我早就不成立了（另外，两年前的我竟然把 ChatGPT… |
-| 2026-07-26 | [Pensieve: 2607](https://xiaket.github.io/2026/pensieve-2607.html) | 所读所观所玩 |
-| 2026-07-26 | [乘坐《上伊那牡丹》特别号蒸汽火车 开启秩父圣地巡礼](https://www.wikimoe.com/post/b-tirmpyb9) | 2026年7月25日，天气晴，今天乘坐《上伊那牡丹》特别号从秩父的御花畑站出发去长瀞站进行圣地巡礼。 西武秩父站 首先乘坐熟悉的特快列车从池袋出发来到了西武秩父站。 今年秩父的夏季主题是——《上伊那牡丹，酒醉身姿似百合花般》。 车站内商场 进入车站内的商场。 这里有贩卖此次联动立绘的相关周边。 顺道… |
-| 2026-07-26 | [2026.7.26](https://www.justzht.com/2026-7-26/) | 无事发生的第二周。 七天里面连续去了公司六天 - 周一周二周四是团队固定的 in office day，周三早上赖了会床，然后发 |
-| 2026-07-26 | [Harbor删除仓库报500错误——PostgreSQL系统表pg_statistic TOAST数据损坏修复](https://199604.com/3607) | Harbor删除仓库报500错误——PostgreSQL系统表pg_statistic TOAST数据损坏修复 […] |
-| 2026-07-26 | [断层里的心理学](https://blog.solazy.me/20260726/) | 今天想聊聊我眼中的心理学 |
-| 2026-07-26 | [告别单向空间](https://lomus.cc/archives/797) | 在单向空间营业的最后一天呆了一下午，买了几本打折的书，喝了最后一杯单向咖啡，最后逛了逛书店，也算是好好跟单向乐 […] 告别单向空间 最先出现在 Lumos's Blog 。 |
-| 2026-07-26 | [Vol.113 软件工厂的瓶颈从生成转向验证：自动化与人类判断的平衡](https://liduos.com/weekly/the-weekly-gradient-113) | 本期内容探讨AI软件生产的瓶颈从生成转向验证，分析自动化与人类判断的平衡，涵盖Agent安全、AI UX设计、模型效率评估及中国AI行业路线选择等核心议题。 |
-| 2026-07-26 | [别急着让 AI 写代码，先把项目里的词讲清楚](https://gptkit.eth.limo/600117E4-40DD-4C26-90EF-42011932421B/) | 最近看了 Matt Pocock 的一段视频： 视频只有 15 分钟，讲的却不是某个新模型或提示词技巧，而是一个更基础的问题：让 AI 参与一个已有代码库时，怎样避免每次都从头解释业务名词和历史决定？ Matt 之前的 /grill-me 会持续追问，把模糊的想法问到可以执行。它并没有失效；问题在于… |
-| 2026-07-26 | [一台电脑上，怎样让两个 Codex CLI 账号互不干扰](https://gptkit.eth.limo/0E7FD68B-7F88-47A0-B90A-75A40F8F2760/) | 两个账号应各自使用独立的本地状态目录；它们可以同时工作，但不共享认证和会话。 一个人同时有个人和工作两个 OpenAI 账号时，最容易踩的坑不是登录，而是登录之后。默认情况下，Codex CLI 把认证、配置、会话和本地状态都放在同一个目录。后一次登录会让下一次启动的 CLI 使用新的身份；MCP、… |
-| 2026-07-26 | [那些没有成为冠军的人](https://www.hecaitou.com/2026/07/those-who-didnt-become-champions.html) | 昨晚看了两条视频，我内心如沸，难以平静。以下就是那两条视频，第一条是前因，第二条是后文。 1、 https://weixin.qq.com/sph/AvpV3FuFOS 2、 https://weixin.qq.com/sph/ARFLtcrx8k 如果我再年轻三十岁，会喜欢视频里的故事---外卖小… |
-| 2026-07-26 | [New Release: DOOM for the PlayStation](https://macsourceports.com/game/doompsx) | In hindsight, one of the ironies of DOOM , famous today for running on everything , is that the consoles of the era couldn't… |
-| 2026-07-26 | [最近惦念 20260716](https://z.arlmy.me/posts/TILs/thoughts/20260716_Recently/) | 「人迷恋的只是自己。」 |
-| 2026-07-26 | [Toots 429 2026 Jul.19 - Jul.25](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260725/) | 「丝滑不是好事。」 |
-| 2026-07-26 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of ioquake3 for Quake III: Arena has been updated to the latest code of the project |
-| 2026-07-26 | [专治“局部磨损”：我的AI牛仔裤选购指南](https://blog.196000.xyz/2026/2026-07-26-life-ai-jeans.html) | 专治“局部磨损”：我的AI牛仔裤选购指南 缘起：一个困扰多年的问题 平时穿得最多的就是牛仔裤。回顾那些被淘汰的裤子，无论价格高低，“死因”惊人地一致——后裆十字缝附近的布料，要么摩擦变色，要么越磨越薄，最后直接拉丝破洞。 我一直想不通：就算是久坐，受力最大的明明是臀部正中间，为什么先报废的反而是它下… |
-| 2026-07-26 | [≡ 005｜这两周莫比乌斯环转到了哪里？](https://mobius.blog/25160.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-26 | [7.26 随想与近期状态小结](https://blog.sakoamc.com/posts/26sx003/) | 题记：人一旦心脉受损，没有了心气、心力，心力交瘁，大概就是这样的吧。席地而坐，抬头观云，你会心情突然变好吗？临崖而立，探头向下，你会想来一次信仰的飞跃吗？ |
 
 ## Vibe Coding
 
