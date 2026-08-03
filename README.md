@@ -27,8 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-03 | [别再拿聊天记录拼一个数字人：镜像星河，才是那个真正懂你的自己](https://www.kingname.info/2026/08/03/jingxiang-xinghe-shuzi-ren/) | 凌晨两点，你很想找个人说话。 通讯录里不是没人。只是你知道，真正开口以后，大概率还要从头解释：事情为什么会走到这里，你究竟在怕什么，那个别人眼里明明很好的选择，为什么偏偏让你如此抗拒。 解释到一半，你已经累了。 人最深的孤独，往往不是身边没有人，而是 没有人能跳过漫长的背景介绍，直接抵达你的那一句「… |
 | 2026-08-03 | [Coldcard 冷钱包漏洞：约 1367 枚 BTC 被盗](https://blog.renfei.net/posts/1626402130325676142) | Coldcard 部分固件错误地使用了可预测的软件伪随机数生成种子，导致私钥可能被离线穷举。 |
+| 2026-08-03 | [AI 大模型的收割机：跑得慢的一个都别想逃](https://wenfeixiang.com/2026/08/deepseek-pk-all-ai-llm/) | 现在的 AI 大模型赛跑太卷了：GLM、Qwen、Minimax 在奋力用腿跑，GPT骑自行车，Claude […] |
+| 2026-08-03 | [2026.8.3](https://www.justzht.com/2026-8-3/) | 八月了，距离夏天的顶端也没多久了。此时我应该在国内，在日本，或者在某个没有名字的东亚城市里，看着潮涨 |
 | 2026-08-03 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人： 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 重要声明： 野人队 在… |
+| 2026-08-03 | [问AI的问题备份 20260803](https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260803/) | 「时间戳。」 |
 | 2026-08-03 | [拍照往事](https://www.hecaitou.com/2026/08/Photographic-Memories.html) | 昨天聊到 CCD 相机在新生代那里重又走红，有读者贴出来自己的几台旧佳能相机，一下子把我带回了遥远的 2004 年。 2004 年我在丽江外驻，没有归期，任务是照顾好三义机场的两架驻场波音 737 飞机，然后每天监控运行情况，最后是照顾飞行机组在丽江当地过夜期间的一切吃喝拉撒。其中有一年时间，我住在… |
 | 2026-08-03 | [这怎么打嘛，一出生就被斩杀夭折了😂 Qw](https://versun.me/blog/tweet-2084119749295013904) | 这怎么打嘛，一出生就被斩杀夭折了😂 Qwen 3.8 Max Input: $2.0 / M tokens Output: $6.0 / M tokens Implicit Caching: $0.25 / M tokens DS v4 flash Input: $0.14 / M tokens O… |
 | 2026-08-03 | [TIL：有用 Kimi 的注意了， Ki](https://versun.me/blog/tweet-2084119437922501002) | TIL：有用 Kimi 的注意了， Kimi Code CLI不受5小时的限制，直接用的周额度噢，亲测有效 [tweet-2084119437922501002-d14b5d04.jpg] |
@@ -39,7 +43,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-02 | [大脑充血 Vol.92](https://www.geedea.pro/weekly/92/) | 我发现自己遇到「不测风云」，也就是那些难以预料的烦心事时，已经能够做到表面平静地发疯十分钟，然后该干嘛干嘛。这周济南总是莫名其妙地开始刮大风、下暴雨，虽然讨厌袜子被打湿的感觉，但包里常备着折叠伞，也还算从容不迫。 其实还有些家人和工作上的大小事，不过我现在更在乎自己刚刚从 MUJI 买的粘毛刷好不好… |
 | 2026-08-02 | [PySonar2 如何帮助 AI 节省 Token](https://smallyu.net/2026/08/03/PySonar2%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9AI%E8%8A%82%E7%9C%81Token/) | 结论 今天有一个 “重大” 发现想要分享：<a |
 | 2026-08-02 | [homelab:python安装esphome以及使用](https://dsx2016.com/homelab-installing-esphome-with-python-and-usage/) | esphome安装 首先，homeassistant可以使用add-on插件的方式安装esphome 但是如何... homelab:python安装esphome以及使用 最先出现在 大师兄2016 。 |
-| 2026-08-02 | [Blaugust 2026 Feeds - 以及我是如何用 Elisp 製作的](https://taxodium.ink/blaugust-2026-feeds.html) | Blaugust 2026 Feeds 以及我是如何用 Elisp 製作的 生成了一份 Blaugust 2026 Feeds (更新於 2026-08-03)，如果你需要可以點擊下載，然後导入到你的 RSS 閱讀器中。如果你想 參加 Blaugut ，現在就是最好的時間！ 這份 OMPL 文件裡沒… |
+| 2026-08-02 | [Blaugust 2026 Feeds - 以及我是如何用 Elisp 製作的](https://taxodium.ink/blaugust-2026-feeds.html) | Blaugust 2026 Feeds 以及我是如何用 Elisp 製作的 生成了一份 Blaugust 2026 Feeds (更新於 2026-08-03)，如果你需要可以點擊下載，然後导入到你的 RSS 閱讀器中。如果你想 參加 Blaugust ，現在就是最好的時間！ 這份 OMPL 文件裡… |
 | 2026-08-02 | [如何安装和设置wireguard？](https://dsx2016.com/how-to-install-and-set-up-wireguard/) | 安装wireguard 在ubuntu server下安装wireguard sudo apt update ... 如何安装和设置wireguard？ 最先出现在 大师兄2016 。 |
 | 2026-08-02 | [周末流水账 0802](https://blog.solazy.me/20260802/) | 这周居然水了两篇流水账 |
 | 2026-08-02 | [向云端｜西南自驾06 - 芷江](https://blog.ops-coffee.com/r/2026-southwest-road-trip-06-zhijiang.html) |  |
@@ -49,6 +53,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-02 | [来信 · 莫良](https://www.gtdstudy.com/guestbook/79160fdf-d95f-4270-aa68-fe4c84ab5178/) |  |
 | 2026-08-02 | [马虎大意险酿错](https://hux.ink/posts/a-lesson/) | 昨天母子俩约了下午三点的游泳课，游泳馆地点其实很近，离家只有 1.5 公里，之前都是骑小电驴过去。 然而临出发前下起瓢泼大雨，无奈开车前往。在商场停车三小时花了25元停车费不说，回家的路上还撞车了。 我们小区的停车场入口设在一处红绿灯和公交站台中间位置，前后各十几米的样子，因此我想右转进入停车场，需… |
 | 2026-08-02 | [Jazz Jackrabbit 2 updated](https://macsourceports.com/game/jazzjackrabbit2) | The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.7.0 of the project |
+| 2026-08-02 | [入蜀记 day435 胎息经](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_435/) | 「胎息经。」 |
 | 2026-08-02 | [低分辨率爱好](https://www.hecaitou.com/2026/08/Low-Resolution-Hobbies.html) | 我终于想到了一个字眼来形容自己这几年的各种心头好：低分辨率爱好。 无论是 CD、磁带、黑胶唱片、平头耳机，还是各种手工制作的器皿，它们的特点都是分辨率低，当然，这里的「低分辨率」不是工程指标，而是一种审美感受：它们往往保留更多的不完美、颗粒感和个体差异。 最明显的例子是磁带和黑胶唱片，在播放的时候其… |
 | 2026-08-02 | [Toots 430 2026 Jul.26 - Aug.1](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260801/) | 「难点也可能是要止损和自限。」 |
 | 2026-08-02 | [Freebuff：免费使用DeepSeek V4 flash 0731的 AI 编程工具](https://luweiqing.com/resources/Freebuff-DeepSeek-V4-flash-0731-AI.html) | Freebuff 想做一个免费的 AI Coding Agent 工具。它不收订阅费，而是用广告养免费用户，再让企业买 Pro。目标是成为 AI 时代的开发者入口。产品定位Freebuff 其实... |
@@ -66,6 +71,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-01 | [为什么我讨厌王虹（注释版）](https://sinyalee.com/blog/?p=1309) | 之前写了《为什么我讨厌王虹》（简称《李厌虹》）。可惜很多人看不懂。我还是犯了一个我经常会犯的错误：假设我和读者 […] |
 | 2026-08-01 | [Token 定价权与 AI 经济新秩序：中美博弈、C 端心智与金融化未来](https://luweiqing.com/gossip/Token-Pricing-Power-and-the-New-Order-of-the-AI-Economy.html) | 摘要在人工智能向纵深发展的当下，Token（词元）已从技术计量单位，全面演变为智能时代的“千瓦时”与“桶油”。工信部及相关研究机构指出，Token 定价正由单一成本驱动，转向“成本约束 + 智能... |
 | 2026-08-01 | [向云端｜西南自驾05 - 长沙](https://blog.ops-coffee.com/r/2026-southwest-road-trip-05-changsha.html) |  |
+| 2026-08-01 | [入蜀记 day434 穿越来的几天](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_434/) | 「穿越来的几天。」 |
 | 2026-08-01 | [总结下这几天发生的事 🤠 [tweet-](https://versun.me/blog/tweet-2083406124397822426) | 总结下这几天发生的事 🤠 [tweet-2083406124397822426-fed78e42.jpg] |
 | 2026-08-01 | [每个人心中都有……](https://mobius.blog/25246.html) | 不是一座断背山，而是一位 Nikki。 很久没有写过影评了，是因为确实没有遇到好电影。不过这两天看了《痴迷》后 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-01 | [TongWeb 应用日志落盘与 JVM 堆配置优化笔记](https://199604.com/3618) | TongWeb 应用日志落盘与 JVM 堆配置优化笔记 记录时间：2026-07-30 环境：K8s（dev […] |
