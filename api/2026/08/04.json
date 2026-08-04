@@ -1,5 +1,19 @@
 [
   {
+    "title": "在 K8s 里搭建 WireGuard VPN 并访问集群网络",
+    "url": "https://www.bboy.app/2026/08/04/%E5%9C%A8-k8s-%E9%87%8C%E6%90%AD%E5%BB%BA-wireguard-vpn-%E5%B9%B6%E8%AE%BF%E9%97%AE%E9%9B%86%E7%BE%A4%E7%BD%91%E7%BB%9C/",
+    "date": "2026-08-04T16:12:00Z",
+    "description": "简介 公司的 K8s 集群都在内网，在家想连上去看个 Pod 状态、查个日志，要么开跳板机要么搞 VPN。之前一直用 NPS 做端口转发凑合用，但每个服务都要单独配一条隧道，端口多了管理起来很累。 干脆在 K8s 里搭个 WireGuard，连上 VPN 就能直接访问集群网络，跟在内网一样。",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "大陆居民申请香港汇丰银行卡流程记录",
+    "url": "https://blog.yasking.org/a/hsbc-bank-card",
+    "date": "2026-08-04T10:20:16Z",
+    "description": "前置条件： 人在香港，手机连接香港的 Wi-Fi 或蜂窝网络（国内卡开数据漫游/香港流量卡）； 手机需支持 NFC 功能（读取港澳通行证）； 港 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
     "title": "野人编年史",
     "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
     "date": "2026-08-04T05:19:10Z",
@@ -255,7 +269,7 @@
     "title": "Blaugust 2026 Feeds - 以及我是如何用 Elisp 製作的",
     "url": "https://taxodium.ink/blaugust-2026-feeds.html",
     "date": "2026-08-02T15:40:00Z",
-    "description": "Blaugust 2026 Feeds 以及我是如何用 Elisp 製作的 生成了一份 Blaugust 2026 Feeds (更新於 2026-08-03)，如果你需要可以點擊下載，然後导入到你的 RSS 閱讀器中。如果你想 參加 Blaugust ，現在就是最好的時間！ 這份 OMPL 文件裡沒有完全包擴 Blaugust 2026 – Meet the Mentors & Participant List 中的博客，因為有的博客無法訪問，有的在頁面上找不到訂閱連結，所以缺失了几個博客。如果在連結裡找不到你的博客，歡迎邮件聯系我，我很樂意更新進去。連結我會定期更新（可能每隔 7 天），你可以看連結後的更新日期了解是否更新過。 我主要是通過博客主頁中的 去查找博客的訂閱連結，一般可以在主頁的 裡找到： head > RSS --> link rel = \"alternate\" type = \"application/rss+xml\" title = \"your blog name\" href = \"https://example.org/feed.xml\" /> Atom --> ",
+    "description": "Blaugust 2026 Feeds 以及我是如何用 Elisp 製作的 生成了一份 Blaugust 2026 Feeds (更新於 2026-08-04，137 / 148)， 如果你需要可以點擊下載，然後导入到你的 RSS 閱讀器中。如果你想 參加 Blaugust ，現在就是最好的時間！ 這份 OMPL 文件裡沒有完全包擴 Blaugust 2026 – Meet the Mentors & Participant List 中的博客，因為有的博客無法訪問，有的在頁面上找不到訂閱連結，所以缺失了几個博客。如果在連結裡找不到你的博客，歡迎邮件聯系我，我很樂意更新進去。連結我會定期更新（可能每隔 7 天），你可以看連結後的更新日期了解是否更新過。 我主要是通過博客主頁中的 去查找博客的訂閱連結，一般可以在主頁的 裡找到： head > RSS --> link rel = \"alternate\" type = \"application/rss+xml\" title = \"your blog name\" href = \"https://example.org/feed.xml\" /",
     "source_root_domain": "taxodium.ink"
   },
   {

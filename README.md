@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-04 | [在 K8s 里搭建 WireGuard VPN 并访问集群网络](https://www.bboy.app/2026/08/04/%E5%9C%A8-k8s-%E9%87%8C%E6%90%AD%E5%BB%BA-wireguard-vpn-%E5%B9%B6%E8%AE%BF%E9%97%AE%E9%9B%86%E7%BE%A4%E7%BD%91%E7%BB%9C/) | 简介 公司的 K8s 集群都在内网，在家想连上去看个 Pod 状态、查个日志，要么开跳板机要么搞 VPN。之前一直用 NPS 做端口转发凑合用，但每个服务都要单独配一条隧道，端口多了管理起来很累。 干脆在 K8s 里搭个 WireGuard，连上 VPN 就能直接访问集群网络，跟在内网一样。 |
+| 2026-08-04 | [大陆居民申请香港汇丰银行卡流程记录](https://blog.yasking.org/a/hsbc-bank-card) | 前置条件： 人在香港，手机连接香港的 Wi-Fi 或蜂窝网络（国内卡开数据漫游/香港流量卡）； 手机需支持 NFC 功能（读取港澳通行证）； 港 … |
 | 2026-08-04 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人： 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 重要声明： 野人队 在… |
 | 2026-08-04 | [未来休克并不只是发生在未来](https://mobius.blog/25282.html) | 继续昨天的文章，在标题里还留下了一个极具迷惑性的“概念”——未来休克。 这是阿尔文·托夫勒在 1970 年出版 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-04 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
@@ -63,7 +65,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-02 | [NetBox MCP服务器部署](https://songxwn.com/NetBox-MCP-Docker-install/) |  |
 | 2026-08-02 | [PySonar2 如何帮助 AI 节省 Token](https://smallyu.net/2026/08/03/PySonar2%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9AI%E8%8A%82%E7%9C%81Token/) | 结论 今天有一个 “重大” 发现想要分享：<a |
 | 2026-08-02 | [homelab:python安装esphome以及使用](https://dsx2016.com/homelab-installing-esphome-with-python-and-usage/) | esphome安装 首先，homeassistant可以使用add-on插件的方式安装esphome 但是如何... homelab:python安装esphome以及使用 最先出现在 大师兄2016 。 |
-| 2026-08-02 | [Blaugust 2026 Feeds - 以及我是如何用 Elisp 製作的](https://taxodium.ink/blaugust-2026-feeds.html) | Blaugust 2026 Feeds 以及我是如何用 Elisp 製作的 生成了一份 Blaugust 2026 Feeds (更新於 2026-08-03)，如果你需要可以點擊下載，然後导入到你的 RSS 閱讀器中。如果你想 參加 Blaugust ，現在就是最好的時間！ 這份 OMPL 文件裡… |
+| 2026-08-02 | [Blaugust 2026 Feeds - 以及我是如何用 Elisp 製作的](https://taxodium.ink/blaugust-2026-feeds.html) | Blaugust 2026 Feeds 以及我是如何用 Elisp 製作的 生成了一份 Blaugust 2026 Feeds (更新於 2026-08-04，137 / 148)， 如果你需要可以點擊下載，然後导入到你的 RSS 閱讀器中。如果你想 參加 Blaugust ，現在就是最好的時間！… |
 | 2026-08-02 | [如何安装和设置wireguard？](https://dsx2016.com/how-to-install-and-set-up-wireguard/) | 安装wireguard 在ubuntu server下安装wireguard sudo apt update ... 如何安装和设置wireguard？ 最先出现在 大师兄2016 。 |
 | 2026-08-02 | [周末流水账 0802](https://blog.solazy.me/20260802/) | 这周居然水了两篇流水账 |
 | 2026-08-02 | [向云端｜西南自驾06 - 芷江](https://blog.ops-coffee.com/r/2026-southwest-road-trip-06-zhijiang.html) |  |
