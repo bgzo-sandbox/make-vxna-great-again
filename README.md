@@ -27,6 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-04 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人： 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 重要声明： 野人队 在… |
+| 2026-08-04 | [未来休克并不只是发生在未来](https://mobius.blog/25282.html) | 继续昨天的文章，在标题里还留下了一个极具迷惑性的“概念”——未来休克。 这是阿尔文·托夫勒在 1970 年出版 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-04 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
+| 2026-08-04 | [看来 qwen 3.8 max 的发布暂](https://versun.me/blog/tweet-2084472010277838990) | 看来 qwen 3.8 max 的发布暂时威胁不到 tipo🤡 [tweet-2084472010277838990-23ac3125.jpg] |
+| 2026-08-04 | [观山](https://www.hecaitou.com/2026/08/On-Watching-the-Mountain.html) | 经过 24 小时的恢复，我又能重新访问自己又拍网的相册。有点唏嘘，互联网上最大的赞美都给了这总，那总，赞美的点都是股价，都是身价，像又拍这样多年来持续提供服务的公司，其实更应该赞美。在网上维护过任何一个长期项目的人都应该理解我在说什么，理解这其中的不易。 打开相册第一件事，就是直奔我的玉龙雪山专题。… |
+| 2026-08-04 | [知了 II](https://mobius.blog/25277.html) | （2026·全国卷）昆虫恐惧症，是一种特定的动物恐惧症，其特征是对一种或多种昆虫过度或不切实际的恐惧（厌恶）。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-04 | [WAF加白放行渗透流量引发nginx到ingress异常连接的排查](https://199604.com/3623) | WAF加白放行渗透流量引发nginx到ingress异常连接的排查 记录时间：2026-07-31 环境：外层 […] |
+| 2026-08-04 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.4 of the project |
 | 2026-08-03 | [让国行 iPhone 拥有 eSIM 能力](https://lomus.cc/archives/811) | 作为一个赛博数字游民，一张海外手机卡是必不可少的，但相信很多人也看到消息了，前几天英国运营商 Giffgaff […] 让国行 iPhone 拥有 eSIM 能力 最先出现在 Lumos's Blog 。 |
 | 2026-08-03 | [Zine#56 - 數位園藝](https://taxodium.ink/56.html) | Zine#56 數位園藝 🎵 Boléro - Herbert von Karajan / Berliner Philharmoniker Boléro 是法國作曲家 Joseph Maurice Ravel 於 1928 年創作的大型管弦樂作品。 整首曲子小鼓以固定的節拍，從頭到尾反覆演奏，如同心… |
 | 2026-08-03 | [别再拿聊天记录拼一个数字人：镜像星河，才是那个真正懂你的自己](https://www.kingname.info/2026/08/03/jingxiang-xinghe-shuzi-ren/) | 凌晨两点，你很想找个人说话。 通讯录里不是没人。只是你知道，真正开口以后，大概率还要从头解释：事情为什么会走到这里，你究竟在怕什么，那个别人眼里明明很好的选择，为什么偏偏让你如此抗拒。 解释到一半，你已经累了。 人最深的孤独，往往不是身边没有人，而是 没有人能跳过漫长的背景介绍，直接抵达你的那一句「… |
@@ -38,8 +46,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-03 | [R#113 例行投资复盘](https://blog.sakanano.moe/journals/random_113) | 2026.7.28 ~ 2026.8.3 |
 | 2026-08-03 | [Coldcard 冷钱包漏洞：约 1367 枚 BTC 被盗](https://blog.renfei.net/posts/1626402130325676142) | Coldcard 部分固件错误地使用了可预测的软件伪随机数生成种子，导致私钥可能被离线穷举。 |
 | 2026-08-03 | [AI 大模型的收割机：跑得慢的一个都别想逃](https://wenfeixiang.com/2026/08/deepseek-pk-all-ai-llm/) | 现在的 AI 大模型赛跑太卷了：GLM、Qwen、Minimax 在奋力用腿跑，GPT骑自行车，Claude […] |
+| 2026-08-03 | [拜托你们给软件取名字的时候有创意点好吗，](https://versun.me/blog/tweet-2084216462768824602) | 拜托你们给软件取名字的时候有创意点好吗，我现在看到 open 就想绕着走，根本没有用的欲望🤣 |
+| 2026-08-03 | [难为你了🤣 应该试了好久才找到这个测试用](https://versun.me/blog/tweet-2084214645804486884) | 难为你了🤣 应该试了好久才找到这个测试用例吧🤣 [tweet-2084131963259310329-90c24973.mp4] |
 | 2026-08-03 | [2026.8.3](https://www.justzht.com/2026-8-3/) | 八月了，距离夏天的顶端也没多久了。此时我应该在国内，在日本，或者在某个没有名字的东亚城市里，看着潮涨 |
-| 2026-08-03 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人： 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 重要声明： 野人队 在… |
+| 2026-08-03 | [Kimi 目前套餐只有顶配才能爽用，看着](https://versun.me/blog/tweet-2084168541323022583) | Kimi 目前套餐只有顶配才能爽用，看着群里各个都在喊429，而我开着两个 K3 Max 1M Swarm 在那狂蹬，从早蹬到现在。。。。 对不住了兄弟们，资源我抢了😋 [tweet-2084168541323022583-e147f693.jpg][tweet-208416854132302258… |
 | 2026-08-03 | [问AI的问题备份 20260803](https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260803/) | 「时间戳。」 |
 | 2026-08-03 | [拍照往事](https://www.hecaitou.com/2026/08/Photographic-Memories.html) | 昨天聊到 CCD 相机在新生代那里重又走红，有读者贴出来自己的几台旧佳能相机，一下子把我带回了遥远的 2004 年。 2004 年我在丽江外驻，没有归期，任务是照顾好三义机场的两架驻场波音 737 飞机，然后每天监控运行情况，最后是照顾飞行机组在丽江当地过夜期间的一切吃喝拉撒。其中有一年时间，我住在… |
 | 2026-08-03 | [这怎么打嘛，一出生就被斩杀夭折了😂 Qw](https://versun.me/blog/tweet-2084119749295013904) | 这怎么打嘛，一出生就被斩杀夭折了😂 Qwen 3.8 Max Input: $2.0 / M tokens Output: $6.0 / M tokens Implicit Caching: $0.25 / M tokens DS v4 flash Input: $0.14 / M tokens O… |
