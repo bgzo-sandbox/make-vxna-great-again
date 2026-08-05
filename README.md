@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-05 | [拿 AI 写了个游戏谈谈心得](https://iceprosurface.com/thought/building-a-game-with-ai/) | 最近伙同我的好友 @Codex(是的没错，他自己取名字叫 @Codex，并不是 OpenAI 的 Codex)，我们两个差不多奋战了3周，把一个游戏从零做到了上线。 游戏叫《无限弹球》，已经在 TapTap 上线 。截至 2026 年 8 月 5 日，页面显示 8.8 分、64 条评价、1.8 万热… |
+| 2026-08-05 | [电信宽带携号转网到联通宽带](https://depp.wang/2026/china-unicom-broadband/) | 01 为什么转 主要是因为价格与动态 IPv4 公网 IP。 我原来用的是电信融合宽带，99 元一个月，300M 的宽带，但是只有 20G 流量。 之前给我装电信宽带的师傅后来跳到移动了，上上个月他问我合约期到了没有，要不要换移动宽带。我这边是不想换移动宽带的，因为移动宽带口碑太差了。我就查了我的合… |
+| 2026-08-05 | [艾尔特拉克在岣琅](https://www.geedea.pro/article/banality-of-go-err/) | 汉娜·阿伦特报道了阿道夫·艾希曼在耶路撒冷因组织屠杀犹太人受审的案件，在法庭上，她发现艾希曼并不是一个冷静且思维缜密的杀手，相反，“说话时间越长，越能感受到他表达力的匮乏与思考能力的缺失，他不会站在别人的立场思考问题，之所以无法同他交流，并不是因为他说谎，而是因为他周围围绕着坚固的壁垒，屏蔽他的言辞… |
 | 2026-08-05 | [向云端｜西南自驾07 - 新晃](https://blog.ops-coffee.com/r/2026-southwest-road-trip-07-xinhuang.html) |  |
 | 2026-08-05 | [Docker Compose 部署 Dify 教程](https://songxwn.com/Dify-Docker-Compose/) |  |
 | 2026-08-05 | [信息税](https://z.arlmy.me/posts/ZArlmyMe/Desktop_20260805/) | 「信息税。」 |
@@ -52,7 +55,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-03 | [Zine#56 - 數位園藝](https://taxodium.ink/56.html) | Zine#56 數位園藝 🎵 Boléro - Herbert von Karajan / Berliner Philharmoniker Boléro 是法國作曲家 Joseph Maurice Ravel 於 1928 年創作的大型管弦樂作品。 整首曲子小鼓以固定的節拍，從頭到尾反覆演奏，如同心… |
 | 2026-08-03 | [别再拿聊天记录拼一个数字人：镜像星河，才是那个真正懂你的自己](https://www.kingname.info/2026/08/03/jingxiang-xinghe-shuzi-ren/) | 凌晨两点，你很想找个人说话。 通讯录里不是没人。只是你知道，真正开口以后，大概率还要从头解释：事情为什么会走到这里，你究竟在怕什么，那个别人眼里明明很好的选择，为什么偏偏让你如此抗拒。 解释到一半，你已经累了。 人最深的孤独，往往不是身边没有人，而是 没有人能跳过漫长的背景介绍，直接抵达你的那一句「… |
 | 2026-08-03 | [NAS 风扇狂转，查出 Thanos Compactor 把 bucket 撑到了 241G](https://blog.tomyail.com/nas-fan-thanos-compactor-halted/) | 一次从 NAS 风扇狂转开始的排障：顺着磁盘 I/O 追到 Thanos Compactor，发现它静默停摆已久、bucket 膨胀到 241G。定位积压、扩容 PVC、用 thanos tools bucket retention 把过期数据一刀清到 18G。根因是 PVC 太小、halt 后不会… |
-| 2026-08-03 | [新安江桨板游玩](http://www.uncoverman.com/xinan-river-tour.html) | 周末遛娃，去了一趟建德，在新安江上划了桨板，参观了新安江水电站和农夫山泉工厂，吃到了特色美食豆腐包、水晶糕，顺路经过桐庐服务区看水族馆和美人鱼。周六早上出发，周日晚上到家，两天一夜，全程自驾，行程不赶，满足归来，唯一遗憾是没有看到白沙奇雾。 划桨板 建德的第一站是新安夏日绿道冬泳基地，这里离新安江水… |
+| 2026-08-03 | [新安江桨板游玩](http://www.uncoverman.com/xinan-river-tour.html) | 周 末遛娃，去了一趟建德，在新安江上划了桨板，参观了新安江水电站和农夫山泉工厂，吃到了特色美食豆腐包、水晶糕，顺路经过桐庐服务区看水族馆和美人鱼。 周六早上出发，周日晚上到家，两天一夜，全程自驾，行程不赶，满足归来，唯一遗憾是没有看到白沙奇雾。 # 划桨板 建德的第一站是新安夏日绿道冬泳基地，这里离… |
 | 2026-08-03 | [“畜牲”](https://blog.est.im/2026/stderr-27) | 最近观察到娃学会了一些脱口而出的骂人的话，他骑车遇到看不惯的现象，就会骂一句 “牲口” ！ 我也没太多去干预，毕竟比 “肏” 这类秽语要委婉那么一丢丢。 然后我最近也喜欢一边开 Vibe Coding 一边挂机 Rimworld 种田， 然后就发现一个事儿，我在牧场区域种的 恶蘑菇，一种非食用植物，… |
 | 2026-08-03 | [别急着说自己做不了](https://blog.solazy.me/20260803/) | 不知道写点什么，索性就把今天晚上的一个事实案例写成文章 |
 | 2026-08-03 | [并不抗拒表达](https://z.arlmy.me/posts/ZArlmyMe/Acting_20260803/) | 「并不抗拒表达。」 |
