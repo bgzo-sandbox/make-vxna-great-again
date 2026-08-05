@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-05 | [向云端｜西南自驾07 - 新晃](https://blog.ops-coffee.com/r/2026-southwest-road-trip-07-xinhuang.html) |  |
 | 2026-08-05 | [Docker Compose 部署 Dify 教程](https://songxwn.com/Dify-Docker-Compose/) |  |
 | 2026-08-05 | [信息税](https://z.arlmy.me/posts/ZArlmyMe/Desktop_20260805/) | 「信息税。」 |
 | 2026-08-05 | [恶人做在前](https://www.hecaitou.com/2026/08/the-case-for-playing-the-villain-first.html) | 看网上讨论「边界感」的话题， 我感觉普遍都很温馨感人。至于说有没有用，听完能在多大程度上守住自己的边界，那就是两说了。 我想，边界感最大的敌人有三个，分别是：亲密关系，内心希求和个人崇拜。关系太亲密，越界迟早会出现，很多人认为这才是真正亲密的体现，古人说过：近之则不逊。 内心希求的意思是说，在对方身… |
