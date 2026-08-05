@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-05 | [Docker Compose 部署 Dify 教程](https://songxwn.com/Dify-Docker-Compose/) |  |
 | 2026-08-05 | [信息税](https://z.arlmy.me/posts/ZArlmyMe/Desktop_20260805/) | 「信息税。」 |
 | 2026-08-05 | [恶人做在前](https://www.hecaitou.com/2026/08/the-case-for-playing-the-villain-first.html) | 看网上讨论「边界感」的话题， 我感觉普遍都很温馨感人。至于说有没有用，听完能在多大程度上守住自己的边界，那就是两说了。 我想，边界感最大的敌人有三个，分别是：亲密关系，内心希求和个人崇拜。关系太亲密，越界迟早会出现，很多人认为这才是真正亲密的体现，古人说过：近之则不逊。 内心希求的意思是说，在对方身… |
 | 2026-08-05 | [找到那件值得“浪费一生”的事情](https://mobius.blog/25290.html) | 流动的时代性，看上去让人们获得了更多的身份自由，但也同样让原本应该固定在某一锚点的归属感与意义，能够被轻易改变 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -34,6 +35,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-05 | [Memos #2026-08-04](https://www.taober.blog/memos) | 21:00 总算是把 OS 的弹框 overlay 和 hash 路由协议下掉了，重构一版 mf 和路由设计，发到测试环境后，浑身舒畅！ |
 | 2026-08-04 | [Debian Linux 网络快速配置工具](https://songxwn.com/Debian-network-tui/) | 这篇教程将详细说明如何在裸金属服务器初始化时，通过 ISO 挂载并使用 Debian-network-tui 图形化快速完成网络配置，避免手工编辑 /etc/network/interfaces 的繁琐与错误。 还能自动化配置apt源、DNS、SSH服务+公钥导入 适用于Debian 11-13 使… |
 | 2026-08-04 | [在 K8s 里搭建 WireGuard VPN 并访问集群网络](https://www.bboy.app/2026/08/04/%E5%9C%A8-k8s-%E9%87%8C%E6%90%AD%E5%BB%BA-wireguard-vpn-%E5%B9%B6%E8%AE%BF%E9%97%AE%E9%9B%86%E7%BE%A4%E7%BD%91%E7%BB%9C/) | 简介 公司的 K8s 集群都在内网，在家想连上去看个 Pod 状态、查个日志，要么开跳板机要么搞 VPN。之前一直用 NPS 做端口转发凑合用，但每个服务都要单独配一条隧道，端口多了管理起来很累。 干脆在 K8s 里搭个 WireGuard，连上 VPN 就能直接访问集群网络，跟在内网一样。 |
+| 2026-08-04 | [轻糖的 KMP 渐进式迁移实践（三）：KMPObservableViewModel 直连，iOS 本地 ViewModel 全量退休](https://youngxhui.top/2026/08/sugarlite-kmp-migration-3/) | 第二篇文章 的结尾，我们给出的方案是"KMP ViewModel + SKIE + 一个 50 行的 StateHolder"，当时我们说：这个成本很低，一个 ViewModel 的桥接通常不到 50 行。 这句话后来被我们收回了。 成本确实低，但它是一笔 数量税 ——23 个 ViewModel… |
 | 2026-08-04 | [无用命途：博客深潜者](https://blog.mfwt.top/index.php/archives/1481/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。 |
 | 2026-08-04 | [又是一年，祝自己生日快乐](https://blog.solazy.me/20260804/) | 又老了一岁 |
 | 2026-08-04 | [大陆居民申请香港汇丰银行卡流程记录](https://blog.yasking.org/a/hsbc-bank-card) | 前置条件： 人在香港，手机连接香港的 Wi-Fi 或蜂窝网络（国内卡开数据漫游/香港流量卡）； 手机需支持 NFC 功能（读取港澳通行证）； 港 … |
