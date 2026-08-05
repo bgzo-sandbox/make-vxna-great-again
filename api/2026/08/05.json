@@ -1,0 +1,261 @@
+[
+  {
+    "title": "Jenkins Vue 流水线 pnpm install 报 ERR_PNPM_OUTDATED_LOCKFILE 排查",
+    "url": "https://199604.com/3626",
+    "date": "2026-08-05T02:14:21Z",
+    "description": "Jenkins Vue 流水线 pnpm install 报 ERRPNPMOUTDATED_LOCKFI […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "Memos #2026-08-04",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-08-05T00:00:00Z",
+    "description": "21:00 总算是把 OS 的弹框 overlay 和 hash 路由协议下掉了，重构一版 mf 和路由设计，发到测试环境后，浑身舒畅！",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "在 K8s 里搭建 WireGuard VPN 并访问集群网络",
+    "url": "https://www.bboy.app/2026/08/04/%E5%9C%A8-k8s-%E9%87%8C%E6%90%AD%E5%BB%BA-wireguard-vpn-%E5%B9%B6%E8%AE%BF%E9%97%AE%E9%9B%86%E7%BE%A4%E7%BD%91%E7%BB%9C/",
+    "date": "2026-08-04T16:12:00Z",
+    "description": "简介 公司的 K8s 集群都在内网，在家想连上去看个 Pod 状态、查个日志，要么开跳板机要么搞 VPN。之前一直用 NPS 做端口转发凑合用，但每个服务都要单独配一条隧道，端口多了管理起来很累。 干脆在 K8s 里搭个 WireGuard，连上 VPN 就能直接访问集群网络，跟在内网一样。",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "无用命途：博客深潜者",
+    "url": "https://blog.mfwt.top/index.php/archives/1481/",
+    "date": "2026-08-04T15:59:00Z",
+    "description": "《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "又是一年，祝自己生日快乐",
+    "url": "https://blog.solazy.me/20260804/",
+    "date": "2026-08-04T13:00:00Z",
+    "description": "又老了一岁",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "大陆居民申请香港汇丰银行卡流程记录",
+    "url": "https://blog.yasking.org/a/hsbc-bank-card",
+    "date": "2026-08-04T10:20:16Z",
+    "description": "前置条件： 人在香港，手机连接香港的 Wi-Fi 或蜂窝网络（国内卡开数据漫游/香港流量卡）； 手机需支持 NFC 功能（读取港澳通行证）； 港 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "野人编年史",
+    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
+    "date": "2026-08-04T05:19:10Z",
+    "description": "野人编年史 野人创始人： 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 重要声明： 野人队 在加入 泳往直前 之前就已成立，我们不是另起炉灶，我们也不搞分裂主义。 我们永远欢迎 泳往直前 成员加入 野人队 ，也永远欢迎 野人队 的成员随时加入 泳往直前 。 野人队 永远是 泳往直前 的好朋友。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入 大竹林冬泳队 。 徐队、张队、熊队日常于 大竹林冬泳基地 进行户外游泳，队伍初具雏形，并开始尝试冬泳。 11月 徐队、张队、熊队代表 大竹林冬泳队 第一次参加广阳岛冬泳比赛。 12月 徐队、张队坚持冬泳，被亮队唤作“野人”， 野人队 队名初具雏形[ 1 ]。 2025年 1月 亮队正式加入，创始人集齐，正式成立 重庆野人冬泳俱乐部 。 2月 制作野人队旗、野人队服、野人泳帽等",
+    "source_root_domain": "zhanglintc.co"
+  },
+  {
+    "title": "未来休克并不只是发生在未来",
+    "url": "https://mobius.blog/25282.html",
+    "date": "2026-08-04T04:36:44Z",
+    "description": "继续昨天的文章，在标题里还留下了一个极具迷惑性的“概念”——未来休克。 这是阿尔文·托夫勒在 1970 年出版 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Quake III: Arena updated",
+    "url": "https://macsourceports.com/game/quake3arena",
+    "date": "2026-08-04T03:14:22Z",
+    "description": "The build of Quake3e for Quake III: Arena has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "看来 qwen 3.8 max 的发布暂",
+    "url": "https://versun.me/blog/tweet-2084472010277838990",
+    "date": "2026-08-04T02:50:29Z",
+    "description": "看来 qwen 3.8 max 的发布暂时威胁不到 tipo🤡 [tweet-2084472010277838990-23ac3125.jpg]",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "观山",
+    "url": "https://www.hecaitou.com/2026/08/On-Watching-the-Mountain.html",
+    "date": "2026-08-04T02:36:56Z",
+    "description": "经过 24 小时的恢复，我又能重新访问自己又拍网的相册。有点唏嘘，互联网上最大的赞美都给了这总，那总，赞美的点都是股价，都是身价，像又拍这样多年来持续提供服务的公司，其实更应该赞美。在网上维护过任何一个长期项目的人都应该理解我在说什么，理解这其中的不易。 打开相册第一件事，就是直奔我的玉龙雪山专题。刚好翻出两张我用卡片机拍的雪山照片，它们也许可以回答「你为什么每天拍同一个地方，这有什么意思」： 的确是同一个地方，连我站立拍摄的位置都相差无几。但是，玉龙雪山上顶着两层帽子，有两层云砧的景象，应该很少见吧？更多的是那种大晴天下的一座山，山尖上点缀着一些冰雪的模样，整个冬季它看上去差不多都是这个样子。 从每一天的角度去观察，你会发现一座山在一年里的大多数时候都没有什么变化。变的是天空，变的是白云，变的是光影，山本身没有多少变化。无非是从春到夏，雪线慢慢爬升，最后只剩下山尖上的一点点。而从秋到冬，雪线慢慢下降，就像是那山慢慢白了头。如果你只是看几天，看几周，大概率很难发现这些细微的变化。 从一年的角度去观察，结论又不一样。你可以像我一样，在相册里挑选出最特别的几张，变化最大的几张，对比最强烈的",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "知了 II",
+    "url": "https://mobius.blog/25277.html",
+    "date": "2026-08-04T02:36:05Z",
+    "description": "（2026·全国卷）昆虫恐惧症，是一种特定的动物恐惧症，其特征是对一种或多种昆虫过度或不切实际的恐惧（厌恶）。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "WAF加白放行渗透流量引发nginx到ingress异常连接的排查",
+    "url": "https://199604.com/3623",
+    "date": "2026-08-04T02:24:10Z",
+    "description": "WAF加白放行渗透流量引发nginx到ingress异常连接的排查 记录时间：2026-07-31 环境：外层 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "RollerCoaster Tycoon 2 updated",
+    "url": "https://macsourceports.com/game/rct2",
+    "date": "2026-08-04T02:21:24Z",
+    "description": "The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.4 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "让国行 iPhone 拥有 eSIM 能力",
+    "url": "https://lomus.cc/archives/811",
+    "date": "2026-08-03T23:30:00Z",
+    "description": "作为一个赛博数字游民，一张海外手机卡是必不可少的，但相信很多人也看到消息了，前几天英国运营商 Giffgaff […] 让国行 iPhone 拥有 eSIM 能力 最先出现在 Lumos's Blog 。",
+    "source_root_domain": "lomus.cc"
+  },
+  {
+    "title": "Zine#56 - 數位園藝",
+    "url": "https://taxodium.ink/56.html",
+    "date": "2026-08-03T19:00:00Z",
+    "description": "Zine#56 數位園藝 🎵 Boléro - Herbert von Karajan / Berliner Philharmoniker Boléro 是法國作曲家 Joseph Maurice Ravel 於 1928 年創作的大型管弦樂作品。 整首曲子小鼓以固定的節拍，從頭到尾反覆演奏，如同心跳一般，在這之上各種樂器重複演奏著同一段旋律，越到後面，曲子變得更厚實、音量也更大，直到最後全管弦樂團齊奏。給我的感覺就像是在一座塔的內部，爬一條螺旋上升的阶梯，隨著爬升离塔頂越來越近，塔頂的透進來的光也越來越亮。 最早聴到這首曲子，大概是在數碼寶貝 (第一季的 21 集) 里聴到的，當時 Boléro 的旋律給我留下了很深的印象，很久以後再次聴到這首曲子，才知道曲子的名字。 我很喜歡 Boléro 里的小鼓的聲音，給我一種在行進中的感覺，虽然是在重複同一段旋律，但經由不同樂器演奏，16 分鐘的曲子聴下來也不會覺得單調無聊。 News | Article 我的部落格 在 YangBear 的 一期一會 里發現了這個博客，我挺喜歡的。博客的排版很不錯 (有關心無障碍，也用上了更合理的 CSS ",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "别再拿聊天记录拼一个数字人：镜像星河，才是那个真正懂你的自己",
+    "url": "https://www.kingname.info/2026/08/03/jingxiang-xinghe-shuzi-ren/",
+    "date": "2026-08-03T18:00:00Z",
+    "description": "凌晨两点，你很想找个人说话。 通讯录里不是没人。只是你知道，真正开口以后，大概率还要从头解释：事情为什么会走到这里，你究竟在怕什么，那个别人眼里明明很好的选择，为什么偏偏让你如此抗拒。 解释到一半，你已经累了。 人最深的孤独，往往不是身边没有人，而是 没有人能跳过漫长的背景介绍，直接抵达你的那一句「我懂」。 这几年，市面上出现了很多「数字人」产品。最常见的做法，是上传微信聊天记录、朋友圈、语音和照片，再让 AI 学会一个人的口头禅、表情和常用句式。 它可能会模仿你说「哈哈哈哈」，知道你习惯在句尾加一个「吧」，甚至能复述几段你曾经讲过的话。 但会说你的话，不等于会像你一样思考。 聊天记录复刻的是你留下的回声；镜像星河想做的，是找到发出这道声音的人。",
+    "source_root_domain": "kingname.info"
+  },
+  {
+    "title": "NAS 风扇狂转，查出 Thanos Compactor 把 bucket 撑到了 241G",
+    "url": "https://blog.tomyail.com/nas-fan-thanos-compactor-halted/",
+    "date": "2026-08-03T17:35:07Z",
+    "description": "一次从 NAS 风扇狂转开始的排障：顺着磁盘 I/O 追到 Thanos Compactor，发现它静默停摆已久、bucket 膨胀到 241G。定位积压、扩容 PVC、用 thanos tools bucket retention 把过期数据一刀清到 18G。根因是 PVC 太小、halt 后不会自动重试，导致 retention 从上线起就没跑完过。最后补上告警，防止 compactor 再次静默失败。",
+    "source_root_domain": "tomyail.com"
+  },
+  {
+    "title": "新安江桨板游玩",
+    "url": "http://www.uncoverman.com/xinan-river-tour.html",
+    "date": "2026-08-03T16:00:00Z",
+    "description": "周末遛娃，去了一趟建德，在新安江上划了桨板，参观了新安江水电站和农夫山泉工厂，吃到了特色美食豆腐包、水晶糕，顺路经过桐庐服务区看水族馆和美人鱼。周六早上出发，周日晚上到家，两天一夜，全程自驾，行程不赶，满足归来，唯一遗憾是没有看到白沙奇雾。 划桨板 建德的第一站是新安夏日绿道冬泳基地，这里离新安江水电站不足 1 公里，水从千岛湖经过水电站流下来，环境非常好，看着远处高耸的水杉，俨然一种在国外度假的感觉。现场有很多人在玩水、游泳、划桨板、划皮划艇等。 桨板这项运动，以前没有尝试过，只是在网上刷到有人在宁波东部新城的河道上玩耍。 种草这个活动缘起一个房车自驾的老哥来 新安江玩过 ，基于「人生在于体验」的理念，就选了桨板。 老板说，第一次玩，让我一个人先上，会掌握方向后，再让家里人一起。通过一番简单指导，没什么难度就上手了，就是要小心点，别划到江中间去，不然会被浪冲走单靠人的臂力划不回来。 周末下午一小时 100 元，其他时",
+    "source_root_domain": "uncoverman.com"
+  },
+  {
+    "title": "“畜牲”",
+    "url": "https://blog.est.im/2026/stderr-27",
+    "date": "2026-08-03T15:24:00Z",
+    "description": "最近观察到娃学会了一些脱口而出的骂人的话，他骑车遇到看不惯的现象，就会骂一句 “牲口” ！ 我也没太多去干预，毕竟比 “肏” 这类秽语要委婉那么一丢丢。 然后我最近也喜欢一边开 Vibe Coding 一边挂机 Rimworld 种田， 然后就发现一个事儿，我在牧场区域种的 恶蘑菇，一种非食用植物，不会被动物吃掉；如果种玉米 稻米 土豆就会被偷吃，然后基地的粮食就少了一份。 所以突然就得到这么一个莫名其妙的理论： 动物并不会去主动破坏自己吃不了的东西 可能也有反例，狼、狮子会杀死竞争者的幼崽，黑猩猩会打架，一些鸟会破坏别的鸟的蛋；松鼠会偷走自己暂时吃不了的东西；海豚玩弄猎物； 通过这些例子，感觉破坏性和智力正相关，也就是利用预测能力和因果性去糟蹋东西。骂人是动物，仿佛动物低人一等，但是人心有的时候，甚至还不如“畜牲” 如果把这个限定缩小一点： 动物作恶的能力仅限身体。 人类里的坏逼，可能是唯一为了某个概念性的目标，会系统性破坏自己无法直接利用、甚至未来有价值东西的动物 智力让生物获得了创造未来的能力，也让它获得了毁灭未来的能力。 植物貌似也只会利用身体去占领局部环境，比如分泌毒素，遮挡",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "别急着说自己做不了",
+    "url": "https://blog.solazy.me/20260803/",
+    "date": "2026-08-03T15:00:00Z",
+    "description": "不知道写点什么，索性就把今天晚上的一个事实案例写成文章",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "并不抗拒表达",
+    "url": "https://z.arlmy.me/posts/ZArlmyMe/Acting_20260803/",
+    "date": "2026-08-03T13:16:03Z",
+    "description": "「并不抗拒表达。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "R#113 例行投资复盘",
+    "url": "https://blog.sakanano.moe/journals/random_113",
+    "date": "2026-08-03T13:00:00Z",
+    "description": "2026.7.28 ~ 2026.8.3",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "Coldcard 冷钱包漏洞：约 1367 枚 BTC 被盗",
+    "url": "https://blog.renfei.net/posts/1626402130325676142",
+    "date": "2026-08-03T11:54:32Z",
+    "description": "Coldcard 部分固件错误地使用了可预测的软件伪随机数生成种子，导致私钥可能被离线穷举。",
+    "source_root_domain": "renfei.net"
+  },
+  {
+    "title": "AI 大模型的收割机：跑得慢的一个都别想逃",
+    "url": "https://wenfeixiang.com/2026/08/deepseek-pk-all-ai-llm/",
+    "date": "2026-08-03T10:22:14Z",
+    "description": "现在的 AI 大模型赛跑太卷了：GLM、Qwen、Minimax 在奋力用腿跑，GPT骑自行车，Claude […]",
+    "source_root_domain": "wenfeixiang.com"
+  },
+  {
+    "title": "拜托你们给软件取名字的时候有创意点好吗，",
+    "url": "https://versun.me/blog/tweet-2084216462768824602",
+    "date": "2026-08-03T09:55:02Z",
+    "description": "拜托你们给软件取名字的时候有创意点好吗，我现在看到 open 就想绕着走，根本没有用的欲望🤣",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "难为你了🤣 应该试了好久才找到这个测试用",
+    "url": "https://versun.me/blog/tweet-2084214645804486884",
+    "date": "2026-08-03T09:47:49Z",
+    "description": "难为你了🤣 应该试了好久才找到这个测试用例吧🤣 [tweet-2084131963259310329-90c24973.mp4]",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "2026.8.3",
+    "url": "https://www.justzht.com/2026-8-3/",
+    "date": "2026-08-03T07:35:49Z",
+    "description": "八月了，距离夏天的顶端也没多久了。此时我应该在国内，在日本，或者在某个没有名字的东亚城市里，看着潮涨",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "Kimi 目前套餐只有顶配才能爽用，看着",
+    "url": "https://versun.me/blog/tweet-2084168541323022583",
+    "date": "2026-08-03T06:44:36Z",
+    "description": "Kimi 目前套餐只有顶配才能爽用，看着群里各个都在喊429，而我开着两个 K3 Max 1M Swarm 在那狂蹬，从早蹬到现在。。。。 对不住了兄弟们，资源我抢了😋 [tweet-2084168541323022583-e147f693.jpg][tweet-2084168541323022583-8ab5c848.png]",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "问AI的问题备份 20260803",
+    "url": "https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260803/",
+    "date": "2026-08-03T06:34:46Z",
+    "description": "「时间戳。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "拍照往事",
+    "url": "https://www.hecaitou.com/2026/08/Photographic-Memories.html",
+    "date": "2026-08-03T04:24:03Z",
+    "description": "昨天聊到 CCD 相机在新生代那里重又走红，有读者贴出来自己的几台旧佳能相机，一下子把我带回了遥远的 2004 年。 2004 年我在丽江外驻，没有归期，任务是照顾好三义机场的两架驻场波音 737 飞机，然后每天监控运行情况，最后是照顾飞行机组在丽江当地过夜期间的一切吃喝拉撒。其中有一年时间，我住在一栋没有电梯的居民楼的第七层，下班就以写博客作为消遣。 从客厅的窗子看出去，刚好可以看到玉龙雪山。位置不是太好，对面也是一栋七层楼，楼顶是太阳能热水器的储水罐，边上竖着两根杆子。于是，在搬家之前的一年多时间，我每天早起拍摄一张玉龙雪山的照片，发在我的博客上，变成了一场著名的网络行为艺术。如果你还能找见当年的照片的话，那些玉龙雪山边上始终有根杆子戳着的，那就是我的手笔。 每天拍摄一张玉龙雪山照片很痛苦，早起只是一方面，痛苦的真正来源是相机。一开始我买了一台小型卡片机，能力极为孱弱。拍出来的照片有噪点也就罢了，关键是它变焦能力不强还没有防抖功能，导致我在丽江的冬天里，需要顶着寒风，双手伸出窗外，在晃来晃去的取景框里努力捕捉雪山，拍下来的照片却很可能是糊的。于是每天耗时很久，有时候拍完手都冻僵了。",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "这怎么打嘛，一出生就被斩杀夭折了😂 Qw",
+    "url": "https://versun.me/blog/tweet-2084119749295013904",
+    "date": "2026-08-03T03:30:43Z",
+    "description": "这怎么打嘛，一出生就被斩杀夭折了😂 Qwen 3.8 Max Input: $2.0 / M tokens Output: $6.0 / M tokens Implicit Caching: $0.25 / M tokens DS v4 flash Input: $0.14 / M tokens Output: $0.28/ M tokens Implicit Caching:...",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "TIL：有用 Kimi 的注意了， Ki",
+    "url": "https://versun.me/blog/tweet-2084119437922501002",
+    "date": "2026-08-03T03:29:29Z",
+    "description": "TIL：有用 Kimi 的注意了， Kimi Code CLI不受5小时的限制，直接用的周额度噢，亲测有效 [tweet-2084119437922501002-d14b5d04.jpg]",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "流动性时代与未来休克",
+    "url": "https://mobius.blog/25271.html",
+    "date": "2026-08-03T01:00:00Z",
+    "description": "我爸从他为之工作了大半辈子的厂退休后，还是被技术返聘了一段时间。我总是开玩笑说，他一旦闲下来就差不多得个心理疾 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Ubuntu 24.04 系统启动故障修复记录",
+    "url": "https://199604.com/3620",
+    "date": "2026-08-03T00:41:58Z",
+    "description": "Ubuntu 24.04 系统启动故障修复记录 记录时间：2026-07-31 环境：Ubuntu 24.04 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "周记 #13 - 好小子",
+    "url": "https://www.taober.blog/posts/weekly-13-20260803",
+    "date": "2026-08-03T00:25:00Z",
+    "description": "2026-07-27 至 2026-08-02 台风过后，深圳又接连下了几天雨，实在很难让人快乐起来。 白天工作上的忙碌，接着晚上的运动，加上下雨天周末的浑浑噩噩，一周又过去了。 标题是我今天刚改的无畏契约 ID，没什么特别的含义，单纯地觉得「好小子」很有感觉（表达了博主对自己的肯定以及对未来的美好期许 😄）。 工作上 这周是 OS 冲刺 Phase 1 的最后一周。实际上，大部分的累活上周已经干完了，这周更多是一些零碎的小修改和发版，所以相比上周，相对舒服了一些。 关于 Phase 2 的部分，八月排期比较满，其中一些需求我还不知道具体要做什么、该怎么做，需要跟上下游沟通，这种不确定性让我有些焦虑。 好在是有 AI。我需要做的，是尽可能去把物理世界的上下文收集齐，再交给它来分析，我做决策。所以想着还是得主动一些，到了事情该做的时间， just do it 就好，这或许就是解决我焦虑的最好办法。 生活 这周工作日晚上连着练了五天，有那么一丝丝感受到了无氧的乐趣，虽然体重没掉，整体状态明显好了一些。 因为练无氧的缘故，也想尽可能吃健康些。但我了解我自己：一旦吃的太少或者太清淡，心理上就容",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "2026年的比特币有了新的逻辑？",
+    "url": "https://prologue.dev/blog/is-there-a-new-logic-behind-bitcoin-in-2026",
+    "date": "2026-08-03T00:00:00Z",
+    "description": "本文回顾比特币和黄金的基本属性，并从比特币的矿工关机币价、减半周期、美元流动性传导、Strategy风险等方面解构比特币的定价逻辑。作者认为是共识资产因新的叙事、共识、投机与交易创造的新的集体价值。",
+    "source_root_domain": "prologue.dev"
+  }
+]
