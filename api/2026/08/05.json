@@ -28,6 +28,13 @@
     "source_root_domain": "ops-coffee.cn"
   },
   {
+    "title": "域名切换到 blog.alliot.tech",
+    "url": "https://blog.alliot.tech/post/domain-switch-2026",
+    "date": "2026-08-05T11:30:00Z",
+    "description": "纠结许久，我还是把博客域名切换到了 blog.alliot.tech 。这篇文章的标签是「折腾」，算是名副其实。那么，切换一个用了十几年的域名，到底要经历多少折腾？",
+    "source_root_domain": "iots.vip"
+  },
+  {
     "title": "Docker Compose 部署 Dify 教程",
     "url": "https://songxwn.com/Dify-Docker-Compose/",
     "date": "2026-08-05T08:37:00Z",

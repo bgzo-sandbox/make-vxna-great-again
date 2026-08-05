@@ -31,6 +31,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-05 | [电信宽带携号转网到联通宽带](https://depp.wang/2026/china-unicom-broadband/) | 01 为什么转 主要是因为价格与动态 IPv4 公网 IP。 我原来用的是电信融合宽带，99 元一个月，300M 的宽带，但是只有 20G 流量。 之前给我装电信宽带的师傅后来跳到移动了，上上个月他问我合约期到了没有，要不要换移动宽带。我这边是不想换移动宽带的，因为移动宽带口碑太差了。我就查了我的合… |
 | 2026-08-05 | [艾尔特拉克在岣琅](https://www.geedea.pro/article/banality-of-go-err/) | 汉娜·阿伦特报道了阿道夫·艾希曼在耶路撒冷因组织屠杀犹太人受审的案件，在法庭上，她发现艾希曼并不是一个冷静且思维缜密的杀手，相反，“说话时间越长，越能感受到他表达力的匮乏与思考能力的缺失，他不会站在别人的立场思考问题，之所以无法同他交流，并不是因为他说谎，而是因为他周围围绕着坚固的壁垒，屏蔽他的言辞… |
 | 2026-08-05 | [向云端｜西南自驾07 - 新晃](https://blog.ops-coffee.com/r/2026-southwest-road-trip-07-xinhuang.html) |  |
+| 2026-08-05 | [域名切换到 blog.alliot.tech](https://blog.alliot.tech/post/domain-switch-2026) | 纠结许久，我还是把博客域名切换到了 blog.alliot.tech 。这篇文章的标签是「折腾」，算是名副其实。那么，切换一个用了十几年的域名，到底要经历多少折腾？ |
 | 2026-08-05 | [Docker Compose 部署 Dify 教程](https://songxwn.com/Dify-Docker-Compose/) |  |
 | 2026-08-05 | [信息税](https://z.arlmy.me/posts/ZArlmyMe/Desktop_20260805/) | 「信息税。」 |
 | 2026-08-05 | [恶人做在前](https://www.hecaitou.com/2026/08/the-case-for-playing-the-villain-first.html) | 看网上讨论「边界感」的话题， 我感觉普遍都很温馨感人。至于说有没有用，听完能在多大程度上守住自己的边界，那就是两说了。 我想，边界感最大的敌人有三个，分别是：亲密关系，内心希求和个人崇拜。关系太亲密，越界迟早会出现，很多人认为这才是真正亲密的体现，古人说过：近之则不逊。 内心希求的意思是说，在对方身… |
