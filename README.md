@@ -27,8 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-05 | [信息税](https://z.arlmy.me/posts/ZArlmyMe/Desktop_20260805/) | 「信息税。」 |
+| 2026-08-05 | [恶人做在前](https://www.hecaitou.com/2026/08/the-case-for-playing-the-villain-first.html) | 看网上讨论「边界感」的话题， 我感觉普遍都很温馨感人。至于说有没有用，听完能在多大程度上守住自己的边界，那就是两说了。 我想，边界感最大的敌人有三个，分别是：亲密关系，内心希求和个人崇拜。关系太亲密，越界迟早会出现，很多人认为这才是真正亲密的体现，古人说过：近之则不逊。 内心希求的意思是说，在对方身… |
+| 2026-08-05 | [找到那件值得“浪费一生”的事情](https://mobius.blog/25290.html) | 流动的时代性，看上去让人们获得了更多的身份自由，但也同样让原本应该固定在某一锚点的归属感与意义，能够被轻易改变 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-05 | [Jenkins Vue 流水线 pnpm install 报 ERR_PNPM_OUTDATED_LOCKFILE 排查](https://199604.com/3626) | Jenkins Vue 流水线 pnpm install 报 ERRPNPMOUTDATED_LOCKFI […] |
 | 2026-08-05 | [Memos #2026-08-04](https://www.taober.blog/memos) | 21:00 总算是把 OS 的弹框 overlay 和 hash 路由协议下掉了，重构一版 mf 和路由设计，发到测试环境后，浑身舒畅！ |
+| 2026-08-04 | [Debian Linux 网络快速配置工具](https://songxwn.com/Debian-network-tui/) | 这篇教程将详细说明如何在裸金属服务器初始化时，通过 ISO 挂载并使用 Debian-network-tui 图形化快速完成网络配置，避免手工编辑 /etc/network/interfaces 的繁琐与错误。 还能自动化配置apt源、DNS、SSH服务+公钥导入 适用于Debian 11-13 使… |
 | 2026-08-04 | [在 K8s 里搭建 WireGuard VPN 并访问集群网络](https://www.bboy.app/2026/08/04/%E5%9C%A8-k8s-%E9%87%8C%E6%90%AD%E5%BB%BA-wireguard-vpn-%E5%B9%B6%E8%AE%BF%E9%97%AE%E9%9B%86%E7%BE%A4%E7%BD%91%E7%BB%9C/) | 简介 公司的 K8s 集群都在内网，在家想连上去看个 Pod 状态、查个日志，要么开跳板机要么搞 VPN。之前一直用 NPS 做端口转发凑合用，但每个服务都要单独配一条隧道，端口多了管理起来很累。 干脆在 K8s 里搭个 WireGuard，连上 VPN 就能直接访问集群网络，跟在内网一样。 |
 | 2026-08-04 | [无用命途：博客深潜者](https://blog.mfwt.top/index.php/archives/1481/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。 |
 | 2026-08-04 | [又是一年，祝自己生日快乐](https://blog.solazy.me/20260804/) | 又老了一岁 |
@@ -64,6 +68,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-03 | [Ubuntu 24.04 系统启动故障修复记录](https://199604.com/3620) | Ubuntu 24.04 系统启动故障修复记录 记录时间：2026-07-31 环境：Ubuntu 24.04 […] |
 | 2026-08-03 | [周记 #13 - 好小子](https://www.taober.blog/posts/weekly-13-20260803) | 2026-07-27 至 2026-08-02 台风过后，深圳又接连下了几天雨，实在很难让人快乐起来。 白天工作上的忙碌，接着晚上的运动，加上下雨天周末的浑浑噩噩，一周又过去了。 标题是我今天刚改的无畏契约 ID，没什么特别的含义，单纯地觉得「好小子」很有感觉（表达了博主对自己的肯定以及对未来的美好… |
 | 2026-08-03 | [2026年的比特币有了新的逻辑？](https://prologue.dev/blog/is-there-a-new-logic-behind-bitcoin-in-2026) | 本文回顾比特币和黄金的基本属性，并从比特币的矿工关机币价、减半周期、美元流动性传导、Strategy风险等方面解构比特币的定价逻辑。作者认为是共识资产因新的叙事、共识、投机与交易创造的新的集体价值。 |
+| 2026-08-03 | [我是怎么用 WezTerm + Herdr 放一群 agent 的](https://mario.lol/posts/wezterm-herdr/) | 同时跑四五个 coding agent 之后，最稀缺的不是算力，是注意力。聊聊我从 tmux 换到 Herdr 之后踩的坑和沉淀下来的用法。 |
 | 2026-08-02 | [大脑充血 Vol.92](https://www.geedea.pro/weekly/92/) | 我发现自己遇到「不测风云」，也就是那些难以预料的烦心事时，已经能够做到表面平静地发疯十分钟，然后该干嘛干嘛。这周济南总是莫名其妙地开始刮大风、下暴雨，虽然讨厌袜子被打湿的感觉，但包里常备着折叠伞，也还算从容不迫。 其实还有些家人和工作上的大小事，不过我现在更在乎自己刚刚从 MUJI 买的粘毛刷好不好… |
 | 2026-08-02 | [事实证明，机器通过学习，也比你更通人情世故](https://blog.mzh.ren/zh/posts/2026/08/learn-ai-text-style/) | 早上看到这个帖子，感受到碳基生命对硅基生命的满满的恶意啊！ AI 生成文案最恶心的四个字 - V2EX 常见 AI 高频话术 以下我总结了大家比较反感的，也是 AI 比较常用的一些话术： |
 | 2026-08-02 | [NetBox MCP服务器部署](https://songxwn.com/NetBox-MCP-Docker-install/) |  |
