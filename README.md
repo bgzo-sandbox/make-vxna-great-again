@@ -27,6 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-05 | [Chex Quest Trilogy updated](https://macsourceports.com/game/chexquest) | The build of Crispy Doom for Chex Quest Trilogy has been updated to version 7.1 of the project |
+| 2026-08-05 | [DOOM updated](https://macsourceports.com/game/doom) | The build of Crispy Doom for DOOM has been updated to version 7.1 of the project |
+| 2026-08-05 | [DOOM II updated](https://macsourceports.com/game/doom2) | The build of Crispy Doom for DOOM II has been updated to version 7.1 of the project |
+| 2026-08-05 | [Final DOOM updated](https://macsourceports.com/game/finaldoom) | The build of Crispy Doom for Final DOOM has been updated to version 7.1 of the project |
+| 2026-08-05 | [Heretic updated](https://macsourceports.com/game/heretic) | The build of Crispy Doom for Heretic has been updated to version 7.1 of the project |
+| 2026-08-05 | [Hexen: Beyond Heretic updated](https://macsourceports.com/game/hexen) | The build of Crispy Doom for Hexen: Beyond Heretic has been updated to version 7.1 of the project |
+| 2026-08-05 | [Strife updated](https://macsourceports.com/game/strife) | The build of Crispy Doom for Strife has been updated to version 7.1 of the project |
 | 2026-08-05 | [拿 AI 写了个游戏谈谈心得](https://iceprosurface.com/thought/building-a-game-with-ai/) | 最近伙同我的好友 @Codex(是的没错，他自己取名字叫 @Codex，并不是 OpenAI 的 Codex)，我们两个差不多奋战了3周，把一个游戏从零做到了上线。 游戏叫《无限弹球》，已经在 TapTap 上线 。截至 2026 年 8 月 5 日，页面显示 8.8 分、64 条评价、1.8 万热… |
 | 2026-08-05 | [电信宽带携号转网到联通宽带](https://depp.wang/2026/china-unicom-broadband/) | 01 为什么转 主要是因为价格与动态 IPv4 公网 IP。 我原来用的是电信融合宽带，99 元一个月，300M 的宽带，但是只有 20G 流量。 之前给我装电信宽带的师傅后来跳到移动了，上上个月他问我合约期到了没有，要不要换移动宽带。我这边是不想换移动宽带的，因为移动宽带口碑太差了。我就查了我的合… |
 | 2026-08-05 | [艾尔特拉克在岣琅](https://www.geedea.pro/article/banality-of-go-err/) | 汉娜·阿伦特报道了阿道夫·艾希曼在耶路撒冷因组织屠杀犹太人受审的案件，在法庭上，她发现艾希曼并不是一个冷静且思维缜密的杀手，相反，“说话时间越长，越能感受到他表达力的匮乏与思考能力的缺失，他不会站在别人的立场思考问题，之所以无法同他交流，并不是因为他说谎，而是因为他周围围绕着坚固的壁垒，屏蔽他的言辞… |

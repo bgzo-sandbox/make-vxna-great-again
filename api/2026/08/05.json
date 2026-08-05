@@ -1,5 +1,54 @@
 [
   {
+    "title": "Chex Quest Trilogy updated",
+    "url": "https://macsourceports.com/game/chexquest",
+    "date": "2026-08-05T19:57:03Z",
+    "description": "The build of Crispy Doom for Chex Quest Trilogy has been updated to version 7.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "DOOM updated",
+    "url": "https://macsourceports.com/game/doom",
+    "date": "2026-08-05T19:57:03Z",
+    "description": "The build of Crispy Doom for DOOM has been updated to version 7.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "DOOM II updated",
+    "url": "https://macsourceports.com/game/doom2",
+    "date": "2026-08-05T19:57:03Z",
+    "description": "The build of Crispy Doom for DOOM II has been updated to version 7.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Final DOOM updated",
+    "url": "https://macsourceports.com/game/finaldoom",
+    "date": "2026-08-05T19:57:03Z",
+    "description": "The build of Crispy Doom for Final DOOM has been updated to version 7.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Heretic updated",
+    "url": "https://macsourceports.com/game/heretic",
+    "date": "2026-08-05T19:57:03Z",
+    "description": "The build of Crispy Doom for Heretic has been updated to version 7.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Hexen: Beyond Heretic updated",
+    "url": "https://macsourceports.com/game/hexen",
+    "date": "2026-08-05T19:57:03Z",
+    "description": "The build of Crispy Doom for Hexen: Beyond Heretic has been updated to version 7.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Strife updated",
+    "url": "https://macsourceports.com/game/strife",
+    "date": "2026-08-05T19:57:03Z",
+    "description": "The build of Crispy Doom for Strife has been updated to version 7.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "拿 AI 写了个游戏谈谈心得",
     "url": "https://iceprosurface.com/thought/building-a-game-with-ai/",
     "date": "2026-08-05T15:37:46Z",
