@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-06 | [Docker Compose 部署 LangBot 教程](https://songxwn.com/LangBot-Docker-Compose/) |  |
+| 2026-08-06 | [我为小说忙：（五）插件的上线工作](https://blog.mfwt.top/index.php/archives/1476/) | 终于到收尾工作了，先给 TPNovel 的开发过程暂时画一个句号。其实我挺希望真的就此全部完事了，不过很难否认的一点是，还没上生产之前确实不知道会出什么幺蛾子，以及会少什么实用功能。因此也只能说... |
+| 2026-08-06 | [Memos: DeepSeek 模型 API 将较大幅涨价](https://blog.yasking.org/a/1785998769) | 以上是主流模型 API 输入、输出价格统计，不知道此次较大幅度涨价之后，梁圣是否会变为梁子。 当前 DeepSeek 价格记录： 盲猜模型 API … |
 | 2026-08-06 | [公司 二开版 Nacos Docker 镜像构建](https://199604.com/3636) | 公司 二开版 Nacos Docker 镜像构建 记录时间：2026-08-06 环境：Docker 20.1 […] |
 | 2026-08-06 | [俺，插线板（插排）收藏家](https://www.hecaitou.com/2026/08/me-a-power-strip-collector.html) | 我不收家，从小就是如此。当初不收是因为发下宏愿：将来老婆会帮我收，再不然就是保姆。虽然年少，但我还是谨慎地打了补丁：如果将来既没有老婆，也没有保姆，说明我就活该生活在垃圾堆里，那就更不用收了。 这种话换作今天我是绝对不会讲的，因为把太太和保姆并置，有工具化、功能化妻子的嫌疑。在网上一旦被人发现，就会… |
 | 2026-08-06 | [活、货、与神](https://mobius.blog/25297.html) | 华为跟竹知了的事儿，可谓是当代的童话故事。讽刺意味已经远远超过了最初竹知了被转动时发出的哇哇声。 这件事本身没 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -48,8 +51,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-05 | [艾尔特拉克在岣琅](https://www.geedea.pro/article/banality-of-go-err/) | 汉娜·阿伦特报道了阿道夫·艾希曼在耶路撒冷因组织屠杀犹太人受审的案件，在法庭上，她发现艾希曼并不是一个冷静且思维缜密的杀手，相反，“说话时间越长，越能感受到他表达力的匮乏与思考能力的缺失，他不会站在别人的立场思考问题，之所以无法同他交流，并不是因为他说谎，而是因为他周围围绕着坚固的壁垒，屏蔽他的言辞… |
 | 2026-08-05 | [向云端｜西南自驾07 - 新晃](https://blog.ops-coffee.com/r/2026-southwest-road-trip-07-xinhuang.html) |  |
 | 2026-08-05 | [差点把这家伙给忘记了。。。 等下，图标里](https://versun.me/blog/tweet-2084988516862132665) | 差点把这家伙给忘记了。。。 等下，图标里是和 gpt-oss, qwen3 做比较？？？ [tweet-2084684735725379637-560af310.jpg] |
+| 2026-08-05 | [拆解一个个人 4G SMS Gateway：Air780E、Docker 与飞牛OS实践](https://www.impdx.vip/archives/hezhou-air780xxx-protects-the-number-for-giffgaff-and-other-sms-transfer-feiniu-os-docker-usb-zo3mmg) | 本项目仅用于个人设备管理、海外号码维护和物联网实验场景，不涉及批量短信、验证码接收、营销推广等用途。 起初是发现手机sim卡槽不够用了。我寻思着有没有什么方案可以在我的飞牛上跑短信收发及定时保号 发现https://github.com/dushixiang/uartsmsforwarder 这 |
 | 2026-08-05 | [域名切换到 blog.alliot.tech](https://blog.alliot.tech/post/domain-switch-2026) | 纠结许久，我还是把博客域名切换到了 blog.alliot.tech 。这篇文章的标签是「折腾」，算是名副其实。那么，切换一个用了十几年的域名，到底要经历多少折腾？ |
-| 2026-08-05 | [Docker Compose 部署 Dify 教程](https://songxwn.com/Dify-Docker-Compose/) |  |
+| 2026-08-05 | [Docker Compose 部署 Dify 教程 - LLM应用开发平台](https://songxwn.com/Dify-Docker-Compose/) |  |
 | 2026-08-05 | [入蜀记 day437 靠山邸](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_437/) | 「靠山邸。」 |
 | 2026-08-05 | [信息税](https://z.arlmy.me/posts/ZArlmyMe/Desktop_20260805/) | 「信息税。」 |
 | 2026-08-05 | [恶人做在前](https://www.hecaitou.com/2026/08/the-case-for-playing-the-villain-first.html) | 看网上讨论「边界感」的话题， 我感觉普遍都很温馨感人。至于说有没有用，听完能在多大程度上守住自己的边界，那就是两说了。 我想，边界感最大的敌人有三个，分别是：亲密关系，内心希求和个人崇拜。关系太亲密，越界迟早会出现，很多人认为这才是真正亲密的体现，古人说过：近之则不逊。 内心希求的意思是说，在对方身… |

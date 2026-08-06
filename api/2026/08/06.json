@@ -1,5 +1,26 @@
 [
   {
+    "title": "Docker Compose 部署 LangBot 教程",
+    "url": "https://songxwn.com/LangBot-Docker-Compose/",
+    "date": "2026-08-06T09:45:00Z",
+    "description": "",
+    "source_root_domain": "songxwn.com"
+  },
+  {
+    "title": "我为小说忙：（五）插件的上线工作",
+    "url": "https://blog.mfwt.top/index.php/archives/1476/",
+    "date": "2026-08-06T08:58:00Z",
+    "description": "终于到收尾工作了，先给 TPNovel 的开发过程暂时画一个句号。其实我挺希望真的就此全部完事了，不过很难否认的一点是，还没上生产之前确实不知道会出什么幺蛾子，以及会少什么实用功能。因此也只能说...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "Memos: DeepSeek 模型 API 将较大幅涨价",
+    "url": "https://blog.yasking.org/a/1785998769",
+    "date": "2026-08-06T06:37:00Z",
+    "description": "以上是主流模型 API 输入、输出价格统计，不知道此次较大幅度涨价之后，梁圣是否会变为梁子。 当前 DeepSeek 价格记录： 盲猜模型 API …",
+    "source_root_domain": "yasking.org"
+  },
+  {
     "title": "公司 二开版 Nacos Docker 镜像构建",
     "url": "https://199604.com/3636",
     "date": "2026-08-06T06:04:53Z",
@@ -147,6 +168,13 @@
     "source_root_domain": "versun.me"
   },
   {
+    "title": "拆解一个个人 4G SMS Gateway：Air780E、Docker 与飞牛OS实践",
+    "url": "https://www.impdx.vip/archives/hezhou-air780xxx-protects-the-number-for-giffgaff-and-other-sms-transfer-feiniu-os-docker-usb-zo3mmg",
+    "date": "2026-08-05T12:23:46Z",
+    "description": "本项目仅用于个人设备管理、海外号码维护和物联网实验场景，不涉及批量短信、验证码接收、营销推广等用途。 起初是发现手机sim卡槽不够用了。我寻思着有没有什么方案可以在我的飞牛上跑短信收发及定时保号 发现https://github.com/dushixiang/uartsmsforwarder 这",
+    "source_root_domain": "impdx.vip"
+  },
+  {
     "title": "域名切换到 blog.alliot.tech",
     "url": "https://blog.alliot.tech/post/domain-switch-2026",
     "date": "2026-08-05T11:30:00Z",
@@ -154,7 +182,7 @@
     "source_root_domain": "iots.vip"
   },
   {
-    "title": "Docker Compose 部署 Dify 教程",
+    "title": "Docker Compose 部署 Dify 教程 - LLM应用开发平台",
     "url": "https://songxwn.com/Dify-Docker-Compose/",
     "date": "2026-08-05T08:37:00Z",
     "description": "",
