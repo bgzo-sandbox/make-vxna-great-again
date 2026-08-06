@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-06 | [无能的 DeepSeek 不会安装 Neovim 插件](https://re.karlbaey.top/articles/tinkering/install-rainbow-delimiters/) | 昨天让 DeepSeek 给我的 Neovim 安装 rainbow-delimiters 这个插件，三下五除二给我装上 … |
+| 2026-08-06 | [Album#46 - High Violet](https://taxodium.ink/album-46.html) | Album#46 High Violet 图1 《High Violet》專輯封面 专辑信息 专辑名称： High Violet 歌手： The National 年份： 2010-05-10 时长： 47:40 要說這張專輯什麼最吸引我，無疑是主唱 Matt Beringer 的嗓音，低沉而温暖，… |
+| 2026-08-06 | [cbvivi.app](https://cbvivi.today/cbviviapp) | 注册了 cbvivi.app 来展示我做的 app。 下一个新产品叫 melog，是影像类。我想在夏天结束前发布，但不知道来不来得及，也不知道夏天什么时候算结束。...... READ MORE |
 | 2026-08-06 | [Docker Compose 部署 LangBot 教程](https://songxwn.com/LangBot-Docker-Compose/) |  |
 | 2026-08-06 | [我为小说忙：（五）插件的上线工作](https://blog.mfwt.top/index.php/archives/1476/) | 终于到收尾工作了，先给 TPNovel 的开发过程暂时画一个句号。其实我挺希望真的就此全部完事了，不过很难否认的一点是，还没上生产之前确实不知道会出什么幺蛾子，以及会少什么实用功能。因此也只能说... |
 | 2026-08-06 | [Memos: DeepSeek 模型 API 将较大幅涨价](https://blog.yasking.org/a/1785998769) | 以上是主流模型 API 输入、输出价格统计，不知道此次较大幅度涨价之后，梁圣是否会变为梁子。 当前 DeepSeek 价格记录： 盲猜模型 API … |
@@ -47,6 +50,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-05 | [Strife updated](https://macsourceports.com/game/strife) | The build of Odamex for Strife has been updated to version 12.2.1 of the project |
 | 2026-08-05 | [【IT档案馆】华为投诉“竹知了”玩具相关视频事件梳理](https://blog.mzh.ren/zh/posts/2026/08/huawei-and-bamboo-cicada-event/) | 有道是：抓住了一只蝉，就仿佛抓住了整个夏天。所以我看到一个在线玩“竹知了”的网站 在线玩竹知了 - V2EX ，很感兴趣的就点了进去。内容如下： 竹知了 起源于隋唐 兴于两宋 亡于鸿蒙 7 年 |
 | 2026-08-05 | [拿 AI 写了个游戏谈谈心得](https://iceprosurface.com/thought/building-a-game-with-ai/) | 最近伙同我的好友 @Codex(是的没错，他自己取名字叫 @Codex，并不是 OpenAI 的 Codex)，我们两个差不多奋战了3周，把一个游戏从零做到了上线。 游戏叫《无限弹球》，已经在 TapTap 上线 。截至 2026 年 8 月 5 日，页面显示 8.8 分、64 条评价、1.8 万热… |
+| 2026-08-05 | [入职五个月小结](https://blog.solazy.me/20260805/) | 写在入职新工作五个月 |
 | 2026-08-05 | [电信宽带携号转网到联通宽带](https://depp.wang/2026/china-unicom-broadband/) | 01 为什么转 主要是因为价格与动态 IPv4 公网 IP。 我原来用的是电信融合宽带，99 元一个月，300M 的宽带，但是只有 20G 流量。 之前给我装电信宽带的师傅后来跳到移动了，上上个月他问我合约期到了没有，要不要换移动宽带。我这边是不想换移动宽带的，因为移动宽带口碑太差了。我就查了我的合… |
 | 2026-08-05 | [艾尔特拉克在岣琅](https://www.geedea.pro/article/banality-of-go-err/) | 汉娜·阿伦特报道了阿道夫·艾希曼在耶路撒冷因组织屠杀犹太人受审的案件，在法庭上，她发现艾希曼并不是一个冷静且思维缜密的杀手，相反，“说话时间越长，越能感受到他表达力的匮乏与思考能力的缺失，他不会站在别人的立场思考问题，之所以无法同他交流，并不是因为他说谎，而是因为他周围围绕着坚固的壁垒，屏蔽他的言辞… |
 | 2026-08-05 | [向云端｜西南自驾07 - 新晃](https://blog.ops-coffee.com/r/2026-southwest-road-trip-07-xinhuang.html) |  |

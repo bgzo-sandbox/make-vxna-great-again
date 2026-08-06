@@ -1,5 +1,26 @@
 [
   {
+    "title": "无能的 DeepSeek 不会安装 Neovim 插件",
+    "url": "https://re.karlbaey.top/articles/tinkering/install-rainbow-delimiters/",
+    "date": "2026-08-06T12:48:20Z",
+    "description": "昨天让 DeepSeek 给我的 Neovim 安装 rainbow-delimiters 这个插件，三下五除二给我装上 …",
+    "source_root_domain": "karlbaey.top"
+  },
+  {
+    "title": "Album#46 - High Violet",
+    "url": "https://taxodium.ink/album-46.html",
+    "date": "2026-08-06T12:45:00Z",
+    "description": "Album#46 High Violet 图1 《High Violet》專輯封面 专辑信息 专辑名称： High Violet 歌手： The National 年份： 2010-05-10 时长： 47:40 要說這張專輯什麼最吸引我，無疑是主唱 Matt Beringer 的嗓音，低沉而温暖，在專輯裡你能聴到他的中音和低音，都很好聴。 Matt Beringer 的個子很高大，有時他戴著眼鏡，看著像是一個教授。 The National 這支樂隊的組成也很有趣，由主唱 Matt Berninger、雙胞胎兄弟 Aaron Dessner（吉他、鋼琴、鍵盤）與 Bryce Dessner（吉他、鋼琴、鍵盤），以及 Scott Devendorf（貝斯）與 Bryan Devendorf（鼓手）兩兄弟組成，也是挺少見的。 High Violet 是我聴的第一張 The National 的専輯，整體聴起來給人一種忧郁且深沉的感覺。封面看著像是插在瓶中的散亂的花，花瓣由許多單詞組成。 専輯裡我喜歡的几首是： Terrible Love 、 Sorrow 、 Little Faith 、",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "cbvivi.app",
+    "url": "https://cbvivi.today/cbviviapp",
+    "date": "2026-08-06T10:59:02Z",
+    "description": "注册了 cbvivi.app 来展示我做的 app。 下一个新产品叫 melog，是影像类。我想在夏天结束前发布，但不知道来不来得及，也不知道夏天什么时候算结束。...... READ MORE",
+    "source_root_domain": "cbvivi.today"
+  },
+  {
     "title": "Docker Compose 部署 LangBot 教程",
     "url": "https://songxwn.com/LangBot-Docker-Compose/",
     "date": "2026-08-06T09:45:00Z",
@@ -138,6 +159,13 @@
     "date": "2026-08-05T15:37:46Z",
     "description": "最近伙同我的好友 @Codex(是的没错，他自己取名字叫 @Codex，并不是 OpenAI 的 Codex)，我们两个差不多奋战了3周，把一个游戏从零做到了上线。 游戏叫《无限弹球》，已经在 TapTap 上线 。截至 2026 年 8 月 5 日，页面显示 8.8 分、64 条评价、1.8 万热度，2026 年 7 月 2 日上线，最近一次更新是 7 月 22 日。 它不是一个只在本地跑起来的 Demo 。玩家真的下载了，真的玩了十几个小时、几十个小时，很多玩家的 构筑 甚至比我们自己在开发时做的还要复杂，大量的机制互相协作，甚至出现了我们自己都没想到的无限循环和高密度连锁。 所以这篇文章不准备讨论“AI 能不能写游戏”。它当然能，至少能把一个游戏写到上线。但“写出来”和“做得好”“长期改得动”，完全是三件事。 本文只复盘 TapTap 上发布的这版《无限弹球》。这是我第一次完整做游戏，很多问题现在看起来很基础，但当时确实是一路踩过去的。 几个月前，我在 《我让 AI 重写了一遍博客》 里写过 Vibe Coding 最让人上头的阶段：AI 疯狂输出，人只需要 Review ，两个",
     "source_root_domain": "iceprosurface.com"
+  },
+  {
+    "title": "入职五个月小结",
+    "url": "https://blog.solazy.me/20260805/",
+    "date": "2026-08-05T15:30:00Z",
+    "description": "写在入职新工作五个月",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "电信宽带携号转网到联通宽带",
