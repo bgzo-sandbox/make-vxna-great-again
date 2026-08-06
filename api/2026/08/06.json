@@ -1,0 +1,261 @@
+[
+  {
+    "title": "etcd 备份方案（K8s 1.28 二进制集群 / arm64）",
+    "url": "https://199604.com/3630",
+    "date": "2026-08-06T01:40:51Z",
+    "description": "etcd 备份方案（K8s 1.28 二进制集群 / arm64） 适用集群：三 master 二进制部署的 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "Memos: 领取赛博菩萨 Cloudflare Wallet 用户名",
+    "url": "https://blog.yasking.org/a/1785979350",
+    "date": "2026-08-06T01:27:00Z",
+    "description": "访问 https://cloudflare.pay ，填写喜欢、未被占用的用户名，每个账户只能绑定一个名称。",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "入蜀记 day438 北来的风雨",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_438/",
+    "date": "2026-08-06T00:53:27Z",
+    "description": "「北来的风雨。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Memos #2026-08-05",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-08-06T00:00:00Z",
+    "description": "09:18 最近都睡得很晚，难得昨晚十二点半就睡了，今天早上闹钟响的时候巨清醒，也没啥疲惫的感觉，看来早睡是对的。",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "Chex Quest Trilogy updated",
+    "url": "https://macsourceports.com/game/chexquest",
+    "date": "2026-08-05T21:30:54Z",
+    "description": "The build of Odamex for Chex Quest Trilogy has been updated to version 12.2.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "DOOM updated",
+    "url": "https://macsourceports.com/game/doom",
+    "date": "2026-08-05T21:30:54Z",
+    "description": "The build of Odamex for DOOM has been updated to version 12.2.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "DOOM II updated",
+    "url": "https://macsourceports.com/game/doom2",
+    "date": "2026-08-05T21:30:54Z",
+    "description": "The build of Odamex for DOOM II has been updated to version 12.2.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Final DOOM updated",
+    "url": "https://macsourceports.com/game/finaldoom",
+    "date": "2026-08-05T21:30:54Z",
+    "description": "The build of Odamex for Final DOOM has been updated to version 12.2.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Heretic updated",
+    "url": "https://macsourceports.com/game/heretic",
+    "date": "2026-08-05T21:30:54Z",
+    "description": "The build of Odamex for Heretic has been updated to version 12.2.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Hexen: Beyond Heretic updated",
+    "url": "https://macsourceports.com/game/hexen",
+    "date": "2026-08-05T21:30:54Z",
+    "description": "The build of Odamex for Hexen: Beyond Heretic has been updated to version 12.2.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Strife updated",
+    "url": "https://macsourceports.com/game/strife",
+    "date": "2026-08-05T21:30:54Z",
+    "description": "The build of Odamex for Strife has been updated to version 12.2.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "拿 AI 写了个游戏谈谈心得",
+    "url": "https://iceprosurface.com/thought/building-a-game-with-ai/",
+    "date": "2026-08-05T15:37:46Z",
+    "description": "最近伙同我的好友 @Codex(是的没错，他自己取名字叫 @Codex，并不是 OpenAI 的 Codex)，我们两个差不多奋战了3周，把一个游戏从零做到了上线。 游戏叫《无限弹球》，已经在 TapTap 上线 。截至 2026 年 8 月 5 日，页面显示 8.8 分、64 条评价、1.8 万热度，2026 年 7 月 2 日上线，最近一次更新是 7 月 22 日。 它不是一个只在本地跑起来的 Demo 。玩家真的下载了，真的玩了十几个小时、几十个小时，很多玩家的 构筑 甚至比我们自己在开发时做的还要复杂，大量的机制互相协作，甚至出现了我们自己都没想到的无限循环和高密度连锁。 所以这篇文章不准备讨论“AI 能不能写游戏”。它当然能，至少能把一个游戏写到上线。但“写出来”和“做得好”“长期改得动”，完全是三件事。 本文只复盘 TapTap 上发布的这版《无限弹球》。这是我第一次完整做游戏，很多问题现在看起来很基础，但当时确实是一路踩过去的。 几个月前，我在 《我让 AI 重写了一遍博客》 里写过 Vibe Coding 最让人上头的阶段：AI 疯狂输出，人只需要 Review ，两个",
+    "source_root_domain": "iceprosurface.com"
+  },
+  {
+    "title": "电信宽带携号转网到联通宽带",
+    "url": "https://depp.wang/2026/china-unicom-broadband/",
+    "date": "2026-08-05T15:22:49Z",
+    "description": "01 为什么转 主要是因为价格与动态 IPv4 公网 IP。 我原来用的是电信融合宽带，99 元一个月，300M 的宽带，但是只有 20G 流量。 之前给我装电信宽带的师傅后来跳到移动了，上上个月他问我合约期到了没有，要不要换移动宽带。我这边是不想换移动宽带的，因为移动宽带口碑太差了。我就查了我的合约期，了解到我这个宽带合约期确实要到期了。 我就问电信合约到期之后能不能降费，电信这边并不给我降。 我就了解了一下其他宽带，联通这边 79 元一个月，是 1000 兆宽带，其实宽带速度我这边并不是太 care，因为正常来说，下载速度更多地取决于服务商的速度，而不是宽带的速度，基本上都跑不满。 除此之外，它还有 100G 全国不限速流量，而且可以开四张副卡（加 1 张副卡加 1 元的费用）。这样家里面的人也可以一起共用这个流量，可以给家里面省下一些流量费用。 电信 99 元的融合套餐，最多只能加两张副卡。电信其实也可以加 1 元加 10G 流量，最多加 30 G，但是它总的也只有相当于 50G 的流量，而且好像副卡加的流量好像只能副卡使用，不是共用的。 联通还有一个优势，就是 79 元以上的套",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "艾尔特拉克在岣琅",
+    "url": "https://www.geedea.pro/article/banality-of-go-err/",
+    "date": "2026-08-05T15:11:35Z",
+    "description": "汉娜·阿伦特报道了阿道夫·艾希曼在耶路撒冷因组织屠杀犹太人受审的案件，在法庭上，她发现艾希曼并不是一个冷静且思维缜密的杀手，相反，“说话时间越长，越能感受到他表达力的匮乏与思考能力的缺失，他不会站在别人的立场思考问题，之所以无法同他交流，并不是因为他说谎，而是因为他周围围绕着坚固的壁垒，屏蔽他的言辞和他人的存在，从而帮他一并拒绝着真相。”她震惊于恶的平庸性（Banality of Evil）。 艾尔特拉克和蓝色地鼠一起编写健壮的软件，在编辑器面前，他发现 if err != nil 并不是什么精巧的错误处理机制，相反，编程时间越长，越能感受到地鼠错误处理机制的缺失，他不会帮程序员抛出和拦截错误，之所以无法用条件判断以外的方式处理错误，并不是因为地鼠不想，而是因为已有的简单工具就足够提升程序的健壮性。他震惊于错误的平庸性——错误仅仅是包含 Error() 的 接口 而已。 魂断杰威幕 众所周知，嘲讽 Java 是这个博客的传统，所以今天的文章也以这个开始。在 Java 中，处理「错误」的方式是 抛出异常 。这里的异常（Exception）是指程序中可以预料到的问题，比如用户本应输入整数却",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "向云端｜西南自驾07 - 新晃",
+    "url": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-07-xinhuang.html",
+    "date": "2026-08-05T13:31:12Z",
+    "description": "",
+    "source_root_domain": "ops-coffee.cn"
+  },
+  {
+    "title": "域名切换到 blog.alliot.tech",
+    "url": "https://blog.alliot.tech/post/domain-switch-2026",
+    "date": "2026-08-05T11:30:00Z",
+    "description": "纠结许久，我还是把博客域名切换到了 blog.alliot.tech 。这篇文章的标签是「折腾」，算是名副其实。那么，切换一个用了十几年的域名，到底要经历多少折腾？",
+    "source_root_domain": "iots.vip"
+  },
+  {
+    "title": "Docker Compose 部署 Dify 教程",
+    "url": "https://songxwn.com/Dify-Docker-Compose/",
+    "date": "2026-08-05T08:37:00Z",
+    "description": "",
+    "source_root_domain": "songxwn.com"
+  },
+  {
+    "title": "入蜀记 day437 靠山邸",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_437/",
+    "date": "2026-08-05T04:48:27Z",
+    "description": "「靠山邸。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "信息税",
+    "url": "https://z.arlmy.me/posts/ZArlmyMe/Desktop_20260805/",
+    "date": "2026-08-05T04:30:03Z",
+    "description": "「信息税。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "恶人做在前",
+    "url": "https://www.hecaitou.com/2026/08/the-case-for-playing-the-villain-first.html",
+    "date": "2026-08-05T04:04:45Z",
+    "description": "看网上讨论「边界感」的话题， 我感觉普遍都很温馨感人。至于说有没有用，听完能在多大程度上守住自己的边界，那就是两说了。 我想，边界感最大的敌人有三个，分别是：亲密关系，内心希求和个人崇拜。关系太亲密，越界迟早会出现，很多人认为这才是真正亲密的体现，古人说过：近之则不逊。 内心希求的意思是说，在对方身上有自己的企图心，想要从对方那里得到点什么。企图心很容易看穿，因为行动上人会像鱼类一样笔直而来，表情上眼睛里明显有钩子，于是人性会利用这种内心希求，轻易跨越边界。因为一旦有所求，在对方眼中你就处于低位，也就是从属和受支配的地位，手就会痒。 个人崇拜也是一种内心希求，但并不一定是为了得到什么现实利益，而是出于仰慕的心，自己给对方身后加上重重光环，然后竟然自己被自己创造出来的光环遮盖双眼，顶礼膜拜，丧失自我，主动撤除一切边界，觉得这样才是真正的尊重。这种情况可能是最惨的一种，因为既没有得到亲密关系，也没有得到任何实际利益，还不如眼中有钩子。 所以，「保持边界感」非常困难。在生活中，你要么需要亲密关系，用于抵御孤独；要么需要满足内心希求，从别人那里得到资源，得到帮助，得到支持；要么需要一个偶像，一",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "找到那件值得“浪费一生”的事情",
+    "url": "https://mobius.blog/25290.html",
+    "date": "2026-08-05T02:24:22Z",
+    "description": "流动的时代性，看上去让人们获得了更多的身份自由，但也同样让原本应该固定在某一锚点的归属感与意义，能够被轻易改变 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Jenkins Vue 流水线 pnpm install 报 ERR_PNPM_OUTDATED_LOCKFILE 排查",
+    "url": "https://199604.com/3626",
+    "date": "2026-08-05T02:14:21Z",
+    "description": "Jenkins Vue 流水线 pnpm install 报 ERRPNPMOUTDATED_LOCKFI […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "Debian Linux 网络快速配置工具",
+    "url": "https://songxwn.com/Debian-network-tui/",
+    "date": "2026-08-04T19:32:20Z",
+    "description": "这篇教程将详细说明如何在裸金属服务器初始化时，通过 ISO 挂载并使用 Debian-network-tui 图形化快速完成网络配置，避免手工编辑 /etc/network/interfaces 的繁琐与错误。 还能自动化配置apt源、DNS、SSH服务+公钥导入 适用于Debian 11-13 使用Go构建，单二进制文件无需任何依赖",
+    "source_root_domain": "songxwn.com"
+  },
+  {
+    "title": "在 K8s 里搭建 WireGuard VPN 并访问集群网络",
+    "url": "https://www.bboy.app/2026/08/04/%E5%9C%A8-k8s-%E9%87%8C%E6%90%AD%E5%BB%BA-wireguard-vpn-%E5%B9%B6%E8%AE%BF%E9%97%AE%E9%9B%86%E7%BE%A4%E7%BD%91%E7%BB%9C/",
+    "date": "2026-08-04T16:12:00Z",
+    "description": "简介 公司的 K8s 集群都在内网，在家想连上去看个 Pod 状态、查个日志，要么开跳板机要么搞 VPN。之前一直用 NPS 做端口转发凑合用，但每个服务都要单独配一条隧道，端口多了管理起来很累。 干脆在 K8s 里搭个 WireGuard，连上 VPN 就能直接访问集群网络，跟在内网一样。",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "轻糖的 KMP 渐进式迁移实践（三）：KMPObservableViewModel 直连，iOS 本地 ViewModel 全量退休",
+    "url": "https://youngxhui.top/2026/08/sugarlite-kmp-migration-3/",
+    "date": "2026-08-04T16:00:00Z",
+    "description": "第二篇文章 的结尾，我们给出的方案是\"KMP ViewModel + SKIE + 一个 50 行的 StateHolder\"，当时我们说：这个成本很低，一个 ViewModel 的桥接通常不到 50 行。 这句话后来被我们收回了。 成本确实低，但它是一笔 数量税 ——23 个 ViewModel 就要写 23 份 StateHolder，每一份都是 @Published 属性映射、 for await 订阅循环、 deinit 手动取消的重复样板。更麻烦的是，KMP 侧的 ViewModel 生命周期在 iOS 上一直是悬空的：androidx 的 ViewModel 在 iOS 没有 ViewModelStore ， viewModelScope 永远不会被系统取消，只能靠我们在 deinit 里手动 cancel() ——漏一次，就是一次协程泄漏。 所以当我们看到 rickclephas 的 KMP-ObservableViewModel 时，决定做第三次、也是最后一次桥接升级： 让 SwiftUI 直接观察 KMP ViewModel，把 StateHolder 全部删掉 。 ",
+    "source_root_domain": "youngxhui.top"
+  },
+  {
+    "title": "无用命途：博客深潜者",
+    "url": "https://blog.mfwt.top/index.php/archives/1481/",
+    "date": "2026-08-04T15:59:00Z",
+    "description": "《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "又是一年，祝自己生日快乐",
+    "url": "https://blog.solazy.me/20260804/",
+    "date": "2026-08-04T13:00:00Z",
+    "description": "又老了一岁",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "大陆居民申请香港汇丰银行卡流程记录",
+    "url": "https://blog.yasking.org/a/hsbc-bank-card",
+    "date": "2026-08-04T10:20:16Z",
+    "description": "前置条件： 人在香港，手机连接香港的 Wi-Fi 或蜂窝网络（国内卡开数据漫游/香港流量卡）； 手机需支持 NFC 功能（读取港澳通行证）； 港 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "野人编年史",
+    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
+    "date": "2026-08-04T05:19:10Z",
+    "description": "野人编年史 野人创始人： 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 重要声明： 野人队 在加入 泳往直前 之前就已成立，我们不是另起炉灶，我们也不搞分裂主义。 我们永远欢迎 泳往直前 成员加入 野人队 ，也永远欢迎 野人队 的成员随时加入 泳往直前 。 野人队 永远是 泳往直前 的好朋友。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入 大竹林冬泳队 。 徐队、张队、熊队日常于 大竹林冬泳基地 进行户外游泳，队伍初具雏形，并开始尝试冬泳。 11月 徐队、张队、熊队代表 大竹林冬泳队 第一次参加广阳岛冬泳比赛。 12月 徐队、张队坚持冬泳，被亮队唤作“野人”， 野人队 队名初具雏形[ 1 ]。 2025年 1月 亮队正式加入，创始人集齐，正式成立 重庆野人冬泳俱乐部 。 2月 制作野人队旗、野人队服、野人泳帽等",
+    "source_root_domain": "zhanglintc.co"
+  },
+  {
+    "title": "入蜀记 day436 钟美美",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_436/",
+    "date": "2026-08-04T04:48:27Z",
+    "description": "「钟美美。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "未来休克并不只是发生在未来",
+    "url": "https://mobius.blog/25282.html",
+    "date": "2026-08-04T04:36:44Z",
+    "description": "继续昨天的文章，在标题里还留下了一个极具迷惑性的“概念”——未来休克。 这是阿尔文·托夫勒在 1970 年出版 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Quake III: Arena updated",
+    "url": "https://macsourceports.com/game/quake3arena",
+    "date": "2026-08-04T03:14:22Z",
+    "description": "The build of Quake3e for Quake III: Arena has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "看来 qwen 3.8 max 的发布暂",
+    "url": "https://versun.me/blog/tweet-2084472010277838990",
+    "date": "2026-08-04T02:50:29Z",
+    "description": "看来 qwen 3.8 max 的发布暂时威胁不到 tipo🤡 [tweet-2084472010277838990-23ac3125.jpg]",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "观山",
+    "url": "https://www.hecaitou.com/2026/08/On-Watching-the-Mountain.html",
+    "date": "2026-08-04T02:36:56Z",
+    "description": "经过 24 小时的恢复，我又能重新访问自己又拍网的相册。有点唏嘘，互联网上最大的赞美都给了这总，那总，赞美的点都是股价，都是身价，像又拍这样多年来持续提供服务的公司，其实更应该赞美。在网上维护过任何一个长期项目的人都应该理解我在说什么，理解这其中的不易。 打开相册第一件事，就是直奔我的玉龙雪山专题。刚好翻出两张我用卡片机拍的雪山照片，它们也许可以回答「你为什么每天拍同一个地方，这有什么意思」： 的确是同一个地方，连我站立拍摄的位置都相差无几。但是，玉龙雪山上顶着两层帽子，有两层云砧的景象，应该很少见吧？更多的是那种大晴天下的一座山，山尖上点缀着一些冰雪的模样，整个冬季它看上去差不多都是这个样子。 从每一天的角度去观察，你会发现一座山在一年里的大多数时候都没有什么变化。变的是天空，变的是白云，变的是光影，山本身没有多少变化。无非是从春到夏，雪线慢慢爬升，最后只剩下山尖上的一点点。而从秋到冬，雪线慢慢下降，就像是那山慢慢白了头。如果你只是看几天，看几周，大概率很难发现这些细微的变化。 从一年的角度去观察，结论又不一样。你可以像我一样，在相册里挑选出最特别的几张，变化最大的几张，对比最强烈的",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "知了 II",
+    "url": "https://mobius.blog/25277.html",
+    "date": "2026-08-04T02:36:05Z",
+    "description": "（2026·全国卷）昆虫恐惧症，是一种特定的动物恐惧症，其特征是对一种或多种昆虫过度或不切实际的恐惧（厌恶）。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "WAF加白放行渗透流量引发nginx到ingress异常连接的排查",
+    "url": "https://199604.com/3623",
+    "date": "2026-08-04T02:24:10Z",
+    "description": "WAF加白放行渗透流量引发nginx到ingress异常连接的排查 记录时间：2026-07-31 环境：外层 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "RollerCoaster Tycoon 2 updated",
+    "url": "https://macsourceports.com/game/rct2",
+    "date": "2026-08-04T02:21:24Z",
+    "description": "The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.4 of the project",
+    "source_root_domain": "macsourceports.com"
+  }
+]

@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-06 | [etcd 备份方案（K8s 1.28 二进制集群 / arm64）](https://199604.com/3630) | etcd 备份方案（K8s 1.28 二进制集群 / arm64） 适用集群：三 master 二进制部署的 […] |
+| 2026-08-06 | [Memos: 领取赛博菩萨 Cloudflare Wallet 用户名](https://blog.yasking.org/a/1785979350) | 访问 https://cloudflare.pay ，填写喜欢、未被占用的用户名，每个账户只能绑定一个名称。 |
+| 2026-08-06 | [入蜀记 day438 北来的风雨](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_438/) | 「北来的风雨。」 |
+| 2026-08-06 | [Memos #2026-08-05](https://www.taober.blog/memos) | 09:18 最近都睡得很晚，难得昨晚十二点半就睡了，今天早上闹钟响的时候巨清醒，也没啥疲惫的感觉，看来早睡是对的。 |
 | 2026-08-05 | [Chex Quest Trilogy updated](https://macsourceports.com/game/chexquest) | The build of Odamex for Chex Quest Trilogy has been updated to version 12.2.1 of the project |
 | 2026-08-05 | [DOOM updated](https://macsourceports.com/game/doom) | The build of Odamex for DOOM has been updated to version 12.2.1 of the project |
 | 2026-08-05 | [DOOM II updated](https://macsourceports.com/game/doom2) | The build of Odamex for DOOM II has been updated to version 12.2.1 of the project |
@@ -40,11 +44,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-05 | [向云端｜西南自驾07 - 新晃](https://blog.ops-coffee.com/r/2026-southwest-road-trip-07-xinhuang.html) |  |
 | 2026-08-05 | [域名切换到 blog.alliot.tech](https://blog.alliot.tech/post/domain-switch-2026) | 纠结许久，我还是把博客域名切换到了 blog.alliot.tech 。这篇文章的标签是「折腾」，算是名副其实。那么，切换一个用了十几年的域名，到底要经历多少折腾？ |
 | 2026-08-05 | [Docker Compose 部署 Dify 教程](https://songxwn.com/Dify-Docker-Compose/) |  |
+| 2026-08-05 | [入蜀记 day437 靠山邸](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_437/) | 「靠山邸。」 |
 | 2026-08-05 | [信息税](https://z.arlmy.me/posts/ZArlmyMe/Desktop_20260805/) | 「信息税。」 |
 | 2026-08-05 | [恶人做在前](https://www.hecaitou.com/2026/08/the-case-for-playing-the-villain-first.html) | 看网上讨论「边界感」的话题， 我感觉普遍都很温馨感人。至于说有没有用，听完能在多大程度上守住自己的边界，那就是两说了。 我想，边界感最大的敌人有三个，分别是：亲密关系，内心希求和个人崇拜。关系太亲密，越界迟早会出现，很多人认为这才是真正亲密的体现，古人说过：近之则不逊。 内心希求的意思是说，在对方身… |
 | 2026-08-05 | [找到那件值得“浪费一生”的事情](https://mobius.blog/25290.html) | 流动的时代性，看上去让人们获得了更多的身份自由，但也同样让原本应该固定在某一锚点的归属感与意义，能够被轻易改变 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-05 | [Jenkins Vue 流水线 pnpm install 报 ERR_PNPM_OUTDATED_LOCKFILE 排查](https://199604.com/3626) | Jenkins Vue 流水线 pnpm install 报 ERRPNPMOUTDATED_LOCKFI […] |
-| 2026-08-05 | [Memos #2026-08-04](https://www.taober.blog/memos) | 21:00 总算是把 OS 的弹框 overlay 和 hash 路由协议下掉了，重构一版 mf 和路由设计，发到测试环境后，浑身舒畅！ |
 | 2026-08-04 | [Debian Linux 网络快速配置工具](https://songxwn.com/Debian-network-tui/) | 这篇教程将详细说明如何在裸金属服务器初始化时，通过 ISO 挂载并使用 Debian-network-tui 图形化快速完成网络配置，避免手工编辑 /etc/network/interfaces 的繁琐与错误。 还能自动化配置apt源、DNS、SSH服务+公钥导入 适用于Debian 11-13 使… |
 | 2026-08-04 | [在 K8s 里搭建 WireGuard VPN 并访问集群网络](https://www.bboy.app/2026/08/04/%E5%9C%A8-k8s-%E9%87%8C%E6%90%AD%E5%BB%BA-wireguard-vpn-%E5%B9%B6%E8%AE%BF%E9%97%AE%E9%9B%86%E7%BE%A4%E7%BD%91%E7%BB%9C/) | 简介 公司的 K8s 集群都在内网，在家想连上去看个 Pod 状态、查个日志，要么开跳板机要么搞 VPN。之前一直用 NPS 做端口转发凑合用，但每个服务都要单独配一条隧道，端口多了管理起来很累。 干脆在 K8s 里搭个 WireGuard，连上 VPN 就能直接访问集群网络，跟在内网一样。 |
 | 2026-08-04 | [轻糖的 KMP 渐进式迁移实践（三）：KMPObservableViewModel 直连，iOS 本地 ViewModel 全量退休](https://youngxhui.top/2026/08/sugarlite-kmp-migration-3/) | 第二篇文章 的结尾，我们给出的方案是"KMP ViewModel + SKIE + 一个 50 行的 StateHolder"，当时我们说：这个成本很低，一个 ViewModel 的桥接通常不到 50 行。 这句话后来被我们收回了。 成本确实低，但它是一笔 数量税 ——23 个 ViewModel… |
@@ -52,6 +56,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-04 | [又是一年，祝自己生日快乐](https://blog.solazy.me/20260804/) | 又老了一岁 |
 | 2026-08-04 | [大陆居民申请香港汇丰银行卡流程记录](https://blog.yasking.org/a/hsbc-bank-card) | 前置条件： 人在香港，手机连接香港的 Wi-Fi 或蜂窝网络（国内卡开数据漫游/香港流量卡）； 手机需支持 NFC 功能（读取港澳通行证）； 港 … |
 | 2026-08-04 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人： 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 重要声明： 野人队 在… |
+| 2026-08-04 | [入蜀记 day436 钟美美](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_436/) | 「钟美美。」 |
 | 2026-08-04 | [未来休克并不只是发生在未来](https://mobius.blog/25282.html) | 继续昨天的文章，在标题里还留下了一个极具迷惑性的“概念”——未来休克。 这是阿尔文·托夫勒在 1970 年出版 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-04 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
 | 2026-08-04 | [看来 qwen 3.8 max 的发布暂](https://versun.me/blog/tweet-2084472010277838990) | 看来 qwen 3.8 max 的发布暂时威胁不到 tipo🤡 [tweet-2084472010277838990-23ac3125.jpg] |
@@ -183,32 +188,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-30 | [K8s Deployment 名过长致 Pod 名截断与日志目录代际标识丢失排查](https://199604.com/3613) | K8s Deployment 名过长致 Pod 名截断与日志目录代际标识丢失排查 记录时间：2026-07-2 […] |
 | 2026-07-30 | [博客一定要为读者负责吗？IV](https://mobius.blog/25187.html) | 最后一部分，我想回到我的个人拙见，来聊聊创作者该负起哪些责任？ 创作者的责任是什么？ 这并不是一个公开标准：有 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-07-30 | [Memos: GG 卡 GG](https://blog.yasking.org/a/1785374656) | 昨天收到 giffgaff 的 “We’re disconnecting your service” 邮件。 尝试发了邮件申请退款，但 估计 £9.39 余额退不回来。在无法发送短信之前，可用余额支持 公 … |
-| 2026-07-30 | [Memos: GG 卡 GG](https://blog.yasking.org/a/1785374656.html) | 昨天收到 giffgaff 的 “We’re disconnecting your service” 邮件。 尝试发了邮件申请退款，但估计 £9.39 余额退不回来。 （R.I.P：2026.4.21 - 2026-07-29） |
 | 2026-07-30 | [Memos: 苹果系统在它工作的时候会工作的很好](https://blog.yasking.org/a/1785317110) | 换苹果电脑迁移，之前我会在新电脑安装环境，古法手工进行配置，然后再手动将需要的配置、资料导出，避免旧系统很多垃 … |
-| 2026-07-30 | [Memos: 苹果系统在它工作的时候会工作的很好](https://blog.yasking.org/a/1785317110.html) | 换苹果电脑迁移，之前我会在新电脑安装环境，古法手工进行配置，然后再手动将需要的配置、资料导出，避免旧系统很多垃 … |
 | 2026-07-30 | [ETF Screener: A Free US ETF Screening Tool](https://folay.top/blog/etf-screener) | Built a screening tool covering 5,000+ active US-listed ETFs with 42 metrics. No signup, no paywall. |
-| 2026-07-29 | [哈哈，转需🤣](https://versun.me/blog/tweet-2082608950378467713) | 哈哈，转需🤣 |
-| 2026-07-29 | [《亿高》注疏三：大空头](https://sinyalee.com/blog/?p=1254) | 本文是对《资产一个亿以下，不要娶高学历国女》一文的第三篇注解。 – 我写《亿高》的原因，就是要做空 […] |
-| 2026-07-29 | [这么快就能在mac上运行啦！不知道还能再](https://versun.me/blog/tweet-2082581352386531356) | 这么快就能在mac上运行啦！不知道还能再量化吗😂 |
-| 2026-07-29 | [Agent 驱动的可追溯智能研究平台——从脚本到类型化工作流的架构演进](https://ghyghoo8.github.io/2026/07/30/2026-07-30-Agent%E9%A9%B1%E5%8A%A8%E7%9A%84%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E6%9E%B6%E6%9E%84-R1%E5%88%B0R3%E6%BC%94%E8%BF%9B%E5%A4%8D%E7%9B%98/) | 本文基于真实项目经历整理，并已按公开分享口径脱敏：内部项目名称、仓库路径、数据接口、运行标识、内容哈希及精确运营数据均已删除或泛化。文章保留业务问题、架构决策、实现机制、技术权衡和验证结论。 <h2 |
-| 2026-07-29 | [面向液冷 IDC 的数字孪生监控平台架构设计与演进实践](https://ghyghoo8.github.io/2026/07/30/2026-07-30-%E9%9D%A2%E5%90%91%E6%B6%B2%E5%86%B7IDC%E7%9A%84%E6%95%B0%E5%AD%97%E5%AD%AA%E7%94%9F%E7%9B%91%E6%8E%A7%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E6%BC%94%E8%BF%9B%E5%AE%9E%E8%B7%B5/) | 摘要 本文以我负责架构设计与核心链路落地的一套液冷 IDC |
-| 2026-07-29 | [Cursor、Claude、Codex深度体验、对比](https://elmagnifico.tech/2026/07/30/Agent-IDE-Compare/) | Foreword 最近把几个比较强的AI工具都试用了一下，对比一下 Cursor 我用的最多，也是相对比较传统的代码工具，理解和使用门槛都是以程序为基准的 Cursor默认套餐的上下文大小实在是太小了才260多K，别人都1M+，大需求很容易就跑过了，还好内置了压缩上下文和长期记忆等，上下文比较大的时… |
-| 2026-07-29 | [承认吧，你其实根本不爱看书](https://blog.solazy.me/20260729/) | 我不止一次的说自己不喜欢看书了 |
-| 2026-07-29 | [Lecture 3 Computational Stellar Astrophysics and Supernova Explosion Models](https://physnya.top/ss-yunnan/lecture-3-computational-stellar-astrophysics-and-supernova-explosion-models/) | Prof. Friedrich Röpke, from Heidelberg University Computational fluid dynamics 我们选择使用流体力学来进行模拟 —— 这件事有很多好处，比如它能够应用一些统计力学的基本规律，能够唯象解决部分问题，同时其采用的假设是「物质连… |
-| 2026-07-29 | [Album#44 - Brett Anderson](https://taxodium.ink/album-44.html) | Album#44 Brett Anderson 图1 《Brett Anderson》専輯封面 专辑信息 专辑名称： Brett Anderson 歌手： Brett Anderson 年份： 2007-03-26 时长： 38:26 在发达星期四的 Brett Anderson 的同名专辑也是你心… |
-| 2026-07-29 | [一个大佬从 claude 叛逃去 kim](https://versun.me/blog/tweet-2082445681621635527) | 一个大佬从 claude 叛逃去 kimi 了 下一个我猜是宝玉老师🤪 |
-| 2026-07-29 | [收购过气软件的Bending Spoons‌上市了，拥有Evernote、Eventbrite、AOL等](https://wenfeixiang.com/2026/07/bending-spoons-story/) | 7月份，对于投资 AI、半导体等热门行业的股票投资人而言，是一个煎熬的月份。持续的抛售和下跌，让我们从各个层面 […] |
-| 2026-07-29 | [Memos: 昨天发现 caffeinate -i 能避免休眠](https://blog.yasking.org/a/1785316249) | 偶尔我会连接手机热点让 AI 干活儿，macOS 不操作过一会儿就会进入睡眠，断掉 Wi-Fi 连接。为了避免这种情况我有几次都是手动 … |
-| 2026-07-29 | [Memos: 昨天发现 caffeinate -i 能避免休眠](https://blog.yasking.org/a/1785316249.html) | 偶尔我会连接手机热点让 AI 干活儿，macOS 不操作过一会儿就会进入睡眠，断掉 Wi-Fi 连接。为了避免这种情况我有几次都是手动 … |
-| 2026-07-29 | [Windows 的 HEVC 扩展收费跟苹果无关](https://yipai.me/post/2543.html) | 今天在某个群里看到这样的言论：不由得感慨苹果真冤啊。因为很多 HEIC 照片来自 iPhone，所以有些蠢人会把这笔钱理解成苹果的格式授权费。然而实际上，这个费用并不是苹果收的。HEIC 通常是使用 HEVC 压缩的 HEIF 图片。Windows 上的 HEIF 图像扩展负责识别文件结构，HEVC… |
-| 2026-07-29 | [2026-07 好物推荐](https://www.ghostchu.com/2026-07-%e5%a5%bd%e7%89%a9%e6%8e%a8%e8%8d%90/) | 博客建立了这么多年，好物分享板块一直没什么内容，那么从今天开始就试着更新一下这个长草的板块吧！ 本期没有任何商 […] 2026-07 好物推荐 最先出现在 Ghost_chu's Blog 。 |
-| 2026-07-29 | [我看网上很多是通过 PAC 转到中国电信](https://versun.me/blog/tweet-2082359997976207450) | 我看网上很多是通过 PAC 转到中国电信官方的 CTExcel 英国卡。但要注意啊，这个卡首次是需要在英国境内激活才可以用的 [tweet-2082359997976207450-10db8d09.png] |
-| 2026-07-29 | [来信 · 莫良](https://www.gtdstudy.com/guestbook/5c18fc62-248c-4191-8ce9-e99382aeaa21/) |  |
-| 2026-07-29 | [Zine#55 - 嘗試才是罕見的](https://taxodium.ink/55.html) | Zine#55 嘗試才是罕見的 當下沒有特別想分享的音樂，如果你想找點音樂聴，去聴聴 天使音乐 (Hint Notes) 吧。 我寫 Zine 的習慣是先在一周里收集各種連結(大部分都來自我訂閱的網站)，然後集中一個時間去处理。有的連結讀起來會比較花時間，有的我一時也不知道怎麼總結，以往我會把這樣的… |
-| 2026-07-29 | [国行三星 S10 登录 Google 账号卡在“请稍候”的解决方法](https://guchengf.me/blog/chinese-samsung-s10-pending-while-login-google-account/) | 最近折腾一台国行三星 SM-G9730（Galaxy S10） ，系统为官方最新版本。在 设置 → 账号 → 添加 Google 账号 时，输入账号密码后，系统提示需要验证身份，但点击 “下一步” 后一直停留在 “请稍候” 页面，无论等待多久都没有反应。 遇到的问题 具体表现如下： 可以正常输入 G… |
-| 2026-07-29 | [NFS 共享日志盘 75 天写满 11T 排障记录（kjds 生产集群）](https://199604.com/3611) | NFS 共享日志盘 75 天写满 11T 排障记录（kjds 生产集群） 记录时间：2026-07-29 环境 […] |
-| 2026-07-29 | [博客一定要为读者负责吗？III](https://mobius.blog/25183.html) | 接着昨天的话题。 博客是否属于“公共空间”？创作者的责任在于…… 这一部分，我在目前依旧没有具体结论，但是可以 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-29 | [还能这样？](https://versun.me/blog/tweet-2082258993783902298) | 还能这样？ |
 
 ## Vibe Coding
 
