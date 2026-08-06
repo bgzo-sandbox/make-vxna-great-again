@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-06 | [公司 二开版 Nacos Docker 镜像构建](https://199604.com/3636) | 公司 二开版 Nacos Docker 镜像构建 记录时间：2026-08-06 环境：Docker 20.1 […] |
+| 2026-08-06 | [俺，插线板（插排）收藏家](https://www.hecaitou.com/2026/08/me-a-power-strip-collector.html) | 我不收家，从小就是如此。当初不收是因为发下宏愿：将来老婆会帮我收，再不然就是保姆。虽然年少，但我还是谨慎地打了补丁：如果将来既没有老婆，也没有保姆，说明我就活该生活在垃圾堆里，那就更不用收了。 这种话换作今天我是绝对不会讲的，因为把太太和保姆并置，有工具化、功能化妻子的嫌疑。在网上一旦被人发现，就会… |
+| 2026-08-06 | [活、货、与神](https://mobius.blog/25297.html) | 华为跟竹知了的事儿，可谓是当代的童话故事。讽刺意味已经远远超过了最初竹知了被转动时发出的哇哇声。 这件事本身没 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-06 | [AI 不会带来超级组织](https://1q43.blog/post/12564/) | 真的只有我觉得赋能个体和赋能组织之间存在强烈的叙事冲突吗？ |
 | 2026-08-06 | [etcd 备份方案（K8s 1.28 二进制集群 / arm64）](https://199604.com/3630) | etcd 备份方案（K8s 1.28 二进制集群 / arm64） 适用集群：三 master 二进制部署的 […] |
 | 2026-08-06 | [Memos: 领取赛博菩萨 Cloudflare Wallet 用户名](https://blog.yasking.org/a/1785979350) | 访问 https://cloudflare.pay ，填写喜欢、未被占用的用户名，每个账户只能绑定一个名称。 |
 | 2026-08-06 | [入蜀记 day438 北来的风雨](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_438/) | 「北来的风雨。」 |
@@ -38,10 +42,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-05 | [Heretic updated](https://macsourceports.com/game/heretic) | The build of Odamex for Heretic has been updated to version 12.2.1 of the project |
 | 2026-08-05 | [Hexen: Beyond Heretic updated](https://macsourceports.com/game/hexen) | The build of Odamex for Hexen: Beyond Heretic has been updated to version 12.2.1 of the project |
 | 2026-08-05 | [Strife updated](https://macsourceports.com/game/strife) | The build of Odamex for Strife has been updated to version 12.2.1 of the project |
+| 2026-08-05 | [【IT档案馆】华为投诉“竹知了”玩具相关视频事件梳理](https://blog.mzh.ren/zh/posts/2026/08/huawei-and-bamboo-cicada-event/) | 有道是：抓住了一只蝉，就仿佛抓住了整个夏天。所以我看到一个在线玩“竹知了”的网站 在线玩竹知了 - V2EX ，很感兴趣的就点了进去。内容如下： 竹知了 起源于隋唐 兴于两宋 亡于鸿蒙 7 年 |
 | 2026-08-05 | [拿 AI 写了个游戏谈谈心得](https://iceprosurface.com/thought/building-a-game-with-ai/) | 最近伙同我的好友 @Codex(是的没错，他自己取名字叫 @Codex，并不是 OpenAI 的 Codex)，我们两个差不多奋战了3周，把一个游戏从零做到了上线。 游戏叫《无限弹球》，已经在 TapTap 上线 。截至 2026 年 8 月 5 日，页面显示 8.8 分、64 条评价、1.8 万热… |
 | 2026-08-05 | [电信宽带携号转网到联通宽带](https://depp.wang/2026/china-unicom-broadband/) | 01 为什么转 主要是因为价格与动态 IPv4 公网 IP。 我原来用的是电信融合宽带，99 元一个月，300M 的宽带，但是只有 20G 流量。 之前给我装电信宽带的师傅后来跳到移动了，上上个月他问我合约期到了没有，要不要换移动宽带。我这边是不想换移动宽带的，因为移动宽带口碑太差了。我就查了我的合… |
 | 2026-08-05 | [艾尔特拉克在岣琅](https://www.geedea.pro/article/banality-of-go-err/) | 汉娜·阿伦特报道了阿道夫·艾希曼在耶路撒冷因组织屠杀犹太人受审的案件，在法庭上，她发现艾希曼并不是一个冷静且思维缜密的杀手，相反，“说话时间越长，越能感受到他表达力的匮乏与思考能力的缺失，他不会站在别人的立场思考问题，之所以无法同他交流，并不是因为他说谎，而是因为他周围围绕着坚固的壁垒，屏蔽他的言辞… |
 | 2026-08-05 | [向云端｜西南自驾07 - 新晃](https://blog.ops-coffee.com/r/2026-southwest-road-trip-07-xinhuang.html) |  |
+| 2026-08-05 | [差点把这家伙给忘记了。。。 等下，图标里](https://versun.me/blog/tweet-2084988516862132665) | 差点把这家伙给忘记了。。。 等下，图标里是和 gpt-oss, qwen3 做比较？？？ [tweet-2084684735725379637-560af310.jpg] |
 | 2026-08-05 | [域名切换到 blog.alliot.tech](https://blog.alliot.tech/post/domain-switch-2026) | 纠结许久，我还是把博客域名切换到了 blog.alliot.tech 。这篇文章的标签是「折腾」，算是名副其实。那么，切换一个用了十几年的域名，到底要经历多少折腾？ |
 | 2026-08-05 | [Docker Compose 部署 Dify 教程](https://songxwn.com/Dify-Docker-Compose/) |  |
 | 2026-08-05 | [入蜀记 day437 靠山邸](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_437/) | 「靠山邸。」 |
