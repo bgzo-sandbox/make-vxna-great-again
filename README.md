@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-07 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 野人队 永远是… |
 | 2026-08-07 | [向云端｜西南自驾08 - 镇远](https://blog.ops-coffee.com/r/2026-southwest-road-trip-08-zhenyuan.html) |  |
 | 2026-08-07 | [289、立秋](https://1900.live/289-li-qiu/) | null 蝉声渐稀，暑气未退，天地仍在长夏的余烬里蒸腾，却已有一缕不易察觉的清意，悄然穿过浓荫与晚风。 太阳行至黄经135°，立秋——秋之初序，亦是盛夏向深秋缓缓转身的门槛。 梧桐将落未落，叶尖先染微黄；鹰始击，长空之上，暑云渐散，风的骨骼开始变得清峻；禾乃登，田野里的谷穗低下头颅，在烈日与暴雨共同… |
 | 2026-08-07 | [诺兰访谈的小集结](https://www.hecaitou.com/2026/08/nolan-interview-and-the-brief-rally-of-minds.html) | 诺兰导演前往中国宣传他的新片《奥德赛》，行程中有一项是接受学者兼播客主播仲树的采访。访谈内容很深，起码和普通娱乐新闻的访谈相比要深，是真的在讨论创作，讨论作品，讨论历史和人文。 海内海外由此引发一轮热潮，这次访谈被海外网友评价为「诺兰最好的一次访谈」。国内许多作者、播客主播、电影人也很振奋，我看到文… |
@@ -87,7 +88,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-04 | [无用命途：博客深潜者](https://blog.mfwt.top/index.php/archives/1481/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。 |
 | 2026-08-04 | [又是一年，祝自己生日快乐](https://blog.solazy.me/20260804/) | 又老了一岁 |
 | 2026-08-04 | [大陆居民申请香港汇丰银行卡流程记录](https://blog.yasking.org/a/hsbc-bank-card) | 前置条件： 人在香港，手机连接香港的 Wi-Fi 或蜂窝网络（国内卡开数据漫游/香港流量卡）； 手机需支持 NFC 功能（读取港澳通行证）； 港 … |
-| 2026-08-04 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人： 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 重要声明： 野人队 在… |
 | 2026-08-04 | [入蜀记 day436 钟美美](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_436/) | 「钟美美。」 |
 | 2026-08-04 | [未来休克并不只是发生在未来](https://mobius.blog/25282.html) | 继续昨天的文章，在标题里还留下了一个极具迷惑性的“概念”——未来休克。 这是阿尔文·托夫勒在 1970 年出版 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-04 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
