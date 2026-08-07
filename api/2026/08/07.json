@@ -1,5 +1,54 @@
 [
   {
+    "title": "289、立秋",
+    "url": "https://1900.live/289-li-qiu/",
+    "date": "2026-08-07T04:20:17Z",
+    "description": "null 蝉声渐稀，暑气未退，天地仍在长夏的余烬里蒸腾，却已有一缕不易察觉的清意，悄然穿过浓荫与晚风。 太阳行至黄经135°，立秋——秋之初序，亦是盛夏向深秋缓缓转身的门槛。 梧桐将落未落，叶尖先染微黄；鹰始击，长空之上，暑云渐散，风的骨骼开始变得清峻；禾乃登，田野里的谷穗低下头颅，在烈日与暴雨共同锻造过的土地上，悄然蓄满沉甸甸的金色。此时虽名为“秋”，暑意仍浓，伏天未尽，雷雨依旧来去如潮——秋不是骤然降临，而是在盛夏最深处，先递来一封清凉的信。 立者，始也；秋者，收也。 天地从此由“生”转向“成”，万物不再一味向上伸展，而开始把丰盛收拢，把喧腾归于饱满。草木仍在繁茂，果实却已在枝头默默成熟；蝉声仍在高唱，暮色却比从前更早一刻降临。那些曾经用尽全力奔赴阳光的生命，终于在风中听见了归仓、结实与沉淀的回响。 此刻，不妨： 把夏日未尽的燥意，交给一阵傍晚的风；不急着寻找秋凉，先在树影下坐定，看天边的云一点点变薄； 把庭前新熟的瓜果洗净，捧一盏温茶，尝一口土地历经酷暑之后酿出的甘甜，懂得丰收从来不是骤然发生，而是每一次忍耐都有回声； 把目光投向田野，看禾穗如何在成熟之后弯下腰来——真正的丰盈，",
+    "source_root_domain": "1900.live"
+  },
+  {
+    "title": "诺兰访谈的小集结",
+    "url": "https://www.hecaitou.com/2026/08/nolan-interview-and-the-brief-rally-of-minds.html",
+    "date": "2026-08-07T04:06:02Z",
+    "description": "诺兰导演前往中国宣传他的新片《奥德赛》，行程中有一项是接受学者兼播客主播仲树的采访。访谈内容很深，起码和普通娱乐新闻的访谈相比要深，是真的在讨论创作，讨论作品，讨论历史和人文。 海内海外由此引发一轮热潮，这次访谈被海外网友评价为「诺兰最好的一次访谈」。国内许多作者、播客主播、电影人也很振奋，我看到文章发了一轮又一轮，都在谈严肃内容，都在批判算法，批判轻浮浅薄的流行文化。还有的人则在乐观地欢呼，声称这次访谈的巨大成功暗示着网友对浅薄内容感到了厌倦，预示着严肃内容将在网络世界里王者归来。 我有点不以为然。 访谈我看了，看完我就开始担忧：这让大多数电影观众怎么接受呢？完全在他们的兴趣和经验之外，而且可能根本插不上话，也没有办法搬运到饭桌上作为谈资。当然，很多人看到这里估计非常乐意打我的脸，纷纷去找 B 站和海外网站上这段访谈的播放量，让我见识一下什么叫百万级，千万级的热潮。 但我不会因此而改变我的态度。 今天的互联网已经是全民互联网，不再是三十年前的少数教育阶层的秘密花园。整个网络世界里，最流行的是俗文化，目的是为了满足大多数人，这是网络内容上的第一层改变。 说是满足了大多数人，这里的满足也",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Ubuntu虚拟机NVIDIA L20显卡驱动异常排查处置过程",
+    "url": "https://199604.com/3639",
+    "date": "2026-08-07T03:39:53Z",
+    "description": "Ubuntu虚拟机NVIDIA L20显卡驱动异常排查处置过程 记录时间：2026-08-07 环境：KVM/ […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "给 Neon Swarm 游戏添加了锁定",
+    "url": "https://versun.me/blog/tweet-2085562602424512840",
+    "date": "2026-08-07T03:04:06Z",
+    "description": "给 Neon Swarm 游戏添加了锁定功能，只要连续打中4发子弹，就可以锁定敌机3秒，自动会自动巡航敌机 我目前击杀数排行第一，求打破😎 https://swarm.kimi.site/ [tweet-2085562602424512840-f4c84a56.mp4][tweet-2085562602424512840-a1df471d.png]",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Kafka集群ISR收缩告警误报排查",
+    "url": "https://199604.com/3628",
+    "date": "2026-08-07T02:41:51Z",
+    "description": "Kafka集群ISR收缩告警误报排查 记录时间：2026-08-03 环境：信创 ARM64 / RKE1 / […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "邮箱生态调研2026",
+    "url": "https://blog.est.im/2026/stdout-31",
+    "date": "2026-08-07T02:35:00Z",
+    "description": "起初一个很简单的想法，把一个app/服务的私人数据，集中存数据库麻烦，不想维护担责，干脆放用户自己邮箱里，所谓\"BYOS（自带存储）\"。反正协议 SMTP/POP3/IMAP 很方便，然后调查了下很快发现，时代变了。 本来寄希望IMAP 这个协议，感觉能缝成一个读写API， - APPEND 写（一封邮件 = 一个对象）， FETCH 读， STORE 改 flag， COPY/MOVE 移动 - \"目录 + KV\"模型，flag（ \\Seen 、 \\Flagged 等）即元数据位 - SEARCH 查询 主题、日期、自定义 header等 - 增量同步： UID + UIDVALIDITY ， IDLE 可做准实时推送（仅单文件夹） 其实古董的 GMailFS / GMail Drive 之类把 Gmail 当虚拟磁盘的开源项目很多，各类 邮件备份 工具、笔记类应用的同步，都走过这条路 以前输入帐号密码这种简单方式，早被废了；甚至专用密码、动态密码都下掉了。主流邮箱（Gmail/Outlook/Yahoo）已全面转向 OAuth 2.0，就是它协议上是要走一个握手然后验证token的",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "强烈建议各位部署 gitea mirro",
+    "url": "https://versun.me/blog/tweet-2085535797269364841",
+    "date": "2026-08-07T01:17:36Z",
+    "description": "强烈建议各位部署 gitea mirror 自动备份 github 上所有 repo，防止意外发生https://github.com/RayLabsHQ/gitea-mirror [tweet-2085535797269364841-846c7a72.jpg]",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "套皮",
     "url": "https://mobius.blog/25302.html",
     "date": "2026-08-07T01:00:00Z",
@@ -7,11 +56,32 @@
     "source_root_domain": "onojyun.com"
   },
   {
+    "title": "EchoFeed 要关停了。。。可惜了",
+    "url": "https://versun.me/blog/tweet-2085521554717487202",
+    "date": "2026-08-07T00:21:00Z",
+    "description": "EchoFeed 要关停了。。。可惜了 https://rknight.me/blog/shutting-down-echofeed/",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
+    "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
+    "date": "2026-08-07T00:08:27Z",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 上海浦江郊野公园的溪边咖啡馆。（ via ） 国家为什么需要开源软件？ 上个月，大模型 Kimi K3 发布。大家可能不知道，它在美国引起的反响，比中国大。 它的性能略逊于美国的顶尖模型，但是它是开源的，任何人都可以自己架设。这对大公司非常有吸引力。 美国目前的经济增长，全靠巨额的 AI 投资，其他行业其实不怎么增长。一旦大量企业选择自己架设开源模型（几乎肯定如此），现有的巨额投资有收不回来的风险。 美国政府就坐不住了， 出来放话 ，中国模型有\"违规\"行为，考虑要限制开源模型。 此言一出，就引起了恐慌，历史上还从来没有一个国家封锁开源项目。 两天以后，美国许多互联网公司联合起来，发表了 一封公开信 ，标题为《开放权重模型和美国 AI 领导力》。 公开信呼吁不要限制中国的开源模型，微软、英伟达、思科、Cloudflare 等行业著名公司都签字了。 我觉得，此信写得极好，推荐大家去读。 它的核心观",
+    "source_root_domain": "feedburner.com"
+  },
+  {
     "title": "日元下跌与美日联合救场：四个核心问题",
     "url": "https://elmtran.com/essays/yen-depreciation-us-japan-intervention/",
     "date": "2026-08-07T00:00:00Z",
     "description": "从利差、输入型通胀、联合汇率干预与套利交易平仓四条链路，理解日元为何走弱、美国为何参与，以及日元未来可能怎么走。",
     "source_root_domain": "elmtran.com"
+  },
+  {
+    "title": "DESIGN.md 企业内落地实践与踩坑复盘分享",
+    "url": "https://lrd.im/blog/2026-08-07",
+    "date": "2026-08-07T00:00:00Z",
+    "description": "随着 Agent 时代来临，公司内涌现了新的合作模式，也产生了新的痛点。本文将分享如何使用 DESIGN.md 和 SKILL 让设计系统在 AI 时代发挥影响力。",
+    "source_root_domain": "lrd.im"
   },
   {
     "title": "Memos #2026-08-06",
@@ -35,11 +105,25 @@
     "source_root_domain": "eryajf.net"
   },
   {
+    "title": "cf 这几天是疯了吗，一天一个啊🤣",
+    "url": "https://versun.me/blog/tweet-2085484625707872725",
+    "date": "2026-08-06T21:54:15Z",
+    "description": "cf 这几天是疯了吗，一天一个啊🤣",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "为什么 AI 也会有缓存命中",
     "url": "https://yipai.me/post/2545.html",
     "date": "2026-08-06T15:38:51Z",
     "description": "很疑惑最近总是很困。比如昨天太困早睡了，睡眠时间达到了 9 个小时，但今天还是困。今天正好看到一篇文章说困可能是“输出”太少。想想挺有道理。最近每次骑完车虽然很累，但比出门骑车前精神要好。我猜这就是体力输出导致的结果。最近实在太闲，本来事儿就少，还都用 AI 完成了，大脑自己的输出量极少。估计这就是最近精神状态不行的原因。所以得输出一些东西。但就像有句话说：",
     "source_root_domain": "yipai.me"
+  },
+  {
+    "title": "生理上的技术债务",
+    "url": "https://blog.solazy.me/20260806/",
+    "date": "2026-08-06T15:00:00Z",
+    "description": "每次去看病都能感觉人类的身体真的是脆弱",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "无能的 DeepSeek 不会安装 Neovim 插件",

@@ -27,12 +27,24 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-07 | [289、立秋](https://1900.live/289-li-qiu/) | null 蝉声渐稀，暑气未退，天地仍在长夏的余烬里蒸腾，却已有一缕不易察觉的清意，悄然穿过浓荫与晚风。 太阳行至黄经135°，立秋——秋之初序，亦是盛夏向深秋缓缓转身的门槛。 梧桐将落未落，叶尖先染微黄；鹰始击，长空之上，暑云渐散，风的骨骼开始变得清峻；禾乃登，田野里的谷穗低下头颅，在烈日与暴雨共同… |
+| 2026-08-07 | [诺兰访谈的小集结](https://www.hecaitou.com/2026/08/nolan-interview-and-the-brief-rally-of-minds.html) | 诺兰导演前往中国宣传他的新片《奥德赛》，行程中有一项是接受学者兼播客主播仲树的采访。访谈内容很深，起码和普通娱乐新闻的访谈相比要深，是真的在讨论创作，讨论作品，讨论历史和人文。 海内海外由此引发一轮热潮，这次访谈被海外网友评价为「诺兰最好的一次访谈」。国内许多作者、播客主播、电影人也很振奋，我看到文… |
+| 2026-08-07 | [Ubuntu虚拟机NVIDIA L20显卡驱动异常排查处置过程](https://199604.com/3639) | Ubuntu虚拟机NVIDIA L20显卡驱动异常排查处置过程 记录时间：2026-08-07 环境：KVM/ […] |
+| 2026-08-07 | [给 Neon Swarm 游戏添加了锁定](https://versun.me/blog/tweet-2085562602424512840) | 给 Neon Swarm 游戏添加了锁定功能，只要连续打中4发子弹，就可以锁定敌机3秒，自动会自动巡航敌机 我目前击杀数排行第一，求打破😎 https://swarm.kimi.site/ [tweet-2085562602424512840-f4c84a56.mp4][tweet-20855626… |
+| 2026-08-07 | [Kafka集群ISR收缩告警误报排查](https://199604.com/3628) | Kafka集群ISR收缩告警误报排查 记录时间：2026-08-03 环境：信创 ARM64 / RKE1 / […] |
+| 2026-08-07 | [邮箱生态调研2026](https://blog.est.im/2026/stdout-31) | 起初一个很简单的想法，把一个app/服务的私人数据，集中存数据库麻烦，不想维护担责，干脆放用户自己邮箱里，所谓"BYOS（自带存储）"。反正协议 SMTP/POP3/IMAP 很方便，然后调查了下很快发现，时代变了。 本来寄希望IMAP 这个协议，感觉能缝成一个读写API， - APPEND 写（一… |
+| 2026-08-07 | [强烈建议各位部署 gitea mirro](https://versun.me/blog/tweet-2085535797269364841) | 强烈建议各位部署 gitea mirror 自动备份 github 上所有 repo，防止意外发生https://github.com/RayLabsHQ/gitea-mirror [tweet-2085535797269364841-846c7a72.jpg] |
 | 2026-08-07 | [套皮](https://mobius.blog/25302.html) | 在咖啡厅码字时，偷听到旁边两个阿姨聊天。 大致是她们有一个共同认识的女孩子，在要考公务员的时候，才知道自己是没 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-07 | [EchoFeed 要关停了。。。可惜了](https://versun.me/blog/tweet-2085521554717487202) | EchoFeed 要关停了。。。可惜了 https://rknight.me/blog/shutting-down-echofeed/ |
+| 2026-08-07 | [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 上海浦江郊野公园的溪边咖啡馆。（ via ） 国家为什么需要开源软件？ 上个月，大模型 Kimi K3… |
 | 2026-08-07 | [日元下跌与美日联合救场：四个核心问题](https://elmtran.com/essays/yen-depreciation-us-japan-intervention/) | 从利差、输入型通胀、联合汇率干预与套利交易平仓四条链路，理解日元为何走弱、美国为何参与，以及日元未来可能怎么走。 |
+| 2026-08-07 | [DESIGN.md 企业内落地实践与踩坑复盘分享](https://lrd.im/blog/2026-08-07) | 随着 Agent 时代来临，公司内涌现了新的合作模式，也产生了新的痛点。本文将分享如何使用 DESIGN.md 和 SKILL 让设计系统在 AI 时代发挥影响力。 |
 | 2026-08-07 | [Memos #2026-08-06](https://www.taober.blog/memos) | 16:22 昨晚下车前想着，如果基金今天还涨，就去刮一张刮刮乐。 看了一眼，确实小涨，就买了张 20 块的，刮中了 20；又拿去换了一张，刮中了 40。不禁小窃喜，这周运气似乎不错。 结果今天一觉醒来，发现基金亏了…… |
 | 2026-08-06 | [中年危机，正在走向两个极端｜灵感电波 #133](https://www.linggandianbo.com/newsletter-133/) | 中年危机为何一端公开强化身体、一端悄悄退出公共生活；艺术怎样扩展现实、后悔如何照见自己，以及向陌生人求助和等待电梯背后的隐藏规则。 |
 | 2026-08-06 | [学习周刊-总第275期-2026年第32周](https://wiki.eryajf.net/pages/961c90/) | 如要阅读全文，点击标题跳转。 学习周刊-总第275期 &#124; ccg-gateway &#124; md-preview &#124; orca &#124; Callit &#124; skills-hub &#124; multi-cli-studio &#124; input0 &#124; hermes-web-ui |
+| 2026-08-06 | [cf 这几天是疯了吗，一天一个啊🤣](https://versun.me/blog/tweet-2085484625707872725) | cf 这几天是疯了吗，一天一个啊🤣 |
 | 2026-08-06 | [为什么 AI 也会有缓存命中](https://yipai.me/post/2545.html) | 很疑惑最近总是很困。比如昨天太困早睡了，睡眠时间达到了 9 个小时，但今天还是困。今天正好看到一篇文章说困可能是“输出”太少。想想挺有道理。最近每次骑完车虽然很累，但比出门骑车前精神要好。我猜这就是体力输出导致的结果。最近实在太闲，本来事儿就少，还都用 AI 完成了，大脑自己的输出量极少。估计这就是… |
+| 2026-08-06 | [生理上的技术债务](https://blog.solazy.me/20260806/) | 每次去看病都能感觉人类的身体真的是脆弱 |
 | 2026-08-06 | [无能的 DeepSeek 不会安装 Neovim 插件](https://re.karlbaey.top/articles/tinkering/install-rainbow-delimiters/) | 昨天让 DeepSeek 给我的 Neovim 安装 rainbow-delimiters 这个插件，三下五除二给我装上 … |
 | 2026-08-06 | [Album#46 - High Violet](https://taxodium.ink/album-46.html) | Album#46 High Violet 图1 《High Violet》專輯封面 专辑信息 专辑名称： High Violet 歌手： The National 年份： 2010-05-10 时长： 47:40 要說這張專輯什麼最吸引我，無疑是主唱 Matt Beringer 的嗓音，低沉而温暖，… |
 | 2026-08-06 | [cbvivi.app](https://cbvivi.today/cbviviapp) | 注册了 cbvivi.app 来展示我做的 app。 下一个新产品叫 melog，是影像类。我想在夏天结束前发布，但不知道来不来得及，也不知道夏天什么时候算结束。...... READ MORE |
