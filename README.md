@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-07 | [AI 投资范式的转变：押注超级头部公司](https://wenfeixiang.com/2026/08/menlo-ventures-partner-matt-murphy-talk-with-20vc/) | 过去二十年，早期风险投资（VC） 有一条默认的投资范式：押注要集中、持股要足够深。举个例子，在一家有望成功的互 […] |
 | 2026-08-07 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 野人队 永远是… |
 | 2026-08-07 | [向云端｜西南自驾08 - 镇远](https://blog.ops-coffee.com/r/2026-southwest-road-trip-08-zhenyuan.html) |  |
 | 2026-08-07 | [289、立秋](https://1900.live/289-li-qiu/) | null 蝉声渐稀，暑气未退，天地仍在长夏的余烬里蒸腾，却已有一缕不易察觉的清意，悄然穿过浓荫与晚风。 太阳行至黄经135°，立秋——秋之初序，亦是盛夏向深秋缓缓转身的门槛。 梧桐将落未落，叶尖先染微黄；鹰始击，长空之上，暑云渐散，风的骨骼开始变得清峻；禾乃登，田野里的谷穗低下头颅，在烈日与暴雨共同… |
