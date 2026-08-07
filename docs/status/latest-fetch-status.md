@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-08-07T13:04:16Z
-modified: 2026-08-07T13:04:16Z
+created: 2026-08-07T14:58:16Z
+modified: 2026-08-07T14:58:16Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,11 +11,11 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-08-07T13:04:16Z
+Generated at: 2026-08-07T14:58:16Z
 
 Total sources: 485
-Successful: 367
-Failed: 118
+Successful: 366
+Failed: 119
 
 | Status | Source | Feed | Origin | Articles | Error |
 | --- | --- | --- | --- | ---: | --- |
@@ -52,6 +52,7 @@ Failed: 118
 | Failed | [#234] V2EX › 嗷呜公 | [https://www.aowugong.top/blog/article/rss.xml](https://www.aowugong.top/blog/article/rss.xml) | [Origin](https://www.v2ex.com/xna/s/234) | 0 | Client error '404 Not Found' for url 'https://www.aowugong.top/blog/article/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#23] V2EX › booop | [https://booop.net/feed/](https://booop.net/feed/) | [Origin](https://www.v2ex.com/xna/s/23) | 0 | [Errno 111] Connection refused |
 | Failed | [#243] V2EX › 封闭脑袋 | [https://www.joomaen.com/feed](https://www.joomaen.com/feed) | [Origin](https://www.v2ex.com/xna/s/243) | 0 | Client error '403 Forbidden' for url 'https://www.joomaen.com/feed' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
+| Failed | [#244] V2EX › Kevin Cui | [https://bugs.cc/zh/index.xml](https://bugs.cc/zh/index.xml) | [Origin](https://www.v2ex.com/xna/s/244) | 0 | Server error '503 Service Unavailable' for url 'https://bugs.cc/zh/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503 |
 | Failed | [#247] V2EX › 唐长老日志 | [https://www.jianyun.run/feed.xml](https://www.jianyun.run/feed.xml) | [Origin](https://www.v2ex.com/xna/s/247) | 0 | Client error '403 Forbidden' for url 'https://www.jianyun.run/feed.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#248] V2EX › SaltyLeo | [https://saltyleo.com/atom.xml](https://saltyleo.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/248) | 0 | feed parse error |
 | Failed | [#249] V2EX › 励志云 | [https://www.555365.xyz/feeds/posts/default](https://www.555365.xyz/feeds/posts/default) | [Origin](https://www.v2ex.com/xna/s/249) | 0 | [Errno -5] No address associated with hostname |
@@ -244,7 +245,6 @@ Failed: 118
 | Success | [#240] V2EX › 浮华生 | [https://www.ahianzhang.com/index.xml](https://www.ahianzhang.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/240) | 73 | - |
 | Success | [#241] V2EX › ATP | [https://atpx.com/feed.xml](https://atpx.com/feed.xml) | [Origin](https://www.v2ex.com/xna/s/241) | 10 | - |
 | Success | [#242] V2EX › 地瓜的博客 | [https://digua.moe/feed.rss](https://digua.moe/feed.rss) | [Origin](https://www.v2ex.com/xna/s/242) | 11 | - |
-| Success | [#244] V2EX › Kevin Cui | [https://bugs.cc/zh/index.xml](https://bugs.cc/zh/index.xml) | [Origin](https://www.v2ex.com/xna/s/244) | 35 | - |
 | Success | [#246] V2EX › JAKSAY | [https://jaksay.com/feed/category/article/](https://jaksay.com/feed/category/article/) | [Origin](https://www.v2ex.com/xna/s/246) | 20 | - |
 | Success | [#24] V2EX › 流动 | [https://liudon.com/index.xml](https://liudon.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/24) | 92 | - |
 | Success | [#251] V2EX › 王豆豆的人生旅途 | [https://vatery.com/atom.xml](https://vatery.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/251) | 20 | - |
