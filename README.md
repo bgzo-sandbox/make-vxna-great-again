@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-07 | [向云端｜西南自驾08 - 镇远](https://blog.ops-coffee.com/r/2026-southwest-road-trip-08-zhenyuan.html) |  |
 | 2026-08-07 | [289、立秋](https://1900.live/289-li-qiu/) | null 蝉声渐稀，暑气未退，天地仍在长夏的余烬里蒸腾，却已有一缕不易察觉的清意，悄然穿过浓荫与晚风。 太阳行至黄经135°，立秋——秋之初序，亦是盛夏向深秋缓缓转身的门槛。 梧桐将落未落，叶尖先染微黄；鹰始击，长空之上，暑云渐散，风的骨骼开始变得清峻；禾乃登，田野里的谷穗低下头颅，在烈日与暴雨共同… |
 | 2026-08-07 | [诺兰访谈的小集结](https://www.hecaitou.com/2026/08/nolan-interview-and-the-brief-rally-of-minds.html) | 诺兰导演前往中国宣传他的新片《奥德赛》，行程中有一项是接受学者兼播客主播仲树的采访。访谈内容很深，起码和普通娱乐新闻的访谈相比要深，是真的在讨论创作，讨论作品，讨论历史和人文。 海内海外由此引发一轮热潮，这次访谈被海外网友评价为「诺兰最好的一次访谈」。国内许多作者、播客主播、电影人也很振奋，我看到文… |
 | 2026-08-07 | [Ubuntu虚拟机NVIDIA L20显卡驱动异常排查处置过程](https://199604.com/3639) | Ubuntu虚拟机NVIDIA L20显卡驱动异常排查处置过程 记录时间：2026-08-07 环境：KVM/ […] |
