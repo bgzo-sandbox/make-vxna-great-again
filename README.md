@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-07 | [日元下跌与美日联合救场：四个核心问题](https://elmtran.com/essays/yen-depreciation-us-japan-intervention/) | 从利差、输入型通胀、联合汇率干预与套利交易平仓四条链路，理解日元为何走弱、美国为何参与，以及日元未来可能怎么走。 |
+| 2026-08-07 | [Memos #2026-08-06](https://www.taober.blog/memos) | 16:22 昨晚下车前想着，如果基金今天还涨，就去刮一张刮刮乐。 看了一眼，确实小涨，就买了张 20 块的，刮中了 20；又拿去换了一张，刮中了 40。不禁小窃喜，这周运气似乎不错。 结果今天一觉醒来，发现基金亏了…… |
+| 2026-08-06 | [中年危机，正在走向两个极端｜灵感电波 #133](https://www.linggandianbo.com/newsletter-133/) | 中年危机为何一端公开强化身体、一端悄悄退出公共生活；艺术怎样扩展现实、后悔如何照见自己，以及向陌生人求助和等待电梯背后的隐藏规则。 |
+| 2026-08-06 | [学习周刊-总第275期-2026年第32周](https://wiki.eryajf.net/pages/961c90/) | 如要阅读全文，点击标题跳转。 学习周刊-总第275期 &#124; ccg-gateway &#124; md-preview &#124; orca &#124; Callit &#124; skills-hub &#124; multi-cli-studio &#124; input0 &#124; hermes-web-ui |
+| 2026-08-06 | [为什么 AI 也会有缓存命中](https://yipai.me/post/2545.html) | 很疑惑最近总是很困。比如昨天太困早睡了，睡眠时间达到了 9 个小时，但今天还是困。今天正好看到一篇文章说困可能是“输出”太少。想想挺有道理。最近每次骑完车虽然很累，但比出门骑车前精神要好。我猜这就是体力输出导致的结果。最近实在太闲，本来事儿就少，还都用 AI 完成了，大脑自己的输出量极少。估计这就是… |
 | 2026-08-06 | [无能的 DeepSeek 不会安装 Neovim 插件](https://re.karlbaey.top/articles/tinkering/install-rainbow-delimiters/) | 昨天让 DeepSeek 给我的 Neovim 安装 rainbow-delimiters 这个插件，三下五除二给我装上 … |
 | 2026-08-06 | [Album#46 - High Violet](https://taxodium.ink/album-46.html) | Album#46 High Violet 图1 《High Violet》專輯封面 专辑信息 专辑名称： High Violet 歌手： The National 年份： 2010-05-10 时长： 47:40 要說這張專輯什麼最吸引我，無疑是主唱 Matt Beringer 的嗓音，低沉而温暖，… |
 | 2026-08-06 | [cbvivi.app](https://cbvivi.today/cbviviapp) | 注册了 cbvivi.app 来展示我做的 app。 下一个新产品叫 melog，是影像类。我想在夏天结束前发布，但不知道来不来得及，也不知道夏天什么时候算结束。...... READ MORE |
@@ -40,7 +45,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-06 | [etcd 备份方案（K8s 1.28 二进制集群 / arm64）](https://199604.com/3630) | etcd 备份方案（K8s 1.28 二进制集群 / arm64） 适用集群：三 master 二进制部署的 […] |
 | 2026-08-06 | [Memos: 领取赛博菩萨 Cloudflare Wallet 用户名](https://blog.yasking.org/a/1785979350) | 访问 https://cloudflare.pay ，填写喜欢、未被占用的用户名，每个账户只能绑定一个名称。 |
 | 2026-08-06 | [入蜀记 day438 北来的风雨](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_438/) | 「北来的风雨。」 |
-| 2026-08-06 | [Memos #2026-08-05](https://www.taober.blog/memos) | 09:18 最近都睡得很晚，难得昨晚十二点半就睡了，今天早上闹钟响的时候巨清醒，也没啥疲惫的感觉，看来早睡是对的。 |
 | 2026-08-05 | [Chex Quest Trilogy updated](https://macsourceports.com/game/chexquest) | The build of Odamex for Chex Quest Trilogy has been updated to version 12.2.1 of the project |
 | 2026-08-05 | [DOOM updated](https://macsourceports.com/game/doom) | The build of Odamex for DOOM has been updated to version 12.2.1 of the project |
 | 2026-08-05 | [DOOM II updated](https://macsourceports.com/game/doom2) | The build of Odamex for DOOM II has been updated to version 12.2.1 of the project |
@@ -167,43 +171,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-07-31 | [我突然发现，AI 时代的开发流程中，"重](https://versun.me/blog/tweet-2082984423889506813) | 我突然发现，AI 时代的开发流程中，"重构"已经悄然变成了固定环节 在以前，重构是能躲就躲，迫不得已才会选择的下下策 但现在不一样，AI 写代码虽然快，但性能一般，冗余又多，再加上人基本不会审查，所以随着模型能力的升级，顺手重构一遍，反而成了理所当然且必要的环节了 那么问题来了，如果我连测试用例都是… |
 | 2026-07-31 | [科技爱好者周刊（第 406 期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 深圳坪山区的坑梓文化科技中心，本身只是普通的三层楼房，但是设计师巧妙地为它加上三级拱廊，顿时让这个建筑变… |
 | 2026-07-31 | [博客字体的选择](https://blog.196000.xyz/2026/2026-07-31-develop-blog-design.html) | 一轮以「清晰」为目标的排版改版记录：字体栈的取舍、字号与密度、行宽、对比度，以及手机与桌面的处理。 |
-| 2026-07-30 | [谁买得起专注？｜灵感电波 #132](https://www.linggandianbo.com/newsletter-132/) | 三篇文章，从阶层、个人和天才的视角重新理解注意力；另有苹果的本地 AI 赌注，以及手写为何仍值得保留。 |
-| 2026-07-30 | [学习周刊-总第274期-2026年第31周](https://wiki.eryajf.net/pages/7216a4/) | 如要阅读全文，点击标题跳转。 学习周刊-总第274期 &#124; nextclaw &#124; GHFS &#124; desktop-cc-gui &#124; nowen-video &#124; link-ai &#124; MacSift &#124; PureMac |
-| 2026-07-30 | [Six-Lens Poem Reading and the Story Behind It](https://victor42.eth.limo/post-en/poem-six-lens-skill/) | It Started with Nonsense A friend sent me this image, calling it an authentic Wu Daozi. I looked and looked and could not spot the forgery. It must be… |
-| 2026-07-30 | [六合读诗与幕后故事](https://victor42.eth.limo/post/poem-six-lens-skill/) | 从一段胡说八道开始 朋友发来这么一张图：说是吴道子的真迹，我左看右看也没看出哪里造假了，应该是真的。 我一看，回复道： 没毛病，他就是那个年代的人，他亲眼见到的。杜牧个后世人，YY个什么劲，还次第开，那门用得着开吗？就因为吴道子有点不知道哪来的广东口音，后世人凭什么不认。历史的悲哀。 玩笑归玩笑，既… |
-| 2026-07-30 | [吹箫人](https://blog.zopiya.com/chui-xiao-ren-91eca469/) | 村东头住着一个吹箫人。 头一年，他只在自己屋里吹，窗子关得严严实实，一丝声音也漏不出去。吹到兴处，摇头晃脑，错了音也不恼，一曲吹罢，倒头便睡，一觉到天亮。 |
-| 2026-07-30 | [记：已经一个多月没去电影院](https://blog.solazy.me/20260730/) | 随笔记录一下没去电影院看电影的这段时间的自己 |
-| 2026-07-30 | [台风来临，如何准备好应急通信对讲机](https://blog.mfwt.top/index.php/archives/1479/) | 大约在一年前，台风桦加沙来的时候，笔者写文章介绍过当时所做的一些准备措施。受限于篇幅与时间安排原因，文末关于应急通信的几个准备，尤其是关于对讲机的，并没有讲述得太详尽。如今又到了台风季节，再加上... |
-| 2026-07-30 | [各位有什么适合 ADHD 患者的 tod](https://versun.me/blog/tweet-2082811154351653276) | 各位有什么适合 ADHD 患者的 todo 软件呀，我的滴答清单积压太多待办了😭 |
-| 2026-07-30 | [Lecture 4 Evolution, Explosion and Nucleosynthesis of Massive Stars](https://physnya.top/ss-yunnan/lecture-4-evolution-explosion-and-nucleosynthesis-of-massive-stars/) | Prof. Marco Limongi, from University of Tokyo 我们建立了 Stellar Model，这个历史上的模型仅仅是一维的，它包含了 L L L , P P P , T T T , ρ \rho ρ , 化学组分等等内容，用几个微分方程来尝试描述. 这个模型中所… |
-| 2026-07-30 | [我把积灰的 MacBook Pro 2019 改成了无限额度 Xcode CI Runner](https://blog.tomyail.com/macbook-pro-2019-unlimited-xcode-ci-runner/) | 把闲置的 2019 Intel MacBook Pro 改成合盖常驻的 Gitea Actions / Xcode CI Runner：防睡眠、本地网络权限、Universal Xcode、Fastlane 上传 TestFlight，以及单机 Runner 的真实代价。 |
-| 2026-07-30 | [你用了才知道，firecrawl 才是强](https://versun.me/blog/tweet-2082764995927118124) | 你用了才知道，firecrawl 才是强的没边 爬虫工具，看成功率，不看功能 |
-| 2026-07-30 | [没用过 raycast 的路过，一直用苹](https://versun.me/blog/tweet-2082763861199933578) | 没用过 raycast 的路过，一直用苹果默认的，我没那么多需求主要是 |
-| 2026-07-30 | [飞书并入豆包，文档是否减少？](https://blog.est.im/2026/stderr-26) | 飞书并入豆包 7月30日，字节跳动发布内部邮件，宣布飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的ToB GTM组织“创造力服务平台（Creativity S… |
-| 2026-07-30 | [Memos: 终章之为 GG 卡选择一个慈善 PLAN](https://blog.yasking.org/a/1785396612) | 在收到 GG 卡清退邮件、彻底无法发送短信之前，选择一两个喜欢的项目奉献爱心 ❤️ 推荐 公益项目英文名 公益项目中文名 公 … |
-| 2026-07-30 | [猫片出品，必属精品，下面竟然还有片场视频](https://versun.me/blog/tweet-2082698394523562409) | 猫片出品，必属精品，下面竟然还有片场视频，感动哭了 |
-| 2026-07-30 | [入蜀记 day432 苦集灭道](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_432/) | 「苦集灭道。」 |
-| 2026-07-30 | [Zuma updated](https://macsourceports.com/game/zuma) | The build of Zuma Portable for Zuma has been updated to version 0.7 of the project |
-| 2026-07-30 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.67 of the project |
-| 2026-07-30 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.0 of the project |
-| 2026-07-30 | [Chris Sawyer's Locomotion updated](https://macsourceports.com/game/locomotion) | The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version v26.07.1 of the project |
-| 2026-07-30 | [Reckless Drivin' updated](https://macsourceports.com/game/recklessdrivin) | The build of reckless-drivin-sdl for Reckless Drivin' has been updated to version v1.0.5 of the project |
-| 2026-07-30 | [别再买AI课了，我做了个免费网站比任何课程都值](https://www.wangwangit.com/%E5%88%AB%E5%86%8D%E4%B9%B0AI%E8%AF%BE%E4%BA%86%EF%BC%8C%E6%88%91%E5%81%9A%E4%BA%86%E4%B8%AA%E5%85%8D%E8%B4%B9%E7%BD%91%E7%AB%99%E6%AF%94%E4%BB%BB%E4%BD%95%E8%AF%BE%E7%A8%8B%E9%83%BD%E5%80%BC/) | 月底AI额度没用完，做了个可视化网站追踪Claude Code 376个版本的系统提示词演变。学AI不需要买课，最好的教材就是Anthropic工程师公开的这些一手资料。 |
-| 2026-07-30 | [New Release: Zork Zero: The Revenge of Megaboz](https://macsourceports.com/game/zork0) | In the annals of classic and retro gaming, Infocom's rise and fall is one of the most documented and well followed, with books and documentaries on th… |
-| 2026-07-30 | [Beyond Zork: The Coconut of Quendor updated](https://macsourceports.com/game/beyondzork) | The build of Splatterlight for Beyond Zork: The Coconut of Quendor has been updated to version v1.5.2 of the project |
-| 2026-07-30 | [Planetfall updated](https://macsourceports.com/game/planetfall) | The build of Splatterlight for Planetfall has been updated to version v1.5.2 of the project |
-| 2026-07-30 | [Zork I: The Great Underground Empire updated](https://macsourceports.com/game/zork1) | The build of Splatterlight for Zork I: The Great Underground Empire has been updated to version v1.5.2 of the project |
-| 2026-07-30 | [Zork II: The Wizard of Frobozz updated](https://macsourceports.com/game/zork2) | The build of Splatterlight for Zork II: The Wizard of Frobozz has been updated to version v1.5.2 of the project |
-| 2026-07-30 | [Zork III: The Dungeon Master updated](https://macsourceports.com/game/zork3) | The build of Splatterlight for Zork III: The Dungeon Master has been updated to version v1.5.2 of the project |
-| 2026-07-30 | [我已AI倦怠](https://www.hecaitou.com/2026/07/Just-Exhausted-by-AI.html) | 说实话，就算新闻今天说真正的人工智能已经出现，在人类的历史上，第一次由人创造出新的硅基智慧生命，人类从造物上升为造物主---我也只会拉起被子，掩护身子不要让空调凉风吹到，然后翻身接着去睡。 因为我实在是感觉到倦了。AI 本身没有什么问题，网上讨论 AI 的方式有问题，甚至是那种讨论时的情绪有大问题。… |
-| 2026-07-30 | [github 上好烦这些狗皮膏药啊，有什](https://versun.me/blog/tweet-2082662795175440696) | github 上好烦这些狗皮膏药啊，有什么好办法吗 [tweet-2082662795175440696-5f64b450.png] |
-| 2026-07-30 | [Windows 下 Codex Cli 更新报 Move-Item is denied 错误的解决](https://liudon.com/posts/windows-codex-update-failed/) | 记录 Windows 下 Codex Cli 更新报 Move-Item is denied 错误的解决过程，最终定位是杀毒软件防护的原因导致。 |
-| 2026-07-30 | [Caddy 转发 GOST 报 TLS internal error 问题的排查与解决](https://liudon.com/posts/caddy-forward-gost-tls-internal-error/) | 记录 GOST 客户端通过 Caddy 转发访问 GOST 服务端时出现 TLS internal error 的排查过程，最终定位为客户端通过 IP 连接时未发送 SNI，并使用域名配合 ip 参数解决。 |
-| 2026-07-30 | [K8s Deployment 名过长致 Pod 名截断与日志目录代际标识丢失排查](https://199604.com/3613) | K8s Deployment 名过长致 Pod 名截断与日志目录代际标识丢失排查 记录时间：2026-07-2 […] |
-| 2026-07-30 | [博客一定要为读者负责吗？IV](https://mobius.blog/25187.html) | 最后一部分，我想回到我的个人拙见，来聊聊创作者该负起哪些责任？ 创作者的责任是什么？ 这并不是一个公开标准：有 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-07-30 | [Memos: GG 卡 GG](https://blog.yasking.org/a/1785374656) | 昨天收到 giffgaff 的 “We’re disconnecting your service” 邮件。 尝试发了邮件申请退款，但 估计 £9.39 余额退不回来。在无法发送短信之前，可用余额支持 公 … |
-| 2026-07-30 | [Memos: 苹果系统在它工作的时候会工作的很好](https://blog.yasking.org/a/1785317110) | 换苹果电脑迁移，之前我会在新电脑安装环境，古法手工进行配置，然后再手动将需要的配置、资料导出，避免旧系统很多垃 … |
-| 2026-07-30 | [ETF Screener: A Free US ETF Screening Tool](https://folay.top/blog/etf-screener) | Built a screening tool covering 5,000+ active US-listed ETFs with 42 metrics. No signup, no paywall. |
 
 ## Vibe Coding
 
