@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-08-08T12:48:58Z
-modified: 2026-08-08T12:48:58Z
+created: 2026-08-08T14:36:40Z
+modified: 2026-08-08T14:36:40Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,11 +11,11 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-08-08T12:48:58Z
+Generated at: 2026-08-08T14:36:40Z
 
 Total sources: 485
-Successful: 363
-Failed: 122
+Successful: 366
+Failed: 119
 
 | Status | Source | Feed | Origin | Articles | Error |
 | --- | --- | --- | --- | ---: | --- |
@@ -65,11 +65,10 @@ Failed: 122
 | Failed | [#284] V2EX › Selfboot AI Gallery | [https://gallery.selfboot.cn/rss.xml](https://gallery.selfboot.cn/rss.xml) | [Origin](https://www.v2ex.com/xna/s/284) | 0 | Client error '403 Forbidden' for url 'https://gallery.selfboot.cn/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#285] V2EX › 囚记 | [https://prisonlog.com/feed](https://prisonlog.com/feed) | [Origin](https://www.v2ex.com/xna/s/285) | 0 | [Errno -2] Name or service not known |
 | Failed | [#288] V2EX › 随机探测 | [https://pingx.sh/feed/](https://pingx.sh/feed/) | [Origin](https://www.v2ex.com/xna/s/288) | 0 | The read operation timed out |
-| Failed | [#290] V2EX › 王小嗨的不老歌 | [https://sogola.eth.sucks/index.xml](https://sogola.eth.sucks/index.xml) | [Origin](https://www.v2ex.com/xna/s/290) | 0 | The read operation timed out |
+| Failed | [#290] V2EX › 王小嗨的不老歌 | [https://sogola.eth.sucks/index.xml](https://sogola.eth.sucks/index.xml) | [Origin](https://www.v2ex.com/xna/s/290) | 0 | Server error '502 Bad Gateway' for url 'https://sogola.eth.sucks/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502 |
 | Failed | [#294] V2EX › BlessingCR | [https://blessingcr.com/?feed=rss2](https://blessingcr.com/?feed=rss2) | [Origin](https://www.v2ex.com/xna/s/294) | 0 | [Errno -3] Temporary failure in name resolution |
 | Failed | [#2] V2EX › 枫言枫语 | [https://justinyan.eth.limo/planet.json](https://justinyan.eth.limo/planet.json) | [Origin](https://www.v2ex.com/xna/s/2) | 0 | feed parse error |
 | Failed | [#301] V2EX › 飞刀博客 | [https://www.feidaoboke.com/feed.php](https://www.feidaoboke.com/feed.php) | [Origin](https://www.v2ex.com/xna/s/301) | 0 | timed out |
-| Failed | [#304] V2EX › 小站背面 | [https://www.ygxz.in/feed/](https://www.ygxz.in/feed/) | [Origin](https://www.v2ex.com/xna/s/304) | 0 | The read operation timed out |
 | Failed | [#305] V2EX › 奶昔博客 | [https://blog.naixi.net/feed/](https://blog.naixi.net/feed/) | [Origin](https://www.v2ex.com/xna/s/305) | 0 | Client error '403 Forbidden' for url 'https://blog.naixi.net/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#306] V2EX › Mumulhl | [https://mumulhl.eu.org/index.xml](https://mumulhl.eu.org/index.xml) | [Origin](https://www.v2ex.com/xna/s/306) | 0 | Client error '403 Forbidden' for url 'https://mumulhl.eu.org/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#314] V2EX › 韭菜生活 | [https://blog.chives.life/feed.xml](https://blog.chives.life/feed.xml) | [Origin](https://www.v2ex.com/xna/s/314) | 0 | feed parse error |
@@ -119,7 +118,6 @@ Failed: 122
 | Failed | [#507] V2EX › iyeslogo 壹手设计 | [https://www.iyeslogo.com/feed/](https://www.iyeslogo.com/feed/) | [Origin](https://www.v2ex.com/xna/s/507) | 0 | Client error '403 Forbidden' for url 'https://www.iyeslogo.com/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#508] V2EX › hekou 写字的地方 | [https://www.hekouwangyutian.com/atom.xml](https://www.hekouwangyutian.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/508) | 0 | [Errno 101] Network is unreachable |
 | Failed | [#50] V2EX › 码农明明桑 | [https://isming.me/index.xml](https://isming.me/index.xml) | [Origin](https://www.v2ex.com/xna/s/50) | 0 | Client error '403 Forbidden' for url 'https://isming.me/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
-| Failed | [#525] V2EX › 萨科的魔盒 | [https://yangquan.netlify.app/feed.xml](https://yangquan.netlify.app/feed.xml) | [Origin](https://www.v2ex.com/xna/s/525) | 0 | [Errno 101] Network is unreachable |
 | Failed | [#528] V2EX › 薇尔薇 | [https://vio.moe/rss.xml](https://vio.moe/rss.xml) | [Origin](https://www.v2ex.com/xna/s/528) | 0 | Client error '403 Forbidden' for url 'https://vio.moe/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#532] V2EX › Korbin's Blog | [https://www.vhcffh.com/rss.xml](https://www.vhcffh.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/532) | 0 | Client error '404 Not Found' for url 'https://www.vhcffh.com/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#533] V2EX › Think Note | [https://blog.wo0ow.com/rss.xml](https://blog.wo0ow.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/533) | 0 | [Errno -2] Name or service not known |
@@ -138,7 +136,6 @@ Failed: 122
 | Failed | [#84] V2EX › 非凡奥德赛 | [https://whyya.xyz/feed/](https://whyya.xyz/feed/) | [Origin](https://www.v2ex.com/xna/s/84) | 0 | Client error '403 Forbidden' for url 'https://whyya.xyz/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#86] V2EX › 小东博客 | [https://b.lxd.cc/rss.php](https://b.lxd.cc/rss.php) | [Origin](https://www.v2ex.com/xna/s/86) | 0 | Client error '403 Forbidden' for url 'https://b.lxd.cc/rss.php' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#91] V2EX › 少年晓琦 | [http://blog.snxq.cc/feed.xml](http://blog.snxq.cc/feed.xml) | [Origin](https://www.v2ex.com/xna/s/91) | 0 | Client error '404 Not Found' for url 'https://blog.snxq.cc/feed.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
-| Failed | [#96] V2EX › Alliot's blog | [https://www.iots.vip/atom.xml](https://www.iots.vip/atom.xml) | [Origin](https://www.v2ex.com/xna/s/96) | 0 | _ssl.c:1064: The handshake operation timed out |
 | Failed | [#97] V2EX › Hyakutake | [https://hi.hyakutake.site/feed](https://hi.hyakutake.site/feed) | [Origin](https://www.v2ex.com/xna/s/97) | 0 | [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1082) |
 | Failed | [#98] V2EX › macos9.eth | [https://macos9.eth.limo/planet.json](https://macos9.eth.limo/planet.json) | [Origin](https://www.v2ex.com/xna/s/98) | 0 | feed parse error |
 | Success | [#102] V2EX › Singee's Blog | [https://blog.singee.me/atom.xml](https://blog.singee.me/atom.xml) | [Origin](https://www.v2ex.com/xna/s/102) | 20 | - |
@@ -286,6 +283,7 @@ Failed: 122
 | Success | [#300] V2EX › BeeeeeMo | [https://beeeeemo.dev/index.xml](https://beeeeemo.dev/index.xml) | [Origin](https://www.v2ex.com/xna/s/300) | 8 | - |
 | Success | [#302] V2EX › 游钓四方的博客 | [https://lhasa.icu/rss.xml](https://lhasa.icu/rss.xml) | [Origin](https://www.v2ex.com/xna/s/302) | 134 | - |
 | Success | [#303] V2EX › 白眉斋 | [https://blog.eyebrowkang.com/index.xml](https://blog.eyebrowkang.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/303) | 17 | - |
+| Success | [#304] V2EX › 小站背面 | [https://www.ygxz.in/feed/](https://www.ygxz.in/feed/) | [Origin](https://www.v2ex.com/xna/s/304) | 10 | - |
 | Success | [#307] V2EX › Razeen | [https://razeen.me/index.xml](https://razeen.me/index.xml) | [Origin](https://www.v2ex.com/xna/s/307) | 109 | - |
 | Success | [#308] V2EX › 风彦疯语 | [https://www.dufengyan.com/feed/](https://www.dufengyan.com/feed/) | [Origin](https://www.v2ex.com/xna/s/308) | 10 | - |
 | Success | [#309] V2EX › Auburn | [https://blog.juhaozero.com/atom.xml](https://blog.juhaozero.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/309) | 17 | - |
@@ -453,6 +451,7 @@ Failed: 122
 | Success | [#522] V2EX › IMLANE | [https://imlane.zhanglintc.co/feed](https://imlane.zhanglintc.co/feed) | [Origin](https://www.v2ex.com/xna/s/522) | 10 | - |
 | Success | [#523] V2EX › 子规入梧桐 | [https://www.lazydaily.cn/atom.xml](https://www.lazydaily.cn/atom.xml) | [Origin](https://www.v2ex.com/xna/s/523) | 17 | - |
 | Success | [#524] V2EX › RustFisher | [https://blog.rustfisher.com/atom.xml](https://blog.rustfisher.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/524) | 20 | - |
+| Success | [#525] V2EX › 萨科的魔盒 | [https://yangquan.netlify.app/feed.xml](https://yangquan.netlify.app/feed.xml) | [Origin](https://www.v2ex.com/xna/s/525) | 8 | - |
 | Success | [#526] V2EX › 余弦の博客 | [https://ysx.cosine.ren/atom.xml](https://ysx.cosine.ren/atom.xml) | [Origin](https://www.v2ex.com/xna/s/526) | 20 | - |
 | Success | [#527] V2EX › 一只会飞的旺旺 | [https://www.wangwangit.com/atom.xml](https://www.wangwangit.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/527) | 20 | - |
 | Success | [#529] V2EX › Taober | [https://www.taober.blog/feed.xml](https://www.taober.blog/feed.xml) | [Origin](https://www.v2ex.com/xna/s/529) | 40 | - |
@@ -499,6 +498,7 @@ Failed: 122
 | Success | [#93] V2EX › 🍺 IceBeer | [https://www.icebeer.top/feed/](https://www.icebeer.top/feed/) | [Origin](https://www.v2ex.com/xna/s/93) | 10 | - |
 | Success | [#94] V2EX › 4Ark | [https://4ark.me/rss.xml](https://4ark.me/rss.xml) | [Origin](https://www.v2ex.com/xna/s/94) | 10 | - |
 | Success | [#95] V2EX › 嵌入式工程猫的博客 | [https://blog.vvzero.com/atom.xml](https://blog.vvzero.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/95) | 20 | - |
+| Success | [#96] V2EX › Alliot's blog | [https://www.iots.vip/atom.xml](https://www.iots.vip/atom.xml) | [Origin](https://www.v2ex.com/xna/s/96) | 20 | - |
 | Success | [#99] V2EX › 自说 Me 话 | [https://isay.me/feed.xml](https://isay.me/feed.xml) | [Origin](https://www.v2ex.com/xna/s/99) | 10 | - |
 | Success | [#9] V2EX › Yet Another Wizard | [https://blog.codinging.com/index.xml](https://blog.codinging.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/9) | 18 | - |
 | Success | 新的原野 | [https://sinyalee.com/blog/?feed=rss2](https://sinyalee.com/blog/?feed=rss2) | [Origin](https://sinyalee.com/blog) | 10 | - |
