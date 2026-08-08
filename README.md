@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-08 | [GitLab 将删除中国大陆、香港和澳门用户账号：9 月 7 日前请备份迁移](https://blog.renfei.net/posts/1626402130325676143) | GitLab 通知将停止服务中国大陆、香港和澳门地区账号，并计划于 2026 年 9 月 7 日后删除账号。收到邮件后，建议尽快备份代码、项目数据与 CI 配置。 |
+| 2026-08-08 | [解决 WSL2 莫名其妙的远程桌面报错弹窗](https://www.liesauer.net/blog/post/1037.html) | 今天在用电脑的时候发现莫名其妙的疯狂弹了一个远程桌面的报错弹窗，一开始我还以为中毒被黑了呢，我嘞个豆。 ![1785955689.png](https://storage.liesauer.ne... |
 | 2026-08-08 | [Re: Bloggers, can we make better titles for our posts?](https://taxodium.ink/re-bloggers-can-we-make-better-titles-for-our-posts.html) | Re: Bloggers, can we make better titles for our posts? Michael Harley 寫了篇 Bloggers, can we make better titles for our posts? ，請你先去讀一遍原文吧，在這裡等你，几分鐘後再見… |
 | 2026-08-08 | [当一篇论文说“AI Agent还不会做研究”，它到底测到了什么？](https://www.kingname.info/2026/08/08/ai-agent-research/) | 最近我看到一项很有意思的实验。 研究者找来几个真实、并且还没有公开答案的AI研究课题，让Agent自己查资料、写代码、跑实验、分析结果。他们给了Agent几天时间和相当可观的算力预算，最后再让真正做过这些课题的研究者评价Agent的成果。 结果不太好。Agent没有产出达到论文标准的研究成果。 研究… |
 | 2026-08-08 | [读书小结十九](https://jubeny.com/2026/08/book-summaries-19/) | The Sorrow of War 以越南战争为背景的意识流反战小说，主人公是参加越南战争并幸存的士兵Kien。战争结束了，但战争的创伤却永远无法修复，Kien一直饱受折磨和痛苦，选择把自己的经历诉诸文字。故事在现实与回忆、战争与日常中交织叙述，战争的残酷不仅是身边的队友一个接一个死去，也摧毁了Ki… |

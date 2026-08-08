@@ -1,5 +1,19 @@
 [
   {
+    "title": "GitLab 将删除中国大陆、香港和澳门用户账号：9 月 7 日前请备份迁移",
+    "url": "https://blog.renfei.net/posts/1626402130325676143",
+    "date": "2026-08-08T23:54:12Z",
+    "description": "GitLab 通知将停止服务中国大陆、香港和澳门地区账号，并计划于 2026 年 9 月 7 日后删除账号。收到邮件后，建议尽快备份代码、项目数据与 CI 配置。",
+    "source_root_domain": "renfei.net"
+  },
+  {
+    "title": "解决 WSL2 莫名其妙的远程桌面报错弹窗",
+    "url": "https://www.liesauer.net/blog/post/1037.html",
+    "date": "2026-08-08T17:48:00Z",
+    "description": "今天在用电脑的时候发现莫名其妙的疯狂弹了一个远程桌面的报错弹窗，一开始我还以为中毒被黑了呢，我嘞个豆。 ![1785955689.png](https://storage.liesauer.ne...",
+    "source_root_domain": "liesauer.net"
+  },
+  {
     "title": "Re: Bloggers, can we make better titles for our posts?",
     "url": "https://taxodium.ink/re-bloggers-can-we-make-better-titles-for-our-posts.html",
     "date": "2026-08-08T14:35:00Z",
