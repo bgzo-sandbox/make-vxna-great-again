@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-08 | [当一篇论文说“AI Agent还不会做研究”，它到底测到了什么？](https://www.kingname.info/2026/08/08/ai-agent-research/) | 最近我看到一项很有意思的实验。 研究者找来几个真实、并且还没有公开答案的AI研究课题，让Agent自己查资料、写代码、跑实验、分析结果。他们给了Agent几天时间和相当可观的算力预算，最后再让真正做过这些课题的研究者评价Agent的成果。 结果不太好。Agent没有产出达到论文标准的研究成果。 研究… |
 | 2026-08-08 | [宝可梦能够被神圣化吗？](https://mobius.blog/25310.html) | 接着神圣与世俗的话题，聊一个有趣的番外篇。 最近宝可梦 Pokopia 更新了 DLC，所以每天会花点时间去那 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-07 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
 | 2026-08-07 | [Memos: Command Code 以及 OpenCode 的订阅还不错](https://blog.yasking.org/a/1786100579) | 我使用 DeepSeek API 较少，大多数时候搭配 OpenCode 交叉 Review 代码，这几个月账单都是三四十元人民币； 过阵子 DeepSeek API 要涨价，感觉找个 Plan 会更 … |
