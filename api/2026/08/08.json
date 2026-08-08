@@ -7,6 +7,20 @@
     "source_root_domain": "kingname.info"
   },
   {
+    "title": "读书小结十九",
+    "url": "https://jubeny.com/2026/08/book-summaries-19/",
+    "date": "2026-08-08T06:26:26Z",
+    "description": "The Sorrow of War 以越南战争为背景的意识流反战小说，主人公是参加越南战争并幸存的士兵Kien。战争结束了，但战争的创伤却永远无法修复，Kien一直饱受折磨和痛苦，选择把自己的经历诉诸文字。故事在现实与回忆、战争与日常中交织叙述，战争的残酷不仅是身边的队友一个接一个死去，也摧毁了Kien和Phuong青梅竹马的爱情——这段在参战第一天发生，让Kien的理想破灭，影响其一生的悲剧，在小说的最后才逐渐显现。",
+    "source_root_domain": "jubeny.com"
+  },
+  {
+    "title": "二〇二五年 · 林间新坟",
+    "url": "https://blog.yasking.org/a/new-grave",
+    "date": "2026-08-08T06:05:36Z",
+    "description": "父亲曾带我来过祖坟，他清扫了太爷的坟头，摆上白酒和干粮，以求平安顺遂，老坟的左前方是大爷的坟，略比太爷的坟头低 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
     "title": "临时文化一下",
     "url": "https://www.hecaitou.com/2026/08/acting-cultured-just-this-once.html",
     "date": "2026-08-08T04:23:23Z",
@@ -70,11 +84,25 @@
     "source_root_domain": "wenfeixiang.com"
   },
   {
+    "title": "最近我让 Kimi K3 用 go 语言",
+    "url": "https://versun.me/blog/tweet-2085639284552540500",
+    "date": "2026-08-07T08:08:49Z",
+    "description": "最近我让 Kimi K3 用 go 语言重构了我的博客系统 Rables，原先是用 Rails 写的，内存占用至少 500 MB 起，重构后，只有 16 MB 左右，不要太爽了 https://github.com/versun/rables...",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "向云端｜西南自驾08 - 镇远",
     "url": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-08-zhenyuan.html",
     "date": "2026-08-07T06:29:24Z",
     "description": "",
     "source_root_domain": "ops-coffee.cn"
+  },
+  {
+    "title": "总算和思为 @wey_gu 面基啦 [t",
+    "url": "https://versun.me/blog/tweet-2085600668153483298",
+    "date": "2026-08-07T05:35:22Z",
+    "description": "总算和思为 @wey_gu 面基啦 [tweet-2085600668153483298-bc9929f3.jpg]",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "289、立秋",
