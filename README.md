@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-09 | [失眠遐想](https://yipai.me/post/2546.html) | 今晚又失眠。失眠是因为脑袋总是停不下来。想到很多事情，也很乱。第一件，是儿子上小学的事儿。我比他先焦虑了，总是很担心无法适应。比如担心上课不守纪律，学习成绩太差。上课不认真是从小的问题，没有纪律性。虽然我们对他没有什么要求，不属于鸡娃的，但也担心干扰别人学习。幼儿园比较宽松，他经常躺地上，上课神游，… |
 | 2026-08-09 | [世界，您好！](https://flandre-scarlet.moe/blog/2026/08/10/hello-world/) | 欢迎使用 WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！ |
 | 2026-08-09 | [预测市场生态的项目为什么难做](https://smallyu.net/2026/08/09/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E7%94%9F%E6%80%81%E7%9A%84%E9%A1%B9%E7%9B%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E5%81%9A/) | 前情提要： 《<a |
 | 2026-08-09 | [周末流水账 0809](https://blog.solazy.me/20260809/) | 周末过得真快 |
