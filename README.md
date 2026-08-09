@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-09 | [≡ 007｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25321.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-09 | [Memos #2026-08-08](https://www.taober.blog/memos) | 11:45 活了 9999 天了，也是来深圳后第一次掉下 70kg，感谢昨晚忍住没吃宵夜的自己哈哈。 |
 | 2026-08-08 | [GitLab 将删除中国大陆、香港和澳门用户账号：9 月 7 日前请备份迁移](https://blog.renfei.net/posts/1626402130325676143) | GitLab 通知将停止服务中国大陆、香港和澳门地区账号，并计划于 2026 年 9 月 7 日后删除账号。收到邮件后，建议尽快备份代码、项目数据与 CI 配置。 |
 | 2026-08-08 | [解决 WSL2 莫名其妙的远程桌面报错弹窗](https://www.liesauer.net/blog/post/1037.html) | 今天在用电脑的时候发现莫名其妙的疯狂弹了一个远程桌面的报错弹窗，一开始我还以为中毒被黑了呢，我嘞个豆。 ![1785955689.png](https://storage.liesauer.ne... |
 | 2026-08-08 | [Re: Bloggers, can we make better titles for our posts?](https://taxodium.ink/re-bloggers-can-we-make-better-titles-for-our-posts.html) | Re: Bloggers, can we make better titles for our posts? Michael Harley 寫了篇 Bloggers, can we make better titles for our posts? ，請你先去讀一遍原文吧，在這裡等你，几分鐘後再見… |
@@ -58,7 +60,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-07 | [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 上海浦江郊野公园的溪边咖啡馆。（ via ） 国家为什么需要开源软件？ 上个月，大模型 Kimi K3… |
 | 2026-08-07 | [日元下跌与美日联合救场：四个核心问题](https://elmtran.com/essays/yen-depreciation-us-japan-intervention/) | 从利差、输入型通胀、联合汇率干预与套利交易平仓四条链路，理解日元为何走弱、美国为何参与，以及日元未来可能怎么走。 |
 | 2026-08-07 | [DESIGN.md 企业内落地实践与踩坑复盘分享](https://lrd.im/blog/2026-08-07) | 随着 Agent 时代来临，公司内涌现了新的合作模式，也产生了新的痛点。本文将分享如何使用 DESIGN.md 和 SKILL 让设计系统在 AI 时代发挥影响力。 |
-| 2026-08-07 | [Memos #2026-08-06](https://www.taober.blog/memos) | 16:22 昨晚下车前想着，如果基金今天还涨，就去刮一张刮刮乐。 看了一眼，确实小涨，就买了张 20 块的，刮中了 20；又拿去换了一张，刮中了 40。不禁小窃喜，这周运气似乎不错。 结果今天一觉醒来，发现基金亏了…… |
 | 2026-08-06 | [中年危机，正在走向两个极端｜灵感电波 #133](https://www.linggandianbo.com/newsletter-133/) | 中年危机为何一端公开强化身体、一端悄悄退出公共生活；艺术怎样扩展现实、后悔如何照见自己，以及向陌生人求助和等待电梯背后的隐藏规则。 |
 | 2026-08-06 | [学习周刊-总第275期-2026年第32周](https://wiki.eryajf.net/pages/961c90/) | 如要阅读全文，点击标题跳转。 学习周刊-总第275期 &#124; ccg-gateway &#124; md-preview &#124; orca &#124; Callit &#124; skills-hub &#124; multi-cli-studio &#124; input0 &#124; hermes-web-ui |
 | 2026-08-06 | [cf 这几天是疯了吗，一天一个啊🤣](https://versun.me/blog/tweet-2085484625707872725) | cf 这几天是疯了吗，一天一个啊🤣 |
@@ -160,27 +161,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-02 | [hermes 真的太好用了 昨天 ins](https://versun.me/blog/tweet-2083719150833463349) | hermes 真的太好用了 昨天 insforge 的deno classical deploy关闭了，导致旧的 function 都需要重新部署， 我直接在 hermes 上让它帮我修复了，省了一堆麻烦事， 不得不说 @insforge 真的是 ai 时代部署网站的救星啊，太方便了... |
 | 2026-08-02 | [2026年第31周](https://blog.sakoamc.com/posts/2631/) | 题记：二零二六年的第三十一周，匆匆八月如何地开始呢，如果想吃火锅就约上朋友一起吧。 |
 | 2026-08-02 | [资源卡片生成器 prompt](https://jimmy-blog.vercel.app/posts/prompt) | 做一个「资源卡片生成器 Prompt」。核心目标是： 你只输入 URL AI 自动分析网站 输出适合放到资源网站卡片里的内容 风格统一、短、像 Linear / Vercel / Product Hunt 那种介绍方式 * 你可以直接复制到数据库或者 CMS 我建议不要让 AI 输出太长，而是固定结… |
-| 2026-08-01 | [陌生的花再次盛开](https://z.arlmy.me/posts/Poems/2026/20260726_MoShengDeHuaZaiCiShengKai/) | 「陌生的花再次盛开。」 |
-| 2026-08-01 | [从免费的地铁说起](https://yinji.org/starting-with-a-free-metro-ride.html) | 今天出差结束，从成都回到南昌。 出了机场，到了地铁站，走到检票口的时候，突然想起来晚上 9 点之后南昌地铁免费 […] |
-| 2026-08-01 | [周末流水账 0801](https://blog.solazy.me/20260801/) | 久违的周末出行（其实也没过多久） |
-| 2026-08-01 | [Album#45 - Sweet Sticky Thing](https://taxodium.ink/album-45.html) | Album#45 Sweet Sticky Thing 图1 《Sweet Sticky Thing》專輯封面 专辑信息 专辑名称： Sweet Sticky Thing 歌手： Nujabes 年份： 1998-03-16 时长： 約 90 分鐘 給大家分享一張寶藏專輯 ⸺ Nujabes 的 S… |
-| 2026-08-01 | [那些让人脸红的文字](https://www.hecaitou.com/2026/08/writing-that-makes-me-cringe.html) | 「看到自己当年写的文字，尴尬到脚趾挠穿地板怎么办」，这个问题我听过不下一百回。昨天我回答了这个问题，为了纪念一位我很喜欢的演员、音乐人，我重发了自己很多年前随手写过的一篇短文：《 这是我所能达到的最远的距离 》。 讲道理没有多大作用，采取行动才有真正的说服力。 你说我昨天觉得尴尬么？当然，我毕竟是血… |
-| 2026-08-01 | [Lecture 5 Spectroscopic Observations, Abundance Analysis and Large-Scale Surveys](https://physnya.top/ss-yunnan/lecture-5-spectroscopic-observations-abundance-analysis-and-large-scale-surveys/) | 从光谱我们可以直接得到的东西： 物理参数，比如 T eff T_{\text{eff}} T eff ​ , log ⁡ g \log g lo g g , [Fe/H] 等 元素组成和丰度 Line-of-sight motion of a star (也就是「视线方向」的速度，径向速度) 旋转… |
-| 2026-08-01 | [为什么我讨厌王虹（注释版）](https://sinyalee.com/blog/?p=1309) | 之前写了《为什么我讨厌王虹》（简称《李厌虹》）。可惜很多人看不懂。我还是犯了一个我经常会犯的错误：假设我和读者 […] |
-| 2026-08-01 | [Token 定价权与 AI 经济新秩序：中美博弈、C 端心智与金融化未来](https://luweiqing.com/gossip/Token-Pricing-Power-and-the-New-Order-of-the-AI-Economy.html) | 摘要在人工智能向纵深发展的当下，Token（词元）已从技术计量单位，全面演变为智能时代的“千瓦时”与“桶油”。工信部及相关研究机构指出，Token 定价正由单一成本驱动，转向“成本约束 + 智能... |
-| 2026-08-01 | [向云端｜西南自驾05 - 长沙](https://blog.ops-coffee.com/r/2026-southwest-road-trip-05-changsha.html) |  |
-| 2026-08-01 | [入蜀记 day434 穿越来的几天](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_434/) | 「穿越来的几天。」 |
-| 2026-08-01 | [总结下这几天发生的事 🤠 [tweet-](https://versun.me/blog/tweet-2083406124397822426) | 总结下这几天发生的事 🤠 [tweet-2083406124397822426-fed78e42.jpg] |
-| 2026-08-01 | [每个人心中都有……](https://mobius.blog/25246.html) | 不是一座断背山，而是一位 Nikki。 很久没有写过影评了，是因为确实没有遇到好电影。不过这两天看了《痴迷》后 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-01 | [TongWeb 应用日志落盘与 JVM 堆配置优化笔记](https://199604.com/3618) | TongWeb 应用日志落盘与 JVM 堆配置优化笔记 记录时间：2026-07-30 环境：K8s（dev […] |
-| 2026-08-01 | [我发现，被封的2个号都是邀请赠金开的卡，](https://versun.me/blog/tweet-2083371698062348648) | 我发现，被封的2个号都是邀请赠金开的卡，我还有一个正常充值激活的，还没有被封 |
-| 2026-08-01 | [kimi code 和 pi 性能好，省](https://versun.me/blog/tweet-2083363624803033225) | kimi code 和 pi 性能好，省 token 我还能理解，万万没想到 hermes 竟然也能排到前3 看来以后我只需要一个 hermes 就够了😏😏 |
-| 2026-08-01 | [Vibe coding 项目：影响因子和分区查询 API](https://blog.zzbd.org/jcr-if-fenqu2/) | AI 纪元，灵光一现，即刻就能动手实现 📌缘起 目标很简单：通过 URL 一键直达，查询学术杂志的影响因子、分区等信息。之前常用的 medreading 需要微信登录才能看，ablesci 倒是免登录，但如果想实现一些插件脚本之类的就不方便了。另外，偶尔还有查询期刊名缩写的需求。 |
-| 2026-08-01 | [位置：你无法站在世界之外](https://corvo.myseu.cn/2026/08/01/2026-08-01-%E4%BD%8D%E7%BD%AE/) | 我们无法选择是否参与世界，只能选择以什么位置参与。你站在哪里，决定了什么信息、资源、机会和风险会流向你。 |
-| 2026-08-01 | [Python 潮流周刊#161：Claude Code 工作原理](https://pythoncat.top/posts/2026-08-01-weekly/) | 分享了 12 篇文章，12 个开源项目 |
-| 2026-08-01 | [给 Claude 中转站验明正身：签名里的模型身份](https://roy.wang/claude-channel-verification/) | 用中转站的 Claude，价格是真便宜，渠道也多得眼花缭乱，但有个问题一直绕不开：我花的钱，买到的到底是不是....... |
-| 2026-08-01 | [字体原理笔记](https://blog.196000.xyz/2026/2026-08-01-develop-font-note.html) | 三大字体族的来历与气质、font-family 逐字路由的机制、中文字体子集化的原理，以及本站缺字自动预警与重切的完整流程。 |
-| 2026-08-01 | [花一千多买入耳式耳机，家人的吐槽与我的退烧记录](https://jksoftcn.com/blog/epz-p50-earphone-review-and-minimalism/) | 最近花了一千多块钱，入手了一个 HiFi 入耳式耳机 —— EPZ P50 。 这款耳机虽然可以定制外壳，但我没有定制，一是担心会对声音有影响，二是怕别人看不出我买的是什么耳机，哈哈。 买了新设备，心情自然是不错的，但拿到家后，家人的反应却让我觉得既好笑又温馨。 一、家人的“灵魂评价” 儿子看到这个… |
 
 ## Vibe Coding
 
