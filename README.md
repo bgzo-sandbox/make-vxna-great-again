@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-09 | [新知识分子的新庸俗](https://www.geedea.pro/article/vulgar-new-intellects/) | 首先定义新知识分子，不是什么专有名词，只是我在找到更合适的称呼之前暂用的词。我所指的新知识分子，是经过现代教育系统培养的，相对突出的一部分人。虽然他们没有成为学者或真正顶尖的精英（当然这部分人也有他们的庸俗，只是本文不谈），但他们仍会获取知识并实践。他们对待知识没有学者的求是态度，他们的态度更加功利… |
 | 2026-08-09 | [OPPO 快游戏在浏览器复现运行（七）之远程资源离线化](https://www.liesauer.net/blog/post/1040.html) | 完全的离线化仅适用于走快游戏 API 的资源，部分资源是直接通过 `img` 标签或者其他方式加载的（最终会 fallback 到 XHR）还是会到本地服务器发起请求。`web.sdk.js... |
 | 2026-08-09 | [OPPO 快游戏在浏览器复现运行（六）之触摸适配](https://www.liesauer.net/blog/post/1039.html) | 一部分游戏会将游戏内的UI交互逻辑直接写死 `touch` 系列事件，导致在电脑上运行的话，鼠标点击完全没反应，因此需要将鼠标事件映射转发成触摸事件，这个问题可以使用 [touch-emulat... |
 | 2026-08-09 | [OPPO 快游戏在浏览器复现运行（五）之竖屏适配](https://www.liesauer.net/blog/post/1038.html) | 大部分竖屏快游戏都很少有兼顾宽屏分辨率的情况，Laya 游戏会有一个自动横屏的机制，会将整个画面横向显示，而像 CC 游戏，基本都是 UI 位置大小严重失调，要么导致某些区域点不了，要么导致 U... |
