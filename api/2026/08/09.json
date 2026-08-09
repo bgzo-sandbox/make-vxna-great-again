@@ -1,5 +1,26 @@
 [
   {
+    "title": "世界，您好！",
+    "url": "https://flandre-scarlet.moe/blog/2026/08/10/hello-world/",
+    "date": "2026-08-09T16:32:30Z",
+    "description": "欢迎使用 WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！",
+    "source_root_domain": "flandre-scarlet.moe"
+  },
+  {
+    "title": "预测市场生态的项目为什么难做",
+    "url": "https://smallyu.net/2026/08/09/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E7%94%9F%E6%80%81%E7%9A%84%E9%A1%B9%E7%9B%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E5%81%9A/",
+    "date": "2026-08-09T15:14:31Z",
+    "description": "前情提要： 《<a",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "周末流水账 0809",
+    "url": "https://blog.solazy.me/20260809/",
+    "date": "2026-08-09T15:00:00Z",
+    "description": "周末过得真快",
+    "source_root_domain": "solazy.me"
+  },
+  {
     "title": "UFO是美国过去的祥瑞，AGI则是未来的神器，两千多年前的管仲已揭示其奥秘",
     "url": "https://nigzu.com/americas-ufo-humanitys-agi-guangzhong/",
     "date": "2026-08-09T13:31:58Z",
@@ -19,6 +40,13 @@
     "date": "2026-08-09T12:57:22Z",
     "description": "我一直都以为自己并没有特别喜欢小孩。 几年前，表姐的孩子出生了，叫六六。当时是几个月大，带到奶奶家玩，恰好我也在。我看到他，小小的一个，全家看到就一起乐呵呵地笑。表姐问我想不想抱一下。我根本不敢，甚至都不知道怎么抱，既怕扭着手或脚，又怕没抱稳摔到了。于是一边摆手一边后退，从客厅退到房里，只想和小宝宝离得远远的。",
     "source_root_domain": "hangbin.blog"
+  },
+  {
+    "title": "Vol.115 个人AGI：从模型租用到智能资产复利，界定边界与验证环境",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-115",
+    "date": "2026-08-09T08:00:00Z",
+    "description": "本期内容聚焦个人AGI，探讨如何将上下文、Skill与责任沉淀为可持续资产，强调验证环境、控制层和模型选择权，并涵盖前沿模型进展与开源生态价值。",
+    "source_root_domain": "liduos.com"
   },
   {
     "title": "新知识分子的新庸俗",
@@ -103,6 +131,13 @@
     "date": "2026-08-08T16:00:00Z",
     "description": "刚看完电影不久，那些场景还留在脑海。电影途中我无声啜泣，泪珠顺着脸颊流下，这巨大的情感冲击让我的头开始痛了起来。我有些后悔此时看了这部电影，今天本来计划好好整理一下我的相册，我基于它做了一个私人相册站，有些地方需要改，在 Hermes agent 的帮助下慢慢推进。",
     "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "周末流水账 0808",
+    "url": "https://blog.solazy.me/20260808/",
+    "date": "2026-08-08T15:30:00Z",
+    "description": "周六了",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "Re: Bloggers, can we make better titles for our posts?",

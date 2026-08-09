@@ -27,9 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-09 | [世界，您好！](https://flandre-scarlet.moe/blog/2026/08/10/hello-world/) | 欢迎使用 WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！ |
+| 2026-08-09 | [预测市场生态的项目为什么难做](https://smallyu.net/2026/08/09/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E7%94%9F%E6%80%81%E7%9A%84%E9%A1%B9%E7%9B%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E5%81%9A/) | 前情提要： 《<a |
+| 2026-08-09 | [周末流水账 0809](https://blog.solazy.me/20260809/) | 周末过得真快 |
 | 2026-08-09 | [UFO是美国过去的祥瑞，AGI则是未来的神器，两千多年前的管仲已揭示其奥秘](https://nigzu.com/americas-ufo-humanitys-agi-guangzhong/) | 在当今的大众印象中，UFO（不明飞行物）几乎与外星生物、黑科技和影子政府画上了等号。然而，剥开科幻的外衣 |
 | 2026-08-09 | [Toots 431 2026 Aug.2 - Aug.8](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260808/) | 「呼吸真的可以到三十秒。」 |
 | 2026-08-09 | [写在孩子满月时](https://hangbin.blog/blog/%E5%86%99%E5%9C%A8%E5%AD%A9%E5%AD%90%E6%BB%A1%E6%9C%88%E6%97%B6/) | 我一直都以为自己并没有特别喜欢小孩。 几年前，表姐的孩子出生了，叫六六。当时是几个月大，带到奶奶家玩，恰好我也在。我看到他，小小的一个，全家看到就一起乐呵呵地笑。表姐问我想不想抱一下。我根本不敢，甚至都不知道怎么抱，既怕扭着手或脚，又怕没抱稳摔到了。于是一边摆手一边后退，从客厅退到房里，只想和小宝宝… |
+| 2026-08-09 | [Vol.115 个人AGI：从模型租用到智能资产复利，界定边界与验证环境](https://liduos.com/weekly/the-weekly-gradient-115) | 本期内容聚焦个人AGI，探讨如何将上下文、Skill与责任沉淀为可持续资产，强调验证环境、控制层和模型选择权，并涵盖前沿模型进展与开源生态价值。 |
 | 2026-08-09 | [新知识分子的新庸俗](https://www.geedea.pro/article/vulgar-new-intellects/) | 首先定义新知识分子，不是什么专有名词，只是我在找到更合适的称呼之前暂用的词。我所指的新知识分子，是经过现代教育系统培养的，相对突出的一部分人。虽然他们没有成为学者或真正顶尖的精英（当然这部分人也有他们的庸俗，只是本文不谈），但他们仍会获取知识并实践。他们对待知识没有学者的求是态度，他们的态度更加功利… |
 | 2026-08-09 | [OPPO 快游戏在浏览器复现运行（七）之远程资源离线化](https://www.liesauer.net/blog/post/1040.html) | 完全的离线化仅适用于走快游戏 API 的资源，部分资源是直接通过 `img` 标签或者其他方式加载的（最终会 fallback 到 XHR）还是会到本地服务器发起请求。`web.sdk.js... |
 | 2026-08-09 | [OPPO 快游戏在浏览器复现运行（六）之触摸适配](https://www.liesauer.net/blog/post/1039.html) | 一部分游戏会将游戏内的UI交互逻辑直接写死 `touch` 系列事件，导致在电脑上运行的话，鼠标点击完全没反应，因此需要将鼠标事件映射转发成触摸事件，这个问题可以使用 [touch-emulat... |
@@ -42,6 +46,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-08 | [GitLab 将删除中国大陆、香港和澳门用户账号：9 月 7 日前请备份迁移](https://blog.renfei.net/posts/1626402130325676143) | GitLab 通知将停止服务中国大陆、香港和澳门地区账号，并计划于 2026 年 9 月 7 日后删除账号。收到邮件后，建议尽快备份代码、项目数据与 CI 配置。 |
 | 2026-08-08 | [解决 WSL2 莫名其妙的远程桌面报错弹窗](https://www.liesauer.net/blog/post/1037.html) | 今天在用电脑的时候发现莫名其妙的疯狂弹了一个远程桌面的报错弹窗，一开始我还以为中毒被黑了呢，我嘞个豆。 ![1785955689.png](https://storage.liesauer.ne... |
 | 2026-08-08 | [荐《欢迎来龙餐馆》](https://tianheg.co/posts/dragon-restaurant/) | 刚看完电影不久，那些场景还留在脑海。电影途中我无声啜泣，泪珠顺着脸颊流下，这巨大的情感冲击让我的头开始痛了起来。我有些后悔此时看了这部电影，今天本来计划好好整理一下我的相册，我基于它做了一个私人相册站，有些地方需要改，在 Hermes agent 的帮助下慢慢推进。 |
+| 2026-08-08 | [周末流水账 0808](https://blog.solazy.me/20260808/) | 周六了 |
 | 2026-08-08 | [Re: Bloggers, can we make better titles for our posts?](https://taxodium.ink/re-bloggers-can-we-make-better-titles-for-our-posts.html) | Re: Bloggers, can we make better titles for our posts? Michael Harley 寫了篇 Bloggers, can we make better titles for our posts? ，請你先去讀一遍原文吧，在這裡等你，几分鐘後再見… |
 | 2026-08-08 | [当一篇论文说“AI Agent还不会做研究”，它到底测到了什么？](https://www.kingname.info/2026/08/08/ai-agent-research/) | 最近我看到一项很有意思的实验。 研究者找来几个真实、并且还没有公开答案的AI研究课题，让Agent自己查资料、写代码、跑实验、分析结果。他们给了Agent几天时间和相当可观的算力预算，最后再让真正做过这些课题的研究者评价Agent的成果。 结果不太好。Agent没有产出达到论文标准的研究成果。 研究… |
 | 2026-08-08 | [读书小结十九](https://jubeny.com/2026/08/book-summaries-19/) | The Sorrow of War 以越南战争为背景的意识流反战小说，主人公是参加越南战争并幸存的士兵Kien。战争结束了，但战争的创伤却永远无法修复，Kien一直饱受折磨和痛苦，选择把自己的经历诉诸文字。故事在现实与回忆、战争与日常中交织叙述，战争的残酷不仅是身边的队友一个接一个死去，也摧毁了Ki… |
