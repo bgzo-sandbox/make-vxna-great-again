@@ -42,6 +42,20 @@
     "source_root_domain": "onojyun.com"
   },
   {
+    "title": "《凯罗斯》、《苔藓森林》笔摘",
+    "url": "https://blog.sakoamc.com/posts/r2604/",
+    "date": "2026-08-09T00:00:00Z",
+    "description": "题记：《凯罗斯》、《苔藓森林》部分阅读摘录。",
+    "source_root_domain": "sakoamc.com"
+  },
+  {
+    "title": "2026年第32周",
+    "url": "https://blog.sakoamc.com/posts/2632/",
+    "date": "2026-08-09T00:00:00Z",
+    "description": "题记：二零二六年的第三十二周，记录的还是不够多，不够细，不够敏锐，应该是要能从一篇篇中察觉到时间的变化，季节的流转。",
+    "source_root_domain": "sakoamc.com"
+  },
+  {
     "title": "Memos #2026-08-08",
     "url": "https://www.taober.blog/memos",
     "date": "2026-08-09T00:00:00Z",
@@ -117,6 +131,13 @@
     "date": "2026-08-08T00:00:00Z",
     "description": "分享了 12 篇文章，12 个开源项目",
     "source_root_domain": "pythoncat.top"
+  },
+  {
+    "title": "纽约博物馆打卡记 ｜ Museums in New York",
+    "url": "https://cheng.st/2026/08/08/new-york-museum-light/",
+    "date": "2026-08-08T00:00:00Z",
+    "description": "上次认真花钱逛博物馆还是上次了。此行因为身体抱恙，特地安排了不一样的博物馆行程。出发之前认真补课，回来以后意犹未尽。顺便，手握 Fuji GFX100RF ，让高像素把临场的瞬间记录下来，以供日后（比如此时）回味。 这次出行，定下要去的博物馆自然不难—— MoMA 和 The Met 肯定在列，尤其是因为 Raphael: Sublime Poetry 特展要在月底结束。做了点功课后，意外发现这个级别的特展的确远不只是“来都来了”的打卡程度。另外在 AI 的规划下，我还顺便拜访了 MoMA PS1 和 ICP 。 出发前，真诚感谢互联网上的各位 up 主，尤其是 “顾爷” 幽默风趣、深入浅出的云游博物馆系列，让我快速 ramp up 了这两个博物馆。另外也要感谢犬生活的 《大都会拉斐尔世纪特展：从天才画家到超级经理人的一生》 ，它像一部超长语音导览，为我一幅画接一幅画地讲解了这次的 Raphael 特展—— Sublime Poetry 。正是因为播客开头的介绍，我决定匀出大半天时间给大都会博物馆，尝试和这些作品多多少少建立起一些连接。 MoMA：从平面到颜料厚度 看到了 梵高的《星月",
+    "source_root_domain": "cheng.st"
   },
   {
     "title": "博客更换中文字体：自托管与子集化",
