@@ -1,5 +1,12 @@
 [
   {
+    "title": "OPPO 快游戏在浏览器复现运行（七）之远程资源离线化",
+    "url": "https://www.liesauer.net/blog/post/1040.html",
+    "date": "2026-08-09T06:21:00Z",
+    "description": "完全的离线化仅适用于走快游戏 API 的资源，部分资源是直接通过 `img` 标签或者其他方式加载的（最终会 fallback 到 XHR）还是会到本地服务器发起请求。`web.sdk.js...",
+    "source_root_domain": "liesauer.net"
+  },
+  {
     "title": "OPPO 快游戏在浏览器复现运行（六）之触摸适配",
     "url": "https://www.liesauer.net/blog/post/1039.html",
     "date": "2026-08-09T04:51:00Z",

@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-09 | [OPPO 快游戏在浏览器复现运行（七）之远程资源离线化](https://www.liesauer.net/blog/post/1040.html) | 完全的离线化仅适用于走快游戏 API 的资源，部分资源是直接通过 `img` 标签或者其他方式加载的（最终会 fallback 到 XHR）还是会到本地服务器发起请求。`web.sdk.js... |
 | 2026-08-09 | [OPPO 快游戏在浏览器复现运行（六）之触摸适配](https://www.liesauer.net/blog/post/1039.html) | 一部分游戏会将游戏内的UI交互逻辑直接写死 `touch` 系列事件，导致在电脑上运行的话，鼠标点击完全没反应，因此需要将鼠标事件映射转发成触摸事件，这个问题可以使用 [touch-emulat... |
 | 2026-08-09 | [OPPO 快游戏在浏览器复现运行（五）之竖屏适配](https://www.liesauer.net/blog/post/1038.html) | 大部分竖屏快游戏都很少有兼顾宽屏分辨率的情况，Laya 游戏会有一个自动横屏的机制，会将整个画面横向显示，而像 CC 游戏，基本都是 UI 位置大小严重失调，要么导致某些区域点不了，要么导致 U... |
 | 2026-08-09 | [荷马史诗和职场规则](https://www.hecaitou.com/2026/08/homeric-epics-and-workplace-rules.html) | 在荷马史诗中，希腊英雄阿喀琉斯和联军统帅阿伽门农之间爆发了严重的冲突，以至于影响到了特洛伊之战的进程。 我在中学时代从某期《读书》杂志上得到了一种解读：冲突的起因是阿伽门农夺走了阿喀琉斯的战利品，于是阿喀琉斯拒绝出战，理由是他需要维护英雄的尊严和荣誉。阿伽门农不肯让步，因为他是人主，是希腊联军的统帅… |
