@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-10 | [事儿逼提喻法](https://mobius.blog/25339.html) | 最近一个朋友对我抱怨，说自己新带的几个刚入社会的 00 后，老想着整顿职场，交代的事儿做不好，但又老想拿原则说 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-10 | [大脑充血 Vol.93](https://www.geedea.pro/weekly/93/) | 本期周刊我将讨论《奥德赛》的三个版本：荷马史诗原著，Jorge Rivera-Herrans 改编的名为《EPIC》的音乐剧，以及由 Christopher Nolan 改编和导演的《奥德赛》电影。荷马的《奥德赛》我其实只读了第一章，诺兰的电影我也只是有所耳闻，只有《EPIC》从头到尾看过、听过好几… |
 | 2026-08-09 | [失眠遐想](https://yipai.me/post/2546.html) | 今晚又失眠。失眠是因为脑袋总是停不下来。想到很多事情，也很乱。第一件，是儿子上小学的事儿。我比他先焦虑了，总是很担心无法适应。比如担心上课不守纪律，学习成绩太差。上课不认真是从小的问题，没有纪律性。虽然我们对他没有什么要求，不属于鸡娃的，但也担心干扰别人学习。幼儿园比较宽松，他经常躺地上，上课神游，… |
 | 2026-08-09 | [世界，您好！](https://flandre-scarlet.moe/blog/2026/08/10/hello-world/) | 欢迎使用 WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！ |
 | 2026-08-09 | [预测市场生态的项目为什么难做](https://smallyu.net/2026/08/09/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E7%94%9F%E6%80%81%E7%9A%84%E9%A1%B9%E7%9B%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E5%81%9A/) | 前情提要： 《<a |
@@ -158,29 +160,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-03 | [周记 #13 - 好小子](https://www.taober.blog/posts/weekly-13-20260803) | 2026-07-27 至 2026-08-02 台风过后，深圳又接连下了几天雨，实在很难让人快乐起来。 白天工作上的忙碌，接着晚上的运动，加上下雨天周末的浑浑噩噩，一周又过去了。 标题是我今天刚改的无畏契约 ID，没什么特别的含义，单纯地觉得「好小子」很有感觉（表达了博主对自己的肯定以及对未来的美好… |
 | 2026-08-03 | [2026年的比特币有了新的逻辑？](https://prologue.dev/blog/is-there-a-new-logic-behind-bitcoin-in-2026) | 本文回顾比特币和黄金的基本属性，并从比特币的矿工关机币价、减半周期、美元流动性传导、Strategy风险等方面解构比特币的定价逻辑。作者认为是共识资产因新的叙事、共识、投机与交易创造的新的集体价值。 |
 | 2026-08-03 | [我是怎么用 WezTerm + Herdr 放一群 agent 的](https://mario.lol/posts/wezterm-herdr/) | 同时跑四五个 coding agent 之后，最稀缺的不是算力，是注意力。聊聊我从 tmux 换到 Herdr 之后踩的坑和沉淀下来的用法。 |
-| 2026-08-02 | [大脑充血 Vol.92](https://www.geedea.pro/weekly/92/) | 我发现自己遇到「不测风云」，也就是那些难以预料的烦心事时，已经能够做到表面平静地发疯十分钟，然后该干嘛干嘛。这周济南总是莫名其妙地开始刮大风、下暴雨，虽然讨厌袜子被打湿的感觉，但包里常备着折叠伞，也还算从容不迫。 其实还有些家人和工作上的大小事，不过我现在更在乎自己刚刚从 MUJI 买的粘毛刷好不好… |
-| 2026-08-02 | [事实证明，机器通过学习，也比你更通人情世故](https://blog.mzh.ren/zh/posts/2026/08/learn-ai-text-style/) | 早上看到这个帖子，感受到碳基生命对硅基生命的满满的恶意啊！ AI 生成文案最恶心的四个字 - V2EX 常见 AI 高频话术 以下我总结了大家比较反感的，也是 AI 比较常用的一些话术： |
-| 2026-08-02 | [NetBox MCP服务器部署](https://songxwn.com/NetBox-MCP-Docker-install/) |  |
-| 2026-08-02 | [PySonar2 如何帮助 AI 节省 Token](https://smallyu.net/2026/08/03/PySonar2%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9AI%E8%8A%82%E7%9C%81Token/) | 结论 今天有一个 “重大” 发现想要分享：<a |
-| 2026-08-02 | [homelab:python安装esphome以及使用](https://dsx2016.com/homelab-installing-esphome-with-python-and-usage/) | esphome安装 首先，homeassistant可以使用add-on插件的方式安装esphome 但是如何... homelab:python安装esphome以及使用 最先出现在 大师兄2016 。 |
-| 2026-08-02 | [Blaugust 2026 Feeds - 以及我是如何用 Elisp 製作的](https://taxodium.ink/blaugust-2026-feeds.html) | Blaugust 2026 Feeds 以及我是如何用 Elisp 製作的 生成了一份 Blaugust 2026 Feeds (更新於 2026-08-04，137 / 148)， 如果你需要可以點擊下載，然後导入到你的 RSS 閱讀器中。如果你想 參加 Blaugust ，現在就是最好的時間！… |
-| 2026-08-02 | [如何安装和设置wireguard？](https://dsx2016.com/how-to-install-and-set-up-wireguard/) | 安装wireguard 在ubuntu server下安装wireguard sudo apt update ... 如何安装和设置wireguard？ 最先出现在 大师兄2016 。 |
-| 2026-08-02 | [周末流水账 0802](https://blog.solazy.me/20260802/) | 这周居然水了两篇流水账 |
-| 2026-08-02 | [向云端｜西南自驾06 - 芷江](https://blog.ops-coffee.com/r/2026-southwest-road-trip-06-zhijiang.html) |  |
-| 2026-08-02 | [尽量可爱一些](https://z.arlmy.me/posts/ZArlmyMe/BeCuteToAI_20260802/) | 「尽量乖巧、可爱一些。」 |
-| 2026-08-02 | [将网页选中文本生成为图片](https://blog.prayhand13013.top/20260802T173842--将网页选中文本生成为图片__blog.html) |  |
-| 2026-08-02 | [保持谦逊，承认自己的“无能”](https://zhangke.space/%e4%bf%9d%e6%8c%81%e8%b0%a6%e9%80%8a%ef%bc%8c%e6%89%bf%e8%ae%a4%e8%87%aa%e5%b7%b1%e7%9a%84%e6%97%a0%e8%83%bd/?utm_source=rss&utm_medium=rss&utm_campaign=%25e4%25bf%259d%25e6%258c%2581%25e8%25b0%25a6%25e9%2580%258a%25ef%25bc%258c%25e6%2589%25bf%25e8%25ae%25a4%25e8%2587%25aa%25e5%25b7%25b1%25e7%259a%2584%25e6%2597%25a0%25e8%2583%25bd) | 我从小就比较自以为是，可能是作为儿子被宠的原因，也可能是别的原因，在我很久远的记忆中就发生过一些事情。大概是不 […] The post 保持谦逊，承认自己的“无能” first appeared on 张可的博客 . |
-| 2026-08-02 | [来信 · 莫良](https://www.gtdstudy.com/guestbook/79160fdf-d95f-4270-aa68-fe4c84ab5178/) |  |
-| 2026-08-02 | [马虎大意险酿错](https://hux.ink/posts/a-lesson/) | 昨天母子俩约了下午三点的游泳课，游泳馆地点其实很近，离家只有 1.5 公里，之前都是骑小电驴过去。 然而临出发前下起瓢泼大雨，无奈开车前往。在商场停车三小时花了25元停车费不说，回家的路上还撞车了。 我们小区的停车场入口设在一处红绿灯和公交站台中间位置，前后各十几米的样子，因此我想右转进入停车场，需… |
-| 2026-08-02 | [Jazz Jackrabbit 2 updated](https://macsourceports.com/game/jazzjackrabbit2) | The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.7.0 of the project |
-| 2026-08-02 | [入蜀记 day435 胎息经](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_435/) | 「胎息经。」 |
-| 2026-08-02 | [低分辨率爱好](https://www.hecaitou.com/2026/08/Low-Resolution-Hobbies.html) | 我终于想到了一个字眼来形容自己这几年的各种心头好：低分辨率爱好。 无论是 CD、磁带、黑胶唱片、平头耳机，还是各种手工制作的器皿，它们的特点都是分辨率低，当然，这里的「低分辨率」不是工程指标，而是一种审美感受：它们往往保留更多的不完美、颗粒感和个体差异。 最明显的例子是磁带和黑胶唱片，在播放的时候其… |
-| 2026-08-02 | [Toots 430 2026 Jul.26 - Aug.1](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260801/) | 「难点也可能是要止损和自限。」 |
-| 2026-08-02 | [Freebuff：免费使用DeepSeek V4 flash 0731的 AI 编程工具](https://luweiqing.com/resources/Freebuff-DeepSeek-V4-flash-0731-AI.html) | Freebuff 想做一个免费的 AI Coding Agent 工具。它不收订阅费，而是用广告养免费用户，再让企业买 Pro。目标是成为 AI 时代的开发者入口。产品定位Freebuff 其实... |
-| 2026-08-02 | [≡ 006｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/2026/08/02/25253/) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-02 | [hermes 真的太好用了 昨天 ins](https://versun.me/blog/tweet-2083719150833463349) | hermes 真的太好用了 昨天 insforge 的deno classical deploy关闭了，导致旧的 function 都需要重新部署， 我直接在 hermes 上让它帮我修复了，省了一堆麻烦事， 不得不说 @insforge 真的是 ai 时代部署网站的救星啊，太方便了... |
-| 2026-08-02 | [2026年第31周](https://blog.sakoamc.com/posts/2631/) | 题记：二零二六年的第三十一周，匆匆八月如何地开始呢，如果想吃火锅就约上朋友一起吧。 |
-| 2026-08-02 | [资源卡片生成器 prompt](https://jimmy-blog.vercel.app/posts/prompt) | 做一个「资源卡片生成器 Prompt」。核心目标是： 你只输入 URL AI 自动分析网站 输出适合放到资源网站卡片里的内容 风格统一、短、像 Linear / Vercel / Product Hunt 那种介绍方式 * 你可以直接复制到数据库或者 CMS 我建议不要让 AI 输出太长，而是固定结… |
 
 ## Vibe Coding
 
