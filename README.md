@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-10 | [海风与旧巷：2026盛夏的深港澳行记](https://hellodk.cn/post/1228) | 终于又到了属于我的假期，今年的假期有两个星期，我可要好好安排一下。准备分成两段，第一周去深圳香港澳门，第二周暂时没想好，但是决定了是自驾，皖南很多地方都转过了，所以有几个选项川藏线南太行浙江海岸... |
 | 2026-08-10 | [CSS Strut 与 IFC 简析](https://ssshooter.com/css-strut/) | 遇到莫名留白和多余高度的困扰？本文深入解析 CSS Strut（行内格式化上下文中的隐形文本行）的产生原理，用直观示例讲解 IFC、BFC、FFC、GFC 四种格式化上下文的区别，并给出 font-size:0、display:block、flex/grid 三种根治撑开的修复方案。 |
 | 2026-08-10 | [向云端｜西南自驾09 - 施秉](https://blog.ops-coffee.com/r/2026-southwest-road-trip-09-shibing.html) |  |
 | 2026-08-10 | [](https://www.hecaitou.com/2026/08/On-the-Chinese-Canon.html) | 今天早上写了《 读正典 》，其实说的是西方正典。有读者就问我：那中文的正典呢？应该读什么？多危险呐，得亏是我多年精挑细选出来的读者，否则，我多半要面对严厉的质疑：和菜头，你写正典默认就是西方正典，你是不是崇洋媚外？你是不是对传统文化有什么偏见？ 我倒是想对传统文化有偏见，但是以我的水平，写什么都没有… |
