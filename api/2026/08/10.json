@@ -7,6 +7,13 @@
     "source_root_domain": "taxodium.ink"
   },
   {
+    "title": "写的真好，已悟 harness 就像编程",
+    "url": "https://versun.me/blog/tweet-2086677327086264560",
+    "date": "2026-08-10T04:53:38Z",
+    "description": "写的真好，已悟 harness 就像编程语言的语法糖史：从手动内存管理到 GC ，从回调地狱到 async/await， 但编程语言并没有因此变薄，我们只是把旧复杂度交给底层，然后在上层写出了更复杂的类型系统、并发模型和 DSL。 模型变强不会让 harness 消失，只会让旧的 harness 变成\"默认能力\"，同时解锁更上层的编排范式",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "Memos: 作为交通参与者收到的第一张罚单",
     "url": "https://blog.yasking.org/a/1786333073",
     "date": "2026-08-10T03:36:00Z",
@@ -19,6 +26,13 @@
     "date": "2026-08-10T03:09:27Z",
     "description": "做自媒体的同学，有个口播视频的需求，希望能帮忙搞个工具出来。 以前没有 AI 的时候，我还真不敢接这活，现在有了 AI，决定试试看。 前面做了调研，核心就是 语音克隆 和 对口型视频合成 两个能力。",
     "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "无语了，在各家多模态模型卷得飞起的情况下",
+    "url": "https://versun.me/blog/tweet-2086638283099173127",
+    "date": "2026-08-10T02:18:29Z",
+    "description": "无语了，在各家多模态模型卷得飞起的情况下，竟然没有几家的 code cli 是支持直接上传视频的，都是用 ffmpeg 抽帧 查了 codex、 claude code、 opencode、 pi、 oh-my-pi、kimi code，只有 kimi code 是完美支持直接上传视频给模型的。。。。",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "香港 Day1・初到铜锣湾",
