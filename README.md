@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-10 | [入蜀记 day442 “觉得一直都没有好好告别过吧”](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_442/) | 「“觉得一直都没有好好告别过吧”。」 |
+| 2026-08-10 | [绝壁与深谷：2026盛夏的南太行自驾游](https://hellodk.cn/post/1229) | 前言从合肥休息好之后我回到了南京，决定接下来去哪里。因为时间不充足了，所以放弃了川藏线，尽管我还真的没有去过西藏，只走过川西小环线，那就以后再达成这个心愿吧。台风“红霞”刚走不久，“白海豚”又准... |
+| 2026-08-10 | [理财笔记 20260811](https://z.arlmy.me/posts/TILs/money/20260811_InvestmentNote/) | 「小记」 |
+| 2026-08-10 | [周记 #14 - 一万天](https://www.taober.blog/posts/weekly-14-20260810) | 2026-08-03 至 2026-08-09 标题用于纪念已经活了一万天的自己。 生活 其实我的代谢能力还算比较强，在不进行任何运动、正常吃喝的情况下，早上体重通常能比睡前轻 0.5 - 0.8kg。 奈何我饭量一直很大，又热爱碳水和油腻的菜，还无辣不欢。所有从今年元旦重新上 70kg 开始，体重… |
+| 2026-08-10 | [MURS：少见的 VHF 对讲机](https://blog.mfwt.top/index.php/archives/1519/) | 前两天忽然感冒发烧，整个人一直都昏昏沉沉的，甚至连晚上也没什么精力去做事情，只能早早睡觉，博客自然是没有太多更新了。想着接下来因游戏更新，博客（包括小说页）会短暂停更一段时间，干脆先写点东西填补... |
+| 2026-08-10 | [R#114 好热的一天](https://blog.sakanano.moe/journals/random_114) | 2026.8.4 ~ 2026.8.10 |
 | 2026-08-10 | [海风与旧巷：2026盛夏的深港澳行记](https://hellodk.cn/post/1228) | 终于又到了属于我的假期，今年的假期有两个星期，我可要好好安排一下。准备分成两段，第一周去深圳香港澳门，第二周暂时没想好，但是决定了是自驾，皖南很多地方都转过了，所以有几个选项川藏线南太行浙江海岸... |
 | 2026-08-10 | [CSS Strut 与 IFC 简析](https://ssshooter.com/css-strut/) | 遇到莫名留白和多余高度的困扰？本文深入解析 CSS Strut（行内格式化上下文中的隐形文本行）的产生原理，用直观示例讲解 IFC、BFC、FFC、GFC 四种格式化上下文的区别，并给出 font-size:0、display:block、flex/grid 三种根治撑开的修复方案。 |
 | 2026-08-10 | [向云端｜西南自驾09 - 施秉](https://blog.ops-coffee.com/r/2026-southwest-road-trip-09-shibing.html) |  |
@@ -56,6 +62,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-09 | [NAS辅种工具-AutoReseed，本质上是在比对一段 SHA-1](https://11010.net/p/docker-tools-nas-autoreseed/) | 本项目是日常写的娱乐工具，无法替代当前主流辅种，只是不在依赖于服务端来校验辅种，所以此辅种工具不支持很多站点 一份数据，好几个种子 假设你硬盘上有一个 40 GB 的目录，是从某个站点下载的。过一阵你发现另一个站点上也有同样的内容——同样的文件、同样的大小、一个字节都不差，只是种子文件不是同一个。… |
 | 2026-08-09 | [OPPO 快游戏在浏览器复现运行（七）之远程资源离线化](https://www.liesauer.net/blog/post/1040.html) | 完全的离线化仅适用于走快游戏 API 的资源，部分资源是直接通过 `img` 标签或者其他方式加载的（最终会 fallback 到 XHR）还是会到本地服务器发起请求。`web.sdk.js... |
 | 2026-08-09 | [OPPO 快游戏在浏览器复现运行（六）之触摸适配](https://www.liesauer.net/blog/post/1039.html) | 一部分游戏会将游戏内的UI交互逻辑直接写死 `touch` 系列事件，导致在电脑上运行的话，鼠标点击完全没反应，因此需要将鼠标事件映射转发成触摸事件，这个问题可以使用 [touch-emulat... |
+| 2026-08-09 | [入蜀记 day441 新裤子](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_441/) | 「新裤子。」 |
 | 2026-08-09 | [OPPO 快游戏在浏览器复现运行（五）之竖屏适配](https://www.liesauer.net/blog/post/1038.html) | 大部分竖屏快游戏都很少有兼顾宽屏分辨率的情况，Laya 游戏会有一个自动横屏的机制，会将整个画面横向显示，而像 CC 游戏，基本都是 UI 位置大小严重失调，要么导致某些区域点不了，要么导致 U... |
 | 2026-08-09 | [荷马史诗和职场规则](https://www.hecaitou.com/2026/08/homeric-epics-and-workplace-rules.html) | 在荷马史诗中，希腊英雄阿喀琉斯和联军统帅阿伽门农之间爆发了严重的冲突，以至于影响到了特洛伊之战的进程。 我在中学时代从某期《读书》杂志上得到了一种解读：冲突的起因是阿伽门农夺走了阿喀琉斯的战利品，于是阿喀琉斯拒绝出战，理由是他需要维护英雄的尊严和荣誉。阿伽门农不肯让步，因为他是人主，是希腊联军的统帅… |
 | 2026-08-09 | [≡ 007｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25321.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |

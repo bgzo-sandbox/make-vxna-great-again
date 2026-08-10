@@ -1,5 +1,47 @@
 [
   {
+    "title": "入蜀记 day442 “觉得一直都没有好好告别过吧”",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_442/",
+    "date": "2026-08-10T16:28:27Z",
+    "description": "「“觉得一直都没有好好告别过吧”。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "绝壁与深谷：2026盛夏的南太行自驾游",
+    "url": "https://hellodk.cn/post/1229",
+    "date": "2026-08-10T16:17:00Z",
+    "description": "前言从合肥休息好之后我回到了南京，决定接下来去哪里。因为时间不充足了，所以放弃了川藏线，尽管我还真的没有去过西藏，只走过川西小环线，那就以后再达成这个心愿吧。台风“红霞”刚走不久，“白海豚”又准...",
+    "source_root_domain": "hellodk.cn"
+  },
+  {
+    "title": "理财笔记 20260811",
+    "url": "https://z.arlmy.me/posts/TILs/money/20260811_InvestmentNote/",
+    "date": "2026-08-10T16:13:27Z",
+    "description": "「小记」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "周记 #14 - 一万天",
+    "url": "https://www.taober.blog/posts/weekly-14-20260810",
+    "date": "2026-08-10T16:12:00Z",
+    "description": "2026-08-03 至 2026-08-09 标题用于纪念已经活了一万天的自己。 生活 其实我的代谢能力还算比较强，在不进行任何运动、正常吃喝的情况下，早上体重通常能比睡前轻 0.5 - 0.8kg。 奈何我饭量一直很大，又热爱碳水和油腻的菜，还无辣不欢。所有从今年元旦重新上 70kg 开始，体重就一直没有掉下来过。 来 AS 之后，晚饭后倒是经常去健身房运动，但是吃上始终没克制住，体重也一直维系在 71kg 左右。 终于在这周开始认真控制饮食，中午固定吃老乡鸡的毛豆炒鸡肉，晚饭吃兰州拉面，或是其他相对健康一点的东西。坚持了一周，终于在周六的早上掉下了 70kg。 瘦下来一点之后，好处还是很明显的。人自然是精神了些，食欲相较之前也有所下降，不会再执著于一定要把主食吃到肚子胀才觉得满足。 以前吃饭总想着吃到爽为止，结果往往是吃完就开始后悔。 这件事上，我对自己倒是很有自知之明：觉得少了的时候，其实就是刚刚好；觉得刚刚好的时候，必然是多了。 工作 这周没有日会，开发的时间一下充裕了很多。 趁着 OS Phase 2 刚开始，把 mf 和路由设计重新梳理了一遍，又重构了一轮弹框 Overl",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "MURS：少见的 VHF 对讲机",
+    "url": "https://blog.mfwt.top/index.php/archives/1519/",
+    "date": "2026-08-10T15:54:47Z",
+    "description": "前两天忽然感冒发烧，整个人一直都昏昏沉沉的，甚至连晚上也没什么精力去做事情，只能早早睡觉，博客自然是没有太多更新了。想着接下来因游戏更新，博客（包括小说页）会短暂停更一段时间，干脆先写点东西填补...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "R#114 好热的一天",
+    "url": "https://blog.sakanano.moe/journals/random_114",
+    "date": "2026-08-10T15:30:00Z",
+    "description": "2026.8.4 ~ 2026.8.10",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
     "title": "海风与旧巷：2026盛夏的深港澳行记",
     "url": "https://hellodk.cn/post/1228",
     "date": "2026-08-10T13:34:00Z",
@@ -194,6 +236,13 @@
     "date": "2026-08-09T04:51:00Z",
     "description": "一部分游戏会将游戏内的UI交互逻辑直接写死 `touch` 系列事件，导致在电脑上运行的话，鼠标点击完全没反应，因此需要将鼠标事件映射转发成触摸事件，这个问题可以使用 [touch-emulat...",
     "source_root_domain": "liesauer.net"
+  },
+  {
+    "title": "入蜀记 day441 新裤子",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_441/",
+    "date": "2026-08-09T04:48:27Z",
+    "description": "「新裤子。」",
+    "source_root_domain": "arlmy.me"
   },
   {
     "title": "OPPO 快游戏在浏览器复现运行（五）之竖屏适配",
