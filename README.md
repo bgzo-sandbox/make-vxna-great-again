@@ -33,6 +33,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-11 | [蛋白粉和肌酸](https://www.bboy.app/2026/08/11/%E8%9B%8B%E7%99%BD%E7%B2%89%E5%92%8C%E8%82%8C%E9%85%B8/) | 简介 我 30 岁，运维，天天坐电脑前面。身高就不说了，体重说出来你可能不信：45kg。 对，你没看错，一个成年男人，45kg。瘦了二十多年，从来没进过健身房，全是自己在家练。最近又把这事捡起来了，顺手买了蛋白粉和肌酸。现在用支架一次能做 50 个俯卧撑了，离大佬差得远，但对我来说已经是人生巅峰。写… |
 | 2026-08-11 | [20260811的胡言乱语](https://www.bboy.app/2026/08/11/20260811%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-08-11 | [Random Thoughts - 20260811](https://www.bboy.app/2026/08/11/random-thoughts-20260811/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-08-11 | [在南方](https://z.arlmy.me/posts/ZArlmyMe/South_20260811/) | 「在南方。」 |
 | 2026-08-11 | [好久不见](https://ameow.xyz/archives/blog-cdn-update) | 最近几个月都感觉没什么内容更新，所以就没有写周刊。 今天翻邮件的时候发现七牛云的 CDN SSL 证书过期了，导致博客的图片其实挂了差不多半个月。于是花了一个早上把数据迁移到腾讯云，成本差不多，证书可以自动化管理，年纪大了就是不爱折腾。迁移过程一路顺利没有踩太多坑，翻了下博客的照片都可以正常访问了，… |
 | 2026-08-11 | [SpotAsk：不是所有的问题，都需要打开 ChatGPT](https://shiquda.link/spotask-not-every-question-needs-chatgpt/) | SpotAsk：不是所有的问题，都需要打开 ChatGPT 我为什么想做 SpotAsk 最近我开始在 macOS 上生活，顺手做了自己的第一款 macOS 桌面应用：SpotAsk。 起因很普通。我打开 ChatGPT，很多时候并不是要处理什么复杂任务。更多时候，只是想弄明白一个概念、翻译一段话、… |
 | 2026-08-11 | [Grafana cluster变量出现Kafka垃圾值的排查与清理](https://199604.com/3641) | Grafana cluster变量出现Kafka垃圾值的排查与清理 记录时间：2026-08-08 环境：RK […] |
