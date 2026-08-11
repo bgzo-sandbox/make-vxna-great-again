@@ -52,6 +52,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-10 | [周记 #14 - 一万天](https://www.taober.blog/posts/weekly-14-20260810) | 2026-08-03 至 2026-08-09 标题用于纪念已经活了一万天的自己。 生活 其实我的代谢能力还算比较强，在不进行任何运动、正常吃喝的情况下，早上体重通常能比睡前轻 0.5 - 0.8kg。 奈何我饭量一直很大，又热爱碳水和油腻的菜，还无辣不欢。所有从今年元旦重新上 70kg 开始，体重… |
 | 2026-08-10 | [MURS：少见的 VHF 对讲机](https://blog.mfwt.top/index.php/archives/1519/) | 前两天忽然感冒发烧，整个人一直都昏昏沉沉的，甚至连晚上也没什么精力去做事情，只能早早睡觉，博客自然是没有太多更新了。想着接下来因游戏更新，博客（包括小说页）会短暂停更一段时间，干脆先写点东西填补... |
 | 2026-08-10 | [R#114 好热的一天](https://blog.sakanano.moe/journals/random_114) | 2026.8.4 ~ 2026.8.10 |
+| 2026-08-10 | [不想转正的心](https://blog.solazy.me/20260810/) | 又快到新工作转正的时间了 |
 | 2026-08-10 | [From iKuai to RouterOS, and Back to Surge VM Gateway](https://missuo.me/posts/ikuai-to-routeros-back-to-surge/) | I moved my home router off iKuai and onto RouterOS CHR running inside PVE — partly because iKuai 4.0's UI is a rough UniFi knock-off, and more worryin… |
 | 2026-08-10 | [海风与旧巷：2026盛夏的深港澳行记](https://hellodk.cn/post/1228) | 终于又到了属于我的假期，今年的假期有两个星期，我可要好好安排一下。准备分成两段，第一周去深圳香港澳门，第二周暂时没想好，但是决定了是自驾，皖南很多地方都转过了，所以有几个选项川藏线南太行浙江海岸... |
 | 2026-08-10 | [CSS Strut 与 IFC 简析](https://ssshooter.com/css-strut/) | 遇到莫名留白和多余高度的困扰？本文深入解析 CSS Strut（行内格式化上下文中的隐形文本行）的产生原理，用直观示例讲解 IFC、BFC、FFC、GFC 四种格式化上下文的区别，并给出 font-size:0、display:block、flex/grid 三种根治撑开的修复方案。 |
