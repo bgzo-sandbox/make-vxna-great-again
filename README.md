@@ -27,8 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-11 | [修复 h5player 脚本在巴哈姆特持续注入 CSS](https://blog.bgzo.cc/20260811-fix-h5player-bahamut-fix-width.html) | 很喜欢 h5player 的截图功能，喜欢到了刚需的程度！它强大到自己可以让网页上的一切视频都能截图，甚至做到下载。虽然它如今已经适配 37+ 网站，但它还是不对付我常用的两个看番网站： 1. https//ani.gamer.com.tw/ 2. https//anime1.me 这个问题我 22… |
 | 2026-08-11 | [梭罗碥石刻：不知缘由裂成两半](https://macin.org/2026/08/11/suo-luo-bian/) | 阅读全文 → 这周去了一趟（弗罗里）达州渠县。 |
+| 2026-08-11 | [简化与收敛](https://z.arlmy.me/posts/ZArlmyMe/Decrease_20260811/) | 「简化与收敛。」 |
 | 2026-08-11 | [批量修改主机名后 Java 应用抛 UnknownHostException 的排查与处置](https://199604.com/3643) | 批量修改主机名后 Java 应用抛 UnknownHostException 的排查与处置 记录时间：2026 […] |
+| 2026-08-11 | [互联网来到我身边以前](https://www.tortorse.com/archives/internet-before-it-came-to-me/) | 九十年代的电脑、游戏机和游戏杂志 |
 | 2026-08-11 | [How I Use Hermes](https://www.bboy.app/2026/08/11/how-i-use-hermes/) | Introduction I came across the Hermes Agent project around the end of last year and gave it a try. I’ve been using it for over half a year now, and I… |
 | 2026-08-11 | [我是怎么用 Hermes 的](https://www.bboy.app/2026/08/11/%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E7%94%A8-hermes-%E7%9A%84/) | 简介 大概去年年末看到 Hermes Agent 这个项目，试了下。用了大半年，现在离不开了。今天聊聊我的用法。 Hermes 是什么，我是怎么装的 简单说，Hermes 是一个跑在本地的 AI 助手 CLI。你可以通过 Telegram 跟它聊天，它背后调大模型，然后直接操作你的电脑——读文件、写… |
 | 2026-08-11 | [Whey Protein and Creatine](https://www.bboy.app/2026/08/11/whey-protein-and-creatine/) | Introduction I’m 30, an ops engineer, sitting in front of a computer all day. I won’t talk about my height, but my weight — you probably won’t believe… |
@@ -50,7 +53,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-10 | [Album#48 - Winter Sweet](https://taxodium.ink/album-48.html) | Album#48 Winter Sweet 图1 《Winter Sweet》專輯封面 专辑信息 专辑名称： Winter Sweet 歌手： 蛋堡 Solf Lipa 年份： 2009-12-31 时长： 50:47 如果音樂也講究時令，夏日炎炎有「 收斂水 」可以消暑，冬夜漫漫也能有一種暖呼呼的… |
 | 2026-08-10 | [入蜀记 day442 “觉得一直都没有好好告别过吧”](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_442/) | 「“觉得一直都没有好好告别过吧”。」 |
 | 2026-08-10 | [绝壁与深谷：2026盛夏的南太行自驾游](https://hellodk.cn/post/1229) | 前言从合肥休息好之后我回到了南京，决定接下来去哪里。因为时间不充足了，所以放弃了川藏线，尽管我还真的没有去过西藏，只走过川西小环线，那就以后再达成这个心愿吧。台风“红霞”刚走不久，“白海豚”又准... |
-| 2026-08-10 | [理财笔记 20260811](https://z.arlmy.me/posts/TILs/money/20260811_InvestmentNote/) | 「小记」 |
+| 2026-08-10 | [理财笔记 20260811](https://z.arlmy.me/posts/TILs/money/20260811_InvestmentNote/) | 「小记。」 |
 | 2026-08-10 | [周记 #14 - 一万天](https://www.taober.blog/posts/weekly-14-20260810) | 2026-08-03 至 2026-08-09 标题用于纪念已经活了一万天的自己。 生活 其实我的代谢能力还算比较强，在不进行任何运动、正常吃喝的情况下，早上体重通常能比睡前轻 0.5 - 0.8kg。 奈何我饭量一直很大，又热爱碳水和油腻的菜，还无辣不欢。所有从今年元旦重新上 70kg 开始，体重… |
 | 2026-08-10 | [MURS：少见的 VHF 对讲机](https://blog.mfwt.top/index.php/archives/1519/) | 前两天忽然感冒发烧，整个人一直都昏昏沉沉的，甚至连晚上也没什么精力去做事情，只能早早睡觉，博客自然是没有太多更新了。想着接下来因游戏更新，博客（包括小说页）会短暂停更一段时间，干脆先写点东西填补... |
 | 2026-08-10 | [R#114 好热的一天](https://blog.sakanano.moe/journals/random_114) | 2026.8.4 ~ 2026.8.10 |
