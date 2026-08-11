@@ -27,16 +27,22 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-11 | [How I Use Hermes](https://www.bboy.app/2026/08/11/how-i-use-hermes/) | Introduction I came across the Hermes Agent project around the end of last year and gave it a try. I’ve been using it for over half a year now, and I… |
+| 2026-08-11 | [我是怎么用 Hermes 的](https://www.bboy.app/2026/08/11/%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E7%94%A8-hermes-%E7%9A%84/) | 简介 大概去年年末看到 Hermes Agent 这个项目，试了下。用了大半年，现在离不开了。今天聊聊我的用法。 Hermes 是什么，我是怎么装的 简单说，Hermes 是一个跑在本地的 AI 助手 CLI。你可以通过 Telegram 跟它聊天，它背后调大模型，然后直接操作你的电脑——读文件、写… |
 | 2026-08-11 | [Whey Protein and Creatine](https://www.bboy.app/2026/08/11/whey-protein-and-creatine/) | Introduction I’m 30, an ops engineer, sitting in front of a computer all day. I won’t talk about my height, but my weight — you probably won’t believe… |
 | 2026-08-11 | [蛋白粉和肌酸](https://www.bboy.app/2026/08/11/%E8%9B%8B%E7%99%BD%E7%B2%89%E5%92%8C%E8%82%8C%E9%85%B8/) | 简介 我 30 岁，运维，天天坐电脑前面。身高就不说了，体重说出来你可能不信：45kg。 对，你没看错，一个成年男人，45kg。瘦了二十多年，从来没进过健身房，全是自己在家练。最近又把这事捡起来了，顺手买了蛋白粉和肌酸。现在用支架一次能做 50 个俯卧撑了，离大佬差得远，但对我来说已经是人生巅峰。写… |
 | 2026-08-11 | [20260811的胡言乱语](https://www.bboy.app/2026/08/11/20260811%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-08-11 | [Random Thoughts - 20260811](https://www.bboy.app/2026/08/11/random-thoughts-20260811/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-08-11 | [好久不见](https://ameow.xyz/archives/blog-cdn-update) | 最近几个月都感觉没什么内容更新，所以就没有写周刊。 今天翻邮件的时候发现七牛云的 CDN SSL 证书过期了，导致博客的图片其实挂了差不多半个月。于是花了一个早上把数据迁移到腾讯云，成本差不多，证书可以自动化管理，年纪大了就是不爱折腾。迁移过程一路顺利没有踩太多坑，翻了下博客的照片都可以正常访问了，… |
 | 2026-08-11 | [SpotAsk：不是所有的问题，都需要打开 ChatGPT](https://shiquda.link/spotask-not-every-question-needs-chatgpt/) | SpotAsk：不是所有的问题，都需要打开 ChatGPT 我为什么想做 SpotAsk 最近我开始在 macOS 上生活，顺手做了自己的第一款 macOS 桌面应用：SpotAsk。 起因很普通。我打开 ChatGPT，很多时候并不是要处理什么复杂任务。更多时候，只是想弄明白一个概念、翻译一段话、… |
 | 2026-08-11 | [Grafana cluster变量出现Kafka垃圾值的排查与清理](https://199604.com/3641) | Grafana cluster变量出现Kafka垃圾值的排查与清理 记录时间：2026-08-08 环境：RK […] |
 | 2026-08-11 | [清华大学 TUNA 镜像站宣布：正式移除 Anaconda、OpenWrt、Flutter、GitLab EE 软件镜像](https://blog.renfei.net/posts/1626402130325676144) | 清华大学 TUNA 镜像站因存储资源受限，正式移除 Anaconda、OpenWrt、Flutter 和 GitLab EE 软件镜像，原有访问将跳转到教育网联合镜像站或上游。 |
 | 2026-08-11 | [不建群的人](https://www.hecaitou.com/2026/08/The-Non-Group-Person.html) | 最近看到两条读者提问，彼此看起来差别很大，但在我眼里完全是一回事： 1、你为什么不建一个读书群？ 2、在陌生的城市里工作，总感到孤独怎么办？ 那就去参加一个读书群好了---如果我这么回答是不是有点冷血，有点不道德？ 熟悉我的读者都知道，我不大加群，尤其是大群，尤其是学习群、打卡群、社交群。因为这件事… |
+| 2026-08-11 | [Pi 打败了Oh My Pi 🤣 [tw](https://versun.me/blog/tweet-2086992544861507602) | Pi 打败了Oh My Pi 🤣 [tweet-2086814491920974069-7228c7aa.jpg] |
 | 2026-08-11 | [污染源](https://mobius.blog/25346.html) | 我从小得到老师最多的评价，是一句被我视为“褒奖”的话：十处打锣九处都有你。 倒不是我这个人好热闹，而是很多事情 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-11 | [这个有意思，就是安装麻烦了些，建议简化下](https://versun.me/blog/tweet-2086985748298051749) | 这个有意思，就是安装麻烦了些，建议简化下安装方式 [tweet-2086846424051044750-fc837d1a.mp4] |
 | 2026-08-11 | [26年暑假青岛威海自驾游](https://krya.com/post/qingdaoweihai/) | 这次旅行有五个人：我们一家三口；以及媳妇的闺蜜和闺蜜的妈妈。虽然有5个人，但是四个大人加一个小孩儿，让长途旅行不算拥挤；而且路上也多了很多打发时间的无聊话题。 图片拍摄的设备有索尼a7M3（50mm定焦镜头），以及前不久购入了大疆Osmo Pocket 4，或者iPhone直出。 从成都出发，耗时1… |
+| 2026-08-11 | [最近一个月有玩过 Blender MCP](https://versun.me/blog/tweet-2086978334110658688) | 最近一个月有玩过 Blender MCP 的要注意了，有一个供应链投毒事件 CVE-2026-66004，建议尽快排查一下 https://www.kimi.com/share/19fee49f-65a2-84f3-8000-0000d35140db [tweet-20869783341106586… |
 | 2026-08-10 | [你是哪里人？我是地球人。](https://diff.im/blog/2026/08/%E4%BD%A0%E6%98%AF%E5%93%AA%E9%87%8C%E4%BA%BA%E6%88%91%E6%98%AF%E5%9C%B0%E7%90%83%E4%BA%BA/) | 我 23 岁大学毕业后，离开了家乡长沙。后来，我在杭州生活了七年，有了第一个孩子。接着，我在上海生活了九年，第二个孩子出生了。之后，我又在洛杉矶生活了两年，第三个孩子出生了。现在，我已经在达拉斯生活了两年。 很多时候，我们很难回答“你是哪里人？”这个问题，也曾因此感到困惑。 我在上海生活时，本地的上… |
 | 2026-08-10 | [Album#48 - Winter Sweet](https://taxodium.ink/album-48.html) | Album#48 Winter Sweet 图1 《Winter Sweet》專輯封面 专辑信息 专辑名称： Winter Sweet 歌手： 蛋堡 Solf Lipa 年份： 2009-12-31 时长： 50:47 如果音樂也講究時令，夏日炎炎有「 收斂水 」可以消暑，冬夜漫漫也能有一種暖呼呼的… |
 | 2026-08-10 | [入蜀记 day442 “觉得一直都没有好好告别过吧”](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_442/) | 「“觉得一直都没有好好告别过吧”。」 |
@@ -49,7 +55,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-10 | [海风与旧巷：2026盛夏的深港澳行记](https://hellodk.cn/post/1228) | 终于又到了属于我的假期，今年的假期有两个星期，我可要好好安排一下。准备分成两段，第一周去深圳香港澳门，第二周暂时没想好，但是决定了是自驾，皖南很多地方都转过了，所以有几个选项川藏线南太行浙江海岸... |
 | 2026-08-10 | [CSS Strut 与 IFC 简析](https://ssshooter.com/css-strut/) | 遇到莫名留白和多余高度的困扰？本文深入解析 CSS Strut（行内格式化上下文中的隐形文本行）的产生原理，用直观示例讲解 IFC、BFC、FFC、GFC 四种格式化上下文的区别，并给出 font-size:0、display:block、flex/grid 三种根治撑开的修复方案。 |
 | 2026-08-10 | [向云端｜西南自驾09 - 施秉](https://blog.ops-coffee.com/r/2026-southwest-road-trip-09-shibing.html) |  |
+| 2026-08-10 | [我突然有个想法: 现在很多 agent](https://versun.me/blog/tweet-2086778639958577383) | 我突然有个想法: 现在很多 agent 工具在执行脚本时，如果本地没装对应的解释器，比如python或者js或者ruby等，就跑不了，更何况还有不同的版本问题 但这些运行时本身都是现成的，所以有没有可能做一个跨语言的统一运行时分发层，专门为 agent 设计：类似 npm 那样，agent... |
 | 2026-08-10 | [中文正典](https://www.hecaitou.com/2026/08/On-the-Chinese-Canon.html) | 今天早上写了《 读正典 》，其实说的是西方正典。有读者就问我：那中文的正典呢？应该读什么？多危险呐，得亏是我多年精挑细选出来的读者，否则，我多半要面对严厉的质疑：和菜头，你写正典默认就是西方正典，你是不是崇洋媚外？你是不是对传统文化有什么偏见？ 我倒是想对传统文化有偏见，但是以我的水平，写什么都没有… |
+| 2026-08-10 | [做了个简单的 在线手指框特效，挺好玩的](https://versun.me/blog/tweet-2086730775341482364) | 做了个简单的 在线手指框特效，挺好玩的 https://finger-frame.versun.me/ Github：https://github.com/versun/finger-frame [tweet-2086730775341482364-e726cea7.mp4] |
 | 2026-08-10 | [读正典](https://www.hecaitou.com/2026/08/Reading-the-Canon.html) | 连续几天写关于荷马史诗的文章，没多少人看，然后还被朋友误解：你老老实实告诉我，是不是拿《奥德赛》宣传方的钱了？ 老友在我这里有特权，即便问这种问题我也不能拉黑，所以我就觉得很郁闷。我只是单纯觉得可以向读者介绍一下怎么读荷马史诗，怎么读希腊神话系列而已。如果单纯当做是故事来读，那不免可惜了。 可惜在哪… |
 | 2026-08-10 | [上庭（一）](https://www.justzht.com/go-to-court-one/) | 上庭前一天晚上九点多，J 正准备把和保险公司律师沟通的邮件串打印出来。 自从车被撞之后，J 断断续续整理了 |
 | 2026-08-10 | [咖啡经不起过萃](https://kaix.in/2026/0810/) | 在小红书看到一张照片里的咖啡机上用马克笔写了一句话：虚伪的人和咖啡都经不起时间的萃取。 评论区很多人说，文案写得真好，为了文案也要去这间店逛逛。我有些诧异。咖啡像虚伪的人？这样的类比激发出什么样的共鸣？还是说，就像那些莫名其妙的歌词一样，人们就是不管意涵，只在乎由关键字触发的情绪宣泄？虚伪、时间、经… |

@@ -1,5 +1,19 @@
 [
   {
+    "title": "How I Use Hermes",
+    "url": "https://www.bboy.app/2026/08/11/how-i-use-hermes/",
+    "date": "2026-08-11T11:26:00Z",
+    "description": "Introduction I came across the Hermes Agent project around the end of last year and gave it a try. I’ve been using it for over half a year now, and I can’t live without it. Today I’ll talk about how I use it. What Hermes Is, and How I Installed It Simply put, Hermes is a local AI assistant CLI. You chat with it through Telegram, and behind the scenes it calls a large language model, then directly operates your computer — reading files, writing code, checking servers, calling APIs.",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "我是怎么用 Hermes 的",
+    "url": "https://www.bboy.app/2026/08/11/%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E7%94%A8-hermes-%E7%9A%84/",
+    "date": "2026-08-11T11:26:00Z",
+    "description": "简介 大概去年年末看到 Hermes Agent 这个项目，试了下。用了大半年，现在离不开了。今天聊聊我的用法。 Hermes 是什么，我是怎么装的 简单说，Hermes 是一个跑在本地的 AI 助手 CLI。你可以通过 Telegram 跟它聊天，它背后调大模型，然后直接操作你的电脑——读文件、写代码、查服务器、调 API。",
+    "source_root_domain": "bboy.app"
+  },
+  {
     "title": "Whey Protein and Creatine",
     "url": "https://www.bboy.app/2026/08/11/whey-protein-and-creatine/",
     "date": "2026-08-11T11:06:00Z",
@@ -26,6 +40,13 @@
     "date": "2026-08-11T10:40:00Z",
     "description": "Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com/bboysoulcn",
     "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "好久不见",
+    "url": "https://ameow.xyz/archives/blog-cdn-update",
+    "date": "2026-08-11T05:10:46Z",
+    "description": "最近几个月都感觉没什么内容更新，所以就没有写周刊。 今天翻邮件的时候发现七牛云的 CDN SSL 证书过期了，导致博客的图片其实挂了差不多半个月。于是花了一个早上把数据迁移到腾讯云，成本差不多，证书可以自动化管理，年纪大了就是不爱折腾。迁移过程一路顺利没有踩太多坑，翻了下博客的照片都可以正常访问了，这里也试试上传新的照片。 是下班路上拍到的超绝晚霞，骑在一个很开阔的地方其实就看到了，结果拐个弯一分钟不到它就开始消失了，赶紧停下来拍了一张，再过几分钟就完全消失了。夏天雨后的傍晚，有晚霞，骑着车吹着凉爽的风，惬意。 顺便也更新了一下 友链 ，有些朋友已经申请了半年多了，我忘记处理了。大部分朋友都还在更新，真不错。",
+    "source_root_domain": "ameow.xyz"
   },
   {
     "title": "SpotAsk：不是所有的问题，都需要打开 ChatGPT",
@@ -56,6 +77,13 @@
     "source_root_domain": "hecaitou.com"
   },
   {
+    "title": "Pi 打败了Oh My Pi 🤣 [tw",
+    "url": "https://versun.me/blog/tweet-2086992544861507602",
+    "date": "2026-08-11T01:46:11Z",
+    "description": "Pi 打败了Oh My Pi 🤣 [tweet-2086814491920974069-7228c7aa.jpg]",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "污染源",
     "url": "https://mobius.blog/25346.html",
     "date": "2026-08-11T01:30:00Z",
@@ -63,11 +91,25 @@
     "source_root_domain": "onojyun.com"
   },
   {
+    "title": "这个有意思，就是安装麻烦了些，建议简化下",
+    "url": "https://versun.me/blog/tweet-2086985748298051749",
+    "date": "2026-08-11T01:19:11Z",
+    "description": "这个有意思，就是安装麻烦了些，建议简化下安装方式 [tweet-2086846424051044750-fc837d1a.mp4]",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "26年暑假青岛威海自驾游",
     "url": "https://krya.com/post/qingdaoweihai/",
     "date": "2026-08-11T01:00:00Z",
     "description": "这次旅行有五个人：我们一家三口；以及媳妇的闺蜜和闺蜜的妈妈。虽然有5个人，但是四个大人加一个小孩儿，让长途旅行不算拥挤；而且路上也多了很多打发时间的无聊话题。 图片拍摄的设备有索尼a7M3（50mm定焦镜头），以及前不久购入了大疆Osmo Pocket 4，或者iPhone直出。 从成都出发，耗时14天，总行程4902公里，加油1771，充电328，高速过路费2111，通行费总计4210元。因为沿途主要是自然景观，收费游玩项目较少，所以花销主要住宿和美食之上；我们一家三口的总花销大约就在一万左右。 首站西安到了已是晚上，而且大家都来过几次；不过来都来了，还是回顾一下回民街和大唐不夜城。 第二天从西安横穿太行山。我在抖音早就就领略过林州的太行胜景，既然不算绕路，那就顺路找了一个景点游览一番。 开了几个小时到达太行山虹霓村；作为四川人，按理说不怕奇秀险峰；但是当我在太行绝壁下面徒步，看见头顶上巨石悬空，感觉随时都会掉下来把我砸成一滩肉泥，不由得加快步伐；走出来之后大家都觉得腿软；我以为只有我一个人被吓到了。 第二天晚上我们在一个叫着南乐县的小县城里住宿；顺便体验一下当地饮食；这边的维也纳酒",
     "source_root_domain": "krya.com"
+  },
+  {
+    "title": "最近一个月有玩过 Blender MCP",
+    "url": "https://versun.me/blog/tweet-2086978334110658688",
+    "date": "2026-08-11T00:49:43Z",
+    "description": "最近一个月有玩过 Blender MCP 的要注意了，有一个供应链投毒事件 CVE-2026-66004，建议尽快排查一下 https://www.kimi.com/share/19fee49f-65a2-84f3-8000-0000d35140db [tweet-2086978334110658688-6e3f5f88.jpg]",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "你是哪里人？我是地球人。",
@@ -154,11 +196,25 @@
     "source_root_domain": "ops-coffee.cn"
   },
   {
+    "title": "我突然有个想法: 现在很多 agent",
+    "url": "https://versun.me/blog/tweet-2086778639958577383",
+    "date": "2026-08-10T11:36:12Z",
+    "description": "我突然有个想法: 现在很多 agent 工具在执行脚本时，如果本地没装对应的解释器，比如python或者js或者ruby等，就跑不了，更何况还有不同的版本问题 但这些运行时本身都是现成的，所以有没有可能做一个跨语言的统一运行时分发层，专门为 agent 设计：类似 npm 那样，agent...",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "中文正典",
     "url": "https://www.hecaitou.com/2026/08/On-the-Chinese-Canon.html",
     "date": "2026-08-10T09:30:14Z",
     "description": "今天早上写了《 读正典 》，其实说的是西方正典。有读者就问我：那中文的正典呢？应该读什么？多危险呐，得亏是我多年精挑细选出来的读者，否则，我多半要面对严厉的质疑：和菜头，你写正典默认就是西方正典，你是不是崇洋媚外？你是不是对传统文化有什么偏见？ 我倒是想对传统文化有偏见，但是以我的水平，写什么都没有多少人愿意读。所以，这种没有什么人看的文章，我想最好还是集中在一天里写完，免得耽误了一整天的文气，连累子孙没饭吃。 首先，国学派支持的「三坟五典」我没意见，但一定要我推荐的话，臣妾的确做不到，因为我自己就没有读完，而且没读完就成为了作家。我只能作为一名理工科学生，文字横练者，提供一下我的个人见解。 四大名著我认为是要读一下的。你个人审美如何，我不关心，你个人审美让你看不看得上这四本书，我也不关心。我只知道，只要你用中文写作，写出来先给中国人看，那么你就应该熟知四大名著，它们基本上是中国大众最基础的文学训练文本，后世的无数小说也是从这四本书里衍生出来。看得上看不上是一回事，看不看，熟不熟是另外一回事，它是用文字和中国人沟通的基础代码。 不过，我作为理工科学生，在阅读上有一些怪癖。所以，我不会建",
     "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "做了个简单的 在线手指框特效，挺好玩的",
+    "url": "https://versun.me/blog/tweet-2086730775341482364",
+    "date": "2026-08-10T08:26:01Z",
+    "description": "做了个简单的 在线手指框特效，挺好玩的 https://finger-frame.versun.me/ Github：https://github.com/versun/finger-frame [tweet-2086730775341482364-e726cea7.mp4]",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "读正典",
