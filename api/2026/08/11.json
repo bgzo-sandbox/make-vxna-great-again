@@ -28,6 +28,13 @@
     "source_root_domain": "bboy.app"
   },
   {
+    "title": "SpotAsk：不是所有的问题，都需要打开 ChatGPT",
+    "url": "https://shiquda.link/spotask-not-every-question-needs-chatgpt/",
+    "date": "2026-08-11T04:04:10Z",
+    "description": "SpotAsk：不是所有的问题，都需要打开 ChatGPT 我为什么想做 SpotAsk 最近我开始在 macOS 上生活，顺手做了自己的第一款 macOS 桌面应用：SpotAsk。 起因很普通。我打开 ChatGPT，很多时候并不是要处理什么复杂任务。更多时候，只是想弄明白一个概念、翻译一段话、总结一篇长文，或者润色一下刚写好的回复。 但这么点小事，真正做完却要走过一整套流程：停下手里的事、打开浏览器、进入 AI 网站、等回答、再切回来。 一次两次无所谓。次数多了，我越来越觉得别扭——一个几秒钟就能问完的问题，硬是被工具流程拖得很重。 不是所有的问题，都需要打开 ChatGPT。 核心理念：让轻量提问真的轻 SpotAsk 是一个原生 macOS 菜单栏应用，平时就当它不存在。按默认快捷键 Option + Space ，呼出一个专注的提问窗口。输入问题、看回答、需要时复制，再按 Esc 关掉。整个过程不离开手头的工作，关掉之后，就像它没出现过一样。 我想要的不是一个更大的 AI 工作台，而是一条更短的路：从「我有问题」到「我拿到答案、回到原任务」，中间别被打断。 这个理念也决定了",
+    "source_root_domain": "shiquda.link"
+  },
+  {
     "title": "Grafana cluster变量出现Kafka垃圾值的排查与清理",
     "url": "https://199604.com/3641",
     "date": "2026-08-11T03:42:48Z",
@@ -117,6 +124,13 @@
     "date": "2026-08-10T15:30:00Z",
     "description": "2026.8.4 ~ 2026.8.10",
     "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "From iKuai to RouterOS, and Back to Surge VM Gateway",
+    "url": "https://missuo.me/posts/ikuai-to-routeros-back-to-surge/",
+    "date": "2026-08-10T14:00:00Z",
+    "description": "I moved my home router off iKuai and onto RouterOS CHR running inside PVE — partly because iKuai 4.0's UI is a rough UniFi knock-off, and more worryingly because packet captures have shown it quietly phoning home in the background; and partly because I wanted the router itself to be just another VM. This post covers the RouterOS setup (dual-WAN PPPoE with PCC, a caching DNS resolver, free IP Cloud DDNS, port forwarding with hairpin and NAT loopback), the trick that finally solved a long-standing",
+    "source_root_domain": "missuo.me"
   },
   {
     "title": "海风与旧巷：2026盛夏的深港澳行记",

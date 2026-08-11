@@ -31,6 +31,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-11 | [蛋白粉和肌酸](https://www.bboy.app/2026/08/11/%E8%9B%8B%E7%99%BD%E7%B2%89%E5%92%8C%E8%82%8C%E9%85%B8/) | 简介 我 30 岁，运维，天天坐电脑前面。身高就不说了，体重说出来你可能不信：45kg。 对，你没看错，一个成年男人，45kg。瘦了二十多年，从来没进过健身房，全是自己在家练。最近又把这事捡起来了，顺手买了蛋白粉和肌酸。现在用支架一次能做 50 个俯卧撑了，离大佬差得远，但对我来说已经是人生巅峰。写… |
 | 2026-08-11 | [20260811的胡言乱语](https://www.bboy.app/2026/08/11/20260811%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-08-11 | [Random Thoughts - 20260811](https://www.bboy.app/2026/08/11/random-thoughts-20260811/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-08-11 | [SpotAsk：不是所有的问题，都需要打开 ChatGPT](https://shiquda.link/spotask-not-every-question-needs-chatgpt/) | SpotAsk：不是所有的问题，都需要打开 ChatGPT 我为什么想做 SpotAsk 最近我开始在 macOS 上生活，顺手做了自己的第一款 macOS 桌面应用：SpotAsk。 起因很普通。我打开 ChatGPT，很多时候并不是要处理什么复杂任务。更多时候，只是想弄明白一个概念、翻译一段话、… |
 | 2026-08-11 | [Grafana cluster变量出现Kafka垃圾值的排查与清理](https://199604.com/3641) | Grafana cluster变量出现Kafka垃圾值的排查与清理 记录时间：2026-08-08 环境：RK […] |
 | 2026-08-11 | [清华大学 TUNA 镜像站宣布：正式移除 Anaconda、OpenWrt、Flutter、GitLab EE 软件镜像](https://blog.renfei.net/posts/1626402130325676144) | 清华大学 TUNA 镜像站因存储资源受限，正式移除 Anaconda、OpenWrt、Flutter 和 GitLab EE 软件镜像，原有访问将跳转到教育网联合镜像站或上游。 |
 | 2026-08-11 | [不建群的人](https://www.hecaitou.com/2026/08/The-Non-Group-Person.html) | 最近看到两条读者提问，彼此看起来差别很大，但在我眼里完全是一回事： 1、你为什么不建一个读书群？ 2、在陌生的城市里工作，总感到孤独怎么办？ 那就去参加一个读书群好了---如果我这么回答是不是有点冷血，有点不道德？ 熟悉我的读者都知道，我不大加群，尤其是大群，尤其是学习群、打卡群、社交群。因为这件事… |
@@ -44,6 +45,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-10 | [周记 #14 - 一万天](https://www.taober.blog/posts/weekly-14-20260810) | 2026-08-03 至 2026-08-09 标题用于纪念已经活了一万天的自己。 生活 其实我的代谢能力还算比较强，在不进行任何运动、正常吃喝的情况下，早上体重通常能比睡前轻 0.5 - 0.8kg。 奈何我饭量一直很大，又热爱碳水和油腻的菜，还无辣不欢。所有从今年元旦重新上 70kg 开始，体重… |
 | 2026-08-10 | [MURS：少见的 VHF 对讲机](https://blog.mfwt.top/index.php/archives/1519/) | 前两天忽然感冒发烧，整个人一直都昏昏沉沉的，甚至连晚上也没什么精力去做事情，只能早早睡觉，博客自然是没有太多更新了。想着接下来因游戏更新，博客（包括小说页）会短暂停更一段时间，干脆先写点东西填补... |
 | 2026-08-10 | [R#114 好热的一天](https://blog.sakanano.moe/journals/random_114) | 2026.8.4 ~ 2026.8.10 |
+| 2026-08-10 | [From iKuai to RouterOS, and Back to Surge VM Gateway](https://missuo.me/posts/ikuai-to-routeros-back-to-surge/) | I moved my home router off iKuai and onto RouterOS CHR running inside PVE — partly because iKuai 4.0's UI is a rough UniFi knock-off, and more worryin… |
 | 2026-08-10 | [海风与旧巷：2026盛夏的深港澳行记](https://hellodk.cn/post/1228) | 终于又到了属于我的假期，今年的假期有两个星期，我可要好好安排一下。准备分成两段，第一周去深圳香港澳门，第二周暂时没想好，但是决定了是自驾，皖南很多地方都转过了，所以有几个选项川藏线南太行浙江海岸... |
 | 2026-08-10 | [CSS Strut 与 IFC 简析](https://ssshooter.com/css-strut/) | 遇到莫名留白和多余高度的困扰？本文深入解析 CSS Strut（行内格式化上下文中的隐形文本行）的产生原理，用直观示例讲解 IFC、BFC、FFC、GFC 四种格式化上下文的区别，并给出 font-size:0、display:block、flex/grid 三种根治撑开的修复方案。 |
 | 2026-08-10 | [向云端｜西南自驾09 - 施秉](https://blog.ops-coffee.com/r/2026-southwest-road-trip-09-shibing.html) |  |
