@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-11 | [污染源](https://mobius.blog/25346.html) | 我从小得到老师最多的评价，是一句被我视为“褒奖”的话：十处打锣九处都有你。 倒不是我这个人好热闹，而是很多事情 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-11 | [26年暑假青岛威海自驾游](https://krya.com/post/qingdaoweihai/) | 这次出门也是一趟奇怪的组合：我们一家三口；以及媳妇的闺蜜和闺蜜的妈妈。虽然有5个人，但是四个大人加一个小孩儿，让长途旅行不算拥挤；而且路上也多了很多打发时间的无聊话题。 图片拍摄的设备有索尼a7M3（50mm定焦镜头），以及前不久购入了大疆Osmo Pocket 4，或者iPhone直出。 从成都出… |
 | 2026-08-10 | [你是哪里人？我是地球人。](https://diff.im/blog/2026/08/%E4%BD%A0%E6%98%AF%E5%93%AA%E9%87%8C%E4%BA%BA%E6%88%91%E6%98%AF%E5%9C%B0%E7%90%83%E4%BA%BA/) | 我 23 岁大学毕业后，离开了家乡长沙。后来，我在杭州生活了七年，有了第一个孩子。接着，我在上海生活了九年，第二个孩子出生了。之后，我又在洛杉矶生活了两年，第三个孩子出生了。现在，我已经在达拉斯生活了两年。 很多时候，我们很难回答“你是哪里人？”这个问题，也曾因此感到困惑。 我在上海生活时，本地的上… |
 | 2026-08-10 | [Album#48 - Winter Sweet](https://taxodium.ink/album-48.html) | Album#48 Winter Sweet 图1 《Winter Sweet》專輯封面 专辑信息 专辑名称： Winter Sweet 歌手： 蛋堡 Solf Lipa 年份： 2009-12-31 时长： 50:47 如果音樂也講究時令，夏日炎炎有「 收斂水 」可以消暑，冬夜漫漫也能有一種暖呼呼的… |
 | 2026-08-10 | [入蜀记 day442 “觉得一直都没有好好告别过吧”](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_442/) | 「“觉得一直都没有好好告别过吧”。」 |
@@ -38,7 +40,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-10 | [海风与旧巷：2026盛夏的深港澳行记](https://hellodk.cn/post/1228) | 终于又到了属于我的假期，今年的假期有两个星期，我可要好好安排一下。准备分成两段，第一周去深圳香港澳门，第二周暂时没想好，但是决定了是自驾，皖南很多地方都转过了，所以有几个选项川藏线南太行浙江海岸... |
 | 2026-08-10 | [CSS Strut 与 IFC 简析](https://ssshooter.com/css-strut/) | 遇到莫名留白和多余高度的困扰？本文深入解析 CSS Strut（行内格式化上下文中的隐形文本行）的产生原理，用直观示例讲解 IFC、BFC、FFC、GFC 四种格式化上下文的区别，并给出 font-size:0、display:block、flex/grid 三种根治撑开的修复方案。 |
 | 2026-08-10 | [向云端｜西南自驾09 - 施秉](https://blog.ops-coffee.com/r/2026-southwest-road-trip-09-shibing.html) |  |
-| 2026-08-10 | [](https://www.hecaitou.com/2026/08/On-the-Chinese-Canon.html) | 今天早上写了《 读正典 》，其实说的是西方正典。有读者就问我：那中文的正典呢？应该读什么？多危险呐，得亏是我多年精挑细选出来的读者，否则，我多半要面对严厉的质疑：和菜头，你写正典默认就是西方正典，你是不是崇洋媚外？你是不是对传统文化有什么偏见？ 我倒是想对传统文化有偏见，但是以我的水平，写什么都没有… |
+| 2026-08-10 | [中文正典](https://www.hecaitou.com/2026/08/On-the-Chinese-Canon.html) | 今天早上写了《 读正典 》，其实说的是西方正典。有读者就问我：那中文的正典呢？应该读什么？多危险呐，得亏是我多年精挑细选出来的读者，否则，我多半要面对严厉的质疑：和菜头，你写正典默认就是西方正典，你是不是崇洋媚外？你是不是对传统文化有什么偏见？ 我倒是想对传统文化有偏见，但是以我的水平，写什么都没有… |
 | 2026-08-10 | [读正典](https://www.hecaitou.com/2026/08/Reading-the-Canon.html) | 连续几天写关于荷马史诗的文章，没多少人看，然后还被朋友误解：你老老实实告诉我，是不是拿《奥德赛》宣传方的钱了？ 老友在我这里有特权，即便问这种问题我也不能拉黑，所以我就觉得很郁闷。我只是单纯觉得可以向读者介绍一下怎么读荷马史诗，怎么读希腊神话系列而已。如果单纯当做是故事来读，那不免可惜了。 可惜在哪… |
 | 2026-08-10 | [上庭（一）](https://www.justzht.com/go-to-court-one/) | 上庭前一天晚上九点多，J 正准备把和保险公司律师沟通的邮件串打印出来。 自从车被撞之后，J 断断续续整理了 |
 | 2026-08-10 | [咖啡经不起过萃](https://kaix.in/2026/0810/) | 在小红书看到一张照片里的咖啡机上用马克笔写了一句话：虚伪的人和咖啡都经不起时间的萃取。 评论区很多人说，文案写得真好，为了文案也要去这间店逛逛。我有些诧异。咖啡像虚伪的人？这样的类比激发出什么样的共鸣？还是说，就像那些莫名其妙的歌词一样，人们就是不管意涵，只在乎由关键字触发的情绪宣泄？虚伪、时间、经… |
@@ -160,30 +162,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-04 | [知了 II](https://mobius.blog/25277.html) | （2026·全国卷）昆虫恐惧症，是一种特定的动物恐惧症，其特征是对一种或多种昆虫过度或不切实际的恐惧（厌恶）。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-04 | [WAF加白放行渗透流量引发nginx到ingress异常连接的排查](https://199604.com/3623) | WAF加白放行渗透流量引发nginx到ingress异常连接的排查 记录时间：2026-07-31 环境：外层 […] |
 | 2026-08-04 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.4 of the project |
-| 2026-08-03 | [让国行 iPhone 拥有 eSIM 能力](https://lomus.cc/archives/811) | 作为一个赛博数字游民，一张海外手机卡是必不可少的，但相信很多人也看到消息了，前几天英国运营商 Giffgaff […] 让国行 iPhone 拥有 eSIM 能力 最先出现在 Lumos's Blog 。 |
-| 2026-08-03 | [Zine#56 - 數位園藝](https://taxodium.ink/56.html) | Zine#56 數位園藝 🎵 Boléro - Herbert von Karajan / Berliner Philharmoniker Boléro 是法國作曲家 Joseph Maurice Ravel 於 1928 年創作的大型管弦樂作品。 整首曲子小鼓以固定的節拍，從頭到尾反覆演奏，如同心… |
-| 2026-08-03 | [别再拿聊天记录拼一个数字人：镜像星河，才是那个真正懂你的自己](https://www.kingname.info/2026/08/03/jingxiang-xinghe-shuzi-ren/) | 凌晨两点，你很想找个人说话。 通讯录里不是没人。只是你知道，真正开口以后，大概率还要从头解释：事情为什么会走到这里，你究竟在怕什么，那个别人眼里明明很好的选择，为什么偏偏让你如此抗拒。 解释到一半，你已经累了。 人最深的孤独，往往不是身边没有人，而是 没有人能跳过漫长的背景介绍，直接抵达你的那一句「… |
-| 2026-08-03 | [NAS 风扇狂转，查出 Thanos Compactor 把 bucket 撑到了 241G](https://blog.tomyail.com/nas-fan-thanos-compactor-halted/) | 一次从 NAS 风扇狂转开始的排障：顺着磁盘 I/O 追到 Thanos Compactor，发现它静默停摆已久、bucket 膨胀到 241G。定位积压、扩容 PVC、用 thanos tools bucket retention 把过期数据一刀清到 18G。根因是 PVC 太小、halt 后不会… |
-| 2026-08-03 | [新安江桨板游玩](http://www.uncoverman.com/xinan-river-tour.html) | 周 末遛娃，去了一趟建德，在新安江上划了桨板，参观了新安江水电站和农夫山泉工厂，吃到了特色美食豆腐包、水晶糕，顺路经过桐庐服务区看水族馆和美人鱼。 周六早上出发，周日晚上到家，两天一夜，全程自驾，行程不赶，满足归来，唯一遗憾是没有看到白沙奇雾。 # 划桨板 建德的第一站是新安夏日绿道冬泳基地，这里离… |
-| 2026-08-03 | [“畜牲”](https://blog.est.im/2026/stderr-27) | 最近观察到娃学会了一些脱口而出的骂人的话，他骑车遇到看不惯的现象，就会骂一句 “牲口” ！ 我也没太多去干预，毕竟比 “肏” 这类秽语要委婉那么一丢丢。 然后我最近也喜欢一边开 Vibe Coding 一边挂机 Rimworld 种田， 然后就发现一个事儿，我在牧场区域种的 恶蘑菇，一种非食用植物，… |
-| 2026-08-03 | [别急着说自己做不了](https://blog.solazy.me/20260803/) | 不知道写点什么，索性就把今天晚上的一个事实案例写成文章 |
-| 2026-08-03 | [并不抗拒表达](https://z.arlmy.me/posts/ZArlmyMe/Acting_20260803/) | 「并不抗拒表达。」 |
-| 2026-08-03 | [R#113 例行投资复盘](https://blog.sakanano.moe/journals/random_113) | 2026.7.28 ~ 2026.8.3 |
-| 2026-08-03 | [Coldcard 冷钱包漏洞：约 1367 枚 BTC 被盗](https://blog.renfei.net/posts/1626402130325676142) | Coldcard 部分固件错误地使用了可预测的软件伪随机数生成种子，导致私钥可能被离线穷举。 |
-| 2026-08-03 | [AI 大模型的收割机：跑得慢的一个都别想逃](https://wenfeixiang.com/2026/08/deepseek-pk-all-ai-llm/) | 现在的 AI 大模型赛跑太卷了：GLM、Qwen、Minimax 在奋力用腿跑，GPT骑自行车，Claude […] |
-| 2026-08-03 | [拜托你们给软件取名字的时候有创意点好吗，](https://versun.me/blog/tweet-2084216462768824602) | 拜托你们给软件取名字的时候有创意点好吗，我现在看到 open 就想绕着走，根本没有用的欲望🤣 |
-| 2026-08-03 | [难为你了🤣 应该试了好久才找到这个测试用](https://versun.me/blog/tweet-2084214645804486884) | 难为你了🤣 应该试了好久才找到这个测试用例吧🤣 [tweet-2084131963259310329-90c24973.mp4] |
-| 2026-08-03 | [2026.8.3](https://www.justzht.com/2026-8-3/) | 八月了，距离夏天的顶端也没多久了。此时我应该在国内，在日本，或者在某个没有名字的东亚城市里，看着潮涨 |
-| 2026-08-03 | [Kimi 目前套餐只有顶配才能爽用，看着](https://versun.me/blog/tweet-2084168541323022583) | Kimi 目前套餐只有顶配才能爽用，看着群里各个都在喊429，而我开着两个 K3 Max 1M Swarm 在那狂蹬，从早蹬到现在。。。。 对不住了兄弟们，资源我抢了😋 [tweet-2084168541323022583-e147f693.jpg][tweet-208416854132302258… |
-| 2026-08-03 | [问AI的问题备份 20260803](https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260803/) | 「时间戳。」 |
-| 2026-08-03 | [拍照往事](https://www.hecaitou.com/2026/08/Photographic-Memories.html) | 昨天聊到 CCD 相机在新生代那里重又走红，有读者贴出来自己的几台旧佳能相机，一下子把我带回了遥远的 2004 年。 2004 年我在丽江外驻，没有归期，任务是照顾好三义机场的两架驻场波音 737 飞机，然后每天监控运行情况，最后是照顾飞行机组在丽江当地过夜期间的一切吃喝拉撒。其中有一年时间，我住在… |
-| 2026-08-03 | [这怎么打嘛，一出生就被斩杀夭折了😂 Qw](https://versun.me/blog/tweet-2084119749295013904) | 这怎么打嘛，一出生就被斩杀夭折了😂 Qwen 3.8 Max Input: $2.0 / M tokens Output: $6.0 / M tokens Implicit Caching: $0.25 / M tokens DS v4 flash Input: $0.14 / M tokens O… |
-| 2026-08-03 | [TIL：有用 Kimi 的注意了， Ki](https://versun.me/blog/tweet-2084119437922501002) | TIL：有用 Kimi 的注意了， Kimi Code CLI不受5小时的限制，直接用的周额度噢，亲测有效 [tweet-2084119437922501002-d14b5d04.jpg] |
-| 2026-08-03 | [流动性时代与未来休克](https://mobius.blog/25271.html) | 我爸从他为之工作了大半辈子的厂退休后，还是被技术返聘了一段时间。我总是开玩笑说，他一旦闲下来就差不多得个心理疾 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-03 | [Ubuntu 24.04 系统启动故障修复记录](https://199604.com/3620) | Ubuntu 24.04 系统启动故障修复记录 记录时间：2026-07-31 环境：Ubuntu 24.04 […] |
-| 2026-08-03 | [周记 #13 - 好小子](https://www.taober.blog/posts/weekly-13-20260803) | 2026-07-27 至 2026-08-02 台风过后，深圳又接连下了几天雨，实在很难让人快乐起来。 白天工作上的忙碌，接着晚上的运动，加上下雨天周末的浑浑噩噩，一周又过去了。 标题是我今天刚改的无畏契约 ID，没什么特别的含义，单纯地觉得「好小子」很有感觉（表达了博主对自己的肯定以及对未来的美好… |
-| 2026-08-03 | [2026年的比特币有了新的逻辑？](https://prologue.dev/blog/is-there-a-new-logic-behind-bitcoin-in-2026) | 本文回顾比特币和黄金的基本属性，并从比特币的矿工关机币价、减半周期、美元流动性传导、Strategy风险等方面解构比特币的定价逻辑。作者认为是共识资产因新的叙事、共识、投机与交易创造的新的集体价值。 |
-| 2026-08-03 | [我是怎么用 WezTerm + Herdr 放一群 agent 的](https://mario.lol/posts/wezterm-herdr/) | 同时跑四五个 coding agent 之后，最稀缺的不是算力，是注意力。聊聊我从 tmux 换到 Herdr 之后踩的坑和沉淀下来的用法。 |
 
 ## Vibe Coding
 
