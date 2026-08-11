@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-11 | [梭罗碥石刻：不知缘由裂成两半](https://macin.org/2026/08/11/suo-luo-bian/) | 阅读全文 → 这周去了一趟（弗罗里）达州渠县。 |
+| 2026-08-11 | [批量修改主机名后 Java 应用抛 UnknownHostException 的排查与处置](https://199604.com/3643) | 批量修改主机名后 Java 应用抛 UnknownHostException 的排查与处置 记录时间：2026 […] |
 | 2026-08-11 | [How I Use Hermes](https://www.bboy.app/2026/08/11/how-i-use-hermes/) | Introduction I came across the Hermes Agent project around the end of last year and gave it a try. I’ve been using it for over half a year now, and I… |
 | 2026-08-11 | [我是怎么用 Hermes 的](https://www.bboy.app/2026/08/11/%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E7%94%A8-hermes-%E7%9A%84/) | 简介 大概去年年末看到 Hermes Agent 这个项目，试了下。用了大半年，现在离不开了。今天聊聊我的用法。 Hermes 是什么，我是怎么装的 简单说，Hermes 是一个跑在本地的 AI 助手 CLI。你可以通过 Telegram 跟它聊天，它背后调大模型，然后直接操作你的电脑——读文件、写… |
 | 2026-08-11 | [Whey Protein and Creatine](https://www.bboy.app/2026/08/11/whey-protein-and-creatine/) | Introduction I’m 30, an ops engineer, sitting in front of a computer all day. I won’t talk about my height, but my weight — you probably won’t believe… |
@@ -42,7 +44,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-11 | [Pi 打败了Oh My Pi 🤣 [tw](https://versun.me/blog/tweet-2086992544861507602) | Pi 打败了Oh My Pi 🤣 [tweet-2086814491920974069-7228c7aa.jpg] |
 | 2026-08-11 | [污染源](https://mobius.blog/25346.html) | 我从小得到老师最多的评价，是一句被我视为“褒奖”的话：十处打锣九处都有你。 倒不是我这个人好热闹，而是很多事情 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-11 | [这个有意思，就是安装麻烦了些，建议简化下](https://versun.me/blog/tweet-2086985748298051749) | 这个有意思，就是安装麻烦了些，建议简化下安装方式 [tweet-2086846424051044750-fc837d1a.mp4] |
-| 2026-08-11 | [26年暑假青岛威海自驾游](https://krya.com/post/qingdaoweihai/) | 这次旅行有五个人：我们一家三口；以及媳妇的闺蜜和闺蜜的妈妈。虽然有5个人，但是四个大人加一个小孩儿，让长途旅行不算拥挤；而且路上也多了很多打发时间的无聊话题。 图片拍摄的设备有索尼a7M3（50mm定焦镜头），以及前不久购入了大疆Osmo Pocket 4，或者iPhone直出。 从成都出发，耗时1… |
+| 2026-08-11 | [26年暑假青岛威海自驾游](https://krya.com/post/qingdaoweihai/) | 这次一共五个人：我们一家三口，加上媳妇的闺蜜和她妈妈。四个大人带一个小孩，长途开车其实并不拥挤，路上反而多了不少聊天的话题。 图片拍摄的设备有索尼a7M3（50mm定焦镜头），以及前不久购入了大疆Osmo Pocket 4，或者iPhone直出。 从成都出发，耗时14天，总行程4902公里，加油17… |
 | 2026-08-11 | [最近一个月有玩过 Blender MCP](https://versun.me/blog/tweet-2086978334110658688) | 最近一个月有玩过 Blender MCP 的要注意了，有一个供应链投毒事件 CVE-2026-66004，建议尽快排查一下 https://www.kimi.com/share/19fee49f-65a2-84f3-8000-0000d35140db [tweet-20869783341106586… |
 | 2026-08-10 | [你是哪里人？我是地球人。](https://diff.im/blog/2026/08/%E4%BD%A0%E6%98%AF%E5%93%AA%E9%87%8C%E4%BA%BA%E6%88%91%E6%98%AF%E5%9C%B0%E7%90%83%E4%BA%BA/) | 我 23 岁大学毕业后，离开了家乡长沙。后来，我在杭州生活了七年，有了第一个孩子。接着，我在上海生活了九年，第二个孩子出生了。之后，我又在洛杉矶生活了两年，第三个孩子出生了。现在，我已经在达拉斯生活了两年。 很多时候，我们很难回答“你是哪里人？”这个问题，也曾因此感到困惑。 我在上海生活时，本地的上… |
 | 2026-08-10 | [Album#48 - Winter Sweet](https://taxodium.ink/album-48.html) | Album#48 Winter Sweet 图1 《Winter Sweet》專輯封面 专辑信息 专辑名称： Winter Sweet 歌手： 蛋堡 Solf Lipa 年份： 2009-12-31 时长： 50:47 如果音樂也講究時令，夏日炎炎有「 收斂水 」可以消暑，冬夜漫漫也能有一種暖呼呼的… |
