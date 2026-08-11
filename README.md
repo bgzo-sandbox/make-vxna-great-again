@@ -27,8 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-11 | [Whey Protein and Creatine](https://www.bboy.app/2026/08/11/whey-protein-and-creatine/) | Introduction I’m 30, an ops engineer, sitting in front of a computer all day. I won’t talk about my height, but my weight — you probably won’t believe… |
+| 2026-08-11 | [蛋白粉和肌酸](https://www.bboy.app/2026/08/11/%E8%9B%8B%E7%99%BD%E7%B2%89%E5%92%8C%E8%82%8C%E9%85%B8/) | 简介 我 30 岁，运维，天天坐电脑前面。身高就不说了，体重说出来你可能不信：45kg。 对，你没看错，一个成年男人，45kg。瘦了二十多年，从来没进过健身房，全是自己在家练。最近又把这事捡起来了，顺手买了蛋白粉和肌酸。现在用支架一次能做 50 个俯卧撑了，离大佬差得远，但对我来说已经是人生巅峰。写… |
+| 2026-08-11 | [20260811的胡言乱语](https://www.bboy.app/2026/08/11/20260811%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
+| 2026-08-11 | [Random Thoughts - 20260811](https://www.bboy.app/2026/08/11/random-thoughts-20260811/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-08-11 | [Grafana cluster变量出现Kafka垃圾值的排查与清理](https://199604.com/3641) | Grafana cluster变量出现Kafka垃圾值的排查与清理 记录时间：2026-08-08 环境：RK […] |
+| 2026-08-11 | [清华大学 TUNA 镜像站宣布：正式移除 Anaconda、OpenWrt、Flutter、GitLab EE 软件镜像](https://blog.renfei.net/posts/1626402130325676144) | 清华大学 TUNA 镜像站因存储资源受限，正式移除 Anaconda、OpenWrt、Flutter 和 GitLab EE 软件镜像，原有访问将跳转到教育网联合镜像站或上游。 |
+| 2026-08-11 | [不建群的人](https://www.hecaitou.com/2026/08/The-Non-Group-Person.html) | 最近看到两条读者提问，彼此看起来差别很大，但在我眼里完全是一回事： 1、你为什么不建一个读书群？ 2、在陌生的城市里工作，总感到孤独怎么办？ 那就去参加一个读书群好了---如果我这么回答是不是有点冷血，有点不道德？ 熟悉我的读者都知道，我不大加群，尤其是大群，尤其是学习群、打卡群、社交群。因为这件事… |
 | 2026-08-11 | [污染源](https://mobius.blog/25346.html) | 我从小得到老师最多的评价，是一句被我视为“褒奖”的话：十处打锣九处都有你。 倒不是我这个人好热闹，而是很多事情 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-11 | [26年暑假青岛威海自驾游](https://krya.com/post/qingdaoweihai/) | 这次出门也是一趟奇怪的组合：我们一家三口；以及媳妇的闺蜜和闺蜜的妈妈。虽然有5个人，但是四个大人加一个小孩儿，让长途旅行不算拥挤；而且路上也多了很多打发时间的无聊话题。 图片拍摄的设备有索尼a7M3（50mm定焦镜头），以及前不久购入了大疆Osmo Pocket 4，或者iPhone直出。 从成都出… |
+| 2026-08-11 | [26年暑假青岛威海自驾游](https://krya.com/post/qingdaoweihai/) | 这次旅行有五个人：我们一家三口；以及媳妇的闺蜜和闺蜜的妈妈。虽然有5个人，但是四个大人加一个小孩儿，让长途旅行不算拥挤；而且路上也多了很多打发时间的无聊话题。 图片拍摄的设备有索尼a7M3（50mm定焦镜头），以及前不久购入了大疆Osmo Pocket 4，或者iPhone直出。 从成都出发，耗时1… |
 | 2026-08-10 | [你是哪里人？我是地球人。](https://diff.im/blog/2026/08/%E4%BD%A0%E6%98%AF%E5%93%AA%E9%87%8C%E4%BA%BA%E6%88%91%E6%98%AF%E5%9C%B0%E7%90%83%E4%BA%BA/) | 我 23 岁大学毕业后，离开了家乡长沙。后来，我在杭州生活了七年，有了第一个孩子。接着，我在上海生活了九年，第二个孩子出生了。之后，我又在洛杉矶生活了两年，第三个孩子出生了。现在，我已经在达拉斯生活了两年。 很多时候，我们很难回答“你是哪里人？”这个问题，也曾因此感到困惑。 我在上海生活时，本地的上… |
 | 2026-08-10 | [Album#48 - Winter Sweet](https://taxodium.ink/album-48.html) | Album#48 Winter Sweet 图1 《Winter Sweet》專輯封面 专辑信息 专辑名称： Winter Sweet 歌手： 蛋堡 Solf Lipa 年份： 2009-12-31 时长： 50:47 如果音樂也講究時令，夏日炎炎有「 收斂水 」可以消暑，冬夜漫漫也能有一種暖呼呼的… |
 | 2026-08-10 | [入蜀记 day442 “觉得一直都没有好好告别过吧”](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_442/) | 「“觉得一直都没有好好告别过吧”。」 |
