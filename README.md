@@ -29,6 +29,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | --- | --- | --- |
 | 2026-08-11 | [修复 h5player 脚本在巴哈姆特持续注入 CSS](https://blog.bgzo.cc/20260811-fix-h5player-bahamut-fix-width.html) | 很喜欢 h5player 的截图功能，喜欢到了刚需的程度！它强大到自己可以让网页上的一切视频都能截图，甚至做到下载。虽然它如今已经适配 37+ 网站，但它还是不对付我常用的两个看番网站： 1. https//ani.gamer.com.tw/ 2. https//anime1.me 这个问题我 22… |
 | 2026-08-11 | [梭罗碥石刻：不知缘由裂成两半](https://macin.org/2026/08/11/suo-luo-bian/) | 阅读全文 → 这周去了一趟（弗罗里）达州渠县。 |
+| 2026-08-11 | [DIVING INTO HK](https://re.karlbaey.top/articles/rocky-road/diving-into-hk/) | 多用了点 emoji 表达情绪。🤪图片比较多，记得连着 Wi-Fi 看。快说谢谢流量侠。 距离上一回去 HK，已经有十个 … |
 | 2026-08-11 | [简化与收敛](https://z.arlmy.me/posts/ZArlmyMe/Decrease_20260811/) | 「简化与收敛。」 |
 | 2026-08-11 | [批量修改主机名后 Java 应用抛 UnknownHostException 的排查与处置](https://199604.com/3643) | 批量修改主机名后 Java 应用抛 UnknownHostException 的排查与处置 记录时间：2026 […] |
 | 2026-08-11 | [互联网来到我身边以前](https://www.tortorse.com/archives/internet-before-it-came-to-me/) | 九十年代的电脑、游戏机和游戏杂志 |
