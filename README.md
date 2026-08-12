@@ -27,11 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-12 | [Sequoia Capital合伙人分享：应该追逐热点？还是忽略？](https://wenfeixiang.com/2026/08/what-the-internet-hyped-vs-what-got-built-from-hacker-news/) | 追逐热点？还是忽略它？这一直是创投圈争执的问题。有人喜欢追风口、顺势而为；有人喜欢挖掘水下、坐冷板凳。如果我们 […] |
+| 2026-08-12 | [更换驾驶证](https://www.hecaitou.com/2026/08/renewing-my-drivers-license.html) | 我有一本驾驶证，最近快要到期，需要更换，这件事让我头大。 只要一想到服务窗口，想到排队领号，想到备齐文件之类的事情，我就头皮发麻。多年来，我总是想尽一切办法躲避这样的场合，能委托就委托，能代办就代办。坦白说，我不喜欢手续，也不喜欢流程，更不喜欢审批。这些东西在我眼里比大山还要高，接触一下比迷宫还复杂… |
+| 2026-08-12 | [社会规则与稻草人](https://ceynri.cn/blog/socialization/) | 立在田里的稻草人，不是为了抓住麻雀，而只是为了让麻雀相信那里有人。 |
 | 2026-08-12 | [现在几点？](https://mobius.blog/25356.html) | 遛狗的时候，一个玩滑板车的小男孩突然问我：叔叔现在几点？ 我看了看手机，回答了他。他似乎有些不太确信此刻的时间 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-11 | [修复 h5player 脚本在巴哈姆特持续注入 CSS](https://blog.bgzo.cc/20260811-fix-h5player-bahamut-fix-width.html) | 很喜欢 h5player 的截图功能，喜欢到了刚需的程度！它强大到自己可以让网页上的一切视频都能截图，甚至做到下载。虽然它如今已经适配 37+ 网站，但它还是不对付我常用的两个看番网站： 1. https//ani.gamer.com.tw/ 2. https//anime1.me 这个问题我 22… |
 | 2026-08-11 | [梭罗碥石刻：不知缘由裂成两半](https://macin.org/2026/08/11/suo-luo-bian/) | 阅读全文 → 这周去了一趟（弗罗里）达州渠县。 |
 | 2026-08-11 | [DIVING INTO HK](https://re.karlbaey.top/articles/rocky-road/diving-into-hk/) | 多用了点 emoji 表达情绪。🤪图片比较多，记得连着 Wi-Fi 看。快说谢谢流量侠。 距离上一回去 HK，已经有十个 … |
 | 2026-08-11 | [简化与收敛](https://z.arlmy.me/posts/ZArlmyMe/Decrease_20260811/) | 「简化与收敛。」 |
+| 2026-08-11 | [《让她降落》](https://blog.solazy.me/20260811/) | 今天聊聊音乐 |
 | 2026-08-11 | [批量修改主机名后 Java 应用抛 UnknownHostException 的排查与处置](https://199604.com/3643) | 批量修改主机名后 Java 应用抛 UnknownHostException 的排查与处置 记录时间：2026 […] |
 | 2026-08-11 | [互联网来到我身边以前](https://www.tortorse.com/archives/internet-before-it-came-to-me/) | 九十年代的电脑、游戏机和游戏杂志 |
 | 2026-08-11 | [How I Use Hermes](https://www.bboy.app/2026/08/11/how-i-use-hermes/) | Introduction I came across the Hermes Agent project around the end of last year and gave it a try. I’ve been using it for over half a year now, and I… |
