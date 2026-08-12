@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-12 | [现在几点？](https://mobius.blog/25356.html) | 遛狗的时候，一个玩滑板车的小男孩突然问我：叔叔现在几点？ 我看了看手机，回答了他。他似乎有些不太确信此刻的时间 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-11 | [修复 h5player 脚本在巴哈姆特持续注入 CSS](https://blog.bgzo.cc/20260811-fix-h5player-bahamut-fix-width.html) | 很喜欢 h5player 的截图功能，喜欢到了刚需的程度！它强大到自己可以让网页上的一切视频都能截图，甚至做到下载。虽然它如今已经适配 37+ 网站，但它还是不对付我常用的两个看番网站： 1. https//ani.gamer.com.tw/ 2. https//anime1.me 这个问题我 22… |
 | 2026-08-11 | [梭罗碥石刻：不知缘由裂成两半](https://macin.org/2026/08/11/suo-luo-bian/) | 阅读全文 → 这周去了一趟（弗罗里）达州渠县。 |
 | 2026-08-11 | [DIVING INTO HK](https://re.karlbaey.top/articles/rocky-road/diving-into-hk/) | 多用了点 emoji 表达情绪。🤪图片比较多，记得连着 Wi-Fi 看。快说谢谢流量侠。 距离上一回去 HK，已经有十个 … |
@@ -173,20 +174,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-05 | [恶人做在前](https://www.hecaitou.com/2026/08/the-case-for-playing-the-villain-first.html) | 看网上讨论「边界感」的话题， 我感觉普遍都很温馨感人。至于说有没有用，听完能在多大程度上守住自己的边界，那就是两说了。 我想，边界感最大的敌人有三个，分别是：亲密关系，内心希求和个人崇拜。关系太亲密，越界迟早会出现，很多人认为这才是真正亲密的体现，古人说过：近之则不逊。 内心希求的意思是说，在对方身… |
 | 2026-08-05 | [找到那件值得“浪费一生”的事情](https://mobius.blog/25290.html) | 流动的时代性，看上去让人们获得了更多的身份自由，但也同样让原本应该固定在某一锚点的归属感与意义，能够被轻易改变 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-05 | [Jenkins Vue 流水线 pnpm install 报 ERR_PNPM_OUTDATED_LOCKFILE 排查](https://199604.com/3626) | Jenkins Vue 流水线 pnpm install 报 ERRPNPMOUTDATED_LOCKFI […] |
-| 2026-08-04 | [Debian Linux 网络快速配置工具](https://songxwn.com/Debian-network-tui/) | 这篇教程将详细说明如何在裸金属服务器初始化时，通过 ISO 挂载并使用 Debian-network-tui 图形化快速完成网络配置，避免手工编辑 /etc/network/interfaces 的繁琐与错误。 还能自动化配置apt源、DNS、SSH服务+公钥导入 适用于Debian 11-13 使… |
-| 2026-08-04 | [在 K8s 里搭建 WireGuard VPN 并访问集群网络](https://www.bboy.app/2026/08/04/%E5%9C%A8-k8s-%E9%87%8C%E6%90%AD%E5%BB%BA-wireguard-vpn-%E5%B9%B6%E8%AE%BF%E9%97%AE%E9%9B%86%E7%BE%A4%E7%BD%91%E7%BB%9C/) | 简介 公司的 K8s 集群都在内网，在家想连上去看个 Pod 状态、查个日志，要么开跳板机要么搞 VPN。之前一直用 NPS 做端口转发凑合用，但每个服务都要单独配一条隧道，端口多了管理起来很累。 干脆在 K8s 里搭个 WireGuard，连上 VPN 就能直接访问集群网络，跟在内网一样。 |
-| 2026-08-04 | [轻糖的 KMP 渐进式迁移实践（三）：KMPObservableViewModel 直连，iOS 本地 ViewModel 全量退休](https://youngxhui.top/2026/08/sugarlite-kmp-migration-3/) | 第二篇文章 的结尾，我们给出的方案是"KMP ViewModel + SKIE + 一个 50 行的 StateHolder"，当时我们说：这个成本很低，一个 ViewModel 的桥接通常不到 50 行。 这句话后来被我们收回了。 成本确实低，但它是一笔 数量税 ——23 个 ViewModel… |
-| 2026-08-04 | [无用命途：博客深潜者](https://blog.mfwt.top/index.php/archives/1481/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。 |
-| 2026-08-04 | [又是一年，祝自己生日快乐](https://blog.solazy.me/20260804/) | 又老了一岁 |
-| 2026-08-04 | [大陆居民申请香港汇丰银行卡流程记录](https://blog.yasking.org/a/hsbc-bank-card) | 前置条件： 人在香港，手机连接香港的 Wi-Fi 或蜂窝网络（国内卡开数据漫游/香港流量卡）； 手机需支持 NFC 功能（读取港澳通行证）； 港 … |
-| 2026-08-04 | [入蜀记 day436 钟美美](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_436/) | 「钟美美。」 |
-| 2026-08-04 | [未来休克并不只是发生在未来](https://mobius.blog/25282.html) | 继续昨天的文章，在标题里还留下了一个极具迷惑性的“概念”——未来休克。 这是阿尔文·托夫勒在 1970 年出版 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-04 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
-| 2026-08-04 | [看来 qwen 3.8 max 的发布暂](https://versun.me/blog/tweet-2084472010277838990) | 看来 qwen 3.8 max 的发布暂时威胁不到 tipo🤡 [tweet-2084472010277838990-23ac3125.jpg] |
-| 2026-08-04 | [观山](https://www.hecaitou.com/2026/08/On-Watching-the-Mountain.html) | 经过 24 小时的恢复，我又能重新访问自己又拍网的相册。有点唏嘘，互联网上最大的赞美都给了这总，那总，赞美的点都是股价，都是身价，像又拍这样多年来持续提供服务的公司，其实更应该赞美。在网上维护过任何一个长期项目的人都应该理解我在说什么，理解这其中的不易。 打开相册第一件事，就是直奔我的玉龙雪山专题。… |
-| 2026-08-04 | [知了 II](https://mobius.blog/25277.html) | （2026·全国卷）昆虫恐惧症，是一种特定的动物恐惧症，其特征是对一种或多种昆虫过度或不切实际的恐惧（厌恶）。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-04 | [WAF加白放行渗透流量引发nginx到ingress异常连接的排查](https://199604.com/3623) | WAF加白放行渗透流量引发nginx到ingress异常连接的排查 记录时间：2026-07-31 环境：外层 […] |
-| 2026-08-04 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.4 of the project |
 
 ## Vibe Coding
 
