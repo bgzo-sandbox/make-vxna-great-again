@@ -1,5 +1,12 @@
 [
   {
+    "title": "如何在控制台解析并按照格式输出 Markdown 内容",
+    "url": "https://www.banzhuanriji.com/work/render-markdown-in-terminal/",
+    "date": "2026-08-12T07:49:43Z",
+    "description": "用 Python + ANSI 转义码，在终端里把 Markdown 渲染得有模有样——标题带颜色、代码块带背景、列表带圆点，不依赖任何第三方库，复制就能跑。",
+    "source_root_domain": "banzhuanriji.com"
+  },
+  {
     "title": "最近碎碎念",
     "url": "https://blog.thetbw.xyz/archives/thoughts-share-260812",
     "date": "2026-08-12T05:20:59Z",
