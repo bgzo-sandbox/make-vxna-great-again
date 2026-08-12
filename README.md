@@ -27,10 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-12 | [最近碎碎念](https://blog.thetbw.xyz/archives/thoughts-share-260812) | 也是一段时间没有更新博客了，随便写写。 最近我订阅的博客列表也比平时安静了很多，其他中文平台的貌似也没有往日那么活跃了，不知道是不是我最近比较闲，刷的比较多的缘故，不过之前我上班因该刷的更多才是，像是我的世界陷入死寂一样。 距离最近找工作过去了一个多月了，一直没什么好的机会，实在没什么好太多说的，面… |
 | 2026-08-12 | [Sequoia Capital合伙人分享：应该追逐热点？还是忽略？](https://wenfeixiang.com/2026/08/what-the-internet-hyped-vs-what-got-built-from-hacker-news/) | 追逐热点？还是忽略它？这一直是创投圈争执的问题。有人喜欢追风口、顺势而为；有人喜欢挖掘水下、坐冷板凳。如果我们 […] |
 | 2026-08-12 | [更换驾驶证](https://www.hecaitou.com/2026/08/renewing-my-drivers-license.html) | 我有一本驾驶证，最近快要到期，需要更换，这件事让我头大。 只要一想到服务窗口，想到排队领号，想到备齐文件之类的事情，我就头皮发麻。多年来，我总是想尽一切办法躲避这样的场合，能委托就委托，能代办就代办。坦白说，我不喜欢手续，也不喜欢流程，更不喜欢审批。这些东西在我眼里比大山还要高，接触一下比迷宫还复杂… |
 | 2026-08-12 | [社会规则与稻草人](https://ceynri.cn/blog/socialization/) | 立在田里的稻草人，不是为了抓住麻雀，而只是为了让麻雀相信那里有人。 |
 | 2026-08-12 | [现在几点？](https://mobius.blog/25356.html) | 遛狗的时候，一个玩滑板车的小男孩突然问我：叔叔现在几点？ 我看了看手机，回答了他。他似乎有些不太确信此刻的时间 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-12 | [想不到 Mojo 还活着，简单回顾了下：](https://versun.me/blog/tweet-2087343369412579461) | 想不到 Mojo 还活着，简单回顾了下： - 2023.5 出道，放话比 Python 快 3.5 万倍 - 2025 年从"语言"转向"推理基础设施"，推出 MAX 推理框架 - 2026.6 公司被高通 39 亿美元收购了。。 - 磨了三年到 1.0，承诺秋天开源编译器 四年半，3.8 亿融资进… |
+| 2026-08-12 | [API for agent，有意思 [t](https://versun.me/blog/tweet-2087339309301191003) | API for agent，有意思 [tweet-2077422545142534275-0b04cea4.jpg] |
 | 2026-08-11 | [修复 h5player 脚本在巴哈姆特持续注入 CSS](https://blog.bgzo.cc/20260811-fix-h5player-bahamut-fix-width.html) | 很喜欢 h5player 的截图功能，喜欢到了刚需的程度！它强大到自己可以让网页上的一切视频都能截图，甚至做到下载。虽然它如今已经适配 37+ 网站，但它还是不对付我常用的两个看番网站： 1. https//ani.gamer.com.tw/ 2. https//anime1.me 这个问题我 22… |
 | 2026-08-11 | [梭罗碥石刻：不知缘由裂成两半](https://macin.org/2026/08/11/suo-luo-bian/) | 阅读全文 → 这周去了一趟（弗罗里）达州渠县。 |
 | 2026-08-11 | [DIVING INTO HK](https://re.karlbaey.top/articles/rocky-road/diving-into-hk/) | 多用了点 emoji 表达情绪。🤪图片比较多，记得连着 Wi-Fi 看。快说谢谢流量侠。 距离上一回去 HK，已经有十个 … |
