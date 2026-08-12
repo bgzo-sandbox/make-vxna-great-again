@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-12 | [十九支唢呐](https://godruoyi.com/posts/an-old-man-decides-to-die/) | 五一回家，村里死了一个老头。发现他的时候，尸体已经硬了。没人知道具体是几点走的，可能是凌晨，也可能是半夜 |
 | 2026-08-12 | [如何在控制台解析并按照格式输出 Markdown 内容](https://www.banzhuanriji.com/work/render-markdown-in-terminal/) | 用 Python + ANSI 转义码，在终端里把 Markdown 渲染得有模有样——标题带颜色、代码块带背景、列表带圆点，不依赖任何第三方库，复制就能跑。 |
 | 2026-08-12 | [最近碎碎念](https://blog.thetbw.xyz/archives/thoughts-share-260812) | 也是一段时间没有更新博客了，随便写写。 最近我订阅的博客列表也比平时安静了很多，其他中文平台的貌似也没有往日那么活跃了，不知道是不是我最近比较闲，刷的比较多的缘故，不过之前我上班因该刷的更多才是，像是我的世界陷入死寂一样。 距离最近找工作过去了一个多月了，一直没什么好的机会，实在没什么好太多说的，面… |
 | 2026-08-12 | [Sequoia Capital合伙人分享：应该追逐热点？还是忽略？](https://wenfeixiang.com/2026/08/what-the-internet-hyped-vs-what-got-built-from-hacker-news/) | 追逐热点？还是忽略它？这一直是创投圈争执的问题。有人喜欢追风口、顺势而为；有人喜欢挖掘水下、坐冷板凳。如果我们 […] |
