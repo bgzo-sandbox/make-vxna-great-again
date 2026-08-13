@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-13 | [从Vibe Coding到AI Agent：一个喂养系统的完整实践](https://imzlp.com/posts/84248/) | 今年对我来说是个非常意义重大的一年：我娃出生了。在新生的喜悦中，也不免有很多焦虑——总担心不能科学地喂养宝宝、有什么纰漏。在月子中心时，月嫂会比较规律的喂养信息记录——什么时间喝奶、睡了多久，几次大小便，有没有吃AD等，都会记录下来，可以追踪喂养状态。 但她们是通过纸笔记录，不够数字化。 当回家之后… |
+| 2026-08-13 | [黑群晖断电后无法启动：用 RR 引导无损恢复全记录](https://blog.hoopan.net/851.html) | 黑群晖因突发停电导致引导 U 盘损坏而无法启动，通过 RR 引导（RedPill-Rotor）重做引导盘，无损恢复原系统与数据的完整排查记录。 |
+| 2026-08-13 | [Memos: 博客添加了一个 /ping 路由](https://blog.yasking.org/a/1786613642) | 访问： https://blog.yasking.org/ping 国内返回「Served by EdgeOne CDN and sourced from Cloudflare Page.」，海外返回「Served by Cloudflare Pages.」 借助 EdgeOne 和 Cloudfl… |
+| 2026-08-13 | [立秋](https://www.jackpu.com/li-qiu-6/) | 今日立秋，自己却拔了牙齿； 本来不在计划之内的，但是看媳妇拔智齿恢复很轻松, 医生的建议可拔可不拔中选择了前者。 做的最正确的决定，就是拔牙前去体验了海底捞79元的午餐套餐，六荤三素，加麻辣的锅底。拔的的时候由于麻药的作用，感觉不到什么，直到几个小时候，才感觉到牙龈的疼痛。 其实拔牙最不好的体验，除… |
 | 2026-08-13 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.1 of the project |
 | 2026-08-13 | [Odamex updated](https://macsourceports.com/sourceport/odamex) | The build of Odamex for the DOOM engine series of games has been updated to version 12.3.0 of the project\n\nhttps://macsourceports.com/sourceport/oda… |
 | 2026-08-13 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.70 of the project |
