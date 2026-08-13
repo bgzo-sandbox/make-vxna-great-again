@@ -33,7 +33,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-13 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.7 of the project |
 | 2026-08-13 | [怎样想决定了是个怎样的人](https://www.hecaitou.com/2026/08/Your-Thought-Is-Your-Mindset.html) | 关于人和人之间的巨大想法差异，有件事让我一直记忆犹新。那是十多年前的事情了，当时我有个创业项目刚刚出了一点点头，看起来非常有希望，就喜滋滋地去找一位前辈讨教，如何才能做大做成。 去到前辈家，他很耐心地听完我的做法和想法，却并没有直接回答我的问题，而是反问我：「你一直都在和我说如何做成，那你有没有考虑… |
 | 2026-08-13 | [当一只章鱼在一间全是镜子的房间会如何理解自己？](https://mobius.blog/25371.html) | 本着越不正经的标题聊越正经的话题，今天要开启一个需要花很长时间持续进行的话题。 本来之前还欠了一个“结构化拖延 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-13 | [看来昨晚的 ds 和 grok 还是给到](https://versun.me/blog/tweet-2087706688233332929) | 看来昨晚的 ds 和 grok 还是给到 tipo一些压力的😜 |
+| 2026-08-13 | [看来昨晚的 ds 和 grok 还是给到](https://versun.me/blog/tweet-2087706688233332929) | Tibo Old news actually from a bunch of days ago, but crossed that 15M. Enjoy a nice reset everyone. Landing in the next hour or so, go /fast. Original… |
 | 2026-08-12 | [十九支唢呐](https://godruoyi.com/posts/an-old-man-decides-to-die/) | 五一回家，村里死了一个老头。发现他的时候，尸体已经硬了。没人知道具体是几点走的，可能是凌晨，也可能是半夜 |
 | 2026-08-12 | [别拿病历本做宣发](https://blog.solazy.me/20260812/) | 又看到李雪健老师的新闻…… |
 | 2026-08-12 | [Kimi 新规：老套餐过期7天就不能续订](https://versun.me/blog/tweet-2087532872433594796) | Kimi 新规：老套餐过期7天就不能续订了。。 |
@@ -45,7 +45,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-12 | [社会规则与稻草人](https://ceynri.cn/blog/socialization/) | 立在田里的稻草人，不是为了抓住麻雀，而只是为了让麻雀相信那里有人。 |
 | 2026-08-12 | [现在几点？](https://mobius.blog/25356.html) | 遛狗的时候，一个玩滑板车的小男孩突然问我：叔叔现在几点？ 我看了看手机，回答了他。他似乎有些不太确信此刻的时间 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-12 | [想不到 Mojo 还活着，简单回顾了下：](https://versun.me/blog/tweet-2087343369412579461) | 想不到 Mojo 还活着，简单回顾了下： - 2023.5 出道，放话比 Python 快 3.5 万倍 - 2025 年从"语言"转向"推理基础设施"，推出 MAX 推理框架 - 2026.6 公司被高通 39 亿美元收购了。。 - 磨了三年到 1.0，承诺秋天开源编译器 四年半，3.8 亿融资进… |
-| 2026-08-12 | [API for agent，有意思 [t](https://versun.me/blog/tweet-2087339309301191003) | API for agent，有意思 [tweet-2077422545142534275-0b04cea4.jpg] |
+| 2026-08-12 | [API for agent，有意思](https://versun.me/blog/tweet-2087339309301191003) | API for agent，有意思 [tweet-2077422545142534275-0b04cea4.jpg] |
 | 2026-08-11 | [修复 h5player 脚本在巴哈姆特持续注入 CSS](https://blog.bgzo.cc/20260811-fix-h5player-bahamut-fix-width.html) | 很喜欢 h5player 的截图功能，喜欢到了刚需的程度！它强大到自己可以让网页上的一切视频都能截图，甚至做到下载。虽然它如今已经适配 37+ 网站，但它还是不对付我常用的两个看番网站： 1. https//ani.gamer.com.tw/ 2. https//anime1.me 这个问题我 22… |
 | 2026-08-11 | [梭罗碥石刻：不知缘由裂成两半](https://macin.org/2026/08/11/suo-luo-bian/) | 阅读全文 → 这周去了一趟（弗罗里）达州渠县。 |
 | 2026-08-11 | [DIVING INTO HK](https://re.karlbaey.top/articles/rocky-road/diving-into-hk/) | 多用了点 emoji 表达情绪。🤪图片比较多，记得连着 Wi-Fi 看。快说谢谢流量侠。 距离上一回去 HK，已经有十个 … |
@@ -65,7 +65,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-11 | [Grafana cluster变量出现Kafka垃圾值的排查与清理](https://199604.com/3641) | Grafana cluster变量出现Kafka垃圾值的排查与清理 记录时间：2026-08-08 环境：RK […] |
 | 2026-08-11 | [清华大学 TUNA 镜像站宣布：正式移除 Anaconda、OpenWrt、Flutter、GitLab EE 软件镜像](https://blog.renfei.net/posts/1626402130325676144) | 清华大学 TUNA 镜像站因存储资源受限，正式移除 Anaconda、OpenWrt、Flutter 和 GitLab EE 软件镜像，原有访问将跳转到教育网联合镜像站或上游。 |
 | 2026-08-11 | [不建群的人](https://www.hecaitou.com/2026/08/The-Non-Group-Person.html) | 最近看到两条读者提问，彼此看起来差别很大，但在我眼里完全是一回事： 1、你为什么不建一个读书群？ 2、在陌生的城市里工作，总感到孤独怎么办？ 那就去参加一个读书群好了---如果我这么回答是不是有点冷血，有点不道德？ 熟悉我的读者都知道，我不大加群，尤其是大群，尤其是学习群、打卡群、社交群。因为这件事… |
-| 2026-08-11 | [Pi 打败了Oh My Pi 🤣 [tw](https://versun.me/blog/tweet-2086992544861507602) | Pi 打败了Oh My Pi 🤣 [tweet-2086814491920974069-7228c7aa.jpg] |
+| 2026-08-11 | [Pi 打败了Oh My Pi 🤣](https://versun.me/blog/tweet-2086992544861507602) | Pi 打败了Oh My Pi 🤣 [tweet-2086814491920974069-7228c7aa.jpg] |
 | 2026-08-11 | [污染源](https://mobius.blog/25346.html) | 我从小得到老师最多的评价，是一句被我视为“褒奖”的话：十处打锣九处都有你。 倒不是我这个人好热闹，而是很多事情 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-11 | [这个有意思，就是安装麻烦了些，建议简化下](https://versun.me/blog/tweet-2086985748298051749) | 这个有意思，就是安装麻烦了些，建议简化下安装方式 [tweet-2086846424051044750-fc837d1a.mp4] |
 | 2026-08-11 | [青岛威海自驾游（2026）](https://krya.com/post/qingdaoweihai/) | 这次一共五个人：我们一家三口，加上媳妇的闺蜜和她妈妈。四个大人带一个小孩，长途开车其实并不拥挤，路上反而多了不少聊天的话题。 图片拍摄的设备有索尼a7M3（50mm定焦镜头），以及前不久购入了大疆Osmo Pocket 4，或者iPhone直出。 从成都出发，耗时14天，总行程4902公里，加油17… |
