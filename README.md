@@ -33,8 +33,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-13 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.7 of the project |
 | 2026-08-13 | [怎样想决定了是个怎样的人](https://www.hecaitou.com/2026/08/Your-Thought-Is-Your-Mindset.html) | 关于人和人之间的巨大想法差异，有件事让我一直记忆犹新。那是十多年前的事情了，当时我有个创业项目刚刚出了一点点头，看起来非常有希望，就喜滋滋地去找一位前辈讨教，如何才能做大做成。 去到前辈家，他很耐心地听完我的做法和想法，却并没有直接回答我的问题，而是反问我：「你一直都在和我说如何做成，那你有没有考虑… |
 | 2026-08-13 | [当一只章鱼在一间全是镜子的房间会如何理解自己？](https://mobius.blog/25371.html) | 本着越不正经的标题聊越正经的话题，今天要开启一个需要花很长时间持续进行的话题。 本来之前还欠了一个“结构化拖延 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-13 | [看来昨晚的 ds 和 grok 还是给到](https://versun.me/blog/tweet-2087706688233332929) | 看来昨晚的 ds 和 grok 还是给到 tipo一些压力的😜 |
 | 2026-08-12 | [十九支唢呐](https://godruoyi.com/posts/an-old-man-decides-to-die/) | 五一回家，村里死了一个老头。发现他的时候，尸体已经硬了。没人知道具体是几点走的，可能是凌晨，也可能是半夜 |
 | 2026-08-12 | [别拿病历本做宣发](https://blog.solazy.me/20260812/) | 又看到李雪健老师的新闻…… |
+| 2026-08-12 | [Kimi 新规：老套餐过期7天就不能续订](https://versun.me/blog/tweet-2087532872433594796) | Kimi 新规：老套餐过期7天就不能续订了。。 |
+| 2026-08-12 | [Kimi 最近是不是卡到货了，明显稳定耐](https://versun.me/blog/tweet-2087457668457984009) | Kimi 最近是不是卡到货了，明显稳定耐用了很多 我一个早上9点20开始的 swarm+goal+max 会话，到现在竟然还没断，已经进行到第11轮了 在以前，我还没遇到过能超过8轮的，而且中午也没有被429打断 |
 | 2026-08-12 | [如何在控制台解析并按照格式输出 Markdown 内容](https://www.banzhuanriji.com/work/render-markdown-in-terminal/) | 用 Python + ANSI 转义码，在终端里把 Markdown 渲染得有模有样——标题带颜色、代码块带背景、列表带圆点，不依赖任何第三方库，复制就能跑。 |
 | 2026-08-12 | [最近碎碎念](https://blog.thetbw.xyz/archives/thoughts-share-260812) | 也是一段时间没有更新博客了，随便写写。 最近我订阅的博客列表也比平时安静了很多，其他中文平台的貌似也没有往日那么活跃了，不知道是不是我最近比较闲，刷的比较多的缘故，不过之前我上班因该刷的更多才是，像是我的世界陷入死寂一样。 距离最近找工作过去了一个多月了，一直没什么好的机会，实在没什么好太多说的，面… |
 | 2026-08-12 | [Sequoia Capital合伙人分享：应该追逐热点？还是忽略？](https://wenfeixiang.com/2026/08/what-the-internet-hyped-vs-what-got-built-from-hacker-news/) | 追逐热点？还是忽略它？这一直是创投圈争执的问题。有人喜欢追风口、顺势而为；有人喜欢挖掘水下、坐冷板凳。如果我们 […] |
@@ -65,7 +68,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-11 | [Pi 打败了Oh My Pi 🤣 [tw](https://versun.me/blog/tweet-2086992544861507602) | Pi 打败了Oh My Pi 🤣 [tweet-2086814491920974069-7228c7aa.jpg] |
 | 2026-08-11 | [污染源](https://mobius.blog/25346.html) | 我从小得到老师最多的评价，是一句被我视为“褒奖”的话：十处打锣九处都有你。 倒不是我这个人好热闹，而是很多事情 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-11 | [这个有意思，就是安装麻烦了些，建议简化下](https://versun.me/blog/tweet-2086985748298051749) | 这个有意思，就是安装麻烦了些，建议简化下安装方式 [tweet-2086846424051044750-fc837d1a.mp4] |
-| 2026-08-11 | [26年暑假青岛威海自驾游](https://krya.com/post/qingdaoweihai/) | 这次一共五个人：我们一家三口，加上媳妇的闺蜜和她妈妈。四个大人带一个小孩，长途开车其实并不拥挤，路上反而多了不少聊天的话题。 图片拍摄的设备有索尼a7M3（50mm定焦镜头），以及前不久购入了大疆Osmo Pocket 4，或者iPhone直出。 从成都出发，耗时14天，总行程4902公里，加油17… |
+| 2026-08-11 | [青岛威海自驾游（2026）](https://krya.com/post/qingdaoweihai/) | 这次一共五个人：我们一家三口，加上媳妇的闺蜜和她妈妈。四个大人带一个小孩，长途开车其实并不拥挤，路上反而多了不少聊天的话题。 图片拍摄的设备有索尼a7M3（50mm定焦镜头），以及前不久购入了大疆Osmo Pocket 4，或者iPhone直出。 从成都出发，耗时14天，总行程4902公里，加油17… |
 | 2026-08-11 | [最近一个月有玩过 Blender MCP](https://versun.me/blog/tweet-2086978334110658688) | 最近一个月有玩过 Blender MCP 的要注意了，有一个供应链投毒事件 CVE-2026-66004，建议尽快排查一下 https://www.kimi.com/share/19fee49f-65a2-84f3-8000-0000d35140db [tweet-20869783341106586… |
 | 2026-08-10 | [你是哪里人？我是地球人。](https://diff.im/blog/2026/08/%E4%BD%A0%E6%98%AF%E5%93%AA%E9%87%8C%E4%BA%BA%E6%88%91%E6%98%AF%E5%9C%B0%E7%90%83%E4%BA%BA/) | 我 23 岁大学毕业后，离开了家乡长沙。后来，我在杭州生活了七年，有了第一个孩子。接着，我在上海生活了九年，第二个孩子出生了。之后，我又在洛杉矶生活了两年，第三个孩子出生了。现在，我已经在达拉斯生活了两年。 很多时候，我们很难回答“你是哪里人？”这个问题，也曾因此感到困惑。 我在上海生活时，本地的上… |
 | 2026-08-10 | [Album#48 - Winter Sweet](https://taxodium.ink/album-48.html) | Album#48 Winter Sweet 图1 《Winter Sweet》專輯封面 专辑信息 专辑名称： Winter Sweet 歌手： 蛋堡 Solf Lipa 年份： 2009-12-31 时长： 50:47 如果音樂也講究時令，夏日炎炎有「 收斂水 」可以消暑，冬夜漫漫也能有一種暖呼呼的… |
