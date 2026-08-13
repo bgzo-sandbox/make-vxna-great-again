@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-13 | [当一只章鱼在一间全是镜子的房间会如何理解自己？](https://mobius.blog/25371.html) | 本着越不正经的标题聊越正经的话题，今天要开启一个需要花很长时间持续进行的话题。 本来之前还欠了一个“结构化拖延 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-12 | [十九支唢呐](https://godruoyi.com/posts/an-old-man-decides-to-die/) | 五一回家，村里死了一个老头。发现他的时候，尸体已经硬了。没人知道具体是几点走的，可能是凌晨，也可能是半夜 |
 | 2026-08-12 | [如何在控制台解析并按照格式输出 Markdown 内容](https://www.banzhuanriji.com/work/render-markdown-in-terminal/) | 用 Python + ANSI 转义码，在终端里把 Markdown 渲染得有模有样——标题带颜色、代码块带背景、列表带圆点，不依赖任何第三方库，复制就能跑。 |
 | 2026-08-12 | [最近碎碎念](https://blog.thetbw.xyz/archives/thoughts-share-260812) | 也是一段时间没有更新博客了，随便写写。 最近我订阅的博客列表也比平时安静了很多，其他中文平台的貌似也没有往日那么活跃了，不知道是不是我最近比较闲，刷的比较多的缘故，不过之前我上班因该刷的更多才是，像是我的世界陷入死寂一样。 距离最近找工作过去了一个多月了，一直没什么好的机会，实在没什么好太多说的，面… |
@@ -161,28 +162,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-06 | [etcd 备份方案（K8s 1.28 二进制集群 / arm64）](https://199604.com/3630) | etcd 备份方案（K8s 1.28 二进制集群 / arm64） 适用集群：三 master 二进制部署的 […] |
 | 2026-08-06 | [Memos: 领取赛博菩萨 Cloudflare Wallet 用户名](https://blog.yasking.org/a/1785979350) | 访问 https://cloudflare.pay ，填写喜欢、未被占用的用户名，每个账户只能绑定一个名称。 |
 | 2026-08-06 | [入蜀记 day438 北来的风雨](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_438/) | 「北来的风雨。」 |
-| 2026-08-05 | [Chex Quest Trilogy updated](https://macsourceports.com/game/chexquest) | The build of Odamex for Chex Quest Trilogy has been updated to version 12.2.1 of the project |
-| 2026-08-05 | [DOOM updated](https://macsourceports.com/game/doom) | The build of Odamex for DOOM has been updated to version 12.2.1 of the project |
-| 2026-08-05 | [DOOM II updated](https://macsourceports.com/game/doom2) | The build of Odamex for DOOM II has been updated to version 12.2.1 of the project |
-| 2026-08-05 | [Final DOOM updated](https://macsourceports.com/game/finaldoom) | The build of Odamex for Final DOOM has been updated to version 12.2.1 of the project |
-| 2026-08-05 | [Heretic updated](https://macsourceports.com/game/heretic) | The build of Odamex for Heretic has been updated to version 12.2.1 of the project |
-| 2026-08-05 | [Hexen: Beyond Heretic updated](https://macsourceports.com/game/hexen) | The build of Odamex for Hexen: Beyond Heretic has been updated to version 12.2.1 of the project |
-| 2026-08-05 | [Strife updated](https://macsourceports.com/game/strife) | The build of Odamex for Strife has been updated to version 12.2.1 of the project |
-| 2026-08-05 | [【IT档案馆】华为投诉“竹知了”玩具相关视频事件梳理](https://blog.mzh.ren/zh/posts/2026/08/huawei-and-bamboo-cicada-event/) | 有道是：抓住了一只蝉，就仿佛抓住了整个夏天。所以我看到一个在线玩“竹知了”的网站 在线玩竹知了 - V2EX ，很感兴趣的就点了进去。内容如下： 竹知了 起源于隋唐 兴于两宋 亡于鸿蒙 7 年 |
-| 2026-08-05 | [拿 AI 写了个游戏谈谈心得](https://iceprosurface.com/thought/building-a-game-with-ai/) | 最近伙同我的好友 @Codex(是的没错，他自己取名字叫 @Codex，并不是 OpenAI 的 Codex)，我们两个差不多奋战了3周，把一个游戏从零做到了上线。 游戏叫《无限弹球》，已经在 TapTap 上线 。截至 2026 年 8 月 5 日，页面显示 8.8 分、64 条评价、1.8 万热… |
-| 2026-08-05 | [入职五个月小结](https://blog.solazy.me/20260805/) | 写在入职新工作五个月 |
-| 2026-08-05 | [电信宽带携号转网到联通宽带](https://depp.wang/2026/china-unicom-broadband/) | 01 为什么转 主要是因为价格与动态 IPv4 公网 IP。 我原来用的是电信融合宽带，99 元一个月，300M 的宽带，但是只有 20G 流量。 之前给我装电信宽带的师傅后来跳到移动了，上上个月他问我合约期到了没有，要不要换移动宽带。我这边是不想换移动宽带的，因为移动宽带口碑太差了。我就查了我的合… |
-| 2026-08-05 | [艾尔特拉克在岣琅](https://www.geedea.pro/article/banality-of-go-err/) | 汉娜·阿伦特报道了阿道夫·艾希曼在耶路撒冷因组织屠杀犹太人受审的案件，在法庭上，她发现艾希曼并不是一个冷静且思维缜密的杀手，相反，“说话时间越长，越能感受到他表达力的匮乏与思考能力的缺失，他不会站在别人的立场思考问题，之所以无法同他交流，并不是因为他说谎，而是因为他周围围绕着坚固的壁垒，屏蔽他的言辞… |
-| 2026-08-05 | [向云端｜西南自驾07 - 新晃](https://blog.ops-coffee.com/r/2026-southwest-road-trip-07-xinhuang.html) |  |
-| 2026-08-05 | [差点把这家伙给忘记了。。。 等下，图标里](https://versun.me/blog/tweet-2084988516862132665) | 差点把这家伙给忘记了。。。 等下，图标里是和 gpt-oss, qwen3 做比较？？？ [tweet-2084684735725379637-560af310.jpg] |
-| 2026-08-05 | [拆解一个个人 4G SMS Gateway：Air780E、Docker 与飞牛OS实践](https://www.impdx.vip/archives/hezhou-air780xxx-protects-the-number-for-giffgaff-and-other-sms-transfer-feiniu-os-docker-usb-zo3mmg) | 本项目仅用于个人设备管理、海外号码维护和物联网实验场景，不涉及批量短信、验证码接收、营销推广等用途。 起初是发现手机sim卡槽不够用了。我寻思着有没有什么方案可以在我的飞牛上跑短信收发及定时保号 发现https://github.com/dushixiang/uartsmsforwarder 这 |
-| 2026-08-05 | [域名切换到 blog.alliot.tech](https://blog.alliot.tech/post/domain-switch-2026) | 纠结许久，我还是把博客域名切换到了 blog.alliot.tech 。这篇文章的标签是「折腾」，算是名副其实。那么，切换一个用了十几年的域名，到底要经历多少折腾？ |
-| 2026-08-05 | [Docker Compose 部署 Dify 教程 - LLM应用开发平台](https://songxwn.com/Dify-Docker-Compose/) |  |
-| 2026-08-05 | [入蜀记 day437 靠山邸](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_437/) | 「靠山邸。」 |
-| 2026-08-05 | [信息税](https://z.arlmy.me/posts/ZArlmyMe/Desktop_20260805/) | 「信息税。」 |
-| 2026-08-05 | [恶人做在前](https://www.hecaitou.com/2026/08/the-case-for-playing-the-villain-first.html) | 看网上讨论「边界感」的话题， 我感觉普遍都很温馨感人。至于说有没有用，听完能在多大程度上守住自己的边界，那就是两说了。 我想，边界感最大的敌人有三个，分别是：亲密关系，内心希求和个人崇拜。关系太亲密，越界迟早会出现，很多人认为这才是真正亲密的体现，古人说过：近之则不逊。 内心希求的意思是说，在对方身… |
-| 2026-08-05 | [找到那件值得“浪费一生”的事情](https://mobius.blog/25290.html) | 流动的时代性，看上去让人们获得了更多的身份自由，但也同样让原本应该固定在某一锚点的归属感与意义，能够被轻易改变 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-05 | [Jenkins Vue 流水线 pnpm install 报 ERR_PNPM_OUTDATED_LOCKFILE 排查](https://199604.com/3626) | Jenkins Vue 流水线 pnpm install 报 ERRPNPMOUTDATED_LOCKFI […] |
 
 ## Vibe Coding
 
