@@ -1,5 +1,40 @@
 [
   {
+    "title": "Plants vs. Zombies updated",
+    "url": "https://macsourceports.com/game/pvz",
+    "date": "2026-08-13T04:05:55Z",
+    "description": "The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Odamex updated",
+    "url": "https://macsourceports.com/sourceport/odamex",
+    "date": "2026-08-13T04:03:24Z",
+    "description": "The build of Odamex for the DOOM engine series of games has been updated to version 12.3.0 of the project\\n\\nhttps://macsourceports.com/sourceport/odamex\\n\\n#macgaming #retrogaming #macOS #odamex #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-08-13T04:03:06Z",
+    "description": "The build of Quetoo has been updated to version v1.0.70 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Ambermoon updated",
+    "url": "https://macsourceports.com/game/ambermoon",
+    "date": "2026-08-13T03:59:06Z",
+    "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.13.7 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "怎样想决定了是个怎样的人",
+    "url": "https://www.hecaitou.com/2026/08/Your-Thought-Is-Your-Mindset.html",
+    "date": "2026-08-13T03:02:45Z",
+    "description": "关于人和人之间的巨大想法差异，有件事让我一直记忆犹新。那是十多年前的事情了，当时我有个创业项目刚刚出了一点点头，看起来非常有希望，就喜滋滋地去找一位前辈讨教，如何才能做大做成。 去到前辈家，他很耐心地听完我的做法和想法，却并没有直接回答我的问题，而是反问我：「你一直都在和我说如何做成，那你有没有考虑过有哪些因素可以让你做不成？」 我一时愣住，想着如何做成都耗尽了我全部心力，而且也不过是百分之一二的机会，我为什么要花时间去考虑如何做不成？ 看我有些困惑，他向我阐释了一下自己的观点： 在这个社会活得越久，越觉得成事的重点不在于成，而在于提前谋算所有不成的可能性。如果能够先考虑了所有的不成，而且做好了预防和处置，在这个过程中事情也就自然而然成了。如果只想着如何才能成，最后的结果一般只会是彻底失败，因为事情不是那么做的。 最后他强调，这是他认为能成事，尤其是大事的唯一正解。 到今天我也不赞同他的观点，但是当时听完一席话我还是非常震撼：人还能那么想问题？还能提出这种逆向的思路？于是，我也学会了这种思考方式，正向思考一遍，再来逆向思考一遍，这样很容易把想当然和过度乐观的水分挤掉，发现之前忽略了的致",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
     "title": "当一只章鱼在一间全是镜子的房间会如何理解自己？",
     "url": "https://mobius.blog/25371.html",
     "date": "2026-08-13T01:30:00Z",
@@ -12,6 +47,13 @@
     "date": "2026-08-12T17:17:00Z",
     "description": "五一回家，村里死了一个老头。发现他的时候，尸体已经硬了。没人知道具体是几点走的，可能是凌晨，也可能是半夜",
     "source_root_domain": "godruoyi.com"
+  },
+  {
+    "title": "别拿病历本做宣发",
+    "url": "https://blog.solazy.me/20260812/",
+    "date": "2026-08-12T15:30:00Z",
+    "description": "又看到李雪健老师的新闻……",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "如何在控制台解析并按照格式输出 Markdown 内容",

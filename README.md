@@ -27,8 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-13 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.1 of the project |
+| 2026-08-13 | [Odamex updated](https://macsourceports.com/sourceport/odamex) | The build of Odamex for the DOOM engine series of games has been updated to version 12.3.0 of the project\n\nhttps://macsourceports.com/sourceport/oda… |
+| 2026-08-13 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.70 of the project |
+| 2026-08-13 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.7 of the project |
+| 2026-08-13 | [怎样想决定了是个怎样的人](https://www.hecaitou.com/2026/08/Your-Thought-Is-Your-Mindset.html) | 关于人和人之间的巨大想法差异，有件事让我一直记忆犹新。那是十多年前的事情了，当时我有个创业项目刚刚出了一点点头，看起来非常有希望，就喜滋滋地去找一位前辈讨教，如何才能做大做成。 去到前辈家，他很耐心地听完我的做法和想法，却并没有直接回答我的问题，而是反问我：「你一直都在和我说如何做成，那你有没有考虑… |
 | 2026-08-13 | [当一只章鱼在一间全是镜子的房间会如何理解自己？](https://mobius.blog/25371.html) | 本着越不正经的标题聊越正经的话题，今天要开启一个需要花很长时间持续进行的话题。 本来之前还欠了一个“结构化拖延 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-12 | [十九支唢呐](https://godruoyi.com/posts/an-old-man-decides-to-die/) | 五一回家，村里死了一个老头。发现他的时候，尸体已经硬了。没人知道具体是几点走的，可能是凌晨，也可能是半夜 |
+| 2026-08-12 | [别拿病历本做宣发](https://blog.solazy.me/20260812/) | 又看到李雪健老师的新闻…… |
 | 2026-08-12 | [如何在控制台解析并按照格式输出 Markdown 内容](https://www.banzhuanriji.com/work/render-markdown-in-terminal/) | 用 Python + ANSI 转义码，在终端里把 Markdown 渲染得有模有样——标题带颜色、代码块带背景、列表带圆点，不依赖任何第三方库，复制就能跑。 |
 | 2026-08-12 | [最近碎碎念](https://blog.thetbw.xyz/archives/thoughts-share-260812) | 也是一段时间没有更新博客了，随便写写。 最近我订阅的博客列表也比平时安静了很多，其他中文平台的貌似也没有往日那么活跃了，不知道是不是我最近比较闲，刷的比较多的缘故，不过之前我上班因该刷的更多才是，像是我的世界陷入死寂一样。 距离最近找工作过去了一个多月了，一直没什么好的机会，实在没什么好太多说的，面… |
 | 2026-08-12 | [Sequoia Capital合伙人分享：应该追逐热点？还是忽略？](https://wenfeixiang.com/2026/08/what-the-internet-hyped-vs-what-got-built-from-hacker-news/) | 追逐热点？还是忽略它？这一直是创投圈争执的问题。有人喜欢追风口、顺势而为；有人喜欢挖掘水下、坐冷板凳。如果我们 […] |
