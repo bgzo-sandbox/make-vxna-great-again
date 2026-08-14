@@ -27,7 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-14 | [去日你自己吧](https://mobius.blog/25378.html) | 当然，标题是对“Go fuck yourself”的字面直译，实际上这句应该被翻译成“滚远点”。 我很喜欢看英 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-14 | [Memos #2026-08-13](https://www.taober.blog/memos) | 22:19 人生第一次吃素食餐厅，不错！ |
 | 2026-08-13 | [学习周刊-总第276期-2026年第33周](https://wiki.eryajf.net/pages/630ab4/) | 如要阅读全文，点击标题跳转。 学习周刊-总第276期 &#124; Clauge &#124; clipmon &#124; Worklog &#124; Monica &#124; amytis &#124; CodingNS &#124; software_guard &#124; agent-island |
+| 2026-08-13 | [一把开不了门的钥匙](https://tianheg.co/posts/locked-out/) | 我住的地方比较特殊，是工业园区内部的宿舍楼，3 和 4 楼是公司宿舍，5 楼对外出租。我就住 5 楼。 |
 | 2026-08-13 | [今日站点异常流量的分析](https://blog.mfwt.top/index.php/archives/1526/) | 人家说，三天不打上房揭瓦，今天倒好，三天不更，就开始有什么东西来揭瓦了。真希望他们能明白，『短暂停更一段时间』的意思是笔者暂时不更新，去打游戏了，不代表我不看站点的运行情况，也不代表我不会分析流... |
 | 2026-08-13 | [从Vibe Coding到AI Agent：一个喂养系统的完整实践](https://imzlp.com/posts/84248/) | 今年对我来说是个非常意义重大的一年：我娃出生了。在新生的喜悦中，也不免有很多焦虑——总担心不能科学地喂养宝宝、有什么纰漏。在月子中心时，月嫂会比较规律的喂养信息记录——什么时间喝奶、睡了多久，几次大小便，有没有吃AD等，都会记录下来，可以追踪喂养状态。 但她们是通过纸笔记录，不够数字化。 当回家之后… |
 | 2026-08-13 | [黑群晖断电后无法启动：用 RR 引导无损恢复全记录](https://blog.hoopan.net/851.html) | 黑群晖因突发停电导致引导 U 盘损坏而无法启动，通过 RR 引导（RedPill-Rotor）重做引导盘，无损恢复原系统与数据的完整排查记录。 |
@@ -39,7 +42,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-13 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.7 of the project |
 | 2026-08-13 | [怎样想决定了是个怎样的人](https://www.hecaitou.com/2026/08/Your-Thought-Is-Your-Mindset.html) | 关于人和人之间的巨大想法差异，有件事让我一直记忆犹新。那是十多年前的事情了，当时我有个创业项目刚刚出了一点点头，看起来非常有希望，就喜滋滋地去找一位前辈讨教，如何才能做大做成。 去到前辈家，他很耐心地听完我的做法和想法，却并没有直接回答我的问题，而是反问我：「你一直都在和我说如何做成，那你有没有考虑… |
 | 2026-08-13 | [当一只章鱼在一间全是镜子的房间会如何理解自己？](https://mobius.blog/25371.html) | 本着越不正经的标题聊越正经的话题，今天要开启一个需要花很长时间持续进行的话题。 本来之前还欠了一个“结构化拖延 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-13 | [看来昨晚的 ds 和 grok 还是给到](https://versun.me/blog/tweet-2087706688233332929) | Tibo Old news actually from a bunch of days ago, but crossed that 15M. Enjoy a nice reset everyone. Landing in the next hour or so, go /fast. Original… |
+| 2026-08-13 | [看来昨晚的 ds 和 grok 还是给到](https://versun.me/blog/tweet-2087706688233332929) | 引用 Old news actually from a bunch of days ago, but crossed that 15M. Enjoy a nice reset everyone. Landing in the next hour or so, go /fast. 看来昨晚的 ds 和… |
 | 2026-08-12 | [十九支唢呐](https://godruoyi.com/posts/an-old-man-decides-to-die/) | 五一回家，村里死了一个老头。发现他的时候，尸体已经硬了。没人知道具体是几点走的，可能是凌晨，也可能是半夜 |
 | 2026-08-12 | [别拿病历本做宣发](https://blog.solazy.me/20260812/) | 又看到李雪健老师的新闻…… |
 | 2026-08-12 | [Kimi 新规：老套餐过期7天就不能续订](https://versun.me/blog/tweet-2087532872433594796) | Kimi 新规：老套餐过期7天就不能续订了。。 |
@@ -123,7 +126,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-09 | [≡ 007｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25321.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-09 | [《凯罗斯》、《苔藓森林》笔摘](https://blog.sakoamc.com/posts/r2604/) | 题记：《凯罗斯》、《苔藓森林》部分阅读摘录。 |
 | 2026-08-09 | [2026年第32周](https://blog.sakoamc.com/posts/2632/) | 题记：二零二六年的第三十二周，记录的还是不够多，不够细，不够敏锐，应该是要能从一篇篇中察觉到时间的变化，季节的流转。 |
-| 2026-08-09 | [Memos #2026-08-08](https://www.taober.blog/memos) | 11:45 活了 9999 天了，也是来深圳后第一次掉下 70kg，感谢昨晚忍住没吃宵夜的自己哈哈。 |
 | 2026-08-08 | [GitLab 将删除中国大陆、香港和澳门用户账号：9 月 7 日前请备份迁移](https://blog.renfei.net/posts/1626402130325676143) | GitLab 通知将停止服务中国大陆、香港和澳门地区账号，并计划于 2026 年 9 月 7 日后删除账号。收到邮件后，建议尽快备份代码、项目数据与 CI 配置。 |
 | 2026-08-08 | [解决 WSL2 莫名其妙的远程桌面报错弹窗](https://www.liesauer.net/blog/post/1037.html) | 今天在用电脑的时候发现莫名其妙的疯狂弹了一个远程桌面的报错弹窗，一开始我还以为中毒被黑了呢，我嘞个豆。 ![1785955689.png](https://storage.liesauer.ne... |
 | 2026-08-08 | [荐《欢迎来龙餐馆》](https://tianheg.co/posts/dragon-restaurant/) | 刚看完电影不久，那些场景还留在脑海。电影途中我无声啜泣，泪珠顺着脸颊流下，这巨大的情感冲击让我的头开始痛了起来。我有些后悔此时看了这部电影，今天本来计划好好整理一下我的相册，我基于它做了一个私人相册站，有些地方需要改，在 Hermes agent 的帮助下慢慢推进。 |
@@ -159,24 +161,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-07 | [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 上海浦江郊野公园的溪边咖啡馆。（ via ） 国家为什么需要开源软件？ 上个月，大模型 Kimi K3… |
 | 2026-08-07 | [日元下跌与美日联合救场：四个核心问题](https://elmtran.com/essays/yen-depreciation-us-japan-intervention/) | 从利差、输入型通胀、联合汇率干预与套利交易平仓四条链路，理解日元为何走弱、美国为何参与，以及日元未来可能怎么走。 |
 | 2026-08-07 | [DESIGN.md 企业内落地实践与踩坑复盘分享](https://lrd.im/blog/2026-08-07) | 随着 Agent 时代来临，公司内涌现了新的合作模式，也产生了新的痛点。本文将分享如何使用 DESIGN.md 和 SKILL 让设计系统在 AI 时代发挥影响力。 |
-| 2026-08-06 | [中年危机，正在走向两个极端｜灵感电波 #133](https://www.linggandianbo.com/newsletter-133/) | 中年危机为何一端公开强化身体、一端悄悄退出公共生活；艺术怎样扩展现实、后悔如何照见自己，以及向陌生人求助和等待电梯背后的隐藏规则。 |
-| 2026-08-06 | [学习周刊-总第275期-2026年第32周](https://wiki.eryajf.net/pages/961c90/) | 如要阅读全文，点击标题跳转。 学习周刊-总第275期 &#124; ccg-gateway &#124; md-preview &#124; orca &#124; Callit &#124; skills-hub &#124; multi-cli-studio &#124; input0 &#124; hermes-web-ui |
-| 2026-08-06 | [cf 这几天是疯了吗，一天一个啊🤣](https://versun.me/blog/tweet-2085484625707872725) | cf 这几天是疯了吗，一天一个啊🤣 |
-| 2026-08-06 | [为什么 AI 也会有缓存命中](https://yipai.me/post/2545.html) | 很疑惑最近总是很困。比如昨天太困早睡了，睡眠时间达到了 9 个小时，但今天还是困。今天正好看到一篇文章说困可能是“输出”太少。想想挺有道理。最近每次骑完车虽然很累，但比出门骑车前精神要好。我猜这就是体力输出导致的结果。最近实在太闲，本来事儿就少，还都用 AI 完成了，大脑自己的输出量极少。估计这就是… |
-| 2026-08-06 | [生理上的技术债务](https://blog.solazy.me/20260806/) | 每次去看病都能感觉人类的身体真的是脆弱 |
-| 2026-08-06 | [无能的 DeepSeek 不会安装 Neovim 插件](https://re.karlbaey.top/articles/tinkering/install-rainbow-delimiters/) | 昨天让 DeepSeek 给我的 Neovim 安装 rainbow-delimiters 这个插件，三下五除二给我装上 … |
-| 2026-08-06 | [Album#46 - High Violet](https://taxodium.ink/album-46.html) | Album#46 High Violet 图1 《High Violet》專輯封面 专辑信息 专辑名称： High Violet 歌手： The National 年份： 2010-05-10 时长： 47:40 要說這張專輯什麼最吸引我，無疑是主唱 Matt Beringer 的嗓音，低沉而温暖，… |
-| 2026-08-06 | [cbvivi.app](https://cbvivi.today/cbviviapp) | 注册了 cbvivi.app 来展示我做的 app。 下一个新产品叫 melog，是影像类。我想在夏天结束前发布，但不知道来不来得及，也不知道夏天什么时候算结束。...... READ MORE |
-| 2026-08-06 | [Docker Compose 部署 LangBot 教程](https://songxwn.com/LangBot-Docker-Compose/) |  |
-| 2026-08-06 | [我为小说忙：（五）插件的上线工作](https://blog.mfwt.top/index.php/archives/1476/) | 终于到收尾工作了，先给 TPNovel 的开发过程暂时画一个句号。其实我挺希望真的就此全部完事了，不过很难否认的一点是，还没上生产之前确实不知道会出什么幺蛾子，以及会少什么实用功能。因此也只能说... |
-| 2026-08-06 | [Memos: DeepSeek 模型 API 将较大幅涨价](https://blog.yasking.org/a/1785998769) | 以上是主流模型 API 输入、输出价格统计，不知道此次较大幅度涨价之后，梁圣是否会变为梁子。 当前 DeepSeek 价格记录： 盲猜模型 API … |
-| 2026-08-06 | [公司 二开版 Nacos Docker 镜像构建](https://199604.com/3636) | 公司 二开版 Nacos Docker 镜像构建 记录时间：2026-08-06 环境：Docker 20.1 […] |
-| 2026-08-06 | [俺，插线板（插排）收藏家](https://www.hecaitou.com/2026/08/me-a-power-strip-collector.html) | 我不收家，从小就是如此。当初不收是因为发下宏愿：将来老婆会帮我收，再不然就是保姆。虽然年少，但我还是谨慎地打了补丁：如果将来既没有老婆，也没有保姆，说明我就活该生活在垃圾堆里，那就更不用收了。 这种话换作今天我是绝对不会讲的，因为把太太和保姆并置，有工具化、功能化妻子的嫌疑。在网上一旦被人发现，就会… |
-| 2026-08-06 | [活、货、与神](https://mobius.blog/25297.html) | 华为跟竹知了的事儿，可谓是当代的童话故事。讽刺意味已经远远超过了最初竹知了被转动时发出的哇哇声。 这件事本身没 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-06 | [AI 不会带来超级组织](https://1q43.blog/post/12564/) | 真的只有我觉得赋能个体和赋能组织之间存在强烈的叙事冲突吗？ |
-| 2026-08-06 | [etcd 备份方案（K8s 1.28 二进制集群 / arm64）](https://199604.com/3630) | etcd 备份方案（K8s 1.28 二进制集群 / arm64） 适用集群：三 master 二进制部署的 […] |
-| 2026-08-06 | [Memos: 领取赛博菩萨 Cloudflare Wallet 用户名](https://blog.yasking.org/a/1785979350) | 访问 https://cloudflare.pay ，填写喜欢、未被占用的用户名，每个账户只能绑定一个名称。 |
-| 2026-08-06 | [入蜀记 day438 北来的风雨](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_438/) | 「北来的风雨。」 |
 
 ## Vibe Coding
 
