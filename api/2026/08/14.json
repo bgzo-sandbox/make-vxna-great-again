@@ -1,5 +1,19 @@
 [
   {
+    "title": "当 AI 让人不再相信工作｜灵感电波 #134",
+    "url": "https://www.linggandianbo.com/newsletter-134/",
+    "date": "2026-08-14T12:00:44Z",
+    "description": "AI 为什么先动摇了知识工作者对职业的信仰；一位小说家怎样利用机器的错误重获创作乐趣。另有一万步的真实来源、神经可塑性的自我提升神话，以及 20 个值得存下的 YouTube 视频。",
+    "source_root_domain": "linggandianbo.com"
+  },
+  {
+    "title": "在 WSL2 中使用 Bitwarden SSH Agent",
+    "url": "https://guchengf.me/blog/bitwarden-ssh-agent-on-wsl2/",
+    "date": "2026-08-14T11:02:28Z",
+    "description": "Bitwarden 桌面客户端可以充当 SSH Agent，让 SSH 私钥保存在 Bitwarden 保险库中，而不是直接存放在 ~/.ssh 目录。 在 Windows 中启用 Bitwarden SSH Agent 后，PowerShell 可以直接使用其中的密钥。但 WSL2 中的 Linux 程序无法直接访问 Windows 的命名管道，因此需要借助 npiperelay 和 socat 建立一座桥梁。 本文介绍如何在 WSL2 中使用 Windows 上的 Bitwarden SSH Agent，同时解决新版 WSL 中运行 ss -a 时出现的： RTNETLINK answers: Invalid argument 工作原理 整个链路如下： WSL2 中的 ssh/git │ ▼ ~/.ssh/agent.sock │ socat │ npiperelay.exe │ ▼ \\\\.\\pipe\\openssh-ssh-agent │ ▼ Windows Bitwarden SSH Agent WSL2 中的 SSH 客户端连接 Unix Socket， socat 和 np",
+    "source_root_domain": "guchengf.me"
+  },
+  {
     "title": "独立开发者的英国公司报税（2026）",
     "url": "https://www.meettea.com/uk-company-tax-2026.html",
     "date": "2026-08-14T09:51:46Z",
