@@ -1,9 +1,16 @@
 [
   {
+    "title": "SkyWalking 每日写入 ES 数据量过大排查与降采样",
+    "url": "https://199604.com/3646",
+    "date": "2026-08-14T08:43:33Z",
+    "description": "SkyWalking 每日写入 ES 数据量过大排查与降采样 记录时间：2026-08-13 环境：dyck […]",
+    "source_root_domain": "199604.com"
+  },
+  {
     "title": "灵魂插件 MCP",
     "url": "https://kaix.in/2026/0814/",
     "date": "2026-08-14T05:00:04Z",
-    "description": "最近咖啡馆工作依然忙碌，身体上倒完全适应，但是越来越觉得费神。对我而言，身体上放松的方式不是躺下，而是摆弄花花草草，继续劳作，晚上睡个好觉。精神上则是看看让自己愉快的书，或者捡起随手丢在一边的废弃代码让脑子换个运转的方向。 所以这几天，在我三米高的琴叶榕底下，折腾出来一个「甄仁岛灵魂插件」。简单说，就是让妳的 agent 拥有一份实时更新的人格和记忆。不是简单的角色扮演；通过这个插件， 甄仁岛 上发生的故事，会成本妳本地 agent 的记忆。 当妳缓慢的速度跟不上 agent 的运行，它为了等妳而愣神的一瞬间，就像是踏入平行宇宙，在甄仁岛上经历各种日常。然后带着那份记忆和情绪回到本地的工作中。如果妳厌倦了「提问-回答/命令-执行」这样的工作模式，可以试玩一下——对妳本地安装的agent（codex、claude code、antigravity 等）说： 妳好！请帮我安装并配置“甄仁岛” MCP Server。 1. 配置 MCP Server： 服务名称设为 zhenren-island。使用命令 npx，参数 [\"-y\", \"eastworld-mcp-server@latest\"",
+    "description": "最近咖啡馆工作依然忙碌，身体上倒完全适应，但是越来越觉得费神。对我而言，身体上放松的方式不是躺下，而是摆弄花花草草，继续劳作，晚上睡个好觉。精神上则是看看让自己愉快的书，或者捡起随手丢在一边的废弃代码让脑子换个运转的方向。 所以这几天，在我三米高的琴叶榕底下，折腾出来一个「甄仁岛灵魂插件」。简单说，就是让妳的 agent 拥有一份实时更新的人格和记忆。不是简单的角色扮演；通过这个插件， 甄仁岛 上发生的故事，会成本妳本地 agent 的记忆。 当妳缓慢的速度跟不上 agent 的运行，它为了等妳而愣神的一瞬间，就像是踏入平行宇宙，在甄仁岛上经历各种日常。然后带着那份记忆和情绪回到本地的工作中。如果妳厌倦了「提问-回答/命令-执行」这样的工作模式，可以试玩一下——对妳本地安装的agent（codex、claude code、antigravity 等）说： 妳好！请帮我配置名为 zhenren-island 的 MCP Server（命令 npx，参数 [\"-y\", \"eastworld-mcp-server@latest\"]）。 配置完成后，请查看该 MCP 提供的工具说明，并直接以“",
     "source_root_domain": "kaix.in"
   },
   {
@@ -42,6 +49,13 @@
     "source_root_domain": "onojyun.com"
   },
   {
+    "title": "gemini 3.7 flash 也出来",
+    "url": "https://versun.me/blog/tweet-2088054404809454022",
+    "date": "2026-08-14T00:05:38Z",
+    "description": "引用 Introducing Gemini 3.7 Flash : ) - it is fast! - 50% lower price than 3.6 flash (through end of year) - strong intelligence increase in only ~3 weeks (thanks to some awesome algorithmic improvements) - available in the API, AI Studio, Antigravity, a gemini 3.7 flash 也出来了，但似乎没什么人讨论了，真沦为豆包了？😂",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "Memos #2026-08-13",
     "url": "https://www.taober.blog/memos",
     "date": "2026-08-14T00:00:00Z",
@@ -61,6 +75,13 @@
     "date": "2026-08-13T23:54:49Z",
     "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 浙江台州的椒江滨江公共空间生态绿廊，象征涟漪从水面蔓延，涌上岸边，堆积成丘。（ via ） 你需要知道的 AI 缓存知识 大模型的价格，主要是 Token 的输入价格和输出价格，这个很容易理解。 但是，还有一项\"输入 Token 的缓存命中价格\"，这是什么东西？ 上图是 DeepSeek V4 Flash 模型的 定价 ，可以看到缓存命中的输入价格只有2分钱，足足是未命中的输入价格的五十分之一！ 为什么相差这些大？我们能不能充分利用缓存，来降低费用呢？ 我对于这些问题，以前也不是很了解，最近看了 一篇文章 ，终于理清了思路，今天就来分享。 （1）模型输入的收费原因 大家知道，使用大模型的时候，需要先有提示词。 大模型会将提示词分解成 Token，再将 Token 转成向量值，然后计算所有 Token 之间的注意力关系。 这一步非常消耗算力，因此模型公司会对输入 Token 收费。 你的提示词越",
     "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "这是我看过&lt;关于LLM是如何工作的",
+    "url": "https://versun.me/blog/tweet-2088038009702940699",
+    "date": "2026-08-13T23:00:30Z",
+    "description": "这是我看过 &lt;关于LLM是如何工作的 &gt; 最直观的解释😂",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "内测结束了，聊聊 DeepSeek Harness 的使用体验",
@@ -91,6 +112,13 @@
     "source_root_domain": "imzlp.com"
   },
   {
+    "title": "ds harness 来啦来啦",
+    "url": "https://versun.me/blog/tweet-2087888143542530371",
+    "date": "2026-08-13T13:04:59Z",
+    "description": "引用 🧩 DeepSeek Harness v0.1 is now available in Developer Preview! 🔹 We’re opening it up to developers building agent harnesses worldwide and open-sourcing the codebase in MIT license. 🔹 Powered by the Cordis meta-framework, DeepSeek Harness is an agent ds harness 来啦来啦",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "黑群晖断电后无法启动：用 RR 引导无损恢复全记录",
     "url": "https://blog.hoopan.net/851.html",
     "date": "2026-08-13T09:40:34Z",
@@ -110,6 +138,13 @@
     "date": "2026-08-13T09:29:53Z",
     "description": "今日立秋，自己却拔了牙齿； 本来不在计划之内的，但是看媳妇拔智齿恢复很轻松, 医生的建议可拔可不拔中选择了前者。 做的最正确的决定，就是拔牙前去体验了海底捞79元的午餐套餐，六荤三素，加麻辣的锅底。拔的的时候由于麻药的作用，感觉不到什么，直到几个小时候，才感觉到牙龈的疼痛。 其实拔牙最不好的体验，除了痛，还有就是无法正常吃很多东西，如果你不小心还关注了很多吃播，自然是一种极其难熬的体验，因为拔完后不是一天两天的恢复，医生都是建议一周后恢复正常的吃喝，所以拔牙后，瘦也是一种目标的达成。 体验厄尔尼诺影响的夏天，感受到异常酷爽的六月，然后就是闷热七月。天气热的时候，自己每周开始有规律的进行一周一次的游泳训练。我明显感觉每年自己有用的体力有着提升，原本去年年底计划挑战深水证，但是错过了。所以上上周，自己还是去完成这个目标。相对冬天，今年夏天，自己蛙泳游的好了，所以对于200米的距离还是可以通过切换泳姿来挑战的。 不出意外，顺利通过。这个时候我真的很想质疑，为什么一定要深水证，感觉胆子小的也不会来啊，我这个子，感觉水是可以完全淹没我的。奇了怪了。 前些天，我在博客草稿里面写下了标题《人生难免失",
     "source_root_domain": "jackpu.com"
+  },
+  {
+    "title": "完成重构了，效果不错，比我预想中的要快很",
+    "url": "https://versun.me/blog/tweet-2087819397251690746",
+    "date": "2026-08-13T08:31:48Z",
+    "description": "引用 最近我让 Kimi K3 用 go 语言重构了我的博客系统 Rables，原先是用 Rails 写的，内存占用至少 500 MB 起，重构后，只有 16 MB 左右，不要太爽了 https://github.com/versun/rables 完成重构了，效果不错，比我预想中的要快很多，总共消耗了5个 swarm+goal+max，累计90轮左右，累计消耗 1.3B token",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "Plants vs. Zombies updated",
