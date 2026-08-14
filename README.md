@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-14 | [逻辑自洽不等于事实完整](https://blog.solazy.me/20260814/) | 今天是一篇自省文 |
 | 2026-08-14 | [当 AI 让人不再相信工作｜灵感电波 #134](https://www.linggandianbo.com/newsletter-134/) | AI 为什么先动摇了知识工作者对职业的信仰；一位小说家怎样利用机器的错误重获创作乐趣。另有一万步的真实来源、神经可塑性的自我提升神话，以及 20 个值得存下的 YouTube 视频。 |
 | 2026-08-14 | [在 WSL2 中使用 Bitwarden SSH Agent](https://guchengf.me/blog/bitwarden-ssh-agent-on-wsl2/) | Bitwarden 桌面客户端可以充当 SSH Agent，让 SSH 私钥保存在 Bitwarden 保险库中，而不是直接存放在 ~/.ssh 目录。 在 Windows 中启用 Bitwarden SSH Agent 后，PowerShell 可以直接使用其中的密钥。但 WSL2 中的 Linu… |
 | 2026-08-14 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
@@ -47,6 +48,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-13 | [内测结束了，聊聊 DeepSeek Harness 的使用体验](https://digua.moe/posts/20260813-dsh.html) | > > 我最大的感受是：如果只把 DSH 当成一个 Coding Agent，很容易低估它。 在 X 上看到崔天翼老师发的内测招募后，我带着 ChatLab 报了名，第二天晚上就收到了邀请 |
 | 2026-08-13 | [一把开不了门的钥匙](https://tianheg.co/posts/locked-out/) | 我住的地方比较特殊，是工业园区内部的宿舍楼，3 和 4 楼是公司宿舍，5 楼对外出租。我就住 5 楼。 |
 | 2026-08-13 | [今日站点异常流量的分析](https://blog.mfwt.top/index.php/archives/1526/) | 人家说，三天不打上房揭瓦，今天倒好，三天不更，就开始有什么东西来揭瓦了。真希望他们能明白，『短暂停更一段时间』的意思是笔者暂时不更新，去打游戏了，不代表我不看站点的运行情况，也不代表我不会分析流... |
+| 2026-08-13 | [兜底的代价](https://blog.solazy.me/20260813/) | 兜底到底会把自己兜成什么 |
 | 2026-08-13 | [从Vibe Coding到AI Agent：一个喂养系统的完整实践](https://imzlp.com/posts/84248/) | 今年对我来说是个非常意义重大的一年：我娃出生了。在新生的喜悦中，也不免有很多焦虑——总担心不能科学地喂养宝宝、有什么纰漏。在月子中心时，月嫂会比较规律的喂养信息记录——什么时间喝奶、睡了多久，几次大小便，有没有吃AD等，都会记录下来，可以追踪喂养状态。 但她们是通过纸笔记录，不够数字化。 当回家之后… |
 | 2026-08-13 | [ds harness 来啦来啦](https://versun.me/blog/tweet-2087888143542530371) | 引用 🧩 DeepSeek Harness v0.1 is now available in Developer Preview! 🔹 We’re opening it up to developers building agent harnesses worldwide and open-sour… |
 | 2026-08-13 | [黑群晖断电后无法启动：用 RR 引导无损恢复全记录](https://blog.hoopan.net/851.html) | 黑群晖因突发停电导致引导 U 盘损坏而无法启动，通过 RR 引导（RedPill-Rotor）重做引导盘，无损恢复原系统与数据的完整排查记录。 |
