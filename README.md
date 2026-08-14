@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-14 | [DeepSeek Harness 论文《时空可组合性编程范式》中文白话](https://nigzu.com/deepseek-harness-cordis-programming-paradigm-spatiotemporal-composability-plain-explanation/) | DeepSeek 开源的智能体产品 deepseek-harness 采用“一切皆插件”的架构，其中核心插件框架 Cordis 的思想来自同期论文 《A Programming Paradigm for Spatiotemporal Composability》 |
 | 2026-08-14 | [第一次走进互联网](https://www.tortorse.com/archives/first-step-into-the-internet/) | 上一篇的故事，停在那个没有从学校 286 屏幕里跑出来的马里奥上。 |
 | 2026-08-14 | [逻辑自洽不等于事实完整](https://blog.solazy.me/20260814/) | 今天是一篇自省文 |
 | 2026-08-14 | [当 AI 让人不再相信工作｜灵感电波 #134](https://www.linggandianbo.com/newsletter-134/) | AI 为什么先动摇了知识工作者对职业的信仰；一位小说家怎样利用机器的错误重获创作乐趣。另有一万步的真实来源、神经可塑性的自我提升神话，以及 20 个值得存下的 YouTube 视频。 |

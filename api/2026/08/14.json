@@ -1,5 +1,12 @@
 [
   {
+    "title": "DeepSeek Harness 论文《时空可组合性编程范式》中文白话",
+    "url": "https://nigzu.com/deepseek-harness-cordis-programming-paradigm-spatiotemporal-composability-plain-explanation/",
+    "date": "2026-08-14T17:09:59Z",
+    "description": "DeepSeek 开源的智能体产品 deepseek-harness 采用“一切皆插件”的架构，其中核心插件框架 Cordis 的思想来自同期论文 《A Programming Paradigm for Spatiotemporal Composability》",
+    "source_root_domain": "nigzu.com"
+  },
+  {
     "title": "第一次走进互联网",
     "url": "https://www.tortorse.com/archives/first-step-into-the-internet/",
     "date": "2026-08-14T14:16:43Z",
