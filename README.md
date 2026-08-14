@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-14 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
+| 2026-08-14 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
 | 2026-08-14 | [SkyWalking 每日写入 ES 数据量过大排查与降采样](https://199604.com/3646) | SkyWalking 每日写入 ES 数据量过大排查与降采样 记录时间：2026-08-13 环境：dyck […] |
 | 2026-08-14 | [灵魂插件 MCP](https://kaix.in/2026/0814/) | 最近咖啡馆工作依然忙碌，身体上倒完全适应，但是越来越觉得费神。对我而言，身体上放松的方式不是躺下，而是摆弄花花草草，继续劳作，晚上睡个好觉。精神上则是看看让自己愉快的书，或者捡起随手丢在一边的废弃代码让脑子换个运转的方向。 所以这几天，在我三米高的琴叶榕底下，折腾出来一个「甄仁岛灵魂插件」。简单说，… |
 | 2026-08-14 | [什么都不想做的时候](https://www.hecaitou.com/2026/08/when-you-feel-like-doing-nothing.html) | 人就是会有这样的时候，什么都不想做，但又没有严重到需要求医问药的程度。自己也觉得这样下去会是个麻烦，可也不知道有什么办法解除。于是就上网跑来问我，而我只能回答说：人就是会有这样的时候。 用我自己为例，看起来一年三百六十五天都在更新，有时候还不止一篇，很勤奋很充实很有韧性的样子。只有我自己最清楚，一年… |
@@ -35,6 +37,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-14 | [Memos: 博客支持 LaTeX 数学公式渲染](https://blog.yasking.org/a/1786673760) | 给博客加了 LaTeX 数学公式支持，方案是 KaTeX + 构建时预渲染为静态 HTML，语法为 $...$ / $$...$$ ，这里记录几个示例。 行内公式 正文里插入公式不用 … |
 | 2026-08-14 | [去日你自己吧](https://mobius.blog/25378.html) | 当然，标题是对“Go fuck yourself”的字面直译，实际上这句应该被翻译成“滚远点”。 我很喜欢看英 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-14 | [gemini 3.7 flash 也出来](https://versun.me/blog/tweet-2088054404809454022) | 引用 Introducing Gemini 3.7 Flash : ) - it is fast! - 50% lower price than 3.6 flash (through end of year) - strong intelligence increase in only ~3 wee… |
+| 2026-08-14 | [Starryblu：OCBC 还是舍不得丢掉中国用户啊](https://www.meettea.com/digital-refugee/starryblu.html) | 熊猫速汇做的 Starryblu，切到 SGD 充值会给你开一个同名新加坡 OCBC 账户。配合 Wise 可零费用实时转入，也能微信支付宝花、国内 ATM 取现。 |
 | 2026-08-14 | [Memos #2026-08-13](https://www.taober.blog/memos) | 22:19 人生第一次吃素食餐厅，不错！ |
 | 2026-08-13 | [学习周刊-总第276期-2026年第33周](https://wiki.eryajf.net/pages/630ab4/) | 如要阅读全文，点击标题跳转。 学习周刊-总第276期 &#124; Clauge &#124; clipmon &#124; Worklog &#124; Monica &#124; amytis &#124; CodingNS &#124; software_guard &#124; agent-island |
 | 2026-08-13 | [科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 浙江台州的椒江滨江公共空间生态绿廊，象征涟漪从水面蔓延，涌上岸边，堆积成丘。（ via ） 你需要知道的… |

@@ -1,5 +1,19 @@
 [
   {
+    "title": "独立开发者的英国公司报税（2026）",
+    "url": "https://www.meettea.com/uk-company-tax-2026.html",
+    "date": "2026-08-14T09:51:46Z",
+    "description": "给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。",
+    "source_root_domain": "meettea.com"
+  },
+  {
+    "title": "终结竞争：从护城河到商业终局的实战指南",
+    "url": "https://www.meettea.com/business-moat-endgame.html",
+    "date": "2026-08-14T09:51:45Z",
+    "description": "从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构",
+    "source_root_domain": "meettea.com"
+  },
+  {
     "title": "SkyWalking 每日写入 ES 数据量过大排查与降采样",
     "url": "https://199604.com/3646",
     "date": "2026-08-14T08:43:33Z",
@@ -54,6 +68,13 @@
     "date": "2026-08-14T00:05:38Z",
     "description": "引用 Introducing Gemini 3.7 Flash : ) - it is fast! - 50% lower price than 3.6 flash (through end of year) - strong intelligence increase in only ~3 weeks (thanks to some awesome algorithmic improvements) - available in the API, AI Studio, Antigravity, a gemini 3.7 flash 也出来了，但似乎没什么人讨论了，真沦为豆包了？😂",
     "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Starryblu：OCBC 还是舍不得丢掉中国用户啊",
+    "url": "https://www.meettea.com/digital-refugee/starryblu.html",
+    "date": "2026-08-14T00:00:00Z",
+    "description": "熊猫速汇做的 Starryblu，切到 SGD 充值会给你开一个同名新加坡 OCBC 账户。配合 Wise 可零费用实时转入，也能微信支付宝花、国内 ATM 取现。",
+    "source_root_domain": "meettea.com"
   },
   {
     "title": "Memos #2026-08-13",
