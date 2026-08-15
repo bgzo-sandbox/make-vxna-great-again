@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-15 | [黄鼠狼](https://godruoyi.com/posts/weasel/) | 我昨晚咬死三只鹅一只鸡。那是在一个农户家， 凌晨三点半。我从铁丝网的缺口悄悄地钻进了鸡圈，我看到鸡圈里面有三只鹅 |
+| 2026-08-15 | [杂谈-《兔死狗烹》我们真的希望威胁彻底消失吗？](https://www.impdx.vip/archives/aqzt-tsgp1) | 灵感来自抖音@马走日 有声版： 文字版 【匠人】：我十五岁拜师学艺，二十岁自立门户。三十年光阴浮沉，我毕生所学，不过这一门手艺。 【来客】：何 |
+| 2026-08-15 | [向云端｜西南自驾10 - 下司](https://blog.ops-coffee.com/r/2026-southwest-road-trip-10-xiasi.html) |  |
 | 2026-08-15 | [中式番茄炒鸡蛋吃多了也会腻](https://mobius.blog/25388.html) | 在开始今天的话题之前，得叠好几重甲： 在看完《龙餐馆》之后，我突然有一种持续性的“生理不适”。这种生理不适不是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-15 | [这才是我的 Qwen 嘛，本地部署 Op](https://versun.me/blog/tweet-2088424069603680550) | 引用 Performance of Qwen3.8-27B: 这才是我的 Qwen 嘛，本地部署 Opus 4.6 性能的模型，还要啥自行车 mac mini m4 pro 64G 关掉thinking，实测 12 tokens/s |
 | 2026-08-15 | [HSBC汇丰澳洲宣布关闭，2%返现要凉了](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/08/15/hsbc-australia-will-close-soon-no-more-cashback.html) | 7月底的时候，我收到了一封来自HSBC Australia的邮件： |
