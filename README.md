@@ -28,15 +28,21 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-08-15 | [黄鼠狼](https://godruoyi.com/posts/weasel/) | 我昨晚咬死三只鹅一只鸡。那是在一个农户家， 凌晨三点半。我从铁丝网的缺口悄悄地钻进了鸡圈，我看到鸡圈里面有三只鹅 |
+| 2026-08-15 | [诺兰的《奥德赛》采取了什么样的改编策略？](https://www.geedea.pro/article/odyssey/) | 笔者刚刚从电影院回到家，趁着记忆还很清晰来写影评。离开影院之前我记下了几个印象深刻的点，接下来我会逐个分析这些情节、人物、背景乃至主题层面的增删改究竟和原著有什么区别，同时我还会对比另外一部《奥德赛》的改编作品，音乐剧《EPIC：The Musical》，看看不同的创作者采用了什么样的改编策略，背后… |
+| 2026-08-15 | [杂谈安全 - 《兔死狗烹之无患可除：当安全开始证明自己的存在》](https://www.impdx.vip/archives/tu-si-gou-peng-zhi-wu-huan-ke-chu-dang-an-quan-kai-shi-zheng-ming-zi-ji-de-cun-zai) | 杂谈安全 - 《兔死狗烹之无患可除：当安全开始证明自己的存在》 ——我们真的希望威胁彻底消失吗？ 一、鼠患，是我们的饭碗 【来客】： 你说无患可除，匠人便成祸患。可若真有鼠患，你们总该是有用的吧？ 【匠人】： 自然有用。 【来客】： 如何有用？ 【匠人】： 先寻鼠踪，再报鼠患；先论其凶，再定其险；最 |
+| 2026-08-15 | [【公告】RSS 订阅地址优化说明](https://versun.me/blog/rss-feeds-by-content-type) | 最近，我给博客加上了「推特同步」功能，博客会自动抓取并发布我在 Twitter 上的所有发言。这个新特性让内容更丰富了，但也让原有的 RSS 订阅源变得有些冗杂。在此，向一直订阅我的朋友们说声抱歉。为提升阅读体验，我已对 RSS... |
 | 2026-08-15 | [聊聊郭刚](https://blog.lhasa.icu/posts/life/2026-08-15-cultural-revolution-2/) | 欲加之罪，何患无辞 |
 | 2026-08-15 | [香港 Day2・赞美之泉演唱会](https://blog.yasking.org/a/photos-hk-day2) | 第二天的天气也是阴的，听着外边儿淅沥沥的雨声和车压过路面的声音，也就没有早出去的心情，中午饿了就打算出去吃 … |
 | 2026-08-15 | [杂谈-《兔死狗烹》我们真的希望威胁彻底消失吗？](https://www.impdx.vip/archives/aqzt-tsgp1) | 灵感来自抖音@马走日 有声版： 文字版 【匠人】：我十五岁拜师学艺，二十岁自立门户。三十年光阴浮沉，我毕生所学，不过这一门手艺。 【来客】：何 |
 | 2026-08-15 | [向云端｜西南自驾10 - 下司](https://blog.ops-coffee.com/r/2026-southwest-road-trip-10-xiasi.html) |  |
+| 2026-08-15 | [完蛋了，自己的手打回复也出现了“不是。。](https://versun.me/blog/tweet-2088470014362005566) | 引用 @kevinmadevzh 同意，还有一个典型的问题就是，免费用户提需求提得比谁都勤，因为没有成本。 开发者很容易陷在这堆需求里自我感动，但对产品价值未必是正向的，付费门槛本身就是最好的需求过滤器 当然不是说免费反馈都没价值，而是没有付费门槛时，信号和噪音分不开，小团队扛不住这个筛选成本 完蛋… |
 | 2026-08-15 | [1998，游戏厅外的世界](https://www.tortorse.com/archives/the-world-outside-the-arcade-1998/) | 九十年代的年轻人围坐在电视前玩格斗游戏 |
+| 2026-08-15 | [我一直关注 Claw-Eval 排行榜，](https://versun.me/blog/tweet-2088448347418083808) | 我一直关注 Claw-Eval 排行榜，但它不更新了，太可惜了 https://claw-eval-live.github.io/ |
 | 2026-08-15 | [中式番茄炒鸡蛋吃多了也会腻](https://mobius.blog/25388.html) | 在开始今天的话题之前，得叠好几重甲： 在看完《龙餐馆》之后，我突然有一种持续性的“生理不适”。这种生理不适不是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-15 | [这才是我的 Qwen 嘛，本地部署 Op](https://versun.me/blog/tweet-2088424069603680550) | 引用 Performance of Qwen3.8-27B: 这才是我的 Qwen 嘛，本地部署 Opus 4.6 性能的模型，还要啥自行车 mac mini m4 pro 64G 关掉thinking，实测 12 tokens/s |
 | 2026-08-15 | [HSBC汇丰澳洲宣布关闭，2%返现要凉了](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/08/15/hsbc-australia-will-close-soon-no-more-cashback.html) | 7月底的时候，我收到了一封来自HSBC Australia的邮件： |
 | 2026-08-15 | [Memos #2026-08-14](https://www.taober.blog/memos) | 09:39 地铁上莫名一瞬间突然发现，跳槽涨薪跟赛亚人濒死复活战力提升的机制是一样的。 |
+| 2026-08-14 | [克兰奇杀妻案](https://re.karlbaey.top/articles/return-to-dusk/the-clench-wife-murder-case/) | The Clench Wife-Murder Case, or Stitches, whatever. 1 四月刚把大门 … |
 | 2026-08-14 | [DeepSeek Harness 论文《时空可组合性编程范式》中文白话](https://nigzu.com/deepseek-harness-cordis-programming-paradigm-spatiotemporal-composability-plain-explanation/) | DeepSeek 开源的智能体产品 deepseek-harness 采用“一切皆插件”的架构，其中核心插件框架 Cordis 的思想来自同期论文 《A Programming Paradigm for Spatiotemporal Composability》 |
 | 2026-08-14 | [第一次走进互联网](https://www.tortorse.com/archives/first-step-into-the-internet/) | 上一篇的故事，停在那个没有从学校 286 屏幕里跑出来的马里奥上。 |
 | 2026-08-14 | [逻辑自洽不等于事实完整](https://blog.solazy.me/20260814/) | 今天是一篇自省文 |
