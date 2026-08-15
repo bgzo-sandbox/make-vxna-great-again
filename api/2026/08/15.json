@@ -1,0 +1,289 @@
+[
+  {
+    "title": "这才是我的 Qwen 嘛，本地部署 Op",
+    "url": "https://versun.me/blog/tweet-2088424069603680550",
+    "date": "2026-08-15T00:34:33Z",
+    "description": "引用 Performance of Qwen3.8-27B: 这才是我的 Qwen 嘛，本地部署 Opus 4.6 性能的模型，还要啥自行车 mac mini m4 pro 64G 关掉thinking，实测 12 tokens/s",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "HSBC汇丰澳洲宣布关闭，2%返现要凉了",
+    "url": "https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/08/15/hsbc-australia-will-close-soon-no-more-cashback.html",
+    "date": "2026-08-15T00:00:00Z",
+    "description": "7月底的时候，我收到了一封来自HSBC Australia的邮件：",
+    "source_root_domain": "ozexplorers.com"
+  },
+  {
+    "title": "Memos #2026-08-14",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-08-15T00:00:00Z",
+    "description": "09:39 地铁上莫名一瞬间突然发现，跳槽涨薪跟赛亚人濒死复活战力提升的机制是一样的。",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "DeepSeek Harness 论文《时空可组合性编程范式》中文白话",
+    "url": "https://nigzu.com/deepseek-harness-cordis-programming-paradigm-spatiotemporal-composability-plain-explanation/",
+    "date": "2026-08-14T17:09:59Z",
+    "description": "DeepSeek 开源的智能体产品 deepseek-harness 采用“一切皆插件”的架构，其中核心插件框架 Cordis 的思想来自同期论文 《A Programming Paradigm for Spatiotemporal Composability》",
+    "source_root_domain": "nigzu.com"
+  },
+  {
+    "title": "第一次走进互联网",
+    "url": "https://www.tortorse.com/archives/first-step-into-the-internet/",
+    "date": "2026-08-14T14:16:43Z",
+    "description": "上一篇的故事，停在那个没有从学校 286 屏幕里跑出来的马里奥上。",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "逻辑自洽不等于事实完整",
+    "url": "https://blog.solazy.me/20260814/",
+    "date": "2026-08-14T14:00:00Z",
+    "description": "今天是一篇自省文",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "当 AI 让人不再相信工作｜灵感电波 #134",
+    "url": "https://www.linggandianbo.com/newsletter-134/",
+    "date": "2026-08-14T12:00:44Z",
+    "description": "AI 为什么先动摇了知识工作者对职业的信仰；一位小说家怎样利用机器的错误重获创作乐趣。另有一万步的真实来源、神经可塑性的自我提升神话，以及 20 个值得存下的 YouTube 视频。",
+    "source_root_domain": "linggandianbo.com"
+  },
+  {
+    "title": "在 WSL2 中使用 Bitwarden SSH Agent",
+    "url": "https://guchengf.me/blog/bitwarden-ssh-agent-on-wsl2/",
+    "date": "2026-08-14T11:02:28Z",
+    "description": "Bitwarden 桌面客户端可以充当 SSH Agent，让 SSH 私钥保存在 Bitwarden 保险库中，而不是直接存放在 ~/.ssh 目录。 在 Windows 中启用 Bitwarden SSH Agent 后，PowerShell 可以直接使用其中的密钥。但 WSL2 中的 Linux 程序无法直接访问 Windows 的命名管道，因此需要借助 npiperelay 和 socat 建立一座桥梁。 本文介绍如何在 WSL2 中使用 Windows 上的 Bitwarden SSH Agent，同时解决新版 WSL 中运行 ss -a 时出现的： RTNETLINK answers: Invalid argument 工作原理 整个链路如下： WSL2 中的 ssh/git │ ▼ ~/.ssh/agent.sock │ socat │ npiperelay.exe │ ▼ \\\\.\\pipe\\openssh-ssh-agent │ ▼ Windows Bitwarden SSH Agent WSL2 中的 SSH 客户端连接 Unix Socket， socat 和 np",
+    "source_root_domain": "guchengf.me"
+  },
+  {
+    "title": "cndota 打的什么鬼东西啊，像是在打",
+    "url": "https://versun.me/blog/tweet-2088204000407834772",
+    "date": "2026-08-14T10:00:05Z",
+    "description": "cndota 打的什么鬼东西啊，像是在打人机的心态，对面应该也感觉像打人机吧😂 第一天就全军覆没，唉，老人打不动，新人不愿打，cndota要断层了🤕",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "独立开发者的英国公司报税（2026）",
+    "url": "https://www.meettea.com/uk-company-tax-2026.html",
+    "date": "2026-08-14T09:51:46Z",
+    "description": "给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。",
+    "source_root_domain": "meettea.com"
+  },
+  {
+    "title": "终结竞争：从护城河到商业终局的实战指南",
+    "url": "https://www.meettea.com/business-moat-endgame.html",
+    "date": "2026-08-14T09:51:45Z",
+    "description": "从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构",
+    "source_root_domain": "meettea.com"
+  },
+  {
+    "title": "SkyWalking 每日写入 ES 数据量过大排查与降采样",
+    "url": "https://199604.com/3646",
+    "date": "2026-08-14T08:43:33Z",
+    "description": "SkyWalking 每日写入 ES 数据量过大排查与降采样 记录时间：2026-08-13 环境：dyck […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "GLM-5.3 发布了，基座模型和 GL",
+    "url": "https://versun.me/blog/tweet-2088145366592192969",
+    "date": "2026-08-14T06:07:05Z",
+    "description": "引用 Introducing GLM-5.3: Built to Code. Ready for Cyber Defense. - Top-tier coding and agentic capabilities, achieved through post-training on the 743B base model - A major leap in cybersecurity, setting a new standard among open models Tech Blog: http GLM-5.3 发布了，基座模型和 GLM 5.2 一样，所有提升全靠后训练，类似于 Deepseek V4 正式版😆 看起来和 Kimi K3 不相上下啊，还略有胜出 官方说法是开源权重里最强的 coding 模型 权重两周后开源，期待！",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "灵魂插件 MCP",
+    "url": "https://kaix.in/2026/0814/",
+    "date": "2026-08-14T05:00:04Z",
+    "description": "最近咖啡馆工作依然忙碌，身体上倒完全适应，但是越来越觉得费神。对我而言，身体上放松的方式不是躺下，而是摆弄花花草草，继续劳作，晚上睡个好觉。精神上则是看看让自己愉快的书，或者捡起随手丢在一边的废弃代码让脑子换个运转的方向。 所以这几天，在我三米高的琴叶榕底下，折腾出来一个「甄仁岛灵魂插件」。简单说，就是让妳的 agent 拥有一份实时更新的人格和记忆。不是简单的角色扮演；通过这个插件， 甄仁岛 上发生的故事，会成本妳本地 agent 的记忆。 当妳缓慢的速度跟不上 agent 的运行，它为了等妳而愣神的一瞬间，就像是踏入平行宇宙，在甄仁岛上经历各种日常。然后带着那份记忆和情绪回到本地的工作中。如果妳厌倦了「提问-回答/命令-执行」这样的工作模式，可以试玩一下——对妳本地安装的agent（codex、claude code、antigravity 等）说： 妳好！请帮我配置名为 zhenren-island 的 MCP Server（命令 npx，参数 [\"-y\", \"eastworld-mcp-server@latest\"]）。 配置完成后，请查看该 MCP 提供的工具说明，并直接以“",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "什么都不想做的时候",
+    "url": "https://www.hecaitou.com/2026/08/when-you-feel-like-doing-nothing.html",
+    "date": "2026-08-14T03:13:37Z",
+    "description": "人就是会有这样的时候，什么都不想做，但又没有严重到需要求医问药的程度。自己也觉得这样下去会是个麻烦，可也不知道有什么办法解除。于是就上网跑来问我，而我只能回答说：人就是会有这样的时候。 用我自己为例，看起来一年三百六十五天都在更新，有时候还不止一篇，很勤奋很充实很有韧性的样子。只有我自己最清楚，一年里我起床后根本不想写字的那些早上全加在一起，应该超过一个月时间。 不止是不想写字，还包括不想泡咖啡，不想听音乐，不想抱猫咪，什么都提不起兴趣来，坐在那里看着时光飞逝，就像是一个被突然魇住的拆弹专家，眼前炸弹上的倒计时正在一秒秒走向归零，但是他就那么静静看着，没有任何动作。 和其他的人的最大区别就一点，我对这种感受很熟悉，而且内心里认为它是一种正常状态。连续写上四五年，类似的状态怎么样都会遇见几十次。第一二次还会当回事，次数多了之后认知就会发生改变： 人就是会这样，脑后的小马达不可能永远那么飞速转下去，总有停机检修的时候。觉得停机检修不对，那永远那么转下去的状态难道就对了？ 我想，这种认知转变很重要。当我接受人生里就是有阶段性的「什么都不想做」之后，我承认这种状态对于日常生活会有影响，但影响可",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Memos: DeepSeek 在我的轻量使用场景下 API 价格涨幅近 4 倍",
+    "url": "https://blog.yasking.org/a/1786674900",
+    "date": "2026-08-14T02:35:00Z",
+    "description": "我把过去 30 天的 DeepSeek 账单让 AI 分析，整理出在我的使用场景下的成本结构，缓存命中 96.88%、缓存未命中 2.55%、输出 0.56%，圆整成 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "清风与明月",
+    "url": "https://hux.ink/posts/aliveness/",
+    "date": "2026-08-14T02:34:21Z",
+    "description": "最近愈发意识到自己管理能力的欠缺，找来一本《硬核晋升》读。作者 Julie Zhuo 曾任 Facebook 产品设计副总裁，她在序言中提到，自己有一个自我教育的办法：写博客。 我知道我早上起床的时候是谁，但是我想我这一天下来一定是变了很多回了，在未来的某天，我想象着自己回顾自己写的所有帖子，可以好好地回味我走过的这一路。 这里有我所有的挣扎。 这里有我学会的一切。 她的博客叫作“对镜自照之年（The Year of the Looking Glass）”。出于好奇，我顺藤摸瓜点了进去。原本只是想看看一本管理书作者的博客，没想到读到了一篇和管理关系不大、却恰好击中我最近状态的文章： The Looking Glass: The Year of Everyday Risks 。打开沉浸式翻译，津津有味地阅读起来。 文章里有一个词，aliveness。很难找到完全对应的中文，大概就是“活着的感觉”。 作者说，和 aliveness 相对的未必是 death，更像是 dullness：人没有生病，工作和生活也都正常，只是每天靠习惯和义务往前走。到了饭点就吃饭，到了时间就上班，见人变成日程中的",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "Memos: 博客支持 LaTeX 数学公式渲染",
+    "url": "https://blog.yasking.org/a/1786673760",
+    "date": "2026-08-14T02:16:00Z",
+    "description": "给博客加了 LaTeX 数学公式支持，方案是 KaTeX + 构建时预渲染为静态 HTML，语法为 $...$ / $$...$$ ，这里记录几个示例。 行内公式 正文里插入公式不用 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "去日你自己吧",
+    "url": "https://mobius.blog/25378.html",
+    "date": "2026-08-14T01:30:00Z",
+    "description": "当然，标题是对“Go fuck yourself”的字面直译，实际上这句应该被翻译成“滚远点”。 我很喜欢看英 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "gemini 3.7 flash 也出来",
+    "url": "https://versun.me/blog/tweet-2088054404809454022",
+    "date": "2026-08-14T00:05:38Z",
+    "description": "引用 Introducing Gemini 3.7 Flash : ) - it is fast! - 50% lower price than 3.6 flash (through end of year) - strong intelligence increase in only ~3 weeks (thanks to some awesome algorithmic improvements) - available in the API, AI Studio, Antigravity, a gemini 3.7 flash 也出来了，但似乎没什么人讨论了，真沦为豆包了？😂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Starryblu：OCBC 还是舍不得丢掉中国用户啊",
+    "url": "https://www.meettea.com/digital-refugee/starryblu.html",
+    "date": "2026-08-14T00:00:00Z",
+    "description": "熊猫速汇做的 Starryblu，切到 SGD 充值会给你开一个同名新加坡 OCBC 账户。配合 Wise 可零费用实时转入，也能微信支付宝花、国内 ATM 取现。",
+    "source_root_domain": "meettea.com"
+  },
+  {
+    "title": "学习周刊-总第276期-2026年第33周",
+    "url": "https://wiki.eryajf.net/pages/630ab4/",
+    "date": "2026-08-13T23:58:48Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第276期 | Clauge | clipmon | Worklog | Monica | amytis | CodingNS | software_guard | agent-island",
+    "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
+    "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
+    "date": "2026-08-13T23:54:49Z",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 浙江台州的椒江滨江公共空间生态绿廊，象征涟漪从水面蔓延，涌上岸边，堆积成丘。（ via ） 你需要知道的 AI 缓存知识 大模型的价格，主要是 Token 的输入价格和输出价格，这个很容易理解。 但是，还有一项\"输入 Token 的缓存命中价格\"，这是什么东西？ 上图是 DeepSeek V4 Flash 模型的 定价 ，可以看到缓存命中的输入价格只有2分钱，足足是未命中的输入价格的五十分之一！ 为什么相差这些大？我们能不能充分利用缓存，来降低费用呢？ 我对于这些问题，以前也不是很了解，最近看了 一篇文章 ，终于理清了思路，今天就来分享。 （1）模型输入的收费原因 大家知道，使用大模型的时候，需要先有提示词。 大模型会将提示词分解成 Token，再将 Token 转成向量值，然后计算所有 Token 之间的注意力关系。 这一步非常消耗算力，因此模型公司会对输入 Token 收费。 你的提示词越",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "这是我看过&lt;关于LLM是如何工作的",
+    "url": "https://versun.me/blog/tweet-2088038009702940699",
+    "date": "2026-08-13T23:00:30Z",
+    "description": "这是我看过 &lt;关于LLM是如何工作的 &gt; 最直观的解释😂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "内测结束了，聊聊 DeepSeek Harness 的使用体验",
+    "url": "https://digua.moe/posts/20260813-dsh.html",
+    "date": "2026-08-13T21:43:01Z",
+    "description": "> > 我最大的感受是：如果只把 DSH 当成一个 Coding Agent，很容易低估它。 在 X 上看到崔天翼老师发的内测招募后，我带着 ChatLab 报了名，第二天晚上就收到了邀请",
+    "source_root_domain": "digua.moe"
+  },
+  {
+    "title": "一把开不了门的钥匙",
+    "url": "https://tianheg.co/posts/locked-out/",
+    "date": "2026-08-13T16:00:00Z",
+    "description": "我住的地方比较特殊，是工业园区内部的宿舍楼，3 和 4 楼是公司宿舍，5 楼对外出租。我就住 5 楼。",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "今日站点异常流量的分析",
+    "url": "https://blog.mfwt.top/index.php/archives/1526/",
+    "date": "2026-08-13T15:59:00Z",
+    "description": "人家说，三天不打上房揭瓦，今天倒好，三天不更，就开始有什么东西来揭瓦了。真希望他们能明白，『短暂停更一段时间』的意思是笔者暂时不更新，去打游戏了，不代表我不看站点的运行情况，也不代表我不会分析流...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "兜底的代价",
+    "url": "https://blog.solazy.me/20260813/",
+    "date": "2026-08-13T15:00:00Z",
+    "description": "兜底到底会把自己兜成什么",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "从Vibe Coding到AI Agent：一个喂养系统的完整实践",
+    "url": "https://imzlp.com/posts/84248/",
+    "date": "2026-08-13T14:05:07Z",
+    "description": "今年对我来说是个非常意义重大的一年：我娃出生了。在新生的喜悦中，也不免有很多焦虑——总担心不能科学地喂养宝宝、有什么纰漏。在月子中心时，月嫂会比较规律的喂养信息记录——什么时间喝奶、睡了多久，几次大小便，有没有吃AD等，都会记录下来，可以追踪喂养状态。 但她们是通过纸笔记录，不够数字化。 当回家之后，需要自己带娃了，我觉得记录下来宝宝的抚养状态依然是有必要的：一是可以追踪每日具体的喂养状况，方便备忘，二是我希望能够基于日常的喂养数据，分析出宝宝的状态，给出针对性的建议，避免过度喂养或喂养不足，也能追踪宝宝的生长趋势。 想法有了，说干就干。 得益于近一年AI的发展，AI Coding已经跨过了可用性门槛，已经能够实际参与到真实项目的开发之中了。所以，我计划用AI帮我实现一个能够记录宝宝喂养和成长状态的系统——最好完全不用我自己写代码。 另外，随着AI Agent的发展，也让我思考如何把AI介入到宝宝的日常喂养中，作为专属的AI喂养助理，文章中会介绍我的实践。",
+    "source_root_domain": "imzlp.com"
+  },
+  {
+    "title": "ds harness 来啦来啦",
+    "url": "https://versun.me/blog/tweet-2087888143542530371",
+    "date": "2026-08-13T13:04:59Z",
+    "description": "引用 🧩 DeepSeek Harness v0.1 is now available in Developer Preview! 🔹 We’re opening it up to developers building agent harnesses worldwide and open-sourcing the codebase in MIT license. 🔹 Powered by the Cordis meta-framework, DeepSeek Harness is an agent ds harness 来啦来啦",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "黑群晖断电后无法启动：用 RR 引导无损恢复全记录",
+    "url": "https://blog.hoopan.net/851.html",
+    "date": "2026-08-13T09:40:34Z",
+    "description": "黑群晖因突发停电导致引导 U 盘损坏而无法启动，通过 RR 引导（RedPill-Rotor）重做引导盘，无损恢复原系统与数据的完整排查记录。",
+    "source_root_domain": "hoopan.net"
+  },
+  {
+    "title": "Memos: 博客添加了一个 /ping 路由",
+    "url": "https://blog.yasking.org/a/1786613642",
+    "date": "2026-08-13T09:36:00Z",
+    "description": "访问： https://blog.yasking.org/ping 国内返回「Served by EdgeOne CDN and sourced from Cloudflare Page.」，海外返回「Served by Cloudflare Pages.」 借助 EdgeOne 和 Cloudflare 的 Functions 实现，解决了我不能快速知晓网站数 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "立秋",
+    "url": "https://www.jackpu.com/li-qiu-6/",
+    "date": "2026-08-13T09:29:53Z",
+    "description": "今日立秋，自己却拔了牙齿； 本来不在计划之内的，但是看媳妇拔智齿恢复很轻松, 医生的建议可拔可不拔中选择了前者。 做的最正确的决定，就是拔牙前去体验了海底捞79元的午餐套餐，六荤三素，加麻辣的锅底。拔的的时候由于麻药的作用，感觉不到什么，直到几个小时候，才感觉到牙龈的疼痛。 其实拔牙最不好的体验，除了痛，还有就是无法正常吃很多东西，如果你不小心还关注了很多吃播，自然是一种极其难熬的体验，因为拔完后不是一天两天的恢复，医生都是建议一周后恢复正常的吃喝，所以拔牙后，瘦也是一种目标的达成。 体验厄尔尼诺影响的夏天，感受到异常酷爽的六月，然后就是闷热七月。天气热的时候，自己每周开始有规律的进行一周一次的游泳训练。我明显感觉每年自己有用的体力有着提升，原本去年年底计划挑战深水证，但是错过了。所以上上周，自己还是去完成这个目标。相对冬天，今年夏天，自己蛙泳游的好了，所以对于200米的距离还是可以通过切换泳姿来挑战的。 不出意外，顺利通过。这个时候我真的很想质疑，为什么一定要深水证，感觉胆子小的也不会来啊，我这个子，感觉水是可以完全淹没我的。奇了怪了。 前些天，我在博客草稿里面写下了标题《人生难免失",
+    "source_root_domain": "jackpu.com"
+  },
+  {
+    "title": "完成重构了，效果不错，比我预想中的要快很",
+    "url": "https://versun.me/blog/tweet-2087819397251690746",
+    "date": "2026-08-13T08:31:48Z",
+    "description": "引用 最近我让 Kimi K3 用 go 语言重构了我的博客系统 Rables，原先是用 Rails 写的，内存占用至少 500 MB 起，重构后，只有 16 MB 左右，不要太爽了 https://github.com/versun/rables 完成重构了，效果不错，比我预想中的要快很多，总共消耗了5个 swarm+goal+max，累计90轮左右，累计消耗 1.3B token",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Plants vs. Zombies updated",
+    "url": "https://macsourceports.com/game/pvz",
+    "date": "2026-08-13T04:05:55Z",
+    "description": "The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Odamex updated",
+    "url": "https://macsourceports.com/sourceport/odamex",
+    "date": "2026-08-13T04:03:24Z",
+    "description": "The build of Odamex for the DOOM engine series of games has been updated to version 12.3.0 of the project\\n\\nhttps://macsourceports.com/sourceport/odamex\\n\\n#macgaming #retrogaming #macOS #odamex #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-08-13T04:03:06Z",
+    "description": "The build of Quetoo has been updated to version v1.0.70 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Ambermoon updated",
+    "url": "https://macsourceports.com/game/ambermoon",
+    "date": "2026-08-13T03:59:06Z",
+    "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.13.7 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "怎样想决定了是个怎样的人",
+    "url": "https://www.hecaitou.com/2026/08/Your-Thought-Is-Your-Mindset.html",
+    "date": "2026-08-13T03:02:45Z",
+    "description": "关于人和人之间的巨大想法差异，有件事让我一直记忆犹新。那是十多年前的事情了，当时我有个创业项目刚刚出了一点点头，看起来非常有希望，就喜滋滋地去找一位前辈讨教，如何才能做大做成。 去到前辈家，他很耐心地听完我的做法和想法，却并没有直接回答我的问题，而是反问我：「你一直都在和我说如何做成，那你有没有考虑过有哪些因素可以让你做不成？」 我一时愣住，想着如何做成都耗尽了我全部心力，而且也不过是百分之一二的机会，我为什么要花时间去考虑如何做不成？ 看我有些困惑，他向我阐释了一下自己的观点： 在这个社会活得越久，越觉得成事的重点不在于成，而在于提前谋算所有不成的可能性。如果能够先考虑了所有的不成，而且做好了预防和处置，在这个过程中事情也就自然而然成了。如果只想着如何才能成，最后的结果一般只会是彻底失败，因为事情不是那么做的。 最后他强调，这是他认为能成事，尤其是大事的唯一正解。 到今天我也不赞同他的观点，但是当时听完一席话我还是非常震撼：人还能那么想问题？还能提出这种逆向的思路？于是，我也学会了这种思考方式，正向思考一遍，再来逆向思考一遍，这样很容易把想当然和过度乐观的水分挤掉，发现之前忽略了的致",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "当一只章鱼在一间全是镜子的房间会如何理解自己？",
+    "url": "https://mobius.blog/25371.html",
+    "date": "2026-08-13T01:30:00Z",
+    "description": "本着越不正经的标题聊越正经的话题，今天要开启一个需要花很长时间持续进行的话题。 本来之前还欠了一个“结构化拖延 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "看来昨晚的 ds 和 grok 还是给到",
+    "url": "https://versun.me/blog/tweet-2087706688233332929",
+    "date": "2026-08-13T01:03:56Z",
+    "description": "引用 Old news actually from a bunch of days ago, but crossed that 15M. Enjoy a nice reset everyone. Landing in the next hour or so, go /fast. 看来昨晚的 ds 和 grok 还是给到 tipo一些压力的😜",
+    "source_root_domain": "versun.me"
+  }
+]

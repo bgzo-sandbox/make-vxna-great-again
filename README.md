@@ -27,14 +27,19 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-15 | [这才是我的 Qwen 嘛，本地部署 Op](https://versun.me/blog/tweet-2088424069603680550) | 引用 Performance of Qwen3.8-27B: 这才是我的 Qwen 嘛，本地部署 Opus 4.6 性能的模型，还要啥自行车 mac mini m4 pro 64G 关掉thinking，实测 12 tokens/s |
+| 2026-08-15 | [HSBC汇丰澳洲宣布关闭，2%返现要凉了](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/08/15/hsbc-australia-will-close-soon-no-more-cashback.html) | 7月底的时候，我收到了一封来自HSBC Australia的邮件： |
+| 2026-08-15 | [Memos #2026-08-14](https://www.taober.blog/memos) | 09:39 地铁上莫名一瞬间突然发现，跳槽涨薪跟赛亚人濒死复活战力提升的机制是一样的。 |
 | 2026-08-14 | [DeepSeek Harness 论文《时空可组合性编程范式》中文白话](https://nigzu.com/deepseek-harness-cordis-programming-paradigm-spatiotemporal-composability-plain-explanation/) | DeepSeek 开源的智能体产品 deepseek-harness 采用“一切皆插件”的架构，其中核心插件框架 Cordis 的思想来自同期论文 《A Programming Paradigm for Spatiotemporal Composability》 |
 | 2026-08-14 | [第一次走进互联网](https://www.tortorse.com/archives/first-step-into-the-internet/) | 上一篇的故事，停在那个没有从学校 286 屏幕里跑出来的马里奥上。 |
 | 2026-08-14 | [逻辑自洽不等于事实完整](https://blog.solazy.me/20260814/) | 今天是一篇自省文 |
 | 2026-08-14 | [当 AI 让人不再相信工作｜灵感电波 #134](https://www.linggandianbo.com/newsletter-134/) | AI 为什么先动摇了知识工作者对职业的信仰；一位小说家怎样利用机器的错误重获创作乐趣。另有一万步的真实来源、神经可塑性的自我提升神话，以及 20 个值得存下的 YouTube 视频。 |
 | 2026-08-14 | [在 WSL2 中使用 Bitwarden SSH Agent](https://guchengf.me/blog/bitwarden-ssh-agent-on-wsl2/) | Bitwarden 桌面客户端可以充当 SSH Agent，让 SSH 私钥保存在 Bitwarden 保险库中，而不是直接存放在 ~/.ssh 目录。 在 Windows 中启用 Bitwarden SSH Agent 后，PowerShell 可以直接使用其中的密钥。但 WSL2 中的 Linu… |
+| 2026-08-14 | [cndota 打的什么鬼东西啊，像是在打](https://versun.me/blog/tweet-2088204000407834772) | cndota 打的什么鬼东西啊，像是在打人机的心态，对面应该也感觉像打人机吧😂 第一天就全军覆没，唉，老人打不动，新人不愿打，cndota要断层了🤕 |
 | 2026-08-14 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
 | 2026-08-14 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
 | 2026-08-14 | [SkyWalking 每日写入 ES 数据量过大排查与降采样](https://199604.com/3646) | SkyWalking 每日写入 ES 数据量过大排查与降采样 记录时间：2026-08-13 环境：dyck […] |
+| 2026-08-14 | [GLM-5.3 发布了，基座模型和 GL](https://versun.me/blog/tweet-2088145366592192969) | 引用 Introducing GLM-5.3: Built to Code. Ready for Cyber Defense. - Top-tier coding and agentic capabilities, achieved through post-training on the 743B… |
 | 2026-08-14 | [灵魂插件 MCP](https://kaix.in/2026/0814/) | 最近咖啡馆工作依然忙碌，身体上倒完全适应，但是越来越觉得费神。对我而言，身体上放松的方式不是躺下，而是摆弄花花草草，继续劳作，晚上睡个好觉。精神上则是看看让自己愉快的书，或者捡起随手丢在一边的废弃代码让脑子换个运转的方向。 所以这几天，在我三米高的琴叶榕底下，折腾出来一个「甄仁岛灵魂插件」。简单说，… |
 | 2026-08-14 | [什么都不想做的时候](https://www.hecaitou.com/2026/08/when-you-feel-like-doing-nothing.html) | 人就是会有这样的时候，什么都不想做，但又没有严重到需要求医问药的程度。自己也觉得这样下去会是个麻烦，可也不知道有什么办法解除。于是就上网跑来问我，而我只能回答说：人就是会有这样的时候。 用我自己为例，看起来一年三百六十五天都在更新，有时候还不止一篇，很勤奋很充实很有韧性的样子。只有我自己最清楚，一年… |
 | 2026-08-14 | [Memos: DeepSeek 在我的轻量使用场景下 API 价格涨幅近 4 倍](https://blog.yasking.org/a/1786674900) | 我把过去 30 天的 DeepSeek 账单让 AI 分析，整理出在我的使用场景下的成本结构，缓存命中 96.88%、缓存未命中 2.55%、输出 0.56%，圆整成 … |
@@ -43,7 +48,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-14 | [去日你自己吧](https://mobius.blog/25378.html) | 当然，标题是对“Go fuck yourself”的字面直译，实际上这句应该被翻译成“滚远点”。 我很喜欢看英 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-14 | [gemini 3.7 flash 也出来](https://versun.me/blog/tweet-2088054404809454022) | 引用 Introducing Gemini 3.7 Flash : ) - it is fast! - 50% lower price than 3.6 flash (through end of year) - strong intelligence increase in only ~3 wee… |
 | 2026-08-14 | [Starryblu：OCBC 还是舍不得丢掉中国用户啊](https://www.meettea.com/digital-refugee/starryblu.html) | 熊猫速汇做的 Starryblu，切到 SGD 充值会给你开一个同名新加坡 OCBC 账户。配合 Wise 可零费用实时转入，也能微信支付宝花、国内 ATM 取现。 |
-| 2026-08-14 | [Memos #2026-08-13](https://www.taober.blog/memos) | 22:19 人生第一次吃素食餐厅，不错！ |
 | 2026-08-13 | [学习周刊-总第276期-2026年第33周](https://wiki.eryajf.net/pages/630ab4/) | 如要阅读全文，点击标题跳转。 学习周刊-总第276期 &#124; Clauge &#124; clipmon &#124; Worklog &#124; Monica &#124; amytis &#124; CodingNS &#124; software_guard &#124; agent-island |
 | 2026-08-13 | [科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 浙江台州的椒江滨江公共空间生态绿廊，象征涟漪从水面蔓延，涌上岸边，堆积成丘。（ via ） 你需要知道的… |
 | 2026-08-13 | [这是我看过&lt;关于LLM是如何工作的](https://versun.me/blog/tweet-2088038009702940699) | 这是我看过 最直观的解释😂 |
@@ -162,26 +166,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-08 | [Python 潮流周刊#162：新的 f 前缀语法提案](https://pythoncat.top/posts/2026-08-08-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-08-08 | [纽约博物馆打卡记 ｜ Museums in New York](https://cheng.st/2026/08/08/new-york-museum-light/) | 上次认真花钱逛博物馆还是上次了。此行因为身体抱恙，特地安排了不一样的博物馆行程。出发之前认真补课，回来以后意犹未尽。顺便，手握 Fuji GFX100RF ，让高像素把临场的瞬间记录下来，以供日后（比如此时）回味。 这次出行，定下要去的博物馆自然不难—— MoMA 和 The Met 肯定在列，尤其… |
 | 2026-08-08 | [博客更换中文字体：自托管与子集化](https://blog.196000.xyz/2026/2026-08-08-develop-webfont-selfhost.html) | 以 Noto Serif SC 为例，从字体授权、字符提取、woff2 子集生成到 CSS 接入，完整记录中文网络字体自托管的做法。 |
-| 2026-08-07 | [Memos: Command Code 以及 OpenCode 的订阅还不错](https://blog.yasking.org/a/1786100579) | 我使用 DeepSeek API 较少，大多数时候搭配 OpenCode 交叉 Review 代码，这几个月账单都是三四十元人民币； 过阵子 DeepSeek API 要涨价，感觉找个 Plan 会更 … |
-| 2026-08-07 | [Memos: 还真有人会看《乡村爱情》的小说](https://blog.yasking.org/a/1786099470) | 今早在地铁上随意一瞥看到个东北小哥在看小说，屏幕上赫然出现 ‘谢广坤’、‘刘能’、‘刘英’ 几个名字硬挤进我的镜框。 我挺诧异 … |
-| 2026-08-07 | [生活碎碎念：立秋，立马就『秋』？](https://blog.mfwt.top/index.php/archives/1516/) | 2026年8月7日，晴转短时强降水，立秋，说句废话就是，一年只有一次的日子。虽然日子还不见得马上就凉快些，但看到很多人都开始写文发贴发朋友圈了，想着也就上来凑凑热闹，聊聊自己印象里的秋吧。 |
-| 2026-08-07 | [AI 投资范式的转变：押注超级头部公司](https://wenfeixiang.com/2026/08/menlo-ventures-partner-matt-murphy-talk-with-20vc/) | 过去二十年，早期风险投资（VC） 有一条默认的投资范式：押注要集中、持股要足够深。举个例子，在一家有望成功的互 […] |
-| 2026-08-07 | [最近我让 Kimi K3 用 go 语言](https://versun.me/blog/tweet-2085639284552540500) | 最近我让 Kimi K3 用 go 语言重构了我的博客系统 Rables，原先是用 Rails 写的，内存占用至少 500 MB 起，重构后，只有 16 MB 左右，不要太爽了 https://github.com/versun/rables... |
-| 2026-08-07 | [向云端｜西南自驾08 - 镇远](https://blog.ops-coffee.com/r/2026-southwest-road-trip-08-zhenyuan.html) |  |
-| 2026-08-07 | [总算和思为 @wey_gu 面基啦 [t](https://versun.me/blog/tweet-2085600668153483298) | 总算和思为 @wey_gu 面基啦 [tweet-2085600668153483298-bc9929f3.jpg] |
-| 2026-08-07 | [入蜀记 day440 以物易物，以心易心](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_440/) | 「以物易物，以心易心。」 |
-| 2026-08-07 | [289、立秋](https://1900.live/289-li-qiu/) | null 蝉声渐稀，暑气未退，天地仍在长夏的余烬里蒸腾，却已有一缕不易察觉的清意，悄然穿过浓荫与晚风。 太阳行至黄经135°，立秋——秋之初序，亦是盛夏向深秋缓缓转身的门槛。 梧桐将落未落，叶尖先染微黄；鹰始击，长空之上，暑云渐散，风的骨骼开始变得清峻；禾乃登，田野里的谷穗低下头颅，在烈日与暴雨共同… |
-| 2026-08-07 | [诺兰访谈的小集结](https://www.hecaitou.com/2026/08/nolan-interview-and-the-brief-rally-of-minds.html) | 诺兰导演前往中国宣传他的新片《奥德赛》，行程中有一项是接受学者兼播客主播仲树的采访。访谈内容很深，起码和普通娱乐新闻的访谈相比要深，是真的在讨论创作，讨论作品，讨论历史和人文。 海内海外由此引发一轮热潮，这次访谈被海外网友评价为「诺兰最好的一次访谈」。国内许多作者、播客主播、电影人也很振奋，我看到文… |
-| 2026-08-07 | [Ubuntu虚拟机NVIDIA L20显卡驱动异常排查处置过程](https://199604.com/3639) | Ubuntu虚拟机NVIDIA L20显卡驱动异常排查处置过程 记录时间：2026-08-07 环境：KVM/ […] |
-| 2026-08-07 | [给 Neon Swarm 游戏添加了锁定](https://versun.me/blog/tweet-2085562602424512840) | 给 Neon Swarm 游戏添加了锁定功能，只要连续打中4发子弹，就可以锁定敌机3秒，自动会自动巡航敌机 我目前击杀数排行第一，求打破😎 https://swarm.kimi.site/ [tweet-2085562602424512840-f4c84a56.mp4][tweet-20855626… |
-| 2026-08-07 | [Kafka集群ISR收缩告警误报排查](https://199604.com/3628) | Kafka集群ISR收缩告警误报排查 记录时间：2026-08-03 环境：信创 ARM64 / RKE1 / […] |
-| 2026-08-07 | [邮箱生态调研2026](https://blog.est.im/2026/stdout-31) | 起初一个很简单的想法，把一个app/服务的私人数据，集中存数据库麻烦，不想维护担责，干脆放用户自己邮箱里，所谓"BYOS（自带存储）"。反正协议 SMTP/POP3/IMAP 很方便，然后调查了下很快发现，时代变了。 本来寄希望IMAP 这个协议，感觉能缝成一个读写API， - APPEND 写（一… |
-| 2026-08-07 | [强烈建议各位部署 gitea mirro](https://versun.me/blog/tweet-2085535797269364841) | 强烈建议各位部署 gitea mirror 自动备份 github 上所有 repo，防止意外发生https://github.com/RayLabsHQ/gitea-mirror [tweet-2085535797269364841-846c7a72.jpg] |
-| 2026-08-07 | [套皮](https://mobius.blog/25302.html) | 在咖啡厅码字时，偷听到旁边两个阿姨聊天。 大致是她们有一个共同认识的女孩子，在要考公务员的时候，才知道自己是没 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-07 | [EchoFeed 要关停了。。。可惜了](https://versun.me/blog/tweet-2085521554717487202) | EchoFeed 要关停了。。。可惜了 https://rknight.me/blog/shutting-down-echofeed/ |
-| 2026-08-07 | [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 上海浦江郊野公园的溪边咖啡馆。（ via ） 国家为什么需要开源软件？ 上个月，大模型 Kimi K3… |
-| 2026-08-07 | [日元下跌与美日联合救场：四个核心问题](https://elmtran.com/essays/yen-depreciation-us-japan-intervention/) | 从利差、输入型通胀、联合汇率干预与套利交易平仓四条链路，理解日元为何走弱、美国为何参与，以及日元未来可能怎么走。 |
-| 2026-08-07 | [DESIGN.md 企业内落地实践与踩坑复盘分享](https://lrd.im/blog/2026-08-07) | 随着 Agent 时代来临，公司内涌现了新的合作模式，也产生了新的痛点。本文将分享如何使用 DESIGN.md 和 SKILL 让设计系统在 AI 时代发挥影响力。 |
 
 ## Vibe Coding
 
