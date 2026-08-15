@@ -50,6 +50,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-15 | [Memos #2026-08-14](https://www.taober.blog/memos) | 09:39 地铁上莫名一瞬间突然发现，跳槽涨薪跟赛亚人濒死复活战力提升的机制是一样的。 |
 | 2026-08-14 | [克兰奇杀妻案](https://re.karlbaey.top/articles/return-to-dusk/the-clench-wife-murder-case/) | The Clench Wife-Murder Case, or Stitches, whatever. 1 四月刚把大门 … |
 | 2026-08-14 | [DeepSeek Harness 论文《时空可组合性编程范式》中文白话](https://nigzu.com/deepseek-harness-cordis-programming-paradigm-spatiotemporal-composability-plain-explanation/) | DeepSeek 开源的智能体产品 deepseek-harness 采用“一切皆插件”的架构，其中核心插件框架 Cordis 的思想来自同期论文 《A Programming Paradigm for Spatiotemporal Composability》 |
+| 2026-08-14 | [听艾怡良深圳演唱会](https://tianheg.co/posts/eve-ai-shenzhen-2026/) | 今天虽然是周六，但是也上了八小时班。到了晚上还有工作的事情找来，让人不胜其烦。本来看演唱会是很开心的事情，因为工作这种喜悦的情绪被削弱了。应援棒的灯光让我担心自己的眼睛会被闪瞎，实际也的确让我的眼睛不舒服。 |
 | 2026-08-14 | [AI&#124;大模型智力测试,鹈鹕SVG生成](https://programnotes.cn/ai-test-v2/index.html) | simonwillison 最先提出的测试方案,提示词: Generate an SVG of a pelican riding a bicycle </blockquot |
 | 2026-08-14 | [第一次走进互联网](https://www.tortorse.com/archives/first-step-into-the-internet/) | 上一篇的故事，停在那个没有从学校 286 屏幕里跑出来的马里奥上。 |
 | 2026-08-14 | [逻辑自洽不等于事实完整](https://blog.solazy.me/20260814/) | 今天是一篇自省文 |
