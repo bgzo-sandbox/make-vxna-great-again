@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-15 | [冷知识：博客的评论区不是广告区](https://blog.mfwt.top/index.php/archives/1529/) | 刷聚合站，刷到了ZyPlj（ZY知识库）的博文，大概是说，某AI（LLM，下同）中转站的老板，使用AI编写了脚本（或让其代为操作），向一组个人博客的评论区批量发送中转站的推广信息。看到这篇文章后... |
 | 2026-08-15 | [黄鼠狼](https://godruoyi.com/posts/weasel/) | 我昨晚咬死三只鹅一只鸡。那是在一个农户家， 凌晨三点半。我从铁丝网的缺口悄悄地钻进了鸡圈，我看到鸡圈里面有三只鹅 |
 | 2026-08-15 | [样式雷祖居 风水场域实探](https://yovey.me/yangstyle-lei-archives-with-fengshui/) | 近来在读王其亨主编《风水理论研究》，这本书是去年天津一行读丁垚《发现独乐寺》衍生来的，他在书中提到了自己的老师 … Continue reading "样式雷祖居 风水场域实探" |
 | 2026-08-15 | [《奥德赛》观后](https://www.hecaitou.com/2026/08/On-Watching-The-Odyssey.html) | 今天是周六，我在早上七点半起床，冒着雨打车去北京电影博物馆，为了赶上 9 点 20 那一场 IMAX GT 版的《奥德赛》。11 点多，我起身艰难穿过半排观众去洗手间。回来之后觉得再麻烦一遍这些同样早起的观众，破坏他们的观影体验实在是有点不道德，于是，我紧贴着 IMAX 厅的后墙，站了一个多小时看完… |
@@ -43,10 +44,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-15 | [我一直关注 Claw-Eval 排行榜，](https://versun.me/blog/tweet-2088448347418083808) | 我一直关注 Claw-Eval 排行榜，但它不更新了，太可惜了 https://claw-eval-live.github.io/ |
 | 2026-08-15 | [中式番茄炒鸡蛋吃多了也会腻](https://mobius.blog/25388.html) | 在开始今天的话题之前，得叠好几重甲： 在看完《龙餐馆》之后，我突然有一种持续性的“生理不适”。这种生理不适不是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-15 | [这才是我的 Qwen 嘛，本地部署 Op](https://versun.me/blog/tweet-2088424069603680550) | 引用 Performance of Qwen3.8-27B: 这才是我的 Qwen 嘛，本地部署 Opus 4.6 性能的模型，还要啥自行车 mac mini m4 pro 64G 关掉thinking，实测 12 tokens/s |
+| 2026-08-15 | [Python 潮流周刊#163：在浏览器上运行 Numba](https://pythoncat.top/posts/2026-08-15-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-08-15 | [HSBC汇丰澳洲宣布关闭，2%返现要凉了](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/08/15/hsbc-australia-will-close-soon-no-more-cashback.html) | 7月底的时候，我收到了一封来自HSBC Australia的邮件： |
 | 2026-08-15 | [Memos #2026-08-14](https://www.taober.blog/memos) | 09:39 地铁上莫名一瞬间突然发现，跳槽涨薪跟赛亚人濒死复活战力提升的机制是一样的。 |
 | 2026-08-14 | [克兰奇杀妻案](https://re.karlbaey.top/articles/return-to-dusk/the-clench-wife-murder-case/) | The Clench Wife-Murder Case, or Stitches, whatever. 1 四月刚把大门 … |
 | 2026-08-14 | [DeepSeek Harness 论文《时空可组合性编程范式》中文白话](https://nigzu.com/deepseek-harness-cordis-programming-paradigm-spatiotemporal-composability-plain-explanation/) | DeepSeek 开源的智能体产品 deepseek-harness 采用“一切皆插件”的架构，其中核心插件框架 Cordis 的思想来自同期论文 《A Programming Paradigm for Spatiotemporal Composability》 |
+| 2026-08-14 | [AI&#124;大模型智力测试,鹈鹕SVG生成](https://programnotes.cn/ai-test-v2/index.html) | simonwillison 最先提出的测试方案,提示词: Generate an SVG of a pelican riding a bicycle </blockquot |
 | 2026-08-14 | [第一次走进互联网](https://www.tortorse.com/archives/first-step-into-the-internet/) | 上一篇的故事，停在那个没有从学校 286 屏幕里跑出来的马里奥上。 |
 | 2026-08-14 | [逻辑自洽不等于事实完整](https://blog.solazy.me/20260814/) | 今天是一篇自省文 |
 | 2026-08-14 | [当 AI 让人不再相信工作｜灵感电波 #134](https://www.linggandianbo.com/newsletter-134/) | AI 为什么先动摇了知识工作者对职业的信仰；一位小说家怎样利用机器的错误重获创作乐趣。另有一万步的真实来源、神经可塑性的自我提升神话，以及 20 个值得存下的 YouTube 视频。 |

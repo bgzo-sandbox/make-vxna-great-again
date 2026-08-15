@@ -1,5 +1,12 @@
 [
   {
+    "title": "冷知识：博客的评论区不是广告区",
+    "url": "https://blog.mfwt.top/index.php/archives/1529/",
+    "date": "2026-08-15T13:59:00Z",
+    "description": "刷聚合站，刷到了ZyPlj（ZY知识库）的博文，大概是说，某AI（LLM，下同）中转站的老板，使用AI编写了脚本（或让其代为操作），向一组个人博客的评论区批量发送中转站的推广信息。看到这篇文章后...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
     "title": "黄鼠狼",
     "url": "https://godruoyi.com/posts/weasel/",
     "date": "2026-08-15T10:47:00Z",
@@ -112,6 +119,13 @@
     "source_root_domain": "versun.me"
   },
   {
+    "title": "Python 潮流周刊#163：在浏览器上运行 Numba",
+    "url": "https://pythoncat.top/posts/2026-08-15-weekly/",
+    "date": "2026-08-15T00:00:00Z",
+    "description": "分享了 12 篇文章，12 个开源项目",
+    "source_root_domain": "pythoncat.top"
+  },
+  {
     "title": "HSBC汇丰澳洲宣布关闭，2%返现要凉了",
     "url": "https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/08/15/hsbc-australia-will-close-soon-no-more-cashback.html",
     "date": "2026-08-15T00:00:00Z",
@@ -138,6 +152,13 @@
     "date": "2026-08-14T17:09:59Z",
     "description": "DeepSeek 开源的智能体产品 deepseek-harness 采用“一切皆插件”的架构，其中核心插件框架 Cordis 的思想来自同期论文 《A Programming Paradigm for Spatiotemporal Composability》",
     "source_root_domain": "nigzu.com"
+  },
+  {
+    "title": "AI|大模型智力测试,鹈鹕SVG生成",
+    "url": "https://programnotes.cn/ai-test-v2/index.html",
+    "date": "2026-08-14T16:00:00Z",
+    "description": "simonwillison 最先提出的测试方案,提示词: Generate an SVG of a pelican riding a bicycle </blockquot",
+    "source_root_domain": "programnotes.cn"
   },
   {
     "title": "第一次走进互联网",
