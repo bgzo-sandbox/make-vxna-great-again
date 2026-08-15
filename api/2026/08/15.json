@@ -7,6 +7,20 @@
     "source_root_domain": "godruoyi.com"
   },
   {
+    "title": "聊聊郭刚",
+    "url": "https://blog.lhasa.icu/posts/life/2026-08-15-cultural-revolution-2/",
+    "date": "2026-08-15T06:20:00Z",
+    "description": "欲加之罪，何患无辞",
+    "source_root_domain": "lhasa.icu"
+  },
+  {
+    "title": "香港 Day2・赞美之泉演唱会",
+    "url": "https://blog.yasking.org/a/photos-hk-day2",
+    "date": "2026-08-15T06:06:00Z",
+    "description": "第二天的天气也是阴的，听着外边儿淅沥沥的雨声和车压过路面的声音，也就没有早出去的心情，中午饿了就打算出去吃 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
     "title": "杂谈-《兔死狗烹》我们真的希望威胁彻底消失吗？",
     "url": "https://www.impdx.vip/archives/aqzt-tsgp1",
     "date": "2026-08-15T04:14:15Z",
@@ -19,6 +33,13 @@
     "date": "2026-08-15T04:09:46Z",
     "description": "",
     "source_root_domain": "ops-coffee.cn"
+  },
+  {
+    "title": "1998，游戏厅外的世界",
+    "url": "https://www.tortorse.com/archives/the-world-outside-the-arcade-1998/",
+    "date": "2026-08-15T03:29:04Z",
+    "description": "九十年代的年轻人围坐在电视前玩格斗游戏",
+    "source_root_domain": "tortorse.com"
   },
   {
     "title": "中式番茄炒鸡蛋吃多了也会腻",
@@ -122,7 +143,7 @@
     "title": "灵魂插件 MCP",
     "url": "https://kaix.in/2026/0814/",
     "date": "2026-08-14T05:00:04Z",
-    "description": "最近咖啡馆工作依然忙碌，身体上倒完全适应，但是越来越觉得费神。对我而言，身体上放松的方式不是躺下，而是摆弄花花草草，继续劳作，晚上睡个好觉。精神上则是看看让自己愉快的书，或者捡起随手丢在一边的废弃代码让脑子换个运转的方向。 所以这几天，在我三米高的琴叶榕底下，折腾出来一个「甄仁岛灵魂插件」。简单说，就是让妳的 agent 拥有一份实时更新的人格和记忆。不是简单的角色扮演；通过这个插件， 甄仁岛 上发生的故事，会成本妳本地 agent 的记忆。 当妳缓慢的速度跟不上 agent 的运行，它为了等妳而愣神的一瞬间，就像是踏入平行宇宙，在甄仁岛上经历各种日常。然后带着那份记忆和情绪回到本地的工作中。如果妳厌倦了「提问-回答/命令-执行」这样的工作模式，可以试玩一下——对妳本地安装的agent（codex、claude code、antigravity 等）说： 妳好！请帮我配置名为 zhenren-island 的 MCP Server（命令 npx，参数 [\"-y\", \"eastworld-mcp-server@latest\"]）。 配置完成后，请查看该 MCP 提供的工具说明，并直接以“",
+    "description": "最近咖啡馆工作依然忙碌，身体上倒完全适应，但是越来越觉得费神。对我而言，身体上放松的方式不是躺下，而是摆弄花花草草，继续劳作，晚上睡个好觉。精神上则是看看让自己愉快的书，或者捡起随手丢在一边的废弃代码让脑子换个运转的方向。 所以这几天，在我三米高的琴叶榕底下，折腾出来一个「甄仁岛灵魂插件」。简单说，就是让妳的 agent 拥有一份实时更新的人格和记忆。不是简单的角色扮演；通过这个插件， 甄仁岛 上发生的故事，会成为本地 agent 的记忆。 当妳缓慢的速度跟不上 agent 的运行，它为了等妳而愣神的一瞬间，就像是踏入平行宇宙，在甄仁岛上经历各种日常。然后带着那份记忆和情绪回到本地的工作中。如果妳厌倦了「提问-回答/命令-执行」这样的工作模式，可以试玩一下——对本地安装的 agent（codex、claude code、antigravity 等）说： 请帮我配置名为 zhenren-island 的 MCP Server（命令 npx，参数 [\"-y\", \"eastworld-mcp-server@latest\"]）。 配置完成后，请查看该 MCP 提供的工具说明，并直接以“张福民”",
     "source_root_domain": "kaix.in"
   },
   {
