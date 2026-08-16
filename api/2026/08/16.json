@@ -1,5 +1,12 @@
 [
   {
+    "title": "重新思考Agent和编辑器",
+    "url": "https://ecnelises.com/2026/08/rethinking-agents-and-editors/",
+    "date": "2026-08-16T12:29:44Z",
+    "description": "最早进入公众视野的AI编程工具大概是GitHub Copilot或者Tabnine，使用方式类似一个扩展版的IDE补全：工具根据光标位置的上下文猜测用户想输入的代码，以虚色形式提示，可以按Tab落实。DeepSeek的API至今仍保留了这个功能。这个功能今天看来有点简朴甚至落后，但在ChatGPT诞生前对程序员生产力的影响是突破性的。 当然，时间没有过很久，2022年底ChatGPT诞生。很快人们发现，编程语言说到底也是一种语言，既然大语言模型擅长人类语言，那它也很容易用来写代码。从2023年我的亲身体会看，当时的ChatGPT已经可以一次性输出上百行的脚本，并且将输入的代码翻译到另一种语言",
+    "source_root_domain": "ecnelises.com"
+  },
+  {
     "title": "git fetch 实现断点续传",
     "url": "https://blog.est.im/2026/stdout-33",
     "date": "2026-08-16T06:06:00Z",
