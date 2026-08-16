@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-16 | [≡ 008｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25394.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-16 | [Memos #2026-08-15](https://www.taober.blog/memos) | 10:22 Hope! |
 | 2026-08-15 | [我的世界一直下雨](https://www.geedea.pro/article/rain-never-stop/) | 我的草稿箱里有一篇关于神经多样性的文章一直没写得下去，这几天我才意识到，比起写一篇近似于学术综述的无聊文章，不如写点掏心窝子的话。当然，这也意味着这篇文章不会写得很有条理。 在我爷爷的六十岁大寿上，司仪要十二三岁的我站在台上说点祝福的话。我看着底下二十桌人，说不出一句话。站在我旁边的表哥很自然地说出… |
 | 2026-08-15 | [冷知识：博客的评论区不是广告区](https://blog.mfwt.top/index.php/archives/1529/) | 刷聚合站，刷到了ZyPlj（ZY知识库）的博文，大概是说，某AI（LLM，下同）中转站的老板，使用AI编写了脚本（或让其代为操作），向一组个人博客的评论区批量发送中转站的推广信息。看到这篇文章后... |
