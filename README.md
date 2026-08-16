@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-16 | [Memos #2026-08-15](https://www.taober.blog/memos) | 10:22 Hope! |
 | 2026-08-15 | [我的世界一直下雨](https://www.geedea.pro/article/rain-never-stop/) | 我的草稿箱里有一篇关于神经多样性的文章一直没写得下去，这几天我才意识到，比起写一篇近似于学术综述的无聊文章，不如写点掏心窝子的话。当然，这也意味着这篇文章不会写得很有条理。 在我爷爷的六十岁大寿上，司仪要十二三岁的我站在台上说点祝福的话。我看着底下二十桌人，说不出一句话。站在我旁边的表哥很自然地说出… |
 | 2026-08-15 | [冷知识：博客的评论区不是广告区](https://blog.mfwt.top/index.php/archives/1529/) | 刷聚合站，刷到了ZyPlj（ZY知识库）的博文，大概是说，某AI（LLM，下同）中转站的老板，使用AI编写了脚本（或让其代为操作），向一组个人博客的评论区批量发送中转站的推广信息。看到这篇文章后... |
 | 2026-08-15 | [黄鼠狼](https://godruoyi.com/posts/weasel/) | 我昨晚咬死三只鹅一只鸡。那是在一个农户家， 凌晨三点半。我从铁丝网的缺口悄悄地钻进了鸡圈，我看到鸡圈里面有三只鹅 |
@@ -47,7 +48,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-15 | [这才是我的 Qwen 嘛，本地部署 Op](https://versun.me/blog/tweet-2088424069603680550) | 引用 Performance of Qwen3.8-27B: 这才是我的 Qwen 嘛，本地部署 Opus 4.6 性能的模型，还要啥自行车 mac mini m4 pro 64G 关掉thinking，实测 12 tokens/s |
 | 2026-08-15 | [Python 潮流周刊#163：在浏览器上运行 Numba](https://pythoncat.top/posts/2026-08-15-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-08-15 | [HSBC汇丰澳洲宣布关闭，2%返现要凉了](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/08/15/hsbc-australia-will-close-soon-no-more-cashback.html) | 7月底的时候，我收到了一封来自HSBC Australia的邮件： |
-| 2026-08-15 | [Memos #2026-08-14](https://www.taober.blog/memos) | 09:39 地铁上莫名一瞬间突然发现，跳槽涨薪跟赛亚人濒死复活战力提升的机制是一样的。 |
 | 2026-08-14 | [克兰奇杀妻案](https://re.karlbaey.top/articles/return-to-dusk/the-clench-wife-murder-case/) | The Clench Wife-Murder Case, or Stitches, whatever. 1 四月刚把大门 … |
 | 2026-08-14 | [DeepSeek Harness 论文《时空可组合性编程范式》中文白话](https://nigzu.com/deepseek-harness-cordis-programming-paradigm-spatiotemporal-composability-plain-explanation/) | DeepSeek 开源的智能体产品 deepseek-harness 采用“一切皆插件”的架构，其中核心插件框架 Cordis 的思想来自同期论文 《A Programming Paradigm for Spatiotemporal Composability》 |
 | 2026-08-14 | [听艾怡良深圳演唱会](https://tianheg.co/posts/eve-ai-shenzhen-2026/) | 今天虽然是周六，但是也上了八小时班。到了晚上还有工作的事情找来，让人不胜其烦。本来看演唱会是很开心的事情，因为工作这种喜悦的情绪被削弱了。应援棒的灯光让我担心自己的眼睛会被闪瞎，实际也的确让我的眼睛不舒服。 |
@@ -154,7 +154,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-10 | [事儿逼提喻法](https://mobius.blog/25339.html) | 最近一个朋友对我抱怨，说自己新带的几个刚入社会的 00 后，老想着整顿职场，交代的事儿做不好，但又老想拿原则说 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-10 | [大脑充血 Vol.93](https://www.geedea.pro/weekly/93/) | 本期周刊我将讨论《奥德赛》的三个版本：荷马史诗原著，Jorge Rivera-Herrans 改编的名为《EPIC》的音乐剧，以及由 Christopher Nolan 改编和导演的《奥德赛》电影。荷马的《奥德赛》我其实只读了第一章，诺兰的电影我也只是有所耳闻，只有《EPIC》从头到尾看过、听过好几… |
 | 2026-08-09 | [失眠遐想](https://yipai.me/post/2546.html) | 今晚又失眠。失眠是因为脑袋总是停不下来。想到很多事情，也很乱。第一件，是儿子上小学的事儿。我比他先焦虑了，总是很担心无法适应。比如担心上课不守纪律，学习成绩太差。上课不认真是从小的问题，没有纪律性。虽然我们对他没有什么要求，不属于鸡娃的，但也担心干扰别人学习。幼儿园比较宽松，他经常躺地上，上课神游，… |
-| 2026-08-09 | [世界，您好！](https://flandre-scarlet.moe/blog/2026/08/10/hello-world/) | 欢迎使用 WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！ |
 | 2026-08-09 | [Docker 单容器升级实录：n8n 1.123.40 到 2.33.7（SQLite 备份与可回滚迁移）](https://ghyghoo8.github.io/2026/08/10/2026-08-10-Docker%E9%83%A8%E7%BD%B2%E7%9A%84n8n%E4%BB%8E1.123.40%E5%8D%87%E7%BA%A7%E5%88%B02.33.7/) | 最近需要把一套 Docker 单容器运行的 n8n，从 1.123.40 升级到 2.33.7 。乍看只是换一个镜像标签，真正动手后才发现： 跨大版本升级的重点从来不是启动新容器，而是确认数据边界、提前暴露兼容问题，以及准备一条真的能走通的回滚路径。 这篇记录一套适用于“小型自建实例 + SQLit… |
 | 2026-08-09 | [预测市场生态的项目为什么难做](https://smallyu.net/2026/08/09/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E7%94%9F%E6%80%81%E7%9A%84%E9%A1%B9%E7%9B%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E5%81%9A/) | 前情提要： 《<a |
 | 2026-08-09 | [周末流水账 0809](https://blog.solazy.me/20260809/) | 周末过得真快 |
@@ -172,21 +171,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-09 | [≡ 007｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25321.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-09 | [《凯罗斯》、《苔藓森林》笔摘](https://blog.sakoamc.com/posts/r2604/) | 题记：《凯罗斯》、《苔藓森林》部分阅读摘录。 |
 | 2026-08-09 | [2026年第32周](https://blog.sakoamc.com/posts/2632/) | 题记：二零二六年的第三十二周，记录的还是不够多，不够细，不够敏锐，应该是要能从一篇篇中察觉到时间的变化，季节的流转。 |
-| 2026-08-08 | [GitLab 将删除中国大陆、香港和澳门用户账号：9 月 7 日前请备份迁移](https://blog.renfei.net/posts/1626402130325676143) | GitLab 通知将停止服务中国大陆、香港和澳门地区账号，并计划于 2026 年 9 月 7 日后删除账号。收到邮件后，建议尽快备份代码、项目数据与 CI 配置。 |
-| 2026-08-08 | [解决 WSL2 莫名其妙的远程桌面报错弹窗](https://www.liesauer.net/blog/post/1037.html) | 今天在用电脑的时候发现莫名其妙的疯狂弹了一个远程桌面的报错弹窗，一开始我还以为中毒被黑了呢，我嘞个豆。 ![1785955689.png](https://storage.liesauer.ne... |
-| 2026-08-08 | [荐《欢迎来龙餐馆》](https://tianheg.co/posts/dragon-restaurant/) | 刚看完电影不久，那些场景还留在脑海。电影途中我无声啜泣，泪珠顺着脸颊流下，这巨大的情感冲击让我的头开始痛了起来。我有些后悔此时看了这部电影，今天本来计划好好整理一下我的相册，我基于它做了一个私人相册站，有些地方需要改，在 Hermes agent 的帮助下慢慢推进。 |
-| 2026-08-08 | [周末流水账 0808](https://blog.solazy.me/20260808/) | 周六了 |
-| 2026-08-08 | [Re: Bloggers, can we make better titles for our posts?](https://taxodium.ink/re-bloggers-can-we-make-better-titles-for-our-posts.html) | Re: Bloggers, can we make better titles for our posts? Michael Harley 寫了篇 Bloggers, can we make better titles for our posts? ，請你先去讀一遍原文吧，在這裡等你，几分鐘後再見… |
-| 2026-08-08 | [当一篇论文说“AI Agent还不会做研究”，它到底测到了什么？](https://www.kingname.info/2026/08/08/ai-agent-research/) | 最近我看到一项很有意思的实验。 研究者找来几个真实、并且还没有公开答案的AI研究课题，让Agent自己查资料、写代码、跑实验、分析结果。他们给了Agent几天时间和相当可观的算力预算，最后再让真正做过这些课题的研究者评价Agent的成果。 结果不太好。Agent没有产出达到论文标准的研究成果。 研究… |
-| 2026-08-08 | [读书小结十九](https://jubeny.com/2026/08/book-summaries-19/) | The Sorrow of War 以越南战争为背景的意识流反战小说，主人公是参加越南战争并幸存的士兵Kien。战争结束了，但战争的创伤却永远无法修复，Kien一直饱受折磨和痛苦，选择把自己的经历诉诸文字。故事在现实与回忆、战争与日常中交织叙述，战争的残酷不仅是身边的队友一个接一个死去，也摧毁了Ki… |
-| 2026-08-08 | [二〇二五年 · 林间新坟](https://blog.yasking.org/a/new-grave) | 父亲曾带我来过祖坟，他清扫了太爷的坟头，摆上白酒和干粮，以求平安顺遂，老坟的左前方是大爷的坟，略比太爷的坟头低 … |
-| 2026-08-08 | [临时文化一下](https://www.hecaitou.com/2026/08/acting-cultured-just-this-once.html) | 昨天我讨论了诺兰来华宣传新片《奥德赛》时，那场震惊全球的 17 分钟访谈 ，很多读者看完访谈文字稿之后直呼看不懂。 这是因为知识分子之间交流，喜欢用一些约定俗成的黑话，也就是所谓术语。目的之一是提升沟通效率，目的之二是相互验证身份，听不懂就不是自己人。还好，我毕竟是从小看《读书》长大的书呆子，一期不… |
-| 2026-08-08 | [继续搓英汉双解词典v3](https://blog.est.im/2026/stdout-32) | 去年 搓了个词典 ，本来懒得动了，但是看到opencode订阅还没用完，deepseek那么便宜，想着不用白不用，找了个最浪费token的方式，让AI再写一部词典 当年的AI我记得还是 gemini-2，其实很多东西不成熟。我也对AI脾气没摸准，很自然的就：“请输出 JSON”。今年学聪明了，直接上… |
-| 2026-08-08 | [宝可梦能够被神圣化吗？](https://mobius.blog/25310.html) | 接着神圣与世俗的话题，聊一个有趣的番外篇。 最近宝可梦 Pokopia 更新了 DLC，所以每天会花点时间去那 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-08 | [波动率与长期收益](https://corvo.myseu.cn/2026/08/08/2026-08-08-%E6%B3%A2%E5%8A%A8%E7%8E%87%E4%B8%8E%E9%95%BF%E6%9C%9F%E6%94%B6%E7%9B%8A/) | 相同的预期收益率，为什么会产生完全不同的资金路径？用一个可以交互的模拟器，理解复利、波动率与长期结果之间的关系。 |
-| 2026-08-08 | [Python 潮流周刊#162：新的 f 前缀语法提案](https://pythoncat.top/posts/2026-08-08-weekly/) | 分享了 12 篇文章，12 个开源项目 |
-| 2026-08-08 | [纽约博物馆打卡记 ｜ Museums in New York](https://cheng.st/2026/08/08/new-york-museum-light/) | 上次认真花钱逛博物馆还是上次了。此行因为身体抱恙，特地安排了不一样的博物馆行程。出发之前认真补课，回来以后意犹未尽。顺便，手握 Fuji GFX100RF ，让高像素把临场的瞬间记录下来，以供日后（比如此时）回味。 这次出行，定下要去的博物馆自然不难—— MoMA 和 The Met 肯定在列，尤其… |
-| 2026-08-08 | [博客更换中文字体：自托管与子集化](https://blog.196000.xyz/2026/2026-08-08-develop-webfont-selfhost.html) | 以 Noto Serif SC 为例，从字体授权、字符提取、woff2 子集生成到 CSS 接入，完整记录中文网络字体自托管的做法。 |
 
 ## Vibe Coding
 
