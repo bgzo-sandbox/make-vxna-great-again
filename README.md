@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-16 | [git fetch 实现断点续传](https://blog.est.im/2026/stdout-33) | git fetch origin main --depth=1 一次只下一个 pack，包含所有缺失对象，国内这网络你懂的，断开就废了，然后从头下载，往往又出事； 老外不懂国内网络条件这么艰苦，只能自己让AI改造。结果： https://github.com/est/snippets/tree/ma… |
 | 2026-08-16 | [Chris Sawyer's Locomotion updated](https://macsourceports.com/game/locomotion) | The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version v26.08 of the project |
 | 2026-08-16 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
 | 2026-08-16 | [VCMI updated](https://macsourceports.com/sourceport/vcmi) | The build of VCMI for the Heroes of Might and Magic III series of games has been updated to version 1.7.5 of the project\n\nhttps://macsourceports.com… |
@@ -40,6 +41,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-15 | [冷知识：博客的评论区不是广告区](https://blog.mfwt.top/index.php/archives/1529/) | 刷聚合站，刷到了ZyPlj（ZY知识库）的博文，大概是说，某AI（LLM，下同）中转站的老板，使用AI编写了脚本（或让其代为操作），向一组个人博客的评论区批量发送中转站的推广信息。看到这篇文章后... |
 | 2026-08-15 | [黄鼠狼](https://godruoyi.com/posts/weasel/) | 我昨晚咬死三只鹅一只鸡。那是在一个农户家， 凌晨三点半。我从铁丝网的缺口悄悄地钻进了鸡圈，我看到鸡圈里面有三只鹅 |
 | 2026-08-15 | [样式雷祖居 风水场域实探](https://yovey.me/yangstyle-lei-archives-with-fengshui/) | 近来在读王其亨主编《风水理论研究》，这本书是去年天津一行读丁垚《发现独乐寺》衍生来的，他在书中提到了自己的老师 … Continue reading "样式雷祖居 风水场域实探" |
+| 2026-08-15 | [试用了一天，Qwen 3.8 27B 文](https://versun.me/blog/tweet-2088564791623418051) | 引用 这才是我的 Qwen 嘛，本地部署 Opus 4.6 性能的模型，还要啥自行车 mac mini m4 pro 64G 关掉thinking，实测 12 tokens/s https://twitter.com/Alibaba_Qwen/status/2088280188362867185 试… |
 | 2026-08-15 | [《奥德赛》观后](https://www.hecaitou.com/2026/08/On-Watching-The-Odyssey.html) | 今天是周六，我在早上七点半起床，冒着雨打车去北京电影博物馆，为了赶上 9 点 20 那一场 IMAX GT 版的《奥德赛》。11 点多，我起身艰难穿过半排观众去洗手间。回来之后觉得再麻烦一遍这些同样早起的观众，破坏他们的观影体验实在是有点不道德，于是，我紧贴着 IMAX 厅的后墙，站了一个多小时看完… |
 | 2026-08-15 | [诺兰的《奥德赛》采取了什么样的改编策略？](https://www.geedea.pro/article/odyssey/) | 笔者刚刚从电影院回到家，趁着记忆还很清晰来写影评。离开影院之前我记下了几个印象深刻的点，接下来我会逐个分析这些情节、人物、背景乃至主题层面的增删改究竟和原著有什么区别，同时我还会对比另外一部《奥德赛》的改编作品，音乐剧《EPIC：The Musical》，看看不同的创作者采用了什么样的改编策略，背后… |
 | 2026-08-15 | [杂谈安全 - 《兔死狗烹之无患可除：当安全开始证明自己的存在》](https://www.impdx.vip/archives/tu-si-gou-peng-zhi-wu-huan-ke-chu-dang-an-quan-kai-shi-zheng-ming-zi-ji-de-cun-zai) | 杂谈安全 - 《兔死狗烹之无患可除：当安全开始证明自己的存在》 ——我们真的希望威胁彻底消失吗？ 一、鼠患，是我们的饭碗 【来客】： 你说无患可除，匠人便成祸患。可若真有鼠患，你们总该是有用的吧？ 【匠人】： 自然有用。 【来客】： 如何有用？ 【匠人】： 先寻鼠踪，再报鼠患；先论其凶，再定其险；最 |

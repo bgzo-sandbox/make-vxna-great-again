@@ -1,5 +1,12 @@
 [
   {
+    "title": "git fetch 实现断点续传",
+    "url": "https://blog.est.im/2026/stdout-33",
+    "date": "2026-08-16T06:06:00Z",
+    "description": "git fetch origin main --depth=1 一次只下一个 pack，包含所有缺失对象，国内这网络你懂的，断开就废了，然后从头下载，往往又出事； 老外不懂国内网络条件这么艰苦，只能自己让AI改造。结果： https://github.com/est/snippets/tree/master/git-fr 步骤： git fetch --filter=blob:none --depth=1 —— 只拉 commit+tree，这个速度很快，只有KB级别的传输 用 rev-list --objects --missing=print 算缺失集合，500 个 blob 一批回填 每轮重算缺失、只补缺的。 踩过的坑 git fetch origin 每次都会打印 fatal: bad object + error: ... did not send all necessary objects ，但事后检查对象blob却真的下载了。后来发现因为 cat-file 会拉数据, rev-list --missing=print 不会。 普通 git fetch origin 拿到的",
+    "source_root_domain": "feedburner.com"
+  },
+  {
     "title": "Chris Sawyer's Locomotion updated",
     "url": "https://macsourceports.com/game/locomotion",
     "date": "2026-08-16T05:24:21Z",
@@ -89,6 +96,13 @@
     "date": "2026-08-15T09:59:54Z",
     "description": "近来在读王其亨主编《风水理论研究》，这本书是去年天津一行读丁垚《发现独乐寺》衍生来的，他在书中提到了自己的老师 … Continue reading \"样式雷祖居 风水场域实探\"",
     "source_root_domain": "yovey.me"
+  },
+  {
+    "title": "试用了一天，Qwen 3.8 27B 文",
+    "url": "https://versun.me/blog/tweet-2088564791623418051",
+    "date": "2026-08-15T09:53:44Z",
+    "description": "引用 这才是我的 Qwen 嘛，本地部署 Opus 4.6 性能的模型，还要啥自行车 mac mini m4 pro 64G 关掉thinking，实测 12 tokens/s https://twitter.com/Alibaba_Qwen/status/2088280188362867185 试用了一天，Qwen 3.8 27B 文学水平相比 Qwen 3.6 35B 退步了，变啰嗦了",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "《奥德赛》观后",
