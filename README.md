@@ -27,9 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-17 | [过剩信息，剥夺我](https://mobius.blog/25416.html) | 这个标题没有实际意义，纯粹是因为我从坐着的这个视角看过去，有一个上班族刚好打开自己的笔记本电脑，而这句话是贴在 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-17 | [Memos #2026-08-16](https://www.taober.blog/memos) | 23:51 最愚蠢的周末，衰爆了。 |
 | 2026-08-16 | [大脑充血 Vol.94](https://www.geedea.pro/weekly/94/) | 怎么又到周一了，我上周做了什么……？生活似乎变得稳定，但也开始无聊起来了。我的文化体力还是没有恢复，抱歉了，我可能要过好久才能再写一篇书评了。不过与此同时，我又是怎么做到写了 那么长一篇《奥德赛》影评 ，竟然还有劲儿继续写第二篇的？我的大脑可真是神奇。 吾仅悉落 Nothing Makes Sens… |
 | 2026-08-16 | [记首次 .NET 跨平台开发——Deepseek Harness Desktop](https://nigzu.com/csharp-dotnet-avalonia-deepseek-harness-client-ai/) | 史上增长最快的开源 Agent 框架 DeepSeek Harness（DSH）给我带来了 DIY 的乐趣。官方给的"命令行 + 网页"这套组合能用，但不方便用 |
+| 2026-08-16 | [什么是真正的痛苦](https://kaix.in/2026/0816/) | 这几天经常看到一段李娟和李诞的对话，对话中李娟说世界上真正的痛苦，只有一种，叫贫穷——所有痛苦都是虚构的，只有贫穷才是真实的痛苦。我相信李娟是真诚的，她有她的逻辑，她接着就说自己没资格谈痛苦，因为她现在有好几套房、物质充裕。 为了不造成误导，有必要说一句，她这些话的语境是说精神上的内耗与纠结是可以「… |
 | 2026-08-16 | [重新思考Agent和编辑器](https://ecnelises.com/2026/08/rethinking-agents-and-editors/) | 最早进入公众视野的AI编程工具大概是GitHub Copilot或者Tabnine，使用方式类似一个扩展版的IDE补全：工具根据光标位置的上下文猜测用户想输入的代码，以虚色形式提示，可以按Tab落实。DeepSeek的API至今仍保留了这个功能。这个功能今天看来有点简朴甚至落后，但在ChatGPT诞… |
 | 2026-08-16 | [git fetch 实现断点续传](https://blog.est.im/2026/stdout-33) | git fetch origin main --depth=1 一次只下一个 pack，包含所有缺失对象，国内这网络你懂的，断开就废了，然后从头下载，往往又出事； 老外不懂国内网络条件这么艰苦，只能自己让AI改造。结果： https://github.com/est/snippets/tree/ma… |
 | 2026-08-16 | [Chris Sawyer's Locomotion updated](https://macsourceports.com/game/locomotion) | The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version v26.08 of the project |
@@ -38,6 +40,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-16 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.71 of the project |
 | 2026-08-16 | [奥德修斯这个人](https://www.hecaitou.com/2026/08/Odysseus-the-Man.html) | 奥德赛和奥德修斯不是一回事，奥德修斯是人名，奥德赛是书名，意思是奥德修斯的故事，就像是岳飞和《说岳》一样。 无论从哪一个角度来看，奥德修斯都是讨人厌的家伙。诺兰选择马特·达蒙其实并不合适，此人太过正气，太过忠厚，观众因此而激发的怜悯和同情就显得有点便宜。在荷马史诗《奥德赛》的最后，读者对于奥德修斯的… |
 | 2026-08-16 | [New Release: FLESHCANCER](https://macsourceports.com/game/fleshcancer) | FLESHCANCER is a horor-themed Boomer Shooter from Brazil, published by the same team as BRAZILIAN DRUG DEALER 3 . You take the role of someone who see… |
+| 2026-08-16 | [DeepSeek 官方 Agent 部署实录：公网零端口暴露的安全玩法](https://www.wangwangit.com/DeepSeek%20%E5%AE%98%E6%96%B9%20Agent%20%E9%83%A8%E7%BD%B2%E5%AE%9E%E5%BD%95/) | dsh 部署到服务器 + 安全远程访问，小白能跟着做完的实操版 |
 | 2026-08-16 | [≡ 008｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25394.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-15 | [我的世界一直下雨](https://www.geedea.pro/article/rain-never-stop/) | 我的草稿箱里有一篇关于神经多样性的文章一直没写得下去，这几天我才意识到，比起写一篇近似于学术综述的无聊文章，不如写点掏心窝子的话。当然，这也意味着这篇文章不会写得很有条理。 在我爷爷的六十岁大寿上，司仪要十二三岁的我站在台上说点祝福的话。我看着底下二十桌人，说不出一句话。站在我旁边的表哥很自然地说出… |
 | 2026-08-15 | [我不敢随便推荐 App 了](https://blog.solazy.me/20260815/) | 有太多开发者找我自荐 App，希望我帮忙宣传，但是我对于这一行为非常谨慎。 |
