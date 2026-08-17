@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-17 | [Memos #2026-08-16](https://www.taober.blog/memos) | 23:51 最愚蠢的周末，衰爆了。 |
+| 2026-08-16 | [大脑充血 Vol.94](https://www.geedea.pro/weekly/94/) | 怎么又到周一了，我上周做了什么……？生活似乎变得稳定，但也开始无聊起来了。我的文化体力还是没有恢复，抱歉了，我可能要过好久才能再写一篇书评了。不过与此同时，我又是怎么做到写了 那么长一篇《奥德赛》影评 ，竟然还有劲儿继续写第二篇的？我的大脑可真是神奇。 吾仅悉落 Nothing Makes Sens… |
+| 2026-08-16 | [记首次 .NET 跨平台开发——Deepseek Harness Desktop](https://nigzu.com/csharp-dotnet-avalonia-deepseek-harness-client-ai/) | 史上增长最快的开源 Agent 框架 DeepSeek Harness（DSH）给我带来了 DIY 的乐趣。官方给的"命令行 + 网页"这套组合能用，但不方便用 |
 | 2026-08-16 | [重新思考Agent和编辑器](https://ecnelises.com/2026/08/rethinking-agents-and-editors/) | 最早进入公众视野的AI编程工具大概是GitHub Copilot或者Tabnine，使用方式类似一个扩展版的IDE补全：工具根据光标位置的上下文猜测用户想输入的代码，以虚色形式提示，可以按Tab落实。DeepSeek的API至今仍保留了这个功能。这个功能今天看来有点简朴甚至落后，但在ChatGPT诞… |
 | 2026-08-16 | [git fetch 实现断点续传](https://blog.est.im/2026/stdout-33) | git fetch origin main --depth=1 一次只下一个 pack，包含所有缺失对象，国内这网络你懂的，断开就废了，然后从头下载，往往又出事； 老外不懂国内网络条件这么艰苦，只能自己让AI改造。结果： https://github.com/est/snippets/tree/ma… |
 | 2026-08-16 | [Chris Sawyer's Locomotion updated](https://macsourceports.com/game/locomotion) | The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version v26.08 of the project |
@@ -36,7 +39,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-16 | [奥德修斯这个人](https://www.hecaitou.com/2026/08/Odysseus-the-Man.html) | 奥德赛和奥德修斯不是一回事，奥德修斯是人名，奥德赛是书名，意思是奥德修斯的故事，就像是岳飞和《说岳》一样。 无论从哪一个角度来看，奥德修斯都是讨人厌的家伙。诺兰选择马特·达蒙其实并不合适，此人太过正气，太过忠厚，观众因此而激发的怜悯和同情就显得有点便宜。在荷马史诗《奥德赛》的最后，读者对于奥德修斯的… |
 | 2026-08-16 | [New Release: FLESHCANCER](https://macsourceports.com/game/fleshcancer) | FLESHCANCER is a horor-themed Boomer Shooter from Brazil, published by the same team as BRAZILIAN DRUG DEALER 3 . You take the role of someone who see… |
 | 2026-08-16 | [≡ 008｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25394.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-16 | [Memos #2026-08-15](https://www.taober.blog/memos) | 10:22 Hope! |
 | 2026-08-15 | [我的世界一直下雨](https://www.geedea.pro/article/rain-never-stop/) | 我的草稿箱里有一篇关于神经多样性的文章一直没写得下去，这几天我才意识到，比起写一篇近似于学术综述的无聊文章，不如写点掏心窝子的话。当然，这也意味着这篇文章不会写得很有条理。 在我爷爷的六十岁大寿上，司仪要十二三岁的我站在台上说点祝福的话。我看着底下二十桌人，说不出一句话。站在我旁边的表哥很自然地说出… |
 | 2026-08-15 | [我不敢随便推荐 App 了](https://blog.solazy.me/20260815/) | 有太多开发者找我自荐 App，希望我帮忙宣传，但是我对于这一行为非常谨慎。 |
 | 2026-08-15 | [冷知识：博客的评论区不是广告区](https://blog.mfwt.top/index.php/archives/1529/) | 刷聚合站，刷到了ZyPlj（ZY知识库）的博文，大概是说，某AI（LLM，下同）中转站的老板，使用AI编写了脚本（或让其代为操作），向一组个人博客的评论区批量发送中转站的推广信息。看到这篇文章后... |
@@ -163,24 +165,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-10 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
 | 2026-08-10 | [事儿逼提喻法](https://mobius.blog/25339.html) | 最近一个朋友对我抱怨，说自己新带的几个刚入社会的 00 后，老想着整顿职场，交代的事儿做不好，但又老想拿原则说 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-10 | [大脑充血 Vol.93](https://www.geedea.pro/weekly/93/) | 本期周刊我将讨论《奥德赛》的三个版本：荷马史诗原著，Jorge Rivera-Herrans 改编的名为《EPIC》的音乐剧，以及由 Christopher Nolan 改编和导演的《奥德赛》电影。荷马的《奥德赛》我其实只读了第一章，诺兰的电影我也只是有所耳闻，只有《EPIC》从头到尾看过、听过好几… |
-| 2026-08-09 | [失眠遐想](https://yipai.me/post/2546.html) | 今晚又失眠。失眠是因为脑袋总是停不下来。想到很多事情，也很乱。第一件，是儿子上小学的事儿。我比他先焦虑了，总是很担心无法适应。比如担心上课不守纪律，学习成绩太差。上课不认真是从小的问题，没有纪律性。虽然我们对他没有什么要求，不属于鸡娃的，但也担心干扰别人学习。幼儿园比较宽松，他经常躺地上，上课神游，… |
-| 2026-08-09 | [Docker 单容器升级实录：n8n 1.123.40 到 2.33.7（SQLite 备份与可回滚迁移）](https://ghyghoo8.github.io/2026/08/10/2026-08-10-Docker%E9%83%A8%E7%BD%B2%E7%9A%84n8n%E4%BB%8E1.123.40%E5%8D%87%E7%BA%A7%E5%88%B02.33.7/) | 最近需要把一套 Docker 单容器运行的 n8n，从 1.123.40 升级到 2.33.7 。乍看只是换一个镜像标签，真正动手后才发现： 跨大版本升级的重点从来不是启动新容器，而是确认数据边界、提前暴露兼容问题，以及准备一条真的能走通的回滚路径。 这篇记录一套适用于“小型自建实例 + SQLit… |
-| 2026-08-09 | [预测市场生态的项目为什么难做](https://smallyu.net/2026/08/09/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E7%94%9F%E6%80%81%E7%9A%84%E9%A1%B9%E7%9B%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E5%81%9A/) | 前情提要： 《<a |
-| 2026-08-09 | [周末流水账 0809](https://blog.solazy.me/20260809/) | 周末过得真快 |
-| 2026-08-09 | [UFO是美国过去的祥瑞，AGI则是未来的神器，两千多年前的管仲已揭示其奥秘](https://nigzu.com/americas-ufo-humanitys-agi-guangzhong/) | 在当今的大众印象中，UFO（不明飞行物）几乎与外星生物、黑科技和影子政府画上了等号。然而，剥开科幻的外衣 |
-| 2026-08-09 | [Toots 431 2026 Aug.2 - Aug.8](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260808/) | 「呼吸真的可以到三十秒。」 |
-| 2026-08-09 | [写在孩子满月时](https://hangbin.blog/blog/%E5%86%99%E5%9C%A8%E5%AD%A9%E5%AD%90%E6%BB%A1%E6%9C%88%E6%97%B6/) | 我一直都以为自己并没有特别喜欢小孩。 几年前，表姐的孩子出生了，叫六六。当时是几个月大，带到奶奶家玩，恰好我也在。我看到他，小小的一个，全家看到就一起乐呵呵地笑。表姐问我想不想抱一下。我根本不敢，甚至都不知道怎么抱，既怕扭着手或脚，又怕没抱稳摔到了。于是一边摆手一边后退，从客厅退到房里，只想和小宝宝… |
-| 2026-08-09 | [Vol.115 个人AGI：从模型租用到智能资产复利，界定边界与验证环境](https://liduos.com/weekly/the-weekly-gradient-115) | 本期内容聚焦个人AGI，探讨如何将上下文、Skill与责任沉淀为可持续资产，强调验证环境、控制层和模型选择权，并涵盖前沿模型进展与开源生态价值。 |
-| 2026-08-09 | [新知识分子的新庸俗](https://www.geedea.pro/article/vulgar-new-intellects/) | 首先定义新知识分子，不是什么专有名词，只是我在找到更合适的称呼之前暂用的词。我所指的新知识分子，是经过现代教育系统培养的，相对突出的一部分人。虽然他们没有成为学者或真正顶尖的精英（当然这部分人也有他们的庸俗，只是本文不谈），但他们仍会获取知识并实践。他们对待知识没有学者的求是态度，他们的态度更加功利… |
-| 2026-08-09 | [NAS辅种工具-AutoReseed，本质上是在比对一段 SHA-1](https://11010.net/p/docker-tools-nas-autoreseed/) | 本项目是日常写的娱乐工具，无法替代当前主流辅种，只是不在依赖于服务端来校验辅种，所以此辅种工具不支持很多站点 一份数据，好几个种子 假设你硬盘上有一个 40 GB 的目录，是从某个站点下载的。过一阵你发现另一个站点上也有同样的内容——同样的文件、同样的大小、一个字节都不差，只是种子文件不是同一个。… |
-| 2026-08-09 | [OPPO 快游戏在浏览器复现运行（七）之远程资源离线化](https://www.liesauer.net/blog/post/1040.html) | 完全的离线化仅适用于走快游戏 API 的资源，部分资源是直接通过 `img` 标签或者其他方式加载的（最终会 fallback 到 XHR）还是会到本地服务器发起请求。`web.sdk.js... |
-| 2026-08-09 | [OPPO 快游戏在浏览器复现运行（六）之触摸适配](https://www.liesauer.net/blog/post/1039.html) | 一部分游戏会将游戏内的UI交互逻辑直接写死 `touch` 系列事件，导致在电脑上运行的话，鼠标点击完全没反应，因此需要将鼠标事件映射转发成触摸事件，这个问题可以使用 [touch-emulat... |
-| 2026-08-09 | [入蜀记 day441 新裤子](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_441/) | 「新裤子。」 |
-| 2026-08-09 | [OPPO 快游戏在浏览器复现运行（五）之竖屏适配](https://www.liesauer.net/blog/post/1038.html) | 大部分竖屏快游戏都很少有兼顾宽屏分辨率的情况，Laya 游戏会有一个自动横屏的机制，会将整个画面横向显示，而像 CC 游戏，基本都是 UI 位置大小严重失调，要么导致某些区域点不了，要么导致 U... |
-| 2026-08-09 | [荷马史诗和职场规则](https://www.hecaitou.com/2026/08/homeric-epics-and-workplace-rules.html) | 在荷马史诗中，希腊英雄阿喀琉斯和联军统帅阿伽门农之间爆发了严重的冲突，以至于影响到了特洛伊之战的进程。 我在中学时代从某期《读书》杂志上得到了一种解读：冲突的起因是阿伽门农夺走了阿喀琉斯的战利品，于是阿喀琉斯拒绝出战，理由是他需要维护英雄的尊严和荣誉。阿伽门农不肯让步，因为他是人主，是希腊联军的统帅… |
-| 2026-08-09 | [≡ 007｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25321.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-09 | [《凯罗斯》、《苔藓森林》笔摘](https://blog.sakoamc.com/posts/r2604/) | 题记：《凯罗斯》、《苔藓森林》部分阅读摘录。 |
-| 2026-08-09 | [2026年第32周](https://blog.sakoamc.com/posts/2632/) | 题记：二零二六年的第三十二周，记录的还是不够多，不够细，不够敏锐，应该是要能从一篇篇中察觉到时间的变化，季节的流转。 |
 
 ## Vibe Coding
 
