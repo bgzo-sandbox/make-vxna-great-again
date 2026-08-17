@@ -31,11 +31,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-17 | [牛来](https://yipai.me/post/2547.html) | 周末去看了《奥德赛》，感觉还行吧。就是时间有点太长了，九点开始，十一点半都过了才结束。看完回去再查下资料，了解下奥德赛原本的故事脉络，就凌晨一点了。同期上映的还有《牛来》。有人很反感这部《牛来》，在没人去看的时候，认为是粗制滥造，怎么审核通过的？票房起来之后，又认为是资本的操控。我倒是觉得挺正常的，… |
 | 2026-08-17 | [让 Agent 调用网页版 5.6 Sol](https://shiquda.link/agent-call-chatgpt-web-5.6-sol/) | 分享一套让所有 Agent 免费「调用」5.6 Sol 的省额度方法 ，适合拥有自己的付费 ChatGPT 账户的朋友。 我们知道 ChatGPT 网页端进行对话时，是不消耗 Codex 的额度的。我们经常在网页上让 ChatGPT 去帮我们做网络检索、深度思考等工作，然后可能把它给出的方案再转发给… |
 | 2026-08-17 | [过剩信息，剥夺我](https://mobius.blog/25416.html) | 这个标题没有实际意义，纯粹是因为我从坐着的这个视角看过去，有一个上班族刚好打开自己的笔记本电脑，而这句话是贴在 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-17 | [为啥最近 DHH 的 Omarchy 又](https://versun.me/blog/tweet-2089152283871428676) | 引用 看了DHH在Rails World上的演讲，真是开发者的嘴替，部署的复杂性、云端测试缓慢、本地开发问题、omarchi安装器、rails 8.1各种新功能、还有边缘计算，一个客户一个数据库等等。。。一个小时的演讲我竟然看完了。。。。 不得不说，牛逼的人确实有牛逼之处 为啥最近 DHH 的 Om… |
 | 2026-08-17 | [Memos #2026-08-16](https://www.taober.blog/memos) | 23:51 最愚蠢的周末，衰爆了。 |
 | 2026-08-16 | [大脑充血 Vol.94](https://www.geedea.pro/weekly/94/) | 怎么又到周一了，我上周做了什么……？生活似乎变得稳定，但也开始无聊起来了。我的文化体力还是没有恢复，抱歉了，我可能要过好久才能再写一篇书评了。不过与此同时，我又是怎么做到写了 那么长一篇《奥德赛》影评 ，竟然还有劲儿继续写第二篇的？我的大脑可真是神奇。 吾仅悉落 Nothing Makes Sens… |
 | 2026-08-16 | [记首次 .NET 跨平台开发——Deepseek Harness Desktop](https://nigzu.com/csharp-dotnet-avalonia-deepseek-harness-client-ai/) | 史上增长最快的开源 Agent 框架 DeepSeek Harness（DSH）给我带来了 DIY 的乐趣。官方给的"命令行 + 网页"这套组合能用，但不方便用 |
+| 2026-08-16 | [放弃自证的减负感](https://blog.solazy.me/20260816/) | 有时候，需要允许别人误解自己，解释并没有那么重要 |
+| 2026-08-16 | [WOWOWOWO 就等它了！我目前本地就](https://versun.me/blog/tweet-2088978001015054420) | 引用 Qwen 3.8 35B A3B almost confirmed! Spotted on github! while everyone's busy swapping qwen3.6 27b for the new qwen3.8 27b dense drop on their single… |
 | 2026-08-16 | [什么是真正的痛苦](https://kaix.in/2026/0816/) | 这几天经常看到一段李娟和李诞的对话，对话中李娟说世界上真正的痛苦，只有一种，叫贫穷——所有痛苦都是虚构的，只有贫穷才是真实的痛苦。我相信李娟是真诚的，她有她的逻辑，她接着就说自己没资格谈痛苦，因为她现在有好几套房、物质充裕。 为了不造成误导，有必要说一句，她这些话的语境是说精神上的内耗与纠结是可以「… |
 | 2026-08-16 | [重新思考Agent和编辑器](https://ecnelises.com/2026/08/rethinking-agents-and-editors/) | 最早进入公众视野的AI编程工具大概是GitHub Copilot或者Tabnine，使用方式类似一个扩展版的IDE补全：工具根据光标位置的上下文猜测用户想输入的代码，以虚色形式提示，可以按Tab落实。DeepSeek的API至今仍保留了这个功能。这个功能今天看来有点简朴甚至落后，但在ChatGPT诞… |
+| 2026-08-16 | [突然觉得，不追求完美，接受混乱，接受不产](https://versun.me/blog/tweet-2088962538922782957) | 突然觉得，不追求完美，接受混乱，接受不产出，才是最难的 比如发呆，等一个人，看天黑，等朝阳，有些时刻，存在的意义就是存在本身，这些才是最稀缺的 |
+| 2026-08-16 | [从订阅链接到自动分流：小白也能看懂的 Clash Verge 原理](https://www.shiguopeng.cn/posts/2026081617/) | 🤖 声明 ：本文由 AI 辅助整理生成，并经作者严格人工审阅校对。 前言 很多人用 Clash 时最困惑的是：机场、订阅和软件到底是什么关系？出问题除了换节点还能干嘛？ 本文剔除繁杂参数，通过 4 张核心架构图 和 3 分钟快速阅读 帮你搞懂它的核心逻辑。 1. 角色拆解：谁是干嘛的？ 可以通过下图… |
 | 2026-08-16 | [git fetch 实现断点续传](https://blog.est.im/2026/stdout-33) | git fetch origin main --depth=1 一次只下一个 pack，包含所有缺失对象，国内这网络你懂的，断开就废了，然后从头下载，往往又出事； 老外不懂国内网络条件这么艰苦，只能自己让AI改造。结果： https://github.com/est/snippets/tree/ma… |
 | 2026-08-16 | [Chris Sawyer's Locomotion updated](https://macsourceports.com/game/locomotion) | The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version v26.08 of the project |
 | 2026-08-16 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |

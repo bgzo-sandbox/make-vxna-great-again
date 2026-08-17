@@ -28,6 +28,13 @@
     "source_root_domain": "onojyun.com"
   },
   {
+    "title": "为啥最近 DHH 的 Omarchy 又",
+    "url": "https://versun.me/blog/tweet-2089152283871428676",
+    "date": "2026-08-17T00:48:13Z",
+    "description": "引用 看了DHH在Rails World上的演讲，真是开发者的嘴替，部署的复杂性、云端测试缓慢、本地开发问题、omarchi安装器、rails 8.1各种新功能、还有边缘计算，一个客户一个数据库等等。。。一个小时的演讲我竟然看完了。。。。 不得不说，牛逼的人确实有牛逼之处 为啥最近 DHH 的 Omarchy 又突然火起来了，一年前就发布了都，看到好多人都在安装它。。。 玩玩可以，但生产力真的还差很多很多，你需要自己折腾一整套东西，及时它内置了很多 对了，顺便提醒下，一年不到，DHH 已经将 Omarchy 整个桌面 shell 用 Quickshell 重写了，保不齐明年还会改啥，所以建议默认配置使用就行，改太多到时候迁移麻烦😂",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "Memos #2026-08-16",
     "url": "https://www.taober.blog/memos",
     "date": "2026-08-17T00:00:00Z",
@@ -49,6 +56,20 @@
     "source_root_domain": "nigzu.com"
   },
   {
+    "title": "放弃自证的减负感",
+    "url": "https://blog.solazy.me/20260816/",
+    "date": "2026-08-16T15:00:00Z",
+    "description": "有时候，需要允许别人误解自己，解释并没有那么重要",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "WOWOWOWO 就等它了！我目前本地就",
+    "url": "https://versun.me/blog/tweet-2088978001015054420",
+    "date": "2026-08-16T13:15:41Z",
+    "description": "引用 Qwen 3.8 35B A3B almost confirmed! Spotted on github! while everyone's busy swapping qwen3.6 27b for the new qwen3.8 27b dense drop on their single rtx 4090s and 3090s, the real quiet update is buried in this github commit: 35B total, ~3B active. s WOWOWOWO 就等它了！我目前本地就是用的 Qwen 3.6 35B A3B，体验非常好，期待3.8！！！",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "什么是真正的痛苦",
     "url": "https://kaix.in/2026/0816/",
     "date": "2026-08-16T13:06:04Z",
@@ -61,6 +82,20 @@
     "date": "2026-08-16T12:29:44Z",
     "description": "最早进入公众视野的AI编程工具大概是GitHub Copilot或者Tabnine，使用方式类似一个扩展版的IDE补全：工具根据光标位置的上下文猜测用户想输入的代码，以虚色形式提示，可以按Tab落实。DeepSeek的API至今仍保留了这个功能。这个功能今天看来有点简朴甚至落后，但在ChatGPT诞生前对程序员生产力的影响是突破性的。 当然，时间没有过很久，2022年底ChatGPT诞生。很快人们发现，编程语言说到底也是一种语言，既然大语言模型擅长人类语言，那它也很容易用来写代码。从2023年我的亲身体会看，当时的ChatGPT已经可以一次性输出上百行的脚本，并且将输入的代码翻译到另一种语言",
     "source_root_domain": "ecnelises.com"
+  },
+  {
+    "title": "突然觉得，不追求完美，接受混乱，接受不产",
+    "url": "https://versun.me/blog/tweet-2088962538922782957",
+    "date": "2026-08-16T12:14:14Z",
+    "description": "突然觉得，不追求完美，接受混乱，接受不产出，才是最难的 比如发呆，等一个人，看天黑，等朝阳，有些时刻，存在的意义就是存在本身，这些才是最稀缺的",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "从订阅链接到自动分流：小白也能看懂的 Clash Verge 原理",
+    "url": "https://www.shiguopeng.cn/posts/2026081617/",
+    "date": "2026-08-16T09:02:01Z",
+    "description": "🤖 声明 ：本文由 AI 辅助整理生成，并经作者严格人工审阅校对。 前言 很多人用 Clash 时最困惑的是：机场、订阅和软件到底是什么关系？出问题除了换节点还能干嘛？ 本文剔除繁杂参数，通过 4 张核心架构图 和 3 分钟快速阅读 帮你搞懂它的核心逻辑。 1. 角色拆解：谁是干嘛的？ 可以通过下图一目了然搞懂控制面与数据面的分工： flowchart TD subgraph 控制面 [\"控制面（更新配置时参与）\"] A[机场面板 / 订阅服务] -->|1. 提供链接| B[订阅链接] B -->|2. 下载配置| C[配置文件 YAML] C -->|3. 加载规则| D[Clash Verge Rev 界面] end subgraph 数据面 [\"数据面（每一次上网访问都经过）\"] E[浏览器 / 应用] -->|4. 发起请求| F[Mihomo 内核] D -.->|配置指挥| F F -->|5. 规则分流| G{选择出口} G -->|直连| H[目标网站] G -->|代理| I[代理节点] --> H G -->|拒绝| J[拦截 REJECT] end 机场 ：线路",
+    "source_root_domain": "shiguopeng.cn"
   },
   {
     "title": "git fetch 实现断点续传",
