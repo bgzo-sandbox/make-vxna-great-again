@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-17 | [哇咔财务管家，正式上架 Apple Store 啦](https://blog.ops-coffee.com/fire/wakaka-finance-app-listed-app-store.html) |  |
 | 2026-08-17 | [牛来了坐在爱因斯坦的小板凳上](https://www.hecaitou.com/2026/08/the-cow-on-einsteins-little-bench.html) | 这个周末每天都有读者在留言区堵着问我：你看《牛来》了吗？你怎么看《牛来》？但我根本不想看啊！ 因为我的两个朋友为了争论《牛来》究竟是失败垃圾还是电影艺术创新，天天在群里吵架，每次点开都是黑压压几大屏幕的辩词，你来我往，没完没了，感觉是我在微信群里上某个成员全是杠王的 BBS，看得我头痛欲裂。 不至于… |
 | 2026-08-17 | [牛来](https://yipai.me/post/2547.html) | 周末去看了《奥德赛》，感觉还行吧。就是时间有点太长了，九点开始，十一点半都过了才结束。看完回去再查下资料，了解下奥德赛原本的故事脉络，就凌晨一点了。同期上映的还有《牛来》。有人很反感这部《牛来》，在没人去看的时候，认为是粗制滥造，怎么审核通过的？票房起来之后，又认为是资本的操控。我倒是觉得挺正常的，… |
 | 2026-08-17 | [让 Agent 调用网页版 5.6 Sol](https://shiquda.link/agent-call-chatgpt-web-5.6-sol/) | 分享一套让所有 Agent 免费「调用」5.6 Sol 的省额度方法 ，适合拥有自己的付费 ChatGPT 账户的朋友。 我们知道 ChatGPT 网页端进行对话时，是不消耗 Codex 的额度的。我们经常在网页上让 ChatGPT 去帮我们做网络检索、深度思考等工作，然后可能把它给出的方案再转发给… |
@@ -35,6 +36,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-17 | [Memos #2026-08-16](https://www.taober.blog/memos) | 23:51 最愚蠢的周末，衰爆了。 |
 | 2026-08-16 | [大脑充血 Vol.94](https://www.geedea.pro/weekly/94/) | 怎么又到周一了，我上周做了什么……？生活似乎变得稳定，但也开始无聊起来了。我的文化体力还是没有恢复，抱歉了，我可能要过好久才能再写一篇书评了。不过与此同时，我又是怎么做到写了 那么长一篇《奥德赛》影评 ，竟然还有劲儿继续写第二篇的？我的大脑可真是神奇。 吾仅悉落 Nothing Makes Sens… |
 | 2026-08-16 | [记首次 .NET 跨平台开发——Deepseek Harness Desktop](https://nigzu.com/csharp-dotnet-avalonia-deepseek-harness-client-ai/) | 史上增长最快的开源 Agent 框架 DeepSeek Harness（DSH）给我带来了 DIY 的乐趣。官方给的"命令行 + 网页"这套组合能用，但不方便用 |
+| 2026-08-16 | [Memos 小记](http://www.uncoverman.com/my-memos-is-ready.html) | 喜 欢用微博、推特、小红书、朋友圈这类产品，它们共同特点都是短文，配图，随时随地。无摩擦写作，很适合随手记。 但是这些只言片语散落在各个平台，而且有不同的受众，被不同的公司掌握着数据和曝光，没办法随意流动。 于是有了一个设想，能否拥有一个自己的短文平台？支持图文，支持 Mac 、 iOS 、 Win… |
 | 2026-08-16 | [放弃自证的减负感](https://blog.solazy.me/20260816/) | 有时候，需要允许别人误解自己，解释并没有那么重要 |
 | 2026-08-16 | [WOWOWOWO 就等它了！我目前本地就](https://versun.me/blog/tweet-2088978001015054420) | 引用 Qwen 3.8 35B A3B almost confirmed! Spotted on github! while everyone's busy swapping qwen3.6 27b for the new qwen3.8 27b dense drop on their single… |
 | 2026-08-16 | [什么是真正的痛苦](https://kaix.in/2026/0816/) | 这几天经常看到一段李娟和李诞的对话，对话中李娟说世界上真正的痛苦，只有一种，叫贫穷——所有痛苦都是虚构的，只有贫穷才是真实的痛苦。我相信李娟是真诚的，她有她的逻辑，她接着就说自己没资格谈痛苦，因为她现在有好几套房、物质充裕。 为了不造成误导，有必要说一句，她这些话的语境是说精神上的内耗与纠结是可以「… |
