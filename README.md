@@ -39,7 +39,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-17 | [Memos #2026-08-16](https://www.taober.blog/memos) | 23:51 最愚蠢的周末，衰爆了。 |
 | 2026-08-16 | [大脑充血 Vol.94](https://www.geedea.pro/weekly/94/) | 怎么又到周一了，我上周做了什么……？生活似乎变得稳定，但也开始无聊起来了。我的文化体力还是没有恢复，抱歉了，我可能要过好久才能再写一篇书评了。不过与此同时，我又是怎么做到写了 那么长一篇《奥德赛》影评 ，竟然还有劲儿继续写第二篇的？我的大脑可真是神奇。 吾仅悉落 Nothing Makes Sens… |
 | 2026-08-16 | [记首次 .NET 跨平台开发——Deepseek Harness Desktop](https://nigzu.com/csharp-dotnet-avalonia-deepseek-harness-client-ai/) | 史上增长最快的开源 Agent 框架 DeepSeek Harness（DSH）给我带来了 DIY 的乐趣。官方给的"命令行 + 网页"这套组合能用，但不方便用 |
-| 2026-08-16 | [Memos 小记](http://www.uncoverman.com/my-memos-is-ready.html) | 喜 欢用微博、推特、小红书、朋友圈这类产品，它们共同特点都是短文，配图，随时随地。无摩擦写作，很适合随手记。 但是这些只言片语散落在各个平台，而且有不同的受众，被不同的公司掌握着数据和曝光，没办法随意流动。 于是有了一个设想，能否拥有一个自己的短文平台？支持图文，支持 Mac 、 iOS 、 Win… |
+| 2026-08-16 | [Memos 小记](http://www.uncoverman.com/my-memos-is-ready.html) | 喜 欢用微博、推特、小红书、朋友圈这类产品，它们共同特点都是短文，配图，随时随地。无摩擦写作，很适合随手记。 但是这些只言片语散落在各个平台，有不同的受众，被不同的公司掌握着数据和曝光，无法随意流动。 于是有个设想，能否拥有一个自己的短文平台？支持图文，支持 Mac 、 iOS 、 Windows… |
 | 2026-08-16 | [放弃自证的减负感](https://blog.solazy.me/20260816/) | 有时候，需要允许别人误解自己，解释并没有那么重要 |
 | 2026-08-16 | [WOWOWOWO 就等它了！我目前本地就](https://versun.me/blog/tweet-2088978001015054420) | 引用 Qwen 3.8 35B A3B almost confirmed! Spotted on github! while everyone's busy swapping qwen3.6 27b for the new qwen3.8 27b dense drop on their single… |
 | 2026-08-16 | [什么是真正的痛苦](https://kaix.in/2026/0816/) | 这几天经常看到一段李娟和李诞的对话，对话中李娟说世界上真正的痛苦，只有一种，叫贫穷——所有痛苦都是虚构的，只有贫穷才是真实的痛苦。我相信李娟是真诚的，她有她的逻辑，她接着就说自己没资格谈痛苦，因为她现在有好几套房、物质充裕。 为了不造成误导，有必要说一句，她这些话的语境是说精神上的内耗与纠结是可以「… |
