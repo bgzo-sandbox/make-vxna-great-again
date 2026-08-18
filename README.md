@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-18 | [Memos #2026-08-17](https://www.taober.blog/memos) | 01:46 意识到做任何的决定和行为，都只需要为自己负责。 其他人一部分会无条件地支持你，另一部分根本就不在乎你。 |
+| 2026-08-17 | [Unreal updated](https://macsourceports.com/game/unreal) | The build of Unreal has been updated to version v227k_15 of the project |
+| 2026-08-17 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.73 of the project |
+| 2026-08-17 | [Splatterlight updated](https://macsourceports.com/sourceport/spatterlight) | The build of Splatterlight for the Infocom series of games has been updated to version v1.5.4 of the project\n\nhttps://macsourceports.com/sourceport/… |
 | 2026-08-17 | [R#115 RAS!](https://blog.sakanano.moe/journals/random_115) | 2026.8.11 ~ 2026.8.17 |
 | 2026-08-17 | [2024](https://mer.run/posts/2024/) | 2024. |
 | 2026-08-17 | [遛猫](https://mobius.blog/25433.html) | 楼下遇到一个遛猫的小女孩，因为用绳子勒着猫的脖子，有大人教育她别伤害猫。小女孩指了指我牵着的狗，说：我的猫比狗 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -37,7 +41,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-17 | [让 Agent 调用网页版 5.6 Sol](https://shiquda.link/agent-call-chatgpt-web-5.6-sol/) | 分享一套让所有 Agent 免费「调用」5.6 Sol 的省额度方法 ，适合拥有自己的付费 ChatGPT 账户的朋友。 我们知道 ChatGPT 网页端进行对话时，是不消耗 Codex 的额度的。我们经常在网页上让 ChatGPT 去帮我们做网络检索、深度思考等工作，然后可能把它给出的方案再转发给… |
 | 2026-08-17 | [过剩信息，剥夺我](https://mobius.blog/25416.html) | 这个标题没有实际意义，纯粹是因为我从坐着的这个视角看过去，有一个上班族刚好打开自己的笔记本电脑，而这句话是贴在 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-17 | [为啥最近 DHH 的 Omarchy 又](https://versun.me/blog/tweet-2089152283871428676) | 引用 看了DHH在Rails World上的演讲，真是开发者的嘴替，部署的复杂性、云端测试缓慢、本地开发问题、omarchi安装器、rails 8.1各种新功能、还有边缘计算，一个客户一个数据库等等。。。一个小时的演讲我竟然看完了。。。。 不得不说，牛逼的人确实有牛逼之处 为啥最近 DHH 的 Om… |
-| 2026-08-17 | [Memos #2026-08-16](https://www.taober.blog/memos) | 23:51 最愚蠢的周末，衰爆了。 |
 | 2026-08-16 | [大脑充血 Vol.94](https://www.geedea.pro/weekly/94/) | 怎么又到周一了，我上周做了什么……？生活似乎变得稳定，但也开始无聊起来了。我的文化体力还是没有恢复，抱歉了，我可能要过好久才能再写一篇书评了。不过与此同时，我又是怎么做到写了 那么长一篇《奥德赛》影评 ，竟然还有劲儿继续写第二篇的？我的大脑可真是神奇。 吾仅悉落 Nothing Makes Sens… |
 | 2026-08-16 | [记首次 .NET 跨平台开发——Deepseek Harness Desktop](https://nigzu.com/csharp-dotnet-avalonia-deepseek-harness-client-ai/) | 史上增长最快的开源 Agent 框架 DeepSeek Harness（DSH）给我带来了 DIY 的乐趣。官方给的"命令行 + 网页"这套组合能用，但不方便用 |
 | 2026-08-16 | [Memos 小记](http://www.uncoverman.com/my-memos-is-ready.html) | 喜 欢用微博、推特、小红书、朋友圈这类产品，它们共同特点都是短文，配图，随时随地。无摩擦写作，很适合随手记。 但是这些只言片语散落在各个平台，有不同的受众，被不同的公司掌握着数据和曝光，无法随意流动。 于是有个设想，能否拥有一个自己的短文平台？支持图文，支持 Mac 、 iOS 、 Windows… |
@@ -51,7 +54,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-16 | [Chris Sawyer's Locomotion updated](https://macsourceports.com/game/locomotion) | The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version v26.08 of the project |
 | 2026-08-16 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
 | 2026-08-16 | [VCMI updated](https://macsourceports.com/sourceport/vcmi) | The build of VCMI for the Heroes of Might and Magic III series of games has been updated to version 1.7.5 of the project\n\nhttps://macsourceports.com… |
-| 2026-08-16 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.71 of the project |
 | 2026-08-16 | [奥德修斯这个人](https://www.hecaitou.com/2026/08/Odysseus-the-Man.html) | 奥德赛和奥德修斯不是一回事，奥德修斯是人名，奥德赛是书名，意思是奥德修斯的故事，就像是岳飞和《说岳》一样。 无论从哪一个角度来看，奥德修斯都是讨人厌的家伙。诺兰选择马特·达蒙其实并不合适，此人太过正气，太过忠厚，观众因此而激发的怜悯和同情就显得有点便宜。在荷马史诗《奥德赛》的最后，读者对于奥德修斯的… |
 | 2026-08-16 | [New Release: FLESHCANCER](https://macsourceports.com/game/fleshcancer) | FLESHCANCER is a horor-themed Boomer Shooter from Brazil, published by the same team as BRAZILIAN DRUG DEALER 3 . You take the role of someone who see… |
 | 2026-08-16 | [DeepSeek 官方 Agent 部署实录：公网零端口暴露的安全玩法](https://www.wangwangit.com/DeepSeek%20%E5%AE%98%E6%96%B9%20Agent%20%E9%83%A8%E7%BD%B2%E5%AE%9E%E5%BD%95/) | dsh 部署到服务器 + 安全远程访问，小白能跟着做完的实操版 |
@@ -154,34 +156,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-11 | [这个有意思，就是安装麻烦了些，建议简化下](https://versun.me/blog/tweet-2086985748298051749) | 这个有意思，就是安装麻烦了些，建议简化下安装方式 [tweet-2086846424051044750-fc837d1a.mp4] |
 | 2026-08-11 | [青岛威海自驾游（2026）](https://krya.com/post/qingdaoweihai/) | 这次一共五个人：我们一家三口，加上媳妇的闺蜜和她妈妈。四个大人带一个小孩，长途开车其实并不拥挤，路上反而多了不少聊天的话题。 图片拍摄的设备有索尼a7M3（50mm定焦镜头），以及前不久购入了大疆Osmo Pocket 4，或者iPhone直出。 从成都出发，耗时14天，总行程4902公里，加油17… |
 | 2026-08-11 | [最近一个月有玩过 Blender MCP](https://versun.me/blog/tweet-2086978334110658688) | 最近一个月有玩过 Blender MCP 的要注意了，有一个供应链投毒事件 CVE-2026-66004，建议尽快排查一下 https://www.kimi.com/share/19fee49f-65a2-84f3-8000-0000d35140db [tweet-20869783341106586… |
-| 2026-08-10 | [你是哪里人？我是地球人。](https://diff.im/blog/2026/08/%E4%BD%A0%E6%98%AF%E5%93%AA%E9%87%8C%E4%BA%BA%E6%88%91%E6%98%AF%E5%9C%B0%E7%90%83%E4%BA%BA/) | 我 23 岁大学毕业后，离开了家乡长沙。后来，我在杭州生活了七年，有了第一个孩子。接着，我在上海生活了九年，第二个孩子出生了。之后，我又在洛杉矶生活了两年，第三个孩子出生了。现在，我已经在达拉斯生活了两年。 很多时候，我们很难回答“你是哪里人？”这个问题，也曾因此感到困惑。 我在上海生活时，本地的上… |
-| 2026-08-10 | [Album#48 - Winter Sweet](https://taxodium.ink/album-48.html) | Album#48 Winter Sweet 图1 《Winter Sweet》專輯封面 专辑信息 专辑名称： Winter Sweet 歌手： 蛋堡 Solf Lipa 年份： 2009-12-31 时长： 50:47 如果音樂也講究時令，夏日炎炎有「 收斂水 」可以消暑，冬夜漫漫也能有一種暖呼呼的… |
-| 2026-08-10 | [入蜀记 day442 “觉得一直都没有好好告别过吧”](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_442/) | 「“觉得一直都没有好好告别过吧”。」 |
-| 2026-08-10 | [绝壁与深谷：2026盛夏的南太行自驾游](https://hellodk.cn/post/1229) | 前言从合肥休息好之后我回到了南京，决定接下来去哪里。因为时间不充足了，所以放弃了川藏线，尽管我还真的没有去过西藏，只走过川西小环线，那就以后再达成这个心愿吧。台风“红霞”刚走不久，“白海豚”又准... |
-| 2026-08-10 | [理财笔记 20260811](https://z.arlmy.me/posts/TILs/money/20260811_InvestmentNote/) | 「小记。」 |
-| 2026-08-10 | [周记 #14 - 一万天](https://www.taober.blog/posts/weekly-14-20260810) | 2026-08-03 至 2026-08-09 标题用于纪念已经活了一万天的自己。 生活 其实我的代谢能力还算比较强，在不进行任何运动、正常吃喝的情况下，早上体重通常能比睡前轻 0.5 - 0.8kg。 奈何我饭量一直很大，又热爱碳水和油腻的菜，还无辣不欢。所有从今年元旦重新上 70kg 开始，体重… |
-| 2026-08-10 | [MURS：少见的 VHF 对讲机](https://blog.mfwt.top/index.php/archives/1519/) | 前两天忽然感冒发烧，整个人一直都昏昏沉沉的，甚至连晚上也没什么精力去做事情，只能早早睡觉，博客自然是没有太多更新了。想着接下来因游戏更新，博客（包括小说页）会短暂停更一段时间，干脆先写点东西填补... |
-| 2026-08-10 | [R#114 好热的一天](https://blog.sakanano.moe/journals/random_114) | 2026.8.4 ~ 2026.8.10 |
-| 2026-08-10 | [不想转正的心](https://blog.solazy.me/20260810/) | 又快到新工作转正的时间了 |
-| 2026-08-10 | [From iKuai to RouterOS, and Back to Surge VM Gateway](https://missuo.me/posts/ikuai-to-routeros-back-to-surge/) | I moved my home router off iKuai and onto RouterOS CHR running inside PVE — partly because iKuai 4.0's UI is a rough UniFi knock-off, and more worryin… |
-| 2026-08-10 | [海风与旧巷：2026盛夏的深港澳行记](https://hellodk.cn/post/1228) | 终于又到了属于我的假期，今年的假期有两个星期，我可要好好安排一下。准备分成两段，第一周去深圳香港澳门，第二周暂时没想好，但是决定了是自驾，皖南很多地方都转过了，所以有几个选项川藏线南太行浙江海岸... |
-| 2026-08-10 | [CSS Strut 与 IFC 简析](https://ssshooter.com/css-strut/) | 遇到莫名留白和多余高度的困扰？本文深入解析 CSS Strut（行内格式化上下文中的隐形文本行）的产生原理，用直观示例讲解 IFC、BFC、FFC、GFC 四种格式化上下文的区别，并给出 font-size:0、display:block、flex/grid 三种根治撑开的修复方案。 |
-| 2026-08-10 | [向云端｜西南自驾09 - 施秉](https://blog.ops-coffee.com/r/2026-southwest-road-trip-09-shibing.html) |  |
-| 2026-08-10 | [我突然有个想法: 现在很多 agent](https://versun.me/blog/tweet-2086778639958577383) | 我突然有个想法: 现在很多 agent 工具在执行脚本时，如果本地没装对应的解释器，比如python或者js或者ruby等，就跑不了，更何况还有不同的版本问题 但这些运行时本身都是现成的，所以有没有可能做一个跨语言的统一运行时分发层，专门为 agent 设计：类似 npm 那样，agent... |
-| 2026-08-10 | [中文正典](https://www.hecaitou.com/2026/08/On-the-Chinese-Canon.html) | 今天早上写了《 读正典 》，其实说的是西方正典。有读者就问我：那中文的正典呢？应该读什么？多危险呐，得亏是我多年精挑细选出来的读者，否则，我多半要面对严厉的质疑：和菜头，你写正典默认就是西方正典，你是不是崇洋媚外？你是不是对传统文化有什么偏见？ 我倒是想对传统文化有偏见，但是以我的水平，写什么都没有… |
-| 2026-08-10 | [做了个简单的 在线手指框特效，挺好玩的](https://versun.me/blog/tweet-2086730775341482364) | 做了个简单的 在线手指框特效，挺好玩的 https://finger-frame.versun.me/ Github：https://github.com/versun/finger-frame [tweet-2086730775341482364-e726cea7.mp4] |
-| 2026-08-10 | [读正典](https://www.hecaitou.com/2026/08/Reading-the-Canon.html) | 连续几天写关于荷马史诗的文章，没多少人看，然后还被朋友误解：你老老实实告诉我，是不是拿《奥德赛》宣传方的钱了？ 老友在我这里有特权，即便问这种问题我也不能拉黑，所以我就觉得很郁闷。我只是单纯觉得可以向读者介绍一下怎么读荷马史诗，怎么读希腊神话系列而已。如果单纯当做是故事来读，那不免可惜了。 可惜在哪… |
-| 2026-08-10 | [上庭（一）](https://www.justzht.com/go-to-court-one/) | 上庭前一天晚上九点多，J 正准备把和保险公司律师沟通的邮件串打印出来。 自从车被撞之后，J 断断续续整理了 |
-| 2026-08-10 | [咖啡经不起过萃](https://kaix.in/2026/0810/) | 在小红书看到一张照片里的咖啡机上用马克笔写了一句话：虚伪的人和咖啡都经不起时间的萃取。 评论区很多人说，文案写得真好，为了文案也要去这间店逛逛。我有些诧异。咖啡像虚伪的人？这样的类比激发出什么样的共鸣？还是说，就像那些莫名其妙的歌词一样，人们就是不管意涵，只在乎由关键字触发的情绪宣泄？虚伪、时间、经… |
-| 2026-08-10 | [Album#47 - 收斂水](https://taxodium.ink/album-47.html) | Album#47 收斂水 图1 《收斂水》專輯封面 专辑信息 专辑名称： 收斂水 歌手： 蛋堡 Solf Lipa 年份： 2009-07-22 时长： 約 52 分鐘 這張專輯是在 Verdant 的 Tracks#2：收斂水 發現的，聴了几遍了，是我喜歡的那類說唱。 蛋堡的聲音給我一種少年感，可… |
-| 2026-08-10 | [写的真好，已悟 harness 就像编程](https://versun.me/blog/tweet-2086677327086264560) | 写的真好，已悟 harness 就像编程语言的语法糖史：从手动内存管理到 GC ，从回调地狱到 async/await， 但编程语言并没有因此变薄，我们只是把旧复杂度交给底层，然后在上层写出了更复杂的类型系统、并发模型和 DSL。 模型变强不会让 harness 消失，只会让旧的 harness 变… |
-| 2026-08-10 | [Memos: 作为交通参与者收到的第一张罚单](https://blog.yasking.org/a/1786333073) | 上周发现我的小电驴前后刹车拧到底也没什么减速效果，赶着周末去修理刹车，并非刹车片磨损，师傅拿螺丝刀紧了刹车 … |
-| 2026-08-10 | [我做了一个口播短视频二创工具：VideoRemaker](https://liudon.com/posts/video-remaker-talking-head-video/) | 做自媒体的同学，有个口播视频的需求，希望能帮忙搞个工具出来。 以前没有 AI 的时候，我还真不敢接这活，现在有了 AI，决定试试看。 前面做了调研，核心就是 语音克隆 和 对口型视频合成 两个能力。 |
-| 2026-08-10 | [无语了，在各家多模态模型卷得飞起的情况下](https://versun.me/blog/tweet-2086638283099173127) | 无语了，在各家多模态模型卷得飞起的情况下，竟然没有几家的 code cli 是支持直接上传视频的，都是用 ffmpeg 抽帧 查了 codex、 claude code、 opencode、 pi、 oh-my-pi、kimi code，只有 kimi code 是完美支持直接上传视频给模型的。。。… |
-| 2026-08-10 | [香港 Day1・初到铜锣湾](https://blog.yasking.org/a/photos-hk-day1) | 晚上下班儿赶往大兴机场，体验下香港快运航空的红眼航班，大兴机场凌晨也还是有不少人在候机。 飞机看着小小的，忘记 … |
-| 2026-08-10 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
-| 2026-08-10 | [事儿逼提喻法](https://mobius.blog/25339.html) | 最近一个朋友对我抱怨，说自己新带的几个刚入社会的 00 后，老想着整顿职场，交代的事儿做不好，但又老想拿原则说 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-10 | [大脑充血 Vol.93](https://www.geedea.pro/weekly/93/) | 本期周刊我将讨论《奥德赛》的三个版本：荷马史诗原著，Jorge Rivera-Herrans 改编的名为《EPIC》的音乐剧，以及由 Christopher Nolan 改编和导演的《奥德赛》电影。荷马的《奥德赛》我其实只读了第一章，诺兰的电影我也只是有所耳闻，只有《EPIC》从头到尾看过、听过好几… |
 
 ## Vibe Coding
 
