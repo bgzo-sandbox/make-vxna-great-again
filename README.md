@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-18 | [门缝](https://mobius.blog/25423.html) | 夏天的咖啡厅，露台门被打开了一条门缝，是因为上一个进入的人并没有完整闭合好玻璃门，于是这个门缝开始往室内涌进大 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-18 | [Memos #2026-08-17](https://www.taober.blog/memos) | 01:46 意识到做任何的决定和行为，都只需要为自己负责。 其他人一部分会无条件地支持你，另一部分根本就不在乎你。 |
 | 2026-08-17 | [Unreal updated](https://macsourceports.com/game/unreal) | The build of Unreal has been updated to version v227k_15 of the project |
 | 2026-08-17 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.73 of the project |

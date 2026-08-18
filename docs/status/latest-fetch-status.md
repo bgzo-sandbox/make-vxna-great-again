@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-08-18T01:09:26Z
-modified: 2026-08-18T01:09:26Z
+created: 2026-08-18T03:01:28Z
+modified: 2026-08-18T03:01:28Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,7 +11,7 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-08-18T01:09:26Z
+Generated at: 2026-08-18T03:01:28Z
 
 Total sources: 485
 Successful: 367
@@ -93,7 +93,7 @@ Failed: 118
 | Failed | [#399] V2EX › 空山新雨 | [https://blog.tbox.fun/feed.xml](https://blog.tbox.fun/feed.xml) | [Origin](https://www.v2ex.com/xna/s/399) | 0 | Client error '429 Too Many Requests' for url 'https://blog.tbox.fun/feed.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 |
 | Failed | [#402] V2EX › 枸橼 | [https://blog.citrons.cc/feed/](https://blog.citrons.cc/feed/) | [Origin](https://www.v2ex.com/xna/s/402) | 0 | Server error '526 <none>' for url 'https://blog.citrons.cc/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/526 |
 | Failed | [#404] V2EX › 月青悠 | [https://vccv.cc/feed](https://vccv.cc/feed) | [Origin](https://www.v2ex.com/xna/s/404) | 0 | feed parse error |
-| Failed | [#408] V2EX › 不二木子 | [https://www.linnana.me/feed.xml](https://www.linnana.me/feed.xml) | [Origin](https://www.v2ex.com/xna/s/408) | 0 | [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.linnana.me'. (_ssl.c:1082) |
+| Failed | [#408] V2EX › 不二木子 | [https://www.linnana.me/feed.xml](https://www.linnana.me/feed.xml) | [Origin](https://www.v2ex.com/xna/s/408) | 0 | _ssl.c:1064: The handshake operation timed out |
 | Failed | [#412] V2EX › 尼普学种花 | [https://kneep.top/index.xml](https://kneep.top/index.xml) | [Origin](https://www.v2ex.com/xna/s/412) | 0 | [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082) |
 | Failed | [#421] V2EX › Data Honor | [https://datahonor.com/feed_rss_created](https://datahonor.com/feed_rss_created) | [Origin](https://www.v2ex.com/xna/s/421) | 0 | Client error '404 Not Found' for url 'https://mathewshen.me/legacyblog/feed_rss_created' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#422] V2EX › Xavier | [https://predicate.pro/rss.xml](https://predicate.pro/rss.xml) | [Origin](https://www.v2ex.com/xna/s/422) | 0 | [Errno -5] No address associated with hostname |
@@ -104,7 +104,6 @@ Failed: 118
 | Failed | [#441] V2EX › 酷酷的白 | [https://bducds.com/feed/](https://bducds.com/feed/) | [Origin](https://www.v2ex.com/xna/s/441) | 0 | Client error '403 Forbidden' for url 'https://bducds.com/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#446] V2EX › Luozx | [https://luozx.org/index.xml](https://luozx.org/index.xml) | [Origin](https://www.v2ex.com/xna/s/446) | 0 | Client error '403 Forbidden' for url 'https://luozx.org/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#453] V2EX › 上岸的鱼 | [https://blog.7caifei.com/atom.xml](https://blog.7caifei.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/453) | 0 | Client error '403 Forbidden' for url 'https://blog.7caifei.com/atom.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
-| Failed | [#454] V2EX › 白宦成的博客 | [https://www.ixiqin.com/feed/](https://www.ixiqin.com/feed/) | [Origin](https://www.v2ex.com/xna/s/454) | 0 | [Errno 111] Connection refused |
 | Failed | [#457] V2EX › Efan404 | [https://efan404.com/index.xml](https://efan404.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/457) | 0 | Client error '403 Forbidden' for url 'https://efan404.com/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#460] V2EX › Xiaojun Zhou | [https://www.xiaojun.im/feed](https://www.xiaojun.im/feed) | [Origin](https://www.v2ex.com/xna/s/460) | 0 | [Errno -2] Name or service not known |
 | Failed | [#464] V2EX › J 实验室 | [https://weijunext.com/rss.xml](https://weijunext.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/464) | 0 | Client error '404 Not Found' for url 'https://weijunext.com/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
@@ -117,6 +116,7 @@ Failed: 118
 | Failed | [#507] V2EX › iyeslogo 壹手设计 | [https://www.iyeslogo.com/feed/](https://www.iyeslogo.com/feed/) | [Origin](https://www.v2ex.com/xna/s/507) | 0 | Client error '403 Forbidden' for url 'https://www.iyeslogo.com/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#508] V2EX › hekou 写字的地方 | [https://www.hekouwangyutian.com/atom.xml](https://www.hekouwangyutian.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/508) | 0 | [Errno 101] Network is unreachable |
 | Failed | [#50] V2EX › 码农明明桑 | [https://isming.me/index.xml](https://isming.me/index.xml) | [Origin](https://www.v2ex.com/xna/s/50) | 0 | Client error '403 Forbidden' for url 'https://isming.me/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
+| Failed | [#519] V2EX › 柴郡猫 | [https://www.cheshirex.com/feed](https://www.cheshirex.com/feed) | [Origin](https://www.v2ex.com/xna/s/519) | 0 | The read operation timed out |
 | Failed | [#528] V2EX › 薇尔薇 | [https://vio.moe/rss.xml](https://vio.moe/rss.xml) | [Origin](https://www.v2ex.com/xna/s/528) | 0 | Client error '403 Forbidden' for url 'https://vio.moe/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#532] V2EX › Korbin's Blog | [https://www.vhcffh.com/rss.xml](https://www.vhcffh.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/532) | 0 | Client error '404 Not Found' for url 'https://www.vhcffh.com/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#533] V2EX › Think Note | [https://blog.wo0ow.com/rss.xml](https://blog.wo0ow.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/533) | 0 | [Errno -2] Name or service not known |
@@ -393,6 +393,7 @@ Failed: 118
 | Success | [#450] V2EX › 醒石 | [https://leonscave.com/index.xml](https://leonscave.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/450) | 20 | - |
 | Success | [#451] V2EX › So!azy | [https://blog.solazy.me/feed/](https://blog.solazy.me/feed/) | [Origin](https://www.v2ex.com/xna/s/451) | 10 | - |
 | Success | [#452] V2EX › 云溪的 blog | [https://www.yunxicoding.top/index.xml](https://www.yunxicoding.top/index.xml) | [Origin](https://www.v2ex.com/xna/s/452) | 105 | - |
+| Success | [#454] V2EX › 白宦成的博客 | [https://www.ixiqin.com/feed/](https://www.ixiqin.com/feed/) | [Origin](https://www.v2ex.com/xna/s/454) | 10 | - |
 | Success | [#455] V2EX › guchengf.me | [https://guchengf.me/rss.xml](https://guchengf.me/rss.xml) | [Origin](https://www.v2ex.com/xna/s/455) | 124 | - |
 | Success | [#456] V2EX › Frytea's Blog | [https://frytea.com/feed/](https://frytea.com/feed/) | [Origin](https://www.v2ex.com/xna/s/456) | 935 | - |
 | Success | [#458] V2EX › laike9m | [https://laike9m.com/blog/rss/](https://laike9m.com/blog/rss/) | [Origin](https://www.v2ex.com/xna/s/458) | 5 | - |
@@ -445,7 +446,6 @@ Failed: 118
 | Success | [#516] V2EX › Evan's Space | [https://www.evan.xin/feed/](https://www.evan.xin/feed/) | [Origin](https://www.v2ex.com/xna/s/516) | 30 | - |
 | Success | [#517] V2EX › Victor42 | [https://victor42.eth.limo/index.xml](https://victor42.eth.limo/index.xml) | [Origin](https://www.v2ex.com/xna/s/517) | 528 | - |
 | Success | [#518] V2EX › 滴星 | [https://blog.xu42.com/index.xml](https://blog.xu42.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/518) | 10 | - |
-| Success | [#519] V2EX › 柴郡猫 | [https://www.cheshirex.com/feed](https://www.cheshirex.com/feed) | [Origin](https://www.v2ex.com/xna/s/519) | 10 | - |
 | Success | [#520] V2EX › 乐的博客 | [https://liujiale.me/index.xml](https://liujiale.me/index.xml) | [Origin](https://www.v2ex.com/xna/s/520) | 26 | - |
 | Success | [#521] V2EX › devinwang.eth | [https://devinwang.eth.limo/rss.xml](https://devinwang.eth.limo/rss.xml) | [Origin](https://www.v2ex.com/xna/s/521) | 8 | - |
 | Success | [#522] V2EX › IMLANE | [https://imlane.zhanglintc.co/feed](https://imlane.zhanglintc.co/feed) | [Origin](https://www.v2ex.com/xna/s/522) | 10 | - |
