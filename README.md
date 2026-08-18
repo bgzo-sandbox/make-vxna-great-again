@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-18 | [Sweep LLM 功耗控制调度策略研究(一)](https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-yi) | 8月份了，趁着开学之前，抽时间整理一下暑假做的Reasearch Assistant的工作内容整理。 研究内容 现状 项目主要是基于博士后做的SWEEP-LLM runtime 调度器的进一步扩展。这个调度器尝试解决的问题是在PD分离的异构GPU混合集群上，调度传入请求，使请求能够在满足TTFT/T |
 | 2026-08-18 | [不该露怯的人](https://blog.solazy.me/20260818/) | 今天想聊聊「露怯」这个词 |
 | 2026-08-18 | [SeeDNorm: Self-Rescaled Dynamic Normalization](https://mer.run/posts/seednorm-self-rescaled-dynamic-normalization/) | 有实验有理论，主要是想把RMSNorm丢掉的长度信息用温和的方式补充回去，看起来效果也还可以。实验里面有小模型测试的东西，之后可以学一下他们的setup。另外里面关于方差的一些分析感觉可以挪用到AsyncT上去。 |
 | 2026-08-18 | [Rethinking Attention: Polynomial Alternatives to Softmax in Transformers](https://mer.run/posts/rethinking-attention-polynomial-alternatives-to-softmax-in-transformers/) | 作者认为softmax有效是因为它将Attention矩阵的Frobenius范数控制在了O(sqrt(N))量级，从而稳定了训练，因此提出用多项式激活代替softmax、在期望意义上实现相似的范数控制。理论推完发现这文章没中，ICLR2026得分2222，一下子就不想看下去了。感觉实验和理论都不是… |
