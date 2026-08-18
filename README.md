@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-18 | [不该露怯的人](https://blog.solazy.me/20260818/) | 今天想聊聊「露怯」这个词 |
 | 2026-08-18 | [SeeDNorm: Self-Rescaled Dynamic Normalization](https://mer.run/posts/seednorm-self-rescaled-dynamic-normalization/) | 有实验有理论，主要是想把RMSNorm丢掉的长度信息用温和的方式补充回去，看起来效果也还可以。实验里面有小模型测试的东西，之后可以学一下他们的setup。另外里面关于方差的一些分析感觉可以挪用到AsyncT上去。 |
 | 2026-08-18 | [Rethinking Attention: Polynomial Alternatives to Softmax in Transformers](https://mer.run/posts/rethinking-attention-polynomial-alternatives-to-softmax-in-transformers/) | 作者认为softmax有效是因为它将Attention矩阵的Frobenius范数控制在了O(sqrt(N))量级，从而稳定了训练，因此提出用多项式激活代替softmax、在期望意义上实现相似的范数控制。理论推完发现这文章没中，ICLR2026得分2222，一下子就不想看下去了。感觉实验和理论都不是… |
 | 2026-08-18 | [Attention Residuals](https://mer.run/posts/attention-residuals/) | Kimi团队关于Residual Addition的扩展。看起来某种意义上算是复杂的拓扑结构，说不定在现在的硬件上会有优势？ |
@@ -113,6 +114,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-17 | [李白写"汉家陵阙"时，那些早塌了，只剩这几座...](https://macin.org/2026/08/17/qu-xian-han-que/) | 阅读全文 → 有些地方，是专门用来唤醒前世的。 |
 | 2026-08-17 | [你敢信，一个 27B 的qwen 3.8](https://versun.me/blog/tweet-2089475382915613085) | 引用 Artificial Analysis Intelligence Index puts Qwen3.8-27B at DeepSeek V4-Pro and GPT 5.6 Luna performance. This is the first time a local model has s… |
 | 2026-08-17 | [R#115 RAS!](https://blog.sakanano.moe/journals/random_115) | 2026.8.11 ~ 2026.8.17 |
+| 2026-08-17 | [有些事情没有答案，只有选择](https://blog.solazy.me/20260817/) | 选择，可能未必都需要经过计算 |
 | 2026-08-17 | [已将我的 Nowledge mem 模型](https://versun.me/blog/tweet-2089350427506889110) | 已将我的 Nowledge mem 模型改为 qwen3.8-27b ，虽然慢了点，先用几天看看情况 |
 | 2026-08-17 | [遛猫](https://mobius.blog/25433.html) | 楼下遇到一个遛猫的小女孩，因为用绳子勒着猫的脖子，有大人教育她别伤害猫。小女孩指了指我牵着的狗，说：我的猫比狗 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-17 | [观《老式喜剧》后记](https://www.ixiqin.com/2026/08/17/afterword-to-old-style-comedy/) | 因为小学背过《雷雨》，演过《雷雨》，我对于人艺就很好奇。后面从深圳去北京工作，有了机会，我就曽和太太一起去人艺看了《蔡文姬》，后面种种原因，就一直没看；那一场有杨立新和濮存晰，还挺好的，不过 … |

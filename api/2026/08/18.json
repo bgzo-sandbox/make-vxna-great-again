@@ -1,5 +1,12 @@
 [
   {
+    "title": "不该露怯的人",
+    "url": "https://blog.solazy.me/20260818/",
+    "date": "2026-08-18T14:00:00Z",
+    "description": "今天想聊聊「露怯」这个词",
+    "source_root_domain": "solazy.me"
+  },
+  {
     "title": "SeeDNorm: Self-Rescaled Dynamic Normalization",
     "url": "https://mer.run/posts/seednorm-self-rescaled-dynamic-normalization/",
     "date": "2026-08-18T10:42:14Z",
@@ -600,6 +607,13 @@
     "date": "2026-08-17T15:50:00Z",
     "description": "2026.8.11 ~ 2026.8.17",
     "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "有些事情没有答案，只有选择",
+    "url": "https://blog.solazy.me/20260817/",
+    "date": "2026-08-17T15:00:00Z",
+    "description": "选择，可能未必都需要经过计算",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "已将我的 Nowledge mem 模型",
