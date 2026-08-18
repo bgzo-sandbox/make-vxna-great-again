@@ -27,13 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-18 | [2024](https://mer.run/posts/2024/) | 2024. |
+| 2026-08-18 | [观《牛来》后记](https://www.ixiqin.com/2026/08/18/afterword-to-niu-lai/) | 先说评价：牛来这部电影在票价合适的时候，是可以考虑去看的；虽然制作稀烂，但故事本身的元素还行；现场也氛围很轻松，如果你去一个人很多的场次，会很欢乐。 最近《牛来》很火，作为一个乐子人，我自然也 … |
+| 2026-08-18 | [人生第一次：站着干活](https://www.hecaitou.com/2026/08/first-time-ever-standing-on-the-job.html) | 此时此刻，我的电脑桌面距离地面 1.1 米，而我正站着打下这些字。 这一天我等了很久，但之前始终因缘无法具足。我知道站着打字对肌肉好，对眼睛好，对颈椎好，也知道很容易实现，可以选择升降桌或者桌面升降台。但是事情就是这样的，人对不正确的事情总是争分夺秒，为了那一点点做贼的快意。正确的事情却一拖再拖，随… |
+| 2026-08-18 | [我玩了一下Polymarket预测市场](https://www.cheshirex.com/10904.html) | 昨晚逛推特看到有人在说Polymarket的空投，想了下之前了解到Polymarket是在去年了，但是没有上手 […] |
 | 2026-08-18 | [门缝](https://mobius.blog/25423.html) | 夏天的咖啡厅，露台门被打开了一条门缝，是因为上一个进入的人并没有完整闭合好玻璃门，于是这个门缝开始往室内涌进大 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-18 | [Memos #2026-08-17](https://www.taober.blog/memos) | 01:46 意识到做任何的决定和行为，都只需要为自己负责。 其他人一部分会无条件地支持你，另一部分根本就不在乎你。 |
 | 2026-08-17 | [Unreal updated](https://macsourceports.com/game/unreal) | The build of Unreal has been updated to version v227k_15 of the project |
 | 2026-08-17 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.73 of the project |
 | 2026-08-17 | [Splatterlight updated](https://macsourceports.com/sourceport/spatterlight) | The build of Splatterlight for the Infocom series of games has been updated to version v1.5.4 of the project\n\nhttps://macsourceports.com/sourceport/… |
 | 2026-08-17 | [R#115 RAS!](https://blog.sakanano.moe/journals/random_115) | 2026.8.11 ~ 2026.8.17 |
-| 2026-08-17 | [2024](https://mer.run/posts/2024/) | 2024. |
 | 2026-08-17 | [遛猫](https://mobius.blog/25433.html) | 楼下遇到一个遛猫的小女孩，因为用绳子勒着猫的脖子，有大人教育她别伤害猫。小女孩指了指我牵着的狗，说：我的猫比狗 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-17 | [观《老式喜剧》后记](https://www.ixiqin.com/2026/08/17/afterword-to-old-style-comedy/) | 因为小学背过《雷雨》，演过《雷雨》，我对于人艺就很好奇。后面从深圳去北京工作，有了机会，我就曽和太太一起去人艺看了《蔡文姬》，后面种种原因，就一直没看；那一场有杨立新和濮存晰，还挺好的，不过 … |
 | 2026-08-17 | [哇咔财务管家，正式上架 Apple Store 啦](https://blog.ops-coffee.com/fire/wakaka-finance-app-listed-app-store.html) |  |
