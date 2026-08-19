@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-19 | [Memos #2026-08-18](https://www.taober.blog/memos) | 20:42 陈雯雯接不接受那次的晚餐邀约，结局都是注定的，不喜欢这种极其主观的情感，怎么能扭转的过来。诺诺的生日祝福短信也是一样，只是给了路明非更多的念想，自己心里跟清楚，那些都是不切实际的奢望。 在一个合适的时机，用合适的理由结束了，其实挺好。路明非保留了他的窝囊与体面，也不用再掩饰什么，只是从来… |
 | 2026-08-18 | [Sweep LLM 功耗控制调度策略研究(一)](https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-yi) | 8月份了，趁着开学之前，抽时间整理一下暑假做的Reasearch Assistant的工作内容整理。 研究内容 现状 项目主要是基于博士后做的SWEEP-LLM runtime 调度器的进一步扩展。这个调度器尝试解决的问题是在PD分离的异构GPU混合集群上，调度传入请求，使请求能够在满足TTFT/T |
 | 2026-08-18 | [不该露怯的人](https://blog.solazy.me/20260818/) | 今天想聊聊「露怯」这个词 |
 | 2026-08-18 | [SeeDNorm: Self-Rescaled Dynamic Normalization](https://mer.run/posts/seednorm-self-rescaled-dynamic-normalization/) | 有实验有理论，主要是想把RMSNorm丢掉的长度信息用温和的方式补充回去，看起来效果也还可以。实验里面有小模型测试的东西，之后可以学一下他们的setup。另外里面关于方差的一些分析感觉可以挪用到AsyncT上去。 |
@@ -108,7 +109,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-18 | [我玩了一下Polymarket预测市场](https://www.cheshirex.com/10904.html) | 昨晚逛推特看到有人在说Polymarket的空投，想了下之前了解到Polymarket是在去年了，但是没有上手 […] |
 | 2026-08-18 | [门缝](https://mobius.blog/25423.html) | 夏天的咖啡厅，露台门被打开了一条门缝，是因为上一个进入的人并没有完整闭合好玻璃门，于是这个门缝开始往室内涌进大 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-18 | [记录下 Kimi 699 套餐 7 天的](https://versun.me/blog/tweet-2089514949106335946) | 记录下 Kimi 699 套餐 7 天的额度，大概在 1.5B token |
-| 2026-08-18 | [Memos #2026-08-17](https://www.taober.blog/memos) | 01:46 意识到做任何的决定和行为，都只需要为自己负责。 其他人一部分会无条件地支持你，另一部分根本就不在乎你。 |
 | 2026-08-17 | [Unreal updated](https://macsourceports.com/game/unreal) | The build of Unreal has been updated to version v227k_15 of the project |
 | 2026-08-17 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.73 of the project |
 | 2026-08-17 | [Splatterlight updated](https://macsourceports.com/sourceport/spatterlight) | The build of Splatterlight for the Infocom series of games has been updated to version v1.5.4 of the project\n\nhttps://macsourceports.com/sourceport/… |
@@ -218,30 +218,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-12 | [现在几点？](https://mobius.blog/25356.html) | 遛狗的时候，一个玩滑板车的小男孩突然问我：叔叔现在几点？ 我看了看手机，回答了他。他似乎有些不太确信此刻的时间 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-12 | [想不到 Mojo 还活着，简单回顾了下：](https://versun.me/blog/tweet-2087343369412579461) | 想不到 Mojo 还活着，简单回顾了下： - 2023.5 出道，放话比 Python 快 3.5 万倍 - 2025 年从"语言"转向"推理基础设施"，推出 MAX 推理框架 - 2026.6 公司被高通 39 亿美元收购了。。 - 磨了三年到 1.0，承诺秋天开源编译器 四年半，3.8 亿融资进… |
 | 2026-08-12 | [API for agent，有意思](https://versun.me/blog/tweet-2087339309301191003) | API for agent，有意思 [tweet-2077422545142534275-0b04cea4.jpg] |
-| 2026-08-11 | [修复 h5player 脚本在巴哈姆特持续注入 CSS](https://blog.bgzo.cc/20260811-fix-h5player-bahamut-fix-width.html) | 很喜欢 h5player 的截图功能，喜欢到了刚需的程度！它强大到自己可以让网页上的一切视频都能截图，甚至做到下载。虽然它如今已经适配 37+ 网站，但它还是不对付我常用的两个看番网站： 1. https//ani.gamer.com.tw/ 2. https//anime1.me 这个问题我 22… |
-| 2026-08-11 | [梭罗碥石刻：不知缘由裂成两半](https://macin.org/2026/08/11/suo-luo-bian/) | 阅读全文 → 这周去了一趟（弗罗里）达州渠县。 |
-| 2026-08-11 | [DIVING INTO HK](https://re.karlbaey.top/articles/rocky-road/diving-into-hk/) | 多用了点 emoji 表达情绪。🤪图片比较多，记得连着 Wi-Fi 看。快说谢谢流量侠。 距离上一回去 HK，已经有十个 … |
-| 2026-08-11 | [简化与收敛](https://z.arlmy.me/posts/ZArlmyMe/Decrease_20260811/) | 「简化与收敛。」 |
-| 2026-08-11 | [《让她降落》](https://blog.solazy.me/20260811/) | 今天聊聊音乐 |
-| 2026-08-11 | [批量修改主机名后 Java 应用抛 UnknownHostException 的排查与处置](https://199604.com/3643) | 批量修改主机名后 Java 应用抛 UnknownHostException 的排查与处置 记录时间：2026 […] |
-| 2026-08-11 | [互联网来到我身边以前](https://www.tortorse.com/archives/internet-before-it-came-to-me/) | 九十年代的电脑、游戏机和游戏杂志 |
-| 2026-08-11 | [How I Use Hermes](https://www.bboy.app/2026/08/11/how-i-use-hermes/) | Introduction I came across the Hermes Agent project around the end of last year and gave it a try. I’ve been using it for over half a year now, and I… |
-| 2026-08-11 | [我是怎么用 Hermes 的](https://www.bboy.app/2026/08/11/%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E7%94%A8-hermes-%E7%9A%84/) | 简介 大概去年年末看到 Hermes Agent 这个项目，试了下。用了大半年，现在离不开了。今天聊聊我的用法。 Hermes 是什么，我是怎么装的 简单说，Hermes 是一个跑在本地的 AI 助手 CLI。你可以通过 Telegram 跟它聊天，它背后调大模型，然后直接操作你的电脑——读文件、写… |
-| 2026-08-11 | [Whey Protein and Creatine](https://www.bboy.app/2026/08/11/whey-protein-and-creatine/) | Introduction I’m 30, an ops engineer, sitting in front of a computer all day. I won’t talk about my height, but my weight — you probably won’t believe… |
-| 2026-08-11 | [蛋白粉和肌酸](https://www.bboy.app/2026/08/11/%E8%9B%8B%E7%99%BD%E7%B2%89%E5%92%8C%E8%82%8C%E9%85%B8/) | 简介 我 30 岁，运维，天天坐电脑前面。身高就不说了，体重说出来你可能不信：45kg。 对，你没看错，一个成年男人，45kg。瘦了二十多年，从来没进过健身房，全是自己在家练。最近又把这事捡起来了，顺手买了蛋白粉和肌酸。现在用支架一次能做 50 个俯卧撑了，离大佬差得远，但对我来说已经是人生巅峰。写… |
-| 2026-08-11 | [20260811的胡言乱语](https://www.bboy.app/2026/08/11/20260811%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
-| 2026-08-11 | [Random Thoughts - 20260811](https://www.bboy.app/2026/08/11/random-thoughts-20260811/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
-| 2026-08-11 | [在南方](https://z.arlmy.me/posts/ZArlmyMe/South_20260811/) | 「在南方。」 |
-| 2026-08-11 | [好久不见](https://ameow.xyz/archives/blog-cdn-update) | 最近几个月都感觉没什么内容更新，所以就没有写周刊。 今天翻邮件的时候发现七牛云的 CDN SSL 证书过期了，导致博客的图片其实挂了差不多半个月。于是花了一个早上把数据迁移到腾讯云，成本差不多，证书可以自动化管理，年纪大了就是不爱折腾。迁移过程一路顺利没有踩太多坑，翻了下博客的照片都可以正常访问了，… |
-| 2026-08-11 | [SpotAsk：不是所有的问题，都需要打开 ChatGPT](https://shiquda.link/spotask-not-every-question-needs-chatgpt/) | SpotAsk：不是所有的问题，都需要打开 ChatGPT 我为什么想做 SpotAsk 最近我开始在 macOS 上生活，顺手做了自己的第一款 macOS 桌面应用：SpotAsk。 起因很普通。我打开 ChatGPT，很多时候并不是要处理什么复杂任务。更多时候，只是想弄明白一个概念、翻译一段话、… |
-| 2026-08-11 | [Grafana cluster变量出现Kafka垃圾值的排查与清理](https://199604.com/3641) | Grafana cluster变量出现Kafka垃圾值的排查与清理 记录时间：2026-08-08 环境：RK […] |
-| 2026-08-11 | [清华大学 TUNA 镜像站宣布：正式移除 Anaconda、OpenWrt、Flutter、GitLab EE 软件镜像](https://blog.renfei.net/posts/1626402130325676144) | 清华大学 TUNA 镜像站因存储资源受限，正式移除 Anaconda、OpenWrt、Flutter 和 GitLab EE 软件镜像，原有访问将跳转到教育网联合镜像站或上游。 |
-| 2026-08-11 | [不建群的人](https://www.hecaitou.com/2026/08/The-Non-Group-Person.html) | 最近看到两条读者提问，彼此看起来差别很大，但在我眼里完全是一回事： 1、你为什么不建一个读书群？ 2、在陌生的城市里工作，总感到孤独怎么办？ 那就去参加一个读书群好了---如果我这么回答是不是有点冷血，有点不道德？ 熟悉我的读者都知道，我不大加群，尤其是大群，尤其是学习群、打卡群、社交群。因为这件事… |
-| 2026-08-11 | [Pi 打败了Oh My Pi 🤣](https://versun.me/blog/tweet-2086992544861507602) | Pi 打败了Oh My Pi 🤣 [tweet-2086814491920974069-7228c7aa.jpg] |
-| 2026-08-11 | [污染源](https://mobius.blog/25346.html) | 我从小得到老师最多的评价，是一句被我视为“褒奖”的话：十处打锣九处都有你。 倒不是我这个人好热闹，而是很多事情 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-11 | [这个有意思，就是安装麻烦了些，建议简化下](https://versun.me/blog/tweet-2086985748298051749) | 这个有意思，就是安装麻烦了些，建议简化下安装方式 [tweet-2086846424051044750-fc837d1a.mp4] |
-| 2026-08-11 | [青岛威海自驾游（2026）](https://krya.com/post/qingdaoweihai/) | 这次一共五个人：我们一家三口，加上媳妇的闺蜜和她妈妈。四个大人带一个小孩，长途开车其实并不拥挤，路上反而多了不少聊天的话题。 图片拍摄的设备有索尼a7M3（50mm定焦镜头），以及前不久购入了大疆Osmo Pocket 4，或者iPhone直出。 从成都出发，耗时14天，总行程4902公里，加油17… |
-| 2026-08-11 | [最近一个月有玩过 Blender MCP](https://versun.me/blog/tweet-2086978334110658688) | 最近一个月有玩过 Blender MCP 的要注意了，有一个供应链投毒事件 CVE-2026-66004，建议尽快排查一下 https://www.kimi.com/share/19fee49f-65a2-84f3-8000-0000d35140db [tweet-20869783341106586… |
 
 ## Vibe Coding
 
