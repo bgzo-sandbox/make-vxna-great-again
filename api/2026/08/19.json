@@ -1,5 +1,47 @@
 [
   {
+    "title": "Cloudflare R2 图床在微信公众号排版时的踩坑",
+    "url": "https://macin.org/2026/08/19/r2-image-wechat/",
+    "date": "2026-08-19T19:28:49Z",
+    "description": "阅读全文 → 结论先行 ：R2 图床在公众号裂图的真凶，不是水印、不是跨境、也不是 Workers 的 CPU 上限，而是 Worker 冷启动 + 实时图片处理管线 导致首请求超时。治本是「让公众号绕过 Worker，走 R2 原生直出」，同时用子域分流把水印保留给博客。本文复盘完整排查链路。",
+    "source_root_domain": "macin.org"
+  },
+  {
+    "title": "入蜀记 day446 FCF",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_446/",
+    "date": "2026-08-19T11:17:27Z",
+    "description": "「FCF。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day445 幺妹峰",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_445/",
+    "date": "2026-08-19T11:16:27Z",
+    "description": "「幺妹峰。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day444 没有工位",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_444/",
+    "date": "2026-08-19T11:15:27Z",
+    "description": "「没有工位。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day443 打呼噜",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_443/",
+    "date": "2026-08-19T11:14:27Z",
+    "description": "「打呼噜。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Toots 432 2026 Aug.9 - Aug.15",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260815/",
+    "date": "2026-08-19T10:58:27Z",
+    "description": "「幺妹峰。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
     "title": "26年8月的一些碎片",
     "url": "https://yovey.me/life-fragments-aug-2026-ver/",
     "date": "2026-08-19T08:24:14Z",

@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-19 | [Cloudflare R2 图床在微信公众号排版时的踩坑](https://macin.org/2026/08/19/r2-image-wechat/) | 阅读全文 → 结论先行 ：R2 图床在公众号裂图的真凶，不是水印、不是跨境、也不是 Workers 的 CPU 上限，而是 Worker 冷启动 + 实时图片处理管线 导致首请求超时。治本是「让公众号绕过 Worker，走 R2 原生直出」，同时用子域分流把水印保留给博客。本文复盘完整排查链路。 |
+| 2026-08-19 | [入蜀记 day446 FCF](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_446/) | 「FCF。」 |
+| 2026-08-19 | [入蜀记 day445 幺妹峰](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_445/) | 「幺妹峰。」 |
+| 2026-08-19 | [入蜀记 day444 没有工位](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_444/) | 「没有工位。」 |
+| 2026-08-19 | [入蜀记 day443 打呼噜](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_443/) | 「打呼噜。」 |
+| 2026-08-19 | [Toots 432 2026 Aug.9 - Aug.15](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260815/) | 「幺妹峰。」 |
 | 2026-08-19 | [26年8月的一些碎片](https://yovey.me/life-fragments-aug-2026-ver/) | 发现去年没写年中记，写的是一些碎片。恰好是去年今日。 前段时间妈妈打电话，分享说基本可以宣告病愈了，目前维持每 … Continue reading "26年8月的一些碎片" |
 | 2026-08-19 | [AI Infra：DuckDB v2.0 Preview 发布](https://luweiqing.com/gossip/AI-Infra-DuckDB-v2-0-Preview.html) | “the year of DuckDB as a server”，DuckDB 正在从“嵌入应用里的分析引擎”，扩展成“可以嵌入、可以独立运行、可以连接远端数据源、可以直接查询 Lakehous... |
 | 2026-08-19 | [AI Infra：光计算与光电混合算力芯片行业研究](https://luweiqing.com/resources/Photonic-electronic-hybrid-computing-chip.html) | 从光子矩阵计算到可部署 AI 加速器Sluke简版 &#124; 2026 年 8 月覆盖范围：光计算/光电混合芯片/板卡系统/软件栈/商业化路径注：企业性能数据无第三方复现时按企业口径记录。市场预测仅供... |
