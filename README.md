@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-08-19 | [Cloudflare R2 图床在微信公众号排版时的踩坑](https://macin.org/2026/08/19/r2-image-wechat/) | 阅读全文 → 结论先行 ：R2 图床在公众号裂图的真凶，不是水印、不是跨境、也不是 Workers 的 CPU 上限，而是 Worker 冷启动 + 实时图片处理管线 导致首请求超时。治本是「让公众号绕过 Worker，走 R2 原生直出」，同时用子域分流把水印保留给博客。本文复盘完整排查链路。 |
+| 2026-08-19 | [Traceroute the World](https://www.kawabangga.com/posts/7276) | ICMP 一直是我最喜欢的协议，在没有机器/设备的登录权限的时候，ICMP (ping) 可以让我在 debu […] Continue reading... |
 | 2026-08-19 | [入蜀记 day446 FCF](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_446/) | 「FCF。」 |
 | 2026-08-19 | [入蜀记 day445 幺妹峰](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_445/) | 「幺妹峰。」 |
 | 2026-08-19 | [入蜀记 day444 没有工位](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_444/) | 「没有工位。」 |
