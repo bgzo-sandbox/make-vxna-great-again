@@ -1,5 +1,26 @@
 [
   {
+    "title": "26年8月的一些碎片",
+    "url": "https://yovey.me/life-fragments-aug-2026-ver/",
+    "date": "2026-08-19T08:24:14Z",
+    "description": "发现去年没写年中记，写的是一些碎片。恰好是去年今日。 前段时间妈妈打电话，分享说基本可以宣告病愈了，目前维持每 … Continue reading \"26年8月的一些碎片\"",
+    "source_root_domain": "yovey.me"
+  },
+  {
+    "title": "AI Infra：DuckDB v2.0 Preview 发布",
+    "url": "https://luweiqing.com/gossip/AI-Infra-DuckDB-v2-0-Preview.html",
+    "date": "2026-08-19T07:48:35Z",
+    "description": "“the year of DuckDB as a server”，DuckDB 正在从“嵌入应用里的分析引擎”，扩展成“可以嵌入、可以独立运行、可以连接远端数据源、可以直接查询 Lakehous...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "AI Infra：光计算与光电混合算力芯片行业研究",
+    "url": "https://luweiqing.com/resources/Photonic-electronic-hybrid-computing-chip.html",
+    "date": "2026-08-19T07:46:24Z",
+    "description": "从光子矩阵计算到可部署 AI 加速器Sluke简版 | 2026 年 8 月覆盖范围：光计算/光电混合芯片/板卡系统/软件栈/商业化路径注：企业性能数据无第三方复现时按企业口径记录。市场预测仅供...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
     "title": "Full-bandwidth Transformer",
     "url": "https://mer.run/posts/full-bandwidth-transformer/",
     "date": "2026-08-19T06:21:51Z",
@@ -511,6 +532,13 @@
     "source_root_domain": "mer.dev"
   },
   {
+    "title": "使用 EdgeOne CDN 加速 Immich 地图加载速度",
+    "url": "https://blog.yasking.org/a/edgeone-speedup-immich-map-tiles",
+    "date": "2026-08-19T05:24:00Z",
+    "description": "前段时间领取 EdgeOne 的免费版使用，其安全加速流量和安全加速请求均显示 ‘不限量’，堪称国内的小赛博罗汉。 本篇记录 Immich 地图 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
     "title": "修复 macOS 迁移助手会导致 OrbStack 文件损坏的问题",
     "url": "https://blog.yasking.org/a/macos-migration-assistant-fixed-orbstack",
     "date": "2026-08-19T05:18:00Z",
@@ -523,6 +551,27 @@
     "date": "2026-08-19T05:15:14Z",
     "description": "最近我有一种很强烈的感觉，互联网正在变得越来越无趣。有趣的人，有趣的事越来越少。上一次让我觉得有趣，是大学生自行车跨城夜游？还是全国人民蜂拥前往文和友？又或者是一夜之间都在骑自行车折磨前列腺？对了，那些穿 Lululemon 在街头玩飞盘的小姐姐们呢？她们又去了哪里？ 现在出现一个有趣新人的速度倒是蛮快的，但是过气的速度也很快，塌房的速度更快。就像是化肥催生出来的什么作物，看起来滚瓜溜圆，新鲜饱满，但是放几天就很快化成一滩水，或者是直接烂掉。 有趣的事情变成了一个相对概念，不要纵向比，纵向比其实不有趣。只能横向比，在大量的无聊无趣无质感的事情里，能相对好那么一点点，也能立即吸引很多拥趸。同样的，糖分也不足，像是嚼过的甘蔗渣。一旦品尝到那一点点甜味之后就得赶紧吐掉，接着去扑下一块。 有什么人能让人在三年之后还偶尔想起来一下？有什么事能让人不知不觉之间挂念着，莫名其妙又再次参与进去？ 这年头有两个很可怕的中文词，一个叫「赛道」，一个叫「生态位」，带着浓郁的工业风。 如果一个人是有趣的，如果一件事是有趣的，然后吸引了一些网友，引发了一些流量。那么，在今天它们就会被定义为一条「新赛道」。无数人",
     "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "有买过硬件钱包的注意了 最近 SafeP",
+    "url": "https://versun.me/blog/tweet-2089900919899258948",
+    "date": "2026-08-19T02:23:02Z",
+    "description": "有买过硬件钱包的注意了 最近 SafePal 爆出的订单信息泄露的安全问题，很容易被社工，这类问题很常见，包括我自己买的 OneKey 也存在这个问题 我2024年的订单链接和物流链接， 就能查看到完整的地址和物流信息，我记得在某个政策文档里有写1年后会删除，但很显然没有，现在我找不到这个政策文档了，之前我有发过邮件申请删除，但没有后续 ps: 我本人很喜欢onekey的，希望不要在这种问题上翻车 https://www.safepal.com/en/blog/security-update @OneKeyCN @OneKeyHQ @OneKey_Support",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "太好了，我之前一直用的 @screenp",
+    "url": "https://versun.me/blog/tweet-2089894726212440387",
+    "date": "2026-08-19T01:58:25Z",
+    "description": "引用 1/ Today, we're releasing the first open-source Computer History - now in early preview for Cua Driver on macOS, Windows, and Linux. It gives agents an encrypted, local record of actions they took through Cua Driver, so new sessions can recover usef 太好了，我之前一直用的 @screenpipe ，不是很好用， 今天试一试cua的！",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "这周公司给 slack 添加的第一个 a",
+    "url": "https://versun.me/blog/tweet-2089894011180069099",
+    "date": "2026-08-19T01:55:35Z",
+    "description": "这周公司给 slack 添加的第一个 ai bot 竟然是 devin，有点出乎我的意料😂",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "房主任塌人筑房",

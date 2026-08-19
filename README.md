@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-19 | [26年8月的一些碎片](https://yovey.me/life-fragments-aug-2026-ver/) | 发现去年没写年中记，写的是一些碎片。恰好是去年今日。 前段时间妈妈打电话，分享说基本可以宣告病愈了，目前维持每 … Continue reading "26年8月的一些碎片" |
+| 2026-08-19 | [AI Infra：DuckDB v2.0 Preview 发布](https://luweiqing.com/gossip/AI-Infra-DuckDB-v2-0-Preview.html) | “the year of DuckDB as a server”，DuckDB 正在从“嵌入应用里的分析引擎”，扩展成“可以嵌入、可以独立运行、可以连接远端数据源、可以直接查询 Lakehous... |
+| 2026-08-19 | [AI Infra：光计算与光电混合算力芯片行业研究](https://luweiqing.com/resources/Photonic-electronic-hybrid-computing-chip.html) | 从光子矩阵计算到可部署 AI 加速器Sluke简版 &#124; 2026 年 8 月覆盖范围：光计算/光电混合芯片/板卡系统/软件栈/商业化路径注：企业性能数据无第三方复现时按企业口径记录。市场预测仅供... |
 | 2026-08-19 | [Full-bandwidth Transformer](https://mer.run/posts/full-bandwidth-transformer/) | 尝试解决Tokenizer信息瓶颈问题的工作，最近在看一些和Latent有关的工作。 |
 | 2026-08-19 | [Attention Residuals](https://mer.run/posts/attention-residuals/) | Kimi团队关于Residual Addition的扩展。看起来某种意义上算是复杂的拓扑结构，说不定在现在的硬件上会有优势？ |
 | 2026-08-19 | [A Unified View of Attention and Residual Sinks: Outlier-Driven Rescaling is Essential for Transformer Training](https://mer.run/posts/a-unified-view-of-attention-and-residual-sinks-outlier-driven-rescaling-is-essential-for-transforme/) | Qwen团队，分析LLM中的Outliers是如何产生的、有什么影响。 |
@@ -100,8 +103,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-19 | [A Hardware-Software Blueprint for Flexible Deep Learning Specialization](https://mer.run/posts/a-hardware-software-blueprint-for-flexible-deep-learning-specialization/) | VTA。 |
 | 2026-08-19 | [BISMO: A Scalable Bit Serial Matrix Multiplication Overlay for Reconfigurable Computing](https://mer.run/posts/bismo-a-scalable-bit-serial-matrix-multiplication-overlay-for-reconfigurable-computing/) | BISMO。 |
 | 2026-08-19 | [Code Transpilation for Hardware Accelerators](https://mer.run/posts/code-transpilation-for-hardware-accelerators/) | 基于Metalift，做的还很不完善。 |
+| 2026-08-19 | [使用 EdgeOne CDN 加速 Immich 地图加载速度](https://blog.yasking.org/a/edgeone-speedup-immich-map-tiles) | 前段时间领取 EdgeOne 的免费版使用，其安全加速流量和安全加速请求均显示 ‘不限量’，堪称国内的小赛博罗汉。 本篇记录 Immich 地图 … |
 | 2026-08-19 | [修复 macOS 迁移助手会导致 OrbStack 文件损坏的问题](https://blog.yasking.org/a/macos-migration-assistant-fixed-orbstack) | 先修复文件所有者变 root 的问题。 sudo chown -R " $USER " ~/Library/Group \ Containers/HUAQ24HBR6.dev.orbstack/data 服务启动后如遇弹窗报错则继续，不要点击 Reset。 OrbStack data has bee… |
 | 2026-08-19 | [有趣去了哪里](https://www.hecaitou.com/2026/08/where-did-all-the-fun-go.html) | 最近我有一种很强烈的感觉，互联网正在变得越来越无趣。有趣的人，有趣的事越来越少。上一次让我觉得有趣，是大学生自行车跨城夜游？还是全国人民蜂拥前往文和友？又或者是一夜之间都在骑自行车折磨前列腺？对了，那些穿 Lululemon 在街头玩飞盘的小姐姐们呢？她们又去了哪里？ 现在出现一个有趣新人的速度倒是… |
+| 2026-08-19 | [有买过硬件钱包的注意了 最近 SafeP](https://versun.me/blog/tweet-2089900919899258948) | 有买过硬件钱包的注意了 最近 SafePal 爆出的订单信息泄露的安全问题，很容易被社工，这类问题很常见，包括我自己买的 OneKey 也存在这个问题 我2024年的订单链接和物流链接， 就能查看到完整的地址和物流信息，我记得在某个政策文档里有写1年后会删除，但很显然没有，现在我找不到这个政策文档了… |
+| 2026-08-19 | [太好了，我之前一直用的 @screenp](https://versun.me/blog/tweet-2089894726212440387) | 引用 1/ Today, we're releasing the first open-source Computer History - now in early preview for Cua Driver on macOS, Windows, and Linux. It gives agent… |
+| 2026-08-19 | [这周公司给 slack 添加的第一个 a](https://versun.me/blog/tweet-2089894011180069099) | 这周公司给 slack 添加的第一个 ai bot 竟然是 devin，有点出乎我的意料😂 |
 | 2026-08-19 | [房主任塌人筑房](https://mobius.blog/25428.html) | 当一个女人被塑造成被包办婚姻捆绑，因为生不出儿子被重男轻女的婆婆欺负，不仅如此，还被好吃懒做的无业游民丈夫家暴 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-19 | [人间颜色](https://blog.zzbd.org/miao202608/) | 🪽秋院闲步 这几日天渐凉了，心里也像被秋风扫过似的，空落落的，却又说不出是什么滋味。午后无事，便披了件薄衫，踱到屋后那座小园子里去。 |
 | 2026-08-19 | [Memos #2026-08-18](https://www.taober.blog/memos) | 20:42 陈雯雯接不接受那次的晚餐邀约，结局都是注定的，不喜欢这种极其主观的情感，怎么能扭转的过来。诺诺的生日祝福短信也是一样，只是给了路明非更多的念想，自己心里跟清楚，那些都是不切实际的奢望。 在一个合适的时机，用合适的理由结束了，其实挺好。路明非保留了他的窝囊与体面，也不用再掩饰什么，只是从来… |
