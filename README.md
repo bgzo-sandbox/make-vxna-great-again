@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-19 | [房主任塌人筑房](https://mobius.blog/25428.html) | 当一个女人被塑造成被包办婚姻捆绑，因为生不出儿子被重男轻女的婆婆欺负，不仅如此，还被好吃懒做的无业游民丈夫家暴 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-19 | [人间颜色](https://blog.zzbd.org/miao202608/) | 🪽秋院闲步 这几日天渐凉了，心里也像被秋风扫过似的，空落落的，却又说不出是什么滋味。午后无事，便披了件薄衫，踱到屋后那座小园子里去。 |
 | 2026-08-19 | [Memos #2026-08-18](https://www.taober.blog/memos) | 20:42 陈雯雯接不接受那次的晚餐邀约，结局都是注定的，不喜欢这种极其主观的情感，怎么能扭转的过来。诺诺的生日祝福短信也是一样，只是给了路明非更多的念想，自己心里跟清楚，那些都是不切实际的奢望。 在一个合适的时机，用合适的理由结束了，其实挺好。路明非保留了他的窝囊与体面，也不用再掩饰什么，只是从来… |
 | 2026-08-18 | [Sweep LLM 功耗控制调度策略研究(一)](https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-yi) | 8月份了，趁着开学之前，抽时间整理一下暑假做的Reasearch Assistant的工作内容整理。 研究内容 现状 项目主要是基于博士后做的SWEEP-LLM runtime 调度器的进一步扩展。这个调度器尝试解决的问题是在PD分离的异构GPU混合集群上，调度传入请求，使请求能够在满足TTFT/T |
 | 2026-08-18 | [不该露怯的人](https://blog.solazy.me/20260818/) | 今天想聊聊「露怯」这个词 |
