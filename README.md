@@ -27,7 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-19 | [把五个同款大模型拉进群聊，就能开一家 AI 公司了吗？](https://www.kingname.info/2026/08/19/ai-office-multi-agent/) | 最近 AI 圈又流行起了一种很有未来感的产品形态：AI 办公室。 打开软件，左边是一排员工。产品经理 Alice，前端工程师 Bob，后端工程师 Charlie，设计师 David，QA Eve。每个人都有头像、职位、自己的记忆，甚至还有一份 SOUL.md ，规定性格、工作习惯和专业领域。 你扔进… |
 | 2026-08-19 | [Cloudflare R2 图床在微信公众号排版时的踩坑](https://macin.org/2026/08/19/r2-image-wechat/) | 阅读全文 → 结论先行 ：R2 图床在公众号裂图的真凶，不是水印、不是跨境、也不是 Workers 的 CPU 上限，而是 Worker 冷启动 + 实时图片处理管线 导致首请求超时。治本是「让公众号绕过 Worker，走 R2 原生直出」，同时用子域分流把水印保留给博客。本文复盘完整排查链路。 |
+| 2026-08-19 | [一无所获 - 四个月独立开发的小总结](https://diff.im/blog/2026/08/%E4%B8%80%E6%97%A0%E6%89%80%E8%8E%B7-%E5%9B%9B%E4%B8%AA%E6%9C%88%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E7%9A%84%E5%B0%8F%E6%80%BB%E7%BB%93/) | 四个月前，我觉得满世界都是 idea，都是可以做的东西，抱着很大的希望。但四个月后，我几乎心灰意冷，也很迷茫：不知道该做什么，也不知道出路在哪里。 先说一下这个小总结的基调： 第一，我感觉自己濒临失败。但冷静下来，这就是创业最真实的样子。我认为自己还没有失败，还要继续尝试。 第二，这篇文章谈不上什么… |
+| 2026-08-19 | [Were Japanese Surnames Really Made Up on the Spot](https://victor42.eth.limo/post-en/japanese-surnames-origin/) | A curious inquiry into Japanese surnames and myoji . While listening to the business news, hearing several Japanese names reminded me of a college fri… |
+| 2026-08-19 | [日本姓氏里的田中、松下真的是就地瞎编起的吗？](https://victor42.eth.limo/post/japanese-surnames-origin/) | 一份关于日本的姓氏与苗字的好奇研究简报。 听商业新闻，里面提到一些日文名字，又想起我一位学过日语且在日企工作过的大学好友，思绪飘到了那个关于日本姓氏来源的著名传说： 日本明治天皇下令所有人必须有自己的姓，于是大家根据周围环境，就地起了田中、山本（山脚下）、松下等带有显著地理特征的词，作为自己的姓。… |
+| 2026-08-19 | [诺兰的《奥德赛》采取了什么样的改编策略？ II](https://www.geedea.pro/article/odyssey-2/) | 书接 上回 ，我对比了荷马史诗原典、诺兰的电影改编和 Jorge 的音乐剧《EPIC》分别如何呈现智慧女神雅典娜、女巫瑟茜、海之神女卡吕普索、独眼巨人波吕斐摩斯，分析了冥界之行和塞壬之歌起到的不同作用，还提及了诺兰对神明的现代化处理以及背后的考量。这一篇我们继续讨论这三部不同的《奥德赛》作品，这次我… |
 | 2026-08-19 | [Traceroute the World](https://www.kawabangga.com/posts/7276) | ICMP 一直是我最喜欢的协议，在没有机器/设备的登录权限的时候，ICMP (ping) 可以让我在 debu […] Continue reading... |
 | 2026-08-19 | [入蜀记 day446 FCF](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_446/) | 「FCF。」 |
 | 2026-08-19 | [入蜀记 day445 幺妹峰](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_445/) | 「幺妹峰。」 |
@@ -118,6 +123,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-19 | [这周公司给 slack 添加的第一个 a](https://versun.me/blog/tweet-2089894011180069099) | 这周公司给 slack 添加的第一个 ai bot 竟然是 devin，有点出乎我的意料😂 |
 | 2026-08-19 | [房主任塌人筑房](https://mobius.blog/25428.html) | 当一个女人被塑造成被包办婚姻捆绑，因为生不出儿子被重男轻女的婆婆欺负，不仅如此，还被好吃懒做的无业游民丈夫家暴 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-19 | [人间颜色](https://blog.zzbd.org/miao202608/) | 🪽秋院闲步 这几日天渐凉了，心里也像被秋风扫过似的，空落落的，却又说不出是什么滋味。午后无事，便披了件薄衫，踱到屋后那座小园子里去。 |
+| 2026-08-19 | [AI 协作项目的文档管理模式](https://xujinkai.net/posts/how-to-structure-docs-for-ai-coding) | 博文经常更新，请移步主站查看🫡 在AI开发的年代，文档工程是越来越重要了。 过去的项目代码主要由人编写，项目目标到实现细节都在人脑子里，只要记性好，你几乎不需要写文档。 现在很多代码都是由AI来完成，程序员的角色逐渐往产品经理走，文档成了另一种编程语言，而实现代码成了某种“汇编”，文档如何组织就越来… |
 | 2026-08-19 | [Memos #2026-08-18](https://www.taober.blog/memos) | 20:42 陈雯雯接不接受那次的晚餐邀约，结局都是注定的，不喜欢这种极其主观的情感，怎么能扭转的过来。诺诺的生日祝福短信也是一样，只是给了路明非更多的念想，自己心里跟清楚，那些都是不切实际的奢望。 在一个合适的时机，用合适的理由结束了，其实挺好。路明非保留了他的窝囊与体面，也不用再掩饰什么，只是从来… |
 | 2026-08-18 | [Sweep LLM 功耗控制调度策略研究(一)](https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-yi) | 8月份了，趁着开学之前，抽时间整理一下暑假做的Reasearch Assistant的工作内容整理。 研究内容 现状 项目主要是基于博士后做的SWEEP-LLM runtime 调度器的进一步扩展。这个调度器尝试解决的问题是在PD分离的异构GPU混合集群上，调度传入请求，使请求能够在满足TTFT/T |
 | 2026-08-18 | [不该露怯的人](https://blog.solazy.me/20260818/) | 今天想聊聊「露怯」这个词 |

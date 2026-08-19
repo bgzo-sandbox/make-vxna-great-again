@@ -1,10 +1,45 @@
 [
   {
+    "title": "把五个同款大模型拉进群聊，就能开一家 AI 公司了吗？",
+    "url": "https://www.kingname.info/2026/08/19/ai-office-multi-agent/",
+    "date": "2026-08-19T23:35:34Z",
+    "description": "最近 AI 圈又流行起了一种很有未来感的产品形态：AI 办公室。 打开软件，左边是一排员工。产品经理 Alice，前端工程师 Bob，后端工程师 Charlie，设计师 David，QA Eve。每个人都有头像、职位、自己的记忆，甚至还有一份 SOUL.md ，规定性格、工作习惯和专业领域。 你扔进去一句：“帮我做一个 SaaS 产品。” 产品经理先梳理需求，设计师开始画界面，前后端互相对接口，QA 最后出来挑刺。几个人还会在群里互相 @，遇到问题讨论两轮，再向你汇报。 第一次看 Demo，很容易冒出一种感觉： 好家伙，我一个人已经带着一家软件公司上班了。 Grok Bot 最近在往这个方向走，Hermes Agent Desktop 的 Bot Mode 也做了类似的东西。后者甚至把 Agent 做成了完整的员工 roster：有名字、有头像、有岗位、有独立聊天窗口，还可以把几个 Bot 拉进群里讨论。 这个产品形态很漂亮。 但我一直有一个疑问： 这里面到底增加了多少“智能”？ 如果五个员工背后接的都是同一个强模型，只是 system prompt 不同，那么我们究竟组建了一支团队，",
+    "source_root_domain": "kingname.info"
+  },
+  {
     "title": "Cloudflare R2 图床在微信公众号排版时的踩坑",
     "url": "https://macin.org/2026/08/19/r2-image-wechat/",
     "date": "2026-08-19T19:28:49Z",
     "description": "阅读全文 → 结论先行 ：R2 图床在公众号裂图的真凶，不是水印、不是跨境、也不是 Workers 的 CPU 上限，而是 Worker 冷启动 + 实时图片处理管线 导致首请求超时。治本是「让公众号绕过 Worker，走 R2 原生直出」，同时用子域分流把水印保留给博客。本文复盘完整排查链路。",
     "source_root_domain": "macin.org"
+  },
+  {
+    "title": "一无所获 - 四个月独立开发的小总结",
+    "url": "https://diff.im/blog/2026/08/%E4%B8%80%E6%97%A0%E6%89%80%E8%8E%B7-%E5%9B%9B%E4%B8%AA%E6%9C%88%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E7%9A%84%E5%B0%8F%E6%80%BB%E7%BB%93/",
+    "date": "2026-08-19T16:04:52Z",
+    "description": "四个月前，我觉得满世界都是 idea，都是可以做的东西，抱着很大的希望。但四个月后，我几乎心灰意冷，也很迷茫：不知道该做什么，也不知道出路在哪里。 先说一下这个小总结的基调： 第一，我感觉自己濒临失败。但冷静下来，这就是创业最真实的样子。我认为自己还没有失败，还要继续尝试。 第二，这篇文章谈不上什么经验教训的总结。因为我的认识还没有那么深刻，只能和大家分享我做了什么，以及我的感受。 一点背景介绍 我 2005 年进入互联网行业，2009 年进入移动互联网，从业 20 多年。我曾以早期设计师的身份， 参与过一家公司从零到上市的过程 ，做了无数项目，也积累了一定的经济基础。 不夸张地说，过去 20 年，我内心一直蠢蠢欲动，想要做一点自己的东西。无奈性格胆小，条件不成熟的时候不敢动手，等到有了一定的经济基础，依然不敢动手。 但到了 2025 年年末，我心里那个想要自己做一做的念头又慢慢萌生了。的确，也是 AI 给了我勇气，让我可以去创造一些东西。 在跳出来做一人公司创业之前，我做了两件事情： 调研一人公司创业的现状： 这些调研都是通过 AI 做的。AI 基于一定的数据给我提供了一份报告。它告",
+    "source_root_domain": "diff.im"
+  },
+  {
+    "title": "Were Japanese Surnames Really Made Up on the Spot",
+    "url": "https://victor42.eth.limo/post-en/japanese-surnames-origin/",
+    "date": "2026-08-19T15:18:00Z",
+    "description": "A curious inquiry into Japanese surnames and myoji . While listening to the business news, hearing several Japanese names reminded me of a college friend who studied Japanese and worked at a Japanese firm. My thoughts drifted to the well-known legend about how Japanese surnames originated: Emperor Meiji ordered every citizen to adopt a surname. People supposedly looked at their immediate surroundings and improvised names with prominent geographic features on the spot—Tanaka (in the middle of ric",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "日本姓氏里的田中、松下真的是就地瞎编起的吗？",
+    "url": "https://victor42.eth.limo/post/japanese-surnames-origin/",
+    "date": "2026-08-19T15:18:00Z",
+    "description": "一份关于日本的姓氏与苗字的好奇研究简报。 听商业新闻，里面提到一些日文名字，又想起我一位学过日语且在日企工作过的大学好友，思绪飘到了那个关于日本姓氏来源的著名传说： 日本明治天皇下令所有人必须有自己的姓，于是大家根据周围环境，就地起了田中、山本（山脚下）、松下等带有显著地理特征的词，作为自己的姓。 转念一想，这过程也太随意太整齐了，怎么看都可疑。天上一道光然后所有人就地飞升的那种爆米花电影终章情节吗？八成又是什么流量号谣传吧？ 研究一番，这个过程大体正确，但这种说法过度简化和戏剧化了。 早期，日本只有贵族允许有自己的氏：源、平、藤原、橘等。但贵族人丁兴旺，封地逐渐扩大，为区分同一家族不同封地的人物，引入了封地的地理因素，这个叫做苗字。 比如藤原氏曾一度权倾朝野，人实在多到难以区分，这个氏失去了辨识度。家族开始自然分化出丰富的苗字系统，在京都的，就根据京都的街道地理位置分化出近卫、九条、一条、二条、鹰司等。各封地的则演化出伊藤、加藤、近藤、远藤、安藤、尾藤、武藤、须藤、江藤等前缀命名体系。也有以官职作为前缀的佐藤、斋藤、工藤、内藤、进藤。也有完全采用地理元素的苗字，如伊达、上杉等。 当时",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "诺兰的《奥德赛》采取了什么样的改编策略？ II",
+    "url": "https://www.geedea.pro/article/odyssey-2/",
+    "date": "2026-08-19T14:59:38Z",
+    "description": "书接 上回 ，我对比了荷马史诗原典、诺兰的电影改编和 Jorge 的音乐剧《EPIC》分别如何呈现智慧女神雅典娜、女巫瑟茜、海之神女卡吕普索、独眼巨人波吕斐摩斯，分析了冥界之行和塞壬之歌起到的不同作用，还提及了诺兰对神明的现代化处理以及背后的考量。这一篇我们继续讨论这三部不同的《奥德赛》作品，这次我们聚焦电影中没有出现的神明和人。 赫尔墨斯：无法归于自然之神 上篇提到，诺兰对《奥德赛》中的神明做了相当现代化的处理：神明其实是古人对自然现象的解释，所以电影中的雷声和海浪就是神在与人对话，神明没有直接现身。然而，这个说法在某一位神上完全站不住脚，那就是人神信使赫尔墨斯。如果神只是对自然现象的解释，那为什么会有神作为信使来到人间与凡人直接对话呢？的确，这说不通，于是诺兰直接把赫尔墨斯删掉了。 原典中的赫尔墨斯起到了什么作用？首先是在第五卷《奥德修斯启程归返海上遇风暴》，宙斯让爱子赫尔墨斯前去告知卡吕普索释放奥德修斯，卡吕普索不敢违背宙斯的意图，于是放奥德修斯回家。 此后是第十卷《风神惠赐归程降伏魔女基尔克》，在瑟茜（或基尔克）的岛屿上，奥德修斯准备前去营救被变成猪的队友，但凭借他自己的实力是",
+    "source_root_domain": "geedea.pro"
   },
   {
     "title": "Traceroute the World",
@@ -635,6 +670,13 @@
     "date": "2026-08-19T00:51:19Z",
     "description": "🪽秋院闲步 这几日天渐凉了，心里也像被秋风扫过似的，空落落的，却又说不出是什么滋味。午后无事，便披了件薄衫，踱到屋后那座小园子里去。",
     "source_root_domain": "zzbd.org"
+  },
+  {
+    "title": "AI 协作项目的文档管理模式",
+    "url": "https://xujinkai.net/posts/how-to-structure-docs-for-ai-coding",
+    "date": "2026-08-19T00:00:00Z",
+    "description": "博文经常更新，请移步主站查看🫡 在AI开发的年代，文档工程是越来越重要了。 过去的项目代码主要由人编写，项目目标到实现细节都在人脑子里，只要记性好，你几乎不需要写文档。 现在很多代码都是由AI来完成，程序员的角色逐渐往产品经理走，文档成了另一种编程语言，而实现代码成了某种“汇编”，文档如何组织就越来越重要了。",
+    "source_root_domain": "xujinkai.net"
   },
   {
     "title": "Memos #2026-08-18",
