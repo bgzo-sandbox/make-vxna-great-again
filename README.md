@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-20 | [丁达尔](https://mobius.blog/25454.html) | 小王闲来无事，看见远处的云层里透出了阳光，便停下脚步掏出手机开始拍照。 一个路人看见小王用手机拍照，便上前问道 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-20 | [Introduction Finger](https://www.bboy.app/2026/08/20/introduction-finger/) | Introduction Today I stumbled on an article about the Finger protocol ( Finger: the 1971 social network that never died , written by Andros Fenollosa… |
 | 2026-08-20 | [介绍下Finger](https://www.bboy.app/2026/08/20/%E4%BB%8B%E7%BB%8D%E4%B8%8Bfinger/) | 简介 今天刷到一篇讲 Finger 协议的文章（ Finger: the 1971 social network that never died ，en.andros.dev 的 Andros Fenollosa 写的），才知道原来 1971 年就有社交网络了，而且我的 Mac 上一直自带它的客户端… |
 | 2026-08-20 | [Forgejo使用自定义镜像](https://elliot00.com/posts/forgejo-custom-docker-image) | 本文针对 Forgejo Runner 重复 apt 安装导致耗时过长的问题，利用阿里云免费 ACR 构建预装常用工具的自定义镜像，替换默认镜像后 CI 时间从 15 分钟缩至 10 分钟内，并提醒构建后及时取消 GitHub 授权。 |
