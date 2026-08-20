@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-20 | [无用命途：动态海景灯，用电脑说脏话](https://blog.mfwt.top/index.php/archives/1523/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。 |
 | 2026-08-20 | [丁达尔](https://mobius.blog/25454.html) | 小王闲来无事，看见远处的云层里透出了阳光，便停下脚步掏出手机开始拍照。 一个路人看见小王用手机拍照，便上前问道 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-20 | [Introduction Finger](https://www.bboy.app/2026/08/20/introduction-finger/) | Introduction Today I stumbled on an article about the Finger protocol ( Finger: the 1971 social network that never died , written by Andros Fenollosa… |
 | 2026-08-20 | [介绍下Finger](https://www.bboy.app/2026/08/20/%E4%BB%8B%E7%BB%8D%E4%B8%8Bfinger/) | 简介 今天刷到一篇讲 Finger 协议的文章（ Finger: the 1971 social network that never died ，en.andros.dev 的 Andros Fenollosa 写的），才知道原来 1971 年就有社交网络了，而且我的 Mac 上一直自带它的客户端… |
@@ -39,6 +40,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-20 | [LangBot 接入Netbox 配置查询机器人](https://songxwn.com/LangBot-Netbox-Tutorial/) | 前言 本教程用于使用LangBot，配置机器人、LLM接入、流水线、MCP接入等。 最终目的为在即时通信平台接入AI机器人，查询NetBox数据。并通过提示词整形和约束查询数据。 |
 | 2026-08-20 | [LangBot配置教程](https://songxwn.com/LangBot-Tutorial/) | 前言 本教程用于使用LangBot，配置机器人、LLM接入、流水线、MCP接入等。 |
 | 2026-08-20 | [New Release: No One Lives Forever 2: A Spy in H.A.R.M.'s Way](https://macsourceports.com/game/nolf2) | I may have overused the term Cult Classic on this site, but this game goes one step further: it's one of gaming's Holy Grails. No One Lives Forever 2:… |
+| 2026-08-20 | [emacs-在龙芯UOS20旧世界设备上编译最新Emacs等软件](https://blog.prayhand13013.top/20260820T110123--emacs-在龙芯uos20旧世界设备上编译最新emacs等软件__blog.html) |  |
 | 2026-08-20 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.85.0 of the project |
 | 2026-08-20 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.79 of the project |
 | 2026-08-20 | [Google Gemini AI Pro 又来了，可领取1年Pro套餐会员](https://www.cheshirex.com/10951.html) | Google Gemini AI Pro 又来了，上次领过的这次打开页面地址可以直接领。 领取地址 https […] |
