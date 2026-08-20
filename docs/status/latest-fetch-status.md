@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-08-19T22:28:04Z
-modified: 2026-08-19T22:28:04Z
+created: 2026-08-20T01:10:26Z
+modified: 2026-08-20T01:10:26Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,11 +11,11 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-08-19T22:28:04Z
+Generated at: 2026-08-20T01:10:26Z
 
 Total sources: 485
-Successful: 367
-Failed: 118
+Successful: 366
+Failed: 119
 
 | Status | Source | Feed | Origin | Articles | Error |
 | --- | --- | --- | --- | ---: | --- |
@@ -113,6 +113,7 @@ Failed: 118
 | Failed | [#474] V2EX › 信也のブログ | [https://shinya.click/rss.xml](https://shinya.click/rss.xml) | [Origin](https://www.v2ex.com/xna/s/474) | 0 | Client error '404 Not Found' for url 'https://shinya.click/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#476] V2EX › 泽梦记 | [https://blog.100fails.com/rss.xml](https://blog.100fails.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/476) | 0 | [Errno -2] Name or service not known |
 | Failed | [#478] V2EX › FSpark | [https://fspark.me/feed](https://fspark.me/feed) | [Origin](https://www.v2ex.com/xna/s/478) | 0 | Client error '403 Forbidden' for url 'https://fspark.me/feed' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
+| Failed | [#481] V2EX › 抱走大柠檬 | [https://www.huglemon.com/feed.xml](https://www.huglemon.com/feed.xml) | [Origin](https://www.v2ex.com/xna/s/481) | 0 | The read operation timed out |
 | Failed | [#4] V2EX › Airwolf Space | [https://airwolfspace.eth.limo/planet.json](https://airwolfspace.eth.limo/planet.json) | [Origin](https://www.v2ex.com/xna/s/4) | 0 | The read operation timed out |
 | Failed | [#507] V2EX › iyeslogo 壹手设计 | [https://www.iyeslogo.com/feed/](https://www.iyeslogo.com/feed/) | [Origin](https://www.v2ex.com/xna/s/507) | 0 | Client error '403 Forbidden' for url 'https://www.iyeslogo.com/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#508] V2EX › hekou 写字的地方 | [https://www.hekouwangyutian.com/atom.xml](https://www.hekouwangyutian.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/508) | 0 | [Errno 101] Network is unreachable |
@@ -414,7 +415,6 @@ Failed: 118
 | Success | [#479] V2EX › Typer | [https://7yper.com/feed/](https://7yper.com/feed/) | [Origin](https://www.v2ex.com/xna/s/479) | 10 | - |
 | Success | [#47] V2EX › 搞机男 | [https://www.gaojinan.com/feed](https://www.gaojinan.com/feed) | [Origin](https://www.v2ex.com/xna/s/47) | 10 | - |
 | Success | [#480] V2EX › 慢鲸 | [https://www.sowhale.me/atom.xml](https://www.sowhale.me/atom.xml) | [Origin](https://www.v2ex.com/xna/s/480) | 7 | - |
-| Success | [#481] V2EX › 抱走大柠檬 | [https://www.huglemon.com/feed.xml](https://www.huglemon.com/feed.xml) | [Origin](https://www.v2ex.com/xna/s/481) | 15 | - |
 | Success | [#482] V2EX › Brickの小黑屋 | [https://www.moyu.life/atom.xml](https://www.moyu.life/atom.xml) | [Origin](https://www.v2ex.com/xna/s/482) | 10 | - |
 | Success | [#483] V2EX › 哈喽哈咯 | [https://blog.razrlele.com/feed](https://blog.razrlele.com/feed) | [Origin](https://www.v2ex.com/xna/s/483) | 10 | - |
 | Success | [#484] V2EX › 莫奈的花园 | [https://binghub.site/rss/](https://binghub.site/rss/) | [Origin](https://www.v2ex.com/xna/s/484) | 15 | - |
