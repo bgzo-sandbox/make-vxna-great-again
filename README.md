@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-20 | [Google Gemini AI Pro 又来了，可领取1年Pro套餐会员](https://www.cheshirex.com/10951.html) | Google Gemini AI Pro 又来了，上次领过的这次打开页面地址可以直接领。 领取地址 https […] |
+| 2026-08-20 | [gzsw-ui 生产白屏排查：CDN 将 SPA 兜底 HTML 缓存为 JS](https://199604.com/3652) | gzsw-ui 生产白屏排查：CDN 将 SPA 兜底 HTML 缓存为 JS 记录时间：2026-08-20 […] |
+| 2026-08-20 | [独树不成林，牛来人来疯](https://mobius.blog/25443.html) | 我们先猜一猜《牛来》的受众是哪些人？ 这里先埋个包袱——大概过几年，可能又会有人把这部电影翻出来，标题我都帮他 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-19 | [把五个同款大模型拉进群聊，就能开一家 AI 公司了吗？](https://www.kingname.info/2026/08/19/ai-office-multi-agent/) | 最近 AI 圈又流行起了一种很有未来感的产品形态：AI 办公室。 打开软件，左边是一排员工。产品经理 Alice，前端工程师 Bob，后端工程师 Charlie，设计师 David，QA Eve。每个人都有头像、职位、自己的记忆，甚至还有一份 SOUL.md ，规定性格、工作习惯和专业领域。 你扔进… |
 | 2026-08-19 | [Cloudflare R2 图床在微信公众号排版时的踩坑](https://macin.org/2026/08/19/r2-image-wechat/) | 阅读全文 → 结论先行 ：R2 图床在公众号裂图的真凶，不是水印、不是跨境、也不是 Workers 的 CPU 上限，而是 Worker 冷启动 + 实时图片处理管线 导致首请求超时。治本是「让公众号绕过 Worker，走 R2 原生直出」，同时用子域分流把水印保留给博客。本文复盘完整排查链路。 |
 | 2026-08-19 | [一无所获 - 四个月独立开发的小总结](https://diff.im/blog/2026/08/%E4%B8%80%E6%97%A0%E6%89%80%E8%8E%B7-%E5%9B%9B%E4%B8%AA%E6%9C%88%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E7%9A%84%E5%B0%8F%E6%80%BB%E7%BB%93/) | 四个月前，我觉得满世界都是 idea，都是可以做的东西，抱着很大的希望。但四个月后，我几乎心灰意冷，也很迷茫：不知道该做什么，也不知道出路在哪里。 先说一下这个小总结的基调： 第一，我感觉自己濒临失败。但冷静下来，这就是创业最真实的样子。我认为自己还没有失败，还要继续尝试。 第二，这篇文章谈不上什么… |
