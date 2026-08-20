@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-20 | [学习周刊-总第277期-2026年第34周](https://wiki.eryajf.net/pages/5df013/) | 如要阅读全文，点击标题跳转。 学习周刊-总第277期 &#124; tiycode &#124; cube-pets-office &#124; helmor &#124; Gitnuro &#124; ptcpdump &#124; TokenTracker &#124; OtterHub &#124; reef |
 | 2026-08-20 | [无用命途：动态海景灯，用电脑说脏话](https://blog.mfwt.top/index.php/archives/1523/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。 |
 | 2026-08-20 | [丁达尔](https://mobius.blog/25454.html) | 小王闲来无事，看见远处的云层里透出了阳光，便停下脚步掏出手机开始拍照。 一个路人看见小王用手机拍照，便上前问道 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-20 | [Introduction Finger](https://www.bboy.app/2026/08/20/introduction-finger/) | Introduction Today I stumbled on an article about the Finger protocol ( Finger: the 1971 social network that never died , written by Andros Fenollosa… |
