@@ -27,11 +27,20 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-20 | [Introduction Finger](https://www.bboy.app/2026/08/20/introduction-finger/) | Introduction Today I stumbled on an article about the Finger protocol ( Finger: the 1971 social network that never died , written by Andros Fenollosa… |
+| 2026-08-20 | [介绍下Finger](https://www.bboy.app/2026/08/20/%E4%BB%8B%E7%BB%8D%E4%B8%8Bfinger/) | 简介 今天刷到一篇讲 Finger 协议的文章（ Finger: the 1971 social network that never died ，en.andros.dev 的 Andros Fenollosa 写的），才知道原来 1971 年就有社交网络了，而且我的 Mac 上一直自带它的客户端… |
+| 2026-08-20 | [过七夕](https://www.hecaitou.com/2026/08/spending-chinese-valentines-day.html) | 今年的七夕我没有感到什么节日气氛，可能是年纪到了，算法精了，知道推送节日促销消息给我是种浪费。一整天下来，只有麦当劳一家还在孜孜不倦地提醒我七夕到了，方法是在外卖袋子上附上了一条长达一米的打印纸条，内容是完整的一幅条漫：七夕了，带女朋友去吃麦乐堡吧。 相较而言，电话营销的精准度就要好很多。在七夕，我… |
+| 2026-08-20 | [最近惦念 20260727](https://z.arlmy.me/posts/TILs/thoughts/20260727_Recently/) | 「多用“似乎是的”，虚化掉一切试试看。」 |
+| 2026-08-20 | [LangBot配置教程](https://songxwn.com/LangBot-Tutorial/) | 前言 本教程用于使用LangBot，配置机器人、LLM接入、流水线、MCP接入等。 |
+| 2026-08-20 | [New Release: No One Lives Forever 2: A Spy in H.A.R.M.'s Way](https://macsourceports.com/game/nolf2) | I may have overused the term Cult Classic on this site, but this game goes one step further: it's one of gaming's Holy Grails. No One Lives Forever 2:… |
+| 2026-08-20 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.85.0 of the project |
+| 2026-08-20 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.79 of the project |
 | 2026-08-20 | [Google Gemini AI Pro 又来了，可领取1年Pro套餐会员](https://www.cheshirex.com/10951.html) | Google Gemini AI Pro 又来了，上次领过的这次打开页面地址可以直接领。 领取地址 https […] |
 | 2026-08-20 | [gzsw-ui 生产白屏排查：CDN 将 SPA 兜底 HTML 缓存为 JS](https://199604.com/3652) | gzsw-ui 生产白屏排查：CDN 将 SPA 兜底 HTML 缓存为 JS 记录时间：2026-08-20 […] |
 | 2026-08-20 | [独树不成林，牛来人来疯](https://mobius.blog/25443.html) | 我们先猜一猜《牛来》的受众是哪些人？ 这里先埋个包袱——大概过几年，可能又会有人把这部电影翻出来，标题我都帮他 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-19 | [把五个同款大模型拉进群聊，就能开一家 AI 公司了吗？](https://www.kingname.info/2026/08/19/ai-office-multi-agent/) | 最近 AI 圈又流行起了一种很有未来感的产品形态：AI 办公室。 打开软件，左边是一排员工。产品经理 Alice，前端工程师 Bob，后端工程师 Charlie，设计师 David，QA Eve。每个人都有头像、职位、自己的记忆，甚至还有一份 SOUL.md ，规定性格、工作习惯和专业领域。 你扔进… |
 | 2026-08-19 | [Cloudflare R2 图床在微信公众号排版时的踩坑](https://macin.org/2026/08/19/r2-image-wechat/) | 阅读全文 → 结论先行 ：R2 图床在公众号裂图的真凶，不是水印、不是跨境、也不是 Workers 的 CPU 上限，而是 Worker 冷启动 + 实时图片处理管线 导致首请求超时。治本是「让公众号绕过 Worker，走 R2 原生直出」，同时用子域分流把水印保留给博客。本文复盘完整排查链路。 |
+| 2026-08-19 | [你就瞎活](https://z.arlmy.me/posts/Essays/2026/LiveLikeWind_20260819/) | 「你就瞎活。」 |
 | 2026-08-19 | [一无所获 - 四个月独立开发的小总结](https://diff.im/blog/2026/08/%E4%B8%80%E6%97%A0%E6%89%80%E8%8E%B7-%E5%9B%9B%E4%B8%AA%E6%9C%88%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E7%9A%84%E5%B0%8F%E6%80%BB%E7%BB%93/) | 四个月前，我觉得满世界都是 idea，都是可以做的东西，抱着很大的希望。但四个月后，我几乎心灰意冷，也很迷茫：不知道该做什么，也不知道出路在哪里。 先说一下这个小总结的基调： 第一，我感觉自己濒临失败。但冷静下来，这就是创业最真实的样子。我认为自己还没有失败，还要继续尝试。 第二，这篇文章谈不上什么… |
 | 2026-08-19 | [Were Japanese Surnames Really Made Up on the Spot](https://victor42.eth.limo/post-en/japanese-surnames-origin/) | A curious inquiry into Japanese surnames and myoji . While listening to the business news, hearing several Japanese names reminded me of a college fri… |
 | 2026-08-19 | [日本姓氏里的田中、松下真的是就地瞎编起的吗？](https://victor42.eth.limo/post/japanese-surnames-origin/) | 一份关于日本的姓氏与苗字的好奇研究简报。 听商业新闻，里面提到一些日文名字，又想起我一位学过日语且在日企工作过的大学好友，思绪飘到了那个关于日本姓氏来源的著名传说： 日本明治天皇下令所有人必须有自己的姓，于是大家根据周围环境，就地起了田中、山本（山脚下）、松下等带有显著地理特征的词，作为自己的姓。… |
@@ -138,7 +147,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-18 | [门缝](https://mobius.blog/25423.html) | 夏天的咖啡厅，露台门被打开了一条门缝，是因为上一个进入的人并没有完整闭合好玻璃门，于是这个门缝开始往室内涌进大 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-18 | [记录下 Kimi 699 套餐 7 天的](https://versun.me/blog/tweet-2089514949106335946) | 记录下 Kimi 699 套餐 7 天的额度，大概在 1.5B token |
 | 2026-08-17 | [Unreal updated](https://macsourceports.com/game/unreal) | The build of Unreal has been updated to version v227k_15 of the project |
-| 2026-08-17 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.73 of the project |
 | 2026-08-17 | [Splatterlight updated](https://macsourceports.com/sourceport/spatterlight) | The build of Splatterlight for the Infocom series of games has been updated to version v1.5.4 of the project\n\nhttps://macsourceports.com/sourceport/… |
 | 2026-08-17 | [李白写"汉家陵阙"时，那些早塌了，只剩这几座...](https://macin.org/2026/08/17/qu-xian-han-que/) | 阅读全文 → 有些地方，是专门用来唤醒前世的。 |
 | 2026-08-17 | [你敢信，一个 27B 的qwen 3.8](https://versun.me/blog/tweet-2089475382915613085) | 引用 Artificial Analysis Intelligence Index puts Qwen3.8-27B at DeepSeek V4-Pro and GPT 5.6 Luna performance. This is the first time a local model has s… |
