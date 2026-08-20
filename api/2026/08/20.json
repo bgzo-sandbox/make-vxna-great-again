@@ -28,6 +28,13 @@
     "source_root_domain": "arlmy.me"
   },
   {
+    "title": "LangBot 接入Netbox 配置查询机器人",
+    "url": "https://songxwn.com/LangBot-Netbox-Tutorial/",
+    "date": "2026-08-20T03:09:57Z",
+    "description": "前言 本教程用于使用LangBot，配置机器人、LLM接入、流水线、MCP接入等。 最终目的为在即时通信平台接入AI机器人，查询NetBox数据。并通过提示词整形和约束查询数据。",
+    "source_root_domain": "songxwn.com"
+  },
+  {
     "title": "LangBot配置教程",
     "url": "https://songxwn.com/LangBot-Tutorial/",
     "date": "2026-08-20T03:09:57Z",

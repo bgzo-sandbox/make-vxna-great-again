@@ -31,6 +31,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-20 | [介绍下Finger](https://www.bboy.app/2026/08/20/%E4%BB%8B%E7%BB%8D%E4%B8%8Bfinger/) | 简介 今天刷到一篇讲 Finger 协议的文章（ Finger: the 1971 social network that never died ，en.andros.dev 的 Andros Fenollosa 写的），才知道原来 1971 年就有社交网络了，而且我的 Mac 上一直自带它的客户端… |
 | 2026-08-20 | [过七夕](https://www.hecaitou.com/2026/08/spending-chinese-valentines-day.html) | 今年的七夕我没有感到什么节日气氛，可能是年纪到了，算法精了，知道推送节日促销消息给我是种浪费。一整天下来，只有麦当劳一家还在孜孜不倦地提醒我七夕到了，方法是在外卖袋子上附上了一条长达一米的打印纸条，内容是完整的一幅条漫：七夕了，带女朋友去吃麦乐堡吧。 相较而言，电话营销的精准度就要好很多。在七夕，我… |
 | 2026-08-20 | [最近惦念 20260727](https://z.arlmy.me/posts/TILs/thoughts/20260727_Recently/) | 「多用“似乎是的”，虚化掉一切试试看。」 |
+| 2026-08-20 | [LangBot 接入Netbox 配置查询机器人](https://songxwn.com/LangBot-Netbox-Tutorial/) | 前言 本教程用于使用LangBot，配置机器人、LLM接入、流水线、MCP接入等。 最终目的为在即时通信平台接入AI机器人，查询NetBox数据。并通过提示词整形和约束查询数据。 |
 | 2026-08-20 | [LangBot配置教程](https://songxwn.com/LangBot-Tutorial/) | 前言 本教程用于使用LangBot，配置机器人、LLM接入、流水线、MCP接入等。 |
 | 2026-08-20 | [New Release: No One Lives Forever 2: A Spy in H.A.R.M.'s Way](https://macsourceports.com/game/nolf2) | I may have overused the term Cult Classic on this site, but this game goes one step further: it's one of gaming's Holy Grails. No One Lives Forever 2:… |
 | 2026-08-20 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.85.0 of the project |
