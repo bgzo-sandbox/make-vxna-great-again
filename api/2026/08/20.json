@@ -14,6 +14,20 @@
     "source_root_domain": "bboy.app"
   },
   {
+    "title": "deepseek harness 受害者",
+    "url": "https://versun.me/blog/tweet-2090315040213926272",
+    "date": "2026-08-20T05:48:36Z",
+    "description": "deepseek harness 受害者+1 😂 DS 这步走的是险棋，想出奇制胜，通过共创插件，快速建立生态 但插件质量参差不齐，前后兼容性是个非常难解决的问题 所以，我的判断是，尽量不要直接用DSH，过段时间，看看有没有稳定的第三方整合维护的版本，这才是生产该用的，就像 Linux/Ubuntu/Redhat 的关系一样",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "挺有意思的一个新的 AI 设计与开发平台",
+    "url": "https://versun.me/blog/tweet-2090310807007752333",
+    "date": "2026-08-20T05:31:47Z",
+    "description": "引用 Today, we're introducing OJO: The first Design Agent Team Workspace. Build your own design agent team, add specialized skills, and turn ideas into product strategy, PRDs, interactive prototypes, and launch-ready designs on one editable canvas. Desi 挺有意思的一个新的 AI 设计与开发平台，分享个邀请码：OJO-MDTAM37V8T https://ojo.art/",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "过七夕",
     "url": "https://www.hecaitou.com/2026/08/spending-chinese-valentines-day.html",
     "date": "2026-08-20T04:23:43Z",
@@ -82,6 +96,27 @@
     "date": "2026-08-20T01:30:00Z",
     "description": "我们先猜一猜《牛来》的受众是哪些人？ 这里先埋个包袱——大概过几年，可能又会有人把这部电影翻出来，标题我都帮他 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "简单评测了下，依旧是围绕 nmem 的记",
+    "url": "https://versun.me/blog/tweet-2090244557778911673",
+    "date": "2026-08-20T01:08:32Z",
+    "description": "引用 本地模型又迎来一个挑战者：Ornith-1.5 简单汇总下评测数据，并和 Qwen3.8-27B 做个对比 @AlibabaQwen 学学人家，一开始就放出了 35B-A3B，你再不出，我可要叛逃到 Ornith 了🤓 https://twitter.com/ornith/status/2090074077084127302 简单评测了下，依旧是围绕 nmem 的记忆整理进行，结果如图2 比qwen 3.6-35b-a3b 聪明，但输出不稳定，指令遵循不稳定，还是不能生产用",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "本地模型又迎来一个挑战者：Ornith-",
+    "url": "https://versun.me/blog/tweet-2090231764103135585",
+    "date": "2026-08-20T00:17:41Z",
+    "description": "引用 Aloha! 🌺Introducing Ornith-1.5, a family of open-source LLMs spanning 9B Dense, 35B MoE, and 397B MoE, trained with self-improving strategies. It achieves state-of-the-art performance among open-source models of comparable size and delivers performa 本地模型又迎来一个挑战者：Ornith-1.5 简单汇总下评测数据，并和 Qwen3.8-27B 做个对比 @Alibaba_Qwen 学学人家，一开始就放出了 35B-A3B，你再不出，我可要叛逃到 Ornith 了🤓",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "暂时还不能代替 screenpipe 或",
+    "url": "https://versun.me/blog/tweet-2090228925570093269",
+    "date": "2026-08-20T00:06:25Z",
+    "description": "引用 太好了，我之前一直用的 @screenpipe ，不是很好用， 今天试一试cua的！ https://twitter.com/trycua/status/2089770780053643397 暂时还不能代替 screenpipe 或者 chatgpt 的 computer history Cua Computer History 只采集 agent 经 Cua Driver 发起的动作，并不是全桌面的活动，价值不是很高",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "把五个同款大模型拉进群聊，就能开一家 AI 公司了吗？",
@@ -173,6 +208,13 @@
     "date": "2026-08-19T10:58:27Z",
     "description": "「幺妹峰。」",
     "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "大家都想做 all in one 的东西",
+    "url": "https://versun.me/blog/tweet-2090014271526826319",
+    "date": "2026-08-19T09:53:27Z",
+    "description": "引用 感觉最近很多向我们自荐的开发者，普遍有一个误区： 因为 AI 的能力变强了，只要没有执念，分分钟写个 APP 然后觉得单一功能的产品，不够意思。 尤其是类似 X 件套 (TODO / 记账等) 同质化非常严重的产品。 于是，开发者就把好多没关联的功能，全部融合在一起， 再配上一个更宏大的概念。 希望进行「量大管饱」模式的包装，消费者就会买单。 感觉挺难的。 但也许我说的是错的。 大家都想做 all in one 的东西",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "26年8月的一些碎片",

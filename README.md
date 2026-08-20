@@ -29,6 +29,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | --- | --- | --- |
 | 2026-08-20 | [Introduction Finger](https://www.bboy.app/2026/08/20/introduction-finger/) | Introduction Today I stumbled on an article about the Finger protocol ( Finger: the 1971 social network that never died , written by Andros Fenollosa… |
 | 2026-08-20 | [介绍下Finger](https://www.bboy.app/2026/08/20/%E4%BB%8B%E7%BB%8D%E4%B8%8Bfinger/) | 简介 今天刷到一篇讲 Finger 协议的文章（ Finger: the 1971 social network that never died ，en.andros.dev 的 Andros Fenollosa 写的），才知道原来 1971 年就有社交网络了，而且我的 Mac 上一直自带它的客户端… |
+| 2026-08-20 | [deepseek harness 受害者](https://versun.me/blog/tweet-2090315040213926272) | deepseek harness 受害者+1 😂 DS 这步走的是险棋，想出奇制胜，通过共创插件，快速建立生态 但插件质量参差不齐，前后兼容性是个非常难解决的问题 所以，我的判断是，尽量不要直接用DSH，过段时间，看看有没有稳定的第三方整合维护的版本，这才是生产该用的，就像 Linux/Ubuntu… |
+| 2026-08-20 | [挺有意思的一个新的 AI 设计与开发平台](https://versun.me/blog/tweet-2090310807007752333) | 引用 Today, we're introducing OJO: The first Design Agent Team Workspace. Build your own design agent team, add specialized skills, and turn ideas into… |
 | 2026-08-20 | [过七夕](https://www.hecaitou.com/2026/08/spending-chinese-valentines-day.html) | 今年的七夕我没有感到什么节日气氛，可能是年纪到了，算法精了，知道推送节日促销消息给我是种浪费。一整天下来，只有麦当劳一家还在孜孜不倦地提醒我七夕到了，方法是在外卖袋子上附上了一条长达一米的打印纸条，内容是完整的一幅条漫：七夕了，带女朋友去吃麦乐堡吧。 相较而言，电话营销的精准度就要好很多。在七夕，我… |
 | 2026-08-20 | [最近惦念 20260727](https://z.arlmy.me/posts/TILs/thoughts/20260727_Recently/) | 「多用“似乎是的”，虚化掉一切试试看。」 |
 | 2026-08-20 | [LangBot 接入Netbox 配置查询机器人](https://songxwn.com/LangBot-Netbox-Tutorial/) | 前言 本教程用于使用LangBot，配置机器人、LLM接入、流水线、MCP接入等。 最终目的为在即时通信平台接入AI机器人，查询NetBox数据。并通过提示词整形和约束查询数据。 |
@@ -39,6 +41,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-20 | [Google Gemini AI Pro 又来了，可领取1年Pro套餐会员](https://www.cheshirex.com/10951.html) | Google Gemini AI Pro 又来了，上次领过的这次打开页面地址可以直接领。 领取地址 https […] |
 | 2026-08-20 | [gzsw-ui 生产白屏排查：CDN 将 SPA 兜底 HTML 缓存为 JS](https://199604.com/3652) | gzsw-ui 生产白屏排查：CDN 将 SPA 兜底 HTML 缓存为 JS 记录时间：2026-08-20 […] |
 | 2026-08-20 | [独树不成林，牛来人来疯](https://mobius.blog/25443.html) | 我们先猜一猜《牛来》的受众是哪些人？ 这里先埋个包袱——大概过几年，可能又会有人把这部电影翻出来，标题我都帮他 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-20 | [简单评测了下，依旧是围绕 nmem 的记](https://versun.me/blog/tweet-2090244557778911673) | 引用 本地模型又迎来一个挑战者：Ornith-1.5 简单汇总下评测数据，并和 Qwen3.8-27B 做个对比 @AlibabaQwen 学学人家，一开始就放出了 35B-A3B，你再不出，我可要叛逃到 Ornith 了🤓 https://twitter.com/ornith/status/209… |
+| 2026-08-20 | [本地模型又迎来一个挑战者：Ornith-](https://versun.me/blog/tweet-2090231764103135585) | 引用 Aloha! 🌺Introducing Ornith-1.5, a family of open-source LLMs spanning 9B Dense, 35B MoE, and 397B MoE, trained with self-improving strategies. It a… |
+| 2026-08-20 | [暂时还不能代替 screenpipe 或](https://versun.me/blog/tweet-2090228925570093269) | 引用 太好了，我之前一直用的 @screenpipe ，不是很好用， 今天试一试cua的！ https://twitter.com/trycua/status/2089770780053643397 暂时还不能代替 screenpipe 或者 chatgpt 的 computer history C… |
 | 2026-08-19 | [把五个同款大模型拉进群聊，就能开一家 AI 公司了吗？](https://www.kingname.info/2026/08/19/ai-office-multi-agent/) | 最近 AI 圈又流行起了一种很有未来感的产品形态：AI 办公室。 打开软件，左边是一排员工。产品经理 Alice，前端工程师 Bob，后端工程师 Charlie，设计师 David，QA Eve。每个人都有头像、职位、自己的记忆，甚至还有一份 SOUL.md ，规定性格、工作习惯和专业领域。 你扔进… |
 | 2026-08-19 | [Cloudflare R2 图床在微信公众号排版时的踩坑](https://macin.org/2026/08/19/r2-image-wechat/) | 阅读全文 → 结论先行 ：R2 图床在公众号裂图的真凶，不是水印、不是跨境、也不是 Workers 的 CPU 上限，而是 Worker 冷启动 + 实时图片处理管线 导致首请求超时。治本是「让公众号绕过 Worker，走 R2 原生直出」，同时用子域分流把水印保留给博客。本文复盘完整排查链路。 |
 | 2026-08-19 | [你就瞎活](https://z.arlmy.me/posts/Essays/2026/LiveLikeWind_20260819/) | 「你就瞎活。」 |
@@ -52,6 +57,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-19 | [入蜀记 day444 没有工位](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_444/) | 「没有工位。」 |
 | 2026-08-19 | [入蜀记 day443 打呼噜](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_443/) | 「打呼噜。」 |
 | 2026-08-19 | [Toots 432 2026 Aug.9 - Aug.15](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260815/) | 「幺妹峰。」 |
+| 2026-08-19 | [大家都想做 all in one 的东西](https://versun.me/blog/tweet-2090014271526826319) | 引用 感觉最近很多向我们自荐的开发者，普遍有一个误区： 因为 AI 的能力变强了，只要没有执念，分分钟写个 APP 然后觉得单一功能的产品，不够意思。 尤其是类似 X 件套 (TODO / 记账等) 同质化非常严重的产品。 于是，开发者就把好多没关联的功能，全部融合在一起， 再配上一个更宏大的概念。… |
 | 2026-08-19 | [26年8月的一些碎片](https://yovey.me/life-fragments-aug-2026-ver/) | 发现去年没写年中记，写的是一些碎片。恰好是去年今日。 前段时间妈妈打电话，分享说基本可以宣告病愈了，目前维持每 … Continue reading "26年8月的一些碎片" |
 | 2026-08-19 | [AI Infra：DuckDB v2.0 Preview 发布](https://luweiqing.com/gossip/AI-Infra-DuckDB-v2-0-Preview.html) | “the year of DuckDB as a server”，DuckDB 正在从“嵌入应用里的分析引擎”，扩展成“可以嵌入、可以独立运行、可以连接远端数据源、可以直接查询 Lakehous... |
 | 2026-08-19 | [AI Infra：光计算与光电混合算力芯片行业研究](https://luweiqing.com/resources/Photonic-electronic-hybrid-computing-chip.html) | 从光子矩阵计算到可部署 AI 加速器Sluke简版 &#124; 2026 年 8 月覆盖范围：光计算/光电混合芯片/板卡系统/软件栈/商业化路径注：企业性能数据无第三方复现时按企业口径记录。市场预测仅供... |
