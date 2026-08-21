@@ -70,6 +70,13 @@
     "source_root_domain": "lrd.im"
   },
   {
+    "title": "在新 Mac 上复刻我的终端环境",
+    "url": "https://jimmy-blog.vercel.app/posts/mac",
+    "date": "2026-08-21T00:00:00Z",
+    "description": "这是一份可复现的终端配置清单：Shell、终端应用、提示符主题、Zsh 插件与字体。方便换机或重装时恢复同样的终端体验。 你可以这样用本文： 1. 先读正文 — 了解会装什么、需要从旧机带什么。 2. 再复制给 Agent — 把「Agent 总指令」或分步代码块贴给 Cursor / Claude Code 等，在新机上按顺序执行。 3. 手动迁移外观...",
+    "source_root_domain": "jimmy-blog.top"
+  },
+  {
     "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
     "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
     "date": "2026-08-20T23:53:54Z",

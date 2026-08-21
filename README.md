@@ -37,6 +37,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-21 | [Kubernetes 探针（Probe）详解与生产环境配置实践](https://199604.com/3654) | Kubernetes 探针（Probe）详解与生产环境配置实践 记录时间：2026-08-20 环境：K8s […] |
 | 2026-08-21 | [烧饼论坛正式开业](https://u.sb/sb-sb/) | 折腾了一阵子，烧饼论坛终于开业啦，这是一个面向海外 IT 从业者和技术爱好者的社区论坛。 |
 | 2026-08-21 | [AI-Native 之路 —— 从 AI 友好型网站改造开始](https://lrd.im/blog/2026-08-21) | AI 改变了搜索范式，我从探索 Agent 阅读网页的方式开始，逐步让自己网站里的内容对 AI 更加开放、友好。 |
+| 2026-08-21 | [在新 Mac 上复刻我的终端环境](https://jimmy-blog.vercel.app/posts/mac) | 这是一份可复现的终端配置清单：Shell、终端应用、提示符主题、Zsh 插件与字体。方便换机或重装时恢复同样的终端体验。 你可以这样用本文： 1. 先读正文 — 了解会装什么、需要从旧机带什么。 2. 再复制给 Agent — 把「Agent 总指令」或分步代码块贴给 Cursor / Claude… |
 | 2026-08-20 | [科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 宁波的杭州湾海月剧场，原址是江边的废弃码头，被改建为古典园林。（ via ） 程序员的职业未来 程序员这… |
 | 2026-08-20 | [我们正在经历一场浪漫大萧条｜灵感电波 #135](https://www.linggandianbo.com/newsletter-135/) | 为什么想进入长期关系的人，反而越来越难遇见彼此；英伟达为何开始替客户找钱，算法又怎样把丰富的世界压成平均值。另有理解大模型的一条信息论路径，以及把复杂知识做成互动环境的学习方法。 |
 | 2026-08-20 | [学习周刊-总第277期-2026年第34周](https://wiki.eryajf.net/pages/5df013/) | 如要阅读全文，点击标题跳转。 学习周刊-总第277期 &#124; tiycode &#124; cube-pets-office &#124; helmor &#124; Gitnuro &#124; ptcpdump &#124; TokenTracker &#124; OtterHub &#124; reef |
