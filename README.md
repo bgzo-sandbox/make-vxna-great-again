@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-21 | [我从未爱过这个世界](https://honmaple.me/posts/2026/08/i-have-never-loved-this-world/) | 我貌似很少在网上分享我的生活，我的博客从建立起到现在已经快11年了，除了一些技术上的流水账之外，关于生活的记录可谓寥寥无几，即使有，也总是藏着掖着，生怕有人看出点什么。 可能是为了隐私，但我仔细想来，更多的可能是我根本就没有分享的欲望，小到看了一部电影，大到亲人离世，总是觉得生活中的琐事不值得记录，… |
+| 2026-08-21 | [烧饼论坛正式开业](https://u.sb/sb-sb/) | 折腾了一阵子，烧饼论坛终于开业啦，这是一个面向海外 IT 从业者和技术爱好者的社区论坛。 |
+| 2026-08-20 | [科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 宁波的杭州湾海月剧场，原址是江边的废弃码头，被改建为古典园林。（ via ） 程序员的职业未来 程序员这… |
+| 2026-08-20 | [我们正在经历一场浪漫大萧条｜灵感电波 #135](https://www.linggandianbo.com/newsletter-135/) | 为什么想进入长期关系的人，反而越来越难遇见彼此；英伟达为何开始替客户找钱，算法又怎样把丰富的世界压成平均值。另有理解大模型的一条信息论路径，以及把复杂知识做成互动环境的学习方法。 |
 | 2026-08-20 | [学习周刊-总第277期-2026年第34周](https://wiki.eryajf.net/pages/5df013/) | 如要阅读全文，点击标题跳转。 学习周刊-总第277期 &#124; tiycode &#124; cube-pets-office &#124; helmor &#124; Gitnuro &#124; ptcpdump &#124; TokenTracker &#124; OtterHub &#124; reef |
 | 2026-08-20 | [巴黎简游记](https://eduardoqian.com/archives/ba-li-jian-you-ji) | 8月12日到8月16日，在巴黎简单的旅游了一下，相比于上次去挪威的旅行，这次的旅游更多的倾向于传统意义上的旅游，去了那些巴黎著名的景点。 8月12日 —— 到达，日食，埃菲尔铁塔 哥德堡没有直接飞到巴黎的廉航，我是从哥本哈根飞到巴黎的。去哥本哈根是火车，于是我一大早就步行到火车站，乘坐3个小时的火车 |
 | 2026-08-20 | [无用命途：动态海景灯，用电脑说脏话](https://blog.mfwt.top/index.php/archives/1523/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。 |
@@ -237,25 +241,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-14 | [去日你自己吧](https://mobius.blog/25378.html) | 当然，标题是对“Go fuck yourself”的字面直译，实际上这句应该被翻译成“滚远点”。 我很喜欢看英 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-14 | [gemini 3.7 flash 也出来](https://versun.me/blog/tweet-2088054404809454022) | 引用 Introducing Gemini 3.7 Flash : ) - it is fast! - 50% lower price than 3.6 flash (through end of year) - strong intelligence increase in only ~3 wee… |
 | 2026-08-14 | [Starryblu：OCBC 还是舍不得丢掉中国用户啊](https://www.meettea.com/digital-refugee/starryblu.html) | 熊猫速汇做的 Starryblu，切到 SGD 充值会给你开一个同名新加坡 OCBC 账户。配合 Wise 可零费用实时转入，也能微信支付宝花、国内 ATM 取现。 |
-| 2026-08-13 | [学习周刊-总第276期-2026年第33周](https://wiki.eryajf.net/pages/630ab4/) | 如要阅读全文，点击标题跳转。 学习周刊-总第276期 &#124; Clauge &#124; clipmon &#124; Worklog &#124; Monica &#124; amytis &#124; CodingNS &#124; software_guard &#124; agent-island |
-| 2026-08-13 | [科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 浙江台州的椒江滨江公共空间生态绿廊，象征涟漪从水面蔓延，涌上岸边，堆积成丘。（ via ） 你需要知道的… |
-| 2026-08-13 | [这是我看过&lt;关于LLM是如何工作的](https://versun.me/blog/tweet-2088038009702940699) | 这是我看过 最直观的解释😂 |
-| 2026-08-13 | [内测结束了，聊聊 DeepSeek Harness 的使用体验](https://digua.moe/posts/20260813-dsh.html) | > > 我最大的感受是：如果只把 DSH 当成一个 Coding Agent，很容易低估它。 在 X 上看到崔天翼老师发的内测招募后，我带着 ChatLab 报了名，第二天晚上就收到了邀请 |
-| 2026-08-13 | [一把开不了门的钥匙](https://tianheg.co/posts/locked-out/) | 我住的地方比较特殊，是工业园区内部的宿舍楼，3 和 4 楼是公司宿舍，5 楼对外出租。我就住 5 楼。 |
-| 2026-08-13 | [今日站点异常流量的分析](https://blog.mfwt.top/index.php/archives/1526/) | 人家说，三天不打上房揭瓦，今天倒好，三天不更，就开始有什么东西来揭瓦了。真希望他们能明白，『短暂停更一段时间』的意思是笔者暂时不更新，去打游戏了，不代表我不看站点的运行情况，也不代表我不会分析流... |
-| 2026-08-13 | [兜底的代价](https://blog.solazy.me/20260813/) | 兜底到底会把自己兜成什么 |
-| 2026-08-13 | [从Vibe Coding到AI Agent：一个喂养系统的完整实践](https://imzlp.com/posts/84248/) | 今年对我来说是个非常意义重大的一年：我娃出生了。在新生的喜悦中，也不免有很多焦虑——总担心不能科学地喂养宝宝、有什么纰漏。在月子中心时，月嫂会比较规律的喂养信息记录——什么时间喝奶、睡了多久，几次大小便，有没有吃AD等，都会记录下来，可以追踪喂养状态。 但她们是通过纸笔记录，不够数字化。 当回家之后… |
-| 2026-08-13 | [ds harness 来啦来啦](https://versun.me/blog/tweet-2087888143542530371) | 引用 🧩 DeepSeek Harness v0.1 is now available in Developer Preview! 🔹 We’re opening it up to developers building agent harnesses worldwide and open-sour… |
-| 2026-08-13 | [黑群晖断电后无法启动：用 RR 引导无损恢复全记录](https://blog.hoopan.net/851.html) | 黑群晖因突发停电导致引导 U 盘损坏而无法启动，通过 RR 引导（RedPill-Rotor）重做引导盘，无损恢复原系统与数据的完整排查记录。 |
-| 2026-08-13 | [Memos: 博客添加了一个 /ping 路由](https://blog.yasking.org/a/1786613642) | 访问： https://blog.yasking.org/ping 国内返回「Served by EdgeOne CDN and sourced from Cloudflare Page.」，海外返回「Served by Cloudflare Pages.」 借助 EdgeOne 和 Cloudfl… |
-| 2026-08-13 | [立秋](https://www.jackpu.com/li-qiu-6/) | 今日立秋，自己却拔了牙齿； 本来不在计划之内的，但是看媳妇拔智齿恢复很轻松, 医生的建议可拔可不拔中选择了前者。 做的最正确的决定，就是拔牙前去体验了海底捞79元的午餐套餐，六荤三素，加麻辣的锅底。拔的的时候由于麻药的作用，感觉不到什么，直到几个小时候，才感觉到牙龈的疼痛。 其实拔牙最不好的体验，除… |
-| 2026-08-13 | [完成重构了，效果不错，比我预想中的要快很](https://versun.me/blog/tweet-2087819397251690746) | 引用 最近我让 Kimi K3 用 go 语言重构了我的博客系统 Rables，原先是用 Rails 写的，内存占用至少 500 MB 起，重构后，只有 16 MB 左右，不要太爽了 https://github.com/versun/rables 完成重构了，效果不错，比我预想中的要快很多，总共消… |
-| 2026-08-13 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.1 of the project |
-| 2026-08-13 | [Odamex updated](https://macsourceports.com/sourceport/odamex) | The build of Odamex for the DOOM engine series of games has been updated to version 12.3.0 of the project\n\nhttps://macsourceports.com/sourceport/oda… |
-| 2026-08-13 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.13.7 of the project |
-| 2026-08-13 | [怎样想决定了是个怎样的人](https://www.hecaitou.com/2026/08/Your-Thought-Is-Your-Mindset.html) | 关于人和人之间的巨大想法差异，有件事让我一直记忆犹新。那是十多年前的事情了，当时我有个创业项目刚刚出了一点点头，看起来非常有希望，就喜滋滋地去找一位前辈讨教，如何才能做大做成。 去到前辈家，他很耐心地听完我的做法和想法，却并没有直接回答我的问题，而是反问我：「你一直都在和我说如何做成，那你有没有考虑… |
-| 2026-08-13 | [当一只章鱼在一间全是镜子的房间会如何理解自己？](https://mobius.blog/25371.html) | 本着越不正经的标题聊越正经的话题，今天要开启一个需要花很长时间持续进行的话题。 本来之前还欠了一个“结构化拖延 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-13 | [看来昨晚的 ds 和 grok 还是给到](https://versun.me/blog/tweet-2087706688233332929) | 引用 Old news actually from a bunch of days ago, but crossed that 15M. Enjoy a nice reset everyone. Landing in the next hour or so, go /fast. 看来昨晚的 ds 和… |
 
 ## Vibe Coding
 
