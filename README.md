@@ -39,6 +39,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-20 | [我们正在经历一场浪漫大萧条｜灵感电波 #135](https://www.linggandianbo.com/newsletter-135/) | 为什么想进入长期关系的人，反而越来越难遇见彼此；英伟达为何开始替客户找钱，算法又怎样把丰富的世界压成平均值。另有理解大模型的一条信息论路径，以及把复杂知识做成互动环境的学习方法。 |
 | 2026-08-20 | [学习周刊-总第277期-2026年第34周](https://wiki.eryajf.net/pages/5df013/) | 如要阅读全文，点击标题跳转。 学习周刊-总第277期 &#124; tiycode &#124; cube-pets-office &#124; helmor &#124; Gitnuro &#124; ptcpdump &#124; TokenTracker &#124; OtterHub &#124; reef |
 | 2026-08-20 | [巴黎简游记](https://eduardoqian.com/archives/ba-li-jian-you-ji) | 8月12日到8月16日，在巴黎简单的旅游了一下，相比于上次去挪威的旅行，这次的旅游更多的倾向于传统意义上的旅游，去了那些巴黎著名的景点。 8月12日 —— 到达，日食，埃菲尔铁塔 哥德堡没有直接飞到巴黎的廉航，我是从哥本哈根飞到巴黎的。去哥本哈根是火车，于是我一大早就步行到火车站，乘坐3个小时的火车 |
+| 2026-08-20 | [Debian Linux 裸金属开局网络快速配置工具](https://songxwn.com/Debian-network-tui/) | 这篇教程将详细说明如何在裸金属服务器初始化时，通过 ISO 挂载并使用 Debian-network-tui 图形化快速完成网络配置，避免手工编辑 /etc/network/interfaces 的繁琐与错误。 还能自动化配置apt源、DNS、SSH服务+公钥导入 适用于Debian 11-13 使… |
 | 2026-08-20 | [连胜的陷阱](https://blog.solazy.me/20260820/) | 今天检讨一下断更这件事儿 |
 | 2026-08-20 | [无用命途：动态海景灯，用电脑说脏话](https://blog.mfwt.top/index.php/archives/1523/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。 |
 | 2026-08-20 | [丁达尔](https://mobius.blog/25454.html) | 小王闲来无事，看见远处的云层里透出了阳光，便停下脚步掏出手机开始拍照。 一个路人看见小王用手机拍照，便上前问道 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |

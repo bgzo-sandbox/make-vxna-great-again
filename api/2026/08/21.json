@@ -84,6 +84,13 @@
     "source_root_domain": "eduardoqian.com"
   },
   {
+    "title": "Debian Linux 裸金属开局网络快速配置工具",
+    "url": "https://songxwn.com/Debian-network-tui/",
+    "date": "2026-08-20T19:32:20Z",
+    "description": "这篇教程将详细说明如何在裸金属服务器初始化时，通过 ISO 挂载并使用 Debian-network-tui 图形化快速完成网络配置，避免手工编辑 /etc/network/interfaces 的繁琐与错误。 还能自动化配置apt源、DNS、SSH服务+公钥导入 适用于Debian 11-13 使用Go构建，单二进制文件无需任何依赖",
+    "source_root_domain": "songxwn.com"
+  },
+  {
     "title": "连胜的陷阱",
     "url": "https://blog.solazy.me/20260820/",
     "date": "2026-08-20T15:00:00Z",
