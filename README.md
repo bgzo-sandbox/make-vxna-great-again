@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-21 | [破圈的风险](https://www.hecaitou.com/2026/08/perils-breaking-bubble.html) | 如今的互联网基本上属于畜牧业，每个 App 圈养一群用户，App 之间切断通路，老死不相往来。于是，微博老登、虎扑直男、小红书群芳、朋友圈之交和直播间职业用爱发电家之间，人群特征差异很大，行为习惯差异很大，每日接触的信息差异也很大，圈圈不同。 以前说一个人在网上「火」了，意思是全平台都火。现在说一个… |
+| 2026-08-21 | [『周易』十条办公室处事之道](https://blog.zzbd.org/miao20260821/) | 「安而不忘危，存而不忘亡，治而不忘乱。」（《易·系辞》） ——顺利时也记得风险在，那就不会被眼前的小事吓乱阵脚。 |
 | 2026-08-21 | [骂人最脏的那句，也是骂自己最狠的那句](https://mobius.blog/25460.html) | 前两天收到一条没头没尾、也没有办法联系对方的匿名私信： 我一开始很想骂你，写了一半，发现你骂我的都对，我骂你的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-21 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
 | 2026-08-21 | [我从未爱过这个世界](https://honmaple.me/posts/2026/08/i-have-never-loved-this-world/) | 我貌似很少在网上分享我的生活，我的博客从建立起到现在已经快11年了，除了一些技术上的流水账之外，关于生活的记录可谓寥寥无几，即使有，也总是藏着掖着，生怕有人看出点什么。 可能是为了隐私，但我仔细想来，更多的可能是我根本就没有分享的欲望，小到看了一部电影，大到亲人离世，总是觉得生活中的琐事不值得记录，… |
@@ -37,6 +39,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-20 | [我们正在经历一场浪漫大萧条｜灵感电波 #135](https://www.linggandianbo.com/newsletter-135/) | 为什么想进入长期关系的人，反而越来越难遇见彼此；英伟达为何开始替客户找钱，算法又怎样把丰富的世界压成平均值。另有理解大模型的一条信息论路径，以及把复杂知识做成互动环境的学习方法。 |
 | 2026-08-20 | [学习周刊-总第277期-2026年第34周](https://wiki.eryajf.net/pages/5df013/) | 如要阅读全文，点击标题跳转。 学习周刊-总第277期 &#124; tiycode &#124; cube-pets-office &#124; helmor &#124; Gitnuro &#124; ptcpdump &#124; TokenTracker &#124; OtterHub &#124; reef |
 | 2026-08-20 | [巴黎简游记](https://eduardoqian.com/archives/ba-li-jian-you-ji) | 8月12日到8月16日，在巴黎简单的旅游了一下，相比于上次去挪威的旅行，这次的旅游更多的倾向于传统意义上的旅游，去了那些巴黎著名的景点。 8月12日 —— 到达，日食，埃菲尔铁塔 哥德堡没有直接飞到巴黎的廉航，我是从哥本哈根飞到巴黎的。去哥本哈根是火车，于是我一大早就步行到火车站，乘坐3个小时的火车 |
+| 2026-08-20 | [连胜的陷阱](https://blog.solazy.me/20260820/) | 今天检讨一下断更这件事儿 |
 | 2026-08-20 | [无用命途：动态海景灯，用电脑说脏话](https://blog.mfwt.top/index.php/archives/1523/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。 |
 | 2026-08-20 | [丁达尔](https://mobius.blog/25454.html) | 小王闲来无事，看见远处的云层里透出了阳光，便停下脚步掏出手机开始拍照。 一个路人看见小王用手机拍照，便上前问道 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-20 | [Introduction Finger](https://www.bboy.app/2026/08/20/introduction-finger/) | Introduction Today I stumbled on an article about the Finger protocol ( Finger: the 1971 social network that never died , written by Andros Fenollosa… |
