@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-22 | [Jenkins Vue 流水线构建 OOM（exit 137）复发的问题](https://199604.com/3657) | Jenkins Vue 流水线构建 OOM（exit 137）复发的问题 记录时间：2026-08-21 环境 […] |
+| 2026-08-22 | [错位的会员体系](https://blog.solazy.me/20260822/) | 这篇文章是我躺在临平万丽的床上写的 |
 | 2026-08-22 | [一副牌的惯蛋玩法](https://depp.wang/2026/guandan/) | 大侄子来到我家过暑假，我想提升一下他的逻辑思维能力，所以就一起打扑克。 打扑克的话，现在我们比较常玩的是「干瞪眼」，这是最开始只有五张牌的这种玩法，看谁先出完。但是这种玩法相对简单一点。 稍微复杂点的就是「斗地主」，但是只能三个人玩。我们有四个人，这种不太适合大家一起玩。 所以我想四个人怎么一起玩？… |
 | 2026-08-22 | [入蜀记 day450 正行亡私](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_450/) | 「正行亡私。」 |
 | 2026-08-22 | [入蜀记 day449 东北蓝调](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_449/) | 「东北蓝调。」 |
@@ -36,6 +38,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-22 | [我个人最欣赏的 AI 用法](https://www.hecaitou.com/2026/08/my-favorite-way-to-use-ai.html) | 关于 AI 的文章我已经写过太多了，但是今天还是想再写一篇。我知道，总是谈同一个话题容易让人觉得厌烦，所以不如这样：如果一看到 「AI 」这个词，你的第一反应是「听吐了」，或者「我对 AI 太熟了」，那么你大可以现在就关闭离开，因为接下来的内容对你毫无帮助。那么美好的周末，干点什么别的不成？ 还没有… |
 | 2026-08-22 | [感谢 Kimi 和 Go，早上给我的博客](https://versun.me/blog/tweet-2091018026091184560) | 感谢 Kimi 和 Go，早上给我的博客添加了 子域名跳转 的功能，一次就成，太方便了 |
 | 2026-08-22 | [“灵活就业即自由”言论背后的晚期资本主义特征与国家去责任化](https://prologue.dev/blog/the-characteristics-of-late-capitalism-and-state-disengagement-behind-the-claim-that-flexible-employment-equals-freedom) | 公民个体承担生命周期的所有成本，包括教育、生育、养老、医疗等。国家不再通过财政与再分配来保障个人，而是通过塑造竞争性主体来治理风险。 |
+| 2026-08-22 | [Python 潮流周刊#164：deepseek-harness 万物皆插件](https://pythoncat.top/posts/2026-08-22-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-08-22 | [2026年第33、34周](https://blog.sakoamc.com/posts/263334/) | 题记：二零二六年的第三十三、三十四周，无论阅读、重复、出行，在特殊的时机下都能产生启发。 |
 | 2026-08-22 | [Memos #2026-08-21](https://www.taober.blog/memos) | 11:00 好想吃老家的小笼包🤤 |
 | 2026-08-21 | [诺兰的《奥德赛》采取了什么样的改编策略？ III](https://www.geedea.pro/article/odyssey-3/) | 终于，我的奥德赛之旅也要结束了。《奥德赛》影评的最后一篇，我将审视诺兰给电影定下的不属于原典的主题，以及我为什么讨厌这个主题。尽管因为让黑人演员饰演海伦和雅典娜，让不少人觉得诺兰是个被政治正确洗脑的激进派，但诺兰的叙事其实相当保守和传统，甚至有些…… 大男子主义。诺兰的奥德修斯不是原典中的狡诈英雄，… |
