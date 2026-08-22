@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-08-22T01:10:34Z
-modified: 2026-08-22T01:10:34Z
+created: 2026-08-22T02:59:41Z
+modified: 2026-08-22T02:59:41Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,7 +11,7 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-08-22T01:10:34Z
+Generated at: 2026-08-22T02:59:41Z
 
 Total sources: 485
 Successful: 368
@@ -64,7 +64,7 @@ Failed: 117
 | Failed | [#284] V2EX › Selfboot AI Gallery | [https://gallery.selfboot.cn/rss.xml](https://gallery.selfboot.cn/rss.xml) | [Origin](https://www.v2ex.com/xna/s/284) | 0 | Client error '403 Forbidden' for url 'https://gallery.selfboot.cn/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#285] V2EX › 囚记 | [https://prisonlog.com/feed](https://prisonlog.com/feed) | [Origin](https://www.v2ex.com/xna/s/285) | 0 | [Errno -2] Name or service not known |
 | Failed | [#288] V2EX › 随机探测 | [https://pingx.sh/feed/](https://pingx.sh/feed/) | [Origin](https://www.v2ex.com/xna/s/288) | 0 | The read operation timed out |
-| Failed | [#290] V2EX › 王小嗨的不老歌 | [https://sogola.eth.sucks/index.xml](https://sogola.eth.sucks/index.xml) | [Origin](https://www.v2ex.com/xna/s/290) | 0 | The read operation timed out |
+| Failed | [#290] V2EX › 王小嗨的不老歌 | [https://sogola.eth.sucks/index.xml](https://sogola.eth.sucks/index.xml) | [Origin](https://www.v2ex.com/xna/s/290) | 0 | Client error '404 Not Found' for url 'https://sogola.eth.sucks/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#294] V2EX › BlessingCR | [https://blessingcr.com/?feed=rss2](https://blessingcr.com/?feed=rss2) | [Origin](https://www.v2ex.com/xna/s/294) | 0 | [Errno -3] Temporary failure in name resolution |
 | Failed | [#2] V2EX › 枫言枫语 | [https://justinyan.eth.limo/planet.json](https://justinyan.eth.limo/planet.json) | [Origin](https://www.v2ex.com/xna/s/2) | 0 | feed parse error |
 | Failed | [#301] V2EX › 飞刀博客 | [https://www.feidaoboke.com/feed.php](https://www.feidaoboke.com/feed.php) | [Origin](https://www.v2ex.com/xna/s/301) | 0 | _ssl.c:1064: The handshake operation timed out |

@@ -178,7 +178,7 @@
     "title": "我就简单了， 用 kimi code 集",
     "url": "https://versun.me/blog/tweet-2090359252254949735",
     "date": "2026-08-20T08:44:17Z",
-    "description": "引用 你们觉得 AI 审查过九遍就够了吗？其实还是会发现问题： https://twitter.com/skywind3000/status/2089560587374371130 我就简单了， 用 kimi code 集群 + goal 模式，审查代码并修复直到没有问题为止，完了",
+    "description": "LIN WEI 你们觉得 AI 审查过九遍就够了吗？其实还是会发现问题： https://twitter.com/skywind3000/status/2089560587374371130 我就简单了， 用 kimi code 集群 + goal 模式，审查代码并修复直到没有问题为止，完了",
     "source_root_domain": "versun.me"
   },
   {
@@ -192,7 +192,7 @@
     "title": "挺有意思的一个新的 AI 设计与开发平台",
     "url": "https://versun.me/blog/tweet-2090310807007752333",
     "date": "2026-08-20T05:31:47Z",
-    "description": "引用 Today, we're introducing OJO: The first Design Agent Team Workspace. Build your own design agent team, add specialized skills, and turn ideas into product strategy, PRDs, interactive prototypes, and launch-ready designs on one editable canvas. Desi 挺有意思的一个新的 AI 设计与开发平台，分享个邀请码：OJO-MDTAM37V8T https://ojo.art/",
+    "description": "OJO Today, we're introducing OJO: The first Design Agent Team Workspace. Build your own design agent team, add specialized skills, and turn ideas into product strategy, PRDs, interactive prototypes, and launch-ready designs on one editable canvas. Desi 挺有意思的一个新的 AI 设计与开发平台，分享个邀请码：OJO-MDTAM37V8T https://ojo.art/",
     "source_root_domain": "versun.me"
   },
   {
@@ -269,21 +269,21 @@
     "title": "简单评测了下，依旧是围绕 nmem 的记",
     "url": "https://versun.me/blog/tweet-2090244557778911673",
     "date": "2026-08-20T01:08:32Z",
-    "description": "引用 本地模型又迎来一个挑战者：Ornith-1.5 简单汇总下评测数据，并和 Qwen3.8-27B 做个对比 @AlibabaQwen 学学人家，一开始就放出了 35B-A3B，你再不出，我可要叛逃到 Ornith 了🤓 https://twitter.com/ornith/status/2090074077084127302 简单评测了下，依旧是围绕 nmem 的记忆整理进行，结果如图2 比qwen 3.6-35b-a3b 聪明，但输出不稳定，指令遵循不稳定，还是不能生产用",
+    "description": "Versun 本地模型又迎来一个挑战者：Ornith-1.5 简单汇总下评测数据，并和 Qwen3.8-27B 做个对比 @AlibabaQwen 学学人家，一开始就放出了 35B-A3B，你再不出，我可要叛逃到 Ornith 了🤓 https://twitter.com/ornith/status/2090074077084127302 简单评测了下，依旧是围绕 nmem 的记忆整理进行，结果如图2 比qwen 3.6-35b-a3b 聪明，但输出不稳定，指令遵循不稳定，还是不能生产用",
     "source_root_domain": "versun.me"
   },
   {
     "title": "本地模型又迎来一个挑战者：Ornith-",
     "url": "https://versun.me/blog/tweet-2090231764103135585",
     "date": "2026-08-20T00:17:41Z",
-    "description": "引用 Aloha! 🌺Introducing Ornith-1.5, a family of open-source LLMs spanning 9B Dense, 35B MoE, and 397B MoE, trained with self-improving strategies. It achieves state-of-the-art performance among open-source models of comparable size and delivers performa 本地模型又迎来一个挑战者：Ornith-1.5 简单汇总下评测数据，并和 Qwen3.8-27B 做个对比 @Alibaba_Qwen 学学人家，一开始就放出了 35B-A3B，你再不出，我可要叛逃到 Ornith 了🤓",
+    "description": "Ornith Aloha! 🌺Introducing Ornith-1.5, a family of open-source LLMs spanning 9B Dense, 35B MoE, and 397B MoE, trained with self-improving strategies. It achieves state-of-the-art performance among open-source models of comparable size and delivers performa 本地模型又迎来一个挑战者：Ornith-1.5 简单汇总下评测数据，并和 Qwen3.8-27B 做个对比 @Alibaba_Qwen 学学人家，一开始就放出了 35B-A3B，你再不出，我可要叛逃到 Ornith 了🤓",
     "source_root_domain": "versun.me"
   },
   {
     "title": "暂时还不能代替 screenpipe 或",
     "url": "https://versun.me/blog/tweet-2090228925570093269",
     "date": "2026-08-20T00:06:25Z",
-    "description": "引用 太好了，我之前一直用的 @screenpipe ，不是很好用， 今天试一试cua的！ https://twitter.com/trycua/status/2089770780053643397 暂时还不能代替 screenpipe 或者 chatgpt 的 computer history Cua Computer History 只采集 agent 经 Cua Driver 发起的动作，并不是全桌面的活动，价值不是很高",
+    "description": "Versun 太好了，我之前一直用的 @screenpipe ，不是很好用， 今天试一试cua的！ https://twitter.com/trycua/status/2089770780053643397 暂时还不能代替 screenpipe 或者 chatgpt 的 computer history Cua Computer History 只采集 agent 经 Cua Driver 发起的动作，并不是全桌面的活动，价值不是很高",
     "source_root_domain": "versun.me"
   }
 ]
