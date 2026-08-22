@@ -27,7 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
-| 2026-08-22 | [一副牌的惯蛋玩法](https://depp.wang/2026/guandan/) | 大侄子来到我家过暑假，我想提升一下他的逻辑思维能力，所以就一起打扑克。 打扑克的话，现在我们比较常玩的是「干瞪眼」，这是最开始只有五张牌的这种玩法，看谁先出完。但是这种玩法相对简单一点。 稍微复杂点的就是斗地主，但是只能三个人玩。我们有四个人，这种不太适合大家一起玩。 所以我想四个人怎么一起玩？开始… |
+| 2026-08-22 | [一副牌的惯蛋玩法](https://depp.wang/2026/guandan/) | 大侄子来到我家过暑假，我想提升一下他的逻辑思维能力，所以就一起打扑克。 打扑克的话，现在我们比较常玩的是「干瞪眼」，这是最开始只有五张牌的这种玩法，看谁先出完。但是这种玩法相对简单一点。 稍微复杂点的就是「斗地主」，但是只能三个人玩。我们有四个人，这种不太适合大家一起玩。 所以我想四个人怎么一起玩？… |
 | 2026-08-22 | [入蜀记 day450 正行亡私](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_450/) | 「正行亡私。」 |
 | 2026-08-22 | [入蜀记 day449 东北蓝调](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_449/) | 「东北蓝调。」 |
 | 2026-08-22 | [入蜀记 day448 大学同学相识20周年](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_448/) | 「大学同学相识20周年。」 |
