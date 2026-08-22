@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-22 | [一副牌的惯蛋玩法](https://depp.wang/2026/guandan/) | 大侄子来到我家过暑假，我想提升一下他的逻辑思维能力，所以就一起打扑克。 打扑克的话，现在我们比较常玩的是「干瞪眼」，这是最开始只有五张牌的这种玩法，看谁先出完。但是这种玩法相对简单一点。 稍微复杂点的就是斗地主，但是只能三个人玩。我们有四个人，这种不太适合大家一起玩。 所以我想四个人怎么一起玩？开始… |
+| 2026-08-22 | [入蜀记 day450 正行亡私](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_450/) | 「正行亡私。」 |
+| 2026-08-22 | [入蜀记 day449 东北蓝调](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_449/) | 「东北蓝调。」 |
+| 2026-08-22 | [入蜀记 day448 大学同学相识20周年](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_448/) | 「大学同学相识20周年。」 |
+| 2026-08-22 | [入蜀记 day447 辽宁大厦](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_447/) | 「辽宁大厦。」 |
 | 2026-08-22 | [丁达尔 II](https://mobius.blog/25466.html) | 小王因为掏出手机拍夕阳的丁达尔现象，结果被路人“抓了个正着”，此时此刻他还真的被扭送去了派出所。 “你们干嘛？ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-22 | [我个人最欣赏的 AI 用法](https://www.hecaitou.com/2026/08/my-favorite-way-to-use-ai.html) | 关于 AI 的文章我已经写过太多了，但是今天还是想再写一篇。我知道，总是谈同一个话题容易让人觉得厌烦，所以不如这样：如果一看到 「AI 」这个词，你的第一反应是「听吐了」，或者「我对 AI 太熟了」，那么你大可以现在就关闭离开，因为接下来的内容对你毫无帮助。那么美好的周末，干点什么别的不成？ 还没有… |
 | 2026-08-22 | [感谢 Kimi 和 Go，早上给我的博客](https://versun.me/blog/tweet-2091018026091184560) | 感谢 Kimi 和 Go，早上给我的博客添加了 子域名跳转 的功能，一次就成，太方便了 |
