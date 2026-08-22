@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-22 | [Memos #2026-08-21](https://www.taober.blog/memos) | 11:00 好想吃老家的小笼包🤤 |
 | 2026-08-21 | [诺兰的《奥德赛》采取了什么样的改编策略？ III](https://www.geedea.pro/article/odyssey-3/) | 终于，我的奥德赛之旅也要结束了。《奥德赛》影评的最后一篇，我将审视诺兰给电影定下的不属于原典的主题，以及我为什么讨厌这个主题。尽管因为让黑人演员饰演海伦和雅典娜，让不少人觉得诺兰是个被政治正确洗脑的激进派，但诺兰的叙事其实相当保守和传统，甚至有些…… 大男子主义。诺兰的奥德修斯不是原典中的狡诈英雄，… |
 | 2026-08-21 | [成为阿森纳球迷最好的时机就是现在（2026-2027）](https://cbvivi.today/episodes/pl2627) | 一年一度的足球播客，祝大家新赛季观赛愉快，度过充实的一年。 视频版本明天发，Come on Arsenal! 所有事实错误都是我在故意乱说，旨在引起你的注意。 我做的 app 了解一下：cbvivi.app |
 | 2026-08-21 | [稳住心态，日日修身](https://blog.zzbd.org/miao20260821-2/) | ☯︎乾卦 「潜龙勿用。」（初九） 字面：龙还潜在水底，不宜妄动。 心态：实力还在积蓄期，别急着出风头，先把自己练扎实。 |
@@ -167,7 +168,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-19 | [房主任塌人筑房](https://mobius.blog/25428.html) | 当一个女人被塑造成被包办婚姻捆绑，因为生不出儿子被重男轻女的婆婆欺负，不仅如此，还被好吃懒做的无业游民丈夫家暴 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-19 | [人间颜色](https://blog.zzbd.org/miao202608/) | 🪽秋院闲步 这几日天渐凉了，心里也像被秋风扫过似的，空落落的，却又说不出是什么滋味。午后无事，便披了件薄衫，踱到屋后那座小园子里去。 |
 | 2026-08-19 | [AI 协作项目的文档管理模式](https://xujinkai.net/posts/how-to-structure-docs-for-ai-coding) | 博文经常更新，请移步主站查看🫡 在AI开发的年代，文档工程是越来越重要了。 过去的项目代码主要由人编写，项目目标到实现细节都在人脑子里，只要记性好，你几乎不需要写文档。 现在很多代码都是由AI来完成，程序员的角色逐渐往产品经理走，文档成了另一种编程语言，而实现代码成了某种“汇编”，文档如何组织就越来… |
-| 2026-08-19 | [Memos #2026-08-18](https://www.taober.blog/memos) | 20:42 陈雯雯接不接受那次的晚餐邀约，结局都是注定的，不喜欢这种极其主观的情感，怎么能扭转的过来。诺诺的生日祝福短信也是一样，只是给了路明非更多的念想，自己心里跟清楚，那些都是不切实际的奢望。 在一个合适的时机，用合适的理由结束了，其实挺好。路明非保留了他的窝囊与体面，也不用再掩饰什么，只是从来… |
 | 2026-08-18 | [Sweep LLM 功耗控制调度策略研究(一)](https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-yi) | 8月份了，趁着开学之前，抽时间整理一下暑假做的Reasearch Assistant的工作内容整理。 研究内容 现状 项目主要是基于博士后做的SWEEP-LLM runtime 调度器的进一步扩展。这个调度器尝试解决的问题是在PD分离的异构GPU混合集群上，调度传入请求，使请求能够在满足TTFT/T |
 | 2026-08-18 | [不该露怯的人](https://blog.solazy.me/20260818/) | 今天想聊聊「露怯」这个词 |
 | 2026-08-18 | [2026.8.18](https://www.justzht.com/2026-8-18/) | 八月中旬了，原本要把 J 出庭的故事补完的，但没啥时间写，因此流水账也跟着拖了，还是优先流水账，J 的故事 |
@@ -233,27 +233,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-15 | [这才是我的 Qwen 嘛，本地部署 Op](https://versun.me/blog/tweet-2088424069603680550) | 引用 Performance of Qwen3.8-27B: 这才是我的 Qwen 嘛，本地部署 Opus 4.6 性能的模型，还要啥自行车 mac mini m4 pro 64G 关掉thinking，实测 12 tokens/s |
 | 2026-08-15 | [Python 潮流周刊#163：在浏览器上运行 Numba](https://pythoncat.top/posts/2026-08-15-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-08-15 | [HSBC汇丰澳洲宣布关闭，2%返现要凉了](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/08/15/hsbc-australia-will-close-soon-no-more-cashback.html) | 7月底的时候，我收到了一封来自HSBC Australia的邮件： |
-| 2026-08-14 | [克兰奇杀妻案](https://re.karlbaey.top/articles/return-to-dusk/the-clench-wife-murder-case/) | The Clench Wife-Murder Case, or Stitches, whatever. 1 四月刚把大门 … |
-| 2026-08-14 | [DeepSeek Harness 论文《时空可组合性编程范式》中文白话](https://nigzu.com/deepseek-harness-cordis-programming-paradigm-spatiotemporal-composability-plain-explanation/) | DeepSeek 开源的智能体产品 deepseek-harness 采用“一切皆插件”的架构，其中核心插件框架 Cordis 的思想来自同期论文 《A Programming Paradigm for Spatiotemporal Composability》 |
-| 2026-08-14 | [听艾怡良深圳演唱会](https://tianheg.co/posts/eve-ai-shenzhen-2026/) | 今天虽然是周六，但是也上了八小时班。到了晚上还有工作的事情找来，让人不胜其烦。本来看演唱会是很开心的事情，因为工作这种喜悦的情绪被削弱了。应援棒的灯光让我担心自己的眼睛会被闪瞎，实际也的确让我的眼睛不舒服。 |
-| 2026-08-14 | [AI&#124;大模型智力测试,鹈鹕SVG生成](https://programnotes.cn/ai-test-v2/index.html) | simonwillison 最先提出的测试方案,提示词: Generate an SVG of a pelican riding a bicycle </blockquot |
-| 2026-08-14 | [第一次走进互联网](https://www.tortorse.com/archives/first-step-into-the-internet/) | 上一篇的故事，停在那个没有从学校 286 屏幕里跑出来的马里奥上。 |
-| 2026-08-14 | [逻辑自洽不等于事实完整](https://blog.solazy.me/20260814/) | 今天是一篇自省文 |
-| 2026-08-14 | [当 AI 让人不再相信工作｜灵感电波 #134](https://www.linggandianbo.com/newsletter-134/) | AI 为什么先动摇了知识工作者对职业的信仰；一位小说家怎样利用机器的错误重获创作乐趣。另有一万步的真实来源、神经可塑性的自我提升神话，以及 20 个值得存下的 YouTube 视频。 |
-| 2026-08-14 | [在 WSL2 中使用 Bitwarden SSH Agent](https://guchengf.me/blog/bitwarden-ssh-agent-on-wsl2/) | Bitwarden 桌面客户端可以充当 SSH Agent，让 SSH 私钥保存在 Bitwarden 保险库中，而不是直接存放在 ~/.ssh 目录。 在 Windows 中启用 Bitwarden SSH Agent 后，PowerShell 可以直接使用其中的密钥。但 WSL2 中的 Linu… |
-| 2026-08-14 | [cndota 打的什么鬼东西啊，像是在打](https://versun.me/blog/tweet-2088204000407834772) | cndota 打的什么鬼东西啊，像是在打人机的心态，对面应该也感觉像打人机吧😂 第一天就全军覆没，唉，老人打不动，新人不愿打，cndota要断层了🤕 |
-| 2026-08-14 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
-| 2026-08-14 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
-| 2026-08-14 | [SkyWalking 每日写入 ES 数据量过大排查与降采样](https://199604.com/3646) | SkyWalking 每日写入 ES 数据量过大排查与降采样 记录时间：2026-08-13 环境：dyck […] |
-| 2026-08-14 | [GLM-5.3 发布了，基座模型和 GL](https://versun.me/blog/tweet-2088145366592192969) | 引用 Introducing GLM-5.3: Built to Code. Ready for Cyber Defense. - Top-tier coding and agentic capabilities, achieved through post-training on the 743B… |
-| 2026-08-14 | [灵魂插件 MCP](https://kaix.in/2026/0814/) | 最近咖啡馆工作依然忙碌，身体上倒完全适应，但是越来越觉得费神。对我而言，身体上放松的方式不是躺下，而是摆弄花花草草，继续劳作，晚上睡个好觉。精神上则是看看让自己愉快的书，或者捡起随手丢在一边的废弃代码让脑子换个运转的方向。 所以这几天，在我三米高的琴叶榕底下，折腾出来一个「甄仁岛灵魂插件」。简单说，… |
-| 2026-08-14 | [什么都不想做的时候](https://www.hecaitou.com/2026/08/when-you-feel-like-doing-nothing.html) | 人就是会有这样的时候，什么都不想做，但又没有严重到需要求医问药的程度。自己也觉得这样下去会是个麻烦，可也不知道有什么办法解除。于是就上网跑来问我，而我只能回答说：人就是会有这样的时候。 用我自己为例，看起来一年三百六十五天都在更新，有时候还不止一篇，很勤奋很充实很有韧性的样子。只有我自己最清楚，一年… |
-| 2026-08-14 | [Memos: DeepSeek 在我的轻量使用场景下 API 价格涨幅近 4 倍](https://blog.yasking.org/a/1786674900) | 我把过去 30 天的 DeepSeek 账单让 AI 分析，整理出在我的使用场景下的成本结构，缓存命中 96.88%、缓存未命中 2.55%、输出 0.56%，圆整成 … |
-| 2026-08-14 | [清风与明月](https://hux.ink/posts/aliveness/) | 最近愈发意识到自己管理能力的欠缺，找来一本《硬核晋升》读。作者 Julie Zhuo 曾任 Facebook 产品设计副总裁，她在序言中提到，自己有一个自我教育的办法：写博客。 我知道我早上起床的时候是谁，但是我想我这一天下来一定是变了很多回了，在未来的某天，我想象着自己回顾自己写的所有帖子，可以好… |
-| 2026-08-14 | [Memos: 博客支持 LaTeX 数学公式渲染](https://blog.yasking.org/a/1786673760) | 给博客加了 LaTeX 数学公式支持，方案是 KaTeX + 构建时预渲染为静态 HTML，语法为 $...$ / $$...$$ ，这里记录几个示例。 行内公式 正文里插入公式不用 … |
-| 2026-08-14 | [去日你自己吧](https://mobius.blog/25378.html) | 当然，标题是对“Go fuck yourself”的字面直译，实际上这句应该被翻译成“滚远点”。 我很喜欢看英 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-14 | [gemini 3.7 flash 也出来](https://versun.me/blog/tweet-2088054404809454022) | 引用 Introducing Gemini 3.7 Flash : ) - it is fast! - 50% lower price than 3.6 flash (through end of year) - strong intelligence increase in only ~3 wee… |
-| 2026-08-14 | [Starryblu：OCBC 还是舍不得丢掉中国用户啊](https://www.meettea.com/digital-refugee/starryblu.html) | 熊猫速汇做的 Starryblu，切到 SGD 充值会给你开一个同名新加坡 OCBC 账户。配合 Wise 可零费用实时转入，也能微信支付宝花、国内 ATM 取现。 |
 
 ## Vibe Coding
 
